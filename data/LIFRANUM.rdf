@@ -1,0 +1,2750 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="https://masiwakomor.com/fr-km/culture/2019-01-17/la-redemption-des-iguanes-est-une-veritable-foire-un-souk-ou-chacun-peut-trouver">
+        <dc:title>« La  Rédemption des Iguanes est une véritable foire. Un souk où chacun peut trouver sa sauce » | Masiwa komori</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/DrMohamedAHMEDBACAR?fref=search&amp;__tn__=%2Cd%2CP-R&amp;eid=ARBxm1RoMYMy23WaBgrOHpTL-3SgWm9U_n2nYTRILBwBFfF7C6BMwv5fRR4_v6NZ4SwkbjatT-w94mMT">
+       <dc:title>Mohamed Ahmed Bacar</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/channel/UC6O3XzimhMR9buKJdhQzABQ">
+        <dc:title>Chaine Youtube de Mohamed Ahmed Bacar Rezida</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Mohamed Ahmed Bacar Rezida</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://patpantin.over-blog.com/">
+        <dc:title>Le blog de Monique MERABET</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>MERABET, Monique</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:978-2-7483-2456-3">
+        <dc:title>Livre</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>admin@publibook</dc:creator>
+        <dc:rights>https://www.publibook.com/</dc:rights>
+        <dc:publisher>https://www.publibook.com/</dc:publisher>
+        <dc:date>2018-05-28 07:25:47</dc:date>
+        <dc:identifier>ISBN 978-2-7483-2456-3</dc:identifier>
+        <dc:coverage>World</dc:coverage>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.leseditionsdunet.com/roman/4029-le-combat-des-feux-marc-gregoire-9782312041872.html">
+        <dc:title>Le Combat des Feux - Les Éditions du Net</dc:title>
+        <dc:type>book</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/yusuf-kadel/">
+       <dc:title>Yusuf Kadel</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://terreaciel.free.fr/table/farandole.htm">
+        <dc:title>Terre à ciel - La grange des poètes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="URL">
+        <dc:title>Interview Yusuf Kadel</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>ouvrages, Umar Timol View all posts Umar Timol est l’auteur de quelques</dc:creator>
+        <dc:creator>roman, sans doute littéraires Il n’arrive pas toujours à se prendre au sérieux mais il prend l’écriture au sérieux Son avant-dernier</dc:creator>
+        <dc:creator>Roman, Qui Est Aussi Son Premier</dc:creator>
+        <dc:creator>théâtre, s’intitule ‘Le journal d’une vieille folle’ et il ne désespère pas d’en faire une pièce de</dc:creator>
+        <dc:date>2017-01-29</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/kadel/">
+        <dc:title>Yusuf Kadel</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-05-22T04:39:27+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.sitaudis.fr/Apparitions/poeme.php">
+        <dc:title>Poème par Yusuf Kadel, les apparitions sur Sitaudis.fr</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.yusufkadel.com">
+       <dc:title>Yusuf Kadel poète mauricien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://larencore.blogspot.com/2015/11/le-poete-mauricien-anil-rajendra-gopal.html">
+        <dc:title>LARENCORE: Le poète mauricien Anil Rajendra GOPAL rend un émouvant hommage à sa mère, SHANTEE.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Laranco, Patricia</dc:creator>
+        <dc:date>jeudi 12 novembre 2015</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/phjotopoesie/">
+       <dc:title>Umar Timol - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.indereunion.net/IREV/timol/visagetitre.htm">
+        <dc:title>Visage et autres poèmes - Umar Timol</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.francopolis.net/rubriques/gueuledemotsumartimol.html">
+        <dc:title>Gueule de mots : Umar Timol, juin 2005</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/timol/">
+        <dc:title>Umar Timol</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2005-02-09T16:19:20+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/torabully/">
+        <dc:title>Khal Torabully</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2005-11-19T14:17:15+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=GPbgE_7X3E8">
+        <dc:title>Interview exclusif de Démétrius Anunda concernant son nouveau livre, Mam'zelle Blanche</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Yano</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://insomniesetartpostal.blogspot.com/">
+        <dc:title>INSOMNIES ET ART POSTAL</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Robèr, André</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=3d-Wt9_dt38">
+        <dc:title>Alain Gordon Gentil / J'attendrai la fin du monde</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>edjulliard</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.laislasocialclub.com/le-lab/alain-gordon-gentil-il-y-a-toujours-dans-la-tete-des-mauriciens-l-envie-d-aller-voir-ailleurs-">
+        <dc:title>Alain Gordon-Gentil: “Il y a toujours, dans la tête des mauriciens, l'envie d’aller voir ailleurs”</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/agordongentil/about/?ref=page_internal">
+        <dc:title>Alain Gordon-Gentil - À propos</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/gordon-gentil/">
+        <dc:title>Alain Gordon-Gentil</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2012-01-26T22:18:04+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://patrimages.over-blog.com/article-23341430.html">
+        <dc:title>VINOD RUGHOONUNDUN</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>ANANDA</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/rughoonundun/">
+        <dc:title>Vinod Rughoonundun</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-04-16T21:48:46+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://koze.mu/decouvrir/in-bed-with/jean-georges-prosper/">
+        <dc:title>Interview | In bed with... Jean-Georges Prosper | KOZE | Magazine kiltir opozé</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2017-03-12T06:00:17+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/www.revedemuse.livre/">
+       <dc:title>Selmy Accilien poète</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.lechasseurabstrait.com/revue/spip.php?rubrique1389">
+        <dc:title>blog auteur Gaspard Dorélien</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>Mamadou Sow, poète sénégalais</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pages/category/Writer/Zirem-Youcef-%C3%A9crivain-110708562316266/">
+        <dc:title>Zirem Youcef écrivain - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/748152593994625024">
+        <dc:title>أشعلوا في قلوبنا النيران بسياستهم المتعفنة ثم قرروا منع التدخين ليكسروا عظام كل من يصدر من جوارحه طيف دخان.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016T06:54</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/683176661953724416">
+        <dc:title>Pauvre Abdelmalek Sellal ! la famille Ait Ahmed refuse de lui serrer la main à l'aéroport. Le peuple le chasse de l'enterrement.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016-01-01T22:43</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/ameslay/status/1069880471880941568">
+        <dc:title>Le deuxième homme de l’État marginalisé : la probable raison ! https://ameslay.com/2018/12/le-deuxieme-homme-de-letat-marginalise-la-probable-raison/ …pic.twitter.com/D6YOOMKg2x</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Ameslay</dc:creator>
+        <dc:date>2018T01:05</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/ameslay/status/1068158417045458945">
+        <dc:title>Le deuxième frère de Bouteflika et Ali Haddad à la réunion Gouvernement-Wali : la dangereuse connexion https://ameslay.com/2018/11/le-deuxieme-frere-de-bouteflika-et-ali-haddad-a-la-reunion-gouvernement-wali-la-dangereuse-connexion/ …pic.twitter.com/wtYZoDtNCz</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Ameslay</dc:creator>
+        <dc:date>2018-11-29T07:03</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/668050003961737216">
+        <dc:title>Voici comment en finir avec l'islamisme radicalhttp://bit.ly/1laTTaE</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-21T04:55</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/1067859437107453953">
+        <dc:title>Abdelaziz Bouteflika s'est pratiquement exprimé pour un 5ème mandat https://ameslay.com/2018/11/abdelaziz-bouteflika-sest-pratiquement-exprime-pour-un-5eme-mandat/ … via @ameslay</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2018-11-28T11:15</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/665552046691454976">
+        <dc:title>Un musicien Algérien du nom de Didine Sahbi est parmi les victimes des attentas de  Paris.pic.twitter.com/7AvksrBd0r</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-14T07:29</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/707462132242194433">
+        <dc:title>le hic est que les mardi, on ne travaille pas les après midi</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016-03-08T23:04</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/896976558602293248">
+        <dc:title>Check out 'Free Light Leaks Pack' by #CreativeDojo, the place for #AfterEffects &amp; #Cinema4D training and resources.http://creativedojo.net/free-light-leaks-pack/ …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2017T23:07</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/ameslay/status/1070649463348346880">
+        <dc:title>Amouri Laroussi : Le soutien de Bouteflika à Biskra qui importe les ordures https://ameslay.com/2018/12/amouri-laroussi-le-soutien-de-bouteflika-a-biskra-qui-importe-les-ordures/ …pic.twitter.com/yWlghzulPf</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Ameslay</dc:creator>
+        <dc:date>2018T04:01</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/666685273737175041">
+        <dc:title>BLa grosse bavure médiatique de Beur TV. Un jeune livré par la chaine au lynchage à Oranhttps://www.facebook.com/video.php?v=742822282514436&amp;pnref=story …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-17T10:32</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/666662778439081984">
+        <dc:title>Amine Ibn Moubarak , architecte et enseignant, rallonge la liste des victimes Algériennes mortes à Parispic.twitter.com/oEubZDRaZi</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-17T09:02</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/749067471051776000">
+        <dc:title>ماذا وراء طأطأة راس أردوغان أمام بوتين ؟ http://amoudhor.e-monsite.com/blog/-/2-1.html</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016T19:29</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/665565707418103808">
+        <dc:title>Les Algeriens : nous sommes la France !http://bit.ly/1HPPPlh</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-14T08:23</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/748110516460064768">
+        <dc:title>Contrairement à nous, les Généraux ont désormais une une retraite spécifique : c'est la retraite sonore !</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016T04:07</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/665591779798949888">
+        <dc:title>La dernière fois où Paris a connu un grand massacre, c'était en octobre 1961 lorsque des milliers d'Algériens ont été jetés à la Seine.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-14T10:07</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/665595666077495296">
+        <dc:title>Le gouvernement Français savait que les attentats auront lieu. La preuve avec l'image https://www.facebook.com/Rassdmaroc/videos/1250357284976230/?pnref=story …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2015-11-14T10:22</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/707460942767001601">
+        <dc:title>Il a oublié que mardi, journée de la femme ou de débiles comme lui, y a pas cours après midi !https://twitter.com/Fmetaoui/status/707358975839358977 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016-03-08T23:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/710923803141001216">
+        <dc:title>Chakib Khelil a remis ses pieds en Algérie. Et bientôt, il va remettre ses mains dans le sac. Patience !</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016-03-18T13:20</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mtertag/status/748108270506774528">
+        <dc:title>في مثل هذا اليوم من عام 1992، تمت قي مدينة عنابة مراسيم دفن وطن أغتيل صبيحة يوم 26 ديسمبر 1957 بالمغرب. رحم الله الشهيدين محمد بوضياف و عبان</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Tertag, Moussa</dc:creator>
+        <dc:date>2016T03:58</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/1011009726912581639">
+        <dc:title>En prison pour une interview:Merzouk Touati est condamné a 7 ans de prison pr &quot;délit&quot; d expression comme Slimane Bouhafs l a été pr &quot;délit&quot; de croyance. Triste et révoltant.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2018T15:14</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/918534624803983360">
+        <dc:title>Une vente dédicace de mon roman &quot;Le retour d'Ibn Toumert&quot; aura lieu le 29 oct au stand de l'ANEP( pavillon central-Safex) à partir de 14h30.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2017-10-12T10:51</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/923964175944167425">
+        <dc:title>Vente- dédicace de mon recueil de nouvelles LA FEMME DE PIERRE le 28 oct a partir de 10h a la maison de la culture d'Ahl Leqsar.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2017-10-27T10:26</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/khaleddrareni/status/908306310801903622">
+        <dc:title>&quot;Le voile est un choix de soumission, c'est une pression sociale, identitaire et communautaire&quot;, Kamel Daoud @Europe1 #Algérie #Maghrebpic.twitter.com/4blpBABYeg</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Drareni, Khaled</dc:creator>
+        <dc:date>2017-09-14T05:27</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/1107720188894629888">
+        <dc:title>Les attaques ont changé de direction, la cible n'est plus le système en priorité.On redouble de férocité contre des militants qui ont prouvé depuis lgtemps leur compétence,leur lucidité politique,leur engagement: Sadi,Bouchachi,Assoul,Tabou.Mais on sait qui est derrière le viseur</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2019-03-18T12:07</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/1116371632765927424">
+        <dc:title>&quot;Aujourd'hui, le cri d'un citoyen est plus audible que le bruit d'un canon&quot;. Said Sadi</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2019T09:05</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/1116372469051527169">
+        <dc:title>Le peuple algérien d aujourd'hui n est pas celui du temps de Cap Sigli. Recourir à  la vieille lune de la main étrangère  pour justifier le maintien du systeme est une insulte a l intelligence de notre jeunesse. Il vous faut une mise à jour. Changez aussi vos sonotones.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2019T09:08</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/907210800535932929">
+        <dc:title>Le café littéraire de Haizer m'a accueilli le 9 sept. La rencontre,autour de mon recueil &quot;la femme de pierre&quot; a connu un formidable succès.pic.twitter.com/rJte6SEWER</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2017-09-11T04:54</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/911872857541627904">
+        <dc:title>Je passe sur radio Bouira mercredi 27 septembre de 18h15 a 19h à l occasion de la sortie de mon livre &quot;La femme de pierre&quot;.pic.twitter.com/C8nDzaTV9v</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2017-09-24T01:40</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/923963176122712065">
+        <dc:title>Vente-dedicace de mon dernier roman LE RETOUR D'IBN TOUMERT le 29 oct a partir de 14h30 au stand de l'ANEP- Sila. Safexpic.twitter.com/O04oDGxllU</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2017-10-27T10:22</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/SlimaneSaadoun/status/1024707863220957184">
+        <dc:title>Mon roman &quot;le retour d'Ibn Toumert &quot; compte parmi les 10 titres présélectionnés pour le prix Mohamed Dib 2018.pic.twitter.com/tXxzGRS1KC</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Saadoun, Slimane</dc:creator>
+        <dc:date>2018T10:26</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/FaudelSlim/">
+       <dc:title>Faudel Slim - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/magazine.livrescq?__tn__=%2CdC-R-R&amp;eid=ARATFIQx75_eYCNKvFRL4cYka1KLqfhwMwe_CxyaVR2aoBc9pEuRGj2ie_GxsXCPm4U1QPfysCRuEsRI&amp;hc_ref=ARR3PBJH0BC44704PGc9iVnXd4t9DuEUrxiybUqZlmUDmLcVGcCZiFBZ5J9RGK_8dbQ&amp;fref=nf">
+       <dc:title>Nadia Sebkhi</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.leila-sebbar.fr/">
+        <dc:title>Leïla Sebbar. Journal d'une femme à sa fenêtre suites 26-61</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://malika-madi.blogspot.com/2013/10/femmes-entre-lettres-pensees-et-arts.html">
+        <dc:title>Louis Ferdinand Céline et les femmes, Le vitriol comme arme de vengeance</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://malika-madi.blogspot.com/2012/06/lecture-publique-dar-el-amal.html">
+        <dc:title>Louis Ferdinand Céline et les femmes, Le vitriol comme arme de vengeance, Femmes entre Lettres, Pensées et Arts.</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://malika-madi.blogspot.com/2012/11/agenda-litterature-101212-rencontre.html">
+        <dc:title>Louis Ferdinand Céline et les femmes, Le vitriol comme arme de vengeance, Femmes entre Lettres, Pensées et Arts.</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://malika-madi.blogspot.com/2012/11/letincelle-qui-embrasa-le-monde.html">
+        <dc:title>Louis Ferdinand Céline et les femmes, Le vitriol comme arme de vengeance, Femmes entre Lettres, Pensées et Arts.</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://malika-madi.blogspot.com/2013/06/il-est-encore-possible-dy-participer.html">
+        <dc:title>Louis Ferdinand Céline et les femmes, Le vitriol comme arme de vengeance, Femmes entre Lettres, Pensées et Arts.</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1079310820444696576">
+        <dc:title>Djamel Mati au Bastion 23 HOUARI dimanche, 30 décembre 2018 Devant une salle pleine, le romancier a parlé de sa dernière fiction dont la toile de fond rappelle les essais nucléaires français dans le Sahara algérien peu avant l’indépendance. Une œuvre qu’il considère comme un...pic.twitter.com/CjDpZRV88k</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2018T01:38</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1094500705774252032">
+        <dc:title>Le Temps, 27/01/2019 par K.A.pic.twitter.com/CFYOa2ZCL8</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T23:37</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1090323771456610305">
+        <dc:title>https://lnkd.in/g4EfGcK</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019-01-29T11:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/PCTofficiel/status/1097514588743045120">
+        <dc:title>Merci Alhassane pour ton énergie positive. https://twitter.com/alhassane_sall/status/1097513133323763713 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Temps, Pendant Ce</dc:creator>
+        <dc:date>2019T07:14</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1065954922716377088">
+        <dc:title>Caracas, 12-11-2018 : Conférence-débat au &quot; Salón Rojo &quot; Public et Ernesto Villegas Ministre de la Culture ; Ghaouti Ben Moussat Ambassadeur de l'Algérie au Venezuela; l’Ambassadeur de la R.A. Sahraouie D. Mohamed-Salem Daja et Le ministre des Relations l’Afrique, Yuri Pimente.pic.twitter.com/TAtuzjdVWT</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2018-11-23T05:07</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1108297967721693184">
+        <dc:title>à la librairie Cheikh « Multi-livres », Tizi Ouzoupic.twitter.com/QcAtmn4GHu</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019-03-20T02:23</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1118580900374171649">
+        <dc:title>Algérie: Ensemble! pour une Algérie nouvelle - Sign the Petition! http://chng.it/N4qWdtdw  via @Change</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T11:24</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1095247803658485761">
+        <dc:title>« SENTIMENTS IRRADIÉS » DE Djamel Mati... et pour quelques doses de plus de radium dans le Tanezrouft PAR Jacqueline Brenotpic.twitter.com/Z12057C4nU</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T01:06</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1085810083269828610">
+        <dc:title>Rencontre-débat avec le public et dédicaces au Point Virgule, Rue des Abattoirs 10, Chéraga. https://goo.gl/maps/fGyUq8vCdL62 …pic.twitter.com/a5kTmm37Uh</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019-01-17T00:04</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1095334507559903233">
+        <dc:title>Djamel Mati Les soleils noirs de la «Gerboise bleue» - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique valeur sur http://lesoirdalgerie.com https://www.lesoirdalgerie.com/culture/les-soleils-noirs-de-la-gerboise-bleue-18813 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T06:51</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1069832998869262336">
+        <dc:title>&quot;sentiments irradiés&quot; : disponible dans toutes les bonnes librairies.pic.twitter.com/AjtueDOpVv</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2018T21:57</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1077462671010729984">
+        <dc:title>Palais des Rais (Bastion 23) Boulevard Amara Mohamed Rachid, Casbahpic.twitter.com/XooQr4SD2J</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2018T23:14</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1081481632350158848">
+        <dc:title>Tizi Ouzou, le samedi 13-12-2018. Au salon de Djurdjura du livre, à la Bibliothèque Principale, une rencontre autour de la littérature et l’écriture romanesque avec le public et de très jeunes écrivain(e)s en herbe.  Des moments de partages rafraichissants.pic.twitter.com/ei1DnH4y9I</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019-01-05T01:24</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1089428205923110912">
+        <dc:title>En collaboration avec l'Institut Français d'Alger, la Librarie Mauguin reçoit le jeudi 31/01 à partir de 18h, S Bouanane (prof de litt) et Djamel Mati (écrivain) . Thème :   «Face aux crises du présent agir pour demain, une Matière à penser». Autour du roman &quot;sentiments irradiés&quot;pic.twitter.com/U18FCXP17V</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019-01-26T23:41</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1091626643855237120">
+        <dc:title>Jeudi 31 janvier. Librairie Mauguin, avec Soumeya Bouanane, Souhila Lounissi et un public connaisseur, réactif. A toutes et à tous, merci pour ces moments.pic.twitter.com/jAYkJrk1xJ</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T01:17</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/PCTofficiel/status/1097482201665544194">
+        <dc:title>Masquer les coups vs se protéger des coups... #Violence #femmes #selfdefensepic.twitter.com/JmahQvXpAz</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Temps, Pendant Ce</dc:creator>
+        <dc:date>2019T05:05</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1109767653734924288">
+        <dc:title>Lettre ouverte à vous, l’«Avenir». À toutes et à tous. Filles et garçons, jeunes ou moins jeunes, je dis, bien sûr, un grand grand bravo. Vous avez rendu le sourire aux...pic.twitter.com/GBgh5TYr6D</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019-03-24T03:43</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1113849187102281728">
+        <dc:title>Voilà ce que peut faire une Algérienne! Cette femme est entrée deux fois dans l'Histoire (1956, 2019). Elle a accompagné l'Algérie et son vaillant peuple jusqu'à leur vraie indépendance. Un combat de plus de 63 années. Il faut que toute la planète le sache!  Merci et respects D.Bpic.twitter.com/oTkyXTux2j</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T10:01</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/djamelmati/status/1116234140423204866">
+        <dc:title>«Faisons de ces dates de nouvelles balises lumineuses pour éclairer la Nouvelle Algérie»pic.twitter.com/0Pc8eq3Z7W</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>mati, djamel</dc:creator>
+        <dc:date>2019T23:58</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://koroghli.free.fr/index.php?lng=fr&amp;tconfig=0">
+        <dc:title>le site web de Ammar Koroghli</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/yasminakhadraofficielle/">
+       <dc:title>Yasmina Khadra - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://wwwjohablogspotcom-kaouah.blogspot.com/2018/02/chronique-des-2rives.html">
+        <dc:title>Joha: Chronique des 2Rives</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Kaouah</dc:creator>
+        <dc:date>jeudi 22 février 2018</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://wwwjohablogspotcom-kaouah.blogspot.com/2018/02/chronique-des-2rives-le-paradoxe-malek.html">
+        <dc:title>Joha: Chronique des 2Rives LE PARADOXE MALEK HADDAD</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Kaouah</dc:creator>
+        <dc:date>jeudi 22 février 2018</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://wwwjohablogspotcom-kaouah.blogspot.com/2018/08/dix-ans-apres-mahmoud-darwich-ou-le.html">
+        <dc:title>Joha: DIX ANS APRES: MAHMOUD DARWICH OU LE TROYEN TRIOMPHANT</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Kaouah</dc:creator>
+        <dc:date>samedi 18 août 2018</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/amarnath-hosany-jespere-apporter-ma-modeste-contribution-pour-valoriser-le-patrimoine-culturel-de-lile-maurice-9934/">
+        <dc:title>Amarnath Hosany : &quot;J'espère apporter ma modeste contribution pour valoriser le patrimoine culturel de l'île Maurice&quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:date>2011-02-06T17:02:42+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/rawat_kader">
+        <dc:title>kader rawat (@rawat_kader) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youscribe.com/catalogue/livres/litterature/romans-et-nouvelles/une-femme-ambitieuse-tome-3-une-femme-d-affaire-2508319">
+        <dc:title>Une femme ambitieuse. Tome 3 : Une femme d'affaire</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>YouScribe</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.lexpress.mu/article/337021/corinne-fleury-latelier-nomades-il-faut-reveiller-et-mobiliser-pour-promouvoir">
+        <dc:title>Corinne Fleury de l’Atelier des nomades: «Il faut se réveiller et se mobiliser pour promouvoir la lecture»</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Turenne, Christine</dc:creator>
+        <dc:date>2018-08-11T23:55:00+04:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.nocomment.mg/ronny-rengasamy-plus-de-sous-mais-heureux/">
+        <dc:title>Ronny Rengasamy :</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2015-01-08T07:48:06+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://snaypipluma.simplesite.com/436716316">
+       <dc:title>poète haïtien multisupport</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://ranouraii.wordpress.com/">
+        <dc:title>°Une goutte d'eau dans l'océan°</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://avarapatana.mondoblog.org/installons-discutons/">
+        <dc:title>Blog auteure</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Ianjatiana</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/blackvanila">
+        <dc:title>WeLoveWords - La communauté en ligne des auteurs-rédacteurs</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Blackvanila</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/bolmouss">
+        <dc:title>WeLoveWords - La communauté en ligne des auteurs-rédacteurs</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Bolly, Moussa</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/wanito">
+        <dc:title>WeLoveWords - La communauté en ligne des auteurs-rédacteurs</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Wanito</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.scribay.com/author/915602906/auby88">
+       <dc:title>Profil de Auby88 | Scribay</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.wattpad.com/user/MamzelleDupon">
+        <dc:title>nobody (@MamzelleDupon) - Wattpad</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>MamzelleDupon</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://joubertjoseph.blogspot.com/">
+        <dc:title>blog de poète</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Joubert, Joseph</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://raynaldoplouis.over-blog.com/">
+        <dc:title>blog d'écrivain avec autres écrivains</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Raynaldo, Pierre-Louis</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://petercenas-com.over-blog.com/">
+        <dc:title>blog de poète</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Cénas, Peter</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://desfleursetdespoemes.wordpress.com/">
+       <dc:title>blog de poésie</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://cocksgeorges.jimdo.com/">
+        <dc:title>cocks georges ecrivain-poète-romancier Guadeloupeen, biographie</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Cocks, Georges</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/La-po%C3%A9sie-de-TOLI-905199502872617/?fref=nf">
+       <dc:title>poésie facebook</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/ebepol">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Bouchet, Emmanuel</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/lettresdor">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Lettresd'or</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/edwige-laurier">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Laurier, Edwige</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/kavi-amulya-hendy">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Amulya-Hendy, Kavi</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/terosse">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Terosse</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/emma-dlr">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Emma Dlr</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/missdrama">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Missdrama</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n0">
+        <dc:title>Vidéo Chanson</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>House, Muzdalifa</dc:contributor>
+        <dc:date>2014-06-21T06:22:26-04:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/angypoeme/posts/">
+        <dc:title>page Facebook d'une poétesse togolaise</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/crepin.gbocho?fref=ufi&amp;rc=p">
+        <dc:title>Page Facebook d'un poète ivoirien</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://albertaoussine.over-blog.com/">
+        <dc:title>Ecrivain camerounais (philosophe et poète) vivant en Europe de l'Est</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/attoumani/">
+        <dc:title>Nassur Attoumani</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-05-16T13:10:20+00:00</dc:date>
+        <dc:title>Nassur Attoumani</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-05-16T13:10:20+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.balistrad.com/article/blog/balistrad-haiti-actualite/culture/litterature/">
+        <dc:title>Site d'information indépendant avec beaucoup de littérature</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/Snayder-Pierre-louis-490246301143248/posts/">
+       <dc:title>page facebook de poésie</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://magiepoetique.blogspot.com/">
+        <dc:title>blog avec oeuvres diverses</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>blog d'écrivain haïtien. Considéré comme revue</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://controversehaiti.org/">
+       <dc:title>littérature et philosophie</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/nelsyfr">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Safaïssou, Nelson</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/lilisamifie">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Ravelomanantsoa, Salimo</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://feuillesonge.re/">
+        <dc:title>Bienvenue sur le site des éditions Feuille Songe</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/whits">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Whits</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/search?utf8=%E2%9C%93&amp;item_type=User&amp;language=fr&amp;user_type_ids=7&amp;q=cameroun&amp;commit=Rechercher&amp;order=followed">
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>WeLoveWords.com</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://majead-at.blogspot.com/">
+       <dc:title>DES MOTS MAN'S LAND</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://entteletre.blogspot.com/">
+       <dc:title>En toute l'être</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://doyouwantmaure.blogspot.com/">
+       <dc:title>Do You Want Maure ?</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.artmajeur.com/fr/majead-art-felinat/artworks/galleries/1621687/dernieres-oeuvres">
+        <dc:title>Dernières Œuvres - Art'felinat</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Art'felinat, 2019 Artmajeur Galerie d'Art en ligne /</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/stevegadet?lang=fr">
+        <dc:title>Steve GADET aka Fola (@SteveGadet) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.maxedinval.fr/">
+       <dc:title>Max EDINVAL ?</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/doris">
+       <dc:title>WeLoveWords.com</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/dorisdumabin?lang=fr">
+        <dc:title>Doris DUMABIN Auteure (@DorisDUMABIN) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=SonBXC63lUI">
+        <dc:title>5  Poesie Claude Danican</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Eliane lien</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ascodela.over-blog.com/">
+        <dc:title>Association ASCODELA</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>ASCODELA, Association</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://ordesiles.com/category/culture/litterature-evenements_culturels-culture/page/2/">
+       <dc:title>Littérature | l'Or des Îles</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ecrivainsdelacaraibe.com/Congres-2011/invites-2eme-edition.html">
+        <dc:title>Liste des auteurs et personnalités littéraires invités au 5è Congrès | Congrès | Congrès international des écrivains de la Caraïbe</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://librairienumeriqueafricaine.com/">
+        <dc:title>Librairie Numérique Africaine | Librairie Numérique Africaine</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://survie.org/auteur/patrice-nganang">
+       <dc:title>Patrice Nganang - Survie</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.cairn.info/revue-poesie-2016-3-page-75.htm">
+        <dc:title>Patrice Nganang poète</dc:title>
+        <dc:type>journalArticle</dc:type>
+        <dc:creator>Nganang, Patrice</dc:creator>
+        <dc:creator>Delas, Daniel</dc:creator>
+        <dc:date>2016</dc:date>
+        <dc:identifier>ISSN 0152-0032</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/nganang">
+        <dc:title>Patrice Nganang (@nganang) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=fOSjdFG4tWo">
+        <dc:title>Cameroun:  Patrice Nganang, Interview qui fait froid au Dos et laisse le Journaliste Bouche B</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Ndoh-chi BUZZ</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.jeuneafrique.com/505869/politique/patrice-nganang-pour-le-moment-je-suis-juste-en-exil/">
+        <dc:title>Patrice Nganang : « Pour le moment, je suis juste en exil »</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2018-01-03T08:27:04+0000</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://information.tv5monde.com/afrique/patrice-nganang-c-est-une-violence-francophone-qui-s-abat-sur-la-region-243990">
+        <dc:title>Patrice Nganang : &quot;C'est une violence francophone qui s'abat sur la région&quot;</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2018-06-16T12:29:39+02:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/patrice.nganang/posts/2093724310703814">
+       <dc:title>Patrice Nganang -Facebook</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Liste_d%27%C3%A9crivains_malgaches&amp;oldid=148520632">
+        <dc:title>Liste d'écrivains malgaches</dc:title>
+        <dc:type>encyclopediaArticle</dc:type>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:date>2018-05-16T11:49:56Z</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Liste_d%27%C3%A9crivains_camerounais&amp;oldid=156717669">
+        <dc:title>Liste d'écrivains camerounais</dc:title>
+        <dc:type>encyclopediaArticle</dc:type>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:date>2019-02-13T17:30:04Z</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://verbafricana.org/series-information.html">
+        <dc:title>Verba Africana Digital Materials — Mali: Malinke (Maninkakan) — Introduction</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.universiteitleiden.nl/en/research/research-projects/humanities/african-oral-literatures-new-media-and-technologies">
+        <dc:title>African Oral Literatures, new media and technologies</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.potomitan.info/atelier/pawol/alexandre.php">
+        <dc:title>Alfred ALEXANDRE - «Bord de Canal»</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.madinin-art.net/le-bar-des-ameriques-par-alfred-alexandre/">
+        <dc:title>« Le bar des Amériques » par Alfred Alexandre | Madinin-art Critiques Culturelles de Martinique</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://aica-sc.net/2013/03/12/les-matadors-de-marc-marie-joseph-par-alfred-alexandre/">
+        <dc:title>Les Matadors de Marc Marie-Joseph par Alfred Alexandre | Aica Caraïbe du Sud</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/alfred-alexandre-la-nuit-au-bout-du-voyage-9365/">
+        <dc:title>Alfred Alexandre : la nuit au bout du voyage</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:creator>Barlet, Olivier</dc:creator>
+        <dc:date>2010-03-17T11:03:35+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.liberation.fr/france/2009/03/12/a-la-martinique-robocops-et-vieux-demons_545375">
+        <dc:title>A la Martinique, Robocops et vieux démons - Libération</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://culturebox.francetvinfo.fr/livres/entretien-avec-alfred-alexandre-auteur-des-villes-assassines-53647">
+        <dc:title>Entretien avec Alfred Alexandre auteur des « Villes assassines »</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=QIQVKJqXBg0">
+        <dc:title>MIGANN'ART 21</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Vianney Sotès</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.revues-plurielles.org/php/index.php?nav=revue&amp;no=1&amp;sr=2&amp;no_article=11743">
+        <dc:title>Association des Revues Plurielles (ARP) - Africultures : Liste des articles publiés</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=3uJ0hQsISVQ">
+        <dc:title>Alfred Alexandre</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Editions Archipel</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/alfred-alexandre-5-questions-pour-ile-en-ile/">
+        <dc:title>Alfred Alexandre, 5 Questions pour Île en île</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2013-02-16T22:47:19+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/alfred-alexandre-bord-de-canal/">
+        <dc:title>Alfred Alexandre, Bord de canal</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2013-02-16T22:37:28+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.dailymotion.com/video/x1185jx">
+        <dc:title>Un dhikri pour nos morts - Vidéo dailymotion</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.dailymotion.com">
+        <dc:title>dailymotion - Explorez et regardez des vidéos en ligne</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/results?search_query=mbouga+sarr">
+       <dc:title>mbouga sarr - YouTube</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.jeuneafrique.com/auteurs/mm.sarr/">
+        <dc:title>L’actualité vue par Mohamed Mbougar Sarr, Auteur à JeuneAfrique.com</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.lemonde.fr/afrique/article/2017/03/31/mohamed-mbougar-sarr-l-ecrivain-qui-colle-a-la-peau-de-la-litterature_5103939_3212.html">
+        <dc:title>Mohamed Mbougar Sarr, l’écrivain qui colle à la peau de la littérature</dc:title>
+        <dc:type>newspaperArticle</dc:type>
+        <dc:date>2017-03-31</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.ipj.news/demain-dakar/2018/06/26/mohamed-mbougar-sarr-la-litterature-doit-avoir-lambition-de-reflechir-aux-tabous-a-defaut-de-les-briser/">
+        <dc:title>Mohamed Mbougar Sarr : « La littérature doit réfléchir aux tabous, à défaut de les briser »</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2018-06-26T17:27:30+01:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.agence-presse-k.fr/entretien-avec-le-laureat-du-prix-ahmadou-kourouma/">
+        <dc:title>Entretien avec le Lauréat du prix Ahmadou-Kourouma</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Foko, Michel Tagne</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.cameroonvoice.com/news/article-news-19286.html">
+        <dc:title>Entretien avec Mohamed Mbougar Sarr</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.seneplus.com/culture/la-double-promesse">
+        <dc:title>QUAND LE DÉCOLONIALISME DÉPEND ENCORE TROP DU COLONIALISME</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2017-12-22T17:43:54+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/je-suis-engage-dans-le-point-virgule-12951/">
+        <dc:title>&quot;Je suis engagé dans le point-virgule&quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Chalu, Marie-Julie</dc:creator>
+        <dc:creator>Chalendar, Gérard</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2015-05-05T11:05:08+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/Ememesss?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+        <dc:title>Mbougar (@Ememesss) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=ZGbioDfBozw">
+        <dc:title>Rencontre avec Mohamed Mbougar SARR, lauréat du Prix 2018</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Palais de la Porte Dorée</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://chosesrevues.over-blog.com/">
+        <dc:title>Choses revues. - La Littérature au lieu de la Vie.</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://blogs.mediapart.fr/theatre-divry/blog/121018/au-sujet-des-visas-du-coelacanthe-et-du-spectacle-obsessions">
+        <dc:title>Critique Mediapart Pièce</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>D'Ivry, Théâtre</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://lejsd.com/content/s%C5%93uf-elbadawi-%C3%A0-l%E2%80%99%C3%A9coute-de-la-ville">
+        <dc:title>Article sur - Journal de Saint Denis</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.habarizacomores.com/2011/12/soeuf-elbadawi-le-demon-de-larchipel.html">
+        <dc:title>Article - Soeuf Elbadawi, le démon de l'archipel des Comores</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.lacauselitteraire.fr/la-rage-entre-les-dents-soeuf-elbadawi">
+        <dc:title>Critique  - La rage entre les dents, Soeuf Elbadawi</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/moteur-de-recherche/">
+        <dc:title>Articles sur Africultures.com</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Hassan, Fathate Karine</dc:creator>
+        <dc:creator>Hab, Mohamed A.</dc:creator>
+        <dc:creator>Mohamed, Anssoufouddine</dc:creator>
+        <dc:creator>Djoubeire, Irchad Ousseine</dc:creator>
+        <dc:creator>Jaffar, Said Hassane</dc:creator>
+        <dc:creator>Doucouré, Samba</dc:creator>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Hassan, Fathate Karine</dc:creator>
+        <dc:creator>Amédée, Anglade</dc:creator>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Tervonen, Taina</dc:creator>
+        <dc:creator>Tervonen, Taina</dc:creator>
+        <dc:creator>Chalaye, Sylvie</dc:creator>
+        <dc:creator>Carré, Nathalie</dc:creator>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Hab, Mohamed A.</dc:creator>
+        <dc:creator>Ranaivoson, Dominique</dc:creator>
+        <dc:creator>Sadai, Célia</dc:creator>
+        <dc:creator>Diao, Claire</dc:creator>
+        <dc:creator>Kwa, Samuel (Samy) Nja</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:creator>Barlet, Olivier</dc:creator>
+        <dc:creator>Arnaud, Gérald</dc:creator>
+        <dc:creator>Arnaud, Gérald</dc:creator>
+        <dc:creator>Raharimanana, Jean-Luc</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:creator>Raharimanana, Jean-Luc</dc:creator>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://editions-komedit.com/2018/09/10/soeuf-elbadawi/">
+        <dc:title>Présentation éditeur</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2018-09-10T14:26:02+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://revueprojectiles.com/tag/soeuf-el-badawi/">
+        <dc:title>Article revue - PROJECT-îles</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.jamaislu.com/?attachment_id=960">
+        <dc:title>Présentation festival - Jamais Lu – Sœuf Elbadawi</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.franceinter.fr/personnes/soeuf-elbadawi">
+       <dc:title>Emission - France Inter</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://data.bnf.fr/fr/14045987/soeuf_elbadawi/">
+       <dc:title>DataBNF - Soeuf Elbadawi</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/un-dhikri-pour-nos-morts-la-rage-entre-les-dents-de-soeuf-elbadawi-11695/">
+        <dc:title>Critiquelivre</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Chalu, Marie-Julie</dc:creator>
+        <dc:creator>Chalendar, Gérard</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2013-07-21T17:07:13+00:00</dc:date>
+        <dc:title>Critiquepièce</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.rfi.fr/afrique/20130703-comores-Soeuf-Elbadawi-pleure-morts-mur-Balladur">
+        <dc:title>Critique pièce Soeuf Elbadawi pleure les morts du «mur Balladur» - RFI</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.lesrencontresalechelle.com/2015/artiste/elbadawi/">
+        <dc:title>Présentation festival - Elbadawi | Les Rencontres à l'échelle – Festival pluridisciplinaire international à Marseille</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.lesrencontresalechelle.com/">
+        <dc:title>Les Rencontres à l'échelle – Festival pluridisciplinaire international à Marseille</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.ventsdailleurs.fr/index.php/les-auteurs/item/soeuf-elbadawi">
+       <dc:title>Soeuf Elbadawi -page éditeur</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://sceneweb.fr/obsessions-de-soeuf-elbadawi/">
+        <dc:title>Critique ThéâtreObsession(s) de Soeuf Elbadawi</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Heluin, Anaïs</dc:creator>
+        <dc:date>2018-11-10T08:45:18+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.rfi.fr/france/20180223-theatre-soeuf-elbadawi-alfortville-obsessions-lune-migrants-comores">
+        <dc:title>Critique_théâtre</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2018-02-23T13:15:55+01:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.babelio.com/auteur/Soeuf-Elbadawi/273873">
+       <dc:title>Soeuf Elbadawi - Babelio</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.lesfrancophonies.fr/Soeuf-Elbadawi">
+       <dc:title>presentation_festival</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/personnes/">
+        <dc:title>Elbadawi - Africultures</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:title>Personnes</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.babelio.com/auteur/Mohamed-Toihiri/316240">
+       <dc:title>Mohamed Toihiri</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Mohamed_Toihiri&amp;oldid=150019518">
+        <dc:title>Mohamed Toihiri</dc:title>
+        <dc:type>encyclopediaArticle</dc:type>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:date>2018-07-02T13:41:54Z</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/mohamed-toihiri-la-femme-et-le-repas-familial/">
+        <dc:title>Mohamed Toihiri, « La femme et le repas familial »</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2003-04-14T05:08:34+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/mohamed-toihiri-le-volcan-guerisseur/">
+        <dc:title>Mohamed Toihiri, « Le volcan guérisseur »</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2003-04-14T05:07:32+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Nassur_Attoumani&amp;oldid=154715012">
+        <dc:title>Nassur Attoumani</dc:title>
+        <dc:type>encyclopediaArticle</dc:type>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:date>2018-12-11T20:29:02Z</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=Soeuf_Elbadawi&amp;oldid=153577874">
+        <dc:title>Soeuf Elbadawi</dc:title>
+        <dc:type>encyclopediaArticle</dc:type>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:date>2018-11-01T12:56:16Z</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://muzdalifahouse.com/category/livre/">
+       <dc:title>Livre – Muzdalifa House</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=Ee880Hs4fAE&amp;feature=youtu.be">
+        <dc:title>comores le bal des mercenaires de Aboubacar Said Salim edition komedit</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>washkom</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=KmHf7hA36hU&amp;feature=youtu.be">
+        <dc:title>MAB Elhad Poésie  TNC 1</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>MOHAMED AMBIDI MOHAMED TOYB</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.flickr.com/people/mabelhad/">
+       <dc:title>Mab_Elhad - Flickr</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://mabelhad.wordpress.com/author/mabelhad/">
+       <dc:title>MAB Elhad – mabelhad</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://web.archive.org/web/20050307062344/http://www.alterites.com/cache/center_initiative/id_880.php">
+        <dc:title>Altérités - Initiative - Un fil entre les Comores et Marseille</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2005-03-07</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://fliesfrance.free.fr/extraitsruses/zolo.html">
+       <dc:title>Les aventures de Zolo</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://fliesfrance.free.fr/extraitsronde/vagabonds.html">
+       <dc:title>Conte vagabond</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://fliesfrance.free.fr/extraitsorigines/contecomores.html">
+       <dc:title>Conte des Comores</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="/article/the-crossing-toward-hope">
+        <dc:title>The Crossing toward Hope</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Djailani, Nassuf</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/hatubou/">
+        <dc:title>Salim Hatubou</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-08-19T20:56:22+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/djailani/">
+        <dc:title>Nassuf Djailani</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2008-11-18T04:04:09+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/ben-ali/">
+        <dc:title>Saindoune Ben Ali</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2017-11-21T14:35:35+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/NassurAttoumaniOfficiel">
+        <dc:title>Nassur Attoumani Officiel - Facebook</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.editions-harmattan.fr/index.asp?navig=auteurs&amp;obj=artiste&amp;no=4231">
+        <dc:title>Nassur Attoumani - Biographie, publications (livres, articles)</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/">
+       <dc:title>Île en île</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://editions-komedit.com/">
+       <dc:title>Komedit éditions</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.elpmauritius.com/">
+       <dc:title>éditions le printemps</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.bibliothequemalgache.com/">
+        <dc:title>Bibliothèque malgache - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://sites.google.com/site/latelierdecrituremaurice/atelier">
+       <dc:title>L'Atelier d'écriture</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.prediff.mg/">
+        <dc:title>PRESSE EDITION ET DIFFUSION - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.nocomment-editions.com/">
+       <dc:title>No Comment éditions</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://blog.editionspoissonrouge.com/">
+        <dc:title>Editions Poisson Rouge | La littérature dans l'océan indien</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.editionska.com/">
+       <dc:title>Editions K'A</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://dodovole.blogspot.com/">
+       <dc:title>Editions Dodo vole</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.editionsduboucan.com/">
+        <dc:title>Les éditions du boucan - Nos ouvrages</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.dailymotion.com/video/x270qu">
+        <dc:title>André ROBèR - Vidéo dailymotion</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.publie.net/livre/antanarivo-ainsi-les-jours-johary-ravaloson/">
+        <dc:title>Antananarivo, ainsi les jours | Johary Ravaloson</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>gvissac</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://fr.wikipedia.org/w/index.php?title=%C3%89ric_Chevillard&amp;oldid=156205733">
+        <dc:title>Éric Chevillard</dc:title>
+        <dc:type>encyclopediaArticle</dc:type>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:date>2019-01-27T10:54:05Z</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.le-tigre.net/L-autofictif,12306.html">
+       <dc:title>L'autofictif - Le Tigre</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.le-tigre.net/Chiens-ecrases-vol-V.html">
+       <dc:title>Chiens écrasés</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.le-tigre.net/_Eric-Chevillard_.html">
+       <dc:title>Le Tigre - Eric Chevillard</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.eric-chevillard.net/">
+       <dc:title>Éric Chevillard</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://autofictif.blogspot.com/">
+        <dc:title>L'Autofictif</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>L'Autofictif</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Chevillard, Eric</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.nytimes.com/2009/03/26/opinion/26ravaloson.html">
+        <dc:title>Opinion | Island of Instability</dc:title>
+        <dc:type>newspaperArticle</dc:type>
+        <dc:creator>Ravaloson, Johary</dc:creator>
+        <dc:date>2009-03-26</dc:date>
+        <dc:identifier>ISSN 0362-4331</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.tupeloquarterly.com/the-enchanted-island-by-johary-ravaloson-translated-by-allison-m-charette/">
+        <dc:title>The Enchanted Island by Johary Ravaloson, Translated by Allison M. Charette</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Gaffey, Marlee</dc:creator>
+        <dc:date>2016-02-14T05:00:26+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/rober/">
+        <dc:title>André Robèr</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-05-22T21:47:04+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ecritsstudio.free.fr/">
+       <dc:title>Ecrits Studio</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://patrick.dubost.free.fr/liens.html">
+        <dc:title>liens patrick dubost</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Dubost, Patrick</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://armand.le.poete.free.fr/copains_copines_poetes.html">
+        <dc:title>liens - Armand le Poète</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Armand Le Poète</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.ecampo.fr/?page_id=565">
+        <dc:title>Emmanuel Campo -Liens</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Campo, Emmanuel</dc:creator>
+        <dc:date>2015-04-08T09:34:52+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://houdaer.hautetfort.com/">
+        <dc:title>Branloire pérenne</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Houdaer, Frédéric</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://gregoiredamon.hautetfort.com/">
+        <dc:title>Peau de gueule / Le blog de Grégoire Damon</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.beatricebrerot.net/index.php?s=liens">
+        <dc:title>Liens- Béatrice Brérot</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Brérot, Béatrice</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.samantha-barendson.com/liens/">
+        <dc:title>liens Samantha Barendson</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Barendson, Samantha</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://sammysapin.blogspot.com/">
+        <dc:title>Liens - Le roi de la forêt</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Sapin, Sammy</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.kratochvil.tv/">
+        <dc:title>Kratochvil.tv</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Kratochvil, Jindra</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.lauralisavazquez.com/post/174144162977/la-terre-lente">
+        <dc:title>Site - LLL</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Vazquez, Laura</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/channel/UCmhaPhv0SEJD8bu5e-M8n6A">
+       <dc:title>Youtube - laura vazquez</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.fepemos.com">
+       <dc:title>FPM revue</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://upoesis.wordpress.com/">
+        <dc:title>U-poesis</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Langda, Perrin</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/guy.niole.14">
+        <dc:title>Facebook- Guy Niole</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Pennequin, Charles</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://soundcloud.com/chlo-delaume/sets/performances-cie">
+        <dc:title>Soundcloud - Chloé Delaume</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Delaume, Chloé</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://l-oeil-bande.blogspot.com/">
+        <dc:title>L'oeil bande</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Modely, Muriel</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://lefeucentral.blogspot.com/">
+        <dc:title>Le feu central</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Farine, François-Xavier</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://lamarerouge.hautetfort.com/">
+        <dc:title>La Mare Rouge</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Wiart, Judith</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://heptanesfraxion.blogspot.com/">
+       <dc:title>Heptanes Fraxion</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="c">
+        <dc:title>labelparol | Artistes</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>Contes</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>GYRE, Alain</dc:creator>
+        <dc:title>Article Africultures - So Why ?</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>1998-01-31T00:00:00+00:00</dc:date>
+        <dc:title>MES ACTIVITES LITTERAIRES, ECRITS ET PUBLICATIONS.</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Rawat, Kader</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://editionska.com/spip.php?rubrique4">
+        <dc:title>Page de  Liens - Editions K'A</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>éditions K'A</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/x-litterature/">
+        <dc:title>Site Ile en île - index des archives littéraires</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>1998-10-13T01:28:37+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n1">
+        <dc:title>Carte de la francophonie</dc:title>
+        <dc:type>map</dc:type>
+        <dc:contributor>Organisation Internationale de la Francophonie</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.cultures-outre-mer.com/fr/artistes-et-producteurs">
+        <dc:title>Agence de Promotion et diffusion des Cultures de l'Outre-Mer - littérature</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/3emeDroite">
+        <dc:title>3ème droite (@3emeDroite) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Descraques, François</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.tierslivre.net/">
+        <dc:title>le tiers livre, web &amp; littérature</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Bon, François</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://soundcloud.com/b-atrice-br-rot">
+       <dc:title>Béatrice Brérot</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.charles-pennequin.com/">
+        <dc:title>Charles Pennequin</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Pennequin, Charles</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.sitaudis.fr/">
+        <dc:title>Sitaudis.fr, poésie contemporaine, actualité littéraire et poésie</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/channel/UCyhmq2FXs8JxwkFLUgQ2n4w">
+       <dc:title>Youtube François Bon</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://revuecatastrophes.wordpress.com/">
+       <dc:title>Catastrophes</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.realpoetik.fr/">
+       <dc:title>realpoetik</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://cellproject.net/">
+       <dc:title>CELL Project</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://po-ex.net/">
+        <dc:title>Arquivo Digital da PO.EX – Poesia Experimental Portuguesa</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://idhmcmain.tamu.edu/arcgrant/">
+        <dc:title>ARC | Advanced Research Consortium</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://elmcip.net/">
+        <dc:title>ELMCIP | Electronic Literature as a Model of Creativity and Innovation in Practice</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://directory.eliterature.org/">
+        <dc:title>Electronic Literature Directory</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://revueprojectiles.com/category/theatre-2/">
+        <dc:title>Théâtre – PROJECT-îles</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Labonne, Daniel</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/chloe-guillemin/">
+       <dc:title>Chloé Guillemin</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/aqiil-gopee/">
+       <dc:title>Aqiil Gopee</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/1517422645193030/posts/kendy-chokeepermal-auteur-de-la-lmn-%C3%A2g%C3%A9-de-trente-ans-kendy-chokeepermal-poursui/1958941477707809/">
+        <dc:title>Librairie Mauricienne Numérique - Publications</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/kendy-chokeepermal/">
+       <dc:title>Kendy Chokeepermal</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/thierry-chateau/">
+       <dc:title>Thierry Chateau</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/ameerah-arjanee-2/">
+       <dc:title>Ameerah Arjanee</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.delitfrancais.com/author/marek-ahnee/">
+       <dc:title>Marek Ahnee – Le Délit</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/marek-ahnee/">
+       <dc:title>Marek Ahnee</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.librairiemauricienne.com/">
+        <dc:title>Librairie Mauricienne Numerique | LMN</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/ioojageer/timeline?lst=100013223681700%3A1124347235%3A1555492425">
+       <dc:title>Iqbal Oojageer</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://blogs.mediapart.fr/james-noel/blog">
+        <dc:title>Saxophonies | Le Club de Mediapart</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Noel, James</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.edilivre.com/rencontre-avec-iqbal-oojageer-auteur-de-linnocence-de-lamour/">
+        <dc:title>Rencontre avec Iqbal Oojageer, auteur de «L'Innocence de l'amour» - Edilivre - Publier un livre</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2014-09-10T16:20:31+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://soumya.ammarkhodja55.free.fr/">
+        <dc:title>Soumya Ammar Khodja, écrivain</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.poemes.co/abderrahmane-amalou.html-0">
+        <dc:title>Abderrahmane Amalou - Poèmes de Abderrahmane Amalou</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://leepluma.blogspot.com/">
+        <dc:title>Blog de Jessica Nazaire, poésie Haïti</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.plume-de-poete.fr/sables-chaibeddera-elmehdi/">
+        <dc:title>Sables - Chaïbeddera El’Mehdi – Plume de Poète</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.azizchouaki.com/">
+       <dc:title>aziz chouaki</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://kafoumag.canalblog.com/">
+       <dc:title>site culturel Haïti</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/yahiabelaskri/posts/1614862698616734?__tn__=K-R">
+        <dc:title>Yahia Belaskri - Publications</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://verdino.unblog.fr/">
+       <dc:title>poète haïtien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://short-edition.com/fr/oeuvre/nouvelles/changement-de-vie-3">
+        <dc:title>Changement de vie</dc:title>
+        <dc:type>manuscript</dc:type>
+        <dc:creator>Delisca, Alain</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://cherif.eljazeir.com/">
+        <dc:title>Chérif Abdedaïm | &quot; Qui pense ne meurt jamais&quot;</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>Chérif Abdedaïm | &quot; Qui pense ne meurt jamais&quot;</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://elmiliastory.centerblog.net/rub-hizia-poeme-amour-algerien-.html">
+       <dc:title>hizia poeme amour algerien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/chawki.amari">
+       <dc:title>Chawki Amari</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/JLAH2030/posts/">
+       <dc:title>Poète haïtien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://franc7.e-monsite.com/pages/47.html">
+       <dc:title>Divers poèmes sur L’Algérie</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://poesie.webnet.fr/vospoemes/Poemes/said_nouahad/le_depart">
+        <dc:title>Le départ - Said NOUAHAD - Vos poèmes - Poésie française - Tous les poèmes - Tous les poètes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.taharbenjelloun.org/">
+        <dc:title>Tahar Ben Jelloun - Page Introduction</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Perlouse/">
+        <dc:title>Poétesse haïtienne (1 ouvrage)</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://lacouverture5.wordpress.com/author/obedlamy/">
+       <dc:title>blogueur journaliste haïtien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deferlement-de-mots.blogspot.com/">
+       <dc:title>Ecrivain et critique haïtien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://lautrehaiti.mondoblog.org/">
+        <dc:title>blogueur haïtien (littérature, foot)</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://laloidemabouche.ht/">
+        <dc:title>blogueuse haïtienne (limite littérature)</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://blogs.mediapart.fr/jean-damerique/blog">
+       <dc:title>blog de poète haïtien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://alalettre.mondoblog.org/">
+        <dc:title>blog d'écrivain, critique et universitaire haïtien</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://vimeo.com/3478097">
+        <dc:title>Rencontre avec Barlen Pyamootoo aux éditions de l’Olivier - Paris, Octobre 2008 on Vimeo</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/pyamootoo/">
+        <dc:title>Barlen Pyamootoo</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2007-04-12T23:45:46+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.frenchwritersworldwide.com/french-writers/userprofile/quraishiyah-durbarry">
+        <dc:title>French Writers Worlwide - Quraishiyah Durbarry</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://patrimages.over-blog.com/article-sedley-richard-assonne-ile-maurice-44379569.html">
+        <dc:title>Sedley Richard ASSONNE (Île Maurice). - Le blog de Patrimages</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://patrimages.over-blog.com/article-cinq-poemes-de-jeanne-gerval-arouff-ile-maurice-44316934.html">
+        <dc:title>Cinq poèmes de Jeanne GERVAL-AROUFF (Île Maurice).</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>ANANDA</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.francopolis.net/creaphonie/creaphonieARouff-juin2014.html">
+        <dc:title>creaphonie ARouff Jeanne Gerval</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/gerval-arouff/">
+        <dc:title>Jeanne Gerval ARouff</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2010-03-18T14:03:58+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ethiopiques.refer.sn/spip.php?page=imprimer-article&amp;id_article=840">
+        <dc:title>ROWIN NARRAIDOO - Ethiopiques - Revue negro-africaine de littérature et de philosophie.</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Narraïdoo, Rowin</dc:creator>
+        <dc:date>2006-07-18 00:00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/souza/">
+        <dc:title>Carl de Souza</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-08-19T22:54:55+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=DX4xXdxq5jM">
+        <dc:title>Interview de Henri Favory</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>FutechPro</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://boukiebanane.com/">
+       <dc:title>Boukie Banane</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/virahsawmy/">
+        <dc:title>Dev Virahsawmy</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2004-06-04T00:23:55+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:978-2-7483-8955-5">
+        <dc:title>Livre</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>Sooriamoorthy, Ramanujam</dc:creator>
+        <dc:rights>https://www.publibook.com/</dc:rights>
+        <dc:publisher>https://www.publibook.com/</dc:publisher>
+        <dc:date>2012-08-08 00:00:00</dc:date>
+        <dc:identifier>ISBN 978-2-7483-8955-5</dc:identifier>
+        <dc:coverage>World</dc:coverage>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.agora-francophone.org/ILE-MAURICE-Ramanujam">
+        <dc:title>ILE MAURICE - Ramanujam Sooriamoorthy</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Philographie</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/ramanujam.sooriamoorthy.1?fref=search&amp;__tn__=%2Cd%2CP-R&amp;eid=ARCLRc5kwBSAeH6K4inklrvl9uR_AXAA4upIWlLp4lvCNnHbZy59fq2pQtWVfy83Adjhm23rSyKIMQxJ">
+       <dc:title>Ramanujam Sooriamoorthy</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.indereunion.net/IREV/ananda/3notes1.htm">
+        <dc:title>Les trois notes - Ananda DEVI</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Pratx, Philippe</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://anandadevi.cinequanon.net/Accueil.html">
+       <dc:title>ananda devi</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/devi/">
+        <dc:title>Ananda Devi</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2001-05-12T13:55:09+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://tyitelle.wordpress.com/2015/02/19/2849/">
+        <dc:title>D’île en île By Sylvestre Le Bon :: île Maurice</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>tyitelle</dc:creator>
+        <dc:date>2015-02-19T17:01:47+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.reunionnaisdumonde.com/spip.php?article2210">
+        <dc:title>Elégie pour Haiti de Sedley Richard Assonne |</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/assonne/">
+        <dc:title>Sedley Richard Assonne</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2013-05-31T11:22:20+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.radiogrenouille.com/audiotheque/a-lair-livre-avril-2008-nathacha-appanah/">
+        <dc:title>À L’Air Livre – Nathacha Appanah | Radio Grenouille</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="/emission/tropique-de-la-violence-1034.html">
+        <dc:title>Tropique de la violence (Nathacha Appanah) sur WebTvCulture</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://diacritik.com/2018/05/18/nathacha-appanah-dire-mayotte-le-reel-par-la-fable-tropique-de-la-violence/">
+        <dc:title>Nathacha Appanah : dire Mayotte, le réel par la fable (Tropique de la violence)</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Marc, Christine</dc:creator>
+        <dc:creator>ier</dc:creator>
+        <dc:date>2018-05-18T07:00:37+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=oXqCSEeVYDw">
+        <dc:title>Édouard J. Maunick, 5 Questions pour Île en île</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Ile en île</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/maunick/">
+        <dc:title>Édouard J. Maunick</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2007-06-06T19:44:01+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://online-litterature.com/comment-page-3/">
+        <dc:title>poète haïtien publiant en ligne sur diverses plateformes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://short-edition.com/fr/auteur/wolf-gorbatchev-oscar">
+        <dc:title>poèmes en ligne d'un poète haïtien</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.plume-de-poete.fr/author/oscarwolf/">
+        <dc:title>poèmes en ligne d'un poète haïtien</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://frank.halison.free.fr/">
+       <dc:title>Frank Halison</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://tel.archives-ouvertes.fr/tel-01997693/document">
+        <dc:title>Une approche de détection des communautés d'intérêt dans les réseaux sociaux: application à la génération d'IHM personnalisées</dc:title>
+        <dc:type>thesis</dc:type>
+        <dc:creator>Chouchani, Nadia</dc:creator>
+        <dc:publisher>Université de Valenciennes et du Hainaut-Cambresis</dc:publisher>
+        <dc:date>2018</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://morceau2vie.mondoblog.org/">
+       <dc:title>auteure camerounaise</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Morceau2vieblog/">
+       <dc:title>auteure camerounaise</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/SilverAgondjoAsdoBazik/?eid=ARDBsnpJJOGh2p2DxhBJUqxUjRhhXzLFcSQLmsm1Pe01yXB35vrd9VAb2q9-g2_GEZc_kuQQwGDtyA6g">
+        <dc:title>page Facebook auteur gabonais (Port-Gentil)</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/broukesse/?fref=pb&amp;hc_location=profile_browser">
+        <dc:title>page facebook auteur ivoirien</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://graceminlibe.wordpress.com/2015/05/18/un-peu-de-moi/">
+       <dc:title>blog auteure ivoirienne</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/graceminlibe">
+        <dc:title>auteure ivoirienne sur Facebook</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://ibukasharing.com/default-blog/">
+       <dc:title>blog auteur ivoirien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/ibukandjoli/?fref=pb&amp;hc_location=profile_browser">
+        <dc:title>page FACEBOOK auteur ivoirien</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://data.bnf.fr/sparql?default-graph-uri=&amp;query=PREFIX+foaf%3A+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F%3E%0D%0APREFIX+rdagroup2elements%3A+%3Chttp%3A%2F%2Frdvocab.info%2FElementsGr2%2F%3E%0D%0APREFIX+bio%3A+%3Chttp%3A%2F%2Fvocab.org%2Fbio%2F0.1%2F%3E%0D%0APREFIX+dcterms%3A+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0D%0APREFIX+rdarelationships%3A+%3Chttp%3A%2F%2Frdvocab.info%2FRDARelationshipsWEMI%2F%3E%0D%0APREFIX+bnfroles%3A+%3Chttp%3A%2F%2Fdata.bnf.fr%2Fvocabulary%2Froles%2F%3E%0D%0ASELECT++distinct+%3Fauteur+%3Fnom%0D%0AWHERE%0D%0A%7B%0D%0A%3Fauteur+a+foaf%3APerson%3B%0D%0A++++rdagroup2elements%3AcountryAssociatedWithThePerson+%3Chttp%3A%2F%2Fid.loc.gov%2Fvocabulary%2Fcountries%2Fmg%3E%3B%23l%27url+renvoie+au+pays+Cameroun+dans+le+voc+RDA+%28cf+lettre+%22cm%22%29+%0D%0A++++foaf%3Aname+%3Fnom.%0D%0A++%3Fexpression++bnfroles%3Ar70+%3Fauteur%3B%0D%0A+++dcterms%3Atype+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fdcmitype%2FText%3E.%0D%0A++%3Fmanifestation+rdarelationships%3AexpressionManifested+%3Fexpression.%0D%0A++++MINUS+%7B%0D%0A++++%3Fauteur+bio%3Abirth+%3Fnaissance%7D%0D%0A++MINUS+%7B%0D%0A+%3Fauteur+bio%3Adeath+%3Fdeath.%7D%0D%0A++MINUS+%7B%3Fmanifestation+dcterms%3Asubject+%3Fsujet.%7D%23signifie+t%27il+qu%27on+enl%C3%A8ve+les+auteurs+ayant+un+sujet+pour+avoir+que+les+auteurs+de+fiction+%28les+fictions+n%27ont+pas+de+sujet+d%27indexation+%C3%A0+la+BNF%29%3F%3F%3F%0D%0A%7D%0D%0A&amp;format=text%2Fhtml&amp;timeout=0&amp;should-sponge=&amp;debug=on">
+       <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.afn360.com/culture/madagascar-julien-rakotonaivo-approprions-nous-de-la-langue-francaise-sans-complexe-847193.html">
+        <dc:title>Madagascar: Julien Rakotonaivo - « Approprions-nous de la langue française sans complexe ! »</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/natacha-andriamirado-lecriture-me-permet-de-trouver-ce-qui-me-semble-essentiel-chez-certains-etres-9577/">
+        <dc:title>Natacha Andriamirado : &quot; L'écriture me permet de trouver ce qui me semble essentiel chez certains êtres &quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:date>2010-07-05T11:07:49+00:00</dc:date>
+        <dc:title>Natacha Andriamirado : &quot; L'écriture me permet de trouver ce qui me semble essentiel chez certains êtres &quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:creator>Lefilleul, Alice</dc:creator>
+        <dc:date>2010-07-05T11:07:49+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.nouvelle-quinzaine-litteraire.fr/articles-par-critique/natacha-andriamirado">
+        <dc:title>La Nouvelle Quinzaine Littéraire - Articles</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Andriamirado, Natacha</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.congopage.com/Au-fil-du-voyage-de-Serges-Ngounga">
+        <dc:title>&quot;Au fil du voyage&quot; de Serges Ngounga</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://muzdalifahouse.com/">
+        <dc:title>Site de l'espace culturel qu'il dirige à Moroni</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/soeuf-elbadawi/">
+        <dc:title>Présentation Île en Île Soeuf Elbadawi</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2007-04-19T23:42:13+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://mabelhad.wordpress.com/">
+       <dc:title>mabelhad</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://joalblog.wordpress.com">
+        <dc:title>joalblog</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>joalblog</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/mab/">
+        <dc:title>Mab Elhad</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2017-11-18T12:17:21+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n2">
+        <dc:title>Elhad Abderemane Boinafoumou -Facebook</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=zfk_eZ0u3Vg">
+        <dc:title>A la rencontre des poétes - A la rencontre de Mohamed Aboubacr avec Mab Elhad.</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Quatre Étoiles Productions</dc:contributor>
+        <dc:title>MAB Elhad Poésie  TNC 1</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>MOHAMED AMBIDI MOHAMED TOYB</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poetes-de-la-lune.over-blog.com/">
+        <dc:title>Poètes des îles de la lune</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Elhad, M. A. B.</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://mabelhad.iggybook.com/fr/">
+       <dc:title>MAB Elhad sur Iggybook</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/paille-en-queue-et-vol-un-pont-entre-les-iles-de-locean-indien-10004/">
+        <dc:title>Paille-en-queue et vol : un pont entre les îles de l'océan indien</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Barlet, Olivier</dc:creator>
+        <dc:creator>Bona, Dénètem Touam</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2011-03-20T14:03:17+00:00</dc:date>
+        <dc:title>Paille-en-queue et vol : un pont entre les îles de l'océan indien</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Barlet, Olivier</dc:creator>
+        <dc:creator>Bona, Dénètem Touam</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2011-03-20T14:03:17+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/le-poete-remue-les-amas-amorphes-de-la-vie-11398/">
+        <dc:title>&quot;Le poète remue les amas amorphes de la vie&quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Barlet, Olivier</dc:creator>
+        <dc:creator>Bona, Dénètem Touam</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2013-03-18T01:03:35+00:00</dc:date>
+        <dc:title>&quot;Le poète remue les amas amorphes de la vie&quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Barlet, Olivier</dc:creator>
+        <dc:creator>Bona, Dénètem Touam</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2013-03-18T01:03:35+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/mohamed/">
+        <dc:title>Anssoufouddine Mohamed</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2014-01-14T23:41:53+00:00</dc:date>
+        <dc:title>Anssoufouddine Mohamed</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2014-01-14T23:41:53+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/martial/">
+        <dc:title>Alain-Kamal Martial</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-08-07T21:33:08+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/said-salim/">
+        <dc:title>Aboubacar Saïd Salim</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2017-09-24T21:04:23+00:00</dc:date>
+        <dc:title>Aboubacar Saïd Salim</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2017-09-24T21:04:23+00:00</dc:date>
+        <dc:title>Aboubacar Saïd Salim</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2017-09-24T21:04:23+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/baco/">
+        <dc:title>Abdou S. Baco</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2006-04-12T20:05:23+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://agir.avec.madagascar.over-blog.com/article-poemes-les-titres-110539179.html">
+        <dc:title>Poèmes</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>GYRE, Alain</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/volde.plumes.9">
+       <dc:title>Touhfat Mouhtare-Mahamoud</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://joharyravaloson.canalblog.com/">
+        <dc:title>Site Johary Ravaloson</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Ravaloson, Johary</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/rakotoson.michele?__tn__=%2CdCH-R-R&amp;eid=ARBkJ9sByovYmBvbmcfvSZQ0HvkMRh-C6PP8ZIRmuvtIkhZVWAgVRRbf2IYM1JGt9v4xOqzizpE1KJcb&amp;hc_ref=ARTzr_EEu_Q7iyz6z_AoenZClpjmberag7p-VRZ1jiR3DrmhQF2BAU6cmJrYUrhNLa4&amp;fref=nf">
+       <dc:title>Rakotoson Michele</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/raharimanana37/timeline?lst=100013223681700%3A100003327293439%3A1552661314">
+       <dc:title>Raharimanana Jean Luc</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.carnetdart.com/jean-luc-raharimanana/">
+       <dc:title>Jean-Luc Raharimanana</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://revueprojectiles.com/">
+        <dc:title>PROJECT-îles</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>revueprojectiles</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://short-edition.com/fr/auteur/jean-pierre-haga">
+        <dc:title>Profil de l'auteur Jean Pierre Haga - 75 abonnés - page 1 - Short Édition</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://stephane-hoarau.blogspot.com/">
+        <dc:title>Kozman</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Hoarau, Stéphane</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n3">
+        <dc:title>Maloya.org - page littérature</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.indigo-lemag.com/category/arts/litterature-poesie/">
+        <dc:title>Littérature &amp; Poésie Archives • Indigo</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://lemurie.blogspot.com/">
+       <dc:title>Lettres de Lémurie</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://andre.rober.free.fr/">
+        <dc:title>Le site du peintre, poète, éditeur réunionnais André Robèr, installé à ille-sur-têt en catalogne nordGaleries des peintures et sculptures, fonnkèr pou lo zié,Livres, textes critiques, opération d'art postal.</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Robèr, André</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/Jean-narsapa-vision-119023034926141/posts/?ref=page_internal">
+        <dc:title>Jean narsapa vision - Facebook</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Narsapa, Jean</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/james.noel.90">
+       <dc:title>James Noel</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/joey.aresoa">
+        <dc:title>Facebook-Joey Aresoa</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Aresoa, Joey</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/holopherne.longpas">
+        <dc:title>Facebook - Holopherne Longpas</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Longpas</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://remue.net/dossier-Raharimanana">
+        <dc:title>dossier Raharimanana - remue.net</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://vimeo.com/303273922">
+        <dc:title>Vidéo- Teaser de pièce</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>House, Muzdalifa</dc:contributor>
+        <dc:date>2018-11-28T08:37:51-05:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=jFgI7PcUimU">
+        <dc:title>Un dhikri pour nos morts</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Wassnawass Com</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=u0OyX6RNdxE">
+        <dc:title>Un dhikri pour nos morts</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Wassnawass Com</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=PXMTZLNBoDU">
+        <dc:title>SOEUF Elbadawi - artiste et acteur est l'invité de l'émission - l'histoire des Comores</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>RTMC &amp; ACMC Radio</dc:contributor>
+        <dc:title>&quot;Fin du grand débat, début du grand débarras !&quot; Juan BRANCO Bourse du Travail Paris 14 mars 2019</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>ERC Vidéo</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=27kAggIbN5M">
+        <dc:title>À la sortie de la radio avec... Soeuf Elbadawi</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Max Lebon</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/littafcar">
+        <dc:title>Intersections littéraires d'Afrique et des Caraïbes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://journals.openedition.org/lectures/24511">
+        <dc:title>Marie-Anne Paveau, L’analyse du discours numérique. Dictionnaire des formes et des pratiques</dc:title>
+        <dc:type>journalArticle</dc:type>
+        <dc:creator>Mayeur, Ingrid</dc:creator>
+        <dc:rights>© Lectures - Toute reproduction interdite sans autorisation explicite de la rédaction / Any replication is submitted to the authorization of the editors</dc:rights>
+        <dc:date>2018/03/30</dc:date>
+        <dc:identifier>ISSN 2116-5289</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n4">
+        <dc:title>Weblogs as a bridging genre</dc:title>
+        <dc:type>journalArticle</dc:type>
+        <dc:creator>Herring, Susan C.</dc:creator>
+        <dc:creator>Scheidt, Lois Ann</dc:creator>
+        <dc:creator>Wright, Elijah</dc:creator>
+        <dc:creator>Bonus, Sabrina</dc:creator>
+        <dc:date>2005</dc:date>
+        <dc:identifier>DOI https:// doi.org/10.1108/09593840510601513</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n5">
+        <dc:title>Digital genres: a challenge to traditional genre theory</dc:title>
+        <dc:type>journalArticle</dc:type>
+        <dc:creator>Askehave, Inger</dc:creator>
+        <dc:creator>Nielse, Anne Ellerup</dc:creator>
+        <dc:date>2005</dc:date>
+        <dc:identifier>DOI https:// doi.org/10.1108/09593840510601504</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n6">
+        <dc:title>&quot;Introduction to the special issue: Genres of digital documents&quot;</dc:title>
+        <dc:type>journalArticle</dc:type>
+        <dc:creator>Kwaśnik, Barbara H.</dc:creator>
+        <dc:creator>Crowston, Kevin</dc:creator>
+        <dc:identifier>DOI https:// doi.org/10.1108/09593840510601487</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23308">
+        <dc:title>Developing a bottom‐up, user‐based method of web register classification.</dc:title>
+        <dc:type>journalArticle</dc:type>
+        <dc:creator>Egbert, J.</dc:creator>
+        <dc:creator>Biber, D.</dc:creator>
+        <dc:creator>Davies, M.</dc:creator>
+        <dc:date>2015</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.dailymotion.com/video/x9qnwu">
+        <dc:title>Zafimaniry intime : l'interview - Vidéo dailymotion</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>Zafimaniry intime : l'interview - Vidéo dailymotion</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/aristide.tarnagda">
+       <dc:title>Aristide Tarnagda</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/gabriel.okoundji">
+       <dc:title>Gabriel Okoundji</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/jean.bofane">
+       <dc:title>Jean Bofane</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/jean.divassanyama.7">
+       <dc:title>Jean Divassa Nyama</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Bessora/">
+       <dc:title>Bessora - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://bessora.fr/">
+       <dc:title>Bessora</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://kangnialem.togocultures.com/">
+        <dc:title>INCH'ALEM – Le blog de Kangni Alem</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://charybde2.wordpress.com/tag/veronique-tadjo/">
+        <dc:title>Véronique Tadjo | Charybde 27 : le Blog</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/tchaksami">
+       <dc:title>Tchak Sami</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/gastonpaul.effa">
+       <dc:title>Gaston-Paul Effa</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/eugene.ebode">
+       <dc:title>Eugène Ebodé</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/MianoLeonora">
+       <dc:title>Léonora Miano</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/alain.mabanckou">
+        <dc:title>Alain Mabanckou</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>Alain Mabanckou</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/patrice.nganang">
+       <dc:title>Patrice Nganang</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/hemley.boum">
+       <dc:title>Hemley Boum</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Calixthebeyalafrancophonie.secretariatgeneral?__tn__=CH-R&amp;eid=ARAMbal1eus9SNP8NEMEBCOmF2_joFKy30sZWCw1ra0osDrFfnG7LII6AzQ2vA1KqRvAktR9Ebjbj9Nz&amp;hc_ref=ARSZPK3iXH0gmjPr3MR0kAlkPtB3V1TAUZ6USqxwGZ4f-ThVaoEPg8mRAMxGxa6TaIA&amp;fref=nf">
+       <dc:title>Calixthe Beyala</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/rakotoson/">
+        <dc:title>Michèle Rakotoson</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2000-11-12T18:20:35+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://avosplumes.clicforum.fr/index.php">
+        <dc:title>A vos plumes ! :: Forum littéraire, qu'on se le dise !</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=UsY5dGXONwE">
+        <dc:title>VidéoTV5 - entretien</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>TV5MONDE</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=-C8o0n-rvJE">
+        <dc:title>Vidéo Wanantsi TV</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Wanantsi TV</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatre-contemporain.net/video/Entretien-avec-Soeuf-Elbadawi-pour-Moroni-Blues">
+        <dc:title>Vidéo - Entretien avec Soeuf Elbadawi pour &quot;Moroni Blues&quot; - theatre-contemporain.net</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:rights>Association CRIS 1999-2015</dc:rights>
+        <dc:publisher>theatre-contemporain.net</dc:publisher>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://africultures.com/enterrer-limpensable-dans-le-miroir-des-verites-sues-et-bues-11707/">
+        <dc:title>Entretien- Enterrer l'Impensable dans le miroir des vérités sues et bues</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Chalu, Marie-Julie</dc:creator>
+        <dc:creator>Chalendar, Gérard</dc:creator>
+        <dc:creator>Bocandé, Anne</dc:creator>
+        <dc:date>2013-07-22T23:07:57+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://putsch.media/20180412/interviews/interviews-culture/soeuf-elbadawi-si-les-intellectuels-francais-sinteressaient-quelque-peu-a-lun-des-jardins-secrets-les-mieux-entretenus-de-la-france-sous-nos-tropiques-il-pourrait-y-avoir-un-vra/">
+        <dc:title>Entretien - Soeuf Elbadawi : « Si les intellectuels s’intéressaient quelque peu à l’un des jardins secrets les mieux entretenus de la France sous nos tropiques, il pourrait y avoir un vrai débat » - Interviews culture</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.article11.info/?Soeuf-Elbadawi-Nous-qui-ne-sommes">
+        <dc:title>Entretien - Article11 - Soeuf Elbadawi : « Nous qui ne sommes rien » - Lémi</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.chronicart.com/author/selbadawi/">
+       <dc:title>Critiques POUR Chronicart</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://7lameslamer.net/soeuf-elbadawi-est-il-normal-de-1036.html">
+        <dc:title>Article de SEB sur 7lameslamer : « Est-il normal de devenir clandestin en sa propre terre ? »</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Elbadawi, Soeuf</dc:creator>
+        <dc:rights>7 Lames la Mer</dc:rights>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.courrierinternational.com/article/mayotte-pourquoi-cette-chasse-aux-comoriens-sur-lile-francaise">
+        <dc:title>Article de SEB - Courrier International -Mayotte. Pourquoi cette chasse aux Comoriens sur l’île française ?</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2016-06-28T11:07:00+02:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://lescahiersdeganiath.blog/">
+        <dc:title>Collectif d'écrivains béninois</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://encre-noire.1fr1.net/">
+        <dc:title>Cercle littéraire de l'Encre noire</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/dorisdumabin/about/?ref=page_internal">
+       <dc:title>Doris DUMABIN - À propos</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/patrice.nganang/videos/1764926866916895/">
+       <dc:title>Facebook</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/patrice.nganang/videos/vb.100001987974064/1882612355148345/?type=2&amp;video_source=user_video_tab">
+       <dc:title>Facebook</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://remue.net/spip.php?page=rubrique&amp;id_rubrique=0">
+       <dc:title>Sene Joachim - remue.net</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.passagersdesvents.org/">
+        <dc:title>Passagers des Vents - Arts et littératures en mouvement au départ d'Haïti</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Projectilesrevue/timeline?lst=100013223681700%3A100010468032257%3A1552661978">
+       <dc:title>Projectîles Revue</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.fyctia.com/">
+        <dc:title>Fyctia</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>fyctia</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/">
+       <dc:title>WeLoveWords.com</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.scribay.com/">
+        <dc:title>Pour les écrivains d'aujourd'hui et de demain | Scribay</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.wattpad.com/home">
+        <dc:title>Wattpad Français - Où les histoires vivent</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ecrivainsados.forumpro.fr/">
+        <dc:title>Forum des écrivains en herbes !</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.forum-blogs.com/forum/74-presentation/">
+        <dc:title>Presentation - Forum de blogs</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.etudes-litteraires.com/forum/forum9-actualite-litteraire-et-textes-des-internautes.html">
+        <dc:title>Actualité littéraire et textes des internautes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ecrivaillons.forumactif.com/f1-pose-ta-prose">
+       <dc:title>Pose ta prose !</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://forumphotosetpoesie.forumsactifs.com/forum">
+       <dc:title>Des Mots et des Images</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ink-in-the-veins.exprimetoi.net/memberlist">
+       <dc:title>Membres</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ciseuleursdemots.forumactif.com/">
+       <dc:title>ciseuleurs de mots - Portail</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.forum-mda.com/index.php">
+        <dc:title>forum du cercle maux d'auteurs :: Ouvert à tous les passionnés de lecture et d'écriture!</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://bookaholics.forumactif.com/">
+       <dc:title>Bookaholics</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://au-bonheur-des-mots.forumactif.com/forum">
+       <dc:title>Au bonheur des mots</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://aimer-ecrire.forumactif.com/">
+        <dc:title>créer un forum : Aimer écrire</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://nomduneplume.forumsactifs.net/">
+        <dc:title>Nom d'une Plume ! Le forum d'écriture libre !</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.millesaisons.fr/forum/">
+        <dc:title>Forum Mille Saisons - Page d’accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://cocyclics.tremplinsdelimaginaire.com/">
+        <dc:title>La mare aux nénuphars - Page d’accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://jeunesecrivains.superforum.fr/">
+       <dc:title>Forum des Jeunes Écrivains</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://communaute-hdromans.forumactif.com/">
+       <dc:title>Forum communauté HdR</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://monde-ecriture.com/forum/">
+        <dc:title>Le Monde de L'Écriture - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ecriture-livres.fr/comment-ecrire/forum-litterature-blog-litteraire-tous/forum-d-ecriture-liste/">
+        <dc:title>Vous cherchez un forum d’écriture ? 10 adresses à découvrir</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Kempf, Nicolas</dc:creator>
+        <dc:date>2011-11-11T14:47:33+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.lemonde.fr/">
+        <dc:title>Le Monde.fr - Actualités et Infos en France et dans le monde</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.septentrion.com/fr/livre/?GCOI=27574100305070">
+        <dc:title>Revue des Sciences Humaines, n°331/juillet-septembre 2018, La littérature au risque des médias</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://poesie.webnet.fr/vospoemes/Poemes/youssef_rzouga">
+        <dc:title>Liste de Poème - Youssef RZOUGA - Vos poèmes - Poésie française - Tous les poèmes - Tous les poètes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://repertoire-artistestunisiens.com/ezzeddine-madani/">
+        <dc:title>Ezzeddine Madani -</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2016-08-06T14:32:54+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mansourmhenni.net/">
+       <dc:title>Mansour M'henni</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Mohamed-Lazghab-%C3%A9crivain-883711541664992/">
+        <dc:title>Mohamed Lazghab, écrivain - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/fitoussi.michele/">
+       <dc:title>Michèle Fitoussi - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/seb_blanc/status/1073130700453408768">
+        <dc:title>Foncez applaudir @Mikaelchirinian au @TheatreLepic un vrai beau voyage turbulent, une des plus belles choses que la saison ait à offrir, magnifiquement mise en scène par Anne Bouvier https://twitter.com/gladscope/status/1072973002248253440 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>sebastienblanc</dc:creator>
+        <dc:date>2018T00:21</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mfit/status/1074022872534933505">
+        <dc:title>Pas faux @EmilieFreche . c’est pas tant l’image que la légende plus l’image : parle à mon cul, etc..Sous le sous vetement, le sous texte. https://twitter.com/TextesNet/status/1074020965305253888 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>fitoussi, michèle</dc:creator>
+        <dc:date>2018T11:26</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/estelle_lb/status/1078324001267728387">
+        <dc:title>&quot;Janet&quot;  de Michèle Fitoussi @LattesLeMasque @mfit  Passionnant portrait d'une femme libre, Janet Flanner, journaliste américaine, correspondante à Paris pour le New-Yorker pendant cinquante ans. Je vous le recommande.pic.twitter.com/qYiXmvmMse</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>LB, Estelle</dc:creator>
+        <dc:date>2018T08:17</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mfit/status/1092038111813611521">
+        <dc:title>https://twitter.com/operabella/status/1090191281874182146 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>fitoussi, michèle</dc:creator>
+        <dc:date>2019T04:32</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/Leadom/status/1094960409562546176">
+        <dc:title>En plus de celles déjà citées d'autres femmes à suivre, pas seulement des journalistes: @cdelastreet @mfit @dorothee @RoxanneDARCO @GabDeydier @sarahconstantin @ElvireDCharles @marionpauline @ashleytola_ @olymple @bienveilleuses @charlottelazimi @Louison_Ahttps://twitter.com/PatounesVeneres/status/1094641156791681025 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Domenach, Léa</dc:creator>
+        <dc:date>2019T06:04</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/BoulogneCulture/status/1111523565189451776">
+        <dc:title>#lectures &gt; Michèle Fitoussi accueillie à la Bibliothèque pour Tous Gallieni ! Découvrez sa biographie de Janet Flanner, correspondante du @NewYorker à Paris, féministe, pacifiste, gay, séductrice et brillante styliste à l'humour mordant Jeudi 4 avril à 18h @mfit @LattesLeMasquepic.twitter.com/u5JE4RTqnG</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Culture, Boulogne-Billancourt</dc:creator>
+        <dc:date>2019-03-29T00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/Figaro_Culture/status/1111890911775129602">
+        <dc:title>Helena Rubinstein : l’art et l’audace au Musée d’art et histoire du judaïsmehttp://bit.ly/2TKVDbU</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Culture, Le Figaro</dc:creator>
+        <dc:date>2019-03-30T00:20</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/PierreRaufast/status/1114833553915895809">
+        <dc:title>Le livre papier, cet objet unique :-)https://raufast.wordpress.com/2019/04/07/le-livre-papier-cet-objet-unique/ …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Raufast, Pierre</dc:creator>
+        <dc:date>2019T03:13</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/fixzor/status/1070592694060236800">
+        <dc:title>T'es en train de me dire que vos lycéens brûlent leur école gratuite ?pic.twitter.com/TN6yuLAZnP</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Pew, Docteur</dc:creator>
+        <dc:date>2018T00:16</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mfit/status/1073328347688648706">
+        <dc:title>Un peu lenthttps://twitter.com/dobarba/status/1073093044390514688 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>fitoussi, michèle</dc:creator>
+        <dc:date>2018T13:26</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/hugoclement/status/1073567721168797699">
+        <dc:title>Ca y est ! L'avortement est officiellement légalisé depuis hier en Irlande ! https://twitter.com/konbininews/status/1000425255272370176 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Clément, Hugo</dc:creator>
+        <dc:date>2018T05:17</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/Hugoslav/status/1073907552830791680">
+        <dc:title>« Si je sens que je peux renverser le capitalisme pourquoi pas mais mon combat principal c’est que mes enfants aient un Noël »pic.twitter.com/qq1Q6fvCUY</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Domenach, Hugo</dc:creator>
+        <dc:date>2018T03:48</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/bif_o/status/1078920900806930432">
+        <dc:title>Si les journalistes dits d’investigation mettaient autant d’ardeur à enquêter sur certaines figures médiatiques des #GiletsJaunes que sur les passeports diplomatiques de #Benalla, on pourrait sûrement apprendre des choses interessantes sur ceux qui s’attaquent à la démocratie...</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Biffaud, Olivier</dc:creator>
+        <dc:date>2018T23:49</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/lamiscarreb/status/1115475106594213888">
+        <dc:title>Helena Rubinstein, une pionnière  https://www.franceculture.fr/emissions/le-reveil-culturel/helena-rubisnstein-la-pionniere-des-cosmetiques … @mfit  via @PetitsMatinsFC  (Paul Helleu 1908)pic.twitter.com/WQHB71Gw8q</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>LamiscarreB</dc:creator>
+        <dc:date>2019T21:42</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/mfit/status/1115500846379413505">
+        <dc:title>Merci!https://twitter.com/PartoucheMarie/status/1114524004122091520 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>fitoussi, michèle</dc:creator>
+        <dc:date>2019T23:25</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/infosdumahj/status/1114133729168039936">
+        <dc:title>#VendrediLecture #expoRubinstein @BeauxArts_mag consacre un magnifique hors-série à &quot;l'impératrice de la beauté&quot;. En quelques articles et un entretien avec Michèle Fitoussi @mfit, commissaire de l'exposition, vous saurez (presque) tout sur #HelenaRubinstein !pic.twitter.com/a7bfrApr54</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>MAHJ</dc:creator>
+        <dc:date>2019T04:52</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/reveilculturel/status/1113772544904114177">
+        <dc:title>La commissaire de l'exposition,  @mfit sera l'invitée du Réveil Culturel mardi prochain pour nous parler d'Helena Rubinstein à l'occasion de l'#exposition au @infosdumahj.  #beauty #mahj #Expositionhttps://twitter.com/Figaro_Culture/status/1111890911775129602 …</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Culturel, Le Réveil</dc:creator>
+        <dc:date>2019T04:57</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/DominiqueSudre/status/1116422119347359745">
+        <dc:title>&quot;Rubinstein. L’aventure de la beauté&quot;  Le @infosdumahj consacre une #expoRubeinstein à Helena Rubinstein, l'impératrice de la beauté, jusqu'au 25 août 2019. Découvrir sa vie à travers objets, photos, peintures, etc. #MarcChagall #MichelKikoïneou #MauriceUtrillo  @mfitpic.twitter.com/ZB2rsbu9xD</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>DominiqueSudre</dc:creator>
+        <dc:date>2019T12:25</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/reveilculturel/status/1115520973854265344">
+        <dc:title>MARDI-EXPO : @mfit est l'invité de @TewfikHakem. Elle nous parle de #HelenaRubinstein dans le cadre de l'#expoRubinstein au Musée d'Art et d'Histoire du Judaïsme @infosdumahj. Si vous l'avez raté, réécoutez l'émission en PODCAST, par ici  : https://www.franceculture.fr/emissions/le-reveil-culturel/quand-un-ecrivain-ne-reconnait-pas-les-livres-quil-a-ecrits …pic.twitter.com/811iGnCoVq</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Culturel, Le Réveil</dc:creator>
+        <dc:date>2019T00:45</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://soufiane-ben-farhat.space-blogs.net/">
+        <dc:title>Blog-Journal animé par Soufiane Ben Farhat, écrivain et journaliste soufiane ben farhat / Journal</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://tahar.bekri.free.fr/">
+        <dc:title>Tahar BEKRI, site officiel de l'auteur - Poésie</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://passionlivresquethomasylvianauteure.over-blog.com/">
+        <dc:title>Passion livresque - Romans, Nouvelles, Récits autobiographiques Proverbes, citations, dictons</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://passionlivresquethomasylvianauteure.over-blog.com/2018/10/double-deux.html">
+        <dc:title>Double deux de Sylviane Thomasse - Passion livresque</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.edilivre.com/rencontre-avec-sylviane-thomasse-auteur-de-double-deux/">
+        <dc:title>Rencontre avec Sylviane Thomasse, auteur de &quot;Double deux&quot; - Edilivre - Publier un livre</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2015-07-09T09:28:18+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.atramenta.net/authors/sylviane-thomasse/68744">
+       <dc:title>Sylviane Thomasse</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:978-2-342-05168-1">
+        <dc:title>Livre</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>admin@publibook</dc:creator>
+        <dc:rights>https://www.monpetitediteur.com/</dc:rights>
+        <dc:publisher>https://www.monpetitediteur.com/</dc:publisher>
+        <dc:date>2016-06-02 10:19:28</dc:date>
+        <dc:identifier>ISBN 978-2-342-05168-1</dc:identifier>
+        <dc:coverage>World</dc:coverage>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vaovao.org/fr/news/bana-rahalahy">
+        <dc:title>Bana Rahalahy</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2009-08-28T14:11:25+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/smauxe/about?lst=100013223681700%3A100003657868236%3A1557234871">
+       <dc:title>Sahanah Margaux Emilian</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.instagram.com/smauxe/">
+        <dc:title>Sahanah Margaux Emilian (@smauxe) • Instagram photos and videos</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://frank.halison.free.fr/presentation.htm">
+        <dc:title>Site Frank Halison</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Halison, Frank</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/LatimerRangers/">
+       <dc:title>Latimer Rangers - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://julienrakotonaivo.eklablog.com/le-monde-de-julien-p1253384">
+       <dc:title>Le monde de Julien</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.is-ebooks.com/auteur/62/jean-bernard-lemal">
+        <dc:title>Jean-Bernard LEMAL, IS Ebooks | La librairie de IS Edition</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.maurice-nadeau.net/videos/andriamirado-natacha">
+        <dc:title>Edition Maurice Nadeau</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Andriamirado, Natacha</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://vimeo.com/17561381">
+        <dc:title>Natacha Andriamirado 1/9 : &quot;mes personnages sont des être qui sont dans un refus permanent&quot;.</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/johary.ravaloson">
+       <dc:title>Johary Ravaloson</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://jphaga.canalblog.com/archives/2018/12/22/36962223.html">
+        <dc:title>Biographie - Jean Pierre Haga, écrivain, parolier et auteur-compositeur-interprète</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2018-12-22T19:47</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mariazaki.com/">
+       <dc:title>Accueil - Maria Zaki</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://abdellahtaia.free.fr/">
+       <dc:title>Abdellah Taïa</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/mouadmoutaoukil19/">
+       <dc:title>Mouad Moutaoukil - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/08/dsert.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Désert.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>samedi 25 août 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/09/chemin-sans-retour.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Chemin sans retour.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>mercredi 5 septembre 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/08/ma-boussole.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Ma boussole</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>vendredi 7 septembre 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2008/04/homme-noir-au-cur-blanc.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Homme noir au cœur blanc.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>vendredi 25 avril 2008</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2008/04/mmoire-morcele.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Mémoire morcelée</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>samedi 26 avril 2008</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2010/10/image.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Mes images.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>mardi 26 octobre 2010</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2011/03/les-chemins-bleus.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Les chemins bleus.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>jeudi 24 mars 2011</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2009/02/bouchta-el-hayani-ou-la-transfiguration.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: BOUCHTA EL HAYANI ou la transfiguration du réel</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>mercredi 22 août 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/08/soif.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Soif</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>jeudi 30 août 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/07/rves-au-dessus-dun-nid-doiseaux.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Rêves au dessus d'un nid d'oiseaux</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>jeudi 13 septembre 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/07/visage_29.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Visage</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>vendredi 21 septembre 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/12/vision-de-lintrieur.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: La vision de l’intérieure de MONIA TUISS</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>lundi 17 décembre 2007</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2008/02/ben-cheffaj-saad-ou-les-reveres-de.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: BEN CHEFFAJ Saad , ou les revers de l'indicible.</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>samedi 9 février 2008</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2008/06/je-veux-bien-oublier-mes-sept-pchs-les.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: La route du mensonge</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>lundi 5 janvier 2009</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://poesienomade.blogspot.com/2007/08/je-suis-n-le-25-mai-1950-au-nord-du.html">
+        <dc:title>Poésie nomade de Mohamed El jerroudi.: Biographie</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>Jerroudi, Mohamed El</dc:creator>
+        <dc:date>samedi 5 février 2011</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://lejardindesmots.blogspot.com/">
+       <dc:title>Le Jardin Des Mots</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2017/02/les-puissants-de-casablanca-le-film.html">
+        <dc:title>Rida Lamrini: Les Puissants de Casablanca - Le film</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>22 février 2017</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2017/11/hamdi-conversation-post-mortem.html">
+        <dc:title>Rida Lamrini: Hamdi, conversation post-mortem</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>04 novembre 2017</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2019/04/lorsque-vient-lheure-de-partir.html">
+        <dc:title>Rida Lamrini: L'indéchiffrable rêve</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>18 avril 2019</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2017/09/ta-venue-au-monde-avait-eclaire-le.html">
+        <dc:title>Rida Lamrini: Hamdi, lumière des cœurs</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>03 septembre 2017</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2018/01/au-creux-de-la-nuit-les-silences.html">
+        <dc:title>Rida Lamrini: Au creux de la nuit… les silences coupables</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>18 janvier 2018</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2019/03/je-me-souviens-world-in-sixties.html">
+        <dc:title>Rida Lamrini: Je me souviens… The world in the sixties</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>23 mars 2019</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ridalamrini.blogspot.com/2019/04/les-flammes-de-lamour.html">
+        <dc:title>Rida Lamrini: Les flammes de l'amour</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>09 avril 2019</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://hindlabdag.com/">
+       <dc:title>Hind Labdag</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://laabi.net/">
+       <dc:title>(pas de titre)</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/mounahachim/">
+       <dc:title>Mouna hachim - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.andreelbaz.com/">
+        <dc:title>Andre Elbaz - le site officiel *</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://musique.arabe.over-blog.com/article-31936063.html">
+        <dc:title>Fatéma Chahid, la poésie de langue française au Maroc - Last Night in Orient</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.kamalbenkirane.com/">
+       <dc:title>Page d'accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.sihambenchekroun.com/">
+       <dc:title>Siham Benchekroun</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://plumeetkalam.canalblog.com/">
+        <dc:title>Plume et Kalam - Abdelkarim Belkassem</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.liguepoetes.net/author/sidi-miloud-bel-asri/">
+        <dc:title>Sidi Miloud bel Asri, auteur sur Ligue des Poètes</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pages/category/Author/Hafsa-Bekri-Lamrani-175933222507909/">
+        <dc:title>Hafsa Bekri-Lamrani - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.poemes.co/ahmed-barakat.html">
+        <dc:title>Ahmed Barakat - Poèmes de Ahmed Barakat</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/ahmedabdelmalik.bakkali.9">
+       <dc:title>Ahmed Abdelmalik Bakkali</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/saphia.azzeddine/">
+       <dc:title>Saphia Azzeddine - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.poemes.co/ali-sidqi-azaykou.html">
+        <dc:title>Ali Sidqi Azaykou - Poèmes de Ali Sidqi Azaykou</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://jamilaabitar.blogspot.com/p/blog-page.html">
+       <dc:title>Chemin d’errance</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/jamila.abitar">
+       <dc:title>(2) Jamila Abitar</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://hafidgood.com/">
+       <dc:title>Bio</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n7">
+        <dc:title>Ad hoc and general-purpose corpus construction from web sources. Linguistics.</dc:title>
+        <dc:type>thesis</dc:type>
+        <dc:creator>Barbaresi, Adrien</dc:creator>
+        <dc:publisher>ENS</dc:publisher>
+        <dc:date>2015</dc:date>
+        <dc:coverage>&lt;tel-01167309&gt;</dc:coverage>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.instagram.com/rawatkader/">
+        <dc:title>kader Rawat (@rawatkader) • Photos et vidéos Instagram</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.instagram.com/umar_timol/">
+        <dc:title>Umar Timol (@umar_timol) • Photos et vidéos Instagram</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:title>Umar Timol (@umar_timol) • Photos et vidéos Instagram</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="n8">
+        <dc:title>rupi kaur (@rupikaur_) • Photos et vidéos Instagram</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.nocomment.mg/mounawar-ibrahim-contre-la-culture-de-la-defaite/">
+        <dc:title>Mounawar Ibrahim : « Contre la culture de la défaite »</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2016-08-10T08:44:38+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Mounawar-Ibrahim-803641753098644/">
+       <dc:title>Mounawar Ibrahim - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://twitter.com/fsalimfay?lang=fr">
+        <dc:title>Faiza Soule Youssouf (@FSalimfay) | Twitter</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.habarizacomores.com/2015/11/faiza-soule-youssouf-je-refuse-de-me.html">
+        <dc:title>Faïza Soulé Youssouf: &quot;Je refuse de me soumettre&quot;</dc:title>
+        <dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/faiza.roxame?fref=ufi">
+       <dc:title>Faïza Soulé Youssouf</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ile-en-ile.org/toihiri/">
+        <dc:title>Mohamed Toihiri</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:date>2003-04-14T21:55:17+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/sahal.emadlev/">
+        <dc:title>Said Haroune Alhadhuiri Said Djae Hadji - Sahal - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Said Haroune Alhadhuiri Said Djae Hadji</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pages/category/Writer/Fathia-Radjabou-313907845484523/">
+       <dc:title>Fathia Radjabou - Accueil</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://tribune2lartiste.com/fathia-radjabou-raconte-je-ne-sais-pas-quoi-faire-de-ma-vie/">
+        <dc:title>Fathia RADJABOU raconte &quot;Je ne sais pas quoi faire de ma vie&quot;</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2015-03-30T13:13:22+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/Oubeidillah-Maeva-Dhoimiri-581871095339880/">
+        <dc:title>Oubeidillah Maeva Dhoimiri - Accueil</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.nocomment.mg/oubeidillah-maeva-dhoimiri-jaspire-a-devenir-un-auteur-engage/">
+        <dc:title>Oubeidillah Maeva Dhoimiri : « J’aspire à devenir un auteur engagé »</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://comores-infos.com/entretien-avec-patrice-ahmed-abdallah-auteur-et-editeur/">
+        <dc:title>Entretien avec Patrice Ahmed Abdallah, auteur et éditeur | Comores Actualites - Habari za Comores et Za massiwa</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.u-reed.com/lecteur.php?id=6397&amp;width=580&amp;height=848&amp;bg=FFFFFF">
+        <dc:title>Retour aux sources - Hassani Houssam</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatre-contemporain.net/video/Entretien-avec-Anssouffoudine-Mohamed-29e-Francophonies-en-Limousin">
+        <dc:title>Entretien avec Anssouffoudine Mohamed - theatre-contemporain.net</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:rights>Association CRIS 1999-2015</dc:rights>
+        <dc:publisher>theatre-contemporain.net</dc:publisher>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.google.com/search?client=firefox-b-d&amp;q=Mohamed+Anssoufouddine">
+        <dc:title>Mohamed Anssoufouddine - Recherche Google</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://mwendje.centerblog.net/3497-interview-de-said-ahmed-tourqui-sast">
+        <dc:title>Interview de Said Ahmed Tourqui (SAST)</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>SAST</dc:creator>
+        <dc:date>2014-02-05</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/charafaineben.mohamed">
+       <dc:title>Mohamed Ben Charafaine</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youscribe.com/catalogue/livres/litterature/poesie/complaintes-2787579">
+        <dc:title>Complaintes</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>YouScribe</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.nocomment.mg/mohamed-charafaine-rabearivelo-minspire/">
+        <dc:title>Mohamed Charafaine : « Rabearivelo m’inspire »</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:date>2017-07-31T07:20:56+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youscribe.com/catalogue/livres/litterature/poesie/les-mots-des-maux-2903641">
+        <dc:title>Les mots des maux</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>BACO, Fatima</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://kader-mourtadhoi.iggybook.com/fr/">
+        <dc:title>'Kader MOURTADHOI sur Iggybook</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>MOURTADHOI, Kader</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://kalamudesiles.com/2018/12/03/un-entretien-avec-un-ecrivain-engage/">
+        <dc:title>UN ENTRETIEN AVEC UN ÉCRIVAIN ENGAGÉ</dc:title>
+        <dc:type>blogPost</dc:type>
+        <dc:creator>rajabou</dc:creator>
+        <dc:date>2018-12-03T00:51:38+00:00</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://nadjlou.e-monsite.com/">
+       <dc:title>Nadjloudine Abdelfatah</dc:title><dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://km.ambafrance.org/Interview-de-l-ecrivain-Nassur-Attoumani-formateur-du-projet-Rencontres">
+        <dc:title>Interview de l’écrivain Nassur Attoumani, formateur du projet</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.youtube.com/watch?v=dSykDlUruaI">
+        <dc:title>Oluren Fekre| Notre pays ne nous aime pas</dc:title>
+        <dc:type>videoRecording</dc:type>
+        <dc:contributor>Comores Initiatives</dc:contributor>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://olurenfekre.free.fr/">
+       <dc:title>| Oluren Fekre</dc:title><dc:type>blogPost</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.facebook.com/pg/Crisdicietdailleurs/posts/">
+        <dc:title>Halidi Allaoui, POÈTE Recueil de poèmes - Cris d'ICI et d'AILLEURS - Publications</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://halidiallaoui.over-blog.com/">
+        <dc:title>HALIDI-BLOG-COMORES, Blog des COMORES</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>HALIDI</dc:creator>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://welovewords.com/documents/si-loin-de-toi">
+        <dc:title>Si loin de toi par Pascaline Volanamisoa</dc:title>
+        <dc:type>webpage</dc:type>
+    </rdf:Description>
+</rdf:RDF>
