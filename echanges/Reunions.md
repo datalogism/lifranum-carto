@@ -14,7 +14,7 @@ Description à travers ces littéralités de styles de vie, promotion, de la vie
 
 > Deja faire avec ce que l'on a  
   
-## Comment on été récupérés ces données ?  
+## Comment ces données ont-elles été récupérées  ?  
 * A travers la base de données de la BNF : les auteurs ayant publié au moins un livre. 
 * A travers l'exploration des liens
 * De manière intuitive
@@ -61,7 +61,7 @@ Ainsi on repart sur un autre corpus d'une centaine d'auteurs d'un _échantillon 
 * Du RDF on extrait:
   * le contenu du blog = en XML
     * auquel on extrait des **entités nommées** = en XML
-  *Problème des mots clefs qui permettent d'exploiter uniquement l'EXPLICITE. On perd donc tous les éléments IMPLICITE. Ce travail **ne peut pas s'automatiser, la main humaine est INDISPENSABLE**
+    * Problème des mots clefs qui permettent d'exploiter uniquement l'EXPLICITE. On perd donc tous les éléments IMPLICITE. Ce travail **ne peut pas s'automatiser, la main humaine est INDISPENSABLE**
   * des **fiches d'auteurs véritables** = en XML
 * À l'aide des fiches d'auteurs et des entitées nommées  on remonte jusqu'au fichier RDF pour faire les liens entre auteurs/contenus pour créer **_un fichier unique_** **!! ZONE DE FLOU !!**
 * exploitation du fichier avec JSON avec lequel on créera une page web contenant des visualisations.
@@ -73,19 +73,18 @@ Ainsi on repart sur un autre corpus d'une centaine d'auteurs d'un _échantillon 
 * Lefff : une surcouche de Spacy adapté au français
 
 ### Les sites de communautés-auteurs qui servent de points relais
-Des groupes d'auteurs critiques qui vont se retrouver lors d'**évènements**. Il faut donc trouver un moyen de _contextualiser les évènements_
-À l'aide de mots contextuels : nom de l'événement, date, lieu, etc.
+Des groupes d'auteurs critiques qui vont se retrouver lors d'**évènements**. Il faut donc trouver un moyen de _contextualiser les évènements_ : à l'aide de mots contextuels : nom de l'événement, date, lieu, etc.
 
 ### Finalement plusieurs corpus...
 * l'ensemble des URL
 * un corpus des *sites points-relais* qui permettent de faire les liens entres auteurs
-* le contenu des pages : *la production littéraire en elle-même
+* le contenu des pages : *la production littéraire en elle-même*
 * les fiches auteurs
 * la liste des événements
 
 ### Des prolongements annexes au projet
 #### But 2
-Proposé par **Velcin** : _Trouver un moyen d'**automatiser le processus d'annotation_enrichissement** de la bibliothèsque Zotero_ OU _Comment enrichir le RDF de métadonnées **automatiquement**.
+Proposé par **Velcin** : _Trouver un moyen d'**automatiser le processus d'annotation_enrichissement** de la bibliothèsque Zotero_ OU _Comment enrichir le RDF de métadonnées **automatiquement**_.
 
 Un questionnement commun dans l'équipe : **Jusqu'où arrêter l'automatisation?**. Lorsque l'ambition lié à la performance oublie le cerveau humain qui est INDISPENSABLE dans la recherche. Questionner les limites de la machine qui agit mais qui ne réfléchi pas. 
 * Nécessité d'écrire une partie sur ses points
@@ -93,16 +92,16 @@ Un questionnement commun dans l'équipe : **Jusqu'où arrêter l'automatisation?
   * Chercher s'il en existe
   * Référencer les sites qui propose des flux css et ceux qui n'en propose pas
 
-### But 3
+#### But 3
 _Comment exploiter les données autour de facebook._
 
-### But 4
+#### But 4
 Suite à une dicussion avec M. Cote : _Suivre le processus d'accomplissement d'un auteur du web jusqu'à la publication_
 
 Réfléchir à un (troisième) corpus qui serait un fichier XML d'auteurs publiés. Ce fichier pourrait être obtenu à l'aide des fiches d'autorités d'auteurs que possède la BNF.
 
 ### Le rendu de mi-novembre
-Un rendu rédigé qui doit être donner le **14 novembre**
+Un rendu rédigé qui doit être donné le **14 novembre**
 Une réunion après le rendu le **lundi 18 novembre 12H-13h15** dans _la salle Georges Lyvet de la MSH de Lyon_ (salle réservée à partir de 11H pour pouvoir s'entraîner). Une présentation avec des slides. 
 
 Faire **une proposition socle** avec des étapes variantes.
