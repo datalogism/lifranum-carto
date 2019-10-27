@@ -49,24 +49,24 @@ PAS SEULEMENT : on peux parler de liens si ils sont dans les même pays, région
 ## 22/10/2019 - présents : Anaïs et Inès ; Velcin et Cote
 
 ### Le corpus de BASE
-Mise au point avec le corpus Zotero qui était mal référencé et qui ne permettait un traitement intéressant des données:
+Mise au point avec le corpus Zotero qui était mal référencé et qui ne permettait pas un traitement intéressant des données:
 * M. Cote décide de référencer un maximum la bibliothèque Zotero telle qu'elle aurait du être faite auparavant
 * Il décide de se focaliser sur les données littéraires des auteurs du web littéraire de la zone caraïbe et plus particulièrement Haïti
 
-Ainsi on repart sur un autre corpus d'une centaine d'auteur. Un échantillon test **limité et représentatif**
+Ainsi on repart sur un autre corpus d'une centaine d'auteurs d'un _échantillon test **limité et représentatif**_
 
 ### Le schéma
  ![Screenshot](SCHEMA_SOCLE.png) 
 * Importation de la bibliothèque Zotéro (annotée grâce à BIBO) en fichier RDF avec des _métadonnées complètes_ afin d'être exploiter au maximum et créer des liens
 * Du RDF on extrait:
- * le contenu du blog = en XML
-  * auquel on extrait des **entités nommées** = en XML
+  * le contenu du blog = en XML
+    * auquel on extrait des **entités nommées** = en XML
   *Problème des mots clefs qui permettent d'exploiter uniquement l'EXPLICITE. On perd donc tous les éléments IMPLICITE. Ce travail **ne peut pas s'automatiser, la main humaine est INDISPENSABLE**
- * des **fiches d'auteurs véritables** = en XML
+  * des **fiches d'auteurs véritables** = en XML
 * À l'aide des fiches d'auteurs et des entitées nommées  on remonte jusqu'au fichier RDF pour faire les liens entre auteurs/contenus pour créer **_un fichier unique_** **!! ZONE DE FLOU !!**
 * exploitation du fichier avec JSON avec lequel on créera une page web contenant des visualisations.
 
-## les logiciels utilisés
+### les logiciels utilisés
 * Beautiful Soup : pour enlever les tags sur les pages
 * Newspaper : pour l'extraction du contenu des blogs
 * Spacy : étiquetage morphosyntaxique
@@ -74,11 +74,7 @@ Ainsi on repart sur un autre corpus d'une centaine d'auteur. Un échantillon tes
 
 ### Les sites de communautés-auteurs qui servent de points relais
 Des groupes d'auteurs critiques qui vont se retrouver lors d'**évènements**. Il faut donc trouver un moyen de _contextualiser les évènements_
-À l'aide de mots contextuels : 
-* nom de l'événement
-* date
-* lieu
-* etc
+À l'aide de mots contextuels : nom de l'événement, date, lieu, etc.
 
 ### Finalement plusieurs corpus...
 * l'ensemble des URL
@@ -94,8 +90,8 @@ Proposé par **Velcin** : _Trouver un moyen d'**automatiser le processus d'annot
 Un questionnement commun dans l'équipe : **Jusqu'où arrêter l'automatisation?**. Lorsque l'ambition lié à la performance oublie le cerveau humain qui est INDISPENSABLE dans la recherche. Questionner les limites de la machine qui agit mais qui ne réfléchi pas. 
 * Nécessité d'écrire une partie sur ses points
 * Proposer une solution pour **faciliter et non automatiser** le travail du chercheur à l'aide d'abonnement à des **FLUX CSS** des communautés d'auteurs.
- * Chercher s'il en existe
- * Référencer les sites qui propose des flux css et ceux qui n'en propose pas
+  * Chercher s'il en existe
+  * Référencer les sites qui propose des flux css et ceux qui n'en propose pas
 
 ### But 3
 _Comment exploiter les données autour de facebook._
@@ -112,9 +108,9 @@ Une réunion après le rendu le **lundi 18 novembre 12H-13h15** dans _la salle G
 Faire **une proposition socle** avec des étapes variantes.
 * Construction d'un réseau socle avec analyse des réseau auteurs en vue de proposer des visualisations *dynamiques*
 * TOUT mentionner
- * 1er problème : la question de la **représentativité**
- * 2ème problème : quand arrêter l'**automatisation**
- * 3ème problème : un projet qui fait l'impasse de **mots clefs de l'implicite**
+  * 1er problème : la question de la **représentativité**
+  * 2ème problème : quand arrêter l'**automatisation**
+  * 3ème problème : un projet qui fait l'impasse de **mots clefs de l'implicite**
  
  NE PAS OUBLIER LES CITATIONS D'ANAÏS ET DE CÉLIAN DANS LA RÉDACTION
  
