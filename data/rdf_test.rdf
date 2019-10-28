@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<foaf:Person rdf:about="http://example.net/Paul_Dupont">
+		<foaf:name>Paul Dupont</foaf:name>
+		<foaf:img rdf:resource="http://example.net/Paul_Dupont.jpg"/>
+		<foaf:knows rdf:resource="http://example.net/Pierre_Dumoulin"/>
+	</foaf:Person>
+	<foaf:Person rdf:about="http://example.net/Pierre_Dumoulin">
+		<foaf:name>Pierre Dumoulin</foaf:name>
+		<foaf:img rdf:resource="http://example.net/Pierre_Dumoulin.jpg"/>
+	</foaf:Person>
+	<foaf:Image rdf:about="http://example.net/Paul_Dupont.jpg">
+		<dc:description>Photo d'identité de Paul Dupont</dc:description>
+	</foaf:Image>
+	<foaf:Image rdf:about="http://example.net/Pierre_Dumoulin.jpg">
+		<dc:description>Photo d'identité de Pierre Dumoulin</dc:description>
+	</foaf:Image>
+</rdf:RDF>
