@@ -104,7 +104,7 @@ Réfléchir à un (troisième) corpus qui serait un fichier XML d'auteurs publi�
 
 ### Le rendu de mi-novembre
 Un rendu rédigé qui doit être donné le **14 novembre**
-Une réunion après le rendu le **lundi 18 novembre 12H-13h15** dans _la salle Georges Lyvet de la MSH de Lyon_ (salle réservée à partir de 11H pour pouvoir s'entraîner). Une présentation avec des slides. 
+Une réunion après le rendu le **lundi 18 novembre 12H-13h15** dans _la salle Georges Livet de la MSH de Lyon_ (salle réservée à partir de 11H pour pouvoir s'entraîner). Une présentation avec des slides. 
 
 Faire **une proposition socle** avec des étapes variantes.
 * Construction d'un réseau socle avec analyse des réseau auteurs en vue de proposer des visualisations *dynamiques*
