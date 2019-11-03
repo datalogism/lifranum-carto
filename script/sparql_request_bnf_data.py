@@ -11,8 +11,8 @@ url = 'https://data.bnf.fr/sparql?'
 nom="Théard"
 prenom="Marie-Alice"
   
-nom="Selmy"
-prenom="Accilien"
+#nom="Selmy"
+#prenom="Accilien"
 query = """
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
