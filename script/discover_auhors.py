@@ -41,14 +41,34 @@ def normalize_names(rw_name):
  
 #### SPLA FILE
 
-file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/spla_haiti3.json'
+file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/spla_haiti_final.json'
 
 with open(file, encoding='utf-8') as json_file:
     data = json.load(json_file)
-    
-corpus_haiti_spla=[d for d in data if ("country" in d.keys() and d["country"]=="Haiti")]
+corpus_haiti_spla=[]
+for d in data:
+    if("country" in d.keys() and d["country"]=="Haiti"):
+        corpus_haiti_spla.append(d)
+    if("desc" in d.keys() and "content" in d["desc"].keys() and "haiti" in d["desc"]["content"].lower()):
+        corpus_haiti_spla.append(d)
 list_author_spla=list(set([d['nom auteur'] for d in corpus_haiti_spla if d['nom auteur']!=""]))
 list_author_spla_norm=["_".join(normalize_names(n)) for n in list_author_spla]
+
+#### ILE EN ILE FILE
+
+file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/ile_en_ile.json'
+
+with open(file, encoding='utf-8') as json_file:
+    data = json.load(json_file)
+corpus_haiti_spla=[]
+for d in data:
+    if("country" in d.keys() and d["country"]=="Haiti"):
+        corpus_haiti_spla.append(d)
+    if("desc" in d.keys() and "content" in d["desc"].keys() and "haiti" in d["desc"]["content"].lower()):
+        corpus_haiti_spla.append(d)
+list_author_spla=list(set([d['nom auteur'] for d in corpus_haiti_spla if d['nom auteur']!=""]))
+list_author_spla_norm=["_".join(normalize_names(n)) for n in list_author_spla]
+
 # COTE CORPUS
 corpus_haiti_cote=[]
 import csv
@@ -58,7 +78,9 @@ with open(file, encoding='utf-8') as csvfile:
     header=next(readCSV)
     for row in readCSV:
         current={header[i]:row[i] for i  in range(len(header))}
+        current["URL"]=current["URL"][0:len(current["URL"])-1]
         corpus_haiti_cote.append(current)
+list_url_cote=list(set([d['URL'] for d in corpus_haiti_cote if d['URL']!=""]))
 list_author_cote=list(set([d['Auteur'] for d in corpus_haiti_cote if d['Auteur']!=""]))
 list_author_cote_norm=["_".join(normalize_names(n)) for n in list_author_cote]
 both=set(list_author_cote_norm).intersection(set(list_author_spla_norm))
@@ -69,17 +91,26 @@ file_path='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/LIFRANU
 g = Graph()
 from urllib import parse
 
+
 meta_by_domain={}
 for subj, pred, obj in g:
-    url=parse.urlsplit(subj)
+    url=str(subj)
     p=pred.replace("http://purl.org/dc/elements/1.1/","")
-    if url.netloc not in meta_by_domain.keys():
-        meta_by_domain[url.netloc]={}
-    if p not in meta_by_domain[url.netloc].keys():
-        meta_by_domain[url.netloc][p]=[]
-    if obj not in meta_by_domain[url.netloc][p]:
-        meta_by_domain[url.netloc][p].append(str(obj))  
-        
+    if url not in meta_by_domain.keys():
+        meta_by_domain[url]={}
+    if p not in meta_by_domain[url].keys():
+        meta_by_domain[url][p]=[]
+    if obj not in meta_by_domain[url][p]:
+        meta_by_domain[url][p].append(str(obj))  
+
+
+##### RECOUPEMENT DES URLS RDF-COTE
+common_url=set(list_url_cote).intersection(set(meta_by_domain.keys()))
+print("nb url common:",len(common_url))
+print("nb url cote:",len(list_url_cote))
+print("nb url rdf:",len(meta_by_domain.keys()))
+
+#### GET INTERESTING DATA FROM RDF
 list_url_from_rdf=[]
 for k in meta_by_domain.keys():
     if('haiti' in k):
@@ -192,7 +223,7 @@ for auth in bfn_found.keys():
         for r in res:
             if "link" in r.keys():
                 if "viaf" in r["link"]["value"]:
-                    r=requests.get(r["link"]["value"]+"/")
+                    r=requests.get(r["link"]["value"]+"/viaf.xml")
                     data=r.text
                     viaf_found[auth]=data
 
@@ -200,5 +231,5 @@ file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/viaf_data_fo
 with open(file, 'w', encoding='utf-8') as f:
     json.dump(viaf_found, f, ensure_ascii=False, indent=4)
                     
-            
+
         

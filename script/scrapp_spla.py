@@ -36,8 +36,9 @@ def close_driver(driver):
 
 data=[]
 
+data
 driver = init_driver()
-driver.get("http://www.spla.pro/fr/liste.personne.html?no_rub=5&fbclid=IwAR0EcB7kIP_aatWelXw_fFbvlVVUoiakGI4qTZ_FqDB2cnq5D77D6tZ2C4Y&page=152")
+driver.get("http://www.spla.pro/fr/liste.personne.html?no_rub=5&fbclid=IwAR0EcB7kIP_aatWelXw_fFbvlVVUoiakGI4qTZ_FqDB2cnq5D77D6tZ2C4Y&page=154")
 
 
 next_exist=driver.find_element_by_class_name("more")
@@ -66,6 +67,8 @@ for d in data:
             print("ok")
     else:
         d['activiés']=""
+        
+
 file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/spla_haiti1.json'
 
 with open(file, 'w', encoding='utf-8') as f:
@@ -75,13 +78,14 @@ with open(file, 'w', encoding='utf-8') as f:
 
 with open(file, encoding='utf-8') as json_file:
     data = json.load(json_file)
+    
 import requests
 
 for d in data:
-    
         if("get_info_done" not in d.keys() or d["get_info_done"]==0):
             try:
-                r  = requests.get(d["lien"])
+                r  = requests.get(d["lien"], timeout=1)
+                
                 id_pers=d["lien"].split(".")[-2]
                 data_c = r.text
                 soup = bs(data_c)
@@ -100,6 +104,11 @@ for d in data:
                     d["ref_list"]=ref_list
                 except:
                     print("pas pays")
+                try:
+                    webpage=soup.find("a", {'class':'lien-url'})
+                    d["webpage"]={"title":webpage["title"],"url":webpage["href"]}
+                except:
+                    print("page web")
             except:
                 print("conn refused")                
                 d["get_info_done"]=0
@@ -107,7 +116,7 @@ for d in data:
         if("get_info_done_2" not in d.keys() or d["get_info_done_2"]==0):
             try:
                 desc_link=("http://www.spla.pro/inc/fiche_descriptions_ajax.php?type=personne&no="+str(id_pers))
-                r  = requests.get(desc_link)
+                r  = requests.get(desc_link, timeout=1)
                 
                 d["get_info_done_2"]=1
                 data_c = r.text
