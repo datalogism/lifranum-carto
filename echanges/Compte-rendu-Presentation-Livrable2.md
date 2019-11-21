@@ -23,3 +23,7 @@ Graphiques indispensables:
 * une visualisation en tableau pour revenir sur les URLs. 
 * une visualisation graphique en réseau (sur les parcours de vie par exemple)
 *(Le petit plus, si possible, un graphique sur les entités nommés)
+
+# remarques suplémentaires
+Concernant le dossier, penser à créer un index avec des définitions
+Faire relire à Velcin pour vérifier le ton. 
