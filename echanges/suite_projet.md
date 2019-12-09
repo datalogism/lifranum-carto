@@ -18,7 +18,7 @@ Visualisation:
 ----------------
 ## _Définir structure données_
 * _Structure TEI Auteurs_
-* _Structure TEI Pays_
+* _Structure TEI Pays_ [Celian - creation gazette lieu geo]
 * _Structure TEI Entité Nommée_
 * _Structure fichier liens FOAF relations_
 
