@@ -60,14 +60,10 @@ file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/ile_en_ile.j
 
 with open(file, encoding='utf-8') as json_file:
     data = json.load(json_file)
-corpus_haiti_spla=[]
-for d in data:
-    if("country" in d.keys() and d["country"]=="Haiti"):
-        corpus_haiti_spla.append(d)
-    if("desc" in d.keys() and "content" in d["desc"].keys() and "haiti" in d["desc"]["content"].lower()):
-        corpus_haiti_spla.append(d)
-list_author_spla=list(set([d['nom auteur'] for d in corpus_haiti_spla if d['nom auteur']!=""]))
-list_author_spla_norm=["_".join(normalize_names(n)) for n in list_author_spla]
+corpus_haiti_ile_en_ile=[]
+for d in data.keys():
+    corpus_haiti_ile_en_ile.append(d)
+list_author_ile_en_ile_norm=["_".join(normalize_names(n)) for n in corpus_haiti_ile_en_ile]
 
 # COTE CORPUS
 corpus_haiti_cote=[]
@@ -83,7 +79,7 @@ with open(file, encoding='utf-8') as csvfile:
 list_url_cote=list(set([d['URL'] for d in corpus_haiti_cote if d['URL']!=""]))
 list_author_cote=list(set([d['Auteur'] for d in corpus_haiti_cote if d['Auteur']!=""]))
 list_author_cote_norm=["_".join(normalize_names(n)) for n in list_author_cote]
-both=set(list_author_cote_norm).intersection(set(list_author_spla_norm))
+both=set(list_author_ile_en_ile_norm).intersection(set(list_author_cote_norm))
 
 #### CORPUS RDF 
 from rdflib.graph import Graph
@@ -91,7 +87,7 @@ file_path='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/LIFRANU
 g = Graph()
 from urllib import parse
 
-
+g.parse(file_path)
 meta_by_domain={}
 for subj, pred, obj in g:
     url=str(subj)
@@ -156,7 +152,7 @@ list_rdf_author_norm=["_".join(normalize_names(aut[0])) for aut in list_rdf_auth
 
 import requests
 url = 'https://data.bnf.fr/sparql?'
-every_author_norm=list(set(list_rdf_author_norm+list_author_cote_norm+list_author_spla_norm))
+every_author_norm=list(set(list_author_cote_norm+list_author_spla_norm+list_author_ile_en_ile_norm))
 bfn_found={}
 for auth in every_author_norm:
     splitted=auth.split("_")
