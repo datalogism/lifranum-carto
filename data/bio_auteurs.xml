@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="fr" xml:id="bio_auteurs">
+   
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biographies des entités auteurs - corpus Haïti</title>
+            <author>Inès Burri</author>
+            <author>Anaïs Chambat</author>
+            <author>Célian Ringwald</author>
+         </titleStmt>
+         <publicationStmt>
+            <orgName>Université Jean Moulin Lyon 3</orgName>
+            <orgName>Université Lumière Lyon 2</orgName>
+            <orgName>ENS de Lyon</orgName>
+            <pubPlace>Lyon</pubPlace>
+            <date>30.12.2019</date>
+         </publicationStmt>
+         <sourceDesc>Liste des biographies des entités auteurs présents sur îles-en-îles</sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text xml:id="Marie-Célie Agnant" ref="http://ile-en-ile.org/agnant/" hand="Lucie Lequin"><!-- xml:id = prénom, nom de l'auteur ; ref = adresse de la bio ; hand = dernier paragraphe de la bio (penser à enlever le tiret) -->
+      <p><figure>
+         <head>portrait de l'auteur</head> <!-- photo sur le site île-en-île dans => div class = 'post-content' img src--> 
+         <graphic url="http://ile-en-ile.org/agnant/"></graphic>
+      </figure></p>
+      <p>Poète, nouvelliste, romancière, Marie-Célie Agnant quitte Haïti pour le Canada en 1970. Traductrice et interprète, elle détient un diplôme en enseignement du français et a enseigné plusieurs années tout en travaillant comme assistante de recherche. C’est ainsi que son premier roman, La dot de Sara, publié en 1995, sera « construit à partir de récits de vie de grands-mères d’origine haïtienne, transmis en créole dans le cadre d’une recherche en sociologie ».</p>
+      <p>Écrivaine présente et attentive au monde qui l’entoure, son écriture porte à la fois le sceau de la poésie et de la violence issue des sociétés postcoloniales qui naviguent entre misère criante et opulence indécente. Ses textes, dont certains ont été traduits en plusieurs langues, trouvent leur ancrage dans la réalité sociale contemporaine ; elle aborde les thèmes tels l’exclusion, la solitude, le racisme, l’exil. La condition des femmes, le rapport au passé et à la mémoire font aussi partie de son champ d’exploration.</p>
+      <p>Elle publie aussi des ouvrages destinés aux jeunes, s’intéresse au théâtre et a travaillé avec le Bread and Puppet Theater (dans le Vermont).</p>
+      <p>Conteuse, Marie-Célie Agnant participe aux festivals de contes tenus au Québec et ailleurs, et anime régulièrement des séances et ateliers de contes pour petits et grands. Elle conte en français, en anglais en créole et en espagnol.</p>
+      <p>Membre de l’Union des écrivains et écrivaines du Québec, elle est inscrite au répertoire des artistes et écrivains à l’école.</p>
+      <p>Au cœur de son œuvre, la résonance de l’histoire particulière d’Haïti, sa culture et surtout sa souffrance drue et indicible bourdonnent. D’un livre à l’autre, inlassablement, l’auteure arpente l’impossible distance d’avec la mémoire – celles de ses ancêtres, mémoires inventées, pour la plupart, mais combien familières à tous ceux qui habitent la souffrance d’où qu’ils soient.</p>
+      <p>Marie-Célie Agnant construit une œuvre qui parle de l’humain – principalement des femmes – accablé par la vie et l’incapacité d’oublier. C’est que le poids de cette mémoire surchargée ne laisse jamais indemne. Néanmoins, au-delà de cet héritage lourd à porter, les femmes, sous la plume d’Agnant, en quête d’elles-mêmes, tentent de se reconstruire, ou pas, dans un monde décomposé, parfois putréfié, qui laisse peu de place à l’humain. De diverses façons, certaines d’entre elles sont enlisées dans leur cimetière intérieur, d’autres cherchent une neutralité tout aussi aliénante, tandis que certaines refusent le renoncement à soi et se battent pour leur soi, « debout dans la lumière, à affronter les coutelas » (Femmes au temps des carnassiers). Celles-ci veulent « vivre dans la dignité, vivre en femmes debout ».</p>
+      <p>Outre le travail sur la mémoire, les mots dans le silence et le silence dans les mots sont explorés. Sur des modes différents, les voix narratives tentent de faire le pont entre leur généalogie personnelle, un certain passé collectif et un présent, souvent solitaire. À la fois, conscientes du passé et tournées vers l’avenir, elles déroulent le fil de la parole et le tendent à la génération qui les suit pour que celle-ci puisse se former une identité en mouvement, certes tributaire de l’héritage, mais aussi se forgeant à même l’inouï, à tout le moins dans une autonomie certaine.</p>
+      <p>Ce passage du savoir et ce testament de la parole traversent l’œuvre d’Agnant, et souvent, s’ouvrent, malgré tout, sur une célébration de la vie, de l’affection, de l’amitié et de l’amour, ne serait-ce qu’un instant comme un baume sur la déchirure.</p>
+      <p>De nombreuses questions sous-tendent l’œuvre. Comment se faire à la fois passeuse de la mémoire fondatrice et de la vie ? Raccommoder la mémoire et naître à nouveau ? Comment transmettre non seulement la mémoire historique, mais aussi une mémoire sensuelle faisant appel aux odeurs, aux couleurs et aux bruits ? Comment jongler avec le déracinement et l’enracinement ? Donner à voir le mal qui nous plonge ou nous a plongés dans la souffrance, sans s’incarcérer dans le rôle de victime ?</p>
+      <p>Si les livres d’Agnant s’emploient souvent à dénoncer le mal, ils font toujours signe à la vie et nous permettent d’habiter notre monde insensé.</p>
+      <p>Entre éros et thanatos, Marie-Célie Agnant se pose tout au long de ses différents textes, des questions essentielles sur le comment vivre comme sur le vivre ensemble et les raconte. Tout en déplorant l’absence de mots justes pour dire ce qui arrive à l’un et l’une à cause de l’autre, pour ajouter à l’Histoire des pans d’histoires personnelles, Agnant trouve néanmoins les mots pour dire l’indicible, du moins une partie, et nous les donne à lire.</p>
+   </text>
+</TEI>
