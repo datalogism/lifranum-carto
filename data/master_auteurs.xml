@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="master_auteurs">
+    <xi:include href="bio_auteurs.xml"/>
+    <xi:include href="fiches_auteurs.xml"/>
+    <xi:include href="contenus_auteurs.xml"/>
+</master>
+
