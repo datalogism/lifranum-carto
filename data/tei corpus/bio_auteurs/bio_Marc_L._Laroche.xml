@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Marc_L._Laroche_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deMarc L. Laroche</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/laroche/" xml:id="Marc_L._Laroche_bio_auteur_ile_en_ile">
+    <p>Marc Léo Laroche est né le 30 juin 1940 à La Vallée de Jacmel (Haïti). Après des études secondaires au Lycée Pinchinat de Jacmel et des années d’enseignement qui le plongent dans les littératures française et haïtienne, il s’initie à la pratique littéraire en ébauchant son premier roman (égaré) en plus de composer des poèmes.</p>
+    <p>Par la suite, il s’inscrit à la faculté de droit qu’il choisit d’abandonner en 1967 pour fuir l’atmosphère étouffante du régime de Duvalier et émigrer au Canada. Cette année même, il s’inscrit à l’Université de Montréal, et plus tard, à l’Université du Québec à Montréal où il obtient sa maîtrise en sociologie.</p>
+    <p>Au cours des années suivantes, parallèlement à la poursuite de sa formation universitaire, il a œuvré à différents niveaux sur les problèmes de dysfonctions sociales auprès des jeunes, participant à des forums variés où ces problèmes sont appréhendés et refoulant systématiquement, en raison de contraintes professionnelles, ses préoccupations littéraires.</p>
+    <p>À cette époque, il a occupé différents rôles dans l’administration des services sociaux du Montréal Métropolitain, comme professionnel, chef de division ou chef de service avant de passer au ministère de la santé et des services sociaux du Québec à la direction des services aux communautés culturelles.</p>
+    <p>Il a fallu attendre le tournant du siècle pour le voir faire la place aux œuvres d’imagination en y allant de ses propres créations avec une pièce de théâtre et un roman. D’autres œuvres en préparation, de facture poétique et romanesque, devront paraître dans un avenir pas trop éloigné.</p>
+  </text>
+</TEI>

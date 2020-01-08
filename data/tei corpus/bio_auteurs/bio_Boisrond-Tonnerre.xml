@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Boisrond-Tonnerre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deBoisrond-Tonnerre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/boisrond/" xml:id="Boisrond-Tonnerre_bio_auteur_ile_en_ile">
+    <p>Louis Félix Mathurin Boisrond est né le 6 novembre 1776 aux Cayes, dans la pleine de Torbeck, dans la colonie française de Saint-Domingue. Son père, Mathurin Boisrond, est charpentier. Selon la tradition, le surnom ajouté à son nom de famille, Tonnerre, lui serait donné le jour de sa naissance par son père, suite au foudre impressionnant qui éclate ce jour-là. Plus logique, Louis Boisrond aurait rajouté à son nom celui de la ville de Tonnerre en France (en Bourgogne), où il fait ses études dans les années 1790.</p>
+    <p>Jeune homme, Louis Boisrond part avec son oncle paternel Louis-François Boisrond, député de la colonie au Conseil des Cinq-Cents, pour faire des études à Paris, au Collège de la Marche, où il se passionne moins pour les études que pour les luttes politiques de l’époque, d’après l’historien Joseph Saint-Rémy.</p>
+    <p>Après son retour à Saint-Domingue en 1798, Louis Boisrond-Tonnerre se fixe à Saint-Louis-du-Sud. Il rencontre le général Dessalines au champ Gérard où Geffrard a établi son quartier général. Du 22 septembre 1799 au 22 septembre 1801, Boisrond-Tonnerre est receveur au bureau des douanes.</p>
+    <p>Selon Edrick Richemond « le ton brusque du jeune homme, son affectation à parler le créole le plus grossier, sa fougue révolutionnaire plurent énormément au géneral ». Dessalines fait de lui son secrétaire et son principal conseiller.</p>
+    <p>Après la défaite des troupes françaises à la Bataille de Vertières le 18 novembre 1803, et la signature de reddition du général de Rochambeau le lendemain, Dessalines, le général victorieux de l’armée indigène, choisit le 1er janvier 1804 comme date officielle d’indépendance. Il charge l’un des officiers de son état-major, Charéron, de rédiger l’acte d’indépendance. Le résultat ne plaît ni à Dessalines ni à Boisrond-Tonnerre ; celui-ci dira à Dessalines, « tout ce qui a été fait n’est pas en harmonie avec nos dispositions actuelles, il nous faut la peau d’un blanc pour parchemin, son crâne pour écritoire, son sang pour encre et une baïonnette pour plume ! ». Ces paroles sanguinaires, nourries des crimes dont il a été témoin aux Cayes et en d’autres lieux, semblent plaire au plus haut point le sentiment de Dessalines. Ainsi, celui-ci confie, la nuit du 31 décembre 1803, à Boisrond-Tonnerre la rédaction de l’Acte de l’Indépendance d’Haïti.</p>
+    <p>Avec la Proclamation du Général en Chef au Peuple d’Haïti et l’Acte de nomination du Général en Chef au gouvernement général d’Haïti, l’Acte de l’Indépendance est lu devant le publique réuni à Gonaïves le 1er janvier 1804. Rédigés en français et lus par leur auteur, Boisrond-Tonnerre, après les discours en créole de Dessalines, les documents originaux de ces textes n’ont jamais été retrouvés.</p>
+    <p>L’adjudant général Boisrond-Tonnerre signe ses Mémoires pour servir a l’histoire d’Hayti en 1804. Par ses mémoires, et surtout par l’Acte de l’Indépendance du nouveau pays, Boisrond-Tonnerre devient le premier écrivain haïtien.</p>
+    <p>Boisrond-Tonnerre reste très proche de l’empereur Dessalines. Selon Saint-Rémy, « Vicieux comme lui, plein de vanité, délateur, perfide, Boisrond-Tonnerre devient pour ainsi dire l’âme damnée du nouveau gouvernement ». Boisrond-Tonnerre assiste à l’assassinat de Jean-Jacques Dessalines le 17 octobre 1806. Le même jour, il est arrêté et emprisonné. Louis Boisrond-Tonnerre est assassiné à son tour, le 23 octobre 1806 à Port-au-Prince.</p>
+  </text>
+</TEI>

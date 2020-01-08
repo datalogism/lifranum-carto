@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Emeric_Bergeaud_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deÉmeric Bergeaud</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="nne Marty" ref="http://ile-en-ile.org/bergeaud/" xml:id="Emeric_Bergeaud_bio_auteur_ile_en_ile">
+    <p>Émeric Bergeaud est né aux Cayes en 1818. À trente ans, il s’exile sur l’île de Saint-Thomas lors de l’insurrection en 1848 contre Faustin Souloque (qui deviendra l’empereur Faustin Ier). Bergeaud meurt à Saint-Thomas le 23 février 1858, non sans avoir terminé Stella, le premier roman haïtien.</p>
+    <p>C’est en exil qu’Émeric Bergeaud écrit Stella. Son engagement politique le contraint, pour rester en vie, à quitter son pays pour l’île de Saint-Thomas. Après son décès, un de ses amis, Beaubrun Adouin, se chargera de la première publication du roman en 1859, et sa veuve veillera à la réédition de 1887, cette fois-ci sans préface ni notice biographique.</p>
+    <p>Stella, récit entre apologue et roman d’apprentissage</p>
+    <p>Même si cette oeuvre comporte ici ou là des expressions créoles ou fait allusion à un conte, à la fable créole du Figuier maudit, à des traductions de proverbes traditionnels, elle ne porte pas témoignages des contradictions linguistiques qui jalonneront, par la suite, la quête d’identité littéraire haïtienne.</p>
+    <p>En revanche, véritable récit fondateur, Stella véhicule la quête des repères aptes à structurer une conscience collective, à fixer le sentiment d’appartenir à une même nation. Admirable « récit des origines », il se double d’une dimension « d’apprentissage ». C’est l’histoire de deux frères utérins, Romulus, l’aîné, est orphelin de père africain, le cadet Rémus n’a pas été reconnu par le colon son père chez qui sert Marie leur mère africaine. Un jour, pour une broutille, celle-ci est assassinée par le colon. Depuis lors, les deux frères n’auront de cesse de vouloir venger la mort de leur mère en tuant le colon blanc. Leur combat avec les autres esclaves comportera deux grandes étapes : la conquête de la liberté (la dignité par l’abolition de l’esclavage), puis la conquête de l’indépendance nationale. On les voit se tromper, se décourager, tirer les leçons de leurs erreurs, affronter les divers obstacles avec tantôt des réussites, tantôt des échecs ; sont évoquées les questions de tactiques et de stratégies militaires. L’auteur s’est appuyé sur le pastiche d’une précédente épopée fondatrice, celle de L’Énéide du poète romain, Virgile. Et il parvient à faire du récit de la libération des esclaves et du pays une merveilleuse épopée haïtienne.</p>
+    <p>Tout au long de leur vie, Romulus et Rémus sont véritablement portés par deux images de femmes à dominante maternelle : la mère noire biologique qui les hante représente les passions et alimente leur désir de vengeance ; réussir dans la vie c’est venger la mère. Quant à Stella, la jeune femme blanche, elle est otage et donc victime du colon blanc ; d’origine modeste, mais instruite, elle incarnera Dieu, la morale, l’idéal du combat pour la liberté, en un mot la Loi. C’est une allégorie dont la fonction pratique et symbolique est fondamentale pour le succès de l’action.</p>
+    <p>L’histoire de ces deux héros se termine sur la déclaration de l’indépendance, correspondant au 1er janvier 1804. On a suivi l’évolution de ces personnages jusqu’au sacre final, passage de Saint-Domingue à Haïti. Ils ont réussi leurs objectifs : liberté et indépendance pour leur peuple. Mais la loi ne semble pas avoir été personnellement intériorisée par les deux garçons, puisque jusqu’au dernier moment, elle est incarnée et proférée par Stella qui aussitôt disparaît dans les airs. L’interprétation de la fable permet de dire que les chefs du pays demeurent encore des fils sous l’emprise de la loi maternelle, et non des adultes véritablement affranchis de cette autorité féminine. Mais ce qui importait à l’auteur, semble-t-il, c’était plutôt l’apprentissage collectif du peuple qui a abouti à sa libération et à son indépendance.</p>
+  </text>
+</TEI>

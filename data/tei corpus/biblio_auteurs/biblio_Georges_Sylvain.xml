@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Georges_Sylvain_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Georges Sylvain</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/sylvain_georges/" xml:id="Georges_Sylvain_biblio_auteur_ile_en_ile">
+    <list subtype="ailleurs sur le web">
+      <item ref="http://pinzweb.com/national/georges-sylvain-un-opposant-farouche-de-loccupation-americaine-de-1915-par-schultz">Georges Sylvain, un opposant farouche de l’occupation américaine de 1915</item>
+      <item ref="https://lenouvelliste.com/article/130180/la-grande-soeur-de-georges-sylvain">La grande sœur de Georges Sylvain</item>
+    </list>
+    <list subtype="poésie">
+      <item>Confidences et Mélancolies. Paris: Ateliers haïtiens, 1901; Imprimerie Henri Deschamps, 1975, 1979; Port-au-Prince: Presses nationales d’Haïti, 2005; Port-au-Prince: Legs Édition, 2014.</item>
+    </list>
+    <list subtype="fables">
+      <item>Cric-Crac. Fables de La Fontaine racontées par un montagnard haïtien. Paris: Ateliers haïtiens, 1901; Port-au-Prince: Imprimerie Mme G. Sylvain, 1929; Port-au-Prince: Imprimerie de l’État, 1954; Nendelin: Kraus Reprint, 1971; Port-au-Prince: Fardin, 2004; Paris: L’Harmattan, 2011.</item>
+    </list>
+    <list subtype="essais">
+      <item>Auteurs haïtiens. Morceaux choisis (en collaboration avec Solon Menos et Dantès Bellegarde). Port-au-Prince: Imprimerie Mme F. Smith, 1904.</item>
+      <item>La lecture. Recueil des causeries faites aux conférences postscolaires du comité haïtien de l’Alliance française. Port-au-Prince: Imprimerie de l’Abeille, 1908.</item>
+      <item>Dix années de lutte pour la liberté (en deux volumes). Port-au-Prince: Henri Deschamps, 1959; Port-au-Prince: Fardin, 2007.</item>
+    </list>
+    <list subtype="distinction littéraire">
+      <item>1906    Prix Auguste Furtado de l’Académie française, pour Auteurs haïtiens. Morceaux choisis.</item>
+    </list>
+    <list subtype="sur l’oeuvre de georges sylvain">
+      <item>Anon. « En relisant Cric ? Crac !, de Georges Sylvain ». L’Informateur haïtien, Port-au-Prince (21 avril 1919).</item>
+      <item>Berrou, Frère Raphaël. « Un centenaire : Georges Sylvain ». Conjonction 101 (avril 1966 : 75-81.</item>
+      <item>Bervin, Antoine. « Le Souvenir de Georges Sylvain ». Le Nouvelliste (août 1975).</item>
+      <item>Chancy, Hermann. « Hommage à Georges Sylvain ». L’Action (Port-au-Prince, 1er août 1947).</item>
+      <item>Charles, Christophe Philippe. « Georges Sylvain ». Manuel de littérature haïtienne par les textes. Tome III. La Génération de la Ronde (Poètes et Romanciers), Port-au-Prince : Choucoune, 2011 : 10-24.</item>
+      <item>Fardin, Dieudonné. « Georges Sylvain ». Histoire de la littérature haïtienne. Tome III. Le Mouvement de la Ronde : l’École éclectique (1898-1915), Port-au-Prince, éd. Fardin, 2009, pp. 43-69.</item>
+      <item>Gaillard, Roger. « Commentaire d’un poème créole ». Le Nouveau Monde (Port-au-Prince, 24 décembre 1974).</item>
+      <item>Jean, Eddy Arnold et Fièvre, Justin O. « Georges Sylvain ». Littérature haïtienne. Le dix-neuvième siècle. Tome II. Port-au-Prince: Haïti-Demain, 2010 : 23-52.</item>
+      <item>Jolibois, Gérard. « Résurgence du parnassien Georges Sylvain, mandarin des lettres ». Le Nouvelliste (12 juin 1980).</item>
+      <item>Land, George. « La Fontaine transmogrifield : Creole Proverbs and the Cric? Crac! Of Georges Sylvain ». The French Review 63.4 (1990): 679-693.</item>
+      <item>Larra, Adolphe. « Georges Sylvain ». Le Nouvelliste (Guadeloupe, 26 septembre 1925).</item>
+      <item>Laurent, Gérard M. « Hommage à Georges Sylvain ». Le Nouvelliste (1er août 1975).</item>
+      <item>Lhérisson, Justin. « Georges Sylvain ». La Jeune Haïti (Port-au-Prince) 2.7 (24 novembre 1894): 98-99.</item>
+      <item>Mehu-François, Marie Thérèse. Des rimes à la résistance : l’apostolat de Georges Sylvain. Coconut Creek: Educa Vision Inc, 2008.</item>
+      <item>Ménard, Nadève. « (Re)Lire Georges Sylvain, écrivain à la croisée des frontières ». Journal of Haitian Studies 21.2 (Fall 2015) : 307-321.</item>
+      <item>Paillère, Madeleine. « Confidences et mélancolies, de Georges Sylvain ». Conjonction 147 (mars 1980): 107-120.</item>
+      <item>Parmée, Douglas. « Cric ? Crac ! by Georges Sylvain : Fables of La Fontaine in Haitian Creole, A Literary Etno-socio-linguistic Curiosity ». Nottingham French Studies 15.2 (November 1976): 12-26.</item>
+      <item>Petit Frère, Dieulermesson. « Georges Sylvain : entre confidences et mélancolies ». Confidences et mélancolies (dossier). Port-au-Prince: Legs Édition, 2014: 87-98.</item>
+      <item>Petit Frère, Dieulermesson. « Georges Sylvain : complaintes, angoisse et mélancolie ». Haïti: littérature et décadence. Études sur la poésie de 1804 à 2010. Port-au-Prince: Legs Édition, 2017: 163-173.</item>
+      <item>Phareaux, Lallier C. « Georges Sylvain, le patriote, le lutteur ». Le Nouvelliste (1er août 1975).</item>
+      <item>Pompilus, Pradel et Berou Raphaël. « Georges Sylvain ». Manuel illustré d’Histoire de la littérature haïtienne. Port-au-Prince: Deschamps, 1961: 234-243.</item>
+      <item>R. L. « En marge de Cric ? Crac !, de Georges Sylvain ». La Relève (Port-au-Prince) 5.1 (1er juillet 1936): 27-29.</item>
+      <item>Roméus, Wilhem. « Confidences et mélancolies, de Georges Sylvain ». Le Nouvelliste (6 août 1975).</item>
+      <item>Roméus, Wilhem. « La Fixation maternelle dans ‘Confidences et mélancolies’ de Georges Sylvain », polycopié, s.l.n.d., [Port-au-Prince, 1975].</item>
+      <item>Vaval, Duraciné. « Georges Sylvain ». Histoire de la littérature haïtienne ou l’âme noire. Port-au-Prince: Fardin, 1933: 74-80.</item>
+      <item>Williams, Perry A. La Fontaine in Creole : A Study of « Cric ? Crac ! » by Georges Sylvain. Thèse de Ph.D., University Microfilms International, Ann Arbor, Michigan, 1973, 271 pp.</item>
+    </list>
+  </div>
+</TEI>

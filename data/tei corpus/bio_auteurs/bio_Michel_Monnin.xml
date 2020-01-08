@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Michel_Monnin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deMichel Monnin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/monnin/" xml:id="Michel_Monnin_bio_auteur_ile_en_ile">
+    <p>Michel Monnin est né à Bienne, dans le canton du Jura (Suisse), en 1940. En 1948, sa famille s’établit en Haïti. Il fait ses études à l’Institution Saint-Louis-de Gonzague. En 1956, ses parents inaugurent la Galerie Monnin, à Pétion-Ville et c’est en 1965 que dans le cadre d’un projet touristique, Michel Monnin séjourne à Port-Salut, milieu rural où il ancre ses racines définitivement haïtiennes. À partir de 1968, il se consacre entièrement à la promotion de l’art haïtien.</p>
+    <p>À la suggestion des peintres – Calixte Henri, Manès, Carlo Jean-Jacques, qui partagent un atelier à la Galerie Monnin – il prend en main un groupe de très jeunes artistes qui deviendront célèbres sous le nom de « peintres de l’espace haïtien » (Jean-Marie Drot) dont les plus connus sont Saint-Louis Blaise, Roosevelt Sanon, Sénatus et Lamour.</p>
+    <p>Michel Monnin est l’auteur de plusieurs biographies de peintres et de textes sur la peinture publiés dans les catalogues d’expositions (au Grand Palais de Paris) et dans les journaux.</p>
+  </text>
+</TEI>

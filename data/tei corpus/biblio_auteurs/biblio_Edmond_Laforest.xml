@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Edmond_Laforest_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Edmond Laforest</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/laforest_edmond/" xml:id="Edmond_Laforest_biblio_auteur_ile_en_ile">
+    <list subtype="sur île en île">
+      <item ref="http://ile-en-ile.org/edmond-laforest-par-charles-moravia-1915/">Edmond Laforest</item>
+    </list>
+    <list subtype="ailleurs sur le web">
+      <item ref="http://poesie.webnet.fr/poemes/Haiti/laforest/1.html">Baiser du jour </item>
+    </list>
+    <list subtype="poésie">
+      <item>L’Évolution. Port-au-Prince: Imprimerie Mme F. Smith, 1901, 29p.</item>
+      <item>Poèmes Mélancoliques, 1894-1900. Port-au-Prince: Imprimerie Henry Amblard, 1901.</item>
+      <item>La dernière fée, fantaisie en vers. Port-au-Prince: Imprimerie de l’Abeille, 1909, 12p.</item>
+      <item>Sonnets-Médaillons du dix-neuvième siècle, ornés de quatre-vingt-dix portraits authentiques et de douze fleurons originaux. Paris: Librairie Fischbacher, 1909 (deuxième et troisième éditions, 1910), 216p.</item>
+      <item>Cendres et flammes. Paris: A. Messein, 1912.</item>
+    </list>
+    <list subtype="essais et conférences">
+      <item>L’Oeuvre poétique d’Etzer Vilaire. Conférence prononcée le 30 janvier 1907, à la soirée donnée au profit des élèves du Lycée Nord Alexis de Jérémie; suivie des discours de MM. Auguste Garoute et Etzer Vilaire, et d’une poesie de M.J.B. Jn. Vilaire. Jérémie: Imprimerie Du Centenaire, 1907, 40p.</item>
+      <item>L’Oeuvre des poètes, conférence prononcée au Cercle Catholique de Jérémie le 29 septembre 1908. Port-au-Prince: Imprimerie de l’Abeille, 1908, 35p.</item>
+      <item>Sabre et plume ou Vie et œuvre d’Alibée Féry. (Alibée Féry, sa vie et ses ouvrages), 1909.</item>
+      <item>À propos de la culture allemande (brochure). 1914.</item>
+    </list>
+    <list subtype="dans les revues">
+      <item>En plus des revues dont il était directeur, comme Haïti littéraire et scientifique (1912), Edmond Laforest a collaboré à des publications telles La Ronde, La Petite Revue et Haïti littéraire et sociale.</item>
+      <item>Ses articles dans Le Nouvelliste comprennent les contes, « Le Crâne de l’Indien Ciguay » et « La Montre » (1902).</item>
+      <item>Dans La Plume, il contribue notamment une série d’articles, Le grand conflit (1914).</item>
+      <item>Des articles sur la Convention Americano-haïtienne, publiés dans La Patrie (1915).</item>
+    </list>
+    <list subtype="inédits">
+      <item>Documents à la Bibliothèque Haïtienne des Pères du Saint-Esprit (Port-au-Prince):
+
+Edda, simple histoire (repris dans Cendres et flammes).
+Correspondance multiple, dont:
+
+Correspondance avec Clément Magloire, directeur du Nouvelliste.
+Correspondance avec Jean Ribier.
+
+
+Dédicaces.
+Journal, 1898-1901.
+Nouvelles (huit, dont certaines déjà publiées dans des revues): « Le Bienfaiteur », « La lettre et le bout de papier », « Où l’amour va se nicher », « Larmes pures », « Tendresse tardive », « Un droit de la femme », « Abîmé » et « En tout cherchez la femme ».
+La Rage de rimer (comédie).
+Romans (canevas):
+
+Chère adoptée (1894).
+L’engrenage.
+ Les deux fables.
+
+
+Souvenirs de mes relations littéraires, réflexions et pensées.
+Le Vent, comédie en un acte, en vers. Jérémie, mars 1908.
+Deux études sur les premiers recueils de Laforest.
+
+</item>
+      <item>Edda, simple histoire (repris dans Cendres et flammes).</item>
+      <item>Correspondance multiple, dont:
+
+Correspondance avec Clément Magloire, directeur du Nouvelliste.
+Correspondance avec Jean Ribier.
+
+</item>
+      <item>Correspondance avec Clément Magloire, directeur du Nouvelliste.</item>
+      <item>Correspondance avec Jean Ribier.</item>
+      <item>Dédicaces.</item>
+      <item>Journal, 1898-1901.</item>
+      <item>Nouvelles (huit, dont certaines déjà publiées dans des revues): « Le Bienfaiteur », « La lettre et le bout de papier », « Où l’amour va se nicher », « Larmes pures », « Tendresse tardive », « Un droit de la femme », « Abîmé » et « En tout cherchez la femme ».</item>
+      <item>La Rage de rimer (comédie).</item>
+      <item>Romans (canevas):
+
+Chère adoptée (1894).
+L’engrenage.
+ Les deux fables.
+
+</item>
+      <item>Chère adoptée (1894).</item>
+      <item>L’engrenage.</item>
+      <item> Les deux fables.</item>
+      <item>Souvenirs de mes relations littéraires, réflexions et pensées.</item>
+      <item>Le Vent, comédie en un acte, en vers. Jérémie, mars 1908.</item>
+      <item>Deux études sur les premiers recueils de Laforest.</item>
+      <item>Autres inédits:
+
+Mon vieux cahier (extraits publiés dans Haïti littéraire et scientifique sous la signature de E.).
+Les Sonnets Haïtiens.
+Diverses compositions musicales.
+
+</item>
+      <item>Mon vieux cahier (extraits publiés dans Haïti littéraire et scientifique sous la signature de E.).</item>
+      <item>Les Sonnets Haïtiens.</item>
+      <item>Diverses compositions musicales.</item>
+    </list>
+    <list subtype="sur edmond laforest *">
+      <item>J.S. « Deuil : Edmond Forest ». Le Nouvelliste (18 octobre 1915).</item>
+      <item>Laleau, Léon. « Edmond Laforest ». La Relève 6, 8 et 9 (février-mars 1938), 41 p.</item>
+      <item>Large, Camille. « Edmond Laforest ». La Phalange (3 et 6 octobre 1944).</item>
+      <item>Lassègue, Franck. « Edmond Laforest ». Le Temps Revue 3.168-169 (20 octobre 1934): 3-4.</item>
+      <item>Lataillade, Nerva. « Edmond Laforest ». Le Temps Revue (22 mai 1937): 1-2.</item>
+      <item>Moravia, Charles. « Edmond Laforest ». La Plume (19 octobre 1915), republié dans Le Temps Revue 3.168-169 (20 octobre 1934): 24-25.</item>
+      <item>Sylvain, Normil. « Le Souvenir d’Edmond Forest ». La Revue indigène 1.4 (octobre 1927): 172-173.</item>
+      <item>Trouillot, Hénock. « Edmond Laforest, un évadé des tropiques ». Le Nouveau Monde (8 janvier 1982).</item>
+      <item>* sélections des revues haïtiennes tirées de la Bibliographie des études littéraires haïtiennes, 1804-1984, par Léon-François Hoffmann. Vanves: EDICEF-AUPELF, 1992: 130-131.</item>
+    </list>
+  </div>
+</TEI>

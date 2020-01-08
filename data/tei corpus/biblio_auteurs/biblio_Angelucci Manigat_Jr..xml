@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Angelucci Manigat_Jr._biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Angelucci Manigat, Jr.</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/manigat/" xml:id="Angelucci Manigat_Jr._biblio_auteur_ile_en_ile">
+    <list subtype="sur île en île">
+      <item ref="http://ile-en-ile.org/angelucci-manigat-trois-poemes/">Trois poèmes</item>
+    </list>
+    <list subtype="ailleurs sur le web">
+      <item ref="http://www.haitianvoice.com/">Connecticut Haitian Voice</item>
+      <item ref="http://www.haitixchange.com/hx/article.asp?article_id=103">Haitian Book and Arts Festival</item>
+    </list>
+    <list subtype="poésie">
+      <item>Fiel-Miel, illustrations de Philippe Antoine. New York: Éditions Marasa, 1987.</item>
+      <item> Mémoire du petit chien d’à côté. New York: Sève Tropicale Corporation, 1995.</item>
+    </list>
+    <list subtype="enregistrements sonores">
+      <item>20 ans de poésie. (CD-audio). Stamford (Connecticut): Angelucci Learning Center, 2004.</item>
+    </list>
+  </div>
+</TEI>

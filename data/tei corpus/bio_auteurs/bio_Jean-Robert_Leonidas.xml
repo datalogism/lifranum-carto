@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean-Robert_Leonidas_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean-Robert Léonidas</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/leonidas/" xml:id="Jean-Robert_Leonidas_bio_auteur_ile_en_ile">
+    <p>Jean-Robert Léonidas naît le 11 juin 1946 à Jérémie (Haïti). Il fait ses études primaires et secondaires à l’École Frère Paulin et au Collège Saint-Louis de sa ville natale, et la terminale au Petit Séminaire Collège Saint-Martial de Port-au-Prince.</p>
+    <p>Diplômé médecin à l’Université d’État d’Haïti, il poursuit une carrière médicale aux États-Unis où il s’installe en mai 1973. Spécialiste en Endocrinologie, chef de Clinique et Professeur adjoint de médecine, il signe de nombreux articles d’ordre scientifique.</p>
+    <p>Il fait par la suite une plongée irréversible dans la sphère littéraire. Sérénade pour un pays (1992) exprime la nostalgie d’un expatrié : c’est un regard personnel sur Haïti, pays bâillonné pendant presque toute la deuxième moitié du vingtième siècle. Témoin d’une génération et d’une époque du silence, l’auteur exploite la distance et le recul par ses souvenirs, ses soupirs, ses désirs et ses rêves d’avenir.</p>
+    <p>Prétendus créolismes  (1995) est un essai sur le bilinguisme haïtien. L’auteur examine les « faux haïtianismes », expressions et mots du créole haïtien dans le français moderne. L’étude lexicographique, développée sur la filiation entre le latin, le français et le créole, permet une identification d’un tronc de vocabulaire commun au créole et au français. « Lumineux et jouissif », l’auteur commente ses trouvailles et les illustre avec de nombreux dictons, proverbes et citations de littérature.</p>
+    <p>Jean-Robert Léonidas publie également des articles et des comptes rendus par une collaboration sporadique aux colonnes culturelles de l’hebdomadaire Haïti-Progrès.</p>
+    <p>En 2005, il publie son premier roman, Les Campêches de Versailles, aux Éditions du CIDIHCA à Montréal. C’est l’histoire d’une famille : le héros, de la troisième génération, hésite entre une profession et un héritage. Il s’initie à l’amour, à la mort, au mythe et à l’art. Cherchant à connaître la vérité sur la disparition de son père, il découvre le journal intime de sa mère. Sa vie bascule… Tiraillement entre deux appels, jaillissement continu d’état d’âme et d’encre, le roman est autant la recherche d’un port d’attache qu’une célébration de l’écriture.</p>
+    <p>Musicien amateur, Jean-Robert Léonidas se passionne des mots, s’intéresse à la fonction sonore et à la poétique du langage. Amoureux de botanique, il perçoit le végétal comme une œuvre d’art, la nature comme un vaste tableau, un lieu de poésie et toute son écriture s’en ressent forcément.</p>
+    <p>Il multiplie ses voyages en Europe, au Canada et en Haïti. Jean-Robert Léonidas vit à Brooklyn (New York) où il se consacre à ses passions littéraires, musicales et botaniques tout en pratiquant sa profession de médecin à l’hôpital Kings County et au SUNY Health Science Center de Brooklyn.</p>
+    <p>« La médecine est son épouse et la littérature sa maîtresse ». – Joël Des Rosiers</p>
+    <p>« [Son] écriture s’équilibre à un niveau accessible, élégante, sans ostentation ni panaches, simple, sans redondances ennuyeuses ni platitudes ». – Jean L. Prophète</p>
+  </text>
+</TEI>

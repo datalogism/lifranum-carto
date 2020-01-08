@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean James_Estepha_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean James ESTEPHA</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.jean-james-estepha.45855.html" xml:id="Jean James_Estepha_bio_auteur_spla">
+    <p>Jean James ESTÉPHA est originaire des Abricots dans le Département de la Grand-Anse d'Haïti. Ancien étudiant de l'Université d'État d'Haïti, il y a étudié les Lettres Modernes à l'École Normale Supérieure (ENS) et la psychologie à la Faculté des Sciences Humaines (FASCH). Il est détenteur d'un diplôme en Sciences du Langage et de la Communication à l'Université  Rouen avec une spécialisation en FLE (Français Langue Étrangère) et un Maîtrise en Lettres, Langues, Civilisation et Communication de l'Université des Antilles et de la Guyane (UAG).Professeur de littérature au secondaire dans son pays depuis 2004, Jean James ESTEPHA a participé, pendant une année, à la renaissance de la section éducative de la Radio Nationale d'Haïti (RNH) en y apportant une touche nouvelle avec son savoir-faire. Intéressé par le  cinéma, il travaille actuellement sur les rapports entre la littérature et le septième genre, en général, et le rôle de ce dernier dans l'éveil du goût de la lecture chez les jeunes haïtiens, en particulier. Auteur d'articles dans Le Nouvelliste, il est membre de la rédaction de la revue Legs et Littérature.Articles déjà publiés - « Rêves errants de Dieulermesson Petit Frère : une nouvelle manière d'apprivoiser Morphée » in Le Nouvelliste No 38853, mercredi 17 octobre 2012.- « Cent miles pour l'Ecole Sainte Trinité » in Le Nouvelliste du 5 juin 2013.- «  Mémoire errante de Jan J. Dominique : entre littérarité et devoir de mémoire » in Insularité(s), Legs et Littérature No 1, Janvier-Juin 2013.- « La masturbation chez Gary Victor : Une affaire d'éducation » in Érotisme et tabou, Legs et Littérature, No 2, Juillet 2013.</p>
+  </text>
+</TEI>

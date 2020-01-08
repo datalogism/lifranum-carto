@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Guy_Regis_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deGuy Régis</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/regis/" xml:id="Guy_Regis_bio_auteur_ile_en_ile">
+    <p>Guy Junior Régis est né à la capitale haïtienne, Port-au-Prince.
+
+Après des études en anthropologie et en psychologie, depuis 1995 il se consacre au théâtre. Il est à la fois dramaturge, metteur en scène, poète et comédien.</p>
+    <p>Guy Régis fonde en 2001, avec d’autres artistes, le collectif « NOUS Théâtre », mouvement novateur par l’audace de ses formes et langages. Dès la première mise en scène de Baka Ròklò, le talent du « petit diable rebelle » (qui lui sert de nom d’emprunt) se fait remarquer. Sa technique particulière de mise en mouvement du corps, son jeu qui fait place à la « dérision cruelle » et ses textes crus et incisifs sont autant de propositions nouvelles pour le théâtre haïtien.</p>
+    <p>Guy Régis crée en 2003, à Port-au-Prince Service Violence Série, sketches sur les tractations politiques haïtiennes récentes. Repris sous forme de spectacle, il est joué à Bruxelles, à Liège et à Limoges.</p>
+    <p>Lauréat du Prix Jean Brierre en 2000, prix international de poésie (Port-au-Prince et Dakar), pour son long poème Le Temps des carnassiers, Guy Junior Régis a également réalisé deux courts métrages expérimentaux, Blackout et Pays sauve qui peut (2002).</p>
+    <p>Guy Régis est également l’auteur d’une traduction en créole du roman d’Albert Camus Etranje! paru aux Presses Nationales d’Haïti en 2008.</p>
+    <p>En 2006, paraît Ida, un « monologue déchet », chez Rivarticollection à New York. Guy Junior Régis présente ce texte en 2007 sur la scène du Tarmac de la Villette à Paris, dans une mise en scène de Ruddy Sylaire. La présentation de la pièce dans La Terrasse souligne qu’« Haïti apparaît dans toute sa complexité, ses « dérives », ses « ivresses » et sa « démesure » à travers la poésie de Baka Ròklò, un des créateurs les plus originaux de son pays par ses textes incisifs et sa technique corporelle si particulière ».</p>
+    <p>N.B. Junior est le deuxième prénom de Guy Junior Régis – alias Guy Régis Jr – et non pas une marque patronymique.</p>
+  </text>
+</TEI>

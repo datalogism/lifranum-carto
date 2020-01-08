@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Christophe_Charles_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deChristophe Charles</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="osaphat-Robert Large" ref="http://ile-en-ile.org/charles_christophe/" xml:id="Christophe_Charles_bio_auteur_ile_en_ile">
+    <p>Dans l’histoire de la littérature haïtienne, le nom de Christophe Philippe Charles est partout. On a l’impression que c’est lui qui organise les catalogues, nuance les répertoires, classe la position des auteurs haïtiens dans tous les ordres chronologiques possibles. Qu’il s’agisse de critique littéraire, de poésie ou de travaux monographiques, il faut, coûte que coûte, tenir compte de la voix de monsieur Charles.</p>
+    <p>Né à Port-au-Prince le 29 avril 1951, Christophe a fait des études universitaires et obtenu un diplôme en Lettres. Cet écrivain prolifique se présente à ses lecteurs sous divers pseudonymes, comme si la pluralité des genres réclamait de lui une multiplicité de signatures. Pour la poésie, il devient Christopher Love, pour la critique, il se nomme Christophe Philippe Charles. Finalement, quand il passe de la littérature à la philosophie, il utilise un curieux pseudonyme : Jean Merdalor.</p>
+    <p>Depuis plus de 20 ans, cet écrivain poursuit aussi une carrière sérieuse dans l’enseignement. Il a d’ailleurs fondé à Port-au-Prince une école de journalisme où plus d’une génération de journalistes haïtiens ont acquis les principes de base de cette profession honorable. Charles a en plus une maison d’édition, Choucoune, qui publie des jeunes à frais d’auteur et réédite, en même temps, des œuvres de pionniers de la littérature haïtienne tels Etzer Vilaire et Oswald Durand. Parmi les maisons d’édition haïtiennes, Choucoune est probablement celle dont les coûts de fabrication sont les plus abordables. Et c’est ce qui explique la variété de son catalogue où, au début de leur carrière, se sont côtoyés des auteurs aussi importants que Louis-Philippe Dalembert, Marc Exavier et Robenson Bernard.</p>
+    <p>Christophe Charles écrit en français et en créole. Dans la langue vernaculaire, le nom se créolise et devient : Christophélès.</p>
+  </text>
+</TEI>

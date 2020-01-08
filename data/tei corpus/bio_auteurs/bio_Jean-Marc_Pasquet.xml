@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean-Marc_Pasquet_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean-Marc Pasquet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/pasquet_jean-marc/" xml:id="Jean-Marc_Pasquet_bio_auteur_ile_en_ile">
+    <p>Jean-Marc Pasquet naît le 8 mars 1957 en Suisse, de mère franco-russe et de père haïtien. Élevé en Asie, en Afrique et en Europe, métissé de quatre continents, Jean-Marc Pasquet nourrit son imaginaire de ses multiples enracinements. Il est écrivain, musicien et scénariste.</p>
+    <p>Paru en 1996 aux Éditions Robert Laffont, son premier roman Nègre Blanc  est salué par le public. La critique qualifie le roman de « fusion pananimiste, une érection de l’âme doublée d’un chant d’amour à la femme et à l’Afrique » (A. Duplan, L’Hebdo).</p>
+    <p>Son deuxième roman, Le Don de Qâ (Lattès, 2001), est un roman initiatique, un manifeste iconoclaste et poétique pour la préservation de la nature. L’ouvrage se situe dans la forêt pluviale canadienne et raconte l’histoire d’amour sensuelle et initiatique de Qâ, la dernière femme poilue des bois, et de Boris, un Européen égaré, citadin incrédule, chaman malgré lui. En une quête haletante, on participe à la métamorphose de Boris, de son départ forcé d’Europe, à son accession à des dons extraordinaires que, grâce à l’aide de chamans Amérindiens, il porte à la connaissance des hommes.</p>
+    <p>L’histoire de son troisième roman, Libre toujours (Lattès, 2004) se déroule sur deux époques, en Haïti, prise comme métaphore du monde. Thriller initiatique haletant, où se mêlent violence et poésie chamanique, vodou et archéologie, suspense et spiritualité, Libre toujours  est un hymne à la liberté. Voici le propos d’un lecteur averti : « Je viens de lire le livre de J. M. Pasquet en vente à Abidjan (qui a été un village transitoire de l’auteur). Puissance de l’évocation, de l’invocation aussi ; voyage au centre du cœur magmatique qui a façonné le monde. Certains situent le cœur des ténèbres en Afrique… Pourquoi pas ? Qui n’a pas une idée des ténèbres ne peut appréhender la lumière du monde. Je crois que Pasquet est le laminaire dont parle Césaire. Un laminaire enraciné dans une invisible mangrove, mais qui dérive sur l’océan sans rivages que le monde est devenu et sera pour longtemps. Finalement, parler d’Haïti, c’est parler du monde », signé Ibrahim Sy Savané (Abidjan, le 24 août 2004).</p>
+    <p>L’œuvre de Jean-Marc Pasquet, qui mêle aventures et spiritualité, recoupe la tendance « Conscience-Fiction ». Il vit à Genève, collabore avec de nombreux artistes et se produit avec le groupe Zfly pour des concerts d’improvisation jazz, et avec son groupe de rock steady Les Gordinis. Combinant écriture romanesque, scénario et musique, Jean-Marc Pasquet met en place une narration particulière : palette métisse, faite d’aventures et d’expériences, de poésie, et d’envoûtement.</p>
+  </text>
+</TEI>

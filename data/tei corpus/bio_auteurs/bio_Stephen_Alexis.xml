@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Stephen_Alexis_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deStéphen Alexis</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/alexis_stephen/" xml:id="Stephen_Alexis_bio_auteur_ile_en_ile">
+    <p>Stéphen Alexis est né aux Gonaïves (Haïti) le 29 novembre 1889. Il fait ses études d’abord dans sa ville natale, ensuite à Port-au-Prince au Petit Séminaire Collège St. Martial. Alexis se marie avec Lydie Nuñez, d’origine dominicaine. Leur fils, Jacques-Stephen Alexis, né en 1922, deviendra l’un des auteurs haïtiens les plus connus.</p>
+    <p>Alexis père obtient sa licence en droit et s’inscrit au barreau de Port-au-Prince. Durant sa vie, Stéphen Alexis aura à travailler dans l’enseignement, dans le journalisme et comme diplomate. Il est professeur d’histoire et de lettres au lycée des Gonaïves, et inspecteur de la circonscription des Gonaïves en 1929. Alexis commence à écrire pour le journal Le Matin dès 1908. Il deviendra plus tard rédacteur en chef de ce même journal. Il dirige le périodique L’Artibonite, publié aux Gonaives et écrit pour La Presse sous le nom de «Agathon II» ainsi que pour Haïti Miroir.</p>
+    <p>En ce qui concerne sa carrière politique, Alexis est secrétaire du Conseil des secrétaires d’État de 1913 à 1914. En 1926, il est nommé consul général à Anvers (Belgique) et l’année suivante, il est chargé d’affaires à Bruxelles. Stéphen Alexis est conservateur du Musée national de 1938 à 1941 et chef de la section des Relations extérieures. Il est nommé délégué permanent à l’ONU en février 1948. L’année suivante, il est nommé représentant d’Haïti à la Commission intérimaire des Nations Unies. Il se présente en tant qu’ambassadeur et envoyé extraordinaire à la prestation de serment du président Frondizi en Argentine, sous la présidence de François Duvalier.</p>
+    <p>Stéphen Alexis a souffert pour ses convictions politiques. Il se trouvait parmi les prisoniers durant le massacre du 27 juillet 1915 à la prison de Port-au-Prince. Il publia dans Le Matin, «De la bouche de la mort, impressions d’un rescapé» ainsi qu’une série de portraits le 23 juillet 1917 intitulée «Dix profils d’assassinés admirables». L’auteur a participé dans la résistance durant l’occupation américaine. Il fut même arrêté par les forces étrangères, étant accusé de complicité dans le soulèvement armé provoqué par son ami, Charlemagne Péralte. Jugé et condamné aux travaux forcés, Alexis fut libéré après neuf mois. Il continua sa critique politique dans les journaux après le départ des Marines. Son texte La vérité sur les événements d’avant 1914 au 28 juillet 1915 est paru dans Le Matin quelques années après l’occupation américaine, aux environs de 1952. Alexis publia «Lettre à un domincain» dans Le Nouvelliste le 20 novembre 1937 après le massacre des Haïtiens en République Dominicaine. Il critiqua le président Sténio Vincent dans sa chronique de L’Action Nationale, signée «Criton». Alexis milita aussi pour les droits d’auteur. Il intenta une action en justice contre la Maison Henri Deschamps, les accusant d’avoir apporté des changements non autorisés à son manuel d’histoire, Abrégé d’Histoire d’Haïti (1924-1936), cours moyen, cours élémentaire.</p>
+    <p>Stéphen Alexis est mort en exil sous le régime de François Duvalier le 15 août 1962 à Caracas (Vénézuela).</p>
+    <p>Stéphen Alexis n’a pas laissé une oeuvre romanesque abondante. En fait, lui-même qualifie Le Nègre Masqué comme étant «moins un roman qu’une succession de petits documents humains»; ce texte porte d’ailleurs le sous-titre «tranche de vie haïtienne». Le Nègre Masqué fait appel aux expériences personnelles de l’auteur, ainsi qu’au drame que subit tout le pays durant l’occupation américaine. L’avocat Roger Sainclair est le héros de l’intrigue. Ses sentiments sont partagés entre deux femmes: la Française blanche, Gaude de Senneville, et Florecita Miguel, Haïtienne brune qui est probablement d’origine dominicaine. Sainclair et son meilleur ami, le mulâtre Pascal Darty, vont dans les bois combattre les Marines avec l’armée indigène. À la fin du roman, Sainclair part pour la France, étant incapable de sauver sa patrie. En dépit des aspects mélodramatiques de ce roman, il témoigne des luttes intestines du pays ainsi que de la répression des forces étrangères durant l’occupation tout en s’inscrivant dans les mouvements littéraires et culturels du moment, comme l’Indigénisme.</p>
+  </text>
+</TEI>

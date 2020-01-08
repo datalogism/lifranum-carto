@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Leon_Laleau_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deLéon Laleau</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="adève Ménard" ref="http://ile-en-ile.org/laleau/" xml:id="Leon_Laleau_bio_auteur_ile_en_ile">
+    <p>Léon Laleau naît à Port-au-Prince le 3 août 1892 ; il y meurt le 7 septembre 1979. Il fait ses études classiques au Lycée Pétion et compte parmi ses professeurs Fernand Hibbert et Damoclès Vieux. Il reçoit sa licence de l’École de droit en 1912. Mais au lieu de travailler comme avocat, il se lance dans une carrière d’écrivain et de diplomate. Laleau est à la fois poète, romancier, dramaturge, essayiste, journaliste et homme politique.</p>
+    <p>En tant qu’homme politique, Laleau a occupé plusieurs fonctions : « il a été trois fois ministre des Affaires étrangères, ministre de l’Éducation nationale, de l’Agriculture, des Travaux publics » (Berrou et Pompilus 480). Il a aussi été chef de mission diplomatique à Rome, Londres, Paris, Santiago du Chili, Lima et ambassadeur en mission spéciale à Ciudad Trujillo, Panama, La Havane, à l’ONU et à l’UNESCO. Laleau était le premier président de la commission haïtienne de l’UNESCO, poste qu’il a occupé de 1950 à 1960. En 1950 il fait des interventions à l’ONU contre l’injustice raciale en Afrique du Sud. Mais Laleau est surtout connu dans le domaine politique pour avoir signé l’accord qui met fin à l’occupation américaine : « le 24 juillet [1934], au siège de son département, Léon Laleau, ministre des Relations Extérieures, signait, au nom du Président de la République [Sténio Vincent], avec Norman Armour, ministre des États-Unis à Port-au-Prince, l’accord fixant les nouvelles dispositions intervenues à la suite de l’entrevue du 5 juillet, ainsi que le protocole de l’évacuation définitive du territoire haïtien par les forces américaines » (Corvington 94).</p>
+    <p>Très jeune, Léon Laleau entreprend également une carrière littéraire. Sa première nouvelle « Comment mademoiselle a passé sa mi-carême » est publiée en 1912 dans Le Matin  alors qu’il est âgé de 20 ans. Dès 1916, il fait partie de l’équipe de la revue La Ligue de la jeunesse haïtienne  « dont le but était d’opposer à l’occupant et à sa mentalité anglo-saxonne la culture haïtienne de langue française et la religion catholique » (Berrou et Pompilus 482). Comme journaliste, Laleau a été rédacteur en chef du Matin. Il a aussi dirigé Le Nouvelliste  et Haïti-Journal. À Paris, il a collaboré entre autres au Figaro  et au Mercure de France.</p>
+    <p>Si aujourd’hui Laleau est connu à travers le monde pour sa poésie, celle-ci ne constitue pas la totalité de son œuvre littéraire. Entre 1916 et 1920, il écrit une dizaine de pièces de théâtre (quelques-unes en collaboration avec Georges N. Léger) ; la plupart restent inédites. Les pièces de Laleau, dont le thème principal est l’amour, ont été jouées au Parisiana  et Ciné-Variété.</p>
+    <p>L’œuvre en prose de Laleau est abondante, mais difficile à cerner parce qu’elle se trouve principalement dans les revues et journaux de son époque.</p>
+    <p>De la même façon, il a préfacé de nombreux textes écrits par ses contemporains. Ses contes et nouvelles sont au nombre d’une quarantaine. Le mariage et le divorce, l’amour en général, sont les thèmes dominants de ce corpus ainsi que de son œuvre théâtrale.</p>
+    <p>Le Choc, le roman le plus connu de Laleau, contient aussi une histoire d’amour, mais c’est surtout un roman de l’occupation américaine : « Tout dans ce livre évoque Haïti sous la botte américaine, ou plus précisément l’âme haïtienne et sa culture en conflit avec l’étranger, différent et incompréhensif » (Berrou et Pompilus 681). D’ailleurs, comme plusieurs autres auteurs écrivant durant l’occupation américaine, Laleau fait appel à des faits réels pour construire son roman. Dans son avertissement, il déclare que « ceci n’est pas un roman. Ni un acte d’accusation. Encore moins un plaidoyer. Rien que des faits notés comme ils furent vécus ». Ce récit témoigne du penchant de Laleau pour la France ou plutôt d’une francophilie commune aux jeunes de la classe moyenne de son époque. Cependant, en plus des critiques adressées aux occupants, Laleau peint l’effet néfaste du paternalisme français à l’égard des Haïtiens dans ce roman. À la fin du Choc, le héros, Maurice Desroches, suivra le conseil du prêtre français Le Ganet et laissera son pays à la merci des Américains pour aller se battre aux côtés des Français dans le cadre de la première guerre mondiale.</p>
+    <p>Les premiers poèmes de Léon Laleau apparaissent dans Le Matin  et l’Humanité. Raphaël Berrou et Pradel Pompilus décernent à Léon Laleau la distinction « d’avoir introduit le vers libre dans la poésie haïtienne en 1917 ». Si au début, le poète garde ses distances par rapport au mouvement indigéniste, il écrit des poèmes comprenant des thèmes qu’on peut qualifier d’indigénistes par la suite. Son poème « Trahison » en est l’exemple le plus célèbre.</p>
+  </text>
+</TEI>

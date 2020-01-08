@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Leslie_Gaelle_Nerette_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deLeslie Gaelle Nerette</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.leslie-gaelle-nerette.16703.html" xml:id="Leslie_Gaelle_Nerette_bio_auteur_spla">
+    <p>Les Arts Autrement</p>
+  </text>
+</TEI>

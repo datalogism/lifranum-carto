@@ -1,0 +1,15 @@
+import csv
+from xml.etree.ElementTree import Element, SubElement, Comment, tostring
+import datetime
+
+
+If one wants to use lxml, it could be done in the following way:
+
+from lxml import etree
+
+generated_on = str(datetime.datetime.now())
+root = Element('TEI')
+root.set('xmlns:xi', 'http://www.w3.org/2001/XInclude')
+root.set('xml:lang', 'fr')
+root.set('xml:id', 'bio_auteurs')
+tostring(root)

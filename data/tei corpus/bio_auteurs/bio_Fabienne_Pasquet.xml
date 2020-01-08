@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Fabienne_Pasquet_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deFabienne Pasquet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="arah Davies Cordova" ref="http://ile-en-ile.org/pasquet_fabienne/" xml:id="Fabienne_Pasquet_bio_auteur_ile_en_ile">
+    <p>Fabienne Pasquet est née le 22 décembre 1954, à Genève, de mère franco-suisse d’origine russe et de père haïtien.</p>
+    <p>Après son bac, en 1973, elle obtient un diplôme de perfectionnement d’anglais pour étrangers à l’Université Columbia, à New York, avant de s’installer en Italie.</p>
+    <p>De 1973 à 1989, elle exerce la profession de comédienne se consacrant essentiellement au théâtre. Très vite elle commence par collaborer à la dramaturgie de certains textes avant d’écrire et interpréter ses propres monologues.</p>
+    <p>Entre-temps, de 1974 à 1975, elle fait une équivalence de DEUG en disciplines du spectacle à l’Université de Bologne, et en 1977-1978, au terme d’un séjour de 10 mois à l’Institut Pouchkine de Moscou, elle obtient un diplôme de russe.</p>
+    <p>En 1990, Fabienne Pasquet quitte l’Italie et s’installe en Haute-Provence pour se consacrer à l’écriture. Elle effectue toutes sortes de travaux, dont maintes traductions, pour subvenir à ses besoins.</p>
+    <p>En 1996, elle publie son premier roman L’Ombre de Baudelaire chez Actes Sud, sélectionné en 1997 par le Festival du premier roman de Chambéry. À la suite de cette publication, elle reçoit des bourses d’aide à l’écriture du Centre National du Livre (France), et de la Fondation Pro-Helvetia (Suisse).</p>
+    <p>En 2001, elle publie son deuxième roman, toujours chez Actes Sud, La Deuxième mort de Toussaint Louverture, pour lequel elle est lauréate du Prix Schiller (Suisse) en 2002 et du Prix Marcel Aymé en 2003. En novembre 2002, elle aborde un autre genre en rédigeant Tous un, le livret de l’opéra électroacoustique de Patrick Défossez et Anne de Baecker pour le Bicentenaire de la mort de Toussaint Louverture à Pontarlier (Doubs).</p>
+    <p>L’Ombre de Baudelaire met en scène une période tourmentée (1855-1859) de la relation qui unit, pendant vingt ans, le poète Charles Baudelaire à Jeanne Duval, mulâtresse d’origine haïtienne. C’est pour s’élever contre l’occultation dont la figure de Jeanne a trop longtemps été l’objet dans la critique littéraire que Fabienne Pasquet entreprend son premier livre. Dans un Paris qui perd la mémoire (Haussmann rase le cœur de la capitale), l’auteure raconte l’histoire d’une femme éprise de vertige qui, devant la difficulté d’assumer sa différence, choisit de se perdre dans l’écriture de son homme.</p>
+    <p>Dès ce premier roman, Fabienne Pasquet interpelle l’histoire pour nous livrer à travers des personnages haïtiens (/de Saint-Domingue) une problématique de l’identitaire et on y trouve les thèmes chers à l’auteure: la confrontation entre deux cultures, jeux de masques et de miroirs, le rapport à la mémoire, à l’écriture, au corps et à la création.</p>
+    <p>La Deuxième mort de Toussaint Louverture met en scène deux personnages historiques connus, l’écrivain romantique allemand, Heinrich von Kleist et le précurseur de la révolution haïtienne, Toussaint Louverture. Ils se retrouvent dans la cellule de prison du Fort de Joux, où ce dernier mourut quatre ans avant que le poète y soit emprisonné.</p>
+    <p>Le roman est l’histoire d’un héros qui, ayant raté sa mort et désirant enfin accéder au monde des ancêtres, doit se dépouiller de ses masques afin de cerner l’homme qu’il est dans ses qualités comme dans ses faiblesses.</p>
+    <p>Si on retrouve dans ce roman certains thèmes abordés dans le premier, Fabienne Pasquet, dans une mise en abyme de la réalité et de l’imaginaire, y développe aussi ceux du rapport à la liberté, au pouvoir et à la mort.</p>
+  </text>
+</TEI>

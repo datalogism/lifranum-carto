@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Roland_Paret_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Roland Paret</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/paret/" xml:id="Roland_Paret_biblio_auteur_ile_en_ile">
+    <list subtype="entretien avec roland paret et textes de l’auteur sur île en île">
+      <item ref="http://ile-en-ile.org/paret-5-questions/">Roland Paret, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/roland-paret-edmond-la-panique/">Edmond-la-Panique</item>
+      <item ref="http://ile-en-ile.org/roland-paret-monsieur-antonius/">Monsieur Antonius</item>
+      <item ref="http://ile-en-ile.org/roland-paret-nicolas/">Nicolas</item>
+      <item ref="http://ile-en-ile.org/roland-paret-les-yeux-de-meduse/">Les Yeux de méduse</item>
+    </list>
+    <list subtype="ailleurs sur le web">
+      <item ref="http://www.monde-diplomatique.fr/2002/10/WARGNY/16951">Au diable les dieux!</item>
+    </list>
+    <list subtype="romans">
+      <item>Tribunal des Grands Vents.
+
+Tome I: La Convocation des Grands Vents (Dieu le père ; Les yeux de la Méduse ; La cité des grands vents). Montréal: CIDIHCA (première édition à tirage limité), 1999; Montréal: CIDIHCA, 2001.
+Tome II: Les Archives des Grands Vents (Très sage roi Salomon ! Très sage reine de Saba ! ; Le peintre et ses modèles ; Madame ; Le ministère des songes ; Barbelo). Montréal: CIDIHCA, 2001.
+Tome III: L’Assemblée des Grands Vents. Montréal: CIDIHCA, 2005.
+
+</item>
+      <item>Tome I: La Convocation des Grands Vents (Dieu le père ; Les yeux de la Méduse ; La cité des grands vents). Montréal: CIDIHCA (première édition à tirage limité), 1999; Montréal: CIDIHCA, 2001.</item>
+      <item>Tome II: Les Archives des Grands Vents (Très sage roi Salomon ! Très sage reine de Saba ! ; Le peintre et ses modèles ; Madame ; Le ministère des songes ; Barbelo). Montréal: CIDIHCA, 2001.</item>
+      <item>Tome III: L’Assemblée des Grands Vents. Montréal: CIDIHCA, 2005.</item>
+      <item>Le Procès de Dieu. Montréal: CIDIHCA, 2018.</item>
+    </list>
+    <list subtype="scénarii">
+      <item>Ikor, 1985, inédit.</item>
+      <item>Toucouleur, 1990, inédit.</item>
+    </list>
+    <list subtype="réalisations de films">
+      <item>La Vache et le Paysan, réalisé par Roland Paret, 1971.</item>
+      <item>Et pourtant quel dommage !, réalisé par Roland Paret, 1972.</item>
+      <item>Abakanowicz, réalisé par Roland Paret, 1984.</item>
+      <item>Le neuvième jour de la Création, scénario et réalisation de Roland Paret, Via-le-Monde, Montréal, 1985.</item>
+      <item>Coin d’œil, réalisé par Roland Paret et Carl Lafontant. Vidéo expérimentale, 2000, 12 minutes.</item>
+      <item>Cœur Battant, réalisé par Roland Paret, Production Fanal, 2002</item>
+      <item>Cazal, réalisé par Roland Paret, Production Fanal, 2003.</item>
+    </list>
+    <list subtype="réalisations télévision">
+      <item>De 1978 à 1986, réalisation d’une quarantaine d’émissions pour Radio-Québec.</item>
+    </list>
+    <list subtype="mises en scène  théâtre et spectacles">
+      <item>Caligula d’Albert Camus, Lodz, Pologne, 1970.</item>
+      <item>Ubu-Roi, McGill University, Montréal, 1970.</item>
+      <item>Vingt Ans de Duvalier, c’est assez !, salle Pollack, Montréal, 1977.</item>
+      <item>Spectacle Martha Jean-Claude,par la Compagnie artistique Nicole Arcelin Inc., Place des Arts, Montréal, février 1986.</item>
+      <item>« D’Îles en Île », spectacle de poésie, Salle Paul-Gérin-Lajoie, Montréal, 1992.</item>
+    </list>
+    <list subtype="nouvelles">
+      <item>Le supplice de Marsyas. Montréal: Plume &amp; Encre, 2006.</item>
+      <item>« Le poète et l’architecte ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence Africaine, 2007: 163-172.</item>
+    </list>
+    <list subtype="prix et distinctions littéraires et au cinéma">
+      <item>1985     Prix du scénario de l’Agence de Coopération Culturelle et Technique (ACCT) pour Ikor, scénario inédit.</item>
+      <item>1986     Première mention spéciale (vidéo d’art) au troisième Festival International du Film sur l’Art (FIFA), pour Abakanowicz.</item>
+      <item>2000     Boursier du Conseil des Arts du Québec.</item>
+      <item>2003     Prix Gouverneur de la Rosée du Livre et de la Littérature, Ministère de la culture, Haïti, pour son œuvre artistique.</item>
+      <item>2005     Boursier du Conseil des Arts du Canada.</item>
+    </list>
+    <list subtype="sur l’oeuvre de roland paret">
+      <item>Chemla, Yves. « Rendre aux histoires leur saveur ». Haïti-Tribune 34-35 (mai-juin 2006): 1, 20.</item>
+      <item>Dumas, Pierre-Raymond. « Paret : un carnaval », compte-rendu du Tribunal des Grands Vents. Le Nouvelliste (9 mars 2000): 8.</item>
+    </list>
+  </div>
+</TEI>

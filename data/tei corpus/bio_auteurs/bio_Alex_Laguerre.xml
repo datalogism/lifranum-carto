@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Alex_Laguerre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deAlex Laguerre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.alex-laguerre.40412.html" xml:id="Alex_Laguerre_bio_auteur_spla">
+    <p>Né à Port-au-Prince, Alex Laguerre est un membre de l' 'International Society of Poets' et il a recu l' 'Editor's Choice Award' en 2006. Il a déjà publié plus d'une douzaine de titres dont des recueils de poèmes : &quot;Accents aigus&quot;, &quot;Des rêves pour tout bagage&quot;, &quot;Incantations pour nuits de pleine lune&quot;; des recueils de nouvelles dont &quot;Poupée de chiffon&quot;, &quot;Opération Bagdad&quot;; et des romans dont &quot;Mémoires des âmes errantes&quot; et &quot;Journal de Baron Samedi''. Il a aussi contribué à la publication d'un recueil collectif &quot;Symbiose poétique&quot;, initiative de l'Association culturelle Rankont. Sa dernière publication date de 2014 et est un roman intitulé « Rhapsodie pour une trapéziste disparue ».	  Lire l'article –	« Alex Laguerre : Chantre du peuple », Evains Wêche, mai 2014. lenouvelliste.com.</p>
+  </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean-Claude_Fignole_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean-Claude Fignolé</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="osaphat-Robert Large" ref="http://ile-en-ile.org/fignole/" xml:id="Jean-Claude_Fignole_bio_auteur_ile_en_ile">
+    <p>Jean-Claude Fignolé naît le 24 mai 1941 à Jérémie (Haïti). Tour à tour critique d’art (au Centre d’art de Port-au-Prince), journaliste (Petit samedi soir, années 1970) et enseignant, Jean-Claude Fignolé s’est créé une place de choix dans les milieux intellectuels haïtiens.</p>
+    <p>Critique littéraire, il explore l’univers romanesque de Jacques Roumain, tout en montrant les tendances et même les fondements thématiques des romans liés à l’époque de cet auteur. Avec René Philoctète et Frankétienne, il fonde le Mouvement Littéraire « Spiralisme » qui marque un tournant décisif dans la littérature haïtienne. Les premiers romans de Fignolé, publiés chez Seuil, s’inscrivent parmi les meilleures œuvres fictionnelles de la fin du 20ème siècle, tant en Haïti que dans les Antilles françaises.</p>
+    <p>Jean-Claude (qui a fait des études de droit, d’agronomie et d’économie) prend une part active aux premiers États-Généraux de la Francophonie. Il donne des conférences dans différents forums internationaux, explorant des sujets tels la littérature, l’environnement, le développement intégré et cetera.</p>
+    <p>L’auteur se lance aussi dans les affaires. Passionné de bateaux de plaisance, il investit dans le tourisme. Il fait découvrir à des Haïtiens comme à des étrangers les sites magnifiques du Golfe de la Gonâve de même que les points d’intérêts de la Presqu’île du Sud. Il monte alors une petite compagnie, Haiti Boat Charter, qui travaille d’abord sous contrat avec le groupe suisse Hôtel Plan et ensuite, avec le Club Med. En 1990, il fonde, avec des amis, la compagnie Freda Sea Line qui assure un service de cabotage Inter-Iles.</p>
+    <p>Dans les années 1980, Jean-Claude Fignolé apporte un support essentiel aux habitants du petit village Les Abricots dans la Grande Anse. Il les assiste dans un travail de développement de toute nécessité (reboisement, éducation, santé, constructions routières, agriculture et cetera).</p>
+    <p>On le retrouve observateur de première loge, tenant, dans Le Nouvelliste, de 1990 à 2000, la rubrique «Rompre le silence» dont les analyses politiques font découvrir la laideur d’un pays cloué dans son échec.</p>
+    <p>Fignolé s’est depuis tantôt retiré des affaires. À la direction du Collège Jean Price-Mars (qu’il avait fondé avec René Philoctète et Victor Benoît), il se consacre à l’écriture, prononce des conférences et continue d’explorer, en fin de semaine, les routes de la mer qui mènent aux plus belles plages de Haïti et à l’évasion.</p>
+    <p>Jean-Claude Fignolé meurt le 11 juillet 2017 à Port-au-Prince, à l’âge de 76 ans. Avec sa disparition, Haïti perd, selon Emmelie Prophète, « un grand écrivain, un critique littéraire de grande envergure, un homme exigeant, passionné des causes qu’il avait choisies ». (Voir les hommages à la vie et à l’oeuvre de Jean-Claude Fignolé dans les liens ci-dessous.)</p>
+  </text>
+</TEI>

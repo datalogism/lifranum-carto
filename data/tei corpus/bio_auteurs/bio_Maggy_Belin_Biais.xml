@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Maggy_Belin_Biais_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deMaggy Belin Biais</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="ictor Chomentowski" ref="http://ile-en-ile.org/belin/" xml:id="Maggy_Belin_Biais_bio_auteur_ile_en_ile">
+    <p>Née le 8 avril 1950 dans le quartier de Bois Patate (Port-au-Prince), Maggy Belin perd son père à l’âge de 16 ans. Elle doit alors travailler pour aider sa mère et son frère. Elle poursuit néanmoins ses études au lycée puis à la faculté de Droit et de Sciences Économiques (de l’Université d’État d’Haïti). À 22 ans, elle épouse en Haiti un journaliste français. Maggy Belin Biais s’établit en France où elle mène une carrière dans l’audit, mais elle garde un lien avec la terre natale grâce à sa famille et ses amis.</p>
+    <p>Pendant plusieurs décennies elle s’immerge dans l’univers des chiffres (expert-comptable, puis commissaire aux comptes, enfin responsable d’une grosse PME) et elle acquiert ainsi une large connaissance des entreprises, C’est avec ce bagage du monde réel que Maggy Belin Biais rejoint le monde des lettres qu’elle n’avait en fait jamais quitté, comme en témoigne sa bibliothèque.</p>
+    <p>Ses premiers pas dans l’écriture, elle les fait grâce à ses petits-enfants qui lui réclament des « histoires venues de sa tête ». Pour eux, elle écrit des contes. Chez elle, les soirées se terminent toujours par des « cric-crac ».</p>
+    <p>Elle se rend en Haïti pour constater, malheureusement comme pour beaucoup d’autres, que le séisme de 2010 a détruit sa maison natale. Elle en ressent un immense chagrin. Plus de passé. Plus de racines. De retour en France, elle décide de combler ce vide en écrivant, pour ses enfants, une histoire ancrée en Haïti. Le projet prend de l’ampleur et donne naissance à un roman, Rose-Mercie, qui s’inspire de la vie tumultueuse de sa propre grand-mère. Cette fiction se déroule dans une période occultée de l’histoire haïtienne : l’occupation étatsunienne (1915-1934). Son cadre : la région du Cap haïtien, berceau de sa famille maternelle.</p>
+    <p>Maggy Belin Biais se revendique de la longue tradition des conteuses haïtiennes. Elle mêle l’histoire de son héroïne et celle d’Haïti : une femme féministe avant l’heure et un pays meurtri par la présence d’un occupant. Dans son roman, elle aborde toutes les tensions qui traversent la société haïtienne : noirs et mulâtres, ville et « pays en dehors », vaudou et chrétienté, lettrés et illettrés…. Le tout dans une langue riche au goût épicé. Un mélange rythmé entre français et créole.</p>
+    <p>L’auteure prépare la suite de Rose-Mercie (publié en 2017), saga qui s’achèvera au début de la dictature Duvalier.</p>
+    <p>Résidente en France, Maggy Belin Biais est impliquée dans le monde associatif franco-haïtien, orienté vers l’aide à l’éducation, la culture et l’entrepreneuriat.</p>
+  </text>
+</TEI>

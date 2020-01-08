@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Sophia_Desir_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deSophia Désir</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.sophia-desir.39601.html" xml:id="Sophia_Desir_bio_auteur_spla">
+    <p> Née le 21 janvier 1969, Sophia Désir a grandi aux Cayes, dans le sud d'Haïti. C'est là qu'elle a fait toutes ses études primaires et secondaires dans des écoles congréganistes avant de se rendre à Port-au-Prince où elle s'inscrit en Communication à la Faculté des Sciences Humaines.  En 1992, elle entame une brillante carrière à la radio. D'abord à Tropic FM où, pendant deux ans, elle présente les bulletins de nouvelles et co-anime avec Master D'Ji, l'émission de variétés « La jungle tropicale ». En 1994, elle rejoint la salle des nouvelles de Radio Métropole. C'est un rêve d'adolescente qu'elle concrétise en travaillant au milieu de grands noms de la radio à l'époque : Clarens Renois, Rotchild Francois Junior, Bob Lemoine, Gilbert Fombrun, Kesner Pharel… Mais la fougueuse qu'elle est ne se contentera pas de cela. Elle accepte sans hésiter la responsabilité que lui confie la direction de la radio de préparer et de présenter une rubrique historique quotidienne, Le passé au présent, des faits historiques relatés et commentés. Après trois ans, elle propose une nouvelle rubrique pour remplacer la précédente, Les célébrités de l'histoire qui permet au public de découvrir ou redécouvrir des hommes et des femmes, politiciens, artistes, scientifiques qui ont marqué leur temps. En 2001, Sophia Désir conquiert le grand public avec son feuilleton VIP, Vanité, Intrigues, Passions qui réunit une pléiade de vedettes de la radio, de la télé et du cinéma comme Smoye Noisy, Réginald Lubin, Clarens Renois, Jo Damas, Farah Ménard, Alessandra Lemoine, Mario Viau, Sandra Lobir, Nadine Stephenson, etc. Sophia elle-même y joue le rôle de Martine Delarue, une femme qui peine à trouver l'équilibre entre sa vie professionnelle et sa famille. Ados et adultes des deux sexes deviennent bien vite accros à ce feuilleton moderne qui sera diffusé pendant quatre ans sur les ondes de Radio Métropole. En 2004, un film éponyme sera tiré de la première saison, avec les mêmes acteurs dont quelques uns changeront cependant de rôle. C'est en cette même année 2004 que Sophia Désir publiera son premier livre, le recueil de nouvelles, Une voix dans la nuit, avant de s'attaquer au roman. Entre 2007 et 2011, elle publie trois romans : Le meilleur vient parfois du pire, Au bout des errances, et Les épines du bonheur qui remportent tous de francs succès à la grande foire du livre haïtien Livres en folie. Parallèlement à sa carrière à la radio et ses publications, Sophia Désir a travaillé dans le secteur des ONGs et le domaine de la publicité. Entre 1993 et 1996, elle est Responsable du programme d'Éducation Civique et d'Assistance Légale au CPFO, Centre de Promotion des Femmes Ouvrières. De 1996 à 2000, on la retrouve à PubliGestion, agence de publicité et marketing où elle travaille à titre de Chef de Publicité. Et en 2000, avec des partenaires, elle lance Pluralis, une agence multiservices offrant notamment des services de Communication, d'organisation d'événements et de voyages, et autres.Immigrée au Canada en 2005, Sophia Désir a d'abord travaillé à Montréal comme professeure privée de Français avant d'intégrer une entreprise privée à titre d'assistante administrative. Elle espère pouvoir continuer à écrire…</p>
+  </text>
+</TEI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Deita_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deDéita</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/deita/" xml:id="Deita_bio_auteur_ile_en_ile">
+    <p>Mercedes Foucard Guignard, connue par son nom d’artiste Déita (ou Deyita), est née le 21 septembre 1935 à Port-de-Paix dans le nord-ouest d’Haïti. Écrivain, conteuse, dramaturge et ethnographe autodidacte, Déita est aussi professeur. Spécialiste de la langue créole, elle enseigne le théâtre et le savoir-vivre.</p>
+    <p>De 1982 à 1986, elle est animatrice de groupes de jeunes. À ce compte, elle participe à la fondation de l’ASKONNA (Asosyasyon Konbit Natif Natal). Elle est aussi membre du CHAF (Comité Haïtien Art et Folklore).</p>
+    <p>Déita est l’auteure d’une quinzaine de publications traitant de la culture haïtienne : essais, contes, poésie, romans et théâtre, en langue française et créole.</p>
+    <p>Déita est décédée le 29 décembre 2012 en sa résidence à Pétion-Ville. Lire le texte-hommage posthume écrit par Frater Gaétan Mentor, « Retour à l’île heureuse ».</p>
+  </text>
+</TEI>

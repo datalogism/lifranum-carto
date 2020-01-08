@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean-Claude_Charles_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean-Claude Charles</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/charles_jean-claude/" xml:id="Jean-Claude_Charles_bio_auteur_ile_en_ile">
+    <p>Jean-Claude Charles est né le 20 octobre 1949 à Port-au-Prince (Haïti). Il laisse son pays à l’âge de 21 ans pour s’inscrire à la faculté de médecine de Guadalajara (Mexique), mais il abandonne très tôt ses études pour rejoindre les États-Unis.</p>
+    <p>C’est à Chicago d’abord et puis à New York où commence l’enracinerrance de cet auteur qui plus tard, dans son œuvre, se définira comme « nomade aux pieds poudrés » et « nègre errant ».</p>
+    <p>Après les États-Unis, il s’établit en France où il fait une licence en journalisme et techniques de l’information à l’École Supérieure de Journalisme de Strasbourg et une maîtrise à l’Université de Paris au Département d’Études en Sciences et Techniques de la Communication.</p>
+    <p>Journaliste à Paris, Jean-Claude Charles collabore pendant longtemps au quotidien Le Monde avec des récits de voyage. Poète, romancier, scénariste, régisseur et auteur de documentaires pour la télévision (Antenne 2), il a également été producteur de séries pour la radio (France Culture). De 2003 à 2006, il tient une chronique dans Haiti Tribune.</p>
+    <p>« Homme de nulle part », Jean-Claude Charles partage son temps entre New York et Paris comme Ferdinand, le protagoniste de ses deux grands romans, Manhattan Blues et Ferdinand je suis à Paris.</p>
+    <p>Jean-Claude Charles meurt à Paris le 7 mai 2008. Pour célébrer sa vie et son oeuvre, des personnalités et des amis se réunissent à Paris (le 14 mai à Saint-Denis et le 15 mai pour une cérémonie civile de crémation au cimetière Père Lachaise), à Port-au-Prince (pour la messe célébrée le 24 mai à l’église du Sacré-Coeur de Turgeau), le 31 mai à New York (soirée d’hommages à Manhattan) et le 22 juin à Brooklyn. Voir les liens ci-dessous pour lire de nombreux textes écrits en hommage à l’auteur.</p>
+    <p>« Je sors. Et c’était comme un chapitre de ma vie qui se terminait. Envol d’oiseaux sur la mer. Au loin.
+Un temps superbe. Le bonheur des mouettes est le mien. La lumière m’éblouit. » (Bamboola Bamboche).</p>
+    <p>À partir de 2015, les Éditions Mémoire d’encrier de Montréal entreprennent la réédition de toute l’oeuvre de Jean-Claude Charles en commençant par une nouvelle édition de Négociations.</p>
+    <p>Producteur, sur France-Culture, de plusieurs séries pour les « Nuits magnétiques »:</p>
+    <p>Collaboration à de nombreuses autres émissions.</p>
+    <p>Auteur, pour l’unité de programme «documentaires et magazines» de la deuxième chaîne de télévision française, d’une série de trois films (avec le réalisateur José Berzosa) tournés aux Etats-Unis et dans les Caraïbes et diffusés en 1982:</p>
+    <p>Réalisateur, pour le magazine « Résistances », sur Antenne 2, de deux enquêtes:</p>
+    <p>Auteur pour le magazine « Taxi » sur la troisième chaîne (avec le réalisateur José Berzosa) de Faut-il revenir dans un cimetière en fête?  (sur le retour en Haïti d’un exilé après la chute de la dictature dans ce pays, diffusion 1986).</p>
+    <p>Animation d’ateliers d’écriture, notamment pour la DRAC Ile-de-France. Interventions dans des écoles et lycées, notamment pour « La Maison des écrivains ». Conférences dans des universités et institutions culturelles en France et à l’étranger (États-Unis, Québec, Allemagne). Animation de rencontres culturelles en France et à l’étranger (Suisse). Nombreuses lectures publiques. Membre du conseil de rédaction de la revue d’art Revue Noire.</p>
+    <p>Grands reportages, récits de voyage et articles divers dans Le Monde, notamment. A collaboré à de nombreux journaux et magazines: Politique Hebdo, Le Quotiden de Paris, Libération, Le Matin, Géo et cetera.</p>
+  </text>
+</TEI>

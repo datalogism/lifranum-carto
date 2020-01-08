@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Georges_Castera_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deGeorges Castera</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="odney Saint-Éloi" ref="http://ile-en-ile.org/castera/" xml:id="Georges_Castera_bio_auteur_ile_en_ile">
+    <p>Georges Castera fils est né le 27 décembre 1936 à Port-au-Prince (Haïti), fils du médecin haïtien Georges Castera et d’Irène Aubry. Très jeune, il commence à écrire dans ce Port-au-Prince fasciné par les lettres. Il rencontre des auteurs comme René Bélance, Jacques-Stephen Alexis, Félix Morisseau-Leroy, Paul Laraque, les frères Marcelin, Anthony Lespès et des peintres comme Bernard Wah, Hervé Télémaque, Jacques Gabriel, Dieudonné Cedor, Max Pinchinat, Roland Dorcely… À partir des années 50, il se fait connaître dans les journaux de Port-au-Prince et est accueilli chaleureusement par les aînés.</p>
+    <p>En 1956, il part pour l’Europe. Il découvre en France une jeunesse curieuse de révolutionner le monde. Surréaliste et marxiste, dans ses écrits, il prend le parti des petites gens et chante leur face à face quotidien avec la vie. Heureusement que chez Castera, la poésie et la révolution (à venir et à faire) font toujours bon ménage.</p>
+    <p>Il entame des études en médecine en Espagne qu’il abandonne pour suivre une carrière poétique. Militant de gauche, toutes les luttes du monde qui entendent libérer l’Homme l’intéressent. Son œuvre est une révolte contre l’injustice, la misère et la répression et un pari sur l’amour et le désir.</p>
+    <p>Dans les années 1970, on le retrouve aux États-Unis où il travaille au théâtre avec les metteurs en scène Syto Cavé et Hervé Denis. Il prend une part active dans l’organisation politique de la communauté haïtienne de New York et dans la formation de la troupe de théâtre Kouidor.</p>
+    <p>À la chute de Duvalier en 1986, Georges Castera rentre à Port-au-Prince, après 30 ans d’exil et contribue à la formation poétique des jeunes tant de Port-au-Prince que de la province, à l’aide de ses lectures et interventions publiques, souvent avec des amis écrivains comme Anthony Phelps et Syto Cavé.</p>
+    <p>Il vit actuellement à Pétion-Ville où il partage son temps entre l’édition et l’écriture. Poète, dessinateur et directeur littéraire aux éditions Mémoire, il écrit en français, en créole et en espagnol. Il est membre fondateur de l’Association des écrivains haïtiens.</p>
+    <p>Georges Castera est l’une des plus grandes figures de la poésie haïtienne contemporaine. Quelques-uns de ses poèmes créoles ont été mis en musique par Lody Auguste, Atis Endepandan, Pierre-Rigaud Chéry, Marcel Nouvrier et Wooly Saint Louis Jean.</p>
+  </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Robert_Berrouet-Oriol_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deRobert Berrouët-Oriol</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="ylène Dorcé" ref="http://ile-en-ile.org/berrouet-oriol/" xml:id="Robert_Berrouet-Oriol_bio_auteur_ile_en_ile">
+    <p>Originaire de Jacmel, Haïti, Robert Berrouët-Oriol vit à Montréal depuis 1969. Ayant fait ses études à l’Université du Québec à Montréal, ce linguiste-terminologue, spécialiste en aménagement linguistique et en communications institutionnelles, est aussi un poète accompli.</p>
+    <p>Dès le début des années 1980 et durant 14 ans, Robert Berrouët-Oriol a travaillé à l’alimentation, la mise à jour et la diffusion de la Banque de terminologie du Québec, l’une des directions opérationnelles de l’Office québécois de la langue française. Responsable des accords de coopération terminolinguistiques entre le Québec et les Écoles de traduction du Canada, il a joué un rôle majeur – sur mandat du Gouvernement du Québec et de l’Office de la langue française (OQLF) – dans la conceptualisation et la mise en oeuvre du premier accord de coopération linguistique entre le Québec et Haïti dans le domaine de la formation à la méthodologie de la recherche en terminologie et à la gestion des chantiers terminologiques. Cet accord a également permis à Haïti de devenir membre du RINT (Réseau international de néologie et de terminologie).</p>
+    <p>Il a également enseigné la linguistique et la communication à l’Université d’État d’Haïti et à l’Université Quisqueya entre 1992 et 1997, période durant laquelle il a contribué à la mise sur pied du Secrétairerie d’État à l’alphabétisation.</p>
+    <p>Lecteur critique et essayiste, Robert Berrouët-Oriol a collaboré à diverses revues haïtiennes et internationales, notamment Calacs, Callaloo, Chemins critiques, Conjonction, Dérives, Europe, Interculturel, Moebius, Quebec Studies, Revue noire, Saprifage et Vice Versa. Il est l’auteur de la première étude théorique relative au concept théorique d’« écritures migrantes et métisses au Québec ».</p>
+    <p>En plus de publier divers articles portant sur la fiction romanesque d’Émile Ollivier, de Pierre Nepveu, de Dany Laferrière et de Jean-Claude Charles, Berrouët-Oriol est l’auteur de plusieurs recueils de poésie.</p>
+    <p>Après Lettres urbaines  (poésie), suivi de Le dire-à-soi  (1987) et, au fil des ans, de plusieurs publications de poèmes en revues, incluant des traductions anglaises, Thòraya, d’encre le champ  est son deuxième livre de poésie. Il y explore, dans son « métier à métisser » (René Depestre) et avec la radicalité des amples voix lyriques et baroques du XXe siècle, les territoires sacrés et combien complexes des sédimentaires de l’identité, de la mémoire, de l’écriture et des paysages intérieurs.</p>
+    <p>Par la suite, avec En haute rumeur des siècles, il revient à une trame plus mallarméenne de sa poésie, tandis que Poème du décours est sa première incursion dans le champ polyphonique de la prose poétique construite d’un long souffle sans autre ponctuation que le flux de lecture introduit par le lecteur.</p>
+    <p>Robert Berrouët-Oriol est le lauréat en 2010 du Prix de poésie du Livre insulaire Ouessant pour Poème du décours.</p>
+    <p>Il est coordonnateur et coauteur du livre de référence L’aménagement linguistique en Haïti : enjeux, défis et propositions (2011),</p>
+    <p>Son projet esthétique s’est approfondi avec la publication d’En haute rumeur des siècles, « Troc paroles-Troc de paraules » et « Découdre le désastre ».</p>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Janine_Tavernier_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJanine Tavernier</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/tavernier/" xml:id="Janine_Tavernier_bio_auteur_ile_en_ile">
+    <p>Janine Tavernier est née le 23 mars 1935 à Port-au-Prince (Haïti). Elle fait ses études primaires et secondaires à l’école du Sacré-Coeur de Turgeau en Haïti. Mariée très jeune à Gervais A. Louis, elle a de lui ses cinq enfants. En 1967, au début du régime duvaliériste, Janine Tavernier-Louis quitte le pays avec sa famille pour l’exil aux États-Unis.</p>
+    <p>Elle achève ses études universitaires d’abord à San Francisco State University en Californie où elle obtient son B.A. (licence) en lettres françaises (cum laude), à New York University où elle obtient une maîtrise en langue française et en civilisation française, et à l’université de Californie à Davis où elle obtient un doctorat en littéraire française avec une spécialité en francophonie. Elle se fait une carrière dans l’enseignement de 1984 a 2002. Depuis 2007, elle est retraitée et vit en Haïti.</p>
+    <p>Dans toutes ses œuvres – prose ou poésie – il y a chez Janine Tavernier une passion presque violente à la recherche d’un monde social ou régnerait l’amour vrai entre humains, un monde de justice et de respect mutuel. Cet amour qu’elle réclame, elle le voudrait pour tous et surtout pour toutes les femmes qui souffrent leur vie au lieu de la vivre. La poésie de cette « poétesse aux accents indigénistes modernes » (Saint-John Kauss) est donc une poésie dure, intense, déchirée mais aussi émouvante dans sa quête inassouvie :</p>
+    <p>… Le sommeil dans mon verre me guette
+je suis entre ses doigts une proie bien facile
+o mes songes azurés qui refoulent ma colère
+quand au-delà des nuits le soleil vit encore…
+Demain jaillira de mon ivresse
+comme un poignard déchirant les brumes
+demain ce sera toi
+demain ce seront eux…
+(Naima fille des dieux)</p>
+    <p>On retrouve cette colère latente dans ses romans. Ti Sia, le personnage principal de La Gravitante, dira : « J’entendais mon cri percuter le ciel, effilocher le silence solennel des lieux, désarrimer la paix alentour… Et mon cri ne s’arrêtait pas, je ne savais pas l’arrêter… C’était un cri étranger à moi-même, venant d’une femme que je ne connaissais pas, une femme qui s’insurgeait… ». Ce cri traverse toute l’œuvre de Janine Tavernier qu’il soit cri de désespoir ou de guerre :</p>
+    <p>Et je tourbillonne ma vie en dehors… et dans mes nuits sans lune
+je flambe et je rougeoie j’enflamme amis
+levez les yeux voyez ma dernière étincelle
+qui fait la guerre au soleil.
+(Sphinx du laurier rose)</p>
+    <p>Poétesse et romancière haïtienne, Janine Tavernier est décédée à Tampa (Floride) le 27 février 2019.</p>
+  </text>
+</TEI>

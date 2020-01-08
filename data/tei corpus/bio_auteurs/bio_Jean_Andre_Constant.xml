@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean_Andre_Constant_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean André Constant</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="aguy Métellus" ref="http://ile-en-ile.org/constant/" xml:id="Jean_Andre_Constant_bio_auteur_ile_en_ile">
+    <p>Jean André Constant naît le 30 juin 1968 dans la ville des Cayes, au Sud d’Haïti. Il fait ses études primaires et secondaires à l’école Sainte-Famille et au collège Saint-Jean des Cayes respectivement. Après ses études en sciences linguistiques et en travail social à l’Université d’Haïti, il poursuit au deuxième cycle en travail social à la Universidad de Puerto Rico et la University of Connecticut School of Social Work. Il vit actuellement à Hartford au Connecticut, USA, partageant sa vie entre l’écriture, l’enseignement et le travail social. Polyglotte, il est interprète-traducteur pigiste (créole, français, espagnol et anglais). Très attaché à sa terre natale et tout aussi engagé dans sa communauté d’accueil, on lui doit entre autres la célébration, à titre de coordonnateur, du Bicentenaire de l’indépendance d’Haïti au Institute for Community Research de Hartford. Il est également secrétaire à la rédaction et chroniqueur pour le mensuel trilingue The Connecticut Haitian Voice.</p>
+    <p>Sa passion pour la littérature l’a poussé vers plusieurs fronts : il est poète, nouvelliste, critique littéraire, éditeur. Connecté au social, il est membre de plusieurs forums littéraires et intellectuels sur le Net, dont La page blanche, Forum littéraire  et Haitian Politics.</p>
+    <p>Pourquoi l’écriture ? Constant écrit pour dire au monde qui il est, en plus d’exister. Pour see dire et se parler, se questionner, pour se plaire. Il écrit aussi pour aménager son espace de rêve, de folie et de solitude. Pour commettre ses crimes et purger ses peines, pour se connecter à l’autre (le monde), et par moments pour s’en détacher. Bref par amour pour les mots avec lesquels il entretien un rapport privilégié et intime : il les dorlote, les caresse, les sable et les fourbit. Enfin il écrit pour exercer sa liberté et contrer tous les écueils à la liberté de vivre pleinement sa vie.</p>
+    <p>Jean André Constant est fondateur et co-directeur, avec le poète de Montréal Saint-John Kauss, de la maison d’édition Pages Folles. Ensemble ils se sont donné pour tâche de canaliser une partie de leur énergie, de leur sensibilité poétique et humaine vers une activité pour aider d’autres écrivains à atteindre leur objectif de publier des œuvres.</p>
+    <p>Constant est un homme ouvert sur le monde et on le sent particulièrement dans son recueil bilingue Pwezi san Aksan / Poetry with a French Accent, dans lequel il revisite les rapports entre identité et langage, en particulier l’expérience de l’immigration et le fait de parler anglais avec un accent étranger. Loin de décrire ou de déchiffrer les nationalités ou les cultures, on a l’impression que le propos est plutôt de toucher le cœur humain par des sentiments, sans étendard ni faux discours : l’amour, la haine, la paix, l’illusion, la frustration, la douleur. Émotion, mélodie, saveur de la vie avec tous ses accents.</p>
+    <p>Humaniste, il a toujours maintenu un vif engagement social et politique – qui déjà s’était exprimé dès son adolescence à travers les émissions Konbit peyizan  et Micro-jeunesse  qu’il animait à Radyo Men Kontre des Cayes. La plus récente expression de cette conscience prend la forme de la nouvelle expérience qu’il se prépare à vivre : la coopération, en République démocratique du Congo.</p>
+  </text>
+</TEI>

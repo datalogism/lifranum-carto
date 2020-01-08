@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Saint-John_Kauss_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deSaint-John Kauss</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="oelle Constant et Mylène Dorcé" ref="http://ile-en-ile.org/kauss/" xml:id="Saint-John_Kauss_bio_auteur_ile_en_ile">
+    <p>Saint-John Kauss, nom de plume de John Nelson, est né le 21 septembre 1958 à Hinche (Haïti). Il est le fils du Major Luc Nelson et de Mathilde Pierre-Antoine, née Bastien, et l’aîné d’une famille de cinq garçons.</p>
+    <p>Saint-John Kauss publie son premier recueil de poèmes, Chants d’homme pour les nuits d’ombre, en 1979 aux Éditions Choucoune. Il rentre en 1977 à la Faculté de médecine de Port-au-Prince, puis part à Montréal retrouver sa mère, dont il est éloigné depuis longtemps. Il obtient un baccalauréat en biologie de l’Université du Québec à Montréal (UQÀM) en 1984, puis entreprend des études de maîtrise. Durant cette période, caractérisée par la chute de la dictature du régime duvaliériste et une succession de coups d’états (1986-2004), Saint-John Kauss ne retournera pas en Haïti. Il poursuit alors des études avancées en recherches médicales à la faculté de médecine de l’Université de Montréal et obtient son doctorat ès sciences (Ph.D.) en 1993. Depuis la maîtrise, Kauss a été l’assistant de célèbres chercheurs canadiens, dont les docteurs Hugues Beauregard, Eugenio Rasio, Ijaz Aslam Qureshi et Guy Chouinard. Kauss travaille pour la firme Excelsior Scientific Research et pour une clinique d’arthrite aux États-Unis.</p>
+    <p>Partageant son temps entre la recherche scientifique et la littérature, Saint-John Kauss se considère d’abord comme un poète. Il est l’un des deux membres fondateurs du Surpluréalisme, mouvement littéraire, créé en 1980, dont le but est de visualiser le monde dans tous ses univers. Kauss écrit en français et en créole, et a publié plusieurs ouvrages (poésie, essai, critique, anthologie). Sa poésie, traduite en plusieurs langues (anglais, espagnol, roumain, portugais et allemand), fait aussi l’objet de nombreux travaux universitaires. Elle est étudiée à Port-au-Prince, à Montréal, à Paris, à Bucarest, au Luxembourg, au Mexique, en Italie et aux États-Unis.</p>
+    <p>Saint-John Kauss est le PDG des Éditions Kauss &amp; Kauss, membre du Comité de direction des Éditions Pages Folles et co-fondateur de la revue Prestige et du journal Présence. Il est le co-fondateur et PDG des Éditions Conel et membre du Comité de direction de JCKomuniK, une société de communication. Il est également membre de plusieurs institutions littéraires, dont l’Union des Écrivaines et des Écrivains Québécois (UNEQ), la Société littéraire de Laval, l’Association des Auteurs des Laurentides, la Société des Écrivains Canadiens (SEC) et le PEN Club International. Il est membre correspondant de l’Académie Européenne des Sciences, des Arts et des Lettres, et secrétaire général de l’Association Haïtienne des Écrivains (AHE).</p>
+    <p>Kauss est l’auteur de plus d’une centaine d’articles critiques et d’une vingtaine de publications. Il a été collaborateur culturel et littéraire pour plusieurs publications, telles que Prestige, Haïti Observateur, Haïti en Marche et Le Nouvelliste. Il travaille présentement à la publication de plusieurs anthologies, essais et dictionnaires littéraires. Son œuvre est marquée par l’exil, le pays, la famille, la tendresse et l’errance. Paroles de traversier dans le temps et l’espace, elle est enracinée dans la mémoire. Son œuvre lui a valu plusieurs distinctions et prix littéraires.</p>
+  </text>
+</TEI>

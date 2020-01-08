@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Rene_Philoctete_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deRené Philoctète</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="odney Saint-Éloi" ref="http://ile-en-ile.org/philoctete/" xml:id="Rene_Philoctete_bio_auteur_ile_en_ile">
+    <p>René Philoctète est né le 16 novembre 1932 à Jérémie (Haïti). Co-fondateur du mouvement Spiralisme avec Jean-Claude Fignolé et Frankétienne, il est l’un de ceux qui a le plus marqué la poésie haïtienne du 20ème siècle. Avec son frère Raymond, journaliste et critique, il s’est engagé à une relecture précise de tous les grands classiques de la littérature haïtienne. Il est par-dessus tout un grand amateur de Rimbaud.</p>
+    <p>Membre fondateur du mouvement Haïti Littéraire du début des années 1960 avec Anthony Phelps, Roland Morisseau, Serge Legagneur, Davertige et Auguste Ténor, Philoctète fait de la poésie un espace de combat, d’amour et de solidarité.</p>
+    <p>Philoctète quitte Haïti en deux fois: en 1966, pour le Québec où il retrouve ses amis de Haïti Littéraire. Il y reste six mois, le temps d’écrire Ces îles qui marchent. Il part une semaine en Argentine en 1992 afin de recevoir le Prix du parlement argentin.</p>
+    <p>Son œuvre est une promesse sur le temps, sur la femme et l’homme et un chant éternel à la beauté. Dans les années soixante, encouragé par son ami Gérard Résil, homme de théâtre, il se découvre une grande passion pour la scène et se met à écrire des pièces de théâtre, jouées à Port-au-Prince. Il se lance également après les années 1980 dans le roman. Il initie une œuvre poétique créole, avec des textes publiés dans la revue Conjonction et dans le quotidien Le Nouvelliste.</p>
+    <p>La tentation politique est grande chez le poète. Il s’insurge contre les tentations totalitaires qui menacent la jeune démocratie haïtienne, à la chute des Duvalier, sa poésie devient plutôt un bréviaire politique. Une urgence de combattre la violence et la montée de la dictature. Dans le quotidien Le Nouvelliste, il tient chronique, avec une plume acide pour dénoncer la bêtise et la politicaillerie haïtienne.</p>
+    <p>René Philoctète est décédé à Port-au-Prince le 17 juillet 1995. Sa poésie influence de nombreux jeunes poètes et d’écrivains. Mais cette œuvre, saluée par la critique haïtienne et si frémissante de fraternité et d’humanité, n’a pas bénéficié jusqu’ici de reconnaissance internationale. Pour refuser l’oubli, Lyonel Trouillot rassemble quelques textes de Philoctète, publiés aux Actes Sud en 2003, Anthologie poétique.</p>
+  </text>
+</TEI>

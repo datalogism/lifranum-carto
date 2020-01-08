@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean-Marie_Bourjolly_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean-Marie Bourjolly</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean-Marie_Bourjolly_bio_auteur_ile_en_ile">
+    <p>Jean-Marie Bourjolly est né à Port-au-Prince, Haïti. Après des études secondaires au Petit-Séminaire Collège Saint-Martial et une année à la Faculté des sciences et à l’École normale supérieure à Port-au-Prince, il part étudier les mathématiques à Toulouse. Il étudie ensuite la recherche opérationnelle à l’Université de Montréal et à l’Université de Waterloo (Ontario), où il obtient un doctorat en combinatoire et optimisation.</p>
+    <p>Jean-Marie Bourjolly est actuellement professeur titulaire de logistique à l’École des sciences de la gestion de l’Université du Québec à Montréal (UQÀM).</p>
+    <p>Dernier appel  est sa première œuvre de fiction. Le titre se réfère au dernier appel à l’aéroport : un projet de voyage d’étude qui est aussi une tentative de fuite sans retour, l’angoisse de l’attente, la possibilité que le dernier appel résonne pour la prison plutôt que pour la liberté. Raphaël Confiant note que l’imaginaire du roman de Bourjolly est « riche de toutes les cultures qui se sont mêlées depuis plusieurs siècles en Haïti » : « Ce texte, qui revisite une enfance à Port-au-Prince du temps de la dictature ubuesque et sanglante de François Duvalier, est aussi un beau roman d’apprentissage ». Le jeune héros, Didier Delerme, est un haïtien « ordinaire », sensible, et Dernier appel est le « portrait d’une génération », selon Adrien Bance (Le Matin, 20 mai 2004).</p>
+    <p>La parution du second roman de Jean-Marie Bourjolly, Voyage en quatre temps, est prévue prochainement.</p>
+  </text>
+</TEI>

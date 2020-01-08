@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jacqueline_Scott-Lemoine_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jacqueline Scott-Lemoine</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/scott/" xml:id="Jacqueline_Scott-Lemoine_biblio_auteur_ile_en_ile">
+    <list subtype="sur île en île">
+      <item ref="http://ile-en-ile.org/jacqueline-scott-lemoine-5-questions-pour-ile-en-ile/">Jacqueline Scott-Lemoine, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/jacqueline-scott-lemoine-les-nuits-de-tulussia/">Les Nuits de Tulussia</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-rupture-et-nouvel-espace-poetique/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item>Prochainement en ligne sur Île en île : un dossier présentant le mari de Jacqueline Scott-Lemoine, le poète Lucien Lemoine (1923-2010).</item>
+    </list>
+    <list subtype="ailleurs sur le web">
+      <item ref="http://www.dailymotion.com/video/x35nk5_larbre-de-la-liberte-haiti-extrait">L’Arbre de la liberté</item>
+      <item ref="http://aflit.arts.uwa.edu.au/AMINAScott_Lemoine.html">« Les Nuits de Tulussia » de Jacqueline Scott-Lemoine</item>
+      <item ref="http://www.africultures.com/index.asp?menu=affiche_article&amp;no=3297">D’Haïti au Sénégal, la remontée du fleuve</item>
+      <item ref="http://www.agendakar.com/index.php/Webzine/Interviews/Jacqueline-Lemoine-passionnement.html">Jacqueline Lemoine, passionnément !</item>
+      <item ref="http://www.walf.sn/culture/suite.php?rub=5&amp;id_art=21608">Jacqueline Scott Lemoine : La « Reine mère » tire sa révérence</item>
+      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=1304">Et vint l’anthropologie, mais d’abord…</item>
+    </list>
+    <list subtype="sélection d’hommages à jacqueline scott-lemoine (1923-2011)">
+      <item ref="http://www.rfi.fr/afrique/20110710-actrice-senegalaise-jacqueline-scott-lemoine-est-morte">L’actrice Jacqueline Scott Lemoine est décédée</item>
+      <item ref="http://www.walf.sn/culture/suite.php?rub=5&amp;id_art=73637">Décès de Mme Lemoine : Jacqueline rejoint Lucien pour l’éternité</item>
+      <item ref="http://www.africultures.com/php/index.php?nav=article&amp;no=10317">Tu nous manques déjà, Jacqueline…</item>
+      <item ref="http://www.lesoleil.sn/index.php?option=com_content&amp;view=article&amp;id=5623:deces-de-jacqueline-lemoine--le-dernier-acte-dune-grande-dame-de-la-culture-&amp;catid=78:a-la-une">Décès de Jacqueline Lemoine : Le dernier acte d’une grande dame de la culture</item>
+      <item ref="http://www.lequotidien.sn/index.php?option=com_content&amp;view=article&amp;id=929&amp;catid=41&amp;Itemid=60">Dècès de la veuve de Lucien Lemoine : Les ultimes confessions de Jacqueline</item>
+      <item ref="http://www.pressafrik.com/In-Memoriam-Jacqueline-Scott-Lemoine-une-grande-artiste-a-tire-sa-reverence_a62014.html">In Memoriam. Jacqueline Scott Lemoine, une grande artiste a tiré sa révérence</item>
+    </list>
+    <list subtype="roman">
+      <item>Les nuits de Tulussia.Préface d’Amadou Lamine Sall. Paris: Présence Africaine, 2005.</item>
+    </list>
+    <list subtype="récit">
+      <item>Cyvadier, ou 50 ans de feux de la rampe et autres souvenirs. (à paraître).</item>
+    </list>
+    <list subtype="théâtre">
+      <item>La ligne de crête. Dakar:Le Nègre International, 2007.</item>
+    </list>
+    <list subtype="nouvelle">
+      <item>« Mérissia Ti-Sia ». L’Étrangère et douze autres nouvelles primées dans le cadre du 9e concours radiophonique de la meilleure nouvelle de langue française. Anne-Marie Niane, éd. Paris: Haitier, 1985: 51-60.</item>
+    </list>
+    <list subtype="articles sélectionnés">
+      <item>« Et vint l’Anthologie, mais d’abord ». Poésie nègre et liberté : 1948-1998, cinquantenaire de l’Anthologie de la nouvelle poésie nègre et malgache de langue française de Léopold Sédar Senghor. Dakar: Fondation Léopold Sédar Senghor, 1998.</item>
+      <item>« Césaire et nous – et Haïti; Pour ses 90 ans glorieux ». (23 juin 2006).</item>
+      <item>« D’Haïti au Sénégal, la remontée du fleuve ». Africultures 58 (janvier-mars 2004): 145-149.</item>
+      <item>« Musique en Haïti ». Présence Africaine 169 (2004): 157-166.</item>
+    </list>
+    <list subtype="représentations théâtrales en france">
+      <item>La Tragédie du roi Christophe  d’Aimé Césaire, mise en scène par Jean-Marie Serreau créé pour le festival de Salzbourg, 1964; au Théâtre de l’Odéon, 1965.</item>
+      <item>Gouverneurs de la rosée  de Jacques Roumain, mise en scène par Hervé Denis.</item>
+      <item>Les crocodiles ne pleurent plus, mise en scène par Serge Nail, Théâtre du Préau, Vire.</item>
+      <item>Le Malade Imaginaire de Molière (Célébration des 300 ans de la mort de Molière), 2003.</item>
+    </list>
+    <list subtype="représentations théâtrales au théâtre daniel sorano à dakar">
+      <item>Monsieur Pots de vin et consorts, adaptation (du Révizor de Gogol) et mise en scène de Maurice Sonar Senghor.</item>
+      <item>L’Os de Birago Diop, mis en scène de Maurice Sonar Senghor, avec Serigne Ndiaye Gonzalès.</item>
+      <item>L’Exil d’Alboury de Cheikh Alioune Ndao, mise en scène de Raymond Hermantier.</item>
+      <item>Sikasso, ou la dernière citadelle de Djibril Tamsir Niane, mise en scène Coly Mbaye (Assistante à la mise en scène).</item>
+      <item>La Fresque sur l’Afrique et l’Homme noir, mise en scène par Jean-Pierre Leurs et Siba Fassou Comnos, avec Mamadou Dioum.</item>
+      <item>Les Amazoulous d’Abdou Anta Kâ, mise en scène par Raymond Hermantier.</item>
+      <item>Le Malade imaginaire de Molière, mise en scène par Raymond Hermantier (rôle de Toinette).</item>
+      <item>Les Bouts de bois de Dieu de Sembène Ousmane.</item>
+      <item>Général Manuel oh ! Prix Albert Husson de la ville de Lyon.</item>
+      <item>Tête d’Or de Paul Claudel (la Meneuse).</item>
+      <item>Le Sacre du Ceddo d’Alioune Badara Bèye (la Reine mère).</item>
+      <item>Conscience de Tracteur de Sony Labou Tansi, mise en scène de Tola Koukoui.</item>
+      <item>Macbeth de Shakespeare.</item>
+      <item>Turandot, d’après le livret de l’opéra de Puccini, mise en scène Pierre Roman.</item>
+      <item>Emigrés, adaptation de la pièce de Flawonir Mrozek, avec Alpha Oumar Wane et Daouda Lam.</item>
+      <item>L’Exil d’Alboury de Cheikh Alioune Ndao, dernier rôle pour les 40 ans du Sorano, 2006.</item>
+    </list>
+    <list subtype="café-théâtre">
+      <item>Le Mot de Cambronne de Sacha Guitry, mise en scène Lucien Lemoine.</item>
+      <item>Les Boulingrin de Courteline, mise en scène Lucien Lemoine.</item>
+      <item>Le grand vizir d’Obaldia, mise en scène Gérard Chenet.</item>
+      <item>Lady Macbeth de Tania Balachova, Mise en scène Lucien Lemoine.</item>
+    </list>
+    <list subtype="filmographie">
+      <item>Le Decaméron noir (Il Decamerone Nero), comédie dramatique réalisée par Piero Vivarelli. Italie, 1979, 100 min.</item>
+      <item>Amok, réalisation Souheil Ben-Barka (d’après Pleure ô mon pays bien-aimé d’Alan Patton). Maroc, 1982, 103 min.</item>
+      <item>Un court métrage de Moussa Bathilly.</item>
+      <item>Jacqueline et Lucien Lemoine, un poète et sa muse, documentaire réalisé par Maxence Denis et Fred Koenig. Dakar, Aïdawedo productions, 2010.</item>
+    </list>
+    <list subtype="prix et distinctions">
+      <item>Lion d’Honneur du Lion’s Club de Dakar.</item>
+      <item>Médaillée de l’Ordre des Femmes Pionnières du Ministère de la Femme et de l’Enfant, au Sénégal.</item>
+      <item>Chevalier dans l’Ordre National des Palmes Académiques (Sénégal).</item>
+      <item>Officier dans l’Ordre des Arts et des Lettres (Sénégal).</item>
+      <item>Chevalier de la Légion d’Honneur (France).</item>
+      <item>Grand Croix de l’Ordre National du Mérite du Sénégal.</item>
+      <item>2008     Prix Alioune Badara Bèye, pour La ligne de crête.</item>
+      <item>2009     Commandeur dans l’Ordre des Arts et des Lettres (France).</item>
+    </list>
+    <list subtype="sur jacqueline scott-lemoine">
+      <item>Talleyrand, Daniel. « Rencontre avec Jacqueline Lemoine ». Haïti-Tribune 18 (1er quinzaine avril 2005): 1, 19</item>
+    </list>
+  </div>
+</TEI>

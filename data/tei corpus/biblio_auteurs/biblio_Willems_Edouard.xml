@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Willems_Edouard_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Willems Édouard</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/edouard/" xml:id="Willems_Edouard_biblio_auteur_ile_en_ile">
+    <list subtype="sur île en île">
+      <item ref="http://ile-en-ile.org/willems-edouard-plaies-interimaires/">Plaies intérimaires</item>
+    </list>
+    <list subtype="ailleurs sur le web">
+      <item ref="http://medialternatif.org/spip.php?article98">Haïti : Droit d’auteur et propriété intellectuelle</item>
+      <item ref="http://medialternatif.org/spip.php?article98">Haïti : Droit d’auteur et propriété intellectuelle</item>
+      <item ref="http://www.lenational.org/?s=willems">Le National</item>
+      <item ref="http://csmsmagazine.org/?p=1846">Plaies intérimaires</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/143514/Willems-Edouard-un-coup-de-tonnerre">Willems Edouard : un coup de tonnerre !!</item>
+      <item ref="http://www.alterpresse.org/spip.php?article4587">Haïti : Rentrée littéraire, une grande première</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/29419/Le-clavecin-bien-tempere-de-Willems-Edouard">Le clavecin bien tempéré de Willems Edouard</item>
+      <item ref="http://www.alterpresse.org/spip.php?article1625">Les Presses Nationales d’Haïti : De l’imprimerie à l’édition</item>
+    </list>
+    <list subtype="willems édouard (1965-2016)">
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/160801/Disparition-tragique-de-Willems-Edouard">Disparition tragique de Willems Édouard</item>
+      <item ref="http://www.alterpresse.org/spip.php?article20368#.V4AXGY6__qo">Haïti-Insécurité : Deux nouveaux assassinats par balles, dont le juriste Willems Édouard</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/160803/Repose-en-paix-Willems">Repose en paix Willems !</item>
+      <item ref="https://rezonodwes.com/willems-edouard-ex-dg-des-presses-nationales-assassine-a-petion-ville/">Willems Edouard, ex DG des Presses Nationales, assassiné à Pétion-Ville</item>
+      <item ref="http://memoiredencrier.com/willems-edouard-mon-ami-poete-assassine/">Willems Édouard, mon ami poète assassiné</item>
+      <item ref="http://www.lenational.org/willems-edouard-lacte-de-mort-ineffable/">Willems Edouard, l’acte de mort ineffable !</item>
+      <item ref="http://www.lenational.org/poete-bord-de-labime/">Poète au bord de l’abîme</item>
+      <item ref="http://www.lenational.org/soiree-dhommage-a-willems-edouard/">Soirée d’hommage à Willems Edouard</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/161075/Tout-un-Vendredi-litteraire-a-Willems-Edouard">Tout un Vendredi littéraire à Willems Édouard</item>
+    </list>
+    <list subtype="poésie">
+      <item>Rêve obèse. Port-au-Prince: Mémoire, 1996.</item>
+      <item>Plaies intérimaires. Montréal: Mémoire d’encrier, 2004.</item>
+    </list>
+    <list subtype="textes publiés dans des ouvrages collectifs">
+      <item>« XXXIV » et « Rêve obèse ». Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 301-302.</item>
+      <item>« La maison des réclamés ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 73-83.</item>
+    </list>
+    <list subtype="prix et distinctions littéraires">
+      <item>2012     Prix du Gardien du Livre, par Le Nouvelliste.</item>
+    </list>
+  </div>
+</TEI>

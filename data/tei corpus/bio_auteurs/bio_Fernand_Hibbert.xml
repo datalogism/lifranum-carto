@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Fernand_Hibbert_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deFernand Hibbert</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="adève Ménard" ref="http://ile-en-ile.org/hibbert/" xml:id="Fernand_Hibbert_bio_auteur_ile_en_ile">
+    <p>Fernand Hibbert est né le 30 octobre 1873 à Miragoâne (Haïti). À l’âge de dix ans, il quitte sa ville natale pour Port-au-Prince où il est inscrit au Petit Séminaire Collège Saint-Martial. Il termine ses études secondaires à Paris où il fait ensuite des études supérieures. Hibbert rentre en Haïti en 1894. Il est d’abord comptable au département des Finances. Deux ans plus tard, il se marie avec Marie Pescaye. (Leur fille Nicole se mariera avec l’écrivain Jacques Roumain.) Les premiers écrits de Hibbert sont des articles à caractère historique et des contes publiés dans La Ronde. En 1904, Hibbert est nommé professeur d’histoire au Lycée Pétion. Il est aussi professeur de langue et de littérature française. Il reste dans l’enseignement jusqu’en 1912, tout en continuant à écrire. Plusieurs de ses œuvres apparaissent dans Le Soir sous forme de feuilleton (Sena, Les Thazar, Romulus, Masques et Visages). Fernand Hibbert milite contre l’occupation américaine et contribue à La Revue de la Ligue de la jeunesse haïtienne. En 1916, il fait jouer La Réclamation Hopton, pièce qui reste inachevée. Après sa carrière d’enseignant, Hibbert fait carrière politique. Il est chef de division au département des Relations extérieures. De 1916 à 1920, il est ministre à la Havane. Il est secrétaire d’État de l’Instruction publique de 1921 à 1922. Fernand Hibbert meurt en Haïti le 19 décembre 1928, à l’âge de cinquante-cinq ans.</p>
+    <p>Hibbert est souvent appelé peintre de la société haïtienne. En fait, sa génération d’écrivains est créditée par plus d’un d’avoir inauguré le roman haïtien. Pour la plupart, Hibbert puise ses personnages principaux dans la bourgeoisie haïtienne. Il fait référence dans ses textes aux pratiques politiques et sociales de son époque. Par exemple, il est souvent question de xénophilie excessive ainsi que du rôle que joue l’argent dans les relations humaines. Dans certains textes Hibbert fait référence à des événements politiques spécifiques. Dans Romulus, parfois qualifié de roman historique, il raconte le siège de Miragoâne par des exilés venus de la Jamaïque en 1883. L’intrigue des Simulacres se déroule pendant l’occupation américaine d’Haïti. Hibbert utilise beaucoup d’humour tout en critiquant certaines mœurs haïtiennes de son époque. D’ailleurs, bon nombre des écrits d’Hibbert restent d’actualité dans leur description des pratiques sociales et politiques du pays. Les romans de Fernand Hibbert continuent d’être lus et étudiés en Haïti comme en témoigne la réédition de ses œuvres en 1988 par la maison Henri Deschamps.</p>
+    <p>Références:  Léon-François Hoffmann, Littérature d’Haïti (Paris: EDICEF, 1995); Pradel Pompilus et Raphaël Berrou, Histoire de la littérature haïtienne, illustrée par les textes (Port-au-Prince: Éditions Caraïbe, 1975).</p>
+  </text>
+</TEI>

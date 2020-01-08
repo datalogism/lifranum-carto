@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Clement_Magloire-Saint-Aude_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deClément Magloire-Saint-Aude</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.clement-magloire-saint-aude.32117.html" xml:id="Clement_Magloire-Saint-Aude_bio_auteur_spla">
+    <p>Magloire-Saint-Aude : l'un des plus grands poètes du XXe siècle. C'est d'abord un regard, idéologiquement, politiquement et littérairement irrécupérable. Une haute exigence poétique. Une concentration extrême. Sa poésie a fasciné André Breton qui disait ceci : &quot;Douze à quinze vers, pas davantage, je comprends votre désir: la pierre philosophale ou presque, la note inouïe qui dompte le tumulte, la dent unique où la roue d'angoisse engrène sur l'extase. On cherche qui, depuis le Sphinx, eût, dans de telles limites, réussi à arrêter le passant. Dans la poésie française, parfois, Scève, Nerval, Mallarmé, Apollinaire… Mais vous savez bien que tout est beaucoup trop lâché aujourd'hui. Il y a une seule exception: Magloire-Saint-Aude.&quot; voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
+  </text>
+</TEI>

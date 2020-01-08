@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Edwidge_Danticat_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deEdwidge Danticat</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/danticat/" xml:id="Edwidge_Danticat_bio_auteur_ile_en_ile">
+    <p/>
+    <p>Elle publie ses premiers textes dès les années de High School, dans le journal de l’école où elle termine ses études secondaires. Elle obtient un premier diplôme universitaire (B.A.) à Barnard College en lettres françaises avant de poursuivre, boursière, une maîtrise en Beaux-Arts (MFA) à Brown University. Avant même d’être terminée, sa thèse en « creative writing » est acceptée pour publication. Le texte qui en résulte – Breath, Eyes Memory (traduit en français sous le titre Le cri de l’oiseau rouge) – a autant de succès auprès des critiques que du public. L’écrivaine a 25 ans.</p>
+    <p>La force et la texture du style de ce premier récit, où se croisent les réalités haïtiennes et newyorkaises, ont été comparées à celles des auteurs tel Maxine Hong Kingston et Toni Morrison, et ont mérité à l’auteur un passage sur le plateau de la maîtresse du petit écran américain, Oprah Winfrey.</p>
+    <p>Nouvelliste talentueuse, Danticat publie ensuite un recueil de ses courts récits, Krik? Krac!  Dans son deuxième roman, The Farming of Bones (publié en 1998 et traduit l’année suivante comme La Récolte douce des larmes), elle crée une fiction passionnante autour des événements tragiques de 1937. Danticat a également dirigé deux recueils de courts récits écrits par d’autres auteurs, dont The Butterfly’s Way, 33 récits d’haïtiano-américains. Dans toute son oeuvre, son regard sur l’histoire et sur l’actualité n’autorise ni le sensationnalisme, ni la pitié, examinant en particulier la réalité du peuple haïtien avec une prose limpide et enchanteresse.</p>
+    <p>Edwidge Danticat poursuit sa carrière d’écrivaine en se consacrant également à de nombreux projets sur l’art et la culture haïtienne, comme l’indiquent ses collaborations avec les cinéastes Patricia Benoit et Jonathan Demme, et son engagement auprès de la National Coalition for Haitian Rights. Elle publie aussi des chroniques ponctuelles dans des revues telles que The New Yorker.</p>
+    <p>Parmi ses nombreux prix et distinctions, Edwidge Danticat est lauréate en 1999 de l’American Book Award, pour The Farming of Bones, récipiendaire en 2009 d’une bourse MacArthur, la bourse dite des « génies », et du Prix Neustadt International en 2018 pour l’ensemble de son oeuvre. Traduite en français, son oeuvre a été couronnée notamment par le Prix Carbet de la Caraïbe en 1999, pour La récolte douce des larmes (The Farming of Bones) et par le Grand Prix de l’Association des Écrivains de la Caraïbe en 2013, pour son essai Créer dangereusement (Create Dangerously: The Immigrant Artist at Work).</p>
+  </text>
+</TEI>

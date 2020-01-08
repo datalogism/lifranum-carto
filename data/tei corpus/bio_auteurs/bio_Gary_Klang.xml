@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Gary_Klang_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deGary Klang</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/klang/" xml:id="Gary_Klang_bio_auteur_ile_en_ile">
+    <p>Gary Klang est né le 28 décembre 1941 à Port-au-Prince (Haïti). Après ses cours primaires et secondaires, il se rend à Paris où il fait ses études de lettres à la Sorbonne, de la propédeutique au doctorat. Son mémoire de maîtrise et sa thèse de doctorat sont consacrés tous deux à Marcel Proust.</p>
+    <p>Klang émigre en 1973 à Montréal. Il est engagé aux Éditions La Presse comme correcteur-réviseur, responsable de la qualité du français en général ; il enseigne en même temps la stylistique à l’Université de Montréal, puis devient traducteur dans une société d’ingénieurs. Il travaille aujourd’hui chez SNC-Lavalin, la plus grande firme d’ingénieurs-conseils du Canada, qui a des bureaux dans le monde entier.</p>
+    <p>Son œuvre est très variée : romans, essais, poèmes, théâtre, sans compter de nombreux articles sur la littérature ou des questions linguistiques et culturelles. Ses livres sont publiés au Québec, à l’exception de son premier recueil de poésie, Ex-île, qui a paru en France, en 1988, et lui a valu le premier prix de la Vague à l’âme sur plus de 400 concurrents.</p>
+    <p>Il est membre titulaire de l’Union des écrivains québécois (UNEQ) et membre du PEN Club. Il a été président de la Société des écrivains canadiens, section de Montréal, de 1990 à 1993.</p>
+    <p>Le 14 juillet 2000, Gary Klang a été choisi par l’Union Française à Montréal pour être le parrain de la Fête nationale. Le même soir, la France organisait le lancement de son recueil de poèmes, La terre est vide comme une étoile.</p>
+    <p>Il a été invité en octobre 2002 au Festival International de Poésie de Trois-Rivières (Québec). En 2005, il est nommé président de section de Montréal (pour deux ans) au Conseil des Écrivains francophones d’Amérique.</p>
+  </text>
+</TEI>

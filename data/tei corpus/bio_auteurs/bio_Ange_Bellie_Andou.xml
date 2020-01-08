@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Ange_Bellie_Andou_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deAnge Bellie Andou</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.ange-bellie-andou.40341.html" xml:id="Ange_Bellie_Andou_bio_auteur_spla">
+    <p>Ange Bellie Andou est écrivain, actrice, modèle et productice. Elle se fait connaître du public en 2002 en remportant le premier prix d'un concours de beauté organisé par une chaîne de télévision haïtienne. Depuis elle a joué dans plusieurs pièces au sein de la troupe Éclosion et a participé à de nombreux concours de mannequinat internationaux. Elle fait aussi des apparences ponctuelles à la télé en tant qu'animatrice et présentatrice. Ange Bellie Andou est aussi à la tête de Angel Agency, sa propre agence qui présente arragements floraux, paniers gourmands etc. Elle publie son premier titre &quot; Mon seul péché &quot; en 2007 puis &quot; Les cendres du désir &quot; en 2009 et enfin, en 2014 &quot; Ma muse est un homme &quot;.</p>
+  </text>
+</TEI>

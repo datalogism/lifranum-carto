@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEI xml:id="James_Noel_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJames Noël</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_bio_auteur_ile_en_ile">
+    <p>James Noël naît le 17* mars 1978 à Hinche (Haïti). Les déplacements de sa mère éducatrice et femme d’affaires, avec ses nombreux enfants, le feront connaître une quinzaine d’établissements scolaires élémentaires et secondaires. Après, il suit des cours d’ethnologie, étudie les arts dramatiques au Petit Conservatoire avec le comédien Daniel Marcelin et il suit des cours d’histoire de l’art à l’Institut français d’Haïti. En 2005, il fait un stage d’écriture théâtrale en Guadeloupe et développe ses expériences dans l’édition en travaillant avec une maison d’édition en France. Le poète écrit en créole et en français.</p>
+    <p>Poèmes à double tranchant / Seul le baiser pour muselière, le premier recueil de poésie de James Noël, est sélectionné comme finaliste pour le Grand Prix des Amériques insulaires de Ouessant en 2005. Dans sa préface au recueil, Frankétienne écrit : « Émergeant de l’abîme, le primordial écho des textes du jeune écrivain James Noël dont la précoce maturité m’a saisi du premier coup. / Aucune approche critique et nulle raison explicative susceptible de justifier mes émotions et mon aval spontané, hormis la profonde certitude que les Poèmes à double tranchant portent la sève inaugurale de l’aube future, le sel miraculeux d’une aventure poétique féconde ».</p>
+    <p>Étudié en classe terminale au lycée Alexandre Dumas à Port-au-Prince comme au lycée Van Der Meersch à Roubaix, ce recueil de James Noël lui permet, par de nombreuses invitations, à animer des ateliers d’écriture en Haïti, France, Guyane, Nouvelle-Calédonie et ailleurs.</p>
+    <p>Plusieurs documentaires ont été consacrés à l’auteur, dont le documentaire télévisé, James Noël : Le poète des métaphores, réalisé par Jean Antoine Arisma en 2005.</p>
+    <p>Le 9 juillet 2006, la Bibliothèque de la Grande Anse à Port-au-Prince organise un hommage à James Noël, avec une lecture de poésies, une mise en scène à partir des inédits de l’auteur et une performance du chanteur Wooly Saint Louis Jean et de la chanteuse Tamara Suffren à partir de ses poèmes.</p>
+    <p>Son poème « Bon Nouvèl » a inspiré un court-métrage réalisé par Dominique Batraville et Kendy Vérilus, La danse des pieds. Mis en musique par Wooly Saint Louis Jean, ce poème d’amour « Bon Nouvèl » est disponible aux lecteurs d’Île en île. D’autres textes de James Noël ont été mis en musique et chantés par James Germain et Arthur H.</p>
+    <p>Acteur, James Noël joue parmi les premiers rôles dans le film Wòch nan Solèy de Patricia Benoît (2012) et dans Ayiti mon amour de Guetty Félin (2016). Il possède aussi la casquette de directeur d’acteurs, pour organiser régulièrement des spectacles, tels La Migration des murs, Rêveur à gages (au festival Étonnants Voyageurs en 2012), Vaudou Roma (joué à Rome en 2013), Le Pouvoir des mondes (mars 2016) et Les Coussins de l’imaginaire (juillet 2016).</p>
+    <p>Avec l’artiste Pascale Monnin, James Noël fonde et dirige IntranQu’îllités, « revue de haute tension créatrice avec des pages qui vibrent et évoluent dans l’union libre des genres » (prose, poésie, photographie, peinture, musique, cinéma, etc.). « Le préfixe ‘In’ dans IntranQu’îllités pourrait même renvoyer à la négation de l’insularité. Ce titre est une manière, une astuce pour apostropher tous les imaginaires, pour pénétrer les interstices et naviguer dans l’air/ère d’une île-monde. » Depuis le premier numéro paru en janvier 2012, la revue sert à « contrarier les certitudes et les idées reçues, et ainsi donner libre cours à tous les vents et les tremblements de l’esprit ».</p>
+    <p>Pour James Noël, le poète est sismographe, il capte ondes et vibrations. « J’écris pour avoir de mes nouvelles », dit-il.</p>
+    <p>Agitateur d’idées, James Noël s’entoure de poètes, jeunes et moins jeunes, diseurs, slameurs, conteurs, peintres et photographes pour le partage de la création. Il voyage beaucoup, tout en poursuivant son enragement qu’il définit comme une forme d’engagement suprême, une attitude nécessaire pour « notre siècle en banqueroute ».</p>
+    <p>James Noël et son oeuvre sont présentés sur le site d’Africultures et les sites des maisons d’édition : Legs, Mémoire d’encrier, Vents d’ailleurs et Zulma.
+Vous pouvez le suivre sur Twitter.</p>
+  </text>
+</TEI>

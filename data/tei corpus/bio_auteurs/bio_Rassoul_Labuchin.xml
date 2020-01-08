@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Rassoul_Labuchin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deRassoul Labuchin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="ylène Dorcé" ref="http://ile-en-ile.org/labuchin/" xml:id="Rassoul_Labuchin_bio_auteur_ile_en_ile">
+    <p>Joseph Yves Médard, de son nom d’artiste Rassoul Labuchin, est né le 30 mars 1938, à Pétion-Ville.</p>
+    <p>Rassoul Labuchin devient très tôt un grand militant syndicaliste. En 1959, il fonde le Mouvement Théâtral Ouvrier (MTO) au sein de l’Intersyndical d’Haïti, dirigé à l’époque par Ulrick Joly. Le MTO réalisera des spectacles de théâtre tous les samedis durant un an, jusqu’à l’interdiction de l’Intersyndical d’Haïti par François Duvalier. Rassoul est également membre du Parti d’Entente Populaire, parti au sein duquel Jacques-Stephen Alexis joue le rôle de secrétaire général.</p>
+    <p>Rassoul fréquente la faculté de génie Leconte de Port-au-Prince jusqu’en 1968. À sa dernière année, il doit interrompre ses études car il est capturé par des membres des Volontaires de la sécurité nationale, les Tontons macoutes, sous Papa Doc, puis torturé aux Casernes Dessalines. Il y restera durant plus d’un mois. Il refuse de signer le document exigé par François Duvalier, stipulant qu’il renonçait entièrement aux luttes menées par les jeunes marxistes de l’époque. Quelques jours plus tard, Rassoul échappe de justesse à la prison, parce qu’il allait participer à une émission organisée par les créolistes à Radio-Caraïbes. Tous les participants à cette émission ont été incarcérés à Fort-Dimanche durant un an. Rassoul fera de la prison à trois reprises sous les Duvaliers à cause de ses convictions idéologiques. Durant son troisième emprisonnement, en 1981-82, sous la pression, entre autres, du président français François Mitterrand, de son épouse Danielle et d’une très jeune Sophie Marceau, âgée alors de treize ans, Rassoul sera libéré, pour être envoyé en exil en France. À son retour en Haïti, Rassoul fut sollicité par Marceau, âgée alors de 18 ans, pour jouer dans le film Descente aux enfers en 1986.</p>
+    <p>Parallèlement à son militantisme, Rassoul Labuchin a mené une longue carrière dans l’enseignement. Il a enseigné le français et le créole à l’Institut français d’Haïti. Ses nombreux intérêts incluent, entre autres, le théâtre, la poésie, la littérature, le cinéma et l’opéra.</p>
+    <p>En 1991, il est nommé directeur du Théâtre national d’Haïti, par le président Jean-Bertrand Aristide, poste qu’il occupe en 1991, puis de 1996 à 2001. Rassoul Labuchin est nommé maire de Port-au-Prince en 2002 pour pallier à un vide administratif ; il reste maire de la capitale haïtienne jusqu’en 2004. Maryaj Lenglensou, un projet de la mairie de Port-au-Prince, a été conçu pour être présenté le 2 janvier 2004 dans le cadre des commémorations du bicentenaire de l’indépendance d’Haiti. Premier opéra haitien, dont la musique est du compositeur haïtien Ipharès Blain et le livret de Rassoul Labuchin, Maryaj Lenglensou est joué dans une vingtaine de villes d’Haiti en 2007.</p>
+    <p>Rassoul a été membre du comité de rédaction de la revue Conjonction de l’Institut français, membre de jury du Prix Henri Deschamps, membre de jury du Prix de Casa de Las Americas, membre de jury du Cinéma latino-américain.</p>
+    <p>Il est l’auteur de poésie en créole, traduite en anglais, espagnol, français, hollandais, danois et russe.</p>
+    <p>Rassoul a également travaillé dans plus d’une vingtaine de films. Il a, entre autres, interprété le rôle d’Aurélien dans Gouverneurs de la rosée de Maurice Failevic et a rédigé le scénario de M ap pale nèt, réalisé par Raphaël Stines. Il est l’auteur et réalisateur du film Anita, considéré comme l’un des films qui a ouvert la voie au cinéma haïtien, selon le dictionnaire Larousse du cinéma.</p>
+    <p>Installé à Montréal depuis mars 2010, suite au séisme qui a dévasté Haïti, Rassoul Labuchin termine la rédaction de son premier roman, Les yeux de l’aube.</p>
+  </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Claude_C._Pierre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deClaude C. Pierre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/pierre_claude/" xml:id="Claude_C._Pierre_bio_auteur_ile_en_ile">
+    <p>Claude C. Pierre est né le 28 février 1941 à Corail en Grande Anse, dans le sud-ouest d’Haïti. Il fait ses études primaires chez les Frères de l’Instruction chrétienne à Jérémie, ses études secondaires (jusqu’aux humanités gréco-latines) au Collège Saint Louis à Jérémie et ses études terminales au Lycée Alexandre Pétion à Port-au-Prince. En 1965, il reçoit son certificat pédagogique en enseignement secondaire en lettres et sciences sociales de l’Institut Français d’Haïti à Port-au-Prince et en 1968, son diplôme d’études supérieures en Affaires Internationales de l’École Nationale des Hautes Études Internationales (Port-au-Prince). Il enseigne au niveau secondaire à Port-au-Prince de 1968 à 1970.</p>
+    <p>En 1970, il part au Canada où il fait des études en littérature et linguistique, d’abord à l’Université Laval à Québec et, par la suite, jusqu’au niveau du doctorat à l’université d’Ottawa. En 1978, il obtient son certificat en sciences de l’éducation (didactique et curriculum) de l’Université du Québec à Hull. En 1984, il fait des études (niveau maîtrise) en sciences politiques à l’Université d’Ottawa. Entre 1974 et 1986, Claude Pierre est professeur de lettres à la Commission scolaire régionale de l’Outaouais (École Secondaire et Polyvalente). Entre 1979 et 1983, il est également assistant en recherches et professeur de littérature à l’Université d’Ottawa.</p>
+    <p>En 1986, Claude Pierre rentre en Haïti, où il est nommé professeur de littérature contemporaine à l’Université d’État d’Haïti, enseignant la méthodologie et la sémiotique. De 1988 à 1996, Pierre est éducateur spécialiste en curriculum, conseiller en édition et responsable d’un programme en éducation pour la santé à Cité Soleil.</p>
+    <p>La poésie de Claude Pierre affiche un parti pris pour les préoccupations humaines dans un souci esthétique constant. C’est une recherche de singularité, de la forme fondée sur une thématique de l’ambivalence du je/jeu; il, ils/île, îles; ici/ailleurs; nocturne/diurne. Résolument lyrique, cette poésie prend appui sur les particularités d’Haïti (ses beautés mystérieuses, ses contrastes, sa sérénité, sa violence, sans oublier les dérives de l’Occident, son opulence et ses nuisances) pour révéler des travers humains et les surprises que réserve la vie.</p>
+    <p>Cette poésie a pour thème majeur la générosité sans céder pour autant au misérabilisme ni réduire ses enjeux à la seule question identitaire. Depuis Coucou Rouge (1972), le poète a pleinement pris conscience de l’importance de la polysémie. Il creuse son oeuvre en multipliant les angles de vision dans un voyage imaginaire, en explorant et exploitant les deux langues haïtiennes – le français et le créole – constamment réinventées.</p>
+    <p>Claude Pierre écrit une poésie qui tend la main à autrui sans distinction de frontière, de couleur ou de conditions sociales. C’est une quête permanente d’un humanisme vrai par la synecdoque du je/jeu (curieux et inventif).</p>
+    <p>Le poète, professeur, linguiste et académicien Claude C. Pierre meurt au Canada le 24 juin 2017, à l’âge de 76 ans. Nous vous renvoyons à la page Claude C. Pierre (1941-2017) – hommages pour trouver des témoignages en honneur du poète disparu et vous invitons à nous soumettre les vôtres.
+</p>
+  </text>
+</TEI>

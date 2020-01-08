@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Haveson_Florvil_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deHaveson Florvil</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.haveson-florvil.29254.html" xml:id="Haveson_Florvil_bio_auteur_spla">
+    <p>Né le 31 mai 1989, Haveson B. FLORVIL, une lueur d'espoir nouveau est apparu dans la ville de Ouanaminthe, au Nord'Est d'Haïti. Ses études primaires ont été confiées au Collège Oswald Durand de sa ville natale. Si brillantes que soient celles-ci, elles ne faisaient qu'annoncer les études secondaires à poursuivre au Collège de l'Etoile de Ouanaminthe. Haveson a déjà fait, à maintes occasions, la fierté de sa ville natale et de son pays. Il a l'honneur de présenter son livre à l'appréciation des ses futurs lecteurs et au grand plaisir de la communauté de Ouanaminthe et de la jeunesse haïtienne.</p>
+  </text>
+</TEI>

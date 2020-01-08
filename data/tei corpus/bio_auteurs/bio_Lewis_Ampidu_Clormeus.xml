@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Lewis_Ampidu_Clormeus_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deLewis Ampidu Clorméus</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.lewis-ampidu-clormeus.44901.html" xml:id="Lewis_Ampidu_Clormeus_bio_auteur_spla">
+    <p>Né à Port-au-Prince (Haïti) en 1981.Docteur en sociologie. Il s'intéresse aux relations entre l'État et les religions en Haïti.Il a soutenu une thèse en 2012 à Paris, EHESS en cotutelle avec l'Université d'État d'Haïti : Entre l'État, les élites et les religions en Haïti : redécouvrir la campagne anti-superstitieuse de 1939-1942.Il a également écrit :&quot; L'Église catholique face à la diversité religieuse à Port-au-Prince (1942-2012) &quot;, dans Archives de sciences sociales des religions, n°166, Avril-Juin 2014, p. 155-180.&quot; La démonstration durkheimienne de Jean Price-Mars : faire du vodou haïtien une religion &quot;, dans Archives de sciences sociales des religions, n° 159, Juillet-Septembre 2012, p. 153-170.&quot; À propos de la seconde campagne antisuperstitieuse en Haïti (1911-1912) Contribution à une historiographie &quot;, dans Histoire, monde et cultures religieuses, n° 24, 2012/4, p. 105-130.Source - </p>
+  </text>
+</TEI>

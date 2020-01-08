@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Stanley_Pean_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deStanley Péan</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/pean/" xml:id="Stanley_Pean_bio_auteur_ile_en_ile">
+    <p>Né à Port-au-Prince (Haïti) le 31 mars 1966, Stanley Péan a grandi à Jonquière, au Québec, où sa famille s’est installée la même année. Après avoir tâté du théâtre et des variétés au sein du Groupe Sanguin (un groupe d’humoristes québécois très prisé dans les années 1980-90), il entreprend en 1984 des études en littérature à l’université Laval et commence à publier ses premières nouvelles dans divers périodiques littéraires du Québec ou d’ailleurs, notamment la revue Stop (1985-1999), dont il deviendra l’un des animateurs. Son premier recueil, La plage des songes (1988), est suivi d’un roman, Le tumulte de mon sang (1991) favorablement accueilli par la critique. Vient ensuite un deuxième recueil de nouvelles, Sombres allées (1992), puis un autre roman, Zombi Blues (1996), qui remporte un grand succès populaire. Stanley Péan est également l’auteur de nombreuses œuvres de fiction destinées aux jeunes qui lui vaudront quelques prix littéraires.</p>
+    <p>Depuis 1998, il est rédacteur en chef du journal Le Libraire, le bimestriel des Librairies Indépendantes du Québec. Entre 1999 et 2002, il signe une chronique littéraire dans le quotidien montréalais La Presse. De 2001 à 2004, il anime le magazine littéraire « Bouquinville » à l’antenne de la chaîne culturelle de Radio-Canada. Mélomane et critique musical à ses heures, il anime et coréalise à l’occasion depuis 2004 des émissions sur le jazz sur la chaîne Espace Musique de Radio-Canada. À l’été 2007, il se joint à l’équipe de l’hebdomadaire culturel Voir à titre de commentateur musical.</p>
+    <p>À l’automne 2000, l’université Laval lui décerne la médaille Raymond-Blais, destinée à souligner la réussite exceptionnelle d’un jeune diplômé. En décembre 2004, Stanley Péan est élu président de l’UNEQ, l’Union des écrivaines et écrivains du Québec, poste préstigieux du syndicat professionnel qui travaille à la promotion et à la diffusion de la littérature québécoise au Canada et à l’étranger (en 2006, il est réélu pour un second mandat du poste qu’il occupe jusqu’en 2010).</p>
+    <p>À l’occasion des célébrations entourant ses 20 ans de carrière sur la scène littéraire en automne 2007, les éditions de La Courte Échelle publient simulantément son 21e titre – le recueil de nouvelles, Autochtones de la nuit – et rééditent en format de poche quatre œuvres antérieures (Le Tumulte de mon sang, Zombi Blues, La Nuit démasque et Le Cabinet du Docteur K).</p>
+  </text>
+</TEI>

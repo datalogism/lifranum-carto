@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Michele_Voltaire_Marcelin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deMichèle Voltaire Marcelin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/voltaire-marcelin/" xml:id="Michele_Voltaire_Marcelin_bio_auteur_ile_en_ile">
+    <p>Poète, peintre et comédienne, Michèle Voltaire Marcelin naît en Haïti en 1955. Enfant heureuse et sauvage, elle grandit au bord de la mer entre les champs de canne à sucre et de vétiver. Dans la bibliothèque de son père, elle choisit des livres au hasard, se prend de belle passion pour la poésie et le théâtre et commence à se raconter des histoires en permanence.</p>
+    <p>Son adolescence à Port-au-Prince sera tourmentée : elle déteste l’univers carcéral de l’école et son existence privilégiée face à la réalité haïtienne l’angoisse. Elle se sent impuissante, perd l’abandon et l’insouciance de l’enfance et se replie sur elle-même.</p>
+    <p>Au point de non-retour, elle sera sauvée par la générosité d’un frère qui l’invite à le rejoindre à Santiago du Chili. Arrêtée pendant le coup d’état contre Allende en 1971, elle est prisonnière dans le Stade National. Relâchée, elle se retrouvera à New York où elle rencontre un pianiste de jazz qui sera son compagnon pendant une vingtaine d’années.</p>
+    <p>Universitaire, elle renoue avec le théâtre au Leonard Davis Center for Performing Arts du City College. Années de bohème. Les temps sont difficiles. En 1990, son mari est assassiné d’une balle au coeur. Elle survit à cette tragédie, se consacre à son fils, à la peinture, au théâtre, à l’écriture ; La Désenchantée sera publié en 2005. Le temps passe, l’espoir revient. La rencontre amoureuse de son deuxième mari galvanise l’écriture – de poèmes cette fois – et en 2009 Lost and Found et Amours et Bagatelles seront publiés par les éditions du CIDIHCA, suivis de la traduction en espagnol de La Désenchantée (La Desencantada).</p>
+    <p>Les textes connaîtront un succès critique et seront loués pour leur lyrisme et leur incandescence. En 2010, Amours et Bagatelles est traduit en espagnol par la maison d’édition cubaine ALBA comme Amores y cosas sin importancia. L’Université de Vassar inscrit La Désenchantée dans son cursus d’Introduction à la Littérature au printemps 2012.</p>
+    <p>Un grand choix des poèmes de Michèle Voltaire Marcelin fait partie des anthologies poétiques Terre de Femmes aux Éditions Doucey et Cahier Haïti de la RAL’M (Revue d’Art, Littérature et Musique). On peut aussi entendre sa voix sur les enregistrements sonores de La Désenchantée (texte complet) et Lost and Found (une vingtaine de poèmes choisis du livre).</p>
+    <p>Seule en scène ou accompagnée par des musiciens de jazz, à La Havane, Montréal, Paris ou New York, faisant sienne le credo de Ferré : « La poésie est une clameur; elle doit être entendue comme la musique… », Michèle Voltaire Marcelin partage son temps entre l’écriture, la peinture et la transmission orale de la poésie sur scène.</p>
+  </text>
+</TEI>

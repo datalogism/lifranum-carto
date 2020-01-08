@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Marc_Exavier_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deMarc Exavier</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/exavier/" xml:id="Marc_Exavier_bio_auteur_ile_en_ile">
+    <p>Marc K. Exavier naît le 27 novembre 1962 à Saint-Louis du Nord (Haïti). Il arrive à Port-au-Prince en 1974 pour ses études secondaires. Après son baccalauréat, il débute des études en médecine et en linguistique. Il étudie en Lettres Modernes à l’École Normale Supérieure dont il est sorti diplomé en 1984.</p>
+    <p>De 1987 à 1994, Marc Exavier est professeur de littérature au Lycée Toussaint Louverture, au Lycée de la Croix des Bouquets et dans d’autres écoles secondaires privées. Il étudie au Québec en automne 1993 et termine une Maîtrise en Éducation à l’Université de Montréal en 1994. De retour en Haïti, il devient chargé de cours (en français et en littérature) à l’Université Quisqueya (1994-2001) et, depuis 1994, il est professeur de littérature et de français à l’École Normale Supérieure de l’Université d’État d’Haïti.</p>
+    <p>Journaliste culturel, Marc Exavier écrit dans la presse haïtienne sur les arts et la peinture, et surtout sur la littérature et le cinéma pour la revue Cultura, et pour le quotidien Le Nouvelliste.</p>
+    <p>Il anime une première chronique culturelle sur la Radio Nationale d’Haïti de 1986 à 1990. De 1991 à 1993, son public retrouve ses chroniques sur les ondes de Radio Tropic FM. Après son retour du Canada, Marc Exavier devient responsable de la section culturelle de la Radio Nationale d’Haïti, poste qu’il occupe jusqu’en octobre 1998. Il est ensuite directeur de programmation à Radio Solidarité pendant cinq ans, jusqu’à ce qu’il soit nommé, en mai 2003, Directeur du développement culturel et responsable national des Centres de Lectures et d’Animation Culturelle (CLAC) par le Ministère de la Culture et de la Communication. De 2004 à 2006, il est Directeur Général de la Radio Nationale d’Haïti.</p>
+    <p>Marc Exavier commence à publier au début des années 1980, et dès ses premiers écrits, les critiques font remarquer l’exigence de sa poésie, son grand sens des images. Son œuvre explore un univers de sang et de soleil blessé dans une langue belle et précise, qui rappelle souvent la rigueur d’un Magloire-Saint-Aude.</p>
+    <p>Il est également animateur d’ateliers de lecture et d’écriture, et des ciné-clubs de quartier. En 2000, il fonde l’Atelier du manège, un atelier de lecture et d’écriture pour la promotion des lettres et des arts de la représentation. Il préside l’Association Action pour la Lecture (APOLECT) depuis 2006, dont l’objectif est de sensibiliser, partager et donner le goût de la lecture aux jeunes Haïtiens. Depuis 2006, Marc Exavier dirige également une association écologique, « Ver(t) de Terre ».</p>
+  </text>
+</TEI>

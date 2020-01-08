@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Elsie_Surena_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Elsie Suréna</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/surena/" xml:id="Elsie_Surena_biblio_auteur_ile_en_ile">
+    <list subtype="sur île en île">
+      <item ref="http://ile-en-ile.org/elsie-surena-deux-poemes/">Deux poèmes par Elsie Suréna</item>
+    </list>
+    <list subtype="ailleurs sur le web">
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=70976">Haïti à l’honneur à Paris</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=73972&amp;PubDate=2009-09-10">Du côté de chez Suréna</item>
+    </list>
+    <list subtype="textes et photos d’elsie suréna en ligne">
+      <item ref="http://www.potomitan.info/ayiti/surena/">Elsie Suréna</item>
+      <item ref="http://www.100pour100haiku.fr/revue_ploc/Ploc_revue_haiku_numero_6.pdf">Haïbun ; Retour à Camp-Perrin</item>
+      <item ref="http://575.tempslibres.org/aphp/phaiku1.php?auteur=sure-e">Haïkus</item>
+      <item ref="http://www.windowsonhaiti.com/hfphoto/surena/">The Photography of Elsie Suréna</item>
+      <item ref="http://www.tanbou.com/2005/pwezi.htm">Poukisa</item>
+      <item ref="http://www.bukante.net/fr/haikus.htm">Haïkus d’un soir</item>
+    </list>
+    <list subtype="poésie">
+      <item>Mélodies pour Soirs de Fine Pluie. Port-au-Prince: Presses Nationales d’Haïti, 2002.</item>
+      <item>Confidences des Nuits de la Treizième Lune. Illustré par Lysa Villeneuve. Port-au-Prince: Presses Nationales d’Haïti, 2003.</item>
+      <item>Haïkus d’un soir. Illustré par Mireia Porta Arnau. Port-au-Prince: Bukante Editorial, 2009.</item>
+      <item>Tardives et sauvages. New York: RivartiCollection, 2009.</item>
+    </list>
+    <list subtype="livres pour la jeunesse">
+      <item>L’Arbre qui rêvait d’amour. Illustré par Mireia Porta Arnau. Port-au-Prince: Presses Nationales d’Haïti, 2002; Santo Domingo: Bukante Editorial, 2e éd, 2009.
+Figure au programme du Collège Saint Martial (Port-au-Prince), du Cours Édmée et du Collège Saint Jean (Les Cayes) en classes de 6e secondaire pour l’année académique 2009-2010.</item>
+      <item>Ann al jwe ! Illustré par Chevelin. Port-au-Prince: Page Concept, 2007.
+Figure au programme du Collège Saint Jean (Les Cayes) au 1er cycle fondamental pour l’année académique 2009-2010.</item>
+    </list>
+    <list subtype="nouvelles et récits courts">
+      <item>« Premiers Emois ». « Matrimoine » et « Complot Céleste ». Bain de Lune. Anthologie de récits haïtiens. éd. Hidehiro Tachibana/Moriyuki Hochino. Tokyo: Kokusho Kankhokaï, 2004.</item>
+    </list>
+    <list subtype="poésie parue dans des ouvrages collectifs">
+      <item>« À marée basse », « Fausse route » et « Au nord du crépuscule ». Les Belles Provinciales. Ministère de la Culture/Projet Franco-Haïtien de Promotion du Livre. Port-au-Prince: Le Nouvelliste/ Éditions Mémoire, 2000.</item>
+      <item>« Retrouvailles ». Dits des fous d’amour / Lovers’ Sweet Nothings. Paula Clermont Péan et Rodney Saint-Éloi, éds. Montréal: Mémoire d’encrier, 2003.</item>
+      <item>« Por Nuestro Ayer ». Revista Casa de las Américas 233 (2003); également publié dans Murale collective (Poemas del Exilio). Winnipeg: Asociación Canadiense de Hispanistas, 2004.</item>
+      <item>« Fantasia nocturna ainda jovem ». Saudade, revista de poesia, 6. Anthologie. António José Queirós, éd. Amarante: Associacao Amarante Cultural/Ediçoes do Tâmega, 2004.</item>
+      <item>« Fantasme de Lune Hésitante », « Por nuestro ayer », « Haiku 1 », « Aveu des Heures Tardives », « Vie Nocturne », « Fantasme de Mambo » et « Le Déserteur ». Brassage; Une anthologie poétique de femmes haïtiennes. Claudine Michel, Marlène Racine-Toussaint et Florence Bellande-Robertson, éds. Miami: Women’s Multicultural Press/University of Santa Barbara, 2005: 197-199.</item>
+      <item>« Une saison de tardives fleurs sauvages ». Haïti, numéro spécial 8 des Cahiers de la RAL,M (Revue d’Art et de Littérature, Musique), 2009: 189-201.</item>
+      <item>« Toi qui passais », « Vieillir », « Aveu des heures tardives » et « Tentations ». Voices of the Sun. Anthology of Haitian Writers Published in the Review Tanbou. Tontongi et Franck Laraque, éds. Boston: Trilingual Press, 2009: 316-317.</item>
+      <item>« Le déserteur » et « Dis ? ». Rêves de Poésie. Anthologie. Association Les Dossiers d’Aquitaine. Bordeaux: Les Dossiers d’Aquitaine, 2009.</item>
+      <item>« Angélus du soir », « Dolce vita », « Long voyage », « Retour d’exil », « Absence » et « Fantôme de hounsi ». Poésie Haïtienne Contemporaine. Anthologie. Saint-John Kauss, éd. France: Kamal Benkirane/Association Culturelle Passerelle, 2009.</item>
+      <item>« Aube silencieuse… ». Anthologie de haïkus sur Montréal. éd. Paméla Cooper/Monica Thoma-Petit. Montréal: Ginkgo Press (à paraître 2010).</item>
+    </list>
+    <list subtype="articles sélectionnés">
+      <item>Rubrique « Between you and me » (22 articles sur la résolution des conflits). The Haitian Times (de janvier à décembre 2004).</item>
+      <item>Publication de divers récits dans le quotidien haïtien Le Matin (2005).</item>
+      <item>Plusieurs poèmes et récits publiés dans le quotidien Le Nouvelliste (2000, 2009).</item>
+    </list>
+    <list subtype="prix et distinctions littéraires">
+      <item>1999     Lauréate du concours « Les Belles Provinciales » (Ministère de la Culture et Coopération Française), Port-au-Prince.</item>
+      <item>2005     Judge’s Recognition Award, pour la photo « Stone Steps ». Delray Beach (USA): WITVA Gallery.</item>
+      <item>2009     Prix Belleville Galaxie au 5e Concours International Marco Polo de Haïku.</item>
+      <item>2009     Mention spéciale au 13e Concours International de Haïku du Maïnichi Daily News (Osaka, Japon).</item>
+    </list>
+    <list subtype="sur l’oeuvre d’elsie suréna">
+      <item>Charles, Christophe. « Connaissez-vous les mélodies de Suréna ? ». L’Union (3 février 2003): 15.</item>
+      <item>Charles, Christophe. « Elsie Suréna et ses confidences de la treizième lune ». L’Union (26-28 septembre 2003): 15.</item>
+      <item>Dumas, Pierre-Raymond. « Elsie Suréna : une mémoire en forme de fugue ». Le Nouvelliste (16 janvier 2003): 8.</item>
+      <item>Dumas, Pierre-Raymond. « Elsie Suréna : un style épuré » et « Elsie Suréna : Confidences des nuits de la treizième lune ». Supplément du journal Le Nouvelliste pour Lire en folie (2003): 7, 9.</item>
+      <item>Wèche, Mérès.« Les créations artistiques et littéraires d’Elsie Suréna ». L’Union (22 juillet 2002): 13.</item>
+    </list>
+  </div>
+</TEI>

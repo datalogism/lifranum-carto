@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Rene_Belance_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deRené Bélance</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_bio_auteur_ile_en_ile">
+    <p>René Bélance est né le 8 janvier 1915 à Corail (Haïti). Son enfance a été marquée par l’Occupation américaine de son pays. Par la suite, bien qu’il effectue une longue carrière aux États-Unis, il ne prendra jamais la nationalité américaine.</p>
+    <p>À l’école, René Bélance commence à écrire dès la sixième. Faute de moyens, Bélance ne suit pas son ambition de faire des études de médecine, et s’oriente vers la philosophie dès les années au lycée Alexandre Pétion à Port-au-Prince. Dans cet établissement, l’un de ses essais est remarqué par son professeur Duraciné Vaval. Lauréat d’un concours de philosophie organisé au lycée pour la fête de Pétion, Bélance obtient une bourse par l’intermédiaire de Dantès Bellegarde, essayiste et directeur du lycée à l’époque – une « fortune » de neuf dollars haïtiens (45 gourdes) par mois qui lui permet de « manger trois fois par jour » – pour suivre des études de philosophie pendant un an à l’École Nationale d’Instituteurs. Avec son certificat d’enseignement pour les études primaires, Bélance demande un poste dans sa ville natale de Corail mais finit plutôt par travailler pendant trois ans à un poste avec l’économie nationale à Port-au-Prince.</p>
+    <p>À titre de journaliste bénévole, Bélance contribue à cette époque (et pendant trois ans) des articles au quotidien Le Nouvelliste. Il enseigne à l’École Normale. Il obtient une bourse de l’Unesco et part au Mexique où il enseignera pendant deux ans dans un programme d’éducation d’adultes. L’Unesco lui propose un poste de photographe mais Bélance préfère retourner en Haïti pour enseigner à l’Institut pour l’Éducation des Adultes, récemment créé. Il enseigne ensuite, pendant huit mois, à une école rurale. Bélance revient à Port-au-Prince où il est nommé professeur de littérature au lycée Toussaint-Louverture. Parmi ses élèves, Bélance se souvient du jeune Émile Ollivier en qui il a reconnu les talents de romancier. Yolande Laraque (la soeur du poète), lui fait obtenir un poste d’enseignant au lycée Pétion où il reste jusqu’en 1959. Il passe alors trois ans à faire des recherches sur les Caraïbes à l’Universidad de Porto Rico à Río Piedras.</p>
+    <p>En 1962, Bélance part pour l’University of California à Berkeley où il enseigne, et obtient, après trois ans, une maîtrise. Suivra la carrière américaine du professeur Bélance: d’abord à Whitman College (à Walla Walla dans l’état de Washington), ensuite à Williams College dans le Massachusetts (1968-1970). Suite à une conférence impressionnante sur Aimé Césaire à Providence, Rhode Island, en 1970, Bélance est engagé comme professeur à Brown University où, pendant onze ans, il se spécialise dans le roman africain francophone et anglophone et dans la poésie française.</p>
+    <p>Lorsqu’il prend sa retraite en 1981, Bélance rentre en Haïti et vit à Frères où il se consacre à la poésie. Appelé « poète surréaliste » par le journaliste Roger Gaillard en 1943, René Bélance revendique d’autres élements et styles de sa poésie sociale, sa poésie de protestation. Au moment de sa mort à Port-au-Prince le 11 janvier 2004, de nombreux messages de personnalités du monde littéraire haïtien témoignent de l’estime pour le poète et de l’importance de sa poésie. Voir le dossier, René Bélance, 1915-2004, Hommages au poète.</p>
+  </text>
+</TEI>

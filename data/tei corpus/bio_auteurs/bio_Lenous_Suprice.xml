@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Lenous_Suprice_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deLenous Suprice (Nounous)</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/suprice/" xml:id="Lenous_Suprice_bio_auteur_ile_en_ile">
+    <p>Lenous Guillaume Suprice, dit Nounous, est né à Fond-des-blancs (Haïti). Il fait ses études primaires dans des écoles d’État à Port-au-Prince et ses études secondaires en Haïti (aux lycées Toussaint-Louverture, Alexandre-Pétion et au Centre d’Études Senghor) et au Québec (Polyvalente Pierre-Dupuy). Il effectue des études pré-universitaires au Cégep du Vieux-Montréal. Il vit à Montréal depuis 1976.</p>
+    <p>Après des études à l’Université du Québec à Montréal (baccauréat canadien [licence] en enseignement du français, avec des certificats en alphabétisation et en création littéraire), Lenous Suprice acquiert son brevet d’enseignement en 1992. Avec une pause entre 1996 et début 2002, il enseigne, depuis 1986, à l’éducation aux adultes à la Commission scolaire de Montréal.</p>
+    <p>Nounous publie son premier recueil de poèmes en français, Rêverrant, en 1990. Bwamitan, publié en 1993, est composé de poèmes écrits en créole. Dès le premier recueil, ses lecteurs de poèmes parus dans des publications de la diaspora haïtienne, tel Haïti-Progrès, reconnaissent le poète qui « interpelle au tréfonds du quotidien, misant sur la constante ouverture du cœur à la poésie ». Suivront d’autres recueils, surtout en français, du poète à l’aise dans les deux langues. Dans Faits divers (1994), Pierre Raymond Dumas signale l’« émotion rouge vive », l’audace, l’élégance et la sensibilité du poète, connu comme auteur humoristique, ce qui serait ignorer, selon Dumas, le « jeu subtil du langage et de la dérision qu’il cultive avec un art consommé ». Dumas décrit le poète en termes élogieux : farouche, honnête, déconcertant, sarcastique, idéaliste.</p>
+    <p>« La poésie de Nounous est une sorte de kaléidoscope où les mots embouchent avec désinvolture la trompette de son répertoire : analphabétisme, dictature, impasse, inégalable détour, jeux aériens, compromission, suspicion… » écrit Edgard Gousse, à la sortie du recueil, En enjambant le vent (1997), « Poésie obsédante, où l’activité du poète se résume en un jeu d’observation démasquant le silence complice ».</p>
+    <p>Les poèmes de Nounous sont publiés dans des revues et journaux divers, tels Brèves littéraires, Chemins critiques, Entre Parenthèses, Envol, Haïti Progrès et Haïti en marche, Le Lien, Muse en île, LittéRéalité,  Le Sabord et Tanbou.</p>
+    <p>Impliqué dans les relations interculturelles et dans l’aide aux immigrants, Lenous Suprice est actif, comme intervenant communautaire, au Bureau de la Communauté haïtienne de Montréal (1988-2002). Il anime des ateliers littéraires au CREP et au Centre Gabrielle-Roy (CSDM), et des ateliers de lecture et d’écriture du créole au centre d’alphabétisation N A Rive de Montréal.</p>
+    <p>Lenous Suprice a participé à plusieurs événements artistiques et littéraires, notamment à La Nuit de la Poésie (2003), le Festival International de poésie de Trois-Rivières (2004) . Il est membre de l’Union des écrivaines et des écrivains québécois et de l’association des Écrivains francophones d’Amérique.</p>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jan_J._Dominique_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJan J. Dominique</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="oëlle Vitiello" ref="http://ile-en-ile.org/dominique/" xml:id="Jan_J._Dominique_bio_auteur_ile_en_ile">
+    <p>Jan J. Dominique est née le 25 janvier 1953 à Port-au-Prince. Elle fait ses études en Haïti et au Québec où elle s’installe en 1970. Elle y travaille quelques années en milieu syndical. Revenue en Haïti en 1979, Jan J. Dominique élabore du matériel didactique créole à l’Institut Pédagogique National, enseigne à l’École Normale Supérieure et dans plusieurs collèges. Elle collabore également comme reporter à Radio Haïti Inter. À partir de 1986, elle travaille exclusivement à la radio comme journaliste et animatrice d’émissions culturelles et d’information. Elle devient directeur exécutif de Radio Haïti en 1995 jusqu’à sa fermeture en 2003.</p>
+    <p>En Haiti, Jan J. Dominique publie deux romans et un recueil de nouvelles. Mémoire d’une amnésique (1984), que l’on a qualifié de roman autobiographique bien que l’auteure s’en défende, est un récit ancré dans les traumatismes générés par la première occupation américaine. C’est l’histoire identitaire d’une petite fille, Lili/Paul. Jan J. Dominique s’interroge à travers ce texte sur ce qu’est une écriture au féminin et sur l’écriture-femme, ainsi que sur le rôle de la mémoire. Ce roman est un des premiers, avec le texte de Yanick Jean (La fidélité non plus) à parler d’Haïti sous un jour qui ne laisse pas de prise à l’exotisme des Caraïbes pour le lecteur.</p>
+    <p>Les nouvelles du recueil Évasion (1996) sont très diverses. Elles traitent des angoisses du retour en Haïti après l’exil, des difficultés de l’exil dans les pays du Nord, du surnaturel qui se tisse autour de l’histoire d’une maison haïtienne, de la voix intérieure d’un enfant non encore né, ou celle d’un enfant autiste. Chaque texte est une interrogation sur le rapport entre voix, mémoire, histoire, spiritualité, et écriture.</p>
+    <p>Inventer… la Célestine (2000) est un roman qui est autant celui d’une recherche généalogique individuelle que d’une recherche sur l’histoire d’Haïti. Les deux histoires s’enchevêtrent, formant un commentaire sur l’écriture même d’un roman.</p>
+    <p>Depuis son installation à Montréal en 2003, Jan J. Dominique republie Mémoire d’une amnésique  et Évasion  dans de nouvelles éditions au Québec, ainsi que La Célestine, une version retravaillée de son roman, Inventer… La Célestine. Récipiendaire d’une bourse à la création du Conseil des Arts du Canada en 2006, elle se consacre à l’écriture d’un roman, L’écho des voix parallèles. En novembre 2007, avec une résidence d’auteure en exil (mise en place par le P.E.N., en collaboration avec l’Institut Canadien de Québec), elle s’installe pendant trois mois dans la Maison des écrivains à Québec où elle travaille sur un nouveau roman, L’Amérique, c’est le jardin de mon père, un texte, dit-elle, sur l’exil, l’errance et sur la perte de repères et de traits identitaires, les pertes individuelles aussi, avec la dispersion des familles. Au printemps 2008, paraît un nouveau texte écrit à son arrivée à Montréal, Mémoire errante.</p>
+  </text>
+</TEI>

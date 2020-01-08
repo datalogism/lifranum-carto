@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Jean_D'Amerique_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deJean D'Amérique</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.jean-d-amerique.35672.html" xml:id="Jean_D'Amerique_bio_auteur_spla">
+    <p>Né en Haïti en 1994, Jean D'Amérique est écrivain, auteur de Petite fleur du ghetto, recueil qui lui vaut une mention spéciale du Prix René Philoctète 2015 et une sélection au Prix Révélation de Poésie 2016 de la Société des Gens de Lettres. Animateur d'atelier d'écriture, contributeur de plusieurs revues littéraires, il propose également performances et interventions poétiques pour donner voix à ses textes.Il a été lauréat du Prix de Poésie de la Vocation et finaliste de la Bourse Gina Chenouard SGDL en 2017 pour Nul chemin dans la peau que saignante étreinte paru chez Cheyne Éditeur.</p>
+  </text>
+</TEI>

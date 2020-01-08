@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Claude_C._Pierre_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Claude C. Pierre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-06</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/pierre_claude/" xml:id="Claude_C._Pierre_biblio_auteur_ile_en_ile">
+    <list subtype="sur île en île et dans boutures">
+      <item ref="http://ile-en-ile.org/claude-c-pierre-hommages/">Claude C. Pierre (1941-2017) – hommages</item>
+      <item ref="http://ile-en-ile.org/claude-pierre-courrier-de-noel/">Courrier de Noël</item>
+      <item ref="http://ile-en-ile.org/claude-pierre-5-questions-pour-ile-en-ile/">Claude Pierre, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/claude-pierre-debris-depopee-pour-mon-ile-en-peril/">Débris d’épopée… pour mon Île en péril</item>
+      <item ref="http://ile-en-ile.org/lectures/">Entretissages</item>
+    </list>
+    <list subtype="poésie">
+      <item>À haute voix et à genoux. Port-au-Prince: à compte d’auteur, 1969; Ottawa: Vermillon, 1981; Port-au-Prince: Areytos, 1988.</item>
+      <item>Coucou rouge, suivi de Charlemagne Péralte. Québec: Studio Abeille, 1973.</item>
+      <item>Tourne ma toupie, suivi de Œil. Postface de Claude L. Berthaud. Sherbrooke: Naaman, 1974; Port-au-Prince: Presses Nationales d’Haïti, 2006.</item>
+      <item>Crues. Ottawa: Vermillon, 1985.</item>
+      <item>Le coup de l’étrier. Préface de Jean-Guy Paquin, avec un dessin de Bob Lapierre et cinq encres de Francine Houle. Ottawa: Vermillon, 1986.</item>
+      <item>C’est un grand arbre qui nous unit. (avec Jean-Guy Paquin). Montréal: VLB, 1988.</item>
+      <item>Le voyage inventé. Présentation de René Bélance; mot de la fin de Lyonel Trouillot. Pétion-Ville: Pleine Plage, 1998.</item>
+      <item>Débris d’épopée…  Ottawa: Éditions David, 2004.</item>
+      <item>Le dit du lierre. Port-au-Prince: Zémès, 2006.</item>
+    </list>
+    <list subtype="poésie parue dans des revues">
+      <item>Poèmes dans Co-Incidences (Université d’Ottawa) 3.4 (octobre-novembre 1974).</item>
+      <item>« Puis surgit elle ». Mot pour Mot. 12 (octobre 1983): 30.</item>
+      <item>« Déhiscence ». Huit poèmes Infiniment (recueil collectif). Avec une gravure de Vincent Théberge. Sainte Cécile de Masham: Collectif le groupe sept plus un, 1983; poème repris dans un livre d’artiste, sérigraphie de Marie-Jeanne Musiol.</item>
+      <item>« Liberté ». L’Apropos 1.1 (1983): 16; « Le Noyé ». L’Apropos 2.1 (1984): 15.</item>
+      <item>« Magnétiseur et Somnambule ». Point Barre (Rose Hill, Maurice) 3 (2007): 19-20.</item>
+      <item>Le poète a également collaboré aux revues : BLACK I, Chemins Critiques, Collectif Paroles, Conjonction, Dérives, Envol,  Lire Haïti, Mapou, Rencontre et Sapriphage.</item>
+    </list>
+    <list subtype="textes parus dans des ouvrages collectifs">
+      <item>« Lire Jacques Roumain, poète ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 239-253.</item>
+      <item>« Overdose d’été ou le tour de mon arbre ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 111-116.</item>
+      <item>Cinq poèmes. Anthologie de poésie haïtienne contemporaine, dirigée et présentée par James Noël. Paris: Points, 2015: 71-77.</item>
+      <item>« Marie Vieux-Chauvet, calepin intime ou trajectoire d’une insoumission ». En amour avec Marie, collectif (dirigé par Emmelie Prophète). Port-au-Prince: L’Imprimeur, 2016: 169-177.</item>
+    </list>
+    <list subtype="album">
+      <item> Arc en Neige. Texte de Claude Pierre, planches de Marie-Jeanne Musiol. Hull (Canada), livre d’artiste, 1981.</item>
+    </list>
+    <list subtype="poésie enregistrée">
+      <item>« Débris d’épopée », extrait du poème de Claude Pierre dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+    </list>
+    <list subtype="anthologie">
+      <item>Randevou. (antoloji powezi kreyòl d Ayiti). Pétion-Ville: Pleine Plage / Montréal: CIDIHCA, 1999.</item>
+    </list>
+    <list subtype="prix et distinctions littéraires">
+      <item>1984     Prix littéraire de l’Outaouais, pour Huit poèmes infiniment.</item>
+      <item>1987     Prix de Poésie de l’Alliance Française, Ottawa-Hull, pour Le coup de l’étrier.</item>
+      <item>1987     Prix littéraire Le Droit (Ottawa), pour Le coup de l’étrier.</item>
+      <item>2012     Prix Joseph D. Charles de la bibliothèque Georges Castera, pour Le voyage inventé et son importante contribution à la promotion de la littérature haïtienne.</item>
+    </list>
+    <list subtype="sur l’oeuvre de claude pierre">
+      <item>Beaugé-Rosier, Jacqueline. « Cris et gestes pour un acte de parole dans le «Coup de l’étrier» de Claude Pierre ». LittéRéalité 4.1 (printemps 1992): 63-78.</item>
+      <item>Boisjoli, Jean. « Le voyage inventé ». Envol, revue de poésie (Ottawa) 6.24 (1998): 76-78.</item>
+      <item>Collectif. Co-Incidences (université d’Ottawa), numéro spécial de la revue consacré à Claude Pierre, 3.4 (octobre-novembre 1974).</item>
+      <item>Dominique, Max. « Entretissages ». Boutures 1.2 (février 2000): 49-52.</item>
+      <item>Pelletier, Marc et Jean Dumont. Entrevue avec Claude Pierre. L’Apropos (revue des auteurs de l’Outaouais) 4.2 (1986): 64.</item>
+      <item>articles dans Cultura (périodique) mars 1998; Le Matin (13 juillet 1988 et 2 juin 1998) et Le Nouvelliste (20 août 1998 et 4 janvier 2001).</item>
+    </list>
+  </div>
+</TEI>

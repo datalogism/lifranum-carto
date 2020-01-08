@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Anthony_Phelps_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deAnthony Phelps</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/phelps/" xml:id="Anthony_Phelps_bio_auteur_ile_en_ile">
+    <p>Anthony Phelps, poète, romancier et diseur, est né à Port-au-Prince, Haïti, le 25 août 1928. Après des études de chimie et de céramique aux États-Unis et au Canada, il se consacre surtout à la littérature.</p>
+    <p>En 1961 il fonde – avec les poètes Davertige, Serge Legagneur, Roland Morisseau, René Philoctète et Auguste Thénor – le groupe Haïti Littéraire et la revue Semences. Il met sur pied et anime la troupe de comédiens, Prisme, et réalise des émissions hebdomadaires de poésie et de théâtre à Radio Cacique, dont il est cofondateur.</p>
+    <p>Il publie trois recueils de poèmes, et collabore à divers journaux et revues.</p>
+    <p>Après un séjour dans les prisons du docteur-dictateur-à-vie, Anthony Phelps est contraint de s’exiler.</p>
+    <p>Établi à Montréal en mai 1964, il y fait du théâtre – scène, radio et télé – puis du journalisme. Il participe à la narration de plusieurs films.</p>
+    <p>Il réalise et produit une dizaine de disques de poésie de poètes haïtiens et québécois.</p>
+    <p>Plusieurs fois boursier du Conseil des Arts du Canada (bourse de création libre), il a obtenu, deux fois, le Prix de Poésie Casa de las Américas, Cuba.</p>
+    <p>Le 2 février 2001, Anthony Phelps reçoit du Ministère des Relations avec les citoyens et de l’Immigration (du gouvernement du Québec) une plaque en hommage, à l’occasion du forum « Encre noire, littérature et communautés noires ».</p>
+    <p>Son œuvre, soit une vingtaine de titres, est traduite en espagnol, anglais, russe, ukrainien, allemand, italien, japonais et certains de ses livres figurent au programme des études françaises de plusieurs universités des États-Unis dont : Princeton, Saint Michael’s College (Vermont) et Iowa State University.</p>
+    <p>En 1985, après vingt ans de service à la Salle des nouvelles TV de Radio Canada, il prend une retraite anticipée pour se consacrer entièrement à l’écriture.</p>
+    <p>Voir le texte, « Parcours d’Anthony Phelps », par Hélène Maïa.</p>
+  </text>
+</TEI>

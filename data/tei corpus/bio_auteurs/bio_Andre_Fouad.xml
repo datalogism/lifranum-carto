@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Andre_Fouad_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deAndré Fouad</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://www.spla.pro/fiche.personne.andre-fouad.39579.html" xml:id="Andre_Fouad_bio_auteur_spla">
+    <p>Né le 2 mai 1972 à Port-au-Prince, André Fouad a fait ses études primaires à l'école République du Libéria (Frères du Sacré Coeur,1978-1985) et ses études secondaires au Collège Canado haïtien (1985-1992). Il a étudié tour à tour la comptabilité, le journalisme et la communication. Il a travaillé au journal le Nouvelliste, Récréation Magazine et la Télévision Nationale d'Haïti à titre de présentateur/rédacteur à la section culturelle.André Fouad est l'auteur de 4 recueils de poèmes:  GERBE D'ESPÉRANCE en 1992, EN QUÊTE DE LUMIÈRE (1992), BRI LAN NWIT (2000) et ETENSÈL MO'M YO (2006).Ses poèmes figurent dans plusieurs anthologies dont: l'Anthologie de la Littérature Haïtienne, un siècle de poésie (1901-2001), qui a reçu le prix Ouessant 2005 pour le 6ème Salon du Livre Insulaire à Paris (France). Il a reçu un AWARD OF RECOGNITION de la part du maire de la ville de Miami, Alex Penelas, dans le cadre du Mois de l'Héritage Culturel Haïtien en mai 2004. Il a été choisi comme Artiste de la Saison par l'Alliance Française de Miami dans son agenda pour l'année 2005. Il a aussi décroché le 2ème prix dans le cadre d'un concours de poèmes organisé par le journal franco haïtien Haïti Tribune (France ) en janvier 2006. En mai 2007, il a été choisi comme Poète de l'Année pour la 7ème édition du Mois de l'Héritage Culturel Haïtien à Miami, comme  poète, diseur et animateur culturel.</p>
+  </text>
+</TEI>

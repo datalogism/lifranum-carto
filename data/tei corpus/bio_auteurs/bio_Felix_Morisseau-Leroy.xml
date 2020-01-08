@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Felix_Morisseau-Leroy_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deFélix Morisseau-Leroy</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="odney Saint-Éloi" ref="http://ile-en-ile.org/morisolewa/" xml:id="Felix_Morisseau-Leroy_bio_auteur_ile_en_ile">
+    <p>Félix Morisseau-Leroy (Feliks Moriso-Lewa) est né à Grand-Gosier (Haïti) le 13 mars 1912.  Il étudie le droit à Port-au-Prince puis enseigne à Jacmel. Auteur bilingue (français-créole), il occupe une place de choix dans le corpus littéraire haïtien.</p>
+    <p>Exilé au Sénégal – comme ses compatriotes-écrivains Jean Brierre, Gérard Chenet et Roger Dorsinville – Morisseau-Leroy y travaille comme enseignant. Ensuite, il se tourne vers l’Amérique du Nord et s’installe à Miami avec sa famille où il tente de regrouper des Haïtiens autour de leur culture. Il est l’un des promoteurs les plus importants de la langue créole. Son recueil Dyakout I, paru en 1953, constitue l’oeuvre fondatrice de la nouvelle littérature créole.</p>
+    <p>Il entreprend la traduction d’une série d’œuvres classiques afin de montrer la richesse du créole: Antigone de Sophocle, 1953, Wa Kreyon, 1953. La préoccupation de Morisseau-Leroy, si elle est poétique, elle est aussi sociale. Car pour lui, écrire est une manière de communiquer avec la majorité des Haïtiens, ségrégués, puisqu’ils viennent de la paysannerie et surtout parce qu’ils sont unilingues créoles. Écrire en créole pour lui est un manifeste politique afin que tous les Haïtiens participent de l’avenir de leur pays.</p>
+    <p>Félix Morisseau-Leroy est mort à Miami le 5 septembre 1998. Une rue de Miami, dans la zone de Little Haiti, porte son nom.</p>
+  </text>
+</TEI>

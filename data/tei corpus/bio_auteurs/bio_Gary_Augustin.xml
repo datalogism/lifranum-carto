@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Gary_Augustin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deGary Augustin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="odney Saint-Éloi" ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_bio_auteur_ile_en_ile">
+    <p>Poète, journaliste et critique, Gary Augustin naît à Port-au-Prince le 15 janvier 1958. Après ses études secondaires au Collège Catt’s Pressoir, il se lance dans la vie turbulante haïtienne des arts du début des années 1980.</p>
+    <p>Passionné de littérature et de peinture, il publie de nombreux articles sur l’art. Il collabore à divers journaux et revues : Boutures, Chemins critiques,  Conjonction et Cultura. Il tient des chroniques culturelles dans les journaux de Port-au-Prince, Le Quotidien et Le Matin. Depuis 1989, il anime une chronique culturelle sur les ondes de la Radio Nationale.</p>
+    <p>La poésie de Gary Augustin est une quête profonde de transparence et de lumière. Écriture vive qui laisse place à la mesure et aux raccourcis de toutes sortes, sa poésie, épurée, est faite de lignes et de formes fuyantes. Le poème cherche ainsi sa voie dans l’économie des figures.</p>
+    <p>Ses recueils de poésie – Girandole du jour (1994), Terre brûlée (2004) et Des villes, des corps et autres songes (2012) – apprennent la patience et l’humilité d’un geste poétique auquel l’exigence de clarté et de mystère ne fait jamais défaut.</p>
+    <p>Lors de la parution de Girandole du jour, le critique Alix Dominique Alexis écrit : « Toujours en lutte avec l’ombre, une lumière tantôt nulle, tantôt faible, tantôt vive traverse les poèmes de Gary Augustin. Grâce à un langage mesuré dans sa facture et subtil dans ses effets, la communication s’établit avec le lecteur généralement avec un égal bonheur dans la graphie et le son. Discrète malgré sa thématique de la lumière, Girandole du jour fait sans doute partie de ces œuvres à retardement dont la beauté ne s’étale que dans les relectures ».</p>
+    <p>Très actif dans la vie culturelle haïtienne, Gary Augustin fait partie du jury pour le Prix René Philoctète de la Poésie, fait souvent des lectures de ses poèmes lors des soirées culturelles à Port-au-Prince comme aux Vendredis littéraires de l’Université Caraïbes, Vandredi anba la vil  de l’Atelier Copart et aux Ateliers Création Marcel Gilbert de la Bibliothèque Justin Lhérisson.</p>
+    <p>Gary Augustin vit entre Pétion-Ville et Port-au-Prince où il consacre son temps à l’écriture et à la flânerie, ce grand art de ne rien faire. Il se promène librement à la manière énigmatique d’un Saint-Aude. Dans ses songes, perce quelquefois le désarroi :</p>
+    <p>Cracher mon désarroi
+Comme une flaque
+Sur le pavé</p>
+    <p>Il est décédé le 2 septembre 2014.</p>
+  </text>
+</TEI>

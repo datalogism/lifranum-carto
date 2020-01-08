@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Cleante_Valcin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deCléante Valcin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text hand="adève Ménard" ref="http://ile-en-ile.org/valcin/" xml:id="Cleante_Valcin_bio_auteur_ile_en_ile">
+    <p>Cléante Desgraves naît le 13 janvier 1891* à Port-au-Prince (Haïti), d’une mère américaine, née Alice Cunningham, et d’un père haïtien, Hector Desgraves, qui était pharmacien et également pianiste. Durant sa jeunesse, Cléante travaille à la pharmacie avec son père. Elle fait ses études au Pensionnat des Demoiselles dirigé par l’écrivaine Virginie Sampeur. Desgraves exerce la profession d’institutrice jusqu’à son mariage en 1917. Virgile Valcin, son mari, est proprietaire de l’Imprimerie Valcin ; il sera nommé Directeur de l’Imprimerie de l’État qui devient par la suite Les Presses nationales de l’Imprimerie de l’État. Le couple aura deux enfants, Charles et Yolande.</p>
+    <p>En 1924, Cléante Valcin publie un recueil de vers, Fleurs et Pleurs. En 1929, Cruelle Destinée  est le premier roman publié par une femme haïtienne. Ce roman sera réédité à deux reprises – sans notes critiques ou présentation de l’auteure – par les éditions Fardin, en 1985 et encore en 2003. Le deuxième roman de Valcin, La Blanche Négresse, paraît en 1934, à la fin de l’occupation américaine. L’auteure contribue aussi aux revues La Semeuse  (créée et dirigée par des femmes, dont Jeanne Perez) et Le Temps.</p>
+    <p>Cléante Valcin est co-fondatrice en 1935 du journal féministe Voix des femmes, l’organe de la Ligue féminine d’action sociale. Elle rédige plusieurs portraits de femmes dans l’ouvrage Femmes Haïtiennes, publié en 1953 par La Ligue Féminine d’action sociale. En juin 1955, elle représente le gouvernement haïtien à la 10ème assemblée générale des femmes et préside la délégation à Puerto Rico. (Elle y reçoit la clé de la ville de San Juan.) Dans un entretien avec Georges Lescouflair à la fin des années 1930, Valcin affirme « je suis féministe et je vais jusqu’au suffrage des femmes ».</p>
+    <p>Cléante Desgraves Valcin est morte le 26 janvier 1956 alors qu’elle était présidente de la Ligue féminine d’action sociale. Les femmes haïtiennes obtiendront le droit de vote en 1957.</p>
+    <p>Quasiment ignorée par les critiques de son époque ainsi que par les contemporains, l’écriture de Valcin est de qualité inégale et pleine de contradictions. En fait, certains événements dans sa vie peuvent expliquer son ambivalence vis-à-vis des institutions sociales de son époque, comme l’église catholique. Elle a été vice-présidente de l’association mixte de la foi chrétienne. Cependant, l’Église Sacré-Cœur de Turgeau a refusé de chanter ses funérailles parce que son mari était un divorcé. Les funérailles ont donc été célébrées à la première église baptiste.</p>
+    <p>Certains de ses textes sont d’une sentimentalité excessive. L’auteure revient souvent au thème du mariage, dans Cruelle Destinée  et dans des textes courts comme « Deux Héroïnes ». En lisant cette nouvelle, on peut douter de son engagement féministe : une femme délaissée par son mari arrive à convaincre la maîtresse de ce dernier de rompre avec lui pour lui permettre de retourner au foyer et regagner son rang dans la société. Alors que dans La Blanche Négresse, préfacé par Jean Price-Mars, Valcin crée de forts personnages féminins, capables de se développer et de s’épanouir en dehors du mariage. En plus, ce deuxième roman pose des questions sociales cruciales. Au-delà du patriotisme incontesté du texte, dont l’intrigue se déroule au cours de l’occupation américaine, Valcin soulève des questions concernant le rapport entre les sexes : « j’avais décliné l’honneur de vous épouser car j’étais contre l’horrible marché que devait être ce mariage, mais on m’a vendue… » (120) dit Laurence à son mari. À travers le personnage principal du roman, Valcin compare l’institution du mariage à celle de l’esclavage. Comme les esclaves luttent contre les maîtres, Laurence aura à lutter contre son mari. Par contre, la relation entre Laurence et son amie haïtienne Myrtana représente une image très forte du féminisme dans le texte.</p>
+    <p>Pour Valcin une mentalité féministe devient une condition liée à l’acquisition d’une identité haïtienne. En effet les thèmes principaux de La Blanche Négresse  sont les différences de couleur, le racisme, la nationalité, le féminisme et le statut de la femme à l’intérieur de l’institution du mariage. Valcin est aussi préoccupée par des questions de classes sociales, par ce qui est perçu comme acceptable selon le rang de la personne. Ceci transparaît aussi bien dans « Deux Héroïnes » que dans « Le Voleur ». Cette dernière nouvelle traite d’un homme dont le rang social l’empêche de mendier pour nourrir sa famille et qui se voit donc obligé de voler. La tension narrative assure le succès de cette nouvelle. On ne peut qu’espérer que l’œuvre de Cléante Valcin, première romancière haïtienne, fera l’objet de plus d’études critiques.</p>
+    <p>* Dans certains travaux critiques et bibliographies, 1895 est indiqué incorrectement comme l’année de sa naissance, et il y a des documents dans lesquels on trouve le prénom de l’auteure mal orthographié, Cléanthe. L’auteure a également publié sous le nom Mme Virgile Valcin ou Desgraves-Valcin.</p>
+  </text>
+</TEI>

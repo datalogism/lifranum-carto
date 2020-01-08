@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xml:id="Nehemy_Pierre-Dahomey_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Biographies deNéhémy Pierre-Dahomey</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-04</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text ref="http://ile-en-ile.org/pierre-dahomey/" xml:id="Nehemy_Pierre-Dahomey_bio_auteur_ile_en_ile">
+    <p>Né à Port-au-Prince en 1986, Néhémy Pierre-Dahomey s’installe à Paris en 2013 où il poursuit des études de philosophie. Il revient en Haïti souvent.</p>
+    <p>Fils d’un pasteur pentecôtiste et d’une mère dévouée à l’église, Pierre-Dahomey grandit avec une éducation protestante. Il s’éloigne de l’église et de la religion, mais garde un intérêt pour la Bible, en particulier pour la scansion et la poésie narrative. Lors d’un entretien, il admet que les passages de son roman Rapatriés faisant référence aux versets de la Bible ont été cités de mémoire.</p>
+    <p>Il se met à écrire dès l’âge de dix-sept ans au moment où il fait ses premières rencontres sérieuses avec la littérature et la création littéraire. Écrivain de poésie, de prose et de textes argumentatifs, Pierre-Dahomey se considère « un lecteur qui écrit ». Employant un style à la fois poétique et érudit, il s’inspire de Gabriel García Márquez, Stephen Sweig, José Saramago, Jacques Stephen Alexis et de Georges Castera.</p>
+    <p>Néhémy Pierre-Dahomey publie son premier roman Rapatriés en janvier 2017. Dans un style narrative poétique qui rappelle Jacques-Stephen Alexis, ce roman raconte l’histoire de Belliqueuse Loussaint et ses deux filles Bélial et Luciole à travers une période de trente ans, de l’ère des boat people au tremblement de terre de 2010. En novembre 2017, le roman remporte le Prix Révélation de la Société des Gens de Lettres (SGDL).</p>
+    <p>– Nathan H. Dize</p>
+  </text>
+</TEI>
