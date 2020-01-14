@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean-Marie_Bourjolly_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jean-Marie Bourjolly</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean-Marie_Bourjolly_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item>Dernier appel. Montréal: Éditions du CIDIHCA, 2004.</item>
+        <item>Voyage en quatre temps (à paraître).</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Robre de Olor » (compte rendu du film). Lettres de Cuba 6 (2005).</item>
+        <item>« Hors de question ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 53-56.</item>
+      </list>
+      <list subtype="distinctions">
+        <item>2001     Co-récipiendaire du premier prix de la Société canadienne de recherche opérationnelle, pour ses travaux en télécommunications.</item>
+      </list>
+      <list subtype="sur jean-marie bourjolly">
+        <item>Bance, Adrien. « Récit pour une génération ». Le Matin (20 mai 2004): 18-19.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jean-marie-bourjolly-dernier-appel/">Dernier appel</item>
+        <item ref="http://ile-en-ile.org/les-je-de-la-memoire-par-robert-berrouet-oriol/">Les je de la mémoire</item>
+        <item ref="http://www.er.uqam.ca/nobel/r14677/">Jean-Marie Bourjolly</item>
+        <item ref="http://ctr.concordia.ca/2003-04/may_6/13/">Coming-of-age novel took 12 years</item>
+        <item ref="http://www.mantech.uqam.ca/enseignants/fiche.php?id=39">Jean-Marie Bourjolly</item>
+      </list>
+    </div>
+  </div>
+</TEI>

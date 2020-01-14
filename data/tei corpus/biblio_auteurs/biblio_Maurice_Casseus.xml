@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Maurice_Casseus_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Maurice Casséus</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/casseus/" xml:id="Maurice_Casseus_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item>Viejo. Port-au-Prince: Éditions la Presse, 1935.</item>
+        <item>Mambo. Port-au-Prince: Département de l’Éducation Nationale, 1949.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Entre les lignes, proses. Port-au-Prince: Éditions La Presse, 1933.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/maurice-casseus-viejo/">Viejo</item>
+      </list>
+    </div>
+  </div>
+</TEI>

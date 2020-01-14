@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jessica_Fievre_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jessica Fièvre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/fievre/" xml:id="Jessica_Fievre_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item> Le Feu de la vengeance. Port-au-Prince: Bibliothèque Nationale d’Haïti, 1997, 102 p.</item>
+        <item>La Bête. Port-au-Prince: Bibliothèque Nationale d’Haïti, 1999, 141 p.</item>
+        <item>Thalassophobie. Port-au-Prince: Bibliothèque Nationale d’Haïti, 2001, 196 p.</item>
+        <item>Les Hommes en Rouge: l’éclipse. Port-au-Prince: Bibliothèque Nationale d’Haïti, 2003, 161 p.</item>
+        <item>La Bête II: Métamorphose. Port-au-Prince: L’Imprimeur II, 2005, 95 p.</item>
+        <item>Les Fantasmes de Sophie. Port-au-Prince: L’Imprimeur II, 2007, 86 p.</item>
+        <item>Sortilège haïtien. Port-au-Prince: L’Imprimeur II, 2011.</item>
+      </list>
+      <list subtype="récit">
+        <item>A Sky the Color of Chaos. Orlando: Beating Windward Press, 2015.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>La Statuette maléfique. Port-au-Prince: Hachette Deschamps, 2001.</item>
+        <item> Le Fantôme de Lisbeth. Port-au-Prince: Média Texte, 2007, 78 p.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>L’Homme au pardessus jaune. (illustrations de Didier Desmangles). Port-au-Prince: Média Texte, 2000.</item>
+      </list>
+      <list subtype="anthologie">
+        <item>Ainsi parla la terre / Tè a pale / So Spoke the Earth. Collectif édité par Jessica Fièvre. Miami: Women Writers of Haitian Descent, 2012.</item>
+      </list>
+      <list subtype="textes dans des ouvrages collectifs">
+        <item>« Ghost Phone ». P’an Ku magazine (Floride, 2006).</item>
+        <item>« Brush with a Star ». P’an Ku  (2006).</item>
+        <item>« La chanson du bouc ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 101-106.</item>
+        <item>« The Rainbow’s End ». Haiti Noir. Edwidge Danticat, éd. New York: Akashic, 2011: 27-41; en français: « Au bout de l’arc en ciel ». Trad. Patricia Barbe-Girault. Haiti noir. Textes présentés par Edwidge Danticat. Paris: Asphalte, 2012: 25-39.</item>
+      </list>
+      <list subtype="sur l’oeuvre de jessica fièvre">
+        <item>Clerfeuille, Laurence. « « Haïtienne jusqu’au bout », entretien avec Jessica Fièvre ». The French Review 89.2 (December 2015): 168-178.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jessica-fievre-le-chemin-des-trepasses/">Le Chemin des Trépassés</item>
+        <item ref="http://ile-en-ile.org/jessica-fievre-les-fantasmes-de-sophie/">Les Fantasmes de Sophie</item>
+        <item ref="http://ile-en-ile.org/jessica-fievre-5-questions-pour-ile-en-ile/">Jessica Fièvre, 5 Questions pour Île en île</item>
+        <item ref="http://ile-en-ile.org/kiskeya-fievre-bertrand-david-et-duval#fievre">Kiskeya, l’île mystérieuse</item>
+        <item ref="http://ile-en-ile.org/jessica-fievre-lisbeth/">Lisbeth</item>
+        <item ref="http://fievrerouge.com/">Jessica Fièvre</item>
+      </list>
+    </div>
+  </div>
+</TEI>

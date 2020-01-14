@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Stephen_Alexis_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Stéphen Alexis</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/alexis_stephen/" xml:id="Stephen_Alexis_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>Black Liberator; the Life of Toussaint Louverture. Trad. William Stirling.  London:  E. Benn 1949; New York: Macmillan, 1949.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Nègre masqué, tranche de vie haïtienne. Port-au-Prince: l’Imprimerie de l’État, 1933. Port-au-Prince: Fardin, 1980.</item>
+        <item>À la source des délices (?)</item>
+      </list>
+      <list subtype="ouvrages historiques">
+        <item>Abrégé d’histoire d’Haïti (1924-1936), cours moyen, cours élémentaire. Port-au-Prince: s.n., 1942.</item>
+        <item>Abrégé d’histoire d’Haiti, 1492-1946, cours élémentaire et moyen à l’usage des candidats au certificat d’études primaires. Port-au-Prince: Deschamps, 1946.</item>
+        <item>Toussaint Louverture, libérateur d’Haïti. s.n. Vers 1947.</item>
+        <item>Introduction à l’instruction économique morale et civique, cours technique à l’usage des lycées et collèges. Port-au-Prince:  Imprimerie de l’État, 1953.</item>
+        <item>« À la conquête de l’indépendance du Venezuela ». (manuscrit inachevé).</item>
+      </list>
+      <list subtype="sur stéphen alexis">
+        <item>Brouard, Carl. « Le Nègre Masqué ». L’Action Nationale (27 janvier 1934).</item>
+        <item>Brutus, Edner. « Stéphen Alexis ». La Relève (1er avril 1934).</item>
+        <item>Conrady, Nancy Jean. Le Roman haïtien d’expression française et l’occupation américaine de 1915-1934: Trois décennies d’histoire vues par quatre romanciers haïtiens engagés (Stéphen Alexis, Annie Desroy, Léon Laleau, Mme. Virgile Valcin). Dissertation. Middlebury College, 1995. Ann Arbor: UMI, 1996. 9607959.</item>
+        <item>Grimard, Luc. « Stéphen Alexis ». Le Temps (24 avril 1940).</item>
+        <item>Larrier, Renée. New Directions in Haitian Fiction, 1915-1934. Dissertation. Columbia University, 1986. Ann Arbor: UMI, 1986. 8623556.</item>
+        <item>Larrier, Renée. « Stéphen Alexis’ Le Nègre Masqué« . Selected Proceedings: 32nd Mountain Interstate Foreign Language Conference. Winston-Salem: Wake Forest University, 1984: 193-198.</item>
+        <item>Léger, Jacques. « Le Nègre Masqué ». La Relève (1er février 1934).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list/>
+    </div>
+  </div>
+</TEI>

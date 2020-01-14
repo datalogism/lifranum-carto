@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Christophe_Charles_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="biblio_Christophe_Charles.xml"/>
+  <xi:include ref="fiche_auteur_Christophe_Charles.xml"/>
+</master>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Antenor_Firmin_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Anténor Firmin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/firmin/" xml:id="Antenor_Firmin_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>The Equality of the Human Races. Trad. Asselin Charles. Intro. Carolyn Fluehr-Lobban. New York: Garland, 2000. Urbana: University of Illinois Press, 2002.</item>
+      </list>
+      <list subtype="essais">
+        <item>De l’égalité des races humaines (anthropologie positive). Paris: F. Pichon, 1885; Paris: L’Harmattan, 2003; Montréal: Mémoire d’encrier, 2005.</item>
+        <item>Haïti au point de vue politique, administratif et économique: conférence faite au Grand cercle de Paris, le 8 décembre 1891. Paris: F. Pichon, 1891.</item>
+        <item>Diplomate et diplomatie: lettre ouverte à M. Solon Ménos. Cap-Haïtien: Imprimerie du Progrès, 1899.</item>
+        <item>M. Roosevelt, président des États-Unis et la République d’Haïti. New York: Hamilton Bank Note Engraving and Printing Company / Paris, F. Pichon et Durand-Auzias, 1905.</item>
+        <item>Lettres de Saint Thomas. Études sociologiques, historiques et littéraires. Paris: V. Girard &amp; E. Brière, 1910.</item>
+        <item> L’effort dans le mal. Port-au-Prince: Imprimerie H. Chauvet, 1911.</item>
+      </list>
+      <list subtype="sur anténor firmin">
+        <item>Dash, J. Michael. « Nineteenth-Century Haiti and the Archipelago of the Americas: Antenor Firmin’s Letters from St. Thomas ». Research in African Literatures 35.2 (Summer 2004): 44-53.</item>
+        <item>Fluehr-Lobban, Carolyn. « Anténor Firmin: Haitian Pioneer of Anthropology ». American Anthropologist 102.3 (September 2000): 449-466.</item>
+        <item>Hoffmann, Léon-François. « Anténor Firmin et les États-Unis ». Journal of Haitian Studies 3/4 (1997-1998).</item>
+        <item>Magloire-Danton, Gérarde. « Anténor Firmin and Jean Price-Mars: Revolution, Memory, Humanism ». Small Axe: A Caribbean Journal of Criticism 18 (September 2005): 150-170.</item>
+        <item>Péan, Leslie. Comprendre Anténor Firmin; une inspiration pour le XXIe siècle. Port-au-Prince: Éditions de l’Université d’État d’Haïti, 2012.</item>
+        <item>Pompilus, Pradel. Anténor Firmin par lui-même: le champion de la négritude et de la démocratie haïtienne. Port-au-Prince: Éditions Pegasus, 1990. 115 p.</item>
+        <item>Price-Mars, Jean. Joseph Anténor Firmin. Port-au-Prince: Imprimerie du Séminaire Adventiste, 1978.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://gallica.bnf.fr/ark:/12148/bpt6k84229v.r=firmin.langFR">De l’égalité des races humaines, anthropologie positive</item>
+      </list>
+    </div>
+  </div>
+</TEI>

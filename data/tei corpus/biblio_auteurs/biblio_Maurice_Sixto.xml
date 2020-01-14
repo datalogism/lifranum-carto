@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Maurice_Sixto_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Maurice Sixto</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/sixto/" xml:id="Maurice_Sixto_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="volume i (1974)">
+        <item>Lea Kokoyé</item>
+        <item>Madan Wòwòl</item>
+        <item>La petite veste de galerie de Papa</item>
+      </list>
+      <list subtype="volume ii (1977)">
+        <item>Zabèlbòk Berachat</item>
+        <item>Bòs Chaleran</item>
+      </list>
+      <list subtype="volume iii (1976)">
+        <item>Ti Sentaniz</item>
+        <item>Madan Senvilus</item>
+        <item>Lòk Tama</item>
+        <item>Pè Tanmba</item>
+      </list>
+      <list subtype="volume iv (1978)">
+        <item>Gwo Moso</item>
+        <item>Ti Kam</item>
+        <item>Tant Mezi</item>
+        <item>Ronma lan ekspò</item>
+        <item>Priyè devan katedral</item>
+      </list>
+      <list subtype="volume v (1978)">
+        <item>J’ai vengé la race</item>
+        <item>Depestre</item>
+        <item>Le corallin du célibataire</item>
+        <item>Les ambassadeurs à Kinshasa</item>
+      </list>
+      <list subtype="volume vi (1979)">
+        <item>Madan Jul</item>
+        <item>Ton chal</item>
+        <item>L’homme citron</item>
+        <item>Men yon lòt lang</item>
+        <item>Pleyonas</item>
+        <item>Téofil</item>
+        <item>Le jeune agronome</item>
+        <item>Général Ti Kòk</item>
+      </list>
+      <list subtype="publications posthumes">
+        <item>Antèman Bèlmè</item>
+        <item>Chofè taksi</item>
+        <item>Dictatures</item>
+        <item>Elie Lescot</item>
+        <item>Emil toutou</item>
+        <item>Fèt nan Bèlè</item>
+        <item>Gede san fil</item>
+        <item>Ki klas ou fè ?</item>
+        <item>La boutique de Mantilò</item>
+        <item>La morale de l’histoire</item>
+        <item>La prescription</item>
+        <item>Le directeur</item>
+        <item>Machann fritay ri Doktè Obri</item>
+        <item>Machann poul</item>
+        <item>Machann pwason Kwa-Bosal</item>
+        <item>Mantoutoun ak Krisyan</item>
+        <item>Mantoutoun ak mesye Marè</item>
+        <item>Pa achete kredi</item>
+        <item>Pa nan Betiz</item>
+        <item>Ti kana</item>
+        <item>Tonton Jamil</item>
+        <item>Solisyon chimik</item>
+      </list>
+      <list subtype="œuvres inédites">
+        <item>Azibe</item>
+        <item>Lea Kokoye Ministre de l’Éducation nationale</item>
+        <item>Les Perles du Général</item>
+        <item>Lettre à Max Manigat</item>
+        <item>Maître Zabèlbòk Ministre des Affaires coutumières</item>
+        <item>Mant Lucia</item>
+      </list>
+      <list subtype="lodyans">
+        <item>Leya Kokoye ak Lot Lodyans. Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="sur maurice sixto">
+        <item>Anglade, Georges. « Les lodyanseurs du soir, il y a 100 ans, le passage à l’écrit ». Écrire en pays assiégé, Amsterdam / New York: Rodopi, 2004: 61-87.</item>
+        <item>Pradel, Pompilus. La langue française en Haïti. Paris: Institut des hautes études de l’Amérique latine, 1961: 179.</item>
+        <item>voir aussi les liens ci-dessous.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.fondationmauricesixto.org/">La Fondation Maurice A. Sixto</item>
+        <item ref="http://www.fondationmauricesixto.org/NewOldSite/index.php?option=com_content&amp;view=article&amp;id=11:auteur-de-ti-sentaniz-est-mort-dune-crise-cardiaque&amp;catid=4:presse&amp;Itemid=35">« L’auteur de Ti Sentaniz est mort d’une crise cardiaque »</item>
+        <item ref="http://www.potomitan.info/ayiti/sixto.php">La révolution tranquille de Maurice Sixto</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/articleprint/28552.html">Maurice Sixto sur support écrit</item>
+        <item ref="https://web.archive.org/web/20070104002033/http://www.roroli.com/flexnews/news.php?newsid=9">Maurice Alfredo Sixto (23 mai 1919-12 mai 1984), conteur, humoriste, enseignant</item>
+        <item ref="http://radionouveaumonde.com/2012/05/24/maurice-sixto-vivant-et-present-a-travers-ses-objets/">Maurice Sixto, vivant et présent à travers ses objets</item>
+        <item ref="http://www.alterpresse.org/spip.php?article4665#.U5MveV5X9g0">Maurice Sixto : Un modèle toujours vivant</item>
+        <item ref="http://youtu.be/oyciBxBbSxY">Léa Kokoyé</item>
+        <item ref="http://youtu.be/oyciBxBbSxY">Léa Kokoyé</item>
+        <item ref="http://youtu.be/MQOQY3kq0Lg">Ti Sentaniz</item>
+        <item ref="http://youtu.be/iETOZbHhVv8">J’ai vengé la race</item>
+      </list>
+    </div>
+  </div>
+</TEI>

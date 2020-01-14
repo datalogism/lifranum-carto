@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean-Robert_Leonidas_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jean-Robert Léonidas</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/leonidas/" xml:id="Jean-Robert_Leonidas_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item>Les Campêches de Versailles. Montréal: CIDIHCA, 2005.</item>
+        <item>À chacun son big-bang. Léchelle (France): Zellige, 2012.</item>
+        <item>Retour à Gygès. Léchelle: Zellige, 2017.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Parfum de bergamote. Montréal: CIDIHCA, 2007.</item>
+        <item>Rythmique Incandescente. Paris: Riveneuve, 2011.</item>
+      </list>
+      <list subtype="essais">
+        <item>Sérénade pour un pays, ou, La génération du silence. Montréal: CIDIHCA, 1992.</item>
+        <item>Prétendus créolismes : Le couteau dans l’igname. Montréal: CIDIHCA, 1995.</item>
+        <item>Ce qui me reste d’Haïti : Fragments et regards. Montréal: CIDIHCA, 2010</item>
+      </list>
+      <list subtype="beau livre">
+        <item>Rêver d’Haïti en couleurs = Colorful Dreams of Haiti. Textes bilingues de Jean-Robert Léonidas. Photographies de Frantz Michaud. Montréal: CIDIHCA, 2009.</item>
+      </list>
+      <list subtype="articles et récits">
+        <item>« Impressions d’un « touriste pays » ». Haïti-Progrès 13.45 (31 janvier-6 février 1996): 13-14.</item>
+        <item>« De Neptune à l’Aviron : Requiem pour des Noyés ». Haïti-Progrès 14.3 (10-16 avril 1996): 13.</item>
+        <item>« Par delà le sacré ». Haïti-Progrès 18.38 (9-15 décembre 1998): 13-14.</item>
+        <item>« Mon Roumain à moi est au ciel ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 153-59.</item>
+        <item>« Le retour à la poche des eaux ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 75-78.</item>
+        <item>« Cerisette ». La vie et ses couleurs; nouvelles et textes courts autour de la « question de couleur ». Sous la direction de Lyonel Trouillot. Delmas: C3, 2012: 59-69.</item>
+      </list>
+      <list subtype="articles critiques sélectionnés (littérature)">
+        <item>« Le Cahier du bon Dieu n’a pas de gomme », compte rendu du roman de Louis-Philippe Dalembert. Haïti-Progrès 14.39 (18-24 décembre 1996): 13.</item>
+        <item>« Les Djons d’Aïti Tonma », compte rendu du roman de Félix Morisseau-Leroy. Haïti-Progrès 14.9 (22-28 mai 1996): 13.</item>
+        <item>« Le vieux Samuel », compte rendu du roman de Cauvin L. Paul. Haïti-Progrès 14.22 (21-27 août 1996): 14.</item>
+        <item>« Des Rosiers dans un jardin sans clôture » (sur Joël Des Rosiers). Haïti-Progrès 15.9 (21-25 mai 1997): 13.</item>
+        <item>« Les récoltes de la folie. Survol esthétique et socio-historique d’un roman », compte rendu du roman de Josaphat-Robert Large. Haïti-Progrès 14.50 (5-11 mars 1997): 50.</item>
+      </list>
+      <list subtype="articles scientifiques en anglais">
+        <item>« Healing Power of Chants. Universal Adjuvant Therapy ». New York State Journal of Medicine 81.5 (May 1981): 966-8.</item>
+        <item>« Depression à la Haitian. A Linguistic Misinterpretation ». New York State Journal of Medicine 82.5 (April 1982): 754-5.</item>
+        <item>« West Indian Patients. Care in the United States: a Challenge », (with Nicole Hyppolite). New York State Journal of Medicine 83.2 (February 1983): 218-20.</item>
+      </list>
+      <list subtype="préfaces">
+        <item>En rafraîchissant les lisières, par Pierre T. Léonidas. Trois Rivières (Québec): Imp. privée, 1984.</item>
+        <item>Réflexions d’un publiciste, par Fritz-Meyer Sannon. Albi (France): Imp. Portier-Albi, 1991.</item>
+        <item>La musique et ma vie, par Gold Smith Dorval. Montréal: CIDIHCA, 2002.</item>
+      </list>
+      <list subtype="traduction">
+        <item>« Le jugement des médecins à Nuremberg : Cinquante ans après », par Eugene Strauss. Traduit de l’anglais par Jean-Robert Léonidas. Haiti-Progrès 14.42 (8-14 janvier 1997): 14.</item>
+      </list>
+      <list subtype="sur l’oeuvre de jean-robert léonidas">
+        <item>Andrisse, P.F. Williams. « Lettre à l’auteur de Sérénade pour un pays ». Finesse magazine (New York) 2.2 (June/July 1993): 22.</item>
+        <item>Des Rosiers, Joël. « À propos de Jean-Robert Léonidas. La Médecine et l’écriture ». Texte présenté au 22e Congrès de l’Association des Médecins Haïtiens à l’Étranger, à Québec, juillet 1996.</item>
+        <item>Dumas, Pierre Raymond. « Léonidas. Du cancre… avec jubilation ». Panorama de la Littérature Haïtienne. Port-au-Prince: Imprimerie II, 2000: 320-21.</item>
+        <item>Editorial. Critique de Prétendus Créolismes. Haïti-Progrès (hiver 1995).</item>
+        <item>Gilbert, Carl. Commentaire sur Sérénade pour un pays. Haïti-Progrès (hiver 1992).</item>
+        <item>Prophète, Jean L. « Billet au Dr. Jean-Robert Léonidas ». Les Vieux Cahiers de Jean L. Prophète. Montréal: CIDIHCA, 1997: 243-4.</item>
+        <item>Saint-Fort, Hugues. « Billet à Jean-Robert Léonidas ». Haïti en Marche (printemps 1996).</item>
+        <item>Saint-Fort, Hugues. « La passion des mots » (sur Les Campêches de Versailles). Haitian Times (16-22 août 2006): 2.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jean-robert-leonidas-les-campeches-de-versailles/">Les Campêches de Versailles</item>
+        <item ref="http://bibliobs.nouvelobs.com/actualites/20100201.BIB4849/je-me-joins-au-monde-pour-saluer-port-au-prince.html">« Je me joins au monde pour saluer Port-au-Prince »</item>
+        <item ref="http://bibliobs.nouvelobs.com/actualites/20100201.BIB4849/je-me-joins-au-monde-pour-saluer-port-au-prince.html">« Je me joins au monde pour saluer Port-au-Prince »</item>
+        <item ref="http://bibliobs.nouvelobs.com/actualites/20100712.BIB5435/haiti-paroles-de-poete-six-mois-apres.html">Haïti: Paroles de poète, six mois après</item>
+        <item ref="http://bibliobs.nouvelobs.com/essais/20101011.BIB5759/mario-vargas-llosa-rene-depestre-d-039-etranges-similitudes.html">Mario Vargas Llosa, René Dépestre: d’étranges similitudes</item>
+        <item ref="http://bibliobs.nouvelobs.com/documents/20110107.OBS5867/croire-mordicus-a-la-resurrection-d-haiti.html">Croire mordicus à la résurrection d’Haïti</item>
+        <item ref="http://bibliobs.nouvelobs.com/actualites/20120110.OBS8461/haiti-12-janvier-2012-la-mechancete-du-trema.html">Haïti, 12 janvier 2012 : la méchanceté du tréma</item>
+        <item ref="http://fr.netlog.com/JRLeonidas211">Jean-Robert Léonidas</item>
+        <item ref="http://salon-litteraire.com/fr/interviews/content/1853108-la-bonne-litterature-ne-nait-pas-generalement-au-beau-milieu-de-la-perfection-elle-est-plutot-consubstantielle-au-traumatisme-et-a-la-douleur">La bonne littérature ne naît pas généralement au beau milieu de la perfection. Elle est plutôt consubstantielle au traumatisme et à la douleur</item>
+      </list>
+    </div>
+  </div>
+</TEI>

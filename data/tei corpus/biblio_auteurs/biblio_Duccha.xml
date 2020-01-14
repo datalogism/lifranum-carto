@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Duccha_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Duccha</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/duccha/" xml:id="Duccha_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>La vie en marelle (avec Denise Bernhardt). New York: Rivarticollection, 2006.</item>
+        <item>L’amour du monde; poèmes à deux plumes  (avec Denise Bernhardt). Soisy-sur-Seine: Le Vert Galant, 2010.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Presenza ». Antologia della Académia internazianale Il Convivio (rivista Trimestrale di Poesia Arte e Cultura), Gennaio (2006).</item>
+        <item>« Le cri » et « Ma vie ». Art et Poésie 98 (2e trimestre 2007).</item>
+        <item>« Le cri », « Ma vie » et « Sillon de verbe ». Les voix du Soleil : anthologie des écrivains haïtiens publiés dans la revue Tanbou / Voices of the Sun: The Anthology of Haitian Writers Published in the Review Tanbou / Vwa Solèy pale : Antoloji ekriven ayisyen ki pibliye nan jounal Tanbou. Tontongi, éd. Cambridge (Massachusetts): Trilingual Press, 2009: 319-320.</item>
+        <item>« Partance », « À l’envers de la nuit » et « Attente ». Haïti, numéro spécial 8 des Cahiers de la RAL,M (Revue d’Art et de Littérature, Musique), 2009: 525-530.</item>
+        <item>Itinéraire d’un rêve collectif, anthologie de poésie de l’Atelier de Création Marcel Gilbert de la Bibliothèque Justin Lhérisson (à paraître).</item>
+      </list>
+      <list subtype="articles divers">
+        <item>« Lire Discours et Décision de Frédéric-Gérald Chéry ». Le Nouvelliste (6 juin 2006).</item>
+        <item>« Pour une libre-belle délectation de paroles », préface d’Anthologie Jeunes poètes d’Haïti. Jean Max Beauchamp, éd. Port-au-Prince: Deschamps, 2008.</item>
+        <item>« Amour d’encres à rives multiples », préface d’En nulle autre, recueil poétique de Fred Edson Lafortune. Paris: Le Chasseur abstrait, 2009.</item>
+        <item>« La subtile anatomie des souvenirs », préface de Haïti pour toujours, recueil de haïku de Diane Descôteaux (à paraître au Canada).</item>
+      </list>
+      <list subtype="participation à des représentations théâtrales">
+        <item>Face à face/Fasafas, jouée chaque 1er novembre (2005-2006-2007) de la rue au cimetière de Carrefour, mise en scène de Téchelet Nicolas (Troupe NOUS et l’Atelier Le Vide).</item>
+        <item>Soleil noir de la patience, mise en scène de Jude Richard (Créolcréart), bibliothèque Justin Lhérisson, octobre 2006.</item>
+        <item>En terre d’exil, mise en scène de Jude Richard (Créolcréart), bibliothèque Justin Lhérisson, novembre 2006.</item>
+      </list>
+      <list subtype="conférences sélectionnées">
+        <item>« La poésie : héritage à travers les âges ». Collège Mixte Notre-Dame-des-Petits (Carrefour), 11 mars 2007; Bibliothèque Roussan Camille (Jacmel), 2 juin 2007.</item>
+        <item>« La vie créatrice, une lecture critique actualisée de Lettres à un jeune poète de Rainer-Maria Rilke ». Bibliothèque Justin Lhérisson (Carrefour), 14 juillet 2007.</item>
+        <item>« Voyages et mémoire littéraire », panel avec Alain Mabanckou, en prélude au prix des Amériques insulaires. Clac de Cabaret (Port-au-Prince), 17 juin 2008.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2003     Premier Prix de poésie de l’École Normale Supérieure, pour [Mo] figé(s).</item>
+        <item>2005     Deuxième prix de poésie, sur le thème de la lutte contre le sida, organisé par la Faculté de Médecine et de Pharmacie de Port-au-Prince.</item>
+        <item>2006     Premier Prix de l’École Normale Supérieure (Haïti), pour [Mo] figé(s).</item>
+        <item>2006     Prix « Pensieri in viersi » de l’Académie internationale Il Convivio (Sicile, Italie), pour La vie en marelle (avec Denise Bernhardt).</item>
+        <item>2007     Deuxième lauréat en orthographe du français (Quinzaine de la Francophonie, mars 2007), Faculté linguistique Appliquée (Port-au-Prince).</item>
+        <item>2007     Deuxième lauréat (Quinzaine de la Francophonie). Faculté linguistique Appliquée. (Port-au-Prince).</item>
+        <item>2009     Prix « Sincérité », Concours International du haiku francophone Marco Polo (Paris).</item>
+        <item>2009     Finaliste du prix des écritures théatrales caraibes ETC Caraibes pour Acte de citoyenneté absolu (Guadeloupe).</item>
+      </list>
+      <list subtype="sur duccha">
+        <item>« Présentation de La Vie en marelle ». Inédit nouveau (revue littéraire belge, avril 2007).</item>
+        <item>Auguste, Bonel. « La vie en marelle, « un amour ingénu » ». Le Matin (1er novembre 2007).</item>
+        <item>Bernhardt, Denise. « Duccha : « Poésie en Haïti » ». Le trait d’union littéraire (revue française, mai 2005).</item>
+        <item>de Coster, Maggy. « La vie en marelle, une chanson de geste spirituelle ». Le Nouvelliste (16 janvier 2007).</item>
+        <item>Jacquet, Jean Emmanuel. « Drapeau, parle tes deux cents ans ». L’Union (2 juin 2003).</item>
+        <item>Jacquet, J. Emmanuel. « Poésie, héritage à travers les âges ». Le Matin (15 mai 2007).</item>
+        <item>Juste, Jonel. « Le théâtre, spectacle vivant par excellence ». Le Nouvelliste (29 mars 2005).</item>
+        <item>Juste, Jonel. « « Fasafas », pour un guédé vraiment culturel ». Le Nouvelliste (4-6 novembre 2005).</item>
+        <item>Juste, Jonel. « Naissance d’un poète ». Le Nouvelliste (26 janvier 2007).</item>
+        <item>voir aussi les liens ci-dessous.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/pour-edgar-allan-poe/">Pour Edgar Allan Poe</item>
+        <item ref="http://vertgalant.free.fr/bernhardt.html">L’Amour du monde</item>
+        <item ref="http://poesie.webnet.fr/vospoemes/2645/16892.html">Blourigard</item>
+        <item ref="http://coutechevelavoieaupont.hautetfort.com/archive/2009/01/27/duckens-charitable.html">Duckens Charitable</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=70976">Haïti à l’honneur à Paris</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=&amp;ArticleID=39793">Un hymne à l’amour</item>
+        <item ref="http://lematinhaiti.com/Article.asp?ID=4181">La vie en marelle, un amour ingénu</item>
+      </list>
+    </div>
+  </div>
+</TEI>

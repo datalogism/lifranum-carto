@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean_Metellus_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,15 +12,64 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="inette Adamson" ref="http://ile-en-ile.org/metellus/" xml:id="Jean_Metellus_bio_auteur_ile_en_ile">
-    <p>Jean Métellus est né le 30 avril 1937 à Jacmel (Haïti). Installé en France depuis 1959, il exerce la profession de neuro-linguiste, en même temps que ses multiples activités littéraires de romancier, poète, dramaturge et essayiste. Marié, père de trois enfants, il est actuellement Médecin des Hôpitaux de Paris au Centre Hospitalier Émile Roux, en tant que neurologue spécialiste dans les troubles de la parole.</p>
-    <p>Après des études secondaires au Lycée Pinchinat de Jacmel Jean Métellus occupe le poste de professeur de mathématiques au Lycée Célie Lamour de sa ville natale de 1957 à 1959. Il poursuit ses études en France: obtention du P.C.B. en 1960 à la Faculté des Sciences de Paris, suivi d’études de Médecine à la Faculté de Médecine de Paris. Docteur en Médecine en 1970 et Docteur en Linguistique en 1975, il conjugue harmonieusement ses deux spécialisations dans son quotidien médical et littéraire qui lui ont valu la reconnaissance de sociétés savantes: Il a été lauréat de l’Académie de Médecine en 1973, 1976, 1984 et de trois prix littéraires qui lui ont été décernés en 1982, 1984 et 1991. Jean Métellus exerce, en outre, le métier de professeur au Collège de Médecine des Hôpitaux de Paris.</p>
-    <p>À la liste de ses publications de romans, de poésies, de pièces de théâtre s’ajoutent des essais historiques et philosophiques sur Haïti, et tout particulièrement de nombreux écrits (près d’une centaine) sur les problèmes du langage.</p>
-    <p>Son premier recueil de poésie Au pipirite chantant a retenu l’attention d’André Malraux et de Maurice Nadeau. Antoine Vitez a remarqué la puissance dramatique et poétique de son théâtre en montant Anacaona au Théâtre de Chaillot.</p>
-    <p>Jean Métellus meurt en région parisienne le 4 janvier 2014. Voir la sélection de textes écrits en hommage à l’auteur dans les liens ci-dessous.</p>
+  <text hand="Ginette Adamson" ref="http://ile-en-ile.org/metellus/" xml:id="Jean_Metellus_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Jean_Metellus">Jean Métellus</persName>
+       est né le 30 avril 1937 à 
+      <location ana="Jacmel">Jacmel</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Installé en 
+      <location ana="France">France</location>
+       depuis 1959, il exerce la profession de neuro-linguiste, en même temps que ses multiples activités littéraires de romancier, poète, dramaturge et essayiste. Marié, père de trois enfants, il est actuellement 
+      <persName ana="Medecin_Des_Hopitaux">Médecin des Hôpitaux</persName>
+       de 
+      <location ana="Paris">Paris</location>
+       au Centre Hospitalier 
+      <persName ana="Emile_Roux">Émile Roux</persName>
+      , en tant que neurologue spécialiste dans les troubles de la parole.
+    </p>
+    <p>
+      Après des études secondaires au Lycée Pinchinat de 
+      <persName ana="Jacmel_Jean_Metellus">
+        <location ana="Jacmel">Jacmel</location>
+         Jean Métellus
+      </persName>
+       occupe le poste de professeur de mathématiques au Lycée Célie 
+      <location ana="Lamour">Lamour</location>
+       de sa ville natale de 1957 à 1959. Il poursuit ses études en 
+      <location ana="France">France</location>
+      : obtention du P.C.B. en 1960 à la Faculté des Sciences de 
+      <location ana="Paris">Paris</location>
+      , suivi d’études de Médecine à la Faculté de Médecine de 
+      <location ana="Paris">Paris</location>
+      . Docteur en Médecine en 1970 et Docteur en Linguistique en 1975, il conjugue harmonieusement ses deux spécialisations dans son quotidien médical et littéraire qui lui ont valu la reconnaissance de sociétés savantes: Il a été lauréat de l’Académie de Médecine en 1973, 1976, 1984 et de trois prix littéraires qui lui ont été décernés en 1982, 1984 et 1991. 
+      <persName ana="Jean_Metellus">Jean Métellus</persName>
+       exerce, en outre, le métier de professeur au Collège de Médecine des Hôpitaux de 
+      <location ana="Paris">Paris</location>
+      .
+    </p>
+    <p>
+      À la liste de ses publications de romans, de poésies, de pièces de théâtre s’ajoutent des essais historiques et philosophiques sur 
+      <location ana="Haiti">Haïti</location>
+      , et tout particulièrement de nombreux écrits (près d’une centaine) sur les problèmes du langage.
+    </p>
+    <p>
+      Son premier recueil de poésie Au pipirite chantant a retenu l’attention d’
+      <persName ana="Andre_Malraux">André Malraux</persName>
+       et de 
+      <persName ana="Maurice_Nadeau">Maurice Nadeau</persName>
+      . 
+      <persName ana="Antoine_Vitez">Antoine Vitez</persName>
+       a remarqué la puissance dramatique et poétique de son théâtre en montant Anacaona au Théâtre de Chaillot.
+    </p>
+    <p>
+      <persName ana="Jean_Metellus">Jean Métellus</persName>
+       meurt en région parisienne le 4 janvier 2014. Voir la sélection de textes écrits en hommage à l’auteur dans les liens ci-dessous.
+    </p>
   </text>
 </TEI>

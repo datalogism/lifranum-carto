@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Verly_Dabel_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Verly Dabel</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/dabel/" xml:id="Verly_Dabel_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="recueils de nouvelles">
+        <item>Histoires sur mesure. Port-au-Prince: Imprimeur II, 1998.
+« La raison du plus fou », « La riposte du Sergent Whiteman », « Vierge miracle », « Coup de foudre pour Haïti », « La calvaire de Martha », « La dernière nuit », « Complot contre la Sûreté de la Star », « Ras-le-bol », « La Sainte Colère de la Sainte Vierge ».</item>
+        <item>Zérotolérance. Port-au-Prince: Le Natal, 2004.
+« Merci granpa », « La foule tue et blesse », « La série noire de Sérafin », « Le grand prêtre de Saint-Thomas », « Entre les deux mon corps balance », « La cigarette empoisonnée », « Zérotolérance » et « Conseil des cyniques ».</item>
+        <item>La Petite Persécution. Port-au-Prince: Le Natal, 2007.
+« Au nom de la loi », « Recrutement », « La Ferme ! Le président réfléchit », « Le bossu de Trou-neuf », « Le curé dans ses petits souliers », « Une femme sur deux îles », « La Gaffe » et « La Petite Persécution ».</item>
+        <item>Éloge des ténèbres. Montréal: Mémoire d’encrier, 2012.
+« Le zombi de Delmas », « Le coup des bayakou », « Les Jamaïcaines », « Les chercheurs de fortune », « Les brasseuses de la Saint-Louis », « Superstitions », « Tout sur le quatorze », « Une affaire de tête », « Bounda chire » et « Éloge des ténèbres ».</item>
+      </list>
+      <list subtype="essais">
+        <item>La crise haïtienne, quelle(s) issue(s). Montréal-Est: Imprimerie Arnégraph, 1993.</item>
+        <item>Haïti : le prix d’un coup d’état. Port-au-Prince: Eurographix, 1995.</item>
+        <item>Je ne vais rien te cacher: Lettres à Georges Anglade. Montréal: Mémoire d’encrier, 2015.</item>
+      </list>
+      <list subtype="texte paru dans un ouvrage collectif">
+        <item>« Cric Crac Compère; Lettre à Georges Anglade ». Bonjour Voisine,  sous la direction de Marie Hélène Poitras. Montréal: Mémoire d’encrier, 2013: 419-422.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/verly-dabel-le-cure-dans-ses-petits-souliers/">Le curé dans ses petits souliers</item>
+        <item ref="http://memoiredencrier.com/verly-dabel/">Verly Dabel</item>
+      </list>
+    </div>
+  </div>
+</TEI>

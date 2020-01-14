@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gary_Victor_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Gary Victor</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Gary_Victor">
+        <surname source="bnf">Gary</surname>
+        <forename source="bnf">Victor</forename>
+        <idno type="BNF">
+          cb13517818m#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb13517818m#about"/>
+        </idno>
+        <idno type="VIAF">
+          6109517
+          <g ref="http://viaf.org/viaf/6109517"/>
+        </idno>
+        <idno type="VIAF">
+          Gary_Victor
+          <g ref="http://fr.dbpedia.org/resource/Gary_Victor"/>
+        </idno>
+        <birth source="viaf">
+          <date>1958-07-09</date>
+        </birth>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="viaf">television writers</profession>
+        <profession source="viaf">screenwriters</profession>
+        <profession source="viaf">radio writers</profession>
+        <profession source="viaf">novelists</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

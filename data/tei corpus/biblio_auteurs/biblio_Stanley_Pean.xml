@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Stanley_Pean_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Stanley Péan</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/pean/" xml:id="Stanley_Pean_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="en español">
+        <item>La playa de los sueños y otros relatos de exilio. Trad. Magaly Muguercia. Montréal: CIDIHCA, 2001.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Tumulte de mon sang. Montréal: Québec/Amérique, 1991; Montréal: La Courte Échelle, 2001, 2007; Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+        <item>Zombi Blues. Montréal: La Courte Échelle, 1996; Paris: J’ai lu, 1999; Montréal: La Courte Échelle, 2007.</item>
+        <item>Bizango. Montréal: Les Allusifs, 2011.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>La Plage des songes et autres récits d’exil. Montréal: CIDIHCA, 1988; Montréal: BQ, 1998.</item>
+        <item>Sombres allées, Treize excursions en territoire de l’insolite. Montréal: CIDIHCA, 1992.
+</item>
+        <item>Noirs désirs. Montréal: Leméac, 1999.</item>
+        <item>La Nuit démasque. Montréal: Planète Rebelle / CIDIHCA, 2000; Montréal: La Courte Échelle, 2007.</item>
+        <item>Le Cabinet du Docteur K; et autres histoires d’amours contrariées. Montréal: Planète Rebelle, 2001; Montréal: La Courte Échelle, 2007.</item>
+        <item>Cette Étrangeté coutumière, récits de Stanley Péan autour des photos de François Lamontagne.Québec: J’ai vu, 2001.</item>
+        <item>Autochtones de la nuit. Montréal: La Courte Échelle, 2007.</item>
+      </list>
+      <list subtype="récits">
+        <item>Toute la ville en jazz. Montréal: Trait d’union, 1999.</item>
+        <item>Pl@nète culture; les bonnes adresses culturelles dans Internet. Montréal: Planète Rebelle, 2000.</item>
+        <item>Taximan: propos et anecdotes recueillis depuis la banquette arrière. Montréal: Mémoire d’encrier, 2004.</item>
+        <item>Jazzman; chroniques et anecdotes autour d’une passion. Montréal: Mémoire d’encrier, 2006.</item>
+        <item>De préférence la nuit. Montréal: Boréal, 2019.</item>
+      </list>
+      <list subtype="romans et nouvelles pour la jeunesse">
+        <item>L’Emprise de la nuit. Montréal: La Courte Échelle, 1993, 2005.</item>
+        <item>La Mémoire ensanglantée. Montréal: La Courte Échelle, 1994, 2005.</item>
+        <item>L’Automne sauvage. Montréal: Trécarré, 1995.</item>
+        <item>Treize pas vers l’inconnu. Saint-Laurent: Pierre Tisseyre, 1996.</item>
+        <item>L’Appel des loups. Montréal: La Courte Échelle, 1997.</item>
+        <item>Quand la bête est humaine. Montréal: La Courte Échelle, 1997.</item>
+        <item>Un Petit Garçon qui avait peur de tout et de rien. Illustrations de Stéphane Poulin. Montréal: La Courte Échelle, 1998.</item>
+        <item>Le Temps s’enfuit. Montréal: La Courte Échelle, 1999, 2005.</item>
+      </list>
+      <list subtype="ouvrages collectifs et anthologies">
+        <item>« Ban mwen yon ti-bo ». Meilleur avant: 31/12/99. Québec: Le Palindrome, 1987.</item>
+        <item>« Le cabinet du docteur K » et « La faim justifie les moyens ». L’horreur est humaine. Québec: Le Palindrome, 1989.</item>
+        <item>« Une dernière bouffée de rêve ». Les enfants d’Énéïde. Anthologie de SF et de fantastique québécois. Bruxelles: Phénix, 1989.</item>
+        <item>« Athénaïse ». Québec Kaléidoscope. Montréal: PAJE, 1991.</item>
+        <item>« Le danger croît avec l’usage ». Complicités. Montréal: PAJE / STOP, 1991.</item>
+        <item>« Rentrer chez soi ». Solitude des autres. Montréal: Logiques, 1992.</item>
+        <item>« « Bonne nuit, fais de beaux rêves, » dit le Croque-Mitaine ». Évasion. Montréal: STOP, 1992.</item>
+        <item>« Blues en rouge sur blanc ». Meurtres à Québec. Québec: L’instant même, 1993.</item>
+        <item>« Noir désir ». Coup de foudre. Montréal: Le Devoir / XYZ, 1993.</item>
+        <item>« Revoir Limoilou ». Québec. Des écrivains dans la ville. Québec: L’instant même / Musée du Québec, 1995.</item>
+        <item>« The Devil’s Maw » (« La bouche d’ombre », trad. de Carol Oates). Ancestral House. The Black Short Story in the Americas and Europe. Charles H. Rowell, ed. New York: Westview, 1995.</item>
+        <item>« Poussière d’arc-en-ciel ». Compère Jacques Soleil. Montréal &amp; Port-au-Prince: Planète Rebelle / Mémoire, 1998.</item>
+      </list>
+      <list subtype="sélection d’articles et études">
+        <item>« La chose dans la cave : le fantastique maléfique dans la littérature québécoise ». Solaris 81 (hiver 1988).</item>
+        <item>« Horreur et subversion en littérature fantastique ». Les voix du fantastique québécois (Maurice Émond, dir.). Québec: Nuit Blanche / CRELIQ (Séminaire n° 3), 1991.</item>
+        <item>« L’Amérique, une fiction ? Quelques considérations sur l’Amérique états-unienne, réelle et fictive, et La Première personne de Pierre Turgeon ». Urgences 34 (« Mythes et romans de l’Amérique », décembre 1991).</item>
+        <item>« Retour à Anne Hébert : horreur et transgression ». Solaris 93 (hiver 1991).</item>
+        <item>« Vodou et macumba chez René Depestre et Mário de Andrade ». Études littéraires 25, 3 (« Métissages », hiver 1992-1993): 49-59.</item>
+        <item>« Répandre la bonne nouvelle. Quelques pistes pour l’utilisation pédagogique de la nouvelle ». Québec français 89 (printemps 1993): 87-90.</item>
+        <item>« Nourrir des fantômes affamés ». Développement et rayonnement de la littérature québécoise. Québec: Nuit Blanche, 1994.</item>
+        <item>« Le devoir de lucidité ». Interdit aux autruches. Montréal: Les Intouchables, 1997.</item>
+        <item>« Pour un art de la lecture ». L’écrivain/e dans la Cité. Montréal: Triptyque, 2000: 49-53.</item>
+      </list>
+      <list subtype="anthologie">
+        <item>Nul n’est une île: Solidarité Haïti  (avec Rodney Saint-Éloi). Montréal: Mémoire d’encrier, 2004.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Carnets d’un Black en Ayiti. Scénario, images et réalisation de Pierre Bastien; narration écrite et dite par Stanley Péan. Montréal: Cinéma libre, 1998, 52 minutes.</item>
+      </list>
+      <list subtype="traductions par stanley péan">
+        <item>« Tante Denise, tu n’es pas gendarme, alors pourquoi cette fusillade à tes funérailles? », par Edwidge Danticat. Trad. Stanley Péan. Nul n’est une île: Solidarité Haïti . Sous la direction de Stanley Péan et Rodney Saint-Éloi. Montréal: Mémoire d’encrier, 2004: 155-173.</item>
+        <item>Nulle douleur comme ce corps, roman de Harold Sonny Ladoo, traduit de l’anglais par Marie Flouriot et Stanley Péan. Montréal: Les Allusifs, 2006.</item>
+        <item>Yesterdays, roman de Harold Sonny Ladoo. Traduit de l’anglais par Stanley Péan. Montréal: Les Allusifs, 2007.</item>
+        <item>Célimène, Conte de fée pour fille d’immigrants, par Edwidge Danticat (bilingue, français-anglais, traduction en français par Stanley Péan). Montréal: Mémoire d’encrier, 2009.</item>
+      </list>
+      <list subtype="distinctions et prix littéraires">
+        <item>1992    Prix littéraire de la BCP du Saguenay – Lac Saint-Jean, pour Le Tumulte de mon sang.</item>
+        <item>1998    Prix littéraire du CRSBP du Saguenay – Lac Saint-Jean, pour L’Appel des loups.</item>
+        <item>1999    Prix littéraire du Salon du livre du Saguenay – Lac Saint-Jean, catégorie « essai et livre pratique », pour Toute la ville en jazz.</item>
+        <item>2000    Prix littéraire M. Christie, catégorie « meilleur roman pour les adolescents », pour Le Temps s’enfuit.</item>
+      </list>
+      <list subtype="sur l’oeuvre de stanley péan">
+        <item>Beauquis, Corinne. « Stanley Péan: fantasmes et fictions de l’exil ». Horizons multiples de l’écriture haïtienne contemporaine, sous la direction de Joubert Satyre. Montréal: CIDIHCA, 2017: 87-114.</item>
+        <item>Boivin, Jean-Roch. « Et si les morts avaient une voix, l’entendriez-vous ? » Le Devoir (4 février 1989): D3.</item>
+        <item>Cornellier, Louis. « Le jour étêté », suivi de Bordeleau, Francine, « Haïti presque par hasard ». Le Devoir (23 décembre 1991): D3.</item>
+        <item>Fortier, Christine. « Stanley Péan: maîtriser le monde avec sa plume»: Filles d’aujourd’hui 18.3 (janvier 1998): 60-62.</item>
+        <item>François, Yves-Gérard. « Le Blues de Péan Stan ». Éqoh du Futur 1.6 (avril 1996): 3-7.</item>
+        <item>Lord, Michel. « L’Ailleurs est ici ». Lettres québécoises 66 (été 1992): 24-25.</item>
+        <item>Morisset, Jean. « L’exil fantastique ». Chemins critiques 1.1 (mars 1989): 129-132.</item>
+        <item>Olivier, Nathalie. « Stanley Péan : l’oeuvre au noir ». Lettres québécoises 90 (été 1998).</item>
+        <item>Roy, Lucie. « Inspiré du pays natal, du mystère et de la magie du vaudou ».  La Presse (8 décembre 1991): C3.</item>
+        <item>Roy, Mario. « De quoi tu nous parles, Stan ? ». La Presse (4 février 1996):  B1.</item>
+        <item>Thisdale, Martin. « Nostalgies haïtiennes ». XYZ 20 (hiver 1989):  90-91.</item>
+        <item>Tremblay, François. « Stanley Péan: le sang qui cogne ». Voir Québec (22 février 1996): 9.</item>
+        <item>Vallerand, Marie. « Portrait: Stanley Péan ». Québec français 90 (été 1993): 130.</item>
+        <item>Voisard, Anne-Marie. « La littérature: la seule patrie de Stanley Péan ». Le Soleil (23 décembre 1991): A13.</item>
+        <item>Voisard, Anne-Marie. « Cool jazz ». Le Soleil (4 février 1996): A14.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.stanleypean.com/">Stanley Pean</item>
+        <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+        <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+        <item ref="http://revue.leslibraires.ca">Les Libraires</item>
+        <item ref="http://www.planeterebelle.qc.ca/auteurs/pean/spean2.html">La Nuit démasque</item>
+        <item ref="http://www.litterature.org/recherche/ecrivains/pean-stanley-365/">Stanley Péan</item>
+        <item ref="http://www.ulaval.ca/scom/contact/automne00/art_12.html">Stanley Péan, médaille Raymond-Blais</item>
+        <item ref="http://www.uneq.qc.ca/">L’UNEQ</item>
+        <item ref="http://www.noosfere.com/icarus/Livres/niourf.asp?numlivre=-327625">Zombi Blues</item>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=44339">Jazzman</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/50351/Le-Quebec-celebre-les-vingt-ans-decriture-de-Stanley-Pean">Le Québec célèbre les vingt ans d’écriture de Stanley Péan</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/138325/Le-jazz-et-Haiti-vus-par-Stanley-Pean">‘Le jazz et Haïti’ vus par Stanley Péan</item>
+      </list>
+    </div>
+  </div>
+</TEI>

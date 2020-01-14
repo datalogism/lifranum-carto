@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Pierre_Clitandre_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Pierre Clitandre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/clitandre/" xml:id="Pierre_Clitandre_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>Cathedral of the August Heat. Bridget Jones, trad. New York: Readers International, 1987.</item>
+      </list>
+      <list subtype="romans">
+        <item>Cathédrale du mois d’août. Port-au-Prince: Fardin, 1979; Paris: Syros, 1982.</item>
+        <item>Vin de soleil. Port-au-Prince: Éditions Mémoire, 2000.</item>
+        <item>La Maison des surprises. Port-au-Prince: Publitexte, 2004.</item>
+        <item>Simbi Androgène. Port-au-Prince: L’Imprimeur, 2016.</item>
+      </list>
+      <list subtype="récit">
+        <item>Le récit du disparu. Port-au-Prince: C3 Éditions, 2017.</item>
+      </list>
+      <list subtype="essais">
+        <item>Qui sont nos candidats? suivi de La Lettre aux hommes noirs de Pierre Clitandre (avec Marcus Garcia et Jean Robert Hérard). New York: Clitandre, 1986.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Gouverneurs de la rosée : extase et faille géologique ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 295-98.</item>
+        <item>« Biblique du premier geste ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 207-212.</item>
+        <item>« Marie Chauvet, pionnière de notre modernité ». En amour avec Marie, collectif (dirigé par Emmelie Prophète). Port-au-Prince: L’Imprimeur, 2016: 36-41.</item>
+        <item>Pierre Clitandre publie depuis les années 1970 des centaines d’articles de critique culturelle pour Le Nouvelliste, Le Matin, Le Petit Samedi Soir et d’autres publications. Il compte les réunir dans un volume intitulé La Révolution Esthétique.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2015     Bourse Barbancourt.</item>
+      </list>
+      <list subtype="sur l’oeuvre de pierre clitandre">
+        <item>Fowler, Carolyn. « The Haitian Peasant/Proletarian Novel Revisited: The Case of Pierre Clitandre and Cathédrale du mois d’août ». Eds. Will Wright et Steven Kaplan. The Image of Class in Literature, Media, and Society. Pueblo, Colorado: Society for the Interdisciplinary Study of Social Imagery, University of Southern Colorado, 1998: 145-50.</item>
+        <item>Joseph, Nélio. « ‘Une bibliothèque est un lieu d’humanisation de la vie ou de démocratisation des idées’ : Interview with Pierre Clitandre ». Journal of Haitian Studies 17.1 (Spring 2011): 267-272.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/pierre-clitandre-vin-de-soleil/">Vin de Soleil</item>
+        <item ref="http://ile-en-ile.org/pierre-clitandre-5-questions-pour-ile-en-ile/">Pierre Clitandre, 5 Questions pour Île en île</item>
+        <item ref="http://ile-en-ile.org/clitandre-cathedrale/">Cathédrale du mois d’août</item>
+        <item ref="http://www.haitisoleil.org/">Haiti Soleil</item>
+        <item ref="https://youtu.be/atMQi5SOHbI">‘Des Livres et Vous’ avec Pierre Clitandre</item>
+        <item ref="http://ile-en-ile.org/lectures-boutures-1-3/">Deuil et extase !</item>
+        <item ref="http://web.archive.org/web/20070304043309/http://www.haitipressnetwork.com/news.cfm?articleID=4041">Pierre Clitandre et la bibliothèque du Soleil</item>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      </list>
+    </div>
+  </div>
+</TEI>

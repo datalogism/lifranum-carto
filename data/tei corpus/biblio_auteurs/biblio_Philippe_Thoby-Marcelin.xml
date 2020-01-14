@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Philippe_Thoby-Marcelin_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Philippe Thoby-Marcelin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/thoby-marcelin/" xml:id="Philippe_Thoby-Marcelin_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>Canapé-vert. Trans. Edward Larocque Tinker. New York: Farrar, 1944.</item>
+        <item>The Beast of the Haitian Hills. Trans. Peter C. Rhodes. New York / Toronto: Rinehart, 1946; San Francisco: City Lights Books, 1986.</item>
+        <item>The Pencil of God. Trans. Leonard Thomas, Introd. Edmund Wilson. Boston: Houghton Mifflin, 1951.</item>
+        <item>Haiti. Trans. Eva Thoby-Marcelin. Washington, D.C.: Pan American Union, 1959.</item>
+        <item>All Men are Mad. Trans. Eva Thoby-Marcelin. Introd. Edmund Wilson. New York: Farrar, 1970.</item>
+        <item>The Singing Turtle and Other Tales from Haiti. Trans. Eva Thoby-Marcelin. Illus. George Ford. New York: Farrar, 1971.</item>
+      </list>
+      <list subtype="en español">
+        <item>Canape verde. Trad. Armando Bazán. Buenos Aires: Siglo Veinte, 1947.</item>
+        <item>Todos los hombres están locos. Trad. Leonor Tejada. México: Novaro, 1971.</item>
+      </list>
+      <list subtype="poésie">
+        <item> La Négresse adolescente. (avec un portrait de Pétion Savain et une préface de Léon Laleau). Port-au-Prince: La Presse, 1932.</item>
+        <item>Dialogue avec la femme endormie. Port-au-Prince: Imprimerie Beaubrun, 1941.</item>
+        <item>Lago-Lago. Poèmes. Précéde d’une lettre de Valery-Larband. Port-au-Prince: Haïti-Journal (édition spécial de Noël), 1943.</item>
+        <item>À Fonds perdu. Paris: Seghers, 1953; À Fonds perdu et d’autres recueils. Port-au-Prince: Presses Nationales d’Haïti, 2005; En matière de présentation suivie de À Fonds perdu (présentation de Georges Castera). Port-au-Prince: Mémoire, 2006.</item>
+        <item>Poèmes. New York: Candida Gellery, Cazenovia, 1986 (publié par Eva Thoby Marcelin).</item>
+      </list>
+      <list subtype="romans (écrits avec pierre marcelin)">
+        <item> Canapé-Vert… New York: Éditions de la Maison française, 1944.</item>
+        <item>La Bête de Musseau. New York: Éditions de la Maison française, 1946.</item>
+        <item>Le Crayon de Dieu. Paris: La Table ronde, 1952.</item>
+      </list>
+      <list subtype="roman">
+        <item>Tous les hommes sont fous. Montréal: Nouvelle Optique, 1980.</item>
+      </list>
+      <list subtype="essai">
+        <item>Panorama de l’art haitien. Port-au-Prince: Imprimerie de l’État, 1956.</item>
+      </list>
+      <list subtype="contes (avec pierre marcelin)">
+        <item>Contes et légendes d’Haïti. Illustrations de Philippe Degrave. Paris: Nathan, 1967.</item>
+        <item>Sango et les diables, suivi de Les œufs de la mendiante. Illustrations de Peterson Midy. Port-au-Prince: Éditions Choucoune, 2000.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>« Les Héroïnes », 1e partie. La Revue Indigène 2 (août 1927): 78-87.</item>
+        <item>« Les Héroïnes », 2e partie. La Revue Indigène 3 (septembre 1927): 129-137.</item>
+        <item>« Les Héroïnes », 3e partie. La Revue Indigène 2 (octobre 1927): 176-187.</item>
+        <item>« Patron, seulement un p’tit boutt… ». La Revue Indigène 5 et 6 (septembre 1928): 199-200.</item>
+        <item>« Le triomphe de César Lamorue ». La Relève, 1936. [source non vérifiée]</item>
+      </list>
+      <list subtype="textes de réflexion sélectionnés publiés dans des ouvrages collectifs">
+        <item>« Pour la défense et illustration de la langue créole ». La Relève (Port-au-Prince) 5.11 (mai 1937): 15-16.</item>
+        <item>« Le problème de la langue ». La Relève 4.10 (avril 1938): 18-20.</item>
+      </list>
+      <list subtype="prix littéraire">
+        <item>1943    Prix du roman de l’Amérique latine, pour Canapé-Vert…</item>
+      </list>
+      <list subtype="sur philippe thoby-marcelin">
+        <item>Berrou, Raphaël et Pompilus, Pradel. Histoire de la littérature haïtienne illustrée par les textes. Tome 3. Port-au-Prince: Éditions Caraïbes, 1977.</item>
+        <item>Dominique, Max. « Thoby-Marcelin : Un indigénisme de la distance ». Chemins critiques 2.1 (février 1991).</item>
+        <item>Driskell, Daniel D. et Douglas Radcliff-Umstead. « La Mort dans le roman afro-haïtien ». Présence Francophone 11 (automne 1975): 119-132.</item>
+        <item>Erickson, John D. « Mythe et symbole dans Tous les hommes sont fous, de Philippe Thoby-Marcelin et Pierre Marcelin ». Écriture française dans le monde (Sherbrooke) 5.1-2 (octobre 1983): 3-10.</item>
+        <item>Fabre, Michel. « « La Revue indigène » et le Mouvement Nouveau Noir ». Revue de litérature comparée 51.1 (janvier/mars 1977): 30-39.</item>
+        <item>Fowler, Carolyn. Philippe Thoby-Marcelin, écrivain haïtien, et Pierre Marcelin, romancier haïtien. Sherbrooke: Naaman, 1985.</item>
+        <item>Gouraige, Ghislain. Histoire de la littérature haïtienne de l’indépendance à nos jours. Port-au-Prince: Imprimerie Théodore, 1960.</item>
+        <item>Knight, Vere M. « Pierre Marcelin and Philippe Thoby-Marcelin: Sensationalism or Realism? ». Black Images (Toronto) 2.1 (Spring 1973): 30-42.</item>
+        <item>Trouillot-Ménard, Évelyne. « Vision de la femme dans l’oeuvre de Carl Brouard et de Philippe Thoby-Marcelin ». Conjonction 198 (avril-juin 1993).</item>
+        <item>Wilson, Edmund. « Voodoo in Literature ». Le Nouveau Monde (Port-au-Prince, 11 mai 1958).</item>
+        <item>De nombreux comptes-rendus des romans de Pierre Marcelin et Philippe Thoby-Marcelin ont été publiés dans la presse internationale, dont un texte sur Canapé-Vert par Edmund Wilson (The New Yorker, 26 février 1944) ; des articles sur The Pencil of God par Langston Hughes (The New York Times, 4 février 1951) et par Zora Neale Hurston (The New York Herald Tribune, 4 février 1951) ; et des recensements par d’autres critiques et auteurs de renom, dont Carl Brouard, Roussan Camille, Nicolás Guillén, Léon Laleau et Édris Saint-Amand.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/philippe-thoby-marcelin-a-fonds-perdu-2/">À Fonds perdu </item>
+        <item ref="http://ile-en-ile.org/georges-castera-lire-a-fonds-perdu/">Lire À fonds perdu</item>
+        <item ref="http://www2.webster.edu/~corbetre/haiti/bookreviews/marcelin.htm">Beast of the Haitian Hills</item>
+        <item ref="http://ascodela.over-blog.com/article-les-freres-marcelin-68908208.html"> Les frères Marcelin</item>
+      </list>
+    </div>
+  </div>
+</TEI>

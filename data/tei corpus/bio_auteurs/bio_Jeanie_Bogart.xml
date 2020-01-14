@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jeanie_Bogart_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,17 +12,94 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_bio_auteur_ile_en_ile">
-    <p>Jeanie Bogart est née le 29 septembre 1970 aux Cayes, une ville pluvieuse du sud d’Haïti. Elle commence à écrire des poèmes à l’âge de quatorze ans. La jeune fille traîne autant que possible sur les plages et sur le vieux port où elle puise son inspiration. Elle continue ses études secondaires à Port-au-Prince.</p>
-    <p>Après des études en journalisme, elle occupe de nombreuses professions – reporter, présentatrice et rédactrice de nouvelles à la radio et à la télévision en Haïti –, sans pour autant abandonner sa passion : la poésie. Elle émigre aux États-Unis en 1996 et étudie le Fashion Design à New York. Rédactrice au magazine Connecticut Haitian Voice, Jeanie Bogart travaille également comme interprète auprès des tribunaux de New York. Elle est membre de la Fondation Mémoire, une organisation professionnelle à but non-lucratif consacrée à défendre, protéger et rehausser tous les aspects du patrimoine national haïtien.</p>
-    <p>Pour son poème « A la foli », elle gagne le premier prix Kalbas Lò Lakarayib 2006, un concours de poésie réunissant les poètes créoles des Amériques, d’Afrique et de l’Océan indien.</p>
-    <p>Son recueil de poésie, Un jour… tes pantoufles (2008), selon le linguiste Hugues Saint-Fort, « ravira les inconditionnels de l’amour fou, exalté, sans demi-mesure et à contre-courant des usages établis par les convictions sociales. Mais il charmera aussi ceux qui sont passionnés de l’écriture, des mots, de leur faculté à nous libérer, de nous-mêmes, de nos obsessions, de notre trop-plein de sentiments qui peuvent à la longue nous submerger. »</p>
-    <p>Dènye Rèl est un disque de poesie en langue creole qui réunit vingt et un poèmes écrits par Jeanie Bogart, entrecoupés de morceaux instrumentaux du guitariste Marc Mathelier. Il comprend également deux morceaux de musique, « Vini komè » de BIC et « Twoubadou » de John Steve Brunache. Pour Chenald Augustin (Le Matin), « L’amour constitue la thématique dominante dans cette œuvre. L’évocation du désir fou, de la sensualité (à couper le souffle), de la féminité (dévoilée littéralement) paraît fort puissante dans ce recueil. »</p>
-    <p>Publié en 2001, Éloge de l’Interlocuteur : Dialogues avec Saint-John Kauss est un livre d’entretiens qui permet au lecteur de découvrir les complexités de l’âme du poète qui s’ouvre à un autre poète et au monde entier, en passant par son enfance, le métier d’écrivain, la solitude, l’art royal, la poésie et le sacré….</p>
-    <p>Diseuse, Jeanie Bogart prête sa voix au livre-disque de Franz Benjamin, Lettres d’Automne/Tanlapli (2007). Ainsi, elle figure dans de nombreux événements poétiques. En 2007, par exemple, elle participe au Word Play, une activité littéraire au Medicine Show Theatre à New York. En 2007, elle fait partie de la présentation annuelle des poètes haïtiens à la Ferguson Library (dans le Connecticut), Haiti Through Its Poets. En 2011, elle est poète invitée au Poetry Slam « Celebrating Haitian Women » (dans le Bronx) et à la Journée annuelle du livre haïtien, à Jamaica (New York). Elle participe également aux événements de Words Without Borders à Cambridge (Massachusetts).</p>
+    <p>
+      <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+       est née le 29 septembre 1970 aux 
+      <location ana="Cayes">Cayes</location>
+      , une ville pluvieuse du sud d’
+      <location ana="Haiti">Haïti</location>
+      . Elle commence à écrire des poèmes à l’âge de quatorze ans. La jeune fille traîne autant que possible sur les plages et sur le vieux port où elle puise son inspiration. Elle continue ses études secondaires à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      .
+    </p>
+    <p>
+      Après des études en journalisme, elle occupe de nombreuses professions – reporter, présentatrice et rédactrice de nouvelles à la radio et à la télévision en 
+      <location ana="Haiti">Haïti</location>
+       –, sans pour autant abandonner sa passion : la poésie. Elle émigre aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       en 1996 et étudie le Fashion Design à 
+      <location ana="New_York">New York</location>
+      . Rédactrice au magazine 
+      <location ana="Connecticut">Connecticut</location>
+       Haitian Voice, 
+      <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+       travaille également comme interprète auprès des tribunaux de 
+      <location ana="New_York">New York</location>
+      . Elle est membre de la Fondation Mémoire, une organisation professionnelle à but non-lucratif consacrée à défendre, protéger et rehausser tous les aspects du patrimoine national haïtien.
+    </p>
+    <p>
+      Pour son poème « A la foli », elle gagne le premier prix Kalbas Lò Lakarayib 2006, un concours de poésie réunissant les poètes créoles des 
+      <location ana="Ameriques">Amériques</location>
+      , d’
+      <location ana="Afrique">Afrique</location>
+       et de l’
+      <location ana="Ocean_Indien">Océan indien</location>
+      .
+    </p>
+    <p>
+      Son recueil de poésie, Un jour… tes pantoufles (2008), selon le linguiste 
+      <persName ana="Hugues_Saint">Hugues Saint</persName>
+      -Fort, « ravira les inconditionnels de l’amour fou, exalté, sans demi-mesure et à contre-courant des usages établis par les convictions sociales. Mais il charmera aussi ceux qui sont passionnés de l’écriture, des mots, de leur faculté à nous libérer, de nous-mêmes, de nos obsessions, de notre trop-plein de sentiments qui peuvent à la longue nous submerger. »
+    </p>
+    <p>
+      Dènye Rèl est un disque de poesie en langue creole qui réunit vingt et un poèmes écrits par 
+      <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+      , entrecoupés de morceaux instrumentaux du guitariste 
+      <persName ana="Marc_Mathelier">Marc Mathelier</persName>
+      . Il comprend également deux morceaux de musique, « Vini komè » de BIC et « Twoubadou » de 
+      <persName ana="John_Steve_Brunache">John Steve Brunache</persName>
+      . Pour 
+      <persName ana="Chenald_Augustin">Chenald Augustin</persName>
+       (Le Matin), « L’amour constitue la thématique dominante dans cette œuvre. L’évocation du désir fou, de la sensualité (à couper le souffle), de la féminité (dévoilée littéralement) paraît fort puissante dans ce recueil. »
+    </p>
+    <p>
+      Publié en 2001, Éloge de l’Interlocuteur : Dialogues avec Saint-
+      <persName ana="John_Kauss">John Kauss</persName>
+       est un livre d’entretiens qui permet au lecteur de découvrir les complexités de l’âme du poète qui s’ouvre à un autre poète et au monde entier, en passant par son enfance, le métier d’écrivain, la solitude, l’art royal, la poésie et le sacré….
+    </p>
+    <p>
+      Diseuse, 
+      <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+       prête sa voix au livre-disque de 
+      <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+      , Lettres d’Automne/Tanlapli (2007). Ainsi, elle figure dans de nombreux événements poétiques. En 2007, par exemple, elle participe au Word Play, une activité littéraire au Medicine Show Theatre à 
+      <location ana="New_York">New York</location>
+      . En 2007, elle fait partie de la présentation annuelle des poètes 
+      <location ana="Haitiens">Haïtiens</location>
+       à la Ferguson Library (dans le 
+      <location ana="Connecticut">Connecticut</location>
+      ), 
+      <location ana="Haiti">Haiti</location>
+       Through Its Poets. En 2011, elle est poète invitée au Poetry Slam « 
+      <persName ana="Celebrating_Haitian">Celebrating Haitian</persName>
+       Women » (dans 
+      <location ana="Le_Bronx">Le Bronx</location>
+      ) et à la Journée annuelle du livre haïtien, à 
+      <location ana="Jamaica">Jamaica</location>
+       (
+      <location ana="New_York">New York</location>
+      ). Elle participe également aux événements de 
+      <persName ana="Words_Without_Borders">Words Without Borders</persName>
+       à 
+      <location ana="Cambridge">Cambridge</location>
+       (
+      <location ana="Massachusetts">Massachusetts</location>
+      ).
+    </p>
   </text>
 </TEI>

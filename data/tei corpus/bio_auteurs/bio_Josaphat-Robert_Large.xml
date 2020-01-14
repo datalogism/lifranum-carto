@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Josaphat-Robert_Large_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,15 +12,71 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/large/" xml:id="Josaphat-Robert_Large_bio_auteur_ile_en_ile">
-    <p>Josaphat-Robert Large est né le 15 novembre 1942 à Jérémie (Haïti).</p>
-    <p>Après ses études classiques en Haïti, Josaphat-Robert Large part pour les Etats-Unis où il suit des cours de linguistique et où il étudie l’anglais et la photographie. Poète, romancier et homme de théâtre, il a participé à l’inauguration du « Sermac », mouvement culturel lancé par Aimé Césaire, en 1976, à Fort-de-France. Il a fondé avec les poètes Georges Castera, Syto Cavé et Jacques Charlier, la troupe de théâtre Kouidor qui a pris part, pendant des années, au festival de théâtre de la Martinique. Avec Lyonel Trouillot, Évelyne Trouillot, Pierre Buteau et Michel Acacia, il est membre fondateur de la revue Lire Haïti.</p>
-    <p>Josaphat-Robert Large est membre de la Société des Gens de Lettres de France et de l’Association des Écrivains de Langue Française. Avec son roman Les terres entourées de larmes, il remporte le Prix littéraire des Caraïbes en 2003. Désormais à la retraite, il se consacre à la préparation de son œuvre et partage son temps entre Haïti et les États-Unis d’Amérique.</p>
-    <p>Josaphat-Robert Large nous a quittés le 28 octobre 2017 à New York. Avec sa disponibilité, son amitié et son amour des lettres haïtiennes, Robert – « Bobisson » – Large a beaucoup aidé à la création et au développement des archives haïtiennes d’Île en île. Nous lui garderons une reconnaissance éternelle.</p>
+    <p>
+      Josaphat-
+      <persName ana="Robert_Large">Robert Large</persName>
+       est né le 15 novembre 1942 à 
+      <location ana="Jeremie">Jérémie</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ).
+    </p>
+    <p>
+      Après ses études classiques en 
+      <location ana="Haiti">Haïti</location>
+      , Josaphat-
+      <persName ana="Robert_Large">Robert Large</persName>
+       part pour les Etats-Unis où il suit des cours de linguistique et où il étudie l’anglais et la photographie. Poète, romancier et homme de théâtre, il a participé à l’inauguration du « Sermac », mouvement culturel lancé par 
+      <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+      , en 1976, à 
+      <location ana="Fort-De-France">Fort-de-France</location>
+      . Il a fondé avec les poètes 
+      <persName ana="Georges_Castera">Georges Castera</persName>
+      , 
+      <persName ana="Syto_Cave">Syto Cavé</persName>
+       et 
+      <persName ana="Jacques_Charlier">Jacques Charlier</persName>
+      , la troupe de théâtre 
+      <location ana="Kouidor">Kouidor</location>
+       qui a pris part, pendant des années, au festival de théâtre de la 
+      <location ana="Martinique">Martinique</location>
+      . Avec 
+      <persName ana="Lyonel_Trouillot">Lyonel Trouillot</persName>
+      , 
+      <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
+      , 
+      <persName ana="Pierre_Buteau">Pierre Buteau</persName>
+       et 
+      <persName ana="Michel_Acacia">Michel Acacia</persName>
+      , il est membre fondateur de la revue Lire 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      Josaphat-
+      <persName ana="Robert_Large">Robert Large</persName>
+       est membre de la Société des Gens de Lettres de 
+      <location ana="France">France</location>
+       et de l’Association des Écrivains de Langue Française. Avec son roman Les terres entourées de larmes, il remporte le Prix littéraire des 
+      <location ana="Caraibes">Caraïbes</location>
+       en 2003. Désormais à la retraite, il se consacre à la préparation de son œuvre et partage son temps entre 
+      <location ana="Haiti">Haïti</location>
+       et les 
+      <location ana="Etats-Unis_D’Amerique">États-Unis d’Amérique</location>
+      .
+    </p>
+    <p>
+      Josaphat-
+      <persName ana="Robert_Large">Robert Large</persName>
+       nous a quittés le 28 octobre 2017 à 
+      <location ana="New_York">New York</location>
+      . Avec sa disponibilité, son amitié et son amour des lettres haïtiennes, Robert – « Bobisson » – Large a beaucoup aidé à la création et au développement des archives haïtiennes d’Île en île. Nous lui garderons une reconnaissance éternelle.
+    </p>
     <p> </p>
   </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Rafael_Lucas_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,21 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.rafael-lucas.20069.html" xml:id="Rafael_Lucas_bio_auteur_spla">
-    <p>Universitaire haïtien.Après une licence d'espagnol, une agrégation de portugais et une thèse sur la représentation du peuple dans l'?uvre de Jorge Amado, Rafaël Lucas, d'origine haïtienne, maître de conférences à l'Université de Bordeaux 3 (Institut Ibéro-Américain), a effectué des travaux de recherche dans le domaine caribéen, en étudiant les relations entre littérature, histoire et anthropologie dans le domaine caribéen.Il enseigne les littératures et cultures lusophones, ainsi que l'interculturalité.Eminent spécialiste de l'esclavage européen et des diasporas africaines, il parle plusieurs langues: créole, français, swahili, anglais, wolof, portugais, peul, espagnol, arabe, hébreu.Rafaël Lucas est l'auteur de plusieurs articles et conférences.Il est rédacteur en chef du magazine Afiavi (Bordeaux).</p>
+    <p>
+      Universitaire haïtien.Après une licence d'espagnol, une agrégation de portugais et une thèse sur la représentation du peuple dans l'?uvre de 
+      <persName ana="Jorge_Amado">Jorge Amado</persName>
+      , Rafaël Lucas, d'origine 
+      <location ana="Haitienne">Haïtienne</location>
+      , maître de conférences à l'Université de 
+      <location ana="Bordeaux">Bordeaux</location>
+       3 (Institut Ibéro-Américain), a effectué des travaux de recherche dans le domaine caribéen, en étudiant les relations entre littérature, histoire et anthropologie dans le domaine caribéen.Il enseigne les littératures et cultures lusophones, ainsi que l'interculturalité.Eminent spécialiste de l'esclavage européen et des diasporas africaines, il parle plusieurs langues: créole, français, swahili, anglais, wolof, portugais, peul, espagnol, arabe, hébreu.Rafaël Lucas est l'auteur de plusieurs articles et conférences.Il est rédacteur en chef du magazine Afiavi (
+      <location ana="Bordeaux">Bordeaux</location>
+      ).
+    </p>
   </text>
 </TEI>

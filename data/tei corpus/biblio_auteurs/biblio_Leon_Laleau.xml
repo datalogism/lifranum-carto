@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Leon_Laleau_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Léon Laleau</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/laleau/" xml:id="Leon_Laleau_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>À voix basse. 1919.</item>
+        <item>La Flèche au cœur. (Préface de Maurice Rostand). Paris: H. Parville, 1926.</item>
+        <item>Le Rayon des jupes; ou, Treize poèmes pour Tristan Derème.Saint-Calais (France): Imprimé par E. Lefeuvre, 1928.</item>
+        <item>Abréviations. Compiègne: Imprimerie de Compiègne, 1928; Paris: Librairie de France, 1929.</item>
+        <item>Musique nègre. Port-au-Prince: à compte d’auteur, 1931; Montréal: Mémoire d’encrier, 2003.</item>
+        <item>Ondes courtes. Port-au-Prince: Imprimerie de l’État, 1933.</item>
+        <item>Apothéoses. Port-au-Prince: Deschamps, 1952.</item>
+        <item>Oeuvre poétique. Port-au-Prince: Deschamps, 1978.</item>
+        <item>De Bronze et d’Ivoire, inédit.</item>
+        <item>Musique nègre (Le Rayon des jupes, Abréviations, Musique nègre, De Bronze et d’Ivoire, Ondes courtes). Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Une cause sans effet, comédie en deux actes (avec Georges N. Léger). Port-au-Prince: Imprimerie de L’Abeille, 1916.</item>
+        <item>Amitiés impossibles; lever de rideau en un acte (avec Georges N. Léger). Port-au-Prince: Imprimerie de L’Abeille, 1916.</item>
+        <item>L’Attelage, 1916.</item>
+        <item>L’Étau, 1917.</item>
+        <item>Les Petites Marionnettes, 1917.</item>
+        <item>La Question des frontières, 1917.</item>
+        <item>Le Tremplin, 1919.</item>
+        <item>La Pluie et le beau temps, 1919.</item>
+        <item>Un Duo à trois, 1919.</item>
+        <item>Lorsque le soir descend, 1919.</item>
+      </list>
+      <list subtype="romans">
+        <item>La Danse des vagues, roman haïtien. Port-au-Prince: Imprimerie A.A. Heureaux, 1919.</item>
+        <item>Le Choc: chronique haïtienne des années 1915-1918. Port-au-Prince: Librairie La Presse, 1932;  Port-au-Prince: Imprimerie Centrale, 1975.</item>
+      </list>
+      <list subtype="nouvelles sélectionnées">
+        <item>« Comment mademoiselle a passé sa mi-carème ». Le Matin (1912).</item>
+        <item>Jusqu’au bord, nouvelle. Port-au-Prince: L’Abeille, 1916.</item>
+      </list>
+      <list subtype="essais">
+        <item>Maurice Rostand intime. Paris: Éditions du Monde moderne, 1926.</item>
+        <item>Divagations à propos du chef: œuvre posthume 1950. Port-au-Prince: Deschamps, 1980.</item>
+        <item>Apothéoses.Port-au-Prince: Deschamps, 1952.</item>
+      </list>
+      <list subtype="prix et distinctions">
+        <item>1935     L’ordre mexicain de l’aigle Aztec decerné à Laleau, Ministre des Affaires Étrangères d’Haïti</item>
+        <item>1962     Prix Edgar Poe de la maison de poésie et société des gens de lettres à Paris.</item>
+        <item>1968     Rose d’Or des poètes de la société des poètes français.</item>
+        <item>1978     Prix Henri Deschamps, pour Oeuvre poétique.</item>
+        <item>Membre de l’Académie Ronsard.</item>
+        <item>Membre de l’Académie méditerranéenne.</item>
+        <item>Membre de l’Académie diplomatique internationale.</item>
+        <item>Grand-Croix de Saint-Grégoire-le-Grand du Vatican.</item>
+        <item>Officier de l’Instruction publique et Grand Officier de la Légion d’Honneur de France.</item>
+        <item>Grand Officier Honneur et Mérite et Commandeur de l’Éducation nationale d’Haïti.</item>
+      </list>
+      <list subtype="sur l’oeuvre de léon laleau">
+        <item>Berrou, F. Raphaël et Pradel Pompilus. Histoire de la littérature haïtienne illustrée par les textes. Tome II.  Port-au-Prince: Éditions Caraïbes, 1975.</item>
+        <item>Corvington, Georges. Port-au-Prince au cours des ans. La capitale d’Haïti sous l’occupation. 1922-1934. Port-au-Prince: Deschamps, 1984.</item>
+        <item>Ménard, Nadève. The Occupied Novel: The Representation of Foreigners in Haitian Novels Written during the US Occupation, 1915-1934. Dissertation. University of Pennsylvania, 2002. Ann Arbor: UMI, 2002. 3054979.</item>
+        <item>Rancourt, Jacques, éd. Figures d’Haïti: 35 poètes pour notre temps. Paris: Le Temps des Cerises, 2005.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/laleau-cesaire/">Je présente Aimé Césaire</item>
+        <item ref="http://ile-en-ile.org/leon-laleau-musique-negre/">Musique nègre</item>
+        <item ref="http://ile-en-ile.org/rene-philoctete-textes-lus-par-rene-philoctete/">René Philoctète, textes lus par l’auteur</item>
+      </list>
+    </div>
+  </div>
+</TEI>

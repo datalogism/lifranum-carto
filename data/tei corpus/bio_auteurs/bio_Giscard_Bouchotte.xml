@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Giscard_Bouchotte_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,22 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.giscard-bouchotte.6939.html" xml:id="Giscard_Bouchotte_bio_auteur_spla">
-    <p>Giscard Bouchotte s'est d'abord fait connaître comme critique en Haïti (AICA Sud Caraibe, Le Nouvelliste, Haïti en Marche, Le Monde). Son travail relie l'artistique au social. Après quelques années de collaboration avec la Fondation AfricAméricA en Haïti sur le Forum Transculturel d'art contemporain et quelques documentaires, il travaille parallèlement sur des projets collectifs transdisciplinaires (&quot;Haïti Royaume de ce monde&quot;, &quot;Nous sommes un peuple qui donne&quot;). C'est l'exploration des expressions contemporaines qui l'intéresse. Surfant à la fois entre l'écriture, l'image ou l'art contemporain sans être écrivain, réalisateur ou curator. Avec la seule envie de faire les choses, là où l'urgence de faire se fait sentir.</p>
+    <p>
+      <persName ana="Giscard_Bouchotte">Giscard Bouchotte</persName>
+       s'est d'abord fait connaître comme critique en 
+      <location ana="Haiti">Haïti</location>
+       (AICA Sud Caraibe, Le Nouvelliste, 
+      <location ana="Haiti">Haïti</location>
+       en Marche, Le Monde). Son travail relie l'artistique au social. Après quelques années de collaboration avec la Fondation AfricAméricA en 
+      <location ana="Haiti">Haïti</location>
+       sur le Forum Transculturel d'art contemporain et quelques documentaires, il travaille parallèlement sur des projets collectifs transdisciplinaires (&quot;
+      <location ana="Haiti">Haïti</location>
+       Royaume de ce monde&quot;, &quot;Nous sommes un peuple qui donne&quot;). C'est l'exploration des expressions contemporaines qui l'intéresse. Surfant à la fois entre l'écriture, l'image ou l'art contemporain sans être écrivain, réalisateur ou curator. Avec la seule envie de faire les choses, là où l'urgence de faire se fait sentir.
+    </p>
   </text>
 </TEI>

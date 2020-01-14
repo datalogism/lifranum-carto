@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Joanne_Hyppolite_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,31 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.joanne-hyppolite.42230.html" xml:id="Joanne_Hyppolite_bio_auteur_spla">
-    <p>Joanne Hyppolite est née en Haïti et a émigré aux États-Unis à l'âge de quatre ans. Elle grandit dans le Massachusetts. Elle reçoit une maîtrise en études afro-américaines à l'Université de Californie. Elle découvre sa passion pour l'écriture quand elle a 12 ans. Cet amour l'incite à poursuivre une licence en création littéraire de l'Université de Pennsylvanie. Elle publie son premier livre, « Seth et Samona » à 24 ans. Le livre raconte l'histoire de la relation entre Seth, un jeune haïtien-américain, et Samona, une jeune fille afro-américaine, tous deux vivants à Dorchester, Massachusetts, la ville dans laquelle l'auteur a grandi. Suite aux encouragements d'un professeur elle soumet son manuscrit à la deuxième édition du concours annuel Marguerite de Angeli parrainé par Delacorte Press. Le roman obtient la première place. Avec son premier prix - un contrat de publication – la carrière de Joanne Hyppolite est lancée. La plupart de ses livres traitent de l'identité haïtienne et afro-américaine, des défis à surmonter, des stéréotypes et des différences culturelles. 	source: http://www.everythinghaitian.com/FeaturedStories/JoanneHyppolite.aspx</p>
+    <p>
+      Joanne Hyppolite est née en 
+      <location ana="Haiti">Haïti</location>
+       et a émigré aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       à l'âge de quatre ans. Elle grandit dans le 
+      <location ana="Massachusetts">Massachusetts</location>
+      . Elle reçoit une 
+      <location ana="Maitrise">Maîtrise</location>
+       en études afro-américaines à l'Université de 
+      <location ana="Californie">Californie</location>
+      . Elle découvre sa passion pour l'écriture quand elle a 12 ans. Cet amour l'incite à poursuivre une licence en 
+      <persName ana="Creation_Litteraire">Création Littéraire</persName>
+       de l'Université de 
+      <location ana="Pennsylvanie">Pennsylvanie</location>
+      . Elle publie son premier livre, « Seth et Samona » à 24 ans. Le livre raconte l'histoire de la relation entre Seth, un jeune haïtien-américain, et Samona, une jeune fille afro-américaine, tous deux vivants à Dorchester, 
+      <location ana="Massachusetts">Massachusetts</location>
+      , la ville dans laquelle l'auteur a grandi. Suite aux encouragements d'un professeur elle soumet son manuscrit à la deuxième édition du concours annuel Marguerite de Angeli parrainé par Delacorte Press. Le roman obtient la première place. Avec son premier prix - un contrat de publication – la carrière de Joanne Hyppolite est lancée. La plupart de ses livres traitent de l'identité 
+      <location ana="Haitienne">Haïtienne</location>
+       et afro-américaine, des défis à surmonter, des stéréotypes et des différences culturelles. 	source: http://www.everythinghaitian.com/FeaturedStories/JoanneHyppolite.aspx
+    </p>
   </text>
 </TEI>

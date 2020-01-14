@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Roland_Morisseau_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Roland Morisseau</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/morisseau_roland/" xml:id="Roland_Morisseau_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>5 poèmes de reconnaissance. Port-au-Prince:Imprimerie Theodore, 1961.</item>
+        <item>Germination d’espoir. Port-au-Prince:Impr. N.A. Theodore, 1962.
+Germinal d’espoir est republié dans le volume collectif, Étincelles : Germe de Sang. Nendeln: Kraus Reprint, 1970, qui comprend : Gerbe de sang de René Depestre ; Pour célébrer la terre et Grand devoir de Roger Dorsinville ; Margha, Les tambours du soleil et Ces îles qui marchent de René Philoctete ; et Germination d’espoir de Roland Morisseau.</item>
+        <item>Clef du soleil (avec « Promesse » de René Philoctète). Port-au-Prince:Les Araignées du soir, 1963.</item>
+        <item>La promeneuse au jasmin. Montréal: Guernica, 1988.</item>
+        <item>Poésie, 1960-1991. Montréal: Guernica, 1993.(Chanson de Roland; Raison ensanglantée; La promeneuse au jasmin).</item>
+      </list>
+      <list subtype="poésie enregistrée">
+        <item>« Clef du soleil » (extrait), dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+        <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+        <item ref="http://web.archive.org/web/20061117104310/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=606">textament 7</item>
+      </list>
+    </div>
+  </div>
+</TEI>

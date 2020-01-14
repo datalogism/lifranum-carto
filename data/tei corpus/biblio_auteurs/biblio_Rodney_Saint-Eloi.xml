@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Rodney_Saint-Eloi_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Rodney Saint-Éloi</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/saint-eloi/" xml:id="Rodney_Saint-Eloi_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« The Blue Hill ». Nicole Ball, trad. Haiti Noir. Edwidge Danticat, éd. New York: Akashic, 2011: 302-309.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Graffitis pour l’aurore. Port-au-Prince: Imprimeur II, 1989.</item>
+        <item>Voyelles adultes. Port-au-Prince: Éditions Mémoire, 1994.</item>
+        <item>Pierres anonymes. Port-au-Prince: Éditions Mémoire, 1994.</item>
+        <item>Cantique d’Emma. Chaux-de-Fonds (Suisse): Éditions Vwa, 1997; accompagné des encres de Tiga. Port-au-Prince: Éditions Mémoire, 2001.</item>
+        <item>J’avais une ville d’eau de terre et d’arcs-en-ciel heureux. Port-au-Prince: Éditions Mémoire, 1999.</item>
+        <item>J’ai un arbre dans ma pirogue. Montréal: Mémoire d’encrier, 2004.</item>
+        <item>Récitatif au pays des ombres. Montréal: Mémoire d’encrier, 2011.</item>
+        <item>Jacques Roche, je t’écris cette lettre. Montréal: Mémoire d’encrier, 2013.</item>
+        <item>Je suis la fille du baobab brûlé. Montréal: Mémoire d’encrier, 2015.</item>
+        <item>Moi tombée, moi levée. Montréal: Noroît, 2016.</item>
+        <item>Nous ne trahirons pas le poème. Montréal: Mémoire d’encrier, 2019.</item>
+      </list>
+      <list subtype="récit">
+        <item>Haïti, Kenbe la. Neuilly-sur-Seine: Michel Lafon, 2010.</item>
+        <item>Passion Haïti. Montréal: Hamac, 2016.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Miracle Bananier (avec Georges Castera et Louisiane Saint Fleurant). Tokyo: Gakken, 2001.</item>
+        <item>Connais-tu Aimé Césaire?  biographie-jeunesse. Port-au-Prince: Éditions Mémoire (Collection des personnages célèbres), 2001.</item>
+      </list>
+      <list subtype="anthologies">
+        <item>Dits des fous d’amour: anthologie secrète / Lovers’ Sweet Nothings: Secret Anthology, choisis par / selected by Paula Clermont Péan &amp; Rodney Saint-Éloi. Montréal: Mémoire d’encrier, 2003.</item>
+        <item>Anthologie de la littérature haïtienne: un siècle de poésie, 1901-2001, sélectionnée par Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot. Montréal: Mémoire d’encrier, 2003.</item>
+        <item>Paradis/Paraiso, Djazz 1 : Santo-Domingo. Montreuil: Vox, 2003.</item>
+        <item>Nul n’est une île: Solidarité Haïti  (avec Stanley Péan). Montréal: Mémoire d’encrier, 2004.</item>
+        <item>Chantier d’écriture, sous la direction de Annie Heminway et Rodney Saint-Éloi. Montréal: Mémoire d’encrier, 2006.</item>
+        <item>Montréal vu par ses poètes, sous la direction de Rodney Saint-Éloi et Franz Benjamin. Montréal: Mémoire d’encrier, 2006.</item>
+      </list>
+      <list subtype="poésie et essais publiés dans des ouvrages collectifs (sélection)">
+        <item>« Peinture et discours en Haïti ». Conjonction 201 (1996): 101-104.</item>
+        <item>« Fragments de mémoire et de vécu ! » (à propos de Café-Amer de Michel Monnin). Conjonction 202 (1997): 121-124.</item>
+        <item>« En Roumain, je garderai le dieu ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 203-08.</item>
+        <item>« Cormier Plage ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 237-232.</item>
+        <item>« Là où s’originent les fleuves… ». Riveneuve Continents 6 (août 2008): 195-202.</item>
+        <item>« La colline bleue ». Haiti noir. Textes présentés par Edwidge Danticat. Paris: Asphalte, 2012: 285-292.</item>
+        <item>« Six bières, Monsieur ! » La vie et ses couleurs; nouvelles et textes courts autour de la « question de couleur ». Sous la direction de Lyonel Trouillot. Delmas: C3, 2012: 107-116.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Les villes sont d’étranges bateaux ». Montréal vu par ses poètes. Textes dits par Gabriel Gascon et al. Montréal: Société Paroles, 2006. Disque compact.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1997    Mention spéciale de la revue Vwa, Chaux de fond, Suisse.</item>
+        <item>2000    Prix littéraire de la ville de Saint-Louis du Nord, Port-de-Paix, Haïti.</item>
+        <item>2001    Prix Gouverneur de la Rosée du Livre et de la Littérature, Ministère de la Culture, Haïti, pour les Éditions Mémoire.</item>
+        <item>2015    Élu membre de l’Académie des Lettres du Québec.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.memoiredencrier.com/">Éditions Mémoire d’encrier</item>
+        <item ref="http://ile-en-ile.org/boutures/">Boutures</item>
+        <item ref="http://ile-en-ile.org/saint-eloi-francophonie/">Problématique de l’ex-centricité</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-bonjour-cayenne/">Bonjour Cayenne</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/">Blues au tombeau de Dennery Ménélas</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/">Blues au tombeau de Dennery Ménélas</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-faire-lire-aujourdhui-en-haiti/">Faire lire aujourd’hui en Haïti</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-haiti-theatre-de-recuperation/">Haïti: Théâtre de récupération</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-quels-livres-pour-quels-lecteurs/">Quels livres pour quels lecteurs?</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-lecture-de-poesie/">Lecture de poésie</item>
+        <item ref="http://ile-en-ile.org/rodney-saint-eloi-5-questions-pour-ile-en-ile/">Rodney Saint-Éloi, 5 Questions pour Île en île</item>
+        <item ref="https://youtu.be/40fx3Smb1lQ?t=5m35s">Canapé</item>
+        <item ref="http://youtu.be/3Kh5-luFuBc">Récitatif au pays des ombres</item>
+        <item ref="http://www.voixdecrivains.net/ha_steloi.html">Rodney Saint-Éloi</item>
+        <item ref="http://www.rfi.fr/fichiers/MFI/CultureSociete/1455.asp">Rodney Saint-Éloi, activiste poétique</item>
+        <item ref="http://radiospirale.org/capsule/rencontre-avec-rodney-saint-eloi">Rencontre avec Rodnet Saint-Éloi</item>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      </list>
+    </div>
+  </div>
+</TEI>

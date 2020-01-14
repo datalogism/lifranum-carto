@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Bonel_Auguste_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,15 +12,46 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/auguste/" xml:id="Bonel_Auguste_bio_auteur_ile_en_ile">
-    <p>Bonel Auguste, né à Port-au-Prince, Haïti le 6 mars 1973, est poète, bibliothécaire et animateur culturel. Il a étudié la linguistique à l’Université d’État d’Haïti et a reçu une formation en histoire de l’art à l’Institut français d’Haïti. Fondateur de l’atelier de poésie « Dimanche en poésie » à la bibliothèque Étoile filante, et animateur des « Vendredis littéraires » de l’université Caraïbe, il écrit en français et en créole.</p>
-    <p>Il anime une émission littéraire sur la Radio Nationale d’Haïti « Tournez la page » et il a publié plusieurs articles dans les quotidiens Le Nouvelliste et Le Matin.</p>
-    <p>Le célèbre écrivain haïtien Frankétienne a salué son premier livre de poésie Fas doub lanmò ainsi : « Bonel Auguste est l’un des premiers écrivains philosophes de la littérature créole ».</p>
-    <p>Le poète tunisien Tahar Bekri a écrit à propos de son deuxième livre Fulgurance, que ce sont des « pages empreintes de sensualité et de métaphores ramenant les réflexions et les médiations à leur juste place… ».</p>
+    <p>
+      <persName ana="Bonel_Auguste">Bonel Auguste</persName>
+      , né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+       le 6 
+      <location ana="Mars">Mars</location>
+       1973, est poète, bibliothécaire et animateur culturel. Il a étudié la linguistique à l’Université d’État d’
+      <location ana="Haiti">Haïti</location>
+       et a reçu une formation en histoire de l’art à l’Institut français d’
+      <location ana="Haiti">Haïti</location>
+      . Fondateur de l’atelier de poésie « Dimanche en poésie » à la bibliothèque Étoile filante, et animateur des « Vendredis littéraires » de l’université 
+      <location ana="Caraibe">Caraïbe</location>
+      , il écrit en français et en créole.
+    </p>
+    <p>
+      Il anime une émission littéraire sur la Radio Nationale d’
+      <location ana="Haiti">Haïti</location>
+       « 
+      <location ana="Tournez">Tournez</location>
+       la page » et il a publié plusieurs articles dans les quotidiens Le Nouvelliste et Le Matin.
+    </p>
+    <p>
+      Le célèbre écrivain haïtien 
+      <location ana="Franketienne">Frankétienne</location>
+       a salué son premier livre de poésie Fas doub lanmò ainsi : « 
+      <persName ana="Bonel_Auguste">Bonel Auguste</persName>
+       est l’un des premiers écrivains philosophes de la littérature créole ».
+    </p>
+    <p>
+      Le poète tunisien 
+      <persName ana="Tahar_Bekri">Tahar Bekri</persName>
+       a écrit à propos de son deuxième livre Fulgurance, que ce sont des « pages empreintes de sensualité et de métaphores ramenant les réflexions et les médiations à leur juste place… ».
+    </p>
     <p>Sa poésie se veut une forme-sens. Elle dit l’angoisse existentielle, questionne l’espace, le temps, la mort, l’éternité, évoque aussi la mémoire, la blessure de l’histoire, le sens du monde, la sensualité des corps amoureux, dans de subtiles métaphores.</p>
   </text>
 </TEI>

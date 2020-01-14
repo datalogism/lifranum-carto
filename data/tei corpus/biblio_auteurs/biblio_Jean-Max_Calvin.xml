@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean-Max_Calvin_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jean-Max Calvin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/calvin/" xml:id="Jean-Max_Calvin_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>The Legend of a Shadow. Barbara Holland, trans. Hynn Anthology of Poetry. Donald Lev, ed. New York, 1978: 50-54.</item>
+      </list>
+      <list subtype="en español">
+        <item>Textes de Jean-Max Calvin traduits par José M. Riquelme. Ruptures (Montréal) 8 (janvier-mars 1995).</item>
+      </list>
+      <list subtype="poésie">
+        <item>La Légende de l’ombre. Port-au-Prince: Imprimerie de l’État, 1966.</item>
+        <item>Anneau. New York:Collection Hounguénikon, 1976.</item>
+        <item>La Pluie et ses tambours. Préface: Gérard Campfort. New York: Collection Hounguénikon, 2001.</item>
+        <item>Trompe-l’oeil. Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+        <item>Hors du Bleu, poèmes. Bloomington, Indiana: Trafford (Collection Hounguénikon), 2011.</item>
+      </list>
+      <list subtype="poésie dans des recueils et anthologies">
+        <item>Baridon, Silvio et Raymond Philoctète. Poésie vivante d’Haïti. (2e éd.) Paris: Maurice Nadeau, 1986.</item>
+        <item>Castera, Georges, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Montréal: Mémoire d’encrier, 2003: 213-214.</item>
+        <item>Dumas, Pierre-Raymond. La Littérature haïtienne de la diaspora  (tome 2). Conjonction  170 (été 1986).</item>
+        <item>Glover Cunnigham, William. « From Felix Morrisseau-Leroy to Josaphat-Robert Large: The Greatest Haitian Poets and Writers of the True Modernism Period ». Utah Foreign Language Review (1994-1995).</item>
+        <item>Rancourt, Jacques. Figures d’Haïti  (35 poètes pour notre temps). Paris: Le Temps des Cerises, 2005: 108-112.</item>
+        <item>Raymond, Philoctête. Anthologie de la poésie haïtienne contemporaine. Montréal: CIDHICA, 2000.</item>
+        <item>Sapriphage, Revue de Création littéraire, numéro spécial 22, Présence d’Haïti (1994).</item>
+      </list>
+      <list subtype="poésie enregistrée">
+        <item>« Chronique du miroir » (extrait), dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2002     Prix du Livre insulaire, catégorie poésie, Ouessant (France), pour La Pluie et ses tambours.</item>
+      </list>
+      <list subtype="sur l’oeuvre de jean-max calvin">
+        <item>Léonard, Roland. « La Pluie et ses tambours de Jean-Max Calvin ». Le Nouvelliste (fin mars – début avril 2001).</item>
+        <item>Philoctète, Raymond. « Le poète Jean-Max Calvin ». Haïti-Progrès (28 janvier 1987).</item>
+        <item>Saint-John, Kauss. « Jean-Max Calvin et Josaphat Robert Large, deux poètes d’une même génération ».  Haïti en Marche 10.12 (1er mai 1996).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://web.archive.org/web/20030607144647/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=566">Chronique du miroir</item>
+      </list>
+    </div>
+  </div>
+</TEI>

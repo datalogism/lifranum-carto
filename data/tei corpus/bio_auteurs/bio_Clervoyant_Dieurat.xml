@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Clervoyant_Dieurat_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,31 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.clervoyant-dieurat.46356.html" xml:id="Clervoyant_Dieurat_bio_auteur_spla">
-    <p>	Dieurat Clervoyant est né à Dessalines, Haïti. Il vit en France depuis une vingtaine d'années. Après un DEA en lettres et un master 2 en sociologie, il prépare actuellement deux doctorats en lettres et anthropologie. Il se spécialise dans la littérature haïtienne et comparée et en anthropologie politique et historique de ce qu'il appelle lui-même les Caraïbes du Centre, à savoir la Jamaïque, la République Dominicaine, Cuba et Haïti. Il a publié plusieurs essais de politique actuelle et des ouvrages littéraires.</p>
+    <p>
+      	Dieurat Clervoyant est né à 
+      <location ana="Dessalines">Dessalines</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      . Il vit en 
+      <location ana="France">France</location>
+       depuis une vingtaine d'années. Après un DEA en lettres et un master 2 en sociologie, il prépare actuellement deux doctorats en lettres et anthropologie. Il se spécialise dans la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       et comparée et en anthropologie politique et historique de ce qu'il appelle lui-même les 
+      <location ana="Caraibes">Caraïbes</location>
+       du Centre, à savoir la 
+      <location ana="Jamaique">Jamaïque</location>
+      , la 
+      <location ana="Republique_Dominicaine">République Dominicaine</location>
+      , 
+      <location ana="Cuba">Cuba</location>
+       et 
+      <location ana="Haiti">Haïti</location>
+      . Il a publié plusieurs essais de politique actuelle et des ouvrages littéraires.
+    </p>
   </text>
 </TEI>

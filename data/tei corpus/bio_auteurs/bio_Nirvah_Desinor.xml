@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Nirvah_Desinor_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.nirvah-desinor.39854.html" xml:id="Nirvah_Desinor_bio_auteur_spla">
-    <p>Née le 22 septembre. Après la Philo elle part pour l'étranger. Ses études universitaires sont éparpillées entre la Belgique: ses études post-gradues la conduisent à l'agence culturelle et technique (ACCT), Lome (Togo), à L'université d' Hawaï, Honolulu, à Bradford University en Angleterre pour une formation en tourisme et gestion des ressources humaines a l'université d'Indiana sous les auspices de l'American Bankers Association.</p>
+    <p>
+      Née le 22 septembre. Après la Philo elle part pour l'étranger. Ses études universitaires sont éparpillées entre la 
+      <location ana="Belgique">Belgique</location>
+      : ses études post-gradues la conduisent à l'agence culturelle et technique (ACCT), Lome (Togo), à L'université d' 
+      <location ana="Hawai">Hawaï</location>
+      , Honolulu, à Bradford University en 
+      <location ana="Angleterre">Angleterre</location>
+       pour une formation en tourisme et gestion des ressources humaines a l'université d'Indiana sous les auspices de l'American Bankers Association.
+    </p>
   </text>
 </TEI>

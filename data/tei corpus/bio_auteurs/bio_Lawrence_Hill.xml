@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Lawrence_Hill_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,39 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.lawrence-hill.31014.html" xml:id="Lawrence_Hill_bio_auteur_spla">
-    <p>Fils d'un Noir et d'une Blanche qui ont quitté les États-Unis pour venir s'établir au Canada le lendemain même de leur mariage, Lawrence Hill a grandi au cours des années soixante dans une banlieue de Toronto à prédominance blanche. Le travail de ses parents qui militaient dans des organismes de défense des droits humains l'a profondément influencé. L'identité et l'appartenance sont en effet des thèmes qu'on retrouve dans la plupart de ses écrits.Sa passion particulière pour la langue française a incité Lawrence Hill à poursuivre ses études à l'Université Laval, à Québec, où il a obtenu un baccalauréat en économique. Son volontariat au bureau montréalais de l'organisme caritatif Carrefour Canadien International (CCI) l'a conduit à œuvrer en Afrique de l'Ouest (Niger, Cameroun et Mali). Hill continue de soutenir l'action du CCI en tant que &quot;patron d'honneur&quot;.Lawrence Hill a été journaliste au quotidien The Globe and Mail et à la Winnipeg Free Press. Il a vécu et travaillé en Espagne et en France avant de fréquenter la Johns Hopkins University à Baltimore, où il a obtenu une maîtrise en création littéraire. La University of Toronto et la Wilfrid Laurier University lui ont décerné des doctorats honorifiques.Lawrence Hill vit à Hamilton, en Ontario, avec sa femme et ses cinq enfants</p>
+    <p>
+      Fils d'un Noir et d'une Blanche qui ont quitté les 
+      <location ana="Etats-Unis">États-Unis</location>
+       pour venir s'établir au 
+      <location ana="Canada">Canada</location>
+       le lendemain même de leur mariage, Lawrence Hill a grandi au cours des années soixante dans une banlieue de Toronto à prédominance blanche. Le travail de ses parents qui militaient dans des organismes de défense des droits humains l'a profondément influencé. L'identité et l'appartenance sont en effet des thèmes qu'on retrouve dans la plupart de ses écrits.Sa passion particulière pour la langue française a incité Lawrence Hill à poursuivre ses études à l'Université 
+      <location ana="Laval">Laval</location>
+      , à 
+      <location ana="Quebec">Québec</location>
+      , où il a obtenu un baccalauréat en économique. Son volontariat au bureau 
+      <location ana="Montrealais">Montréalais</location>
+       de l'organisme caritatif 
+      <location ana="Carrefour">Carrefour</location>
+       Canadien International (CCI) l'a conduit à œuvrer en 
+      <location ana="Afrique">Afrique</location>
+       de l'Ouest (Niger, Cameroun et Mali). Hill continue de soutenir l'action du CCI en tant que &quot;patron d'honneur&quot;.Lawrence Hill a été journaliste au quotidien The Globe and Mail et à la Winnipeg Free Press. Il a vécu et travaillé en 
+      <location ana="Espagne">Espagne</location>
+       et en 
+      <location ana="France">France</location>
+       avant de fréquenter la Johns Hopkins University à 
+      <location ana="Baltimore">Baltimore</location>
+      , où il a obtenu une 
+      <location ana="Maitrise">Maîtrise</location>
+       en 
+      <persName ana="Creation_Litteraire">Création Littéraire</persName>
+      . La University of Toronto et la Wilfrid Laurier University lui ont décerné des doctorats honorifiques.Lawrence Hill vit à Hamilton, en 
+      <location ana="Ontario">Ontario</location>
+      , avec sa femme et ses cinq enfants
+    </p>
   </text>
 </TEI>

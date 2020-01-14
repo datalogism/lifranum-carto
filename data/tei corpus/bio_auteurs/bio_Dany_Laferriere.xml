@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Dany_Laferriere_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,16 +12,100 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/laferriere/" xml:id="Dany_Laferriere_bio_auteur_ile_en_ile">
-    <p>Dany Laferrière est né le 13 avril 1953 à Port-au-Prince (Haïti). Son enfance se déroule à Petit-Goâve avec sa grand’mère Da, source d’inspiration de son roman, L’odeur du café. Journaliste au Petit Samedi Soir, il quitte Haïti pour Montréal en 1976, à la suite de l’assassinat de son ami Gasner Raymond. Du reste témoigne-t-il de cette fuite dans Le cri des oiseaux fous.</p>
-    <p>C’est à Montréal qu’il connaîtra le succès en 1985 avec la publication de son premier roman, Comment faire l’amour avec un nègre sans se fatiguer, texte dont Jacques Benoît, cinéaste, fera une adaptation en 1989. Suivront alors neuf autres romans – cette dizaine de romans compose ce que l’auteur appelle « une autobiographie américaine ».</p>
-    <p>Les critiques littéraires participent de ce succès populaire : c’est ainsi que Dany Laferrière est lauréat, entre autres, du Prix Carbet (1991), de la première édition du Prix Carbet des Lycéens (2000), du Prix RFO du Livre (2002) pour la nouvelle édition de son roman, Cette Grenade dans la main du jeune nègre est-elle une arme ou un fruit ? et du Prix Médicis (2009) pour L’énigme du retour. En décembre 2013, l’écrivain devient « immortel » par son élection à l’Académie française.</p>
-    <p>L’auteur s’engage également dans le cinéma. Il transforme son roman Le Goût des jeunes filles en scénario pour le film réalisé en 2004 par John L’Écuyer. En tant que réalisateur, le premier film de Dany Laferrière, Comment conquerir l’Amerique en une nuit, fait croiser ses deux « univers » de Montréal et de Port-au-Prince ; c’est un film, dit-il, « solidement planté dans le réel et le rêve ». Ce premier long-métrage est primé au Festival des Films du Monde à Montréal en septembre 2004.</p>
-    <p>Laferrière a vécu une douzaine d’années à Miami avant de se réinstaller à Montréal en 2002. Comme il l’a expliqué à Pascale Navarro dans le cadre d’une interview publiée dans l’hebdomadaire Voir en mars 2000, le territoire de cet écrivain, ce qu’il appelle autrement son « présent », « part de Petit-Goâve et rejoint Montréal, puis passe par New York, Miami et Port-au-Prince, puis revient à Miami, et à Montréal, et tout cela se déroule ‘en Amérique’ ».</p>
-    <p>L’oeuvre de Dany Laferrière est également traduite dans de nombreuses autres langues (chinois, coréen, grec, japonais, polonais, slovène, suédois, tchèque…).</p>
+    <p>
+      <persName ana="Dany_Laferriere">
+        Dany 
+        <location ana="Laferriere">Laferrière</location>
+      </persName>
+       est né le 13 avril 1953 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Son enfance se déroule à Petit-
+      <location ana="Goave">Goâve</location>
+       avec sa grand’mère Da, source d’inspiration de son roman, L’odeur du café. Journaliste au Petit Samedi Soir, il quitte 
+      <location ana="Haiti">Haïti</location>
+       pour 
+      <location ana="Montreal">Montréal</location>
+       en 1976, à la suite de l’assassinat de son ami 
+      <persName ana="Gasner_Raymond">Gasner Raymond</persName>
+      . Du reste témoigne-t-il de cette fuite dans Le cri des oiseaux fous.
+    </p>
+    <p>
+      C’est à 
+      <location ana="Montreal">Montréal</location>
+       qu’il connaîtra le succès en 1985 avec la publication de son premier roman, Comment faire l’amour avec un nègre sans se fatiguer, texte dont 
+      <persName ana="Jacques_Benoit">Jacques Benoît</persName>
+      , cinéaste, fera une adaptation en 1989. Suivront alors neuf autres romans – cette dizaine de romans compose ce que l’auteur appelle « une autobiographie américaine ».
+    </p>
+    <p>
+      Les critiques littéraires participent de ce succès populaire : c’est ainsi que 
+      <persName ana="Dany_Laferriere">
+        Dany 
+        <location ana="Laferriere">Laferrière</location>
+      </persName>
+       est lauréat, entre autres, du Prix Carbet (1991), de la première édition du Prix Carbet des Lycéens (2000), du Prix RFO du Livre (2002) pour la nouvelle édition de son roman, Cette Grenade dans la main du jeune nègre est-elle une arme ou un fruit ? et du Prix Médicis (2009) pour L’énigme du retour. En décembre 2013, l’écrivain devient « immortel » par son élection à l’Académie française.
+    </p>
+    <p>
+      L’auteur s’engage également dans le cinéma. Il transforme son roman Le Goût des jeunes filles en scénario pour le film réalisé en 2004 par 
+      <persName ana="John_L’Ecuyer">John L’Écuyer</persName>
+      . En tant que réalisateur, le premier film de 
+      <persName ana="Dany_Laferriere">
+        Dany 
+        <location ana="Laferriere">Laferrière</location>
+      </persName>
+      , Comment conquerir l’
+      <location ana="Amerique">Amerique</location>
+       en une nuit, fait croiser ses deux « univers » de 
+      <location ana="Montreal">Montréal</location>
+       et de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       ; c’est un film, dit-il, « solidement planté dans le réel et le rêve ». Ce premier long-métrage est primé au Festival des Films du Monde à 
+      <location ana="Montreal">Montréal</location>
+       en septembre 2004.
+    </p>
+    <p>
+      <location ana="Laferriere">Laferrière</location>
+       a vécu une douzaine d’années à 
+      <location ana="Miami">Miami</location>
+       avant de se réinstaller à 
+      <location ana="Montreal">Montréal</location>
+       en 2002. Comme il l’a expliqué à 
+      <persName ana="Pascale_Navarro">Pascale Navarro</persName>
+       dans le cadre d’une interview publiée dans l’hebdomadaire Voir en 
+      <location ana="Mars">Mars</location>
+       2000, le territoire de cet écrivain, ce qu’il appelle autrement son « présent », « part de Petit-
+      <location ana="Goave">Goâve</location>
+       et rejoint 
+      <location ana="Montreal">Montréal</location>
+      , puis 
+      <location ana="Passe">Passe</location>
+       par 
+      <location ana="New_York">New York</location>
+      , 
+      <location ana="Miami">Miami</location>
+       et 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , puis revient à 
+      <location ana="Miami">Miami</location>
+      , et à 
+      <location ana="Montreal">Montréal</location>
+      , et tout cela se déroule ‘en 
+      <location ana="Amerique">Amérique</location>
+      ’ ».
+    </p>
+    <p>
+      L’oeuvre de 
+      <persName ana="Dany_Laferriere">
+        Dany 
+        <location ana="Laferriere">Laferrière</location>
+      </persName>
+       est également traduite dans de nombreuses autres langues (chinois, coréen, grec, japonais, polonais, slovène, suédois, tchèque…).
+    </p>
   </text>
 </TEI>

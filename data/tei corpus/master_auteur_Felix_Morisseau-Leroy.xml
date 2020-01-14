@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Felix_Morisseau-Leroy_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Felix_Morisseau-Leroy.xml"/>
+  <xi:include ref="biblio_Felix_Morisseau-Leroy.xml"/>
+  <xi:include ref="fiche_auteur_Felix_Morisseau-Leroy.xml"/>
+</master>

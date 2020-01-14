@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Syto_Cave_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,123 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_bio_auteur_ile_en_ile">
-    <p>Syto Cavé est né le 7 août 1944 à Jérémie (Haïti). Après les études au Petit Séminaire-Collège Saint-Martial et au lycée Pétion à Port-au-Prince, il hésite entre des études de droit et de sciences économiques. Influencé par Gabriel Imbert, Cavé s’inscrit de préférence au Conservatoire d’Arts dramatiques à Port-au-Prince. Il y reste quatre ans où il fait ses premiers pas dans les arts dramatiques. Avec Charles-Alexandre Abellard et François Latour, Cavé fonde la Société des Messagers de l’Art, un groupe qui fait des lectures de poésie et du théâtre (français et haïtiens), sur scène et à la radio.</p>
-    <p>En 1968, Syto Cavé s’exile aux États-Unis avec sa femme, l’écrivaine et peintre Yanick Jean, et s’installe à New York où il reste jusqu’en 1982. Les années newyorkaises sont marquées par plusieurs activités professionnelles. Il occupe, parmi d’autres, un poste dans le programme d’éducation bilingue de la ville. Avec d’autres Haïtiens en exil – Georges Castera, Jacques Charlier, Hervé Denis, Daniel Huttinot, Josaphat-Robert Large et Jean-Marie Roumer – il fonde la troupe de théâtre Kouidor. Pendant une dizaine d’années, cette troupe expérimentale et politisée fera des mises en scène dans diverses universités et salles (e.g., Columbia University, Brooklyn Academy of Music), jouant un répertoire allant de Brecht à Kateb Yacine, d’Ionesco à Césaire. Kouidor est présente à de nombreux festivals, en Martinique, Guadeloupe, France, au Canada et au Festival Latino-américain – participant avec, parmi d’autres, le Living Theatre, Augusto Boal et Gato Barbieri. La troupe explore de nouvelles formes de théâtre.</p>
-    <p>Syto Cavé est de retour en Haïti en 1982, rejoignant sa deuxième épouse, Régine Charlier. Avec Cayotte Bissainthe, Hervé Denis, Lyonel Trouillot et Pierre-Richard Narcisse, Cavé fonde l’Atelier des Arts et Spectacles (ADASA) à Port-au-Prince en 1983. En 1989, il fonde la compagnie théâtrale Vigie, avec Toto Bissainthe.</p>
-    <p>Syto Cavé a en son nom plus d’une douzaine de pièces pour la scène, en créole et en français. Elles continuent à être jouées en Haïti, aux États-Unis, en France, en Martinique et en Guadeloupe. En plus d’écrire et de mettre en scène ses propres pièces, il réalise des mises en scènes des œuvres d’autres auteurs, tels que Simone Schwarz-Bart (Ton beau capitaine, 1985-86), Ina Césaire (Rosanie-Soleil, 1987-88) et Claude Innocent (Ce fou d’empereur, 2000). Il vit à Pétion-Ville, où il continue à se consacrer au théâtre et à l’écriture.</p>
+    <p>
+      <persName ana="Syto_Cave">Syto Cavé</persName>
+       est né le 7 août 1944 à 
+      <location ana="Jeremie">Jérémie</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Après les études au Petit Séminaire-Collège Saint-
+      <location ana="Martial">Martial</location>
+       et au lycée 
+      <location ana="Petion">Pétion</location>
+       à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , il hésite entre des études de droit et de sciences économiques. Influencé par 
+      <persName ana="Gabriel_Imbert">Gabriel Imbert</persName>
+      , Cavé s’inscrit de préférence au Conservatoire d’Arts dramatiques à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Il y reste quatre ans où il fait ses premiers pas dans les arts dramatiques. Avec Charles-
+      <persName ana="Alexandre_Abellard">Alexandre Abellard</persName>
+       et 
+      <persName ana="Francois_Latour">François Latour</persName>
+      , Cavé fonde la Société des Messagers de l’Art, un groupe qui fait des lectures de poésie et du théâtre (français et 
+      <location ana="Haitiens">Haïtiens</location>
+      ), sur scène et à la radio.
+    </p>
+    <p>
+      En 1968, 
+      <persName ana="Syto_Cave">Syto Cavé</persName>
+       s’exile aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       avec sa femme, l’écrivaine et peintre 
+      <persName ana="Yanick_Jean">Yanick Jean</persName>
+      , et s’installe à 
+      <location ana="New_York">New York</location>
+       où il reste jusqu’en 1982. Les années newyorkaises sont marquées par plusieurs activités professionnelles. Il occupe, parmi d’autres, un poste dans le programme d’éducation bilingue de la ville. Avec d’autres 
+      <location ana="Haitiens">Haïtiens</location>
+       en exil – 
+      <persName ana="Georges_Castera">Georges Castera</persName>
+      , 
+      <persName ana="Jacques_Charlier">Jacques Charlier</persName>
+      , 
+      <persName ana="Herve_Denis">Hervé Denis</persName>
+      , 
+      <persName ana="Daniel_Huttinot">Daniel Huttinot</persName>
+      , Josaphat-
+      <persName ana="Robert_Large">Robert Large</persName>
+       et Jean-
+      <persName ana="Marie_Roumer">Marie Roumer</persName>
+       – il fonde la troupe de théâtre 
+      <location ana="Kouidor">Kouidor</location>
+      . Pendant une dizaine d’années, cette troupe expérimentale et politisée fera des mises en scène dans diverses universités et salles (e.g., Columbia University, 
+      <location ana="Brooklyn">Brooklyn</location>
+       Academy of Music), jouant un répertoire allant de Brecht à 
+      <persName ana="Kateb_Yacine">Kateb Yacine</persName>
+      , d’Ionesco à Césaire. 
+      <location ana="Kouidor">Kouidor</location>
+       est présente à de nombreux festivals, en 
+      <location ana="Martinique">Martinique</location>
+      , 
+      <location ana="Guadeloupe">Guadeloupe</location>
+      , 
+      <location ana="France">France</location>
+      , au 
+      <location ana="Canada">Canada</location>
+       et au Festival Latino-américain – participant avec, parmi d’autres, le Living Theatre, 
+      <persName ana="Augusto_Boal">Augusto Boal</persName>
+       et 
+      <persName ana="Gato_Barbieri">Gato Barbieri</persName>
+      . La troupe explore de nouvelles formes de théâtre.
+    </p>
+    <p>
+      <persName ana="Syto_Cave">Syto Cavé</persName>
+       est de retour en 
+      <location ana="Haiti">Haïti</location>
+       en 1982, rejoignant sa deuxième épouse, 
+      <persName ana="Regine_Charlier">Régine Charlier</persName>
+      . Avec 
+      <persName ana="Cayotte_Bissainthe">Cayotte Bissainthe</persName>
+      , 
+      <persName ana="Herve_Denis">Hervé Denis</persName>
+      , 
+      <persName ana="Lyonel_Trouillot">Lyonel Trouillot</persName>
+       et Pierre-
+      <persName ana="Richard_Narcisse">Richard Narcisse</persName>
+      , Cavé fonde l’Atelier des Arts et Spectacles (ADASA) à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       en 1983. En 1989, il fonde la compagnie théâtrale 
+      <location ana="Vigie">Vigie</location>
+      , avec 
+      <persName ana="Toto_Bissainthe">Toto Bissainthe</persName>
+      .
+    </p>
+    <p>
+      <persName ana="Syto_Cave">Syto Cavé</persName>
+       a en son nom plus d’une douzaine de pièces pour la scène, en créole et en français. Elles continuent à être jouées en 
+      <location ana="Haiti">Haïti</location>
+      , aux 
+      <location ana="Etats-Unis">États-Unis</location>
+      , en 
+      <location ana="France">France</location>
+      , en 
+      <location ana="Martinique">Martinique</location>
+       et en 
+      <location ana="Guadeloupe">Guadeloupe</location>
+      . En plus d’écrire et de mettre en scène ses propres pièces, il réalise des mises en scènes des œuvres d’autres auteurs, tels que 
+      <persName ana="Simone_Schwarz">Simone Schwarz</persName>
+      -Bart (Ton beau capitaine, 1985-86), Ina Césaire (
+      <location ana="Rosanie">Rosanie</location>
+      -Soleil, 1987-88) et 
+      <persName ana="Claude_Innocent">Claude Innocent</persName>
+       (Ce fou d’empereur, 2000). Il vit à 
+      <location ana="Petion">Pétion</location>
+      -Ville, où il continue à se consacrer au théâtre et à l’écriture.
+    </p>
   </text>
 </TEI>

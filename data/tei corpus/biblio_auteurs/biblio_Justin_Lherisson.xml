@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Justin_Lherisson_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Justin Lhérisson</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/lherisson/" xml:id="Justin_Lherisson_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item> La famille des Pitite-Caille. (Les fortunes de chez nous) Port-au-Prince: Héraux, 1905; Paris: Firmin-Didot, 1929; Port-au-Prince: Imprimerie des Antilles, 1963; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Zoune chez sa ninnaine: fan’m gain sept sauts pou li passé. Port-au-Prince: A.A. Héraux, 1906, Port-au-Prince: Imprimerie Dorsinville, 1953. Zoune chez sa ninnaine. Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Les œuvres romanesques de Justin Lhérisson. (La Famille des Pitite-Caille et Zoune chez sa ninnaine). Paris: Éditions Caribéennes, 1978.</item>
+      </list>
+      <list subtype="sur justin lhérisson">
+        <item>Anglade, Georges. « Fiction et subversion dans la lodyans ». Leurs jupons dépassent. Montréal: Lanctôt, 2004: 129-131.</item>
+        <item>Cinéas, Jean-Baptiste. « Preface ». Le choc en retour  (roman). Port-au-Prince: Deschamps, 1948, 1978: i-iii.</item>
+        <item>Dominique, Max. « Du conte et de l’audience ». Boutures  2.1 (septembre 2001-février 2002): 37-40.</item>
+        <item>Hibbert, Fernand. « Introduction ». Séna.  (1905) Port-au-Prince: Deschamps, 1988: 15.</item>
+        <item>Laroche, Maximilien. « Tire kont ak bay lodyans ». L’image comme écho, Montréal: Nouvelle Optique, 1978: 21-32.</item>
+        <item>Laroche, Maximilien. « Gen tire kont e papa tirè kont lan ». TEKE.  Port-au-Prince: Éditions Mémoire, 2000: 40-54.</item>
+        <item>Lévy, Joseph J. « L’espace littéraire ». Entretiens avec Georges Anglade, l’espace d’une génération. Montréal: Liber, 2004: 199-247.</item>
+        <item>Pompilus, Pradel. « Permanence de Justin Lhérisson ». Conjonction 143 (mai 1979).</item>
+        <item>Trouillot, Lyonel. « Notes sur les textes de Maurice Sixto ». Langaj (Cahiers de l »Association des écrivains haïtiens) 1.1 (décembre 1979): 30-34.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/justin-lherisson-les-parents-de-zoune/">Les Parents de Zoune</item>
+        <item ref="http://homepage.mac.com/chemla/fic_doc/pititecaille.html">La Famille des Pitite-Caille</item>
+      </list>
+    </div>
+  </div>
+</TEI>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Rafael_Lucas_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Rafael_Lucas.xml"/>
+  <xi:include ref="biblio_Rafael_Lucas.xml"/>
+  <xi:include ref="fiche_auteur_Rafael_Lucas.xml"/>
+</master>

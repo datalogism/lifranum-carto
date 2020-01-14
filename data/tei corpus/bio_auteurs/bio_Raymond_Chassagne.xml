@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Raymond_Chassagne_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,18 +12,118 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/chassagne/" xml:id="Raymond_Chassagne_bio_auteur_ile_en_ile">
-    <p>Raymond Chassagne naît le 13 février 1924 à Jérémie (Haïti). Il fait des études secondaires au Collège de Port-au-Prince Henri Odéide. En mai 1957, il démissionne de l’Armée d’Haïti et part pour l’exil après un procès politique et un emprisonnement de neuf mois, dans les prisons du dictateur François Duvalier.</p>
-    <p>Chassagne séjourne aux États-Unis de 1959 à 1966, et ensuite au Canada où il obtient un diplôme de maîtrise à l’université McGill en 1975, avec un mémoire portant sur l’œuvre poétique d’Aimé Césaire. Il poursuit ses études à l’université de Montréal et obtient, avec une thèse sur l’œuvre d’Édouard Glissant en 1979, un doctorat de lettres. Il enseigne la littérature au Québec jusqu’en 1979 quand il rentre en Haïti.</p>
-    <p>Depuis son retour en Haïti, Chassagne dispense des cours de littérature et de méthodologie à l’Université d’État, collabore à différentes revues et anime des émissions de radio et de télévision. En compagnie d’Anthony Phelps et de Syto Cavé, il participe aux soirées littéraires du club Batofou.</p>
-    <p>Depuis 1994, il s’installe à Port-Salut au sud d’Haïti où il fonde une bibliothèque, encadre les professeurs et prend une part active à la vie communautaire du village. Dans ce lieu de retranchement, il entame un véritable travail d’écriture et de réflexions.</p>
-    <p>Il revient vivre à Montréal en 2007.</p>
-    <p>L’œuvre de Raymond Chassagne couvre aussi bien la prose analytique que l’écriture poétique. Le point nodal de son œuvre est la poignance de l’aventure haïtienne, qu’il définit comme un « parcours chargé de défis : la dénaturation de la création d’un pays, les subséquences mythiques et les difficultés rencontrées dans la construction d’une véritable citoyenneté ».</p>
-    <p>La poétique de Chassagne – tout comme ses réflexions – vise à l’avènement d’un vivre-ensemble en Haïti.</p>
-    <p>Le poète, essayiste et professeur Raymond Chassagne s’éteint à Longueuil (Québec) le 27 mai 2013 à l’âge de 89 ans. Le service des funérailles aura lieu samedi le 1er juin à Saint-Lambert. Dans les liens ci-dessous, nous rajouterons des références aux hommages et témoignages de la presse ; vous en trouverez déjà sur la page Facebook des éditions Mémoire d’encrier. Les liens vous renvoient également à la vidéo de Boris Chassagne (1992) lisant trois poèmes, et aux enregistrements sonores : cinq poèmes de Raymond Chassagne dits par Anthony Phelps et un poème dit par Boris Chassagne, le fils du regretté poète.</p>
+    <p>
+      <persName ana="Raymond_Chassagne">
+        Raymond 
+        <location ana="Chassagne">Chassagne</location>
+      </persName>
+       naît le 13 février 1924 à 
+      <location ana="Jeremie">Jérémie</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Il fait des études secondaires au Collège de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       
+      <persName ana="Henri_Odeide">Henri Odéide</persName>
+      . En mai 1957, il démissionne de l’Armée d’
+      <location ana="Haiti">Haïti</location>
+       et part pour l’exil après un procès politique et un emprisonnement de neuf mois, dans les prisons du dictateur 
+      <persName ana="Francois_Duvalier">François Duvalier</persName>
+      .
+    </p>
+    <p>
+      <location ana="Chassagne">Chassagne</location>
+       séjourne aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       de 1959 à 1966, et ensuite au 
+      <location ana="Canada">Canada</location>
+       où il obtient un diplôme de 
+      <location ana="Maitrise">Maîtrise</location>
+       à l’université McGill en 1975, avec un mémoire portant sur l’œuvre poétique d’
+      <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+      . Il poursuit ses études à l’université de 
+      <location ana="Montreal">Montréal</location>
+       et obtient, avec une thèse sur l’œuvre d’
+      <persName ana="Edouard_Glissant">Édouard Glissant</persName>
+       en 1979, un doctorat de lettres. Il enseigne la littérature au 
+      <location ana="Quebec">Québec</location>
+       jusqu’en 1979 quand il rentre en 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      Depuis son retour en 
+      <location ana="Haiti">Haïti</location>
+      , 
+      <location ana="Chassagne">Chassagne</location>
+       dispense des cours de littérature et de méthodologie à l’Université d’État, collabore à différentes revues et anime des émissions de radio et de télévision. En compagnie d’
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+       et de 
+      <persName ana="Syto_Cave">Syto Cavé</persName>
+      , il participe aux soirées littéraires du club Batofou.
+    </p>
+    <p>
+      Depuis 1994, il s’installe à Port-Salut au sud d’
+      <location ana="Haiti">Haïti</location>
+       où il fonde une bibliothèque, encadre les professeurs et prend une part active à la vie communautaire du village. Dans ce lieu de retranchement, il entame un véritable travail d’écriture et de réflexions.
+    </p>
+    <p>
+      Il revient vivre à 
+      <location ana="Montreal">Montréal</location>
+       en 2007.
+    </p>
+    <p>
+      L’œuvre de 
+      <persName ana="Raymond_Chassagne">
+        Raymond 
+        <location ana="Chassagne">Chassagne</location>
+      </persName>
+       couvre aussi bien la prose analytique que l’écriture poétique. Le point nodal de son œuvre est la poignance de l’aventure 
+      <location ana="Haitienne">Haïtienne</location>
+      , qu’il définit comme un « parcours chargé de défis : la dénaturation de la création d’un pays, les subséquences mythiques et les difficultés rencontrées dans la construction d’une véritable citoyenneté ».
+    </p>
+    <p>
+      La poétique de 
+      <location ana="Chassagne">Chassagne</location>
+       – tout comme ses réflexions – vise à l’avènement d’un vivre-ensemble en 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      Le poète, essayiste et professeur 
+      <persName ana="Raymond_Chassagne">
+        Raymond 
+        <location ana="Chassagne">Chassagne</location>
+      </persName>
+       s’éteint à 
+      <location ana="Longueuil">Longueuil</location>
+       (
+      <location ana="Quebec">Québec</location>
+      ) le 27 mai 2013 à l’âge de 89 ans. Le service des funérailles aura lieu samedi le 1er juin à Saint-Lambert. Dans les liens ci-dessous, nous rajouterons des références aux hommages et témoignages de 
+      <location ana="La_Presse">La Presse</location>
+       ; vous en trouverez déjà sur la page Facebook des éditions Mémoire d’encrier. Les liens vous renvoient également à la vidéo de 
+      <persName ana="Boris_Chassagne">
+        Boris 
+        <location ana="Chassagne">Chassagne</location>
+      </persName>
+       (1992) lisant trois poèmes, et aux enregistrements sonores : cinq poèmes de 
+      <persName ana="Raymond_Chassagne">
+        Raymond 
+        <location ana="Chassagne">Chassagne</location>
+      </persName>
+       dits par 
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+       et un poème dit par 
+      <persName ana="Boris_Chassagne">
+        Boris 
+        <location ana="Chassagne">Chassagne</location>
+      </persName>
+      , le fils du regretté poète.
+    </p>
   </text>
 </TEI>

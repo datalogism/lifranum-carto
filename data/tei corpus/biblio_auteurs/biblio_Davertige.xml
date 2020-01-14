@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Davertige_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Davertige</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/davertige/" xml:id="Davertige_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poèmes">
+        <item>Bientôt en ligne : « Pétion-Ville en Blanc et noir », « Prologue », « À la recherche de ma croyance ».</item>
+      </list>
+      <list subtype="poésie">
+        <item>Idem. Port-au-Prince: Imprimerie Théodore, 1962.</item>
+        <item>Idem et autres poèmes. Paris: Seghers, 1964.</item>
+        <item>Idem. Montréal: Nouvelle Optique, 1982.</item>
+        <item>Anthologie secrète. (4e édition [d’Idem] revue, corrigée et augmentée). Montréal: Mémoire d’encrier, 2003.</item>
+      </list>
+      <list subtype="poésie parue dans des revues">
+        <item>« En ton honneur » (extraits). Semences 2 (1962).
+</item>
+        <item>« Ma faim et mes flammes ». Rond-Point 12 (décembre 1963) : 38-40.</item>
+        <item>« Lentement », « Condamné », « Princesse de Pierre ». Présence Africaine 57 (1966): 214-216.</item>
+        <item>« Le passager et les voyageurs, Poème à la manière d’un article de journal objectif ». Nouvelle Optique 1.4 (décembre 1971): 88-96 (poème extrait de Ibidem et Idem, volume à paraître, annonçait-on). Ce poème a été republié dans Tel Quel 51 (automne 1972): 77-89.</item>
+        <item>« Haïti littéraire ». Semences (Port-au-Prince, revue mensuelle) 2.1 (mai 1962): 23-24.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Quatre Poètes d’Haïti: Davertige, Legagneur, Morisseau, Phelps. Poésie dite par Anthony Phelps. (Poèmes de Davertige dits par Émile Ollivier). Montréal: Les Disques Coumbite et Les Productions Caliban, 1982.</item>
+        <item>Les beaux poèmes d’amour d’Haïti-littéraire dits par Anthony Phelps (Davertige, Legagneur, Morisseau, Philoctète, Phelps). CD. Pétion-Ville: Les Disques Coumbite et Les Productions Caliban, 1997.</item>
+        <item>« Elle avait des yeux d’outre-mer » et « En ton honneur », poèmes de Davertige dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="sur l’oeuvre de davertige">
+        <item>Adolphe, Armand. « Entrevue avec Davertige ». Le Nouvelliste (17 février 1962).</item>
+        <item>Adolphe, Armand. « Alain Bosquet dans le Monde de nos jeunes poètes, Davertige (Villard Denis) auteur de Idem ». Le Nouvelliste (6 septembre 1963).</item>
+        <item>Audet, Jacques. « Nom et identité dans Idem de Davertige ». Relire l’histoire littéraire et le littéraire haïtiens. Port-au-Prince: Presses Nationales d’Haïti, 2007: 123-147.</item>
+        <item>Bibliophile. « Qui êtes vous Villard Denis ? ». Conjonction 92-93 (1964).</item>
+        <item>Crosley, Bernadette Carré. « La modernité créole chez Davertige ». Journal of Haitian Studies 3/4 (1997-1998): 110-123.</item>
+        <item>Crosley, Bernadette Carré. Davertige, poète haïtien, poète universel. Paris: l’Harmattan, 2003.</item>
+        <item>Dominique, Max. « Enfances », études sur Davertige. Esquisses Critiques. Montréal / Port-au-Prince: CIDHICA / Éditions Mémoire, 1999.</item>
+        <item>Duquella, Frédéric Tardieu. « Mon unique réplique à Haïti Littéraire ». Le Nouvelliste (16 septembre 1963).</item>
+        <item>Eugène, Jean. « Lettre à Villard Denis ». Le Nouvelliste (6 septembre 1963).</item>
+        <item>Gaillard, Roger. « Que deviendrez-vous, Davertige ? ». Le Matin (10 février 1962).</item>
+        <item>Gouraige, Ghislain, Maximilien Laroche, Maurice Lubin, et al. Littérature et société en Haïti: Davertige, Philoctète, Phelps. Montréal: CIDIHCA, 1987.</item>
+        <item>« Haïti Littéraire se présente… ». Rond Point 12 (décembre 1963).</item>
+        <item>Laroche, Maximilien. « Folie, la tendance de Marie Chauvet ». Québec: GRELCA, Université Laval, 1984: 64-69.</item>
+        <item>Laroche, Maximilien. « Idem de Villard Denis : Le vertige d’une métamorphose sans identité ». Littérature et
+Société en Haïti. Ghislain Gouraige, Maximilien Laroche et Claude Souffrant, éds. Montréal: CIDHICA, 1987: 7-26.</item>
+        <item>Lerebours, Michel-Philippe. « Davertige » (extrait de Haïti et ses peintres). Haïti Littéraire et Artistique 6 (janvier-février 1988): 12-14.</item>
+        <item>Legagneur, Serge. « Préface ». Idem de Davertige. Port-au-Prince: Imprimerie Théodore, 1962: 5-6.</item>
+        <item>Martelly, Stéphane. Les jeux du dissemblable: folie, marge et féminin en littérature haïtienne contemporaine. Montréal: Nota Bene, 2016.</item>
+        <item>Philoctète, Raymond. « Villard Denis : Un coup d’essai, un coup de maître ». Haïti Progrès (décembre 1986).</item>
+        <item>Philoctète, Raymond. « Trois Poètes de Haïti Littéraire ». Littérature et Société en Haïti. Claude Souffrant et al., éds. Port-au-Prince: Deschamps, 1991: 234-246.</item>
+        <item>Thadal, Roland. « Davertige à cœur ouvert et à bâtons rompus ». Haïti Littéraire et Artistique 6 (janvier-février 1988).</item>
+        <item>Thénor, Auguste. « Points de vues littéraires » (mise au point d’Haïti littéraire) et Frédéric Tardieu Duquella, « Mon unique réplique à Haïti Littéraire ». Le Nouvelliste (16 septembre 1963).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/davertige-anacaona/">Anacaona</item>
+        <item ref="http://ile-en-ile.org/davertige-la-beaute-et-lamour-comme-inquietude/">La beauté et l’amour comme inquiétude</item>
+        <item ref="http://ile-en-ile.org/davertige-lile-dechainee/">L’île déchaînée</item>
+        <item ref="http://ile-en-ile.org/davertige-la-legende-de-villard-denis/">La légende de Villard Denis</item>
+        <item ref="http://ile-en-ile.org/davertige-omabarigore/">Omabarigore</item>
+        <item ref="http://ile-en-ile.org/davertige-aluminium-fantome/">Aluminium fantôme</item>
+        <item ref="http://ile-en-ile.org/davertige-preface-a-la-premiere-edition-didem/">Préface à la première édition d’Idem</item>
+        <item ref="http://ile-en-ile.org/davertige-un-seisme-davertige/">Un séisme : Davertige</item>
+        <item ref="http://ile-en-ile.org/davertige-note-de-lediteur/">Note de l’éditeur</item>
+        <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+        <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+        <item ref="http://www.radio-canada.ca/url.asp?/refuge/reportages.asp?id=1169">Davertige: la destinée vertigineuse d’un poète en exil</item>
+        <item ref="http://www.dailymotion.com/video/xhb7s3_davertige_creation">Davertige</item>
+      </list>
+    </div>
+  </div>
+</TEI>

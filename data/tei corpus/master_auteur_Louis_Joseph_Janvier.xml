@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Louis_Joseph_Janvier_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Louis_Joseph_Janvier.xml"/>
+  <xi:include ref="biblio_Louis_Joseph_Janvier.xml"/>
+  <xi:include ref="fiche_auteur_Louis_Joseph_Janvier.xml"/>
+</master>

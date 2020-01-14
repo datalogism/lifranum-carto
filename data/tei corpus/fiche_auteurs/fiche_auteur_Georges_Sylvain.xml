@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Georges_Sylvain_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Georges Sylvain</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Georges_Sylvain">
+        <surname source="bnf">Georges</surname>
+        <forename source="bnf">Sylvain</forename>
+        <idno type="BNF">
+          cb11088759g#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb11088759g#about"/>
+        </idno>
+        <idno type="VIAF">
+          71383533
+          <g ref="http://viaf.org/viaf/71383533"/>
+        </idno>
+        <idno type="VIAF">
+          Georges_Sylvain
+          <g ref="http://fr.dbpedia.org/resource/Georges_Sylvain"/>
+        </idno>
+        <birth source="viaf">
+          <date>1950</date>
+        </birth>
+        <death source="ile_en_ile_auto">
+          <date>1925-01-02 00:00:00+00:00</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/fr</language>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

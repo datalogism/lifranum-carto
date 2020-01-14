@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Massillon_Coicou_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,53 +12,55 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_biblio_auteur_ile_en_ile">
-    <list subtype="sur île en île">
-      <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-le-supplice-du-noir/">Le supplice du noir</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-vertieres/">Vertières</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-yankisme/">Yankisme</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-heros/">Trois sonnets</item>
-      <item ref="http://ile-en-ile.org/firmin/">Anténor Firmin</item>
-    </list>
-    <list subtype="ailleurs sur le web">
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55537">L’exécution du poète</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55153&amp;PubDate=2008-03-08">Une lettre de Massillon Coicou</item>
-      <item ref="http://www.erudit.org/revue/etudlitt/1980/v13/n2/500517ar.pdf">Les États-Unis et les Américains dans les lettres haïtiennes</item>
-      <item ref="http://hometown.aol.com/mit2haiti/MasiyonKwakou.htm">Massillon Coicou / Masiyon Kwakou (1867-1908)</item>
-      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=626">Haïti ou la négritude avant la lettre</item>
-    </list>
-    <list subtype="poésie">
-      <item>Poésies nationales (première série). Paris: V. Goupy et Jourdan, 1892; Port-au-Prince: Impr. Panorama, 197-?; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
-      <item>Passions, primes vers d’amour et variations sur de vieux thèmes. Paris: Dujarric, 1903.</item>
-      <item>Impressions; rêves des jours de trêve (de la vingtième à la trentième année). Paris: Dujarric, 1903.</item>
-    </list>
-    <list subtype="essais">
-      <item>Le genie français et l’âme haïtienne. Paris: Librairie de la Renaissance Latine, 1904.</item>
-    </list>
-    <list subtype="théâtre">
-      <item>Toussaint au Fort de Joux.* 1896.</item>
-      <item>L’oracle (poème dramatique haïtien). Paris: Ateliers haïtiens, 1901.</item>
-      <item>Liberté.* 1904.</item>
-      <item>L’Alphabet.* 1905.</item>
-      <item>L’Empereur Dessalines (drame en deux actes en vers). [Le deuxième acte de cette pièce, perdu, n’a jamais été publié.] Port-au-Prince: E. Chenet, 1907;Port-au-Prince: Fardin, 1988.</item>
-    </list>
-    <list subtype="roman">
-      <item>La Noire.* 1905.</item>
-    </list>
-    <list subtype="autres éditions">
-      <item>Poésies choisies. Port-au-Prince: Editions Christophe, 1994.</item>
-      <item>Textes choisis, avec une étude biographique, historique et littéraire, des notes, des jugements critiques, des questions et des sujets de dissertation par Jacquelin Dolcé. Port-au-Prince: Choucoune, 2000.* sans informations sur une publication.</item>
-    </list>
-    <list subtype="sur massillon coicou">
-      <item>Gaillard, Roger. La République exterminatrice, Vol V: Le Grand fauve (1902-1908), Massillon Coicou, le poète assassiné. Port-au-Prince: Le Natal, 1995.</item>
-      <item>Narcisse, J.-P. Richard. Dans l’ombre d’une exécution: toute l’enquête sur l’affaire Coicou. New York: Haitian Book Centre, 2010.</item>
-      <item>Voir aussi les liens ci-dessous.</item>
-    </list>
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Poésies nationales (première série). Paris: V. Goupy et Jourdan, 1892; Port-au-Prince: Impr. Panorama, 197-?; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Passions, primes vers d’amour et variations sur de vieux thèmes. Paris: Dujarric, 1903.</item>
+        <item>Impressions; rêves des jours de trêve (de la vingtième à la trentième année). Paris: Dujarric, 1903.</item>
+      </list>
+      <list subtype="essais">
+        <item>Le genie français et l’âme haïtienne. Paris: Librairie de la Renaissance Latine, 1904.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Toussaint au Fort de Joux.* 1896.</item>
+        <item>L’oracle (poème dramatique haïtien). Paris: Ateliers haïtiens, 1901.</item>
+        <item>Liberté.* 1904.</item>
+        <item>L’Alphabet.* 1905.</item>
+        <item>L’Empereur Dessalines (drame en deux actes en vers). [Le deuxième acte de cette pièce, perdu, n’a jamais été publié.] Port-au-Prince: E. Chenet, 1907;Port-au-Prince: Fardin, 1988.</item>
+      </list>
+      <list subtype="roman">
+        <item>La Noire.* 1905.</item>
+      </list>
+      <list subtype="autres éditions">
+        <item>Poésies choisies. Port-au-Prince: Editions Christophe, 1994.</item>
+        <item>Textes choisis, avec une étude biographique, historique et littéraire, des notes, des jugements critiques, des questions et des sujets de dissertation par Jacquelin Dolcé. Port-au-Prince: Choucoune, 2000.* sans informations sur une publication.</item>
+      </list>
+      <list subtype="sur massillon coicou">
+        <item>Gaillard, Roger. La République exterminatrice, Vol V: Le Grand fauve (1902-1908), Massillon Coicou, le poète assassiné. Port-au-Prince: Le Natal, 1995.</item>
+        <item>Narcisse, J.-P. Richard. Dans l’ombre d’une exécution: toute l’enquête sur l’affaire Coicou. New York: Haitian Book Centre, 2010.</item>
+        <item>Voir aussi les liens ci-dessous.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
+        <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
+        <item ref="http://ile-en-ile.org/massillon-coicou-le-supplice-du-noir/">Le supplice du noir</item>
+        <item ref="http://ile-en-ile.org/massillon-coicou-vertieres/">Vertières</item>
+        <item ref="http://ile-en-ile.org/massillon-coicou-yankisme/">Yankisme</item>
+        <item ref="http://ile-en-ile.org/massillon-coicou-heros/">Trois sonnets</item>
+        <item ref="http://ile-en-ile.org/firmin/">Anténor Firmin</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55537">L’exécution du poète</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55153&amp;PubDate=2008-03-08">Une lettre de Massillon Coicou</item>
+        <item ref="http://www.erudit.org/revue/etudlitt/1980/v13/n2/500517ar.pdf">Les États-Unis et les Américains dans les lettres haïtiennes</item>
+        <item ref="http://hometown.aol.com/mit2haiti/MasiyonKwakou.htm">Massillon Coicou / Masiyon Kwakou (1867-1908)</item>
+        <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=626">Haïti ou la négritude avant la lettre</item>
+      </list>
+    </div>
   </div>
 </TEI>

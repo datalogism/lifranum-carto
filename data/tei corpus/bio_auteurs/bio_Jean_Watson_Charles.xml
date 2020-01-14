@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean_Watson_Charles_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,43 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jean-watson-charles.29801.html" xml:id="Jean_Watson_Charles_bio_auteur_spla">
-    <p>Né en Haiti, Jean Watson Charles, poète et écrivain, a fait des études de Lettres Modernes. Il est l'un des coordonnateurs de la revue Legs et Littérature. Il a publié trois recueils de poésie et participé à plusieurs revues et ouvrages collectifs.ThèmesMémoire, Exil, Histoire.BibliographiePoésie- Le chant des marées, préfacé par Arnaud Delcorte, Ed. Unicité, Paris, 2018.-Lenglensou, préfacé par Josaphat-Robert Large, Ed. Perles des Antilles, USA, 2012.-Pour que la terre s'en souvienne, préfacé, par James Pubien, Ed. Bas de Page, Haiti, 2010.Ouvrages Collectifs- Des maux et des rues, Ed. Legs et Littérature, Haiti, 2014.Athologies-Le Cahier du sens, Ed. Le nouvel Athanor, Paris, 2017.-Anthologie des Jeunes poètes Haitiens et Dominicains, Haiti, 2016.Revues-Si loin, Revue DO. KRE.I.S, Haiti, 2017.-Littérature et plagiat, Revue Legs et Littérature, Haiti,Juillet 2014.</p>
+    <p>
+      Né en 
+      <location ana="Haiti">Haiti</location>
+      , 
+      <persName ana="Jean_Watson_Charles">Jean Watson Charles</persName>
+      , poète et écrivain, a fait des études de 
+      <location ana="Lettres_Modernes">Lettres Modernes</location>
+      . Il est l'un des coordonnateurs de la revue Legs et Littérature. Il a publié trois recueils de poésie et participé à plusieurs revues et ouvrages collectifs.ThèmesMémoire, Exil, Histoire.BibliographiePoésie- Le chant des marées, préfacé par Arnaud Delcorte, Ed. Unicité, 
+      <location ana="Paris">Paris</location>
+      , 2018.-Lenglensou, préfacé par Josaphat-
+      <persName ana="Robert_Large">Robert Large</persName>
+      , Ed. Perles des 
+      <location ana="Antilles">Antilles</location>
+      , 
+      <location ana="Usa">USA</location>
+      , 2012.-Pour que la 
+      <location ana="Terre">Terre</location>
+       s'en souvienne, préfacé, par 
+      <persName ana="James_Pubien">James Pubien</persName>
+      , Ed. Bas de Page, 
+      <location ana="Haiti">Haiti</location>
+      , 2010.Ouvrages Collectifs- Des maux et des rues, Ed. Legs et Littérature, 
+      <location ana="Haiti">Haiti</location>
+      , 2014.Athologies-Le Cahier du sens, Ed. Le nouvel Athanor, 
+      <location ana="Paris">Paris</location>
+      , 2017.-Anthologie des Jeunes poètes Haitiens et Dominicains, 
+      <location ana="Haiti">Haiti</location>
+      , 2016.Revues-Si loin, Revue DO. KRE.I.S, 
+      <location ana="Haiti">Haiti</location>
+      , 2017.-Littérature et plagiat, Revue Legs et Littérature, 
+      <location ana="Haiti">Haiti</location>
+      ,Juillet 2014.
+    </p>
   </text>
 </TEI>

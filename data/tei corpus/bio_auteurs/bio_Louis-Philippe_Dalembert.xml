@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Louis-Philippe_Dalembert_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,13 +12,65 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/dalembert/" xml:id="Louis-Philippe_Dalembert_bio_auteur_ile_en_ile">
-    <p>Louis-Philippe Dalembert est né le 8 décembre 1962 à Port-au-Prince (Haïti). Grand voyageur (les Amériques du Nord et du Sud, les Caraïbes, l’Afrique du Nord et l’Afrique noire, le Moyen-Orient, l’Europe), ses adresses se suivent et ne se ressemblent pas. Cet homme-tortue, ce vagabond comme il se définit lui-même, a vécu une dizaine d’années à Paris, où il a réalisé ses études universitaires et exercé la profession de journaliste. Séjourne une première fois à Rome en 1994/95, en tant que pensionnaire de la très convoitée Villa Médicis, ville où il aura vécu en tout six ans. Après un bref retour au pays natal (1996), un voyage de plusieurs mois dans les Andes l’aide à s’éloigner de la politique. Détenteur d’une bourse de résidence UNESCO-Aschberg, il séjourne longuement à Jérusalem, d’où il visite pour la seconde fois Israël, la Palestine, l’Egypte, la Jordanie, une partie du monde qui influence beaucoup sa poésie.</p>
-    <p>Dalembert élabore, aussi bien en poésie qu’en prose, une œuvre fortement marquée par les thématiques du vagabondage, concept qu’il préfère à celui de l’errance, et de l’enfance. Les deux thématiques semblent liées dans l’esprit de l’auteur pour qui on passe de l’enfance à l’âge adulte comme on émigre d’un pays à un autre. La thématique du vagabondage surtout est ainsi présente dès ses tout premiers livres; même si l’enfance n’est pas de reste. Une troisième thématique récurrente chez Dalembert: la Bible, mieux l’Ancien Testament, trace d’une éducation familiale très religieuse placée sous le signe du shabbat.</p>
-    <p>Louis-Philippe Dalembert est par ailleurs diplômé de l’Ecole normale supérieure de Port-au-Prince, diplômé de l’Ecole supérieure de journalisme de Paris et auteur d’une thèse de doctorat en littérature comparée sur l’écrivain cubain Alejo Carpentier (université de Paris III-Sorbonne Nouvelle).</p>
+    <p>
+      Louis-
+      <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+       est né le 8 décembre 1962 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Grand voyageur (les 
+      <location ana="Ameriques_Du_Nord">Amériques du Nord</location>
+       et du Sud, les 
+      <location ana="Caraibes">Caraïbes</location>
+      , l’
+      <location ana="Afrique">Afrique</location>
+       du Nord et l’
+      <location ana="Afrique">Afrique</location>
+       noire, le Moyen-Orient, 
+      <location ana="L’Europe">l’Europe</location>
+      ), ses adresses se suivent et ne se ressemblent pas. Cet homme-tortue, ce vagabond comme il se définit lui-même, a vécu une dizaine d’années à 
+      <location ana="Paris">Paris</location>
+      , où il a réalisé ses études universitaires et exercé la profession de journaliste. Séjourne une première fois à 
+      <location ana="Rome">Rome</location>
+       en 1994/95, en tant que pensionnaire de la très convoitée Villa Médicis, ville où il aura vécu en tout six ans. Après un bref retour au pays natal (1996), un voyage de plusieurs mois dans les 
+      <location ana="Andes">Andes</location>
+       l’aide à s’éloigner de la politique. Détenteur d’une bourse de résidence UNESCO-Aschberg, il séjourne longuement à 
+      <location ana="Jerusalem">Jérusalem</location>
+      , d’où il visite pour la seconde fois 
+      <location ana="Israel">Israël</location>
+      , la 
+      <location ana="Palestine">Palestine</location>
+      , l’
+      <location ana="Egypte">Egypte</location>
+      , la 
+      <location ana="Jordanie">Jordanie</location>
+      , une partie du monde qui influence beaucoup sa poésie.
+    </p>
+    <p>
+      Dalembert élabore, aussi bien en poésie qu’en prose, une œuvre fortement marquée par les thématiques du vagabondage, concept qu’il préfère à celui de l’errance, et de l’enfance. Les deux thématiques semblent liées dans l’esprit de l’auteur pour qui on 
+      <location ana="Passe">Passe</location>
+       de l’enfance à l’âge adulte comme on émigre d’un pays à un autre. La thématique du vagabondage surtout est ainsi présente dès ses tout premiers livres; même si l’enfance n’est pas de reste. Une troisième thématique récurrente chez Dalembert: la Bible, mieux l’Ancien Testament, trace d’une éducation familiale très religieuse placée sous le signe du shabbat.
+    </p>
+    <p>
+      Louis-
+      <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+       est par ailleurs diplômé de l’Ecole normale supérieure de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , diplômé de l’Ecole supérieure de journalisme de 
+      <location ana="Paris">Paris</location>
+       et auteur d’une thèse de doctorat en littérature comparée sur l’écrivain cubain 
+      <persName ana="Alejo_Carpentier">Alejo Carpentier</persName>
+       (université de 
+      <location ana="Paris">Paris</location>
+       III-
+      <persName ana="Sorbonne_Nouvelle">Sorbonne Nouvelle</persName>
+      ).
+    </p>
   </text>
 </TEI>

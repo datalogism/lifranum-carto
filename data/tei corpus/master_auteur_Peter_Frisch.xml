@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Peter_Frisch_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Peter_Frisch.xml"/>
+  <xi:include ref="fiche_auteur_Peter_Frisch.xml"/>
+</master>

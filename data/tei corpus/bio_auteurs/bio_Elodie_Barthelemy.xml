@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Elodie_Barthelemy_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,29 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.elodie-barthelemy.4122.html" xml:id="Elodie_Barthelemy_bio_auteur_spla">
-    <p>Élodie Barthélemy est née en 1965 en Colombie, d'origine franco-haïtienne. Elle a étudié à l'École supérieure des Beaux-Arts de Paris dont elle est sortie diplomée avec les félicitations du jury à l'unanimité en 1991. Elle a alors reçu une allocation de recherche pour un séjour d'études sur l'art textile maya en Amérique centrale pendant trois mois. Elle développe un travail au champ très ouvert : dessin, peinture, gravure, tissus appliqués, scénographies... dans lesquels on pressent un rapport intime aux matériaux et aux objets. Nombre de ses expositions font intervenir le visiteur et proposent une rencontre.Ses ?uvres ont été exposées en France, en Haïti, en Guadeloupe, et en Amérique du Sud. Elle a reçu le deuxième prix de la Ville de Saint-Quentin à la quatrième Biennale Internationnale du Pastel. Aujourd'hui, elle vit et travaille à Paris et dans l'Oise. Bibliographie : Aux éditions Vents d'ailleursUne veste pour rêver, Cécile Gagnon, ill. d'Élodie Barthélémy, coll. &quot;Les petites histoires du monde&quot;, Vents d'ailleurs, 2001.</p>
+    <p>
+      Élodie Barthélemy est née en 1965 en Colombie, d'origine franco-
+      <location ana="Haitienne">Haïtienne</location>
+      . Elle a étudié à l'École supérieure des Beaux-Arts de 
+      <location ana="Paris">Paris</location>
+       dont elle est sortie diplomée avec les félicitations du jury à l'unanimité en 1991. Elle a alors reçu une allocation de recherche pour un séjour d'études sur l'art textile maya en 
+      <location ana="Amerique_Centrale">Amérique centrale</location>
+       pendant trois mois. Elle développe un travail au champ très ouvert : dessin, peinture, gravure, tissus appliqués, scénographies... dans lesquels on pressent un rapport intime aux matériaux et aux objets. Nombre de ses expositions font intervenir le visiteur et proposent une rencontre.Ses ?uvres ont été exposées en 
+      <location ana="France">France</location>
+      , en 
+      <location ana="Haiti">Haïti</location>
+      , en 
+      <location ana="Guadeloupe">Guadeloupe</location>
+      , et en 
+      <location ana="Amerique_Du_Sud">Amérique du Sud</location>
+      . Elle a reçu le deuxième prix de la Ville de Saint-Quentin à la quatrième Biennale Internationnale du Pastel. Aujourd'hui, elle vit et travaille à 
+      <location ana="Paris">Paris</location>
+       et dans l'Oise. Bibliographie : Aux éditions Vents d'ailleursUne veste pour rêver, Cécile Gagnon, ill. d'Élodie Barthélémy, coll. &quot;Les petites histoires du monde&quot;, Vents d'ailleurs, 2001.
+    </p>
   </text>
 </TEI>

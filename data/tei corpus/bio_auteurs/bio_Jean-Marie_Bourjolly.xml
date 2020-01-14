@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean-Marie_Bourjolly_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,69 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean-Marie_Bourjolly_bio_auteur_ile_en_ile">
-    <p>Jean-Marie Bourjolly est né à Port-au-Prince, Haïti. Après des études secondaires au Petit-Séminaire Collège Saint-Martial et une année à la Faculté des sciences et à l’École normale supérieure à Port-au-Prince, il part étudier les mathématiques à Toulouse. Il étudie ensuite la recherche opérationnelle à l’Université de Montréal et à l’Université de Waterloo (Ontario), où il obtient un doctorat en combinatoire et optimisation.</p>
-    <p>Jean-Marie Bourjolly est actuellement professeur titulaire de logistique à l’École des sciences de la gestion de l’Université du Québec à Montréal (UQÀM).</p>
-    <p>Dernier appel  est sa première œuvre de fiction. Le titre se réfère au dernier appel à l’aéroport : un projet de voyage d’étude qui est aussi une tentative de fuite sans retour, l’angoisse de l’attente, la possibilité que le dernier appel résonne pour la prison plutôt que pour la liberté. Raphaël Confiant note que l’imaginaire du roman de Bourjolly est « riche de toutes les cultures qui se sont mêlées depuis plusieurs siècles en Haïti » : « Ce texte, qui revisite une enfance à Port-au-Prince du temps de la dictature ubuesque et sanglante de François Duvalier, est aussi un beau roman d’apprentissage ». Le jeune héros, Didier Delerme, est un haïtien « ordinaire », sensible, et Dernier appel est le « portrait d’une génération », selon Adrien Bance (Le Matin, 20 mai 2004).</p>
-    <p>La parution du second roman de Jean-Marie Bourjolly, Voyage en quatre temps, est prévue prochainement.</p>
+    <p>
+      Jean-
+      <persName ana="Marie_Bourjolly">
+        Marie 
+        <location ana="Bourjolly">Bourjolly</location>
+      </persName>
+       est né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      . Après des études secondaires au Petit-Séminaire Collège Saint-
+      <location ana="Martial">Martial</location>
+       et une année à la Faculté des sciences et à l’École normale supérieure à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , il part étudier les mathématiques à 
+      <location ana="Toulouse">Toulouse</location>
+      . Il étudie ensuite la recherche opérationnelle à l’Université de 
+      <location ana="Montreal">Montréal</location>
+       et à l’Université de Waterloo (
+      <location ana="Ontario">Ontario</location>
+      ), où il obtient un doctorat en combinatoire et optimisation.
+    </p>
+    <p>
+      Jean-
+      <persName ana="Marie_Bourjolly">
+        Marie 
+        <location ana="Bourjolly">Bourjolly</location>
+      </persName>
+       est actuellement professeur titulaire de logistique à l’École des sciences de la gestion de l’Université du 
+      <location ana="Quebec">Québec</location>
+       à 
+      <location ana="Montreal">Montréal</location>
+       (UQÀM).
+    </p>
+    <p>
+      Dernier appel  est sa première œuvre de fiction. Le titre se réfère au dernier appel à l’aéroport : un projet de voyage d’étude qui est aussi une tentative de fuite sans retour, l’angoisse de l’attente, la possibilité que le dernier appel résonne pour la prison plutôt que pour la liberté. 
+      <persName ana="Raphael_Confiant">Raphaël Confiant</persName>
+       note que l’imaginaire du roman de 
+      <location ana="Bourjolly">Bourjolly</location>
+       est « riche de toutes les cultures qui se sont mêlées depuis plusieurs siècles en 
+      <location ana="Haiti">Haïti </location>
+      » : « Ce texte, qui revisite une enfance à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       du temps de la dictature ubuesque et sanglante de 
+      <persName ana="Francois_Duvalier">François Duvalier</persName>
+      , est aussi un beau roman d’apprentissage ». Le jeune héros, 
+      <persName ana="Didier_Delerme">Didier Delerme</persName>
+      , est un haïtien « ordinaire », sensible, et Dernier appel est le « portrait d’une génération », selon 
+      <persName ana="Adrien_Bance">Adrien Bance</persName>
+       (Le Matin, 20 mai 2004).
+    </p>
+    <p>
+      La parution du second roman de Jean-
+      <persName ana="Marie_Bourjolly">
+        Marie 
+        <location ana="Bourjolly">Bourjolly</location>
+      </persName>
+      , Voyage en quatre temps, est prévue prochainement.
+    </p>
   </text>
 </TEI>

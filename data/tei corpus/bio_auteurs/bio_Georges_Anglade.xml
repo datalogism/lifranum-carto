@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Georges_Anglade_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,19 +12,133 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="rançoise Naudillon" ref="http://ile-en-ile.org/anglade/" xml:id="Georges_Anglade_bio_auteur_ile_en_ile">
-    <p>Georges Anglade est né le 18 juillet 1944 à Port-au-Prince (Haïti). Il a fait ses études à Port-au Prince, d’abord à l’École normale (1962) puis à la Faculté de droit de Port-au-Prince où il obtient en 1965 la licence en droit et un diplôme de Sciences sociales.</p>
-    <p>En 1965 il part à Strasbourg. Il étudie au Centre de géographie appliquée de Strasbourg de 1965 à 1969 où il obtient son doctorat de troisième cycle. Il obtiendra parallèlement en 1967, une licence ès lettres de l’Université de Strasbourg. Il sera professeur à l’Institut de démographe de Strasbourg de 1968 à 1969. C’est en septembre 1969 qu’il s’installe au Canada, à Montréal, il fera partie de ceux qui ont fondé l’Université de Québec à Montréal (UQÀM) où il sera professeur en géographie sociale jusqu’en 2002.</p>
-    <p>Georges Anglade aime à se définir selon la formule de Roger Dorsinville comme: «Un homme en trois morceaux». En 1999, il obtenait une mention d’honneur au Prix José Martì, décerné par l’UNESCO, qui vise à distinguer celle ou celui qui: «en conformité avec les idéaux et l’esprit du grand penseur politique cubain, a contribué, dans une région quelconque du monde, à l’unité et à l’intégration des pays d’Amérique latine et des Caraïbes, ainsi qu’à la préservation de leurs identités, traditions et valeurs historiques». En effet, en lui se distingue: le géographe, le politique et l’écrivain. «Cette distinction, dit Georges Anglade, recoupe une vie, 30 ans, où j’ai tenté de faire quelque chose en tant que scientifique, politicien et écrivain. Que l’UQÀM ait permis que tout cela s’épanouisse, ça c’est extraordinaire! Je ne revendique aucune originalité particulière car le pari des trois morceaux en est un que beaucoup d’homo uqamius ont tenu. Ce que je peux dire, c’est que j’y ai mis toute ma passion!».</p>
-    <p>Comme chercheur, Georges Anglade a fait d’Haïti le premier de ses sujets. Mais ses nombreux voyages l’ont aussi rendu familier d’autres espaces comme Cuba, la République dominicaine, le Vénézuela, la Martinique ou les Bahamas. Sa méthode: approfondissement d’un cas jusqu’à atteindre sa part d’universel, puis généralisation des méthodes et théories. La question du développement et la problématique démocratique se retrouvent ainsi au cœur de sa réflexion de géographe. Il a ainsi dirigé des travaux d’envergure, se situant au confluent de la géographie, de l’économie, de la démographie et de la cartographie. Il fut expert international en politique d’aménagement auprès des Nations Unies en 1988, 1989, 1991 à 1993.</p>
-    <p>Comme homme politique, Georges Anglade, anti-duvaliériste convaincu (prisonnier politique en 1974, sous la dictature duvaliériste, deux fois exilé (1974, 1991) et ayant frôlé la mort à plusieurs reprises), s’engagera physiquement dans l’arène, d’abord en 1986 en animant depuis Montréal le MAS (Mouvement haïtien de solidarité) qui s’appuie sur la diaspora haïtienne puis en étant le rédacteur du retentissant manifeste La chance qui passe en décembre 1990, porté par les mouvements démocratiques qui prendront le pouvoir en 1994. Il occupera des positions politiques officielles en étant conseiller spécial auprès du président Aristide et membre du Cabinet privé de l’accord de Governors Island (3 juillet 1993) au retour en Haïti (15 octobre 1994). Il sera Ministre des Travaux Publics (janvier à novembre 1995), conseiller spécial auprès du président Préval et membre du cabinet (février-août 1996).</p>
-    <p>Comme homme de lettres, Georges Anglade est à la fois théoricien et praticien de la Lodyans, genre dont le modèle remonte à Justin Lhérisson et que Jacques-Stephen Alexis désignent comme le genre littéraire propre à Haïti.</p>
-    <p>«La lodyans doit être classée parmi les créations collectives haïtiennes les plus significatives que sont le Vodou, le créole, la commercialisation par madansara, le compagnonnage des jardins paysans, la peinture, le marronnage, la gaguère des combats de coqs, le carnaval etc. Et cette lodyans est le mode littéraire le plus généralisé, le plus populaire, le plus ancien aussi dans l’expression du romanesque de ce peuple profond tel qu’il s’exprime en son pays profond.» (Avant-propos, Blancs de mémoire)</p>
-    <p>Georges Anglade et sa femme Mireille sont morts brutalement, avec d’autres membres de leur famille, enfouis sous les décombres de leur maison, lors du tremblement de terre qui a dévasté Port-au-Prince le 12 janvier 2010. Georges Anglade vivait entre Haïti et Montréal après avoir pris sa retraite de Professeur de l’UQÀM.</p>
-    <p>Après sa mort, nous avons mis en ligne la vidéo de l’entretien avec Georges Anglade, tournée à Montréal en avril 2009, et une série d’hommages à l’auteur.</p>
+  <text hand="Françoise Naudillon" ref="http://ile-en-ile.org/anglade/" xml:id="Georges_Anglade_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+       est né le 18 juillet 1944 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Il a fait ses études à Port-au 
+      <location ana="Prince">Prince</location>
+      , d’abord à l’École normale (1962) puis à la Faculté de droit de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       où il obtient en 1965 la licence en droit et un diplôme de Sciences sociales.
+    </p>
+    <p>
+      En 1965 il part à 
+      <location ana="Strasbourg">Strasbourg</location>
+      . Il étudie au Centre de géographie appliquée de 
+      <location ana="Strasbourg">Strasbourg</location>
+       de 1965 à 1969 où il obtient son doctorat de troisième cycle. Il obtiendra parallèlement en 1967, une licence ès lettres de l’Université de 
+      <location ana="Strasbourg">Strasbourg</location>
+      . Il sera professeur à l’Institut de démographe de 
+      <location ana="Strasbourg">Strasbourg</location>
+       de 1968 à 1969. C’est en septembre 1969 qu’il s’installe au 
+      <location ana="Canada">Canada</location>
+      , à 
+      <location ana="Montreal">Montréal</location>
+      , il fera partie de ceux qui ont fondé l’Université de 
+      <location ana="Quebec">Québec</location>
+       à 
+      <location ana="Montreal">Montréal</location>
+       (UQÀM) où il sera professeur en géographie sociale jusqu’en 2002.
+    </p>
+    <p>
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+       aime à se définir selon la formule de 
+      <persName ana="Roger_Dorsinville">
+        Roger 
+        <location ana="Dorsinville">Dorsinville</location>
+      </persName>
+       comme: «Un homme en trois morceaux». En 1999, il obtenait une mention d’honneur au Prix José Martì, décerné par l’UNESCO, qui vise à distinguer celle ou celui qui: «en conformité avec les idéaux et l’esprit du grand penseur politique cubain, a contribué, dans une région quelconque du monde, à l’unité et à l’intégration des pays d’
+      <location ana="Amerique">Amérique</location>
+       latine et des 
+      <location ana="Caraibes">Caraïbes</location>
+      , ainsi qu’à la préservation de leurs identités, traditions et valeurs historiques». En effet, en lui se distingue: le géographe, le politique et l’écrivain. «Cette distinction, dit 
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+      , recoupe une vie, 30 ans, où j’ai tenté de faire quelque chose en tant que scientifique, politicien et écrivain. Que l’UQÀM ait permis que tout cela s’épanouisse, ça c’est extraordinaire! Je ne revendique aucune originalité particulière car le pari des trois morceaux en est un que beaucoup d’homo uqamius ont tenu. Ce que je peux dire, c’est que j’y ai mis toute ma passion!».
+    </p>
+    <p>
+      Comme chercheur, 
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+       a fait d’
+      <location ana="Haiti">Haïti</location>
+       le premier de ses sujets. Mais ses nombreux voyages l’ont aussi rendu familier d’autres espaces comme 
+      <location ana="Cuba">Cuba</location>
+      , la 
+      <location ana="Republique_Dominicaine">République Dominicaine</location>
+      , le 
+      <location ana="Venezuela">Vénézuela</location>
+      , la 
+      <location ana="Martinique">Martinique</location>
+       ou les 
+      <location ana="Bahamas">Bahamas</location>
+      . Sa méthode: approfondissement d’un cas jusqu’à atteindre sa part d’universel, puis généralisation des méthodes et théories. La question du développement et la problématique démocratique se retrouvent ainsi au cœur de sa réflexion de géographe. Il a ainsi dirigé des travaux d’envergure, se situant au confluent de la géographie, de l’économie, de la démographie et de la cartographie. Il fut expert international en politique d’aménagement auprès des Nations Unies en 1988, 1989, 1991 à 1993.
+    </p>
+    <p>
+      Comme homme politique, 
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+      , anti-duvaliériste convaincu (prisonnier politique en 1974, sous la dictature duvaliériste, deux fois exilé (1974, 1991) et ayant frôlé la mort à plusieurs reprises), s’engagera physiquement dans l’arène, d’abord en 1986 en animant depuis 
+      <location ana="Montreal">Montréal</location>
+       le MAS (Mouvement haïtien de solidarité) qui s’appuie sur la diaspora 
+      <location ana="Haitienne">Haïtienne</location>
+       puis en étant le rédacteur du retentissant manifeste La chance qui 
+      <location ana="Passe">Passe</location>
+       en décembre 1990, porté par les mouvements démocratiques qui prendront le pouvoir en 1994. Il occupera des positions politiques officielles en étant conseiller spécial auprès du président Aristide et membre du Cabinet privé de l’accord de 
+      <location ana="Governors_Island">Governors Island</location>
+       (3 juillet 1993) au retour en 
+      <location ana="Haiti">Haïti</location>
+       (15 octobre 1994). Il sera Ministre des Travaux Publics (janvier à novembre 1995), conseiller spécial auprès du 
+      <persName ana="President_Preval">président Préval</persName>
+       et membre du cabinet (février-août 1996).
+    </p>
+    <p>
+      Comme homme de lettres, 
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+       est à la fois théoricien et praticien de la 
+      <location ana="Lodyans">Lodyans</location>
+      , genre dont le modèle remonte à 
+      <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+       et que Jacques-
+      <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+       désignent comme le genre littéraire propre à 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      «La 
+      <location ana="Lodyans">Lodyans</location>
+       doit être classée parmi les créations collectives haïtiennes les plus significatives que sont le Vodou, le créole, la commercialisation par madansara, le compagnonnage des jardins paysans, la peinture, le marronnage, la gaguère des combats de coqs, le carnaval etc. Et cette 
+      <location ana="Lodyans">Lodyans</location>
+       est le mode littéraire le plus généralisé, le plus populaire, le plus ancien aussi dans l’expression du romanesque de ce peuple profond tel qu’il s’exprime en son pays profond.» (Avant-propos, Blancs de mémoire)
+    </p>
+    <p>
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+       et sa femme Mireille sont morts brutalement, avec d’autres membres de leur famille, enfouis sous les décombres de leur 
+      <location ana="Maison">Maison</location>
+      , lors du tremblement de 
+      <location ana="Terre">Terre</location>
+       qui a dévasté 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 12 janvier 2010. 
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+       vivait entre 
+      <location ana="Haiti">Haïti</location>
+       et 
+      <location ana="Montreal">Montréal</location>
+       après avoir pris sa retraite de Professeur de l’UQÀM.
+    </p>
+    <p>
+      Après sa mort, nous avons mis en ligne la vidéo de l’entretien avec 
+      <persName ana="Georges_Anglade">Georges Anglade</persName>
+      , tournée à 
+      <location ana="Montreal">Montréal</location>
+       en avril 2009, et une série d’hommages à l’auteur.
+    </p>
   </text>
 </TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jacqueline_Beauge-Rosier_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jacqueline Beaugé-Rosier</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/beauge-rosier/" xml:id="Jacqueline_Beauge-Rosier_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Climats en marche. Port-au-Prince: Imprimerie des Antilles, 1962.</item>
+        <item>À Vol d’ombre. Préface de Phito Gracia. Port-au-Prince: Imprimerie Serge Caston, 1966.</item>
+        <item>Les Cahiers de la mouette, poèmes, suivis de « Tranché pour toi » et « Leïla, ou, La déracinée », deux nouvelles. Sherbrooke: Naaman, 1983.</item>
+        <item>D’Or vif et de pain. Regina (Canada): Louis Riel, 1992.</item>
+      </list>
+      <list subtype="roman">
+        <item>Les Yeux de l’anse du Clair. Illustration de Raymond Cadet. Woodbridge (Canada): Albion Press, 2001.</item>
+      </list>
+      <list subtype="essai">
+        <item>Li, Konprann Ekri. Michel-Ange Hypolite, Jacqueline Beaugé-Rosier et Hugues Lamour, éds. Ouvrage scolaire financé par Ontario Ministry of Education and Training. Miami: Éditions Educa-Vision, July 1996.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Cris et gestes pour un acte de parole dans le « Coup de l’étrier » de Claude Pierre », article critique de Jacqueline Beaugé-Rosier. LittéRéalité  4.1 (printemps 1992): 63-78.</item>
+        <item>« Mémoire d’une enfance insulaire » (poésie, extrait). LittéRéalité  4.1 (printemps 1992): 141-144.</item>
+        <item>« Étends tes ailes neigeuses », « Songe du coeur double », « Chant d’adieu », « Nid d’ondes », « Leçon de tendresse » (extraits divers de son oeuvre). Écriture franco-ontarienne 2003, sous la direction de Jacques Flamand et Hédi Bouraoui.Ottawa: Vermillon, 2004: 44-52.</item>
+        <item>« À vol d’ombre » (extrait). Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 136-137.</item>
+        <item>Choix de poèmes. Terres de femmes, 150 ans de poésie féminine en Haïti. Paris: Bruno Doucey, 2010: 63-69.</item>
+      </list>
+      <list subtype="poésie enregistrée">
+        <item>« Conte de l’enfance aveugle », dit par Anthony Phelps sur son disque, La poésie contemporaine d’Haïti. Trente-quatre poètes. CD. Pétion-Ville, Haïti, 1998.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1987     Prix d’excellence de l’Ambassadeur de Suisse à Ottawa, pour ses études linguistiques de français à l’Université du Québec à Hull.</item>
+        <item>1991     Trophée de la Tonnelle Haïtienne de l’Ouataouais.</item>
+        <item>1993     Deuxième Prixlittérature de la Société des Écrivains canadiens de Toronto (S.E.T.).</item>
+        <item>2000     Plaque d’Honneur-Respect de la Communauté haïtienne du Canada, pour ses contributions à l’enrichissement de la littérature franco-ontarienne et à l’épanouissement culturel de sa double communauté.</item>
+      </list>
+      <list subtype="sur l’oeuvre de jacqueline beaugé-rosier">
+        <item>Bernard, Robinson. « Un roman saisissant », compte-rendu des Yeux de l’anse du Clair. Le Nouvelliste (28 août 2001).</item>
+        <item>Border Crossings; A Sourcebook on Caribbean Writers in Canada. Hyacinth Simpson et Frank Birbalsingh, éds. Coconut Creek (Florida): Caribbean Studies Press (à paraître).</item>
+        <item>Crosta, Suzanne. « De l’opacité des exilés et des marginaux chez Marie-Thérèse Colimon-Hall, Liliane Dévieux Dehoux et Jacqueline Beaugé-Rosier ». Raymond Federman and French Marginal Writers / Raymond Féderman et les écrivains marginaux français (bilingue). M. Thérèse Tseng, éd. Baltimore: American Literary Press, 2002: 163-180.</item>
+        <item>Philoctète, Raymond, éd. Anthologie de la poésie haïtienne contemporaine. Montréal: CIDIHCA, 2000: 15-18.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jacqueline-beauge-rosier-conte-de-lenfance-aveugle/">Conte de l’enfance aveugle</item>
+        <item ref="http://litte.journals.yorku.ca/index.php/litte/article/view/26495/24489">Ailantes de ma libre expression</item>
+        <item ref="https://www.erudit.org/culture/liaison1076624/liaison1170951/42557ac.pdf">Jacqueline Beaugé-Rosier : l’écriture n’est jamais innocente</item>
+        <item ref="http://web.archive.org/web/20041223192757/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=562">Ville miroir</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/161539/La-poetesse-Jacqueline-Beauge-Rosier-nest-plus">La poétesse Jacqueline Beaugé Rosier n’est plus</item>
+        <item ref="http://kellyfhorleans.sharingmemories.ca/site/JacquelineBeauge-Rosier.html?s=40">Jacqueline Beaugé-Rosier, February 7, 1932-July 2[8], 2016</item>
+      </list>
+    </div>
+  </div>
+</TEI>

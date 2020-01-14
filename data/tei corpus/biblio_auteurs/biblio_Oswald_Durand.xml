@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Oswald_Durand_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Oswald Durand</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/durand/" xml:id="Oswald_Durand_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Rires et Pleurs (1ère partie : Poèmes, Élégies, Satires, Odelettes). Paris: Éditions Crété, 1896; Port-au-Prince: Éditions Panorama, 1967; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Rires et Pleurs (2ème partie : Fleurs des mornes, Refrains, Nos payses, Contes créoles). Paris: Éditions Crété, 1896; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Poésies choisies, avec une étude biographique et littéraire, des notes explicatives, des jugements, des questions et des sujets de devoirs, par Pradel Pompilus. Port-au-Prince: Imprimerie des Antilles, 1964.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’oswald durand">
+        <item>Fleischmann, Ulrich. « El ambiguo amor por Choucoune ». Anales del Caribe 7/8 (1987-1988): 240-256.</item>
+        <item>Hoffmann, Léon-François. « Oswald Durand ». Encyclopedia of Latin American Literature (Verity Smith, editor). London / Chicago:Fitzroy Dearborn, 1997: 274-275.</item>
+        <item>Laroche, Maximilien. « Scénographie de Choucoune ». La littérature haïtienne, identité, langue, réalité. Montréal: Leméac, 1981: 119-122.</item>
+        <item>Laroche, Maximilien. « L’universalité de Choucoune ». Conjonction 206 (2001): 29-34.</item>
+        <item>Lynelle, Amy. « The Chains of Petit Pierr’: Colonial Legacies and Character Linkage in Oswald Durand’s Rires et pleurs ». The French Review 88.3 (March 2015): 163-175.</item>
+        <item>Sauray, Éric. Choucoune (pièce), d’après le poème d’Oswald Durand. Paris: L’Harmattan, 2001.</item>
+        <item>Victor, René. Choucoune ou le destin d’un beau poème. Port-au-Prince: Fardin, 1976.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/oswald-durand-le-fils-du-noir/">Le Fils du Noir</item>
+        <item ref="http://creoles.free.fr/Cours/choucoune.htm">Choucoune</item>
+      </list>
+    </div>
+  </div>
+</TEI>

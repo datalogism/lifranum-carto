@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Fortestson_Fenelon_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,23 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.fortestson-fenelon-lokandya.22420.html" xml:id="Fortestson_Fenelon_bio_auteur_spla">
-    <p>Né à Port-au-Prince, Haïti, le 2 février 1982, Fortestson FENELON dit ??Lokandya?? est journaliste culturel, comédien, metteur en scène, diseur, dessinateur? Il étudie la communication sociale et l?art dramatique (au Petit Conservatoire). Il a étudié l?histoire de l?art et a suivi des cours de français à l?Institut Français d?Haïti (IFH). Très jeune, il a collaboré à plusieurs associations culturelles de son pays. Il a collaboré à la section culturelle du journal Le Nouvelliste. Il dirige la section culturelle de Signal FM. Certains de ses textes sont souvent dits au « Cabaret des étudiants du Petit Conservatoire » aux « Vendredis littéraires de l?Université Caraïbes » et à « Vibrations » une activité qu?organise PROD?ARTS. Fortestson ?Lokandya? FENELON écrit en français et en créole. « NUITS A DEUX BATTANTS » est son premier livre de poème.</p>
+    <p>
+      Né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      , le 2 février 1982, Fortestson FENELON dit ??Lokandya?? est journaliste culturel, comédien, metteur en scène, diseur, dessinateur? Il étudie la communication sociale et l?art dramatique (au Petit Conservatoire). Il a étudié l?histoire de l?art et a suivi des cours de français à l?Institut Français d?
+      <location ana="Haiti">Haïti</location>
+       (IFH). Très jeune, il a collaboré à plusieurs associations culturelles de son pays. Il a collaboré à la section culturelle du 
+      <location ana="Journal">Journal</location>
+       Le Nouvelliste. Il dirige la section culturelle de Signal FM. Certains de ses textes sont souvent dits au « Cabaret des étudiants du Petit Conservatoire » aux « Vendredis littéraires de l?Université 
+      <location ana="Caraibes">Caraïbes</location>
+       » et à « Vibrations » une activité qu?organise PROD?ARTS. Fortestson ?Lokandya? FENELON écrit en français et en créole. « NUITS A DEUX BATTANTS » est son premier livre de poème.
+    </p>
   </text>
 </TEI>

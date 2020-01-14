@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Emmanuel_Buriez_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.emmanuel-buriez.37660.html" xml:id="Emmanuel_Buriez_bio_auteur_spla">
-    <p>Emmanuel Buriez (né le 15 décembre à Haïti) est un cinéaste, réalisateur, producteur, comédien, scénariste, et acteur français.Biographie :Emmanuel Buriez est né à Haïti.En France il commence le théâtre en MJC et étudie le solfège et le piano.Il réalise ses premiers courts métrages vers l'âge de 13 ans à Dunkerque (Nord-Pas-De-Calais).Il décroche plusieurs titres en karaté combat et karaté artistique ainsi qu'en athlétisme spécialisé au 100 mètres (10.54s).Activités militantes :Engagé auprès de plusieurs associations et ONG, il participe à des missions humanitaires sur le territoire français, sur le continent africain et asiatique principalement lors de catastrophes météorologiques.Lancement de carrière :Emmanuel Buriez se fait remarquer par le public belge avec sa série télévisée Magic World, une utopie en dérive qu'il écrit, réalise, interprète et produit.Il se voit remettre auparavant plusieurs récompenses pour des courts métrages et anime parrallèlement une chronique de critique de films sur une antenne de radio.Filmographie :Double failleVert pacifiqueMagic World une utopie en dériveOrdre de tuerKing Kong (non crédité)La vie en amontIron man 2Resident Evil RetributionWeekend avec un espionAldebaran CataclysmeBibliographie :Mages parmi les hommes, ainsi naquit la légende</p>
+    <p>
+      Emmanuel Buriez (né le 15 décembre à 
+      <location ana="Haiti">Haïti</location>
+      ) est un cinéaste, réalisateur, producteur, comédien, scénariste, et acteur français.Biographie :Emmanuel Buriez est né à 
+      <location ana="Haiti">Haïti</location>
+      .En 
+      <location ana="France">France</location>
+       il commence le théâtre en MJC et étudie le solfège et le piano.Il réalise ses premiers courts métrages vers l'âge de 13 ans à Dunkerque (Nord-Pas-De-Calais).Il décroche plusieurs titres en karaté combat et karaté artistique ainsi qu'en athlétisme spécialisé au 100 mètres (10.54s).Activités militantes :Engagé auprès de plusieurs associations et ONG, il participe à des missions humanitaires sur le territoire français, sur le continent africain et asiatique principalement lors de catastrophes météorologiques.Lancement de carrière :Emmanuel Buriez se fait remarquer par le public belge avec sa série télévisée Magic World, une utopie en dérive qu'il écrit, réalise, interprète et produit.Il se voit remettre auparavant plusieurs récompenses pour des courts métrages et anime parrallèlement une chronique de critique de films sur une antenne de radio.Filmographie :Double failleVert pacifiqueMagic World une utopie en dériveOrdre de tuerKing Kong (non crédité)La vie en amontIron man 2Resident Evil RetributionWeekend avec un espionAldebaran CataclysmeBibliographie :Mages parmi les hommes, ainsi naquit la légende
+    </p>
   </text>
 </TEI>

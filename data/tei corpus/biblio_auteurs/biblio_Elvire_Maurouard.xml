@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Elvire_Maurouard_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Elvire Maurouard</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/maurouard/" xml:id="Elvire_Maurouard_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item>La Joconde noire. Paris: Éditions du Cygne, 2007.</item>
+        <item>Le monde appartient aux femmes de 55 ans. Paris: Éditions du Cygne, 2011.</item>
+      </list>
+      <list subtype="essais">
+        <item>La femme noire dans le roman haïtien: Noires, Métisses, (presque) Blanches: penser la discrimination intra-communautaire. Paris: Éditions des écrivains, 2001.</item>
+        <item>Les beautés noires de Baudelaire. Paris: Karthala, 2005.</item>
+        <item>Haïti, le pays hanté. Matoury: Ibis rouge, 2006.</item>
+        <item>Victor Hugo et l’Amérique nègre. Paris: Karthala, 2009.</item>
+        <item>Des femmes dans l’émancipation des peuples noirs; De Saint-Domingue au Dahomey. Paris: Éditions du Cygne, 2013.</item>
+      </list>
+      <list subtype="histoire">
+        <item>Les Juifs de Saint-Domingue. Paris: Éditions du Cygne, 2008.</item>
+        <item>Juifs de Martinique et Juifs portugais sous Louis XIV. Paris: Éditions du Cygne, 2009.</item>
+        <item>Rendre à Naples tous ses baisers; Célébration d’une cité historique. Paris: Éditions du Cygne, 2010.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Contes des îles savoureuses; L’hymne des héros. Préface de Gérard Barthélemy, illustrations par Tiga.
+Paris: Édition des Écrivains, 2004.</item>
+        <item>L’Alchimie des rêves. Paris: L’Harmattan, 2005.</item>
+        <item>Jusqu’au bout du vertige. Paris: Éditions du Cygne, 2007.</item>
+        <item>Coquillages africains en terre d’Europe. Paris: Éditions du Cygne, 2009.</item>
+        <item>Prélude à l’après-midi d’une femme. Paris: Éditions du Cygne, 2012.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Une Haïtienne pour Baudelaire, 2010, inédit. Joué à Prague (15 avril 2010) et à Suresnes (13 novembre 2010).</item>
+        <item>Conversation entre Lamartine et Toussaint Louverture, inédit. Mise en scène prévue au Bénin (2011).</item>
+        <item>Médée vaudou, inédit. Prévue à Montpellier (2011).</item>
+      </list>
+      <list subtype="article sélectionné">
+        <item>« L’Amérique de Dany Laferrière ». Présence Africaine 169 (2004): 221-225.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2004     Médaille d’or de l’Académie de Lutèce, pour sa thèse de doctorat, « Le Théâtre tragique haïtien ».</item>
+        <item>2005     Prix Louis Marin, pour Les beautés noires de Baudelaire.</item>
+        <item>2006     Le premier Prix de l’Académie Internationale Il Convivio (Sicile), pour « Le Jardin de Baudelaire » (nouvelle).</item>
+        <item>2007     Prix Présence des Arts au Concours de l’Ile des Poètes. L’Alchimie des rêves, </item>
+        <item>2009     Prix de la Renaissance Africaine, pour La Joconde noire.</item>
+        <item>2010     Prix de la Société des Poètes français, pour Coquillages africains en terre d’Europe.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/elvire-maurouard-deux-poemes/">Prière pour l’Homme Sépharade</item>
+        <item ref="http://www.editionsducygne.com/editions-du-cygne-elvire-maurouard.html">Elvire Maurouard</item>
+        <item ref="http://lewebpedagogique.com/litterature_negre/">L’esthétique nègre</item>
+      </list>
+    </div>
+  </div>
+</TEI>

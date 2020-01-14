@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Georges_Anglade_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Georges_Anglade.xml"/>
+  <xi:include ref="biblio_Georges_Anglade.xml"/>
+  <xi:include ref="fiche_auteur_Georges_Anglade.xml"/>
+</master>

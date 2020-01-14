@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean-Robert_Leonidas_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Jean-Robert Léonidas</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Jean-Robert_Leonidas">
+        <surname source="bnf">Jean-Robert</surname>
+        <forename source="bnf">Léonidas</forename>
+        <idno type="BNF">
+          cb162586317#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb162586317#about"/>
+        </idno>
+        <idno type="VIAF">
+          23852925
+          <g ref="http://viaf.org/viaf/23852925"/>
+        </idno>
+        <idno type="VIAF">
+          Jean-Robert_Léonidas
+          <g ref="http://fr.dbpedia.org/resource/Jean-Robert_Léonidas"/>
+        </idno>
+        <birth source="viaf">
+          <date>1946-06-11</date>
+        </birth>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="viaf">professeurs enseignement superieur</profession>
+        <profession source="viaf">endocrinologists</profession>
+        <profession source="viaf">endocrinologistes</profession>
+        <profession source="viaf">authors black</profession>
+        <profession source="spla">Ecrivain/ne, Pianiste/claviériste, Saxophoniste, Poète</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

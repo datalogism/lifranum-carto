@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jessica_Fievre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,18 +12,73 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/fievre/" xml:id="Jessica_Fievre_bio_auteur_ile_en_ile">
-    <p>Jessica Fièvre naît le 29 avril 1981 à Port-au-Prince, et termine ses études élémentaires et secondaires dans la capitale haïtienne. Depuis 2002, elle vit en Floride.</p>
-    <p>À 16 ans, Jessica Fièvre se fait remarquer par la publication d’un premier ouvrage, Le Feu de la vengeance, roman-mystère empreint de réalisme, témoignage d’une Haïti bouleversée après Duvalier. Quant à son deuxième roman, La Bête (1999), son compatriote écrivain, Gary Victor, parle d’« un superbe voyage de fiction, plein d’émotions et de frissons ». Le fantastique prime, dit-il, dans cette « histoire apparemment simple [où] une créature infernale assoiffée de sang hante la capitale » haïtienne.</p>
-    <p>En plus de ses romans, Jessica Fièvre est l’auteure de nombreux textes pour de jeunes lecteurs. Elle publie également des nouvelles en anglais et en français, dans diverses revues américaines.</p>
-    <p>En 2007, elle marque ses dix ans de création littéraire par la publication de deux romans, Le Fantôme de Lisbeth et Les Fantasmes de Sophie. Ces deux ouvrages traduisent la versatilité de l’auteure : Le Fantôme de Lisbeth est un roman d’aventures pour enfants, tandis que, dans Les Fantasmes de Sophie, Jessica Fièvre explore les pensées érotiques d’une jeune divorcée.</p>
-    <p>Elle poursuit des études en Création Littéraire à la Florida International University. Jessica Fièvre enseigne le français et l’anglais à la Nova Middle School à Davie (près de Miami), et travaille depuis plusieurs années à titre de traductrice et interprète.</p>
-    <p>Elle est secrétaire de Women Writers of Haitian Descent, Inc., une organisation à but non lucratif établie en Floride pour encourager le développement des femmes-écrivains d’origine haïtienne.</p>
-    <p>L’œuvre de Jessica Fièvre traduit l’essentiel du réel haïtien à travers un halo de mystère projeté sous le couvert d’un imaginaire exubérant et inavoué.</p>
-    <p>« Jessica Fièvre : sensibilisation à l’écriture », par Rosny Ladouceur (12 mai 2014).</p>
+    <p>
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       naît le 29 avril 1981 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , et termine ses études élémentaires et secondaires dans la capitale 
+      <location ana="Haitienne">Haïtienne</location>
+      . Depuis 2002, elle vit en 
+      <location ana="Floride">Floride</location>
+      .
+    </p>
+    <p>
+      À 16 ans, 
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       se fait remarquer par la publication d’un premier ouvrage, Le Feu de la vengeance, roman-mystère empreint de réalisme, témoignage d’une 
+      <location ana="Haiti">Haïti</location>
+       bouleversée après Duvalier. Quant à son deuxième roman, La Bête (1999), son compatriote écrivain, 
+      <persName ana="Gary_Victor">Gary Victor</persName>
+      , parle d’« un superbe voyage de fiction, plein d’émotions et de frissons ». Le fantastique prime, dit-il, dans cette « histoire apparemment simple [où] une créature infernale assoiffée de sang hante la capitale » 
+      <location ana="Haitienne">Haïtienne</location>
+      .
+    </p>
+    <p>
+      En plus de ses romans, 
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       est l’auteure de nombreux textes pour de jeunes lecteurs. Elle publie également des nouvelles en anglais et en français, dans diverses revues américaines.
+    </p>
+    <p>
+      En 2007, elle marque ses dix ans de 
+      <persName ana="Creation_Litteraire">Création Littéraire</persName>
+       par la publication de deux romans, Le Fantôme de Lisbeth et Les Fantasmes de Sophie. Ces deux ouvrages traduisent la versatilité de l’auteure : Le Fantôme de Lisbeth est un roman d’aventures pour enfants, tandis que, dans Les Fantasmes de Sophie, 
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       explore les pensées érotiques d’une jeune divorcée.
+    </p>
+    <p>
+      Elle poursuit des études en 
+      <persName ana="Creation_Litteraire">Création Littéraire</persName>
+       à la Florida International University. 
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       enseigne le français et l’anglais à la Nova Middle School à 
+      <location ana="Davie">Davie</location>
+       (près de 
+      <location ana="Miami">Miami</location>
+      ), et travaille depuis plusieurs années à titre de traductrice et interprète.
+    </p>
+    <p>
+      Elle est secrétaire de Women Writers of Haitian Descent, Inc., une organisation à but non lucratif établie en 
+      <location ana="Floride">Floride</location>
+       pour encourager le développement des femmes-écrivains d’origine 
+      <location ana="Haitienne">Haïtienne</location>
+      .
+    </p>
+    <p>
+      L’œuvre de 
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       traduit l’essentiel du réel haïtien à travers un halo de mystère projeté sous le couvert d’un imaginaire exubérant et inavoué.
+    </p>
+    <p>
+      « 
+      <persName ana="Jessica_Fievre">Jessica Fièvre</persName>
+       : sensibilisation à l’écriture », par 
+      <persName ana="Rosny_Ladouceur">Rosny Ladouceur</persName>
+       (12 mai 2014).
+    </p>
   </text>
 </TEI>

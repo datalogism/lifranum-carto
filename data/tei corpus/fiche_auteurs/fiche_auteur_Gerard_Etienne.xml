@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gerard_Etienne_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Gérard Étienne</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Gerard_Etienne">
+        <surname source="bnf">Étienne</surname>
+        <forename source="bnf">Gérard</forename>
+        <idno type="BNF">
+          cb16277470r#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb16277470r#about"/>
+        </idno>
+        <idno type="VIAF">
+          170176897
+          <g ref="http://viaf.org/viaf/170176897"/>
+        </idno>
+        <idno type="VIAF">
+          Gérard_Étienne
+          <g ref="http://fr.dbpedia.org/resource/Gérard_Étienne"/>
+        </idno>
+        <birth source="viaf">
+          <date>1965-06-03</date>
+        </birth>
+        <death source="ile_en_ile_auto">
+          <date>2008-01-14 00:00:00+00:00</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/fr</language>
+        <profession source="spla">Ecrivain/ne, Poète</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

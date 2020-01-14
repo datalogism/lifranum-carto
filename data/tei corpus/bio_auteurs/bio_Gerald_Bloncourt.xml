@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Gerald_Bloncourt_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,29 +12,284 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="homas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_bio_auteur_ile_en_ile">
-    <p>Gérald Bloncourt naît le 4 novembre 1926 à Bainet (Haïti), d’une mère française et d’un père guadeloupéen qui s’occupe d’une plantation de café. En 1927, la famille s’installe à Jacmel, puis, à la suite d’un cyclone qui fait des dégâts dans la région du Sud-Est, elle déménage pour Port-au-Prince, en 1936. Gérald Bloncourt y fait la connaissance des amis et futurs compagnons de révolution, dont Jacques-Stephen Alexis, Georges Beaufils, René Depestre et Gérard Chenet qui venaient régulièrement chez lui.</p>
-    <p>Chez les Bloncourt, dans le salon que tient sa mère, Gérald fait la connaissance de Dewitt Peters, qui, fasciné par la peinture haïtienne de gens ordinaires, sans formation, va fonder le Centre d’Art haïtien. Ayant quitté l’école pour apprendre le métier de linotypiste et se rapprocher ainsi des travailleurs, et rêvant toujours d’être peintre, Gérald Bloncourt participe à la création du Centre en 1944. Il joue un rôle actif dans ce foyer de travail où viennent s’inscrire les peintres haïtiens du « merveilleux ». Les premiers grands « naïfs » exposent au Centre ; la richesse de cette œuvre étonne certains critiques, dont André Malraux.</p>
-    <p>Les activités d’artiste du jeune Bloncourt le disputent à celles liées à ses engagements révolutionnaires alors qu’il milite aux côtés de Jacques-Stephen Alexis. Ce sont deux des principaux leaders de la révolution haïtienne de 1946, connue sous le nom des « Cinq Glorieuses ». Révolte d’étudiants et de jeunes intellectuels, le mouvement se répand dans la population de Port-au-Prince et des environs et aboutit au départ du Président Elie Lescot. Tandis que plusieurs de ses camarades sont arrêtés et éventuellement relâchés par l’armée qui a pris le pouvoir, Bloncourt, lui, est arrêté et expulsé immédiatement d’abord vers la Martinique puis vers la France.</p>
-    <p>À Paris, le peintre installe son tabouret sur les berges de la Seine et vend ses aquarelles à une galerie de Saint-Germain. Il travaille à son art aux ateliers de la Grande Chaumière et du 80 Montparnasse et prépare le professorat de dessin de la Ville de Paris.</p>
-    <p>Parallèlement, il se fait une réputation de reporter-photographe dans les milieux de la presse parisienne. L’impossibilité, dit-il, de plier son trait de peintre aux exigences du réalisme socialiste (comme lui dictent ses convictions politiques), il s’oriente vers un autre art de l’image, la photographie. Pour lui, c’est un « renoncement, mais aussi une formidable occasion d’aiguiser le regard, d’engranger des milliers de visages, de foules, de femmes, d’ombres et de lumières ». Il poursuit cette carrière de photographe dès 1949 au journal L’Humanité et à L’Avant-Garde puis en 1958 devient reporter indépendant jusqu’en 1986, date à laquelle il retourne en Haïti à la chute de Duvalier. Toujours actif depuis sa résidence à Paris, il pratique ce métier durant plus d’un demi-siècle.</p>
-    <p>Gérald Bloncourt collabore à de nombreuses publications, dont CFDT-Magazine, Le Nouvel Économiste, Le Nouvel Observateur, Options, Le Peuple, Regard, Syndicalisme hebdo, Témoignage Chrétien, La Vie Catholique et La Vie Ouvrière de la C.G.T.</p>
-    <p>En 1963, il est créateur des « Éditions Murales » (livres muraux itinérants) et d’autres expositions de 1963 à 1985 à travers la France. Il donne des conférences dans près de cinq cents centres, associations culturelles ou comités d’entreprises sur le langage et l’écriture photographique.</p>
-    <p>La période dictatoriale que traverse Haïti le préoccupe. Depuis Paris, il s’insurge contre la dictature des Duvalier ; les prises de position du militant ont du poids. Par la suite, en 1987, Gérald Bloncourt est fondateur et secrétaire-général du Comité pour la Défense des droits de l’Homme et de la démocratie en Haïti, co-présidé par Jean-Pierre Faye (Président de l’Université Philosophique Européenne), Guy de Bosschère (Président de l’Union des Écrivains de France et de la Féderation Internationale des Écrivains de Langue Française) et Jean Métellus (linguiste, écrivain et neurologue).</p>
+  <text hand="Thomas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       naît le 4 novembre 1926 à 
+      <location ana="Bainet">Bainet</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ), d’une mère française et d’un père guadeloupéen qui s’occupe d’une plantation de café. En 1927, la famille s’installe à 
+      <location ana="Jacmel">Jacmel</location>
+      , puis, à la suite d’un cyclone qui fait des dégâts dans la région du Sud-Est, elle déménage pour 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , en 1936. 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       y fait la connaissance des amis et futurs compagnons de révolution, dont Jacques-
+      <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+      , 
+      <persName ana="Georges_Beaufils">Georges Beaufils</persName>
+      , 
+      <persName ana="Rene_Depestre">René Depestre</persName>
+       et 
+      <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+       qui venaient régulièrement chez lui.
+    </p>
+    <p>
+      Chez les 
+      <location ana="Bloncourt">Bloncourt</location>
+      , dans le salon que tient sa mère, Gérald fait la connaissance de 
+      <persName ana="Dewitt_Peters">Dewitt Peters</persName>
+      , qui, fasciné par la peinture 
+      <location ana="Haitienne">Haïtienne</location>
+       de gens ordinaires, sans formation, va fonder le Centre d’Art haïtien. Ayant quitté l’école pour apprendre le métier de linotypiste et se rapprocher ainsi des travailleurs, et rêvant toujours d’être peintre, 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       participe à la création du Centre en 1944. Il joue un rôle actif dans ce foyer de travail où viennent s’inscrire les peintres 
+      <location ana="Haitiens">Haïtiens</location>
+       du « merveilleux ». Les premiers grands « naïfs » exposent au Centre ; la richesse de cette œuvre étonne certains critiques, dont 
+      <persName ana="Andre_Malraux">André Malraux</persName>
+      .
+    </p>
+    <p>
+      Les activités d’artiste du jeune 
+      <location ana="Bloncourt">Bloncourt</location>
+       le disputent à celles liées à ses engagements révolutionnaires alors qu’il milite aux côtés de Jacques-
+      <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+      . Ce sont deux des principaux leaders de la révolution 
+      <location ana="Haitienne">Haïtienne</location>
+       de 1946, connue sous le nom des « Cinq Glorieuses ». Révolte d’étudiants et de jeunes intellectuels, le mouvement se répand dans la population de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       et des environs et aboutit au départ du 
+      <persName ana="President_Elie_Lescot">Président Elie Lescot</persName>
+      . Tandis que plusieurs de ses camarades sont arrêtés et éventuellement relâchés par l’armée qui a pris le pouvoir, 
+      <location ana="Bloncourt">Bloncourt</location>
+      , lui, est arrêté et expulsé immédiatement d’abord vers la 
+      <location ana="Martinique">Martinique</location>
+       puis vers 
+      <location ana="La_France">la France</location>
+      .
+    </p>
+    <p>
+      À 
+      <location ana="Paris">Paris</location>
+      , le peintre installe son tabouret sur les berges de la Seine et vend ses aquarelles à une galerie de Saint-Germain. Il travaille à son art aux ateliers de la Grande Chaumière et du 80 Montparnasse et prépare le professorat de dessin de la Ville de 
+      <location ana="Paris">Paris</location>
+      .
+    </p>
+    <p>
+      Parallèlement, il se fait une réputation de reporter-photographe dans les milieux de 
+      <location ana="La_Presse">La Presse</location>
+       parisienne. L’impossibilité, dit-il, de plier son trait de peintre aux exigences du réalisme socialiste (comme lui dictent ses convictions politiques), il s’oriente vers un autre art de l’image, la photographie. Pour lui, c’est un « renoncement, mais aussi une formidable occasion d’aiguiser le regard, d’engranger des milliers de visages, de foules, de femmes, d’
+      <location ana="Ombres">Ombres</location>
+       et de lumières ». Il poursuit cette carrière de photographe dès 1949 au 
+      <location ana="Journal">Journal</location>
+       L’Humanité et à L’Avant-Garde puis en 1958 devient reporter indépendant jusqu’en 1986, date à laquelle il retourne en 
+      <location ana="Haiti">Haïti</location>
+       à la chute de Duvalier. Toujours actif depuis sa résidence à 
+      <location ana="Paris">Paris</location>
+      , il pratique ce métier durant plus d’un demi-siècle.
+    </p>
+    <p>
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       collabore à de nombreuses publications, dont CFDT-Magazine, Le Nouvel Économiste, Le Nouvel Observateur, Options, Le Peuple, Regard, Syndicalisme hebdo, Témoignage Chrétien, La Vie Catholique et La Vie Ouvrière de la C.G.T.
+    </p>
+    <p>
+      En 1963, il est créateur des « 
+      <persName ana="Editions_Murales">Éditions Murales</persName>
+       » (livres muraux itinérants) et d’autres expositions de 1963 à 1985 à travers 
+      <location ana="La_France">la France</location>
+      . Il donne des conférences dans près de cinq cents centres, associations culturelles ou comités d’entreprises sur le langage et l’écriture photographique.
+    </p>
+    <p>
+      La période dictatoriale que traverse 
+      <location ana="Haiti">Haïti</location>
+       le préoccupe. Depuis 
+      <location ana="Paris">Paris</location>
+      , il s’insurge contre la dictature des Duvalier ; les prises de position du militant ont du poids. Par la suite, en 1987, 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       est fondateur et secrétaire-général du Comité pour la Défense des droits de l’Homme et de la démocratie en 
+      <location ana="Haiti">Haïti</location>
+      , co-présidé par Jean-
+      <persName ana="Pierre_Faye">Pierre Faye</persName>
+       (Président de l’Université Philosophique Européenne), 
+      <persName ana="Guy_De_Bosschere">Guy de Bosschère</persName>
+       (Président de l’Union des Écrivains de 
+      <location ana="France">France</location>
+       et de la Féderation Internationale des Écrivains de Langue Française) et 
+      <persName ana="Jean_Metellus">Jean Métellus</persName>
+       (linguiste, écrivain et neurologue).
+    </p>
     <p>Le reporter-photographe militant continue toujours à graver et à peindre.</p>
-    <p>Dans la tête du peintre, « les formes s’épurent, naît l’euphorie des couleurs ». En Haïti, Gérald Bloncourt expose ses gravures et ses tableaux à la Galerie Jean-René Jérôme. Aux États-Unis, il expose à Miami et à l’Université de la Nouvelle-Orléans. Ses œuvres figurent au Musée National d’Art Haïtien et dans de nombreuses collections internationales. En juin 1994, pour l’ensemble de son œuvre, le peintre obtient le premier prix au deuxième Salon d’Art Contemporain de Le Mée. Il est actuellement artiste-permanent à la Galerie Antoinette Jean à Paris.</p>
-    <p>En 1986, l’année de son premier retour en Haïti après la chute de « Baby Doc », Bloncourt publie chez Nathan La Peinture haïtienne, en collaboration avec Marie-José Nadal-Gardère. Avec des notices biographiques, le livre compose un fond d’informations incontournable sur l’art haïtien. Spécialiste, Gérald Bloncourt donne de nombreuses conférences sur la peinture haïtienne, notamment en France (à l’Unesco) et aux États-Unis (à l’université de la Nouvelle-Orléans).</p>
-    <p>En 1986, il est Président du Comité des Livres pour Haïti qui récolte plus d’un million de livres pour le pays. Depuis lors, Gérald Bloncourt a effectué une dizaine de voyages au pays natal.</p>
-    <p>Présent sur l’internet dès ses débuts graphiques, le site web de Gérald Bloncourt présente des clichés du photographe, certaines de ses œuvres peintes, des témoignages sur les événements de janvier 1946 en Haïti, sur la dictature des Duvalier et sur le bicentenaire de la révolution haïtienne. Bloncourt s’explique dans Le Regard engagé, « L’Internet me permet de faire ce que j’ai toujours fait : diffuser moi-même mes images, mais désormais sans sortir de chez moi, et les découvrir publiées. Elles sont aujourd’hui plus souvent couvertures de livres, illustrations de livres d’histoire que photos de presse ». Le photographe procède au classement numérique complet de ses archives (200.000 clichés) qui représentent un demi-siècle de mémoire photographique. L’appareil photo, numérique depuis 2002, offre des joies nouvelles et retrouvées : « Entre la prise de vue et son développement à l’écran de mon ordinateur, il n’existe même plus de chambre noire, j’ai perdu l’odeur de l’hyposulfite de soude : la révélation de la lumière est immédiate. Je retrouve la même jubilation et le même émerveillement devant ces fractions de vie que j’ai captées » (Le Regard engagé).</p>
-    <p>En 2004, il publie Les Prolos,  un livre-album de 140 de ses photographies, accompagnées par des textes de Mehdi Lallaoui. La même année aux éditions Bourin à Paris, Gérald Bloncourt est l’auteur d’un récit traçant le parcours du militant-photographe, Le regard engagé, parcours d’un franc-tireur de l’image. En 2006, il signe, avec Michael Löwy, Messagers de la tempête; André Breton et la Révolution de janvier 1946 en Haïti, publié aux Éditions Le Temps des Cerises.</p>
-    <p>Il témoigne de ses combats dans son Journal d’un révolutionnaire, publié aux Éditions Mémoire d’encrier en 2013.</p>
-    <p>Peintre, poète, photographe, écrivain, Gérald Bloncourt poursuit sa création qu’il qualifie lui-même de « créneaux ».</p>
-    <p>Gérald Bloncourt est décédé à Paris le 29 octobre 2018, à moins d’une semaine d’avoir 92 ans.
-Le dernier hommage à Gérald aura lieu le lundi 5 novembre au cimetière du Père Lachaise. Sa famille, qui ne souhaite ni fleurs ni couronnes, vous invite à faire un don au nom de Gérald Bloncourt à l’association Haïti Futur qui oeuvre pour l’éducation en Haïti et pour la culture haïtienne. Le dernier récit de Gérald Bloncourt – Un homme peau noire peau rouge : un homme de toutes les saisons – paraîtra fin novembre aux Éditions Mémoire d’encrier et sera présenté au Salon du livre haïtien organisé par Haïti Futur les 1er et 2 décembre à Paris.</p>
-    <p>La présentation de l’oeuvre de Gérald Bloncourt ci-dessous sera mise à jour sous peu, Joëlle Vitiello l’ayant vu en septembre 2018. En attendant, en bas de page, vous trouverez des liens vers des textes écrits en hommage à Gérald Bloncourt.  </p>
+    <p>
+      Dans la tête du peintre, « les formes s’épurent, naît l’euphorie des couleurs ». En 
+      <location ana="Haiti">Haïti</location>
+      , 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       expose ses gravures et ses tableaux à la Galerie Jean-
+      <persName ana="Rene_Jerome">René Jérôme</persName>
+      . Aux 
+      <location ana="Etats-Unis">États-Unis</location>
+      , il expose à 
+      <location ana="Miami">Miami</location>
+       et à l’Université de la 
+      <location ana="Nouvelle-Orleans">Nouvelle-Orléans</location>
+      . Ses œuvres figurent au 
+      <location ana="Musee_National">Musée national</location>
+       d’Art Haïtien et dans de nombreuses collections internationales. En juin 1994, pour l’ensemble de son œuvre, le peintre obtient le premier prix au deuxième Salon d’Art Contemporain de Le Mée. Il est actuellement artiste-permanent à la Galerie 
+      <persName ana="Antoinette_Jean">Antoinette Jean</persName>
+       à 
+      <location ana="Paris">Paris</location>
+      .
+    </p>
+    <p>
+      En 1986, l’année de son premier retour en 
+      <location ana="Haiti">Haïti</location>
+       après la chute de « Baby Doc », 
+      <location ana="Bloncourt">Bloncourt</location>
+       publie chez Nathan La Peinture 
+      <location ana="Haitienne">Haïtienne</location>
+      , en collaboration avec Marie-
+      <persName ana="Jose_Nadal">José Nadal</persName>
+      -Gardère. Avec des notices biographiques, le livre compose un fond d’informations incontournable sur l’art haïtien. Spécialiste, 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       donne de nombreuses conférences sur la peinture 
+      <location ana="Haitienne">Haïtienne</location>
+      , notamment en 
+      <location ana="France">France</location>
+       (à l’Unesco) et aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       (à l’université de la 
+      <location ana="Nouvelle-Orleans">Nouvelle-Orléans</location>
+      ).
+    </p>
+    <p>
+      En 1986, il est Président du Comité des Livres pour 
+      <location ana="Haiti">Haïti</location>
+       qui récolte plus d’un million de livres pour le pays. Depuis lors, 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       a effectué une dizaine de voyages au pays natal.
+    </p>
+    <p>
+      Présent sur l’internet dès ses débuts graphiques, le site web de 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       présente des clichés du photographe, certaines de ses œuvres peintes, des témoignages sur les événements de janvier 1946 en 
+      <location ana="Haiti">Haïti</location>
+      , sur la dictature des Duvalier et sur le bicentenaire de la révolution 
+      <location ana="Haitienne">Haïtienne</location>
+      . 
+      <location ana="Bloncourt">Bloncourt</location>
+       s’explique dans Le Regard engagé, « L’Internet me permet de faire ce que j’ai toujours fait : diffuser moi-même mes images, mais désormais sans sortir de chez moi, et les découvrir publiées. Elles sont aujourd’hui plus souvent couvertures de livres, illustrations de livres d’histoire que photos de presse ». Le photographe procède au classement numérique complet de ses archives (200.000 clichés) qui représentent un demi-siècle de mémoire photographique. L’appareil photo, numérique depuis 2002, offre des joies nouvelles et retrouvées : « Entre la prise de vue et son développement à l’écran de mon ordinateur, il n’existe même plus de chambre noire, j’ai perdu l’odeur de l’hyposulfite de soude : la révélation de la lumière est immédiate. Je retrouve la même jubilation et le même émerveillement devant ces fractions de vie que j’ai captées » (Le Regard engagé).
+    </p>
+    <p>
+      En 2004, il publie Les Prolos,  un livre-album de 140 de ses photographies, accompagnées par des textes de 
+      <persName ana="Mehdi_Lallaoui">Mehdi Lallaoui</persName>
+      . La même année aux éditions 
+      <location ana="Bourin">Bourin</location>
+       à 
+      <location ana="Paris">Paris</location>
+      , 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       est l’auteur d’un récit traçant le parcours du militant-photographe, Le regard engagé, parcours d’un franc-tireur de l’image. En 2006, il signe, avec 
+      <persName ana="Michael_Lowy">Michael Löwy</persName>
+      , Messagers de la tempête; 
+      <persName ana="Andre_Breton">André Breton</persName>
+       et la Révolution de janvier 1946 en 
+      <location ana="Haiti">Haïti</location>
+      , publié aux Éditions Le Temps des Cerises.
+    </p>
+    <p>
+      Il témoigne de ses combats dans son 
+      <location ana="Journal">Journal</location>
+       d’un révolutionnaire, publié aux Éditions Mémoire d’encrier en 2013.
+    </p>
+    <p>
+      Peintre, poète, photographe, écrivain, 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       poursuit sa création qu’il qualifie lui-même de « créneaux ».
+    </p>
+    <p>
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       est décédé à 
+      <location ana="Paris">Paris</location>
+       le 29 octobre 2018, à moins d’une semaine d’avoir 92 ans.
+Le dernier hommage à Gérald aura lieu le lundi 5 novembre au 
+      <location ana="Cimetiere_Du_Pere_Lachaise">cimetière du Père Lachaise</location>
+      . Sa famille, qui ne souhaite ni fleurs ni couronnes, vous invite à faire un don au nom de 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       à l’association 
+      <location ana="Haiti">Haïti</location>
+       Futur qui oeuvre pour l’éducation en 
+      <location ana="Haiti">Haïti</location>
+       et pour la culture 
+      <location ana="Haitienne">Haïtienne</location>
+      . Le dernier récit de 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       – Un homme peau noire peau rouge : un homme de toutes les saisons – paraîtra fin novembre aux Éditions Mémoire d’encrier et sera présenté au Salon du livre haïtien organisé par 
+      <location ana="Haiti">Haïti</location>
+       Futur les 1er et 2 décembre à 
+      <location ana="Paris">Paris</location>
+      .
+    </p>
+    <p>
+      La présentation de l’oeuvre de 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+       ci-dessous sera mise à jour sous peu, 
+      <persName ana="Joelle_Vitiello">Joëlle Vitiello</persName>
+       l’ayant vu en septembre 2018. En attendant, en bas de page, vous trouverez des liens vers des textes écrits en hommage à 
+      <persName ana="Gerald_Bloncourt">
+        Gérald 
+        <location ana="Bloncourt">Bloncourt</location>
+      </persName>
+      .  
+    </p>
   </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Michele_Cazanove_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,27 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.michele-cazanove.24819.html" xml:id="Michele_Cazanove_bio_auteur_spla">
-    <p>Née à la REUNIONEtudes au Lycée Juliette DoduVoyage en GUADELOUPE, puis en HAITI et retour en GUADELOUPE où je crées une galerie d'art que je dirige pendant plusieurs années.1975 : Publication &quot;L'été Indien&quot; Editions Deschamps - HAITI1980 : Publication &quot;Poèmes&quot; HAITI.1988 : Publication &quot;Préumée Solitude&quot; Edts Julliard - PARIS.1991 : Publication &quot;La Chanson de Denrera (Zumbi de Palmares)&quot; Edts Wlody - GUADELOUPE.2010 : Publication ebook : Le Printemps de la Fée Cassandre&quot;</p>
+    <p>
+      Née à la REUNIONEtudes au Lycée Juliette DoduVoyage en 
+      <location ana="Guadeloupe">Guadeloupe</location>
+      , puis en 
+      <location ana="Haiti">Haiti</location>
+       et retour en 
+      <location ana="Guadeloupe">Guadeloupe</location>
+       où je crées une galerie d'art que je dirige pendant plusieurs années.1975 : Publication &quot;L'été Indien&quot; Editions 
+      <location ana="Deschamps">Deschamps</location>
+       - HAITI1980 : Publication &quot;Poèmes&quot; 
+      <location ana="Haiti">Haiti</location>
+      .1988 : Publication &quot;Préumée Solitude&quot; Edts Julliard - 
+      <location ana="Paris">Paris</location>
+      .1991 : Publication &quot;La Chanson de Denrera (Zumbi de Palmares)&quot; Edts Wlody - 
+      <location ana="Guadeloupe">Guadeloupe</location>
+      .2010 : Publication ebook : Le Printemps de la Fée Cassandre&quot;
+    </p>
   </text>
 </TEI>

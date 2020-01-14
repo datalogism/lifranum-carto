@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Cauvin_Paul_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Cauvin Paul</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/paul/" xml:id="Cauvin_Paul_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item>Le Vieux Samuel. Port-au-Prince: Deschamps, 1996.</item>
+        <item>Les Sédentaires. Montréal: Humanitas, 1998.</item>
+        <item>La Belle Eurydice. Brossard (Québec): Humanitas, 2001.</item>
+      </list>
+      <list subtype="essais">
+        <item>Manuel …! : un dieu tombé : essai sur Gouverneurs de la rosée. New York: Lakansyèl, 1975.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Les Nouvelles Cantilènes. Port-de-Paix: Collection Regénération du Nord-Ouest d’Haïti, 1963.</item>
+        <item>Bourgeon de Soleil. Port-de-Paix: Collection Regénération du Nord-Ouest d’Haïti, 1964.</item>
+        <item>En écoutant le mistral. Port-de-Paix: Collection Regénération du Nord-Ouest d’Haïti, 1966.</item>
+        <item>Laetitia. Port-de-Paix: Collection Regénérationdu Nord-Ouest d’Haïti, 1970.</item>
+      </list>
+      <list subtype="exercices en langue créole">
+        <item>Mache chache. Temple Terrace, Florida: Educa Vision, 1995.</item>
+      </list>
+      <list subtype="nouvelle">
+        <item>Nuit sans fond. Astoria (New York): C.L. Paul, 1976.</item>
+      </list>
+      <list subtype="enregistrement sonore">
+        <item>Jeneral Solèy, disque 45 tours, poésie en créole. New York: GNP, 1982.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/cauvin-l-paul-le-vieux-samuel/">Le Vieux Samuel</item>
+        <item ref="http://web.archive.org/web/20040722200850/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=609">Tohu-bohu</item>
+      </list>
+    </div>
+  </div>
+</TEI>

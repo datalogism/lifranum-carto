@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Odette_Roy_Fombrun_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,73 +12,51 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/fombrun/" xml:id="Odette_Roy_Fombrun_biblio_auteur_ile_en_ile">
-    <list subtype="albums de coloriage">
-      <item>Jours importants. Port-au-Prince: Deschamps, 1997, 24 pp.</item>
-      <item>Personnes célèbres. Port-au-Prince: Deschamps, 1997, 24 pp.</item>
-    </list>
-    <list subtype="oeuvre en langue anglaise (english)">
-      <item>Ti Roro of Haiti. Charles Fombrun, trad. Nairobi: East African Literature Bureau, 1974.</item>
-      <item>What to do? Why? (Drought in Wollo). Addis Abeba: O.R. Fombrun, 1975 (en français, Quoi faire? Que faire? Addis Abeba: O.R. Fombrun, 1974), 8 pp.</item>
-      <item>Tapouctoo. Addis Abeba: O.R. Fombrun, 1975, 8 pp.</item>
-      <item>A Trip to Ethiopia. Addis Abeba: pour le Club des Femmes Ethiopiennes, 1980, 32 pp.</item>
-      <item>Nyobee and Ngethe. Nairobi: Kenya Literature Bureau, 1982 (petit format), 32 pp.</item>
-      <item>« The Bois-Caïman Ceremony ». Caricom Perspective 52-53 (July-December 1991).</item>
-      <item>Naivo of Madagascar. Coconut Creek (Florida): EducaVision, 2006.</item>
-    </list>
-    <list subtype="sur île en île">
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
-      <item ref="http://ile-en-ile.org/odette-roy-fombrun-renommons-lile-quisqueya-non-pas-hispaniola/">Renommons l’île: Quisqueya, non pas Hispaniola</item>
-    </list>
-    <list subtype="ailleurs sur le web">
-      <item ref="http://www.forfhaiti.org/">La Fondation Odette Roy Fombrun</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://www.un.org/rights/micivih/rapports/part3.htm">La Constitution de 1987 et les Droits de l’Homme</item>
-      <item ref="http://www.alterpresse.org/article.php3?id_article=1811">Le désastre des Gonaïves et le konbitisme d’Odette Roy Fombrun</item>
-      <item ref="http://www.alterpresse.org/imprimer.php3?id_article=6098">Haïti : Des femmes rendent hommage à une nonagénaire</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=16914">Hommage à une femme exceptionnelle</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=31890">Conflits et banqueroute</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=34326">Appel au ministre de la Culture et aux Chambres législatives</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=36236">Le rapport La Touche Tréville</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=43717">À propos du drapeau – précisions</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=50912">Odette Roy-Fombrun, 90 ans, continue encore à écrire</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=58672">Discours de Odette Roy Fombrun</item>
-      <item ref="http://lenouvelliste.com/article/171617/les-publications-prix-et-distinctions-dodette-roy-fombrun">Les publications, prix et distinctions d’Odette Roy Fombrun</item>
-      <item ref="http://lenouvelliste.com/article/171551/odette-roy-fombrun-nous-sommes-aussi-des-amerindiens">Odette Roy Fombrun: Nous sommes aussi des Amérindiens</item>
-    </list>
-    <list subtype="autobiographie">
-      <item>Ma vie en trois temps. Port-au-Prince: Imprimerie Henri Deschamps, 1998.</item>
-    </list>
-    <list subtype="essais historiques">
-      <item>Le Drapeau de l’indépendance. Miami: O.R. Fombrun, 1986; Port-au-Prince, Deschamps, 1986.</item>
-      <item>Le Drapeau et les armes de la République d’Haïti. Port-au-Prince: Editions Deschamps, 1987, 88 pp.</item>
-      <item>L’Ayiti des indiens (analyses et textes d’historiens). Port-au-Prince: Fondation 92: O.R. Fombrun: H. Deschamps, 1992, 160 pp.</item>
-      <item>Résumé de: Moreau de Saint-Méry, Description topographique, physique, civile, politique et historique de la partie française de l’isle Saint-Domingue. Port-au-Prince: Le Natal, 1983, 94 pp.</item>
-      <item>Toussaint Louverture, tacticien de génie; la Constitution indépendantiste de 1801. Port-au-Prince: Deschamps, 2001, 32 pp.</item>
-    </list>
-    <list subtype="essais politiques">
-      <item>Le Konbitisme dans L’Education. Port-au-Prince: O.R. Fombrun, 1986.</item>
-      <item>Le Konbitisme dans la Constitution. Port-au-Prince: O.R. Fombrun, 1986.</item>
-      <item>« La Démocratie est-elle possible en Haïti ? ». Haiti’s Future: Views of Twelve Haitian Leaders, par Richard M. Morse. Washington: Wilson Center Press, 1988: 39-47; interventions dans les débats: 98-125 (publié en français sous le titre Démocratie en Haïti, problèmes et perspectives, Port-au-Prince: Le Natal, 1989: 76-95, puis débats: 95-104).</item>
-      <item>Le Konbitisme, base d’un contrat social: la revolution qu’il faut faire. Port-au-Prince: O.R. Fombrun, 1988, 28 pp.</item>
-      <item>Solution pour Haïti: Konbite Solidarité Nationale, contrat social. Port-au-Prince: Deschamps, 1994, 160 pp.</item>
-      <item>« Haïti et les droits de l’Homme ». Etat de Droit en Haïti. Port-au-Prince: Publication de l’Office de la Protection du Citoyen (août 1998).</item>
-    </list>
-    <list subtype="analyses, articles et interventions">
-      <item>Analyse du Pays en dehors, par Gérard Barthélemy. Le Nouvelliste (26 décembre 1989).</item>
-      <item>Analyse de Défi à la pauvreté, par Franck Laraque. L’Haïti et l’après Duvalier: continuités et ruptures. Sous la direction de Cary Hector et Hérard Jadotte. Montréal / Port-au-Prince: CIDIHCA / Deschamps, 1991, tome 2: 570-581.</item>
-      <item>« La Constitution de 1987 et les Droits de l’Homme ». Annexe du document de la Mission Civile Internationale en Haïti, OEA / ONU, avril 1998.</item>
-      <item>Dans Haïti, la voie de nos silences: créativité, complexité, diversité: 117 femmes haïtiennes écrivent.  Marie-Alice Théard, éd. (4 tomes). « Embargo et humanisme »; « Haïti, quel avenir ? »; « Constitution 87 et Projet de constitution »; « Un conte du Kenya : Le chat et les rats, tiré de  Contes Africains ». Port-au-Prince: Pressemax, 1998 (tome 2): 175-189.</item>
-      <item>« Compromis? Yes! What are the possibilities? » (concerning the legislature, the executive, and the provisional electoral council, CEP). Center for International Policy, 8 February 1999.</item>
-      <item>« L’École haïtienne entre le créole et le français » (pour le colloque sur l’aménagement linguistique en salle de classe de l’école fondamentale, Haïti Link), février 2000.</item>
-      <item>Articles parus dans la Revue d’Histoire et de Géographie:
+    <div subtype="livres">
+      <list subtype="albums de coloriage">
+        <item>Jours importants. Port-au-Prince: Deschamps, 1997, 24 pp.</item>
+        <item>Personnes célèbres. Port-au-Prince: Deschamps, 1997, 24 pp.</item>
+      </list>
+      <list subtype="oeuvre en langue anglaise (english)">
+        <item>Ti Roro of Haiti. Charles Fombrun, trad. Nairobi: East African Literature Bureau, 1974.</item>
+        <item>What to do? Why? (Drought in Wollo). Addis Abeba: O.R. Fombrun, 1975 (en français, Quoi faire? Que faire? Addis Abeba: O.R. Fombrun, 1974), 8 pp.</item>
+        <item>Tapouctoo. Addis Abeba: O.R. Fombrun, 1975, 8 pp.</item>
+        <item>A Trip to Ethiopia. Addis Abeba: pour le Club des Femmes Ethiopiennes, 1980, 32 pp.</item>
+        <item>Nyobee and Ngethe. Nairobi: Kenya Literature Bureau, 1982 (petit format), 32 pp.</item>
+        <item>« The Bois-Caïman Ceremony ». Caricom Perspective 52-53 (July-December 1991).</item>
+        <item>Naivo of Madagascar. Coconut Creek (Florida): EducaVision, 2006.</item>
+      </list>
+      <list subtype="autobiographie">
+        <item>Ma vie en trois temps. Port-au-Prince: Imprimerie Henri Deschamps, 1998.</item>
+      </list>
+      <list subtype="essais historiques">
+        <item>Le Drapeau de l’indépendance. Miami: O.R. Fombrun, 1986; Port-au-Prince, Deschamps, 1986.</item>
+        <item>Le Drapeau et les armes de la République d’Haïti. Port-au-Prince: Editions Deschamps, 1987, 88 pp.</item>
+        <item>L’Ayiti des indiens (analyses et textes d’historiens). Port-au-Prince: Fondation 92: O.R. Fombrun: H. Deschamps, 1992, 160 pp.</item>
+        <item>Résumé de: Moreau de Saint-Méry, Description topographique, physique, civile, politique et historique de la partie française de l’isle Saint-Domingue. Port-au-Prince: Le Natal, 1983, 94 pp.</item>
+        <item>Toussaint Louverture, tacticien de génie; la Constitution indépendantiste de 1801. Port-au-Prince: Deschamps, 2001, 32 pp.</item>
+      </list>
+      <list subtype="essais politiques">
+        <item>Le Konbitisme dans L’Education. Port-au-Prince: O.R. Fombrun, 1986.</item>
+        <item>Le Konbitisme dans la Constitution. Port-au-Prince: O.R. Fombrun, 1986.</item>
+        <item>« La Démocratie est-elle possible en Haïti ? ». Haiti’s Future: Views of Twelve Haitian Leaders, par Richard M. Morse. Washington: Wilson Center Press, 1988: 39-47; interventions dans les débats: 98-125 (publié en français sous le titre Démocratie en Haïti, problèmes et perspectives, Port-au-Prince: Le Natal, 1989: 76-95, puis débats: 95-104).</item>
+        <item>Le Konbitisme, base d’un contrat social: la revolution qu’il faut faire. Port-au-Prince: O.R. Fombrun, 1988, 28 pp.</item>
+        <item>Solution pour Haïti: Konbite Solidarité Nationale, contrat social. Port-au-Prince: Deschamps, 1994, 160 pp.</item>
+        <item>« Haïti et les droits de l’Homme ». Etat de Droit en Haïti. Port-au-Prince: Publication de l’Office de la Protection du Citoyen (août 1998).</item>
+      </list>
+      <list subtype="analyses, articles et interventions">
+        <item>Analyse du Pays en dehors, par Gérard Barthélemy. Le Nouvelliste (26 décembre 1989).</item>
+        <item>Analyse de Défi à la pauvreté, par Franck Laraque. L’Haïti et l’après Duvalier: continuités et ruptures. Sous la direction de Cary Hector et Hérard Jadotte. Montréal / Port-au-Prince: CIDIHCA / Deschamps, 1991, tome 2: 570-581.</item>
+        <item>« La Constitution de 1987 et les Droits de l’Homme ». Annexe du document de la Mission Civile Internationale en Haïti, OEA / ONU, avril 1998.</item>
+        <item>Dans Haïti, la voie de nos silences: créativité, complexité, diversité: 117 femmes haïtiennes écrivent.  Marie-Alice Théard, éd. (4 tomes). « Embargo et humanisme »; « Haïti, quel avenir ? »; « Constitution 87 et Projet de constitution »; « Un conte du Kenya : Le chat et les rats, tiré de  Contes Africains ». Port-au-Prince: Pressemax, 1998 (tome 2): 175-189.</item>
+        <item>« Compromis? Yes! What are the possibilities? » (concerning the legislature, the executive, and the provisional electoral council, CEP). Center for International Policy, 8 February 1999.</item>
+        <item>« L’École haïtienne entre le créole et le français » (pour le colloque sur l’aménagement linguistique en salle de classe de l’école fondamentale, Haïti Link), février 2000.</item>
+        <item>Articles parus dans la Revue d’Histoire et de Géographie:
 
 « L’enseignement de l’histoire d’Haïti au niveau du primaire ». 122 (1979): 10-15.
 « La Question de couleur et la Révolution des indigènes de Saint-Domingue ». 129 (1980): 47-58.
@@ -87,12 +65,12 @@
 « La paysannerie, passé, présent et perspectives d’avenir ». 216 (2003): 115, 119.
 
 </item>
-      <item>« L’enseignement de l’histoire d’Haïti au niveau du primaire ». 122 (1979): 10-15.</item>
-      <item>« La Question de couleur et la Révolution des indigènes de Saint-Domingue ». 129 (1980): 47-58.</item>
-      <item>« Toussaint Louverture, tacticien de génie ». 155 (1987): 42-55.</item>
-      <item>« Renommons l’île Quisqueya et non Hispaniola ». 206 (2001): 52-53.</item>
-      <item>« La paysannerie, passé, présent et perspectives d’avenir ». 216 (2003): 115, 119.</item>
-      <item>Articles parus dans la Revue L’Éducateur  (Port-au-Prince: Deschamps):
+        <item>« L’enseignement de l’histoire d’Haïti au niveau du primaire ». 122 (1979): 10-15.</item>
+        <item>« La Question de couleur et la Révolution des indigènes de Saint-Domingue ». 129 (1980): 47-58.</item>
+        <item>« Toussaint Louverture, tacticien de génie ». 155 (1987): 42-55.</item>
+        <item>« Renommons l’île Quisqueya et non Hispaniola ». 206 (2001): 52-53.</item>
+        <item>« La paysannerie, passé, présent et perspectives d’avenir ». 216 (2003): 115, 119.</item>
+        <item>Articles parus dans la Revue L’Éducateur  (Port-au-Prince: Deschamps):
 
 « Entraide et coopération scolaires : Le travail doit être réalisé en équipe ». 1.4.
 « Anseyman kreyòl ak bilengwis » en 2 parties, 2ème partie 2.1 (octobre 1987).
@@ -104,42 +82,42 @@
 « Bibliothèques scolaires ». 4 (1990?): 25.
 
 </item>
-      <item>« Entraide et coopération scolaires : Le travail doit être réalisé en équipe ». 1.4.</item>
-      <item>« Anseyman kreyòl ak bilengwis » en 2 parties, 2ème partie 2.1 (octobre 1987).</item>
-      <item>« L’art de survivre ». 2.2.</item>
-      <item>« Dynamisme doit être le but principal de tous les programmes d’éducation, d’enseignement, de formation ». 2.3 (décembre 1987).</item>
-      <item>« Vanne ouverte. Encore la Réforme ». 2.8 (mai 1988).</item>
-      <item>« Pour une coexistence du créole et du français ». 3.6-7 (mars-avril 1989).</item>
-      <item>« Langues et Sociétés : Langue nationale de communication et langue d’unification – Langue de communication internationale ou de culture ». 3.8 (mai 1989).</item>
-      <item>« Bibliothèques scolaires ». 4 (1990?): 25.</item>
-      <item>« Des drapeaux d’Haïti de Toussaint Louverture à nos jours » (extrait en partie de Le drapeau et les Armes de la République). Agenda information Haïti 2003, par Joseph Wainwright (2003): 231-239.</item>
-      <item>« Que la Nature est belle ! L’appel de ma terre ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 157-161.</item>
-      <item>Plus de 400 articles parus dans diverses publications, dont de nombreux articles dans Le Nouvelliste. Voir des extraits et des notes explicatives dans Ma vie en trois temps.</item>
-      <item>Depuis 1987, une centaine d’interviews diffusés à la radio et à la télévision (cassettes disponibles).</item>
-    </list>
-    <list subtype="contes">
-      <item>Contes africains: Kenya, Ouganda, Ethiopie, Madagascar avec des illustrations d’Ejigayehu Tesfaye. Abidjan: Nouvelles Editions Africaines, 1984, 127 pp.</item>
-      <item>Contes d’Haïti avec des illustrations de C. Vicini. Paris: Nathan; Port-au-Prince: Editions du Soleil, 1985, 127 pp.</item>
-      <item>Dix contes de Bouqui et Malice. À paraître (avril 2009).</item>
-    </list>
-    <list subtype="littérature pour la jeunesse">
-      <item>Ti Roro d’Haïti. Nairobi: East African Literature Bureau, 1974, 38 pp.</item>
-      <item>Jeux de conversation pour Ti Roro. Port-au-Prince: O.R. Fombrun, 1976 [?].</item>
-      <item>Devinettes et Jeux. Port-au-Prince: Imprimerie Centrale, 1976, 40 pp.</item>
-      <item>Vivent les Vacances! Port-au-Prince: Imprimerie Centrale, 1977, 64 pp.</item>
-      <item>Anita et Virginie de l’Ile Maurice. Port-au-Prince: Ministère de l’Education Nationale / Deschamps, 1981, 32 pp.</item>
-      <item>Farida d’Algérie. Port-au-Prince: Deschamps, 1981, 24 pp.</item>
-      <item>Quatre contes. Port-au-Prince: Deschamps, 1988 [?], 20 pp.</item>
-      <item>Jeu de 22 livres en papier de couleur (10 pages chacun). Port-au-Prince: Deschamps, 1988 [?].</item>
-      <item>Le français par les poèmes. Port-au-Prince: Deschamps, 1990 [?], 148 pp.</item>
-      <item>Toussaint Louverture, le Spartacus noir. Montréal: CIDIHCA, 2016, 77 pp.</item>
-      <item>Vacances lakay. Coconut Creek (Florida): EducaVision, 2019, 94 pp.</item>
-    </list>
-    <list subtype="textes éducatifs">
-      <item>Leçons de Morale et Instruction civique. Port-au-Prince: Deschamps 1949; 1977 (édition revue, augmentée et corrigée), 158 pp.</item>
-      <item>Aime et Sers ton pays. Léopoldville, Congo: Editions St. Paul, 1962, 126 pp.</item>
-      <item>Morale civique. Léopoldville, Congo: Editions St. Paul, 1962, 170 pp.</item>
-      <item>Méthode de Lecture complète, ETTEDO (Imprimerie Centrale, puis Deschamps) comprenant:
+        <item>« Entraide et coopération scolaires : Le travail doit être réalisé en équipe ». 1.4.</item>
+        <item>« Anseyman kreyòl ak bilengwis » en 2 parties, 2ème partie 2.1 (octobre 1987).</item>
+        <item>« L’art de survivre ». 2.2.</item>
+        <item>« Dynamisme doit être le but principal de tous les programmes d’éducation, d’enseignement, de formation ». 2.3 (décembre 1987).</item>
+        <item>« Vanne ouverte. Encore la Réforme ». 2.8 (mai 1988).</item>
+        <item>« Pour une coexistence du créole et du français ». 3.6-7 (mars-avril 1989).</item>
+        <item>« Langues et Sociétés : Langue nationale de communication et langue d’unification – Langue de communication internationale ou de culture ». 3.8 (mai 1989).</item>
+        <item>« Bibliothèques scolaires ». 4 (1990?): 25.</item>
+        <item>« Des drapeaux d’Haïti de Toussaint Louverture à nos jours » (extrait en partie de Le drapeau et les Armes de la République). Agenda information Haïti 2003, par Joseph Wainwright (2003): 231-239.</item>
+        <item>« Que la Nature est belle ! L’appel de ma terre ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 157-161.</item>
+        <item>Plus de 400 articles parus dans diverses publications, dont de nombreux articles dans Le Nouvelliste. Voir des extraits et des notes explicatives dans Ma vie en trois temps.</item>
+        <item>Depuis 1987, une centaine d’interviews diffusés à la radio et à la télévision (cassettes disponibles).</item>
+      </list>
+      <list subtype="contes">
+        <item>Contes africains: Kenya, Ouganda, Ethiopie, Madagascar avec des illustrations d’Ejigayehu Tesfaye. Abidjan: Nouvelles Editions Africaines, 1984, 127 pp.</item>
+        <item>Contes d’Haïti avec des illustrations de C. Vicini. Paris: Nathan; Port-au-Prince: Editions du Soleil, 1985, 127 pp.</item>
+        <item>Dix contes de Bouqui et Malice. À paraître (avril 2009).</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Ti Roro d’Haïti. Nairobi: East African Literature Bureau, 1974, 38 pp.</item>
+        <item>Jeux de conversation pour Ti Roro. Port-au-Prince: O.R. Fombrun, 1976 [?].</item>
+        <item>Devinettes et Jeux. Port-au-Prince: Imprimerie Centrale, 1976, 40 pp.</item>
+        <item>Vivent les Vacances! Port-au-Prince: Imprimerie Centrale, 1977, 64 pp.</item>
+        <item>Anita et Virginie de l’Ile Maurice. Port-au-Prince: Ministère de l’Education Nationale / Deschamps, 1981, 32 pp.</item>
+        <item>Farida d’Algérie. Port-au-Prince: Deschamps, 1981, 24 pp.</item>
+        <item>Quatre contes. Port-au-Prince: Deschamps, 1988 [?], 20 pp.</item>
+        <item>Jeu de 22 livres en papier de couleur (10 pages chacun). Port-au-Prince: Deschamps, 1988 [?].</item>
+        <item>Le français par les poèmes. Port-au-Prince: Deschamps, 1990 [?], 148 pp.</item>
+        <item>Toussaint Louverture, le Spartacus noir. Montréal: CIDIHCA, 2016, 77 pp.</item>
+        <item>Vacances lakay. Coconut Creek (Florida): EducaVision, 2019, 94 pp.</item>
+      </list>
+      <list subtype="textes éducatifs">
+        <item>Leçons de Morale et Instruction civique. Port-au-Prince: Deschamps 1949; 1977 (édition revue, augmentée et corrigée), 158 pp.</item>
+        <item>Aime et Sers ton pays. Léopoldville, Congo: Editions St. Paul, 1962, 126 pp.</item>
+        <item>Morale civique. Léopoldville, Congo: Editions St. Paul, 1962, 170 pp.</item>
+        <item>Méthode de Lecture complète, ETTEDO (Imprimerie Centrale, puis Deschamps) comprenant:
 
 Album Lecture par l‘image, trois livres de lecture, jeux… planches.
 Vivre ensemble, collection Deschamps de cinq livres d’éducation civique, dont Odette Roy Fombrun est responsable:
@@ -153,8 +131,8 @@ Nous, les citoyens de demain.
 
 
 </item>
-      <item>Album Lecture par l‘image, trois livres de lecture, jeux… planches.</item>
-      <item>Vivre ensemble, collection Deschamps de cinq livres d’éducation civique, dont Odette Roy Fombrun est responsable:
+        <item>Album Lecture par l‘image, trois livres de lecture, jeux… planches.</item>
+        <item>Vivre ensemble, collection Deschamps de cinq livres d’éducation civique, dont Odette Roy Fombrun est responsable:
 
 Moi et les Autres.
 Moi et Mon Pays.
@@ -163,94 +141,118 @@ Nous les enfants d’aujourd’hui.
 Nous, les citoyens de demain.
 
 </item>
-      <item>Moi et les Autres.</item>
-      <item>Moi et Mon Pays.</item>
-      <item>Moi, mes droits et mes devoirs.</item>
-      <item>Nous les enfants d’aujourd’hui.</item>
-      <item>Nous, les citoyens de demain.</item>
-      <item>Comment transformer le vocabulaire fondamental créole-français. Port-au-Prince: Imprimerie Centrale, 1975.</item>
-      <item>Éducation primaire en Haïti: pour une réforme, structures et programmes. Dossier expédié d’Afrique au Ministre de l’Education Nationale. Fombrun, 1977.</item>
-      <item>Histoire d’Haïti en deux volumes:
+        <item>Moi et les Autres.</item>
+        <item>Moi et Mon Pays.</item>
+        <item>Moi, mes droits et mes devoirs.</item>
+        <item>Nous les enfants d’aujourd’hui.</item>
+        <item>Nous, les citoyens de demain.</item>
+        <item>Comment transformer le vocabulaire fondamental créole-français. Port-au-Prince: Imprimerie Centrale, 1975.</item>
+        <item>Éducation primaire en Haïti: pour une réforme, structures et programmes. Dossier expédié d’Afrique au Ministre de l’Education Nationale. Fombrun, 1977.</item>
+        <item>Histoire d’Haïti en deux volumes:
 
 Des Origines à l’Indépendance. Action sociale et O. Roy Fombrun, 1982, puis Port-au-Prince: Deschamps depuis 1995, 138 pp.
 De l‘Indépendance à nos jours. Action sociale et O. Roy Fombrun, 1982, puis Port-au-Prince: Deschamps depuis 1995, 194 pp.
 
 </item>
-      <item>Des Origines à l’Indépendance. Action sociale et O. Roy Fombrun, 1982, puis Port-au-Prince: Deschamps depuis 1995, 138 pp.</item>
-      <item>De l‘Indépendance à nos jours. Action sociale et O. Roy Fombrun, 1982, puis Port-au-Prince: Deschamps depuis 1995, 194 pp.</item>
-      <item>Les problèmes du système éducatif en Haïti: solution, la révolution konbitique non violante. Port-au-Prince: Deschamps, 1989, 80 pp.</item>
-      <item>Du créole au français. Port-au-Prince: Éditions Areytos, 1990, 64 pp.</item>
-      <item>Participation à la Collection: Histoire de mon pays Haïti. Geneviève Auguste, responsable. Port-au-Prince: Deschamps, 1993-1995 (4 livres).</item>
-      <item>Géographie I et II (3ème à 6ème années primaire), responsable de la collection: O. Roy Fombrun. Port-au-Prince: Deschamps, 2002-2003.</item>
-      <item>Livre unique (Sciences sociales, deuxième année). Responsable de la collection: O. Roy-Fombrun. Port-au-Prince: Deschamps, 2006.</item>
-      <item>Livre unique (Sciences sociales, première année). Responsable de la collection: O. Roy-Fombrun. Port-au-Prince: Deschamps, 2007.</item>
-    </list>
-    <list subtype="oeuvre en langue créole (kreyòl)">
-      <item>Ti Koze sou Istwa Dayiti. Plaquette, 1986, 12 pp.</item>
-      <item>4 Kaye eleksyon Deschamps. (impression financée par l’IRHED.) Port-au-Prince: Deschamps, 1987.</item>
-      <item>Istwa Ayiti:
+        <item>Des Origines à l’Indépendance. Action sociale et O. Roy Fombrun, 1982, puis Port-au-Prince: Deschamps depuis 1995, 138 pp.</item>
+        <item>De l‘Indépendance à nos jours. Action sociale et O. Roy Fombrun, 1982, puis Port-au-Prince: Deschamps depuis 1995, 194 pp.</item>
+        <item>Les problèmes du système éducatif en Haïti: solution, la révolution konbitique non violante. Port-au-Prince: Deschamps, 1989, 80 pp.</item>
+        <item>Du créole au français. Port-au-Prince: Éditions Areytos, 1990, 64 pp.</item>
+        <item>Participation à la Collection: Histoire de mon pays Haïti. Geneviève Auguste, responsable. Port-au-Prince: Deschamps, 1993-1995 (4 livres).</item>
+        <item>Géographie I et II (3ème à 6ème années primaire), responsable de la collection: O. Roy Fombrun. Port-au-Prince: Deschamps, 2002-2003.</item>
+        <item>Livre unique (Sciences sociales, deuxième année). Responsable de la collection: O. Roy-Fombrun. Port-au-Prince: Deschamps, 2006.</item>
+        <item>Livre unique (Sciences sociales, première année). Responsable de la collection: O. Roy-Fombrun. Port-au-Prince: Deschamps, 2007.</item>
+      </list>
+      <list subtype="oeuvre en langue créole (kreyòl)">
+        <item>Ti Koze sou Istwa Dayiti. Plaquette, 1986, 12 pp.</item>
+        <item>4 Kaye eleksyon Deschamps. (impression financée par l’IRHED.) Port-au-Prince: Deschamps, 1987.</item>
+        <item>Istwa Ayiti:
 
 Ispayola, premye liv endyen Ayiti okipasyon lespay (Occupation espagnole). Port-au-Prince: Le Natal, 1987, 64 pp.
 Ayisyen revolisyonè 1492-1804. Port-au-Prince: Editions Areytos et Deschamps, 1987, 113 pp.
 Haïti  (en manuscrit)
 
 </item>
-      <item>Ispayola, premye liv endyen Ayiti okipasyon lespay (Occupation espagnole). Port-au-Prince: Le Natal, 1987, 64 pp.</item>
-      <item>Ayisyen revolisyonè 1492-1804. Port-au-Prince: Editions Areytos et Deschamps, 1987, 113 pp.</item>
-      <item>Haïti  (en manuscrit)</item>
-      <item>Konbit tètansanm pou Ayiti kanpe. Port-au-Prince: Deschamps, 1990, 32 pp.</item>
-      <item>Ti Koze sou Konstitisyon. Port-au-Prince: Deschamps, 1990, 32 pp.</item>
-      <item>Dwa ak Devwa tout Ayisyen. (financé par le FERF.) Port-au-Prince: Deschamps, 1999, 32 pp.</item>
-      <item> Fefe ak Kikit. Coconut Creek (Florida): EducaVision, 1999, 19 pp.</item>
-      <item>Zanmi lekòl / Camarades (édition bilingue). Coconut Creek: EducaVision, 1999, 8 pp.</item>
-      <item>Ti Jan ak Drapo Ayiti. Dans Entèlijans Wobè (4 textes pour enfants). Montréal: CIDIHCA, 2000.</item>
-      <item>Ti zwezo ak pye pen (Kont Nwèl). Bon Nouvèl (journal), décembre 2002.</item>
-      <item>Seskzman sou Sezisman (traduction de Surprise en Surprise).Desen: Patrick Charles,2002.</item>
-      <item>Eleksyon an Ayiti; Dwa ak devwa kandida elektè. (financé par le FERF.) Port-au-Prince: Deschamps, 2004, 26 pp.</item>
-    </list>
-    <list subtype="scénario">
-      <item> Ni vu ni connu. Script pour film (avec son fils, Prof. Charles Fombrun) 2002.</item>
-    </list>
-    <list subtype="inédits">
-      <item>Vies d’enfants (Rwanda). Manuscrit disponible.</item>
-    </list>
-    <list subtype="conférences à l’étranger">
-      <item>Boston Konbit Clinic, 23 mai 1983.</item>
-      <item>Harvard University, Cambridge, Massachusetts, mai 1993.</item>
-      <item>Alliance Française, Miami, mai 2003.</item>
-      <item>Centre Culturel de la Galerie Mapou, Miami, mai 2003 (pour la fête du drapeau).</item>
-    </list>
-    <list subtype="prix et distinctions sélectionnés">
-      <item>1981     Prix du Ministère de l’Éducation Nationale, pour Anita et Virginie de l’île Maurice.</item>
-      <item>1993     Award du Boston Konbit clinic, 23 May 1993.</item>
-      <item>2002     Docteur Honoris Causa, Université Royale d’Haïti, 7 décembre 2002.</item>
-      <item>2002     Éducatrice de l’année, par Phoenixgroup.</item>
-      <item>2005     Honneur de Mérite du Collectif Féminin Haïtien pour la Participation des Femmes (Fanm Ya La) et la Fédération Claire Heureuse Félicité Bonheur Dessalines (FF).</item>
-      <item>2005     Outstanding Service Award, Haitian Studies Association, Boston, 15 octobre 2005.</item>
-      <item>2006     Education and Civicism Award, Foundation Hope for Haiti, Inc., Miami, 22 avril 2006. </item>
-      <item>2006     Diplôme venant du cœur, « Chevalier de l’ordre des mega-citoyens » des Éditions Deschamps à : « Notre Odette nationale. Notre « Kòk batay« . Notre maman à tous », 22 juin 2006.</item>
-      <item>2006     Honneur et Remerciements de l’Association des paysans de Vallue (APV) à Odette Roy Fombrun, pour son apport dans le domaine de l’Éducation civique en Haïti, 7 décembre 2006.</item>
-      <item>2007     Honneur et Mérite à Odette Roy Fombrun par le Club BPW de Port-au-Prince, pour son dévouement et sa contribution à l’évolution de la femme haïtienne, 13 juin 2007.</item>
-      <item>2007     Ministère de l’Éducation nationale : Honneur et mérite pour ses 68 ans de carrière au service de l’Éducation en Haïti et sa contribution au développement du secteur, 5 août 2007.</item>
-      <item>2008     United Nations Artists Award to the Haitians Pioneer Success, 23 mars 2008.</item>
-      <item>2008     Honneur et Mérite sont décernés à l’écrivain Odette Roy Fombrun pour avoir contribué à l’enrichissement du savoir à l’Institut La Source.</item>
-      <item>2008     Hommage de l’école Le Gédéon, 16 mai 2008.</item>
-      <item>2008     Femmes cadres en action. Hommage en action à Odette Roy Fombrun, qui ne cesse de se sacrifier pour la société haïtienne, juillet 2008.</item>
-      <item>2009     Désignée « Trésor national vivant » (avec Georges Corvington et Yole Dérose), par la Fondation Françoise Canez Auguste et Image et Marketing S.A. (Haïti), 10 janvier 2009.</item>
-      <item>2012     Honneur et Mérite au grade Chevalier, par le Président de la République J. Michel Martelly, pour sa haute contribution à l’enseignement et son engagement au Konbitisme.</item>
-      <item>2014     Certificat de Mérite Civique du Ministère de la Jeunesse, des Sports et de l’Action civique, pour son travail dans les domaines de la culture et du développement du pays.</item>
-      <item>2014     Choisie membre de l’Académie du Créole haïtien à sa fondation.</item>
-      <item>2017     Invitée d’honneur à Livres en folie, Haïti.</item>
-    </list>
-    <list subtype="sur l’oeuvre d’odette roy fombrun">
-      <item>« Odette Roy Fombun, Chita pale » (interview). L’Éducateur (Port-au-Prince) 9 (mai 1987).</item>
-      <item>Dialogue avec Odette Roy Fombrun. Pluriel Magazine (octobre-novembre 1998): 24-27.</item>
-      <item>Doret, Michel. « Kombite Solidarité de Mme Odette Roy Fombrun, ou Tout vers une même ambition nationale ». Revue Société d’Histoire 180-181 (juillet-octobre 1994).</item>
-      <item>Dumas, Pierre Raymond. « Le patriotisme contagieux d’Odette Roy Fombrun ».Le Nouvelliste (18 octobre 2001).</item>
-      <item>Laurent, Bertrand. Article (en français et en anglais) dans Caricom Perspective 71 (July 2002).</item>
-      <item>NDengue, Belmondo Blackson. « Odette Roy Fombrun, apôtre du Konbitisme ». Amina 275 (mars 1993): 10-11.</item>
-      <item>Thévenin, Joseph. « Souvenirs de la jungle politique ». (lecture de Ma vie en trois temps). Haïtiens aujourd’hui (juin 2003): 27-28.</item>
-      <item>Thimothé, Frick. « Où est passée Yvonne ? » (compte-rendu) ». Le Nouvelliste (2-3 août 2004): 10-12.</item>
-    </list>
+        <item>Ispayola, premye liv endyen Ayiti okipasyon lespay (Occupation espagnole). Port-au-Prince: Le Natal, 1987, 64 pp.</item>
+        <item>Ayisyen revolisyonè 1492-1804. Port-au-Prince: Editions Areytos et Deschamps, 1987, 113 pp.</item>
+        <item>Haïti  (en manuscrit)</item>
+        <item>Konbit tètansanm pou Ayiti kanpe. Port-au-Prince: Deschamps, 1990, 32 pp.</item>
+        <item>Ti Koze sou Konstitisyon. Port-au-Prince: Deschamps, 1990, 32 pp.</item>
+        <item>Dwa ak Devwa tout Ayisyen. (financé par le FERF.) Port-au-Prince: Deschamps, 1999, 32 pp.</item>
+        <item> Fefe ak Kikit. Coconut Creek (Florida): EducaVision, 1999, 19 pp.</item>
+        <item>Zanmi lekòl / Camarades (édition bilingue). Coconut Creek: EducaVision, 1999, 8 pp.</item>
+        <item>Ti Jan ak Drapo Ayiti. Dans Entèlijans Wobè (4 textes pour enfants). Montréal: CIDIHCA, 2000.</item>
+        <item>Ti zwezo ak pye pen (Kont Nwèl). Bon Nouvèl (journal), décembre 2002.</item>
+        <item>Seskzman sou Sezisman (traduction de Surprise en Surprise).Desen: Patrick Charles,2002.</item>
+        <item>Eleksyon an Ayiti; Dwa ak devwa kandida elektè. (financé par le FERF.) Port-au-Prince: Deschamps, 2004, 26 pp.</item>
+      </list>
+      <list subtype="scénario">
+        <item> Ni vu ni connu. Script pour film (avec son fils, Prof. Charles Fombrun) 2002.</item>
+      </list>
+      <list subtype="inédits">
+        <item>Vies d’enfants (Rwanda). Manuscrit disponible.</item>
+      </list>
+      <list subtype="conférences à l’étranger">
+        <item>Boston Konbit Clinic, 23 mai 1983.</item>
+        <item>Harvard University, Cambridge, Massachusetts, mai 1993.</item>
+        <item>Alliance Française, Miami, mai 2003.</item>
+        <item>Centre Culturel de la Galerie Mapou, Miami, mai 2003 (pour la fête du drapeau).</item>
+      </list>
+      <list subtype="prix et distinctions sélectionnés">
+        <item>1981     Prix du Ministère de l’Éducation Nationale, pour Anita et Virginie de l’île Maurice.</item>
+        <item>1993     Award du Boston Konbit clinic, 23 May 1993.</item>
+        <item>2002     Docteur Honoris Causa, Université Royale d’Haïti, 7 décembre 2002.</item>
+        <item>2002     Éducatrice de l’année, par Phoenixgroup.</item>
+        <item>2005     Honneur de Mérite du Collectif Féminin Haïtien pour la Participation des Femmes (Fanm Ya La) et la Fédération Claire Heureuse Félicité Bonheur Dessalines (FF).</item>
+        <item>2005     Outstanding Service Award, Haitian Studies Association, Boston, 15 octobre 2005.</item>
+        <item>2006     Education and Civicism Award, Foundation Hope for Haiti, Inc., Miami, 22 avril 2006. </item>
+        <item>2006     Diplôme venant du cœur, « Chevalier de l’ordre des mega-citoyens » des Éditions Deschamps à : « Notre Odette nationale. Notre « Kòk batay« . Notre maman à tous », 22 juin 2006.</item>
+        <item>2006     Honneur et Remerciements de l’Association des paysans de Vallue (APV) à Odette Roy Fombrun, pour son apport dans le domaine de l’Éducation civique en Haïti, 7 décembre 2006.</item>
+        <item>2007     Honneur et Mérite à Odette Roy Fombrun par le Club BPW de Port-au-Prince, pour son dévouement et sa contribution à l’évolution de la femme haïtienne, 13 juin 2007.</item>
+        <item>2007     Ministère de l’Éducation nationale : Honneur et mérite pour ses 68 ans de carrière au service de l’Éducation en Haïti et sa contribution au développement du secteur, 5 août 2007.</item>
+        <item>2008     United Nations Artists Award to the Haitians Pioneer Success, 23 mars 2008.</item>
+        <item>2008     Honneur et Mérite sont décernés à l’écrivain Odette Roy Fombrun pour avoir contribué à l’enrichissement du savoir à l’Institut La Source.</item>
+        <item>2008     Hommage de l’école Le Gédéon, 16 mai 2008.</item>
+        <item>2008     Femmes cadres en action. Hommage en action à Odette Roy Fombrun, qui ne cesse de se sacrifier pour la société haïtienne, juillet 2008.</item>
+        <item>2009     Désignée « Trésor national vivant » (avec Georges Corvington et Yole Dérose), par la Fondation Françoise Canez Auguste et Image et Marketing S.A. (Haïti), 10 janvier 2009.</item>
+        <item>2012     Honneur et Mérite au grade Chevalier, par le Président de la République J. Michel Martelly, pour sa haute contribution à l’enseignement et son engagement au Konbitisme.</item>
+        <item>2014     Certificat de Mérite Civique du Ministère de la Jeunesse, des Sports et de l’Action civique, pour son travail dans les domaines de la culture et du développement du pays.</item>
+        <item>2014     Choisie membre de l’Académie du Créole haïtien à sa fondation.</item>
+        <item>2017     Invitée d’honneur à Livres en folie, Haïti.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’odette roy fombrun">
+        <item>« Odette Roy Fombun, Chita pale » (interview). L’Éducateur (Port-au-Prince) 9 (mai 1987).</item>
+        <item>Dialogue avec Odette Roy Fombrun. Pluriel Magazine (octobre-novembre 1998): 24-27.</item>
+        <item>Doret, Michel. « Kombite Solidarité de Mme Odette Roy Fombrun, ou Tout vers une même ambition nationale ». Revue Société d’Histoire 180-181 (juillet-octobre 1994).</item>
+        <item>Dumas, Pierre Raymond. « Le patriotisme contagieux d’Odette Roy Fombrun ».Le Nouvelliste (18 octobre 2001).</item>
+        <item>Laurent, Bertrand. Article (en français et en anglais) dans Caricom Perspective 71 (July 2002).</item>
+        <item>NDengue, Belmondo Blackson. « Odette Roy Fombrun, apôtre du Konbitisme ». Amina 275 (mars 1993): 10-11.</item>
+        <item>Thévenin, Joseph. « Souvenirs de la jungle politique ». (lecture de Ma vie en trois temps). Haïtiens aujourd’hui (juin 2003): 27-28.</item>
+        <item>Thimothé, Frick. « Où est passée Yvonne ? » (compte-rendu) ». Le Nouvelliste (2-3 août 2004): 10-12.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+        <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+        <item ref="http://ile-en-ile.org/odette-roy-fombrun-renommons-lile-quisqueya-non-pas-hispaniola/">Renommons l’île: Quisqueya, non pas Hispaniola</item>
+        <item ref="http://www.forfhaiti.org/">La Fondation Odette Roy Fombrun</item>
+        <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+        <item ref="http://www.un.org/rights/micivih/rapports/part3.htm">La Constitution de 1987 et les Droits de l’Homme</item>
+        <item ref="http://www.alterpresse.org/article.php3?id_article=1811">Le désastre des Gonaïves et le konbitisme d’Odette Roy Fombrun</item>
+        <item ref="http://www.alterpresse.org/imprimer.php3?id_article=6098">Haïti : Des femmes rendent hommage à une nonagénaire</item>
+        <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=16914">Hommage à une femme exceptionnelle</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=31890">Conflits et banqueroute</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=34326">Appel au ministre de la Culture et aux Chambres législatives</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=36236">Le rapport La Touche Tréville</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=43717">À propos du drapeau – précisions</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=50912">Odette Roy-Fombrun, 90 ans, continue encore à écrire</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=58672">Discours de Odette Roy Fombrun</item>
+        <item ref="http://lenouvelliste.com/article/171617/les-publications-prix-et-distinctions-dodette-roy-fombrun">Les publications, prix et distinctions d’Odette Roy Fombrun</item>
+        <item ref="http://lenouvelliste.com/article/171551/odette-roy-fombrun-nous-sommes-aussi-des-amerindiens">Odette Roy Fombrun: Nous sommes aussi des Amérindiens</item>
+      </list>
+    </div>
   </div>
 </TEI>

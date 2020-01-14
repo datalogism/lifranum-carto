@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Mona_Guerin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,19 +12,129 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/guerin/" xml:id="Mona_Guerin_bio_auteur_ile_en_ile">
-    <p>Mona Guérin naît le 9 octobre 1934 à Port-au-Prince (Haïti). Fille de Camille Duplessy et de Gontran Rouzier, la jeune Mona Rouzier fait ses études primaires chez les Sœurs de Saint-Joseph de Cluny à Port-au-Prince et ses études secondaires au Pensionnat Sainte-Rose de Lima (Port-au-Prince). Son père, sous-secrétaire d’État sous le gouvernement du président Lescot, connaîtra les déboires de la chute de ce gouvernement en 1946 qui vont marquer l’adolescence de l’écrivaine. De ses deux parents, elle dit hériter le sens d’humour ; elle rend hommage à la sagesse et le bon cœur de sa mère par le personnage de Grand-mère Mérien dans son feuilleton Roye ! Les Voilà !</p>
-    <p>Après un recueil de poésie en alexandrins publié à 24 ans, elle part au Canada en 1959, ayant obtenu une bourse du Conseil des Arts du Canada lui permettant d’étudier la littérature contemporaine à l’Université Catholique d’Ottawa. À son retour en Haïti, elle se marie à l’ingénieur Joseph Guérin et s’occupe de leurs deux filles, mène une carrière d’enseignante comme institutrice à l’école « Au Galop » (de 1965 à 1980) et se consacre au théâtre.</p>
-    <p>Dès 1966, sa pièce L’Oiseau de ces dames est jouée au théâtre Rex à Port-au-Prince (dans une mise en scène de Charles Alexandre Abellard) et remporte un grand succès. Jusqu’à 1976, cinq autres pièces vont suivre, toutes mises en scène à Port-au-Prince. Si La Pieuvre (1971) reste la pièce préférée de l’auteure, c’est La Pension Vacher (1976) qui remportera le plus grand succès auprès du public. Dans le théâtre de Guérin, on trouve « de simples choses vues : des bribes d’émotions ou de situations dans une ambiance chatoyante et stressante que l’amour, l’humour, le snobisme, la dénonciation des conventions et des préjugés, l’image de la femme dans une société asservie, le goût de l’excellence et de la beauté » (Le Nouvelliste, juillet 2001).</p>
-    <p>Mona Guérin se fait connaître du grand public comme chroniqueuse du quotidien haïtien grâce à ses satires sociales. Elle écrit de nombreux scénarios pour la radio et la télévision. Son feuilleton Roye ! Les Voilà ! – le feuilleton radiophonique le plus populaire du pays – débute en août 1982 sur les ondes de Radio-Métropole et continue ensuite sur Magik-Stéréo. Roye ! Les voilà ! ne s’arrêtera qu’en août 1994, après 950 épisodes diffusés : douze ans pendant lesquels l’auteure fera vivre les personnages des familles Jambe et Mérien qui deviennent familiers au grand public. Guérin crée d’autres émissions à caractère religieux, éducatif ou satirique dont Récréation avec tante Mariette (1971, une émission pour enfants) pour Radio Nouveau-Monde et, pour Radio-Métropole, trois émissions dominicales (de 1972 à 1982) : Ces dames gardent la ligne, Variations sur un mot et Jackotte et Monica. En collaboration avec sa fille, Élisabeth Guérin Parisot, elle crée sur les ondes de Magik-Stéréo les émissions Comment vivons-nous et An nou gade ki jan nap viv (juillet-août 1997). Également sur Magik-Stéréo, Mona Guérin anime Dieu à tout moment (de janvier 1992 à septembre 1994) et crée une soixantaine de sketches diffusés sous le titre de l’émission, Petit théâtre de Magik-Stéréo (octobre 1994-juin 1995).</p>
-    <p>Pour la télévision haïtienne, Guérin écrit plus de 150 sketches pour l’émission Gala de Galerie de Gérald Alexis, diffusés chaque semaine sur Télé-Haïti de 1977 à 1981. Malheureusement, aucune de ses émissions télévisées – y compris les interviews et reportages autour de l’émission – n’a été conservée.</p>
-    <p>Personnalité très visible dans la production culturelle haïtienne, Guérin participe également à des jurys internationaux : elle est membre du jury du Prix Littéraire Henri Deschamps (de 1975 à 1985), membre du jury au 4e et 5e Festivals de la Francophonie (1989 et 1990) et reçoit de nombreuses distinctions, dont un hommage du barreau de Port-au-Prince en 1981, le Prix Littéraire des Caraïbes en 1999 et le « Bravo » du quotidien Le Nouvelliste qui honore une personnalité haïtienne (voir le supplément spécial consacré à l’écrivaine en juillet 2001) ; elle est nommée docteur honoris causa de l’Université Royale d’Haïti en 2002.</p>
-    <p>Dans la presse écrite, Mona Guérin assume une chronique hebdomadaire, « Le coin de Cécile », dans Le Nouvelliste de 1965 à 1970. Cette chronique n’est pas d’abord signée de son nom mais l’auteure se révèle au moment de la mise en scène de sa première pièce L’Oiseau de ces dames en 1966, puisque la chronique étant populaire, cela sert à attirer l’attention sur la nouvelle pièce. Également pour Le Nouvelliste, elle tient une chronique « Mi-figue mi-raisin » de 1977 à 1981 et dont elle tirera la collection de nouvelles du même titre.</p>
+    <p>
+      <persName ana="Mona_Guerin">Mona Guérin</persName>
+       naît le 9 octobre 1934 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Fille de 
+      <persName ana="Camille_Duplessy">Camille Duplessy</persName>
+       et de 
+      <persName ana="Gontran_Rouzier">Gontran Rouzier</persName>
+      , la jeune 
+      <persName ana="Mona_Rouzier">Mona Rouzier</persName>
+       fait ses études primaires chez les Sœurs de Saint-
+      <persName ana="Joseph_De_Cluny">Joseph de Cluny</persName>
+       à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       et ses études secondaires au Pensionnat 
+      <location ana="Sainte">Sainte</location>
+      -
+      <persName ana="Rose_De_Lima">
+        Rose de 
+        <location ana="Lima">Lima</location>
+      </persName>
+       (
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      ). Son père, sous-secrétaire d’État sous le gouvernement du 
+      <persName ana="President_Lescot">Président Lescot</persName>
+      , connaîtra les déboires de la chute de ce gouvernement en 1946 qui vont marquer l’adolescence de l’écrivaine. De ses deux parents, elle dit hériter le sens d’humour ; elle rend hommage à la sagesse et le bon cœur de sa mère par le personnage de Grand-mère Mérien dans son feuilleton Roye ! Les Voilà !
+    </p>
+    <p>
+      Après un recueil de poésie en alexandrins publié à 24 ans, elle part au 
+      <location ana="Canada">Canada</location>
+       en 1959, ayant obtenu une bourse du Conseil des Arts du 
+      <location ana="Canada">Canada</location>
+       lui permettant d’étudier la littérature contemporaine à l’Université Catholique d’
+      <location ana="Ottawa">Ottawa</location>
+      . À son retour en 
+      <location ana="Haiti">Haïti</location>
+      , elle se marie à l’ingénieur 
+      <persName ana="Joseph_Guerin">Joseph Guérin</persName>
+       et s’occupe de leurs deux filles, mène une carrière d’enseignante comme institutrice à l’école « Au 
+      <location ana="Galop">Galop</location>
+       » (de 1965 à 1980) et se consacre au théâtre.
+    </p>
+    <p>
+      Dès 1966, sa pièce L’Oiseau de ces dames est jouée au théâtre Rex à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (dans une mise en scène de 
+      <persName ana="Charles_Alexandre_Abellard">Charles Alexandre Abellard</persName>
+      ) et remporte un grand succès. Jusqu’à 1976, cinq autres pièces vont suivre, toutes mises en scène à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Si 
+      <location ana="La_Pieuvre">La Pieuvre</location>
+       (1971) reste la pièce préférée de l’auteure, c’est La Pension Vacher (1976) qui remportera le plus grand succès auprès du public. Dans le théâtre de Guérin, on trouve « de simples choses vues : des bribes d’émotions ou de situations dans une ambiance chatoyante et stressante que l’amour, l’humour, le snobisme, la dénonciation des conventions et des préjugés, l’image de la femme dans une société asservie, le goût de l’excellence et de la beauté » (Le Nouvelliste, juillet 2001).
+    </p>
+    <p>
+      <persName ana="Mona_Guerin">Mona Guérin</persName>
+       se fait connaître du grand public comme chroniqueuse du quotidien haïtien grâce à ses satires sociales. Elle écrit de nombreux scénarios pour la radio et la télévision. Son feuilleton Roye ! Les Voilà ! – le feuilleton radiophonique le plus populaire du pays – débute en août 1982 sur les ondes de Radio-
+      <location ana="Metropole">Métropole</location>
+       et continue ensuite sur 
+      <location ana="Magik">Magik</location>
+      -Stéréo. Roye ! Les voilà ! ne s’arrêtera qu’en août 1994, après 950 épisodes diffusés : douze ans pendant lesquels l’auteure fera vivre les personnages des familles Jambe et Mérien qui deviennent familiers au grand public. Guérin crée d’autres émissions à caractère religieux, éducatif ou satirique dont Récréation avec tante Mariette (1971, une émission pour enfants) pour Radio Nouveau-Monde et, pour Radio-
+      <location ana="Metropole">Métropole</location>
+      , trois émissions dominicales (de 1972 à 1982) : Ces dames gardent la ligne, Variations sur un mot et Jackotte et Monica. En collaboration avec sa fille, 
+      <persName ana="Elisabeth_Guerin_Parisot">Élisabeth Guérin Parisot</persName>
+      , elle crée sur les ondes de 
+      <location ana="Magik">Magik</location>
+      -Stéréo les émissions Comment vivons-nous et An 
+      <location ana="Nou">Nou</location>
+       gade ki jan nap viv (juillet-août 1997). Également sur 
+      <location ana="Magik">Magik</location>
+      -Stéréo, 
+      <persName ana="Mona_Guerin">Mona Guérin</persName>
+       anime Dieu à tout moment (de janvier 1992 à septembre 1994) et crée une soixantaine de sketches diffusés sous le titre de l’émission, Petit théâtre de 
+      <location ana="Magik">Magik</location>
+      -Stéréo (octobre 1994-juin 1995).
+    </p>
+    <p>
+      Pour la télévision 
+      <location ana="Haitienne">Haïtienne</location>
+      , Guérin écrit plus de 150 sketches pour l’émission Gala de Galerie de 
+      <persName ana="Gerald_Alexis">Gérald Alexis</persName>
+      , diffusés chaque semaine sur Télé-
+      <location ana="Haiti">Haïti</location>
+       de 1977 à 1981. Malheureusement, aucune de ses émissions télévisées – y compris les interviews et reportages autour de l’émission – n’a été conservée.
+    </p>
+    <p>
+      Personnalité très visible dans la production culturelle 
+      <location ana="Haitienne">Haïtienne</location>
+      , Guérin participe également à des jurys internationaux : elle est membre du jury du Prix Littéraire 
+      <persName ana="Henri_Deschamps">
+        Henri 
+        <location ana="Deschamps">Deschamps</location>
+      </persName>
+       (de 1975 à 1985), membre du jury au 4e et 5e Festivals de la Francophonie (1989 et 1990) et reçoit de nombreuses distinctions, dont un hommage du barreau de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       en 1981, le Prix Littéraire des 
+      <location ana="Caraibes">Caraïbes</location>
+       en 1999 et le « Bravo » du quotidien Le Nouvelliste qui honore une personnalité 
+      <location ana="Haitienne">Haïtienne</location>
+       (voir le supplément spécial consacré à l’écrivaine en juillet 2001) ; elle est nommée docteur honoris causa de l’Université Royale d’
+      <location ana="Haiti">Haïti</location>
+       en 2002.
+    </p>
+    <p>
+      Dans 
+      <location ana="La_Presse">La Presse</location>
+       écrite, 
+      <persName ana="Mona_Guerin">Mona Guérin</persName>
+       assume une chronique hebdomadaire, « Le coin de Cécile », dans Le Nouvelliste de 1965 à 1970. Cette chronique n’est pas d’abord signée de son nom mais l’auteure se révèle au moment de la mise en scène de sa première pièce L’Oiseau de ces dames en 1966, puisque la chronique étant populaire, cela sert à attirer l’attention sur la nouvelle pièce. Également pour Le Nouvelliste, elle tient une chronique « Mi-figue mi-raisin » de 1977 à 1981 et dont elle tirera la collection de nouvelles du même titre.
+    </p>
     <p>La plume de l’auteure ne se tarit pas, faisant toujours rire par les diverses formes de sa satire sociale. Depuis février 2004, son nouveau feuilleton, Pierre qui roule…, est diffusée à plusieurs reprises, chaque semaine, sur Radio Soleil.</p>
-    <p>Amoindrie les dernières années de sa vie et vivant ailleurs que dans la maison partagée avec son mari (détruite lors du séisme du 12 janvier 2010), Mona Guérin meurt le 30 décembre 2011. Dans les jours qui viennent, nous signalerons des hommages célébrant l’auteure dans les liens ci-dessous.</p>
+    <p>
+      Amoindrie les dernières années de sa vie et vivant ailleurs que dans la 
+      <location ana="Maison">Maison</location>
+       partagée avec son mari (détruite lors du séisme du 12 janvier 2010), 
+      <persName ana="Mona_Guerin">Mona Guérin</persName>
+       meurt le 30 décembre 2011. Dans les jours qui viennent, nous signalerons des hommages célébrant l’auteure dans les liens ci-dessous.
+    </p>
   </text>
 </TEI>

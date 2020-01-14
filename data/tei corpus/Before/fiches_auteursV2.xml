@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- déclaration du fichier TEI et de son encodage -->
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" type="fiches" xml:lang="fr" xml:id="fiches_auteurs"> <!-- xml:id= correspondant à celui du fichier master -->
+   
+   <teiHeader> <!-- déclaration des métadonnées -->
+      <fileDesc>
+         <titleStmt>
+            <title>Notices des entités auteurs - corpus Haïti</title>
+            <author>Inès Burri</author>
+            <author>Anaïs Chambat</author>
+            <author>Célian Ringwald</author>
+         </titleStmt>
+         <publicationStmt>
+            <orgName>Université Jean Moulin Lyon 3</orgName>
+            <orgName>Université Lumière Lyon 2</orgName>
+            <orgName>ENS de Lyon</orgName>
+            <pubPlace>Lyon</pubPlace>
+            <date>30.12.2019</date>
+         </publicationStmt>
+         <sourceDesc>Liste des entités auteurs présentes sur île-en-île sous la forme de notices d'autorité</sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <listPerson>
+         <person xml:id="Marie-Célie_Agnant_fiche" ana="Marie-Célie_Agnant" sex="f"> <!-- une fiche person par entité auteur -->
+            <!-- xml:id= prénom_nom de l'auteur_type de fichier (ici biblio) -->
+            <!-- ana= prénom_nom de l'auteur -->
+            <!-- sex= f pour féminin; m pour masculin base BNF--> 
+            <surname>Agnant</surname>
+            <forename>Marie-Célie</forename>
+            <idno type="BNF"><g ref="https://catalogue.bnf.fr/ark:/12148/cb145884081"></g>FRBNF14588408</idno> <!-- base BNF -->
+            <idno type="VIAF"><g ref="http://viaf.org/viaf/17470529"></g>17470529</idno> <!-- base VIAF -->
+            <birth>
+               <date>1953</date> <!-- base BNF -->
+               <placeName>Haïti</placeName> <!-- base BNF -->
+            </birth>
+            <death>
+               <date></date>
+               <placeName></placeName>
+            </death>
+            <country>Haïti</country> <!-- base bio extraction d'entités nommées -->
+            <country>Canada</country> <!-- base bio extraction d'entités nommées -->
+            <country>Québec</country> <!-- base bio extraction d'entités nommées -->
+            <profession>romancière</profession> <!-- base SPLA.PRO dans la bio en début de texte / base bio extraction d'entités nommées -->
+            <profession>poète</profession> <!-- base SPLA.PRO dans la bio en début de texte / base bio extraction -->
+            <profession>nouvelliste</profession> <!-- base SPLA.PRO dans la bio en début de texte / base bio extraction d'entités nommées -->
+            <profession>conteuse</profession> <!-- base SPLA.PRO dans la bio en début de texte / base bio extraction d'entités nommées -->
+            <profession>traductrice</profession> <!-- base bio extraction d'entités nommées -->
+            <profession>interprète</profession> <!-- base bio extraction d'entités nommées -->
+            <profession>assistante de recherche</profession> <!-- base bio extraction d'entités nommées -->
+            <!-- Outre le BNF et le VIAF, l'ISNI peut être complémentaire en cas de déficit d'informations -->
+         </person>
+      </listPerson>
+   </text>
+</TEI>

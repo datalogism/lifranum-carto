@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Ketline_Adodo_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,25 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.ketline-adodo.33977.html" xml:id="Ketline_Adodo_bio_auteur_spla">
-    <p>Ketline Adodo est née le 7 janvier 1953 à Jacmel, ville-lumière et ville-poète d'Haïti qui porta au monde René Depestre, Jean Metellus et d'autres, tant d'autres, poètes, peintres, musiciens, connus et inconnus.Mariée au Togo, elle y a trouvé et pris ses racines.Background académique : un bouquet de philosophie, sciences sociales et communication ; suivant l'itinéraire : Bordeaux - Paris - New York.Coordinatrice de l'Unité information et communication de l'IFDC, elle est aussi Présidente de Jacmelia, une jeune association qui vise à promouvoir la poésie dans les écoles et dans la Cité.Jacmelia a conçu et met en oeuvre un programme visant à initier et à intégrer l'écriture poétique dans le cursus des écoles primaires au Togo.Ketline Adodo est également membre du Zonta International Club de Lomé et membre de la Société des Poètes Fraçais.</p>
+    <p>
+      Ketline Adodo est née le 7 janvier 1953 à 
+      <location ana="Jacmel">Jacmel</location>
+      , ville-lumière et ville-poète d'
+      <location ana="Haiti">Haïti</location>
+       qui porta au monde 
+      <persName ana="Rene_Depestre">René Depestre</persName>
+      , Jean Metellus et d'autres, tant d'autres, poètes, peintres, musiciens, connus et inconnus.Mariée au Togo, elle y a trouvé et pris ses racines.Background académique : un bouquet de philosophie, sciences sociales et communication ; suivant l'itinéraire : 
+      <location ana="Bordeaux">Bordeaux</location>
+       - 
+      <location ana="Paris">Paris</location>
+       - 
+      <location ana="New_York">New York</location>
+      .Coordinatrice de l'Unité information et communication de l'IFDC, elle est aussi Présidente de Jacmelia, une jeune association qui vise à promouvoir la poésie dans les écoles et dans la Cité.Jacmelia a conçu et met en oeuvre un programme visant à initier et à intégrer l'écriture poétique dans le cursus des écoles primaires au Togo.Ketline Adodo est également membre du Zonta International Club de Lomé et membre de la Société des Poètes Fraçais.
+    </p>
   </text>
 </TEI>

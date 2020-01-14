@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Franz_Benjamin_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Franz Benjamin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/benjamin/" xml:id="Franz_Benjamin_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Valkanday. Montréal: Éditions Paroles, 2000.</item>
+        <item>Chants de mémoire. Montréal: Éditions Paroles, 2003.</item>
+        <item>Dits d’errance. Montréal: Mémoire d’encrier, 2004.</item>
+        <item>Vingt-quatre heures dans la vie d’une nuit. Montréal: Mémoire d’encrier, 2010.</item>
+      </list>
+      <list subtype="anthologies dirigées par franz benjamin">
+        <item>Montréal vu par ses poètes (avec Rodney Saint-Éloi). Montréal: Mémoire d’encrier, 2006.</item>
+        <item>Le Saint-Michel des Haïtiens. Montréal: CIDIHCA, 2013.</item>
+      </list>
+      <list subtype="poésie et textes parus dans des anthologies et ouvrages collectifs">
+        <item>« Naufrage ». Kaléidoscope (collectif). Montréal: Presses de l’AGECR, 1992: 19-20.</item>
+        <item>Angélique 1734 – Haïti 2004. Montréal: Guy Giard, 2004.</item>
+        <item>Ivresse. Numéro spécial de Bacchanales 36 (septembre 2005). Maison de la poésie Rhône-Alpes / Montréal: Adage.</item>
+        <item>La poésie prend le métro et le bus. Danielle Shelton, éd. Paris: Le Temps des cerises / Montréal: Adage, 2006.</item>
+        <item>« Ma ville est un quartier de lune ». Montréal vu par ses poètes. Montréal: Mémoire d’encrier, 2006: 20-21.</item>
+        <item> Plaisir de la poésie; Plaisir des mots. Bordeaux: Les Dossiers d’Aquitaine, 2007.</item>
+        <item>« Mon père ne chante plus ». Les Bruits du monde, sous la direction de Laure Morali et de Rodney Saint-Éloi. Montréal: Mémoire d’encrier, 2012.</item>
+        <item>« Je t’écris entre Montréal et Port-au-Prince » (prose). Bonjour Voisine,  sous la direction de Marie Hélène Poitras. Montréal: Mémoire d’encrier, 2013: 299-306.</item>
+        <item>« La misère du monde ». Las Palabras pueden, Power of words (anthologie en quatre langues). Panama: UNICEF, 2007.</item>
+        <item>« Résonnances haïtiennes ». Revue Exit, Montréal, mai 2008.</item>
+        <item>Haïti, je t’aime ! Ayiti, mwen renmen ou !  Collectif. Ottawa: Éditions du Vermillon, 2010.</item>
+        <item>Cinq poèmes. Anthologie de poésie haïtienne, sous la direction de James Noël, Paris: Seuil Points, 2015: 277-86.</item>
+        <item>« Montréal Fa Si La Si Do ». Montréal, j’ai quelque chose à te dire, Lucile de Peslouan, éditrice adjointe. Montréal: Éditions de l’Isatis, 2017.</item>
+        <item>« Ayiti Chéri ». Poésie haïtienne / Poesia haitiana, 1800-2015, sous la direction de Yasmina Tippenhauer. Casa de las Americas et Legs Édition, 2017.</item>
+        <item>« Lettre à Manuel, Jeanne et Sarah ». Des hommes et des ombres, sous la direction de Dieulermesson Petit Frère. Port-au-Prince: Legs Édition, 2018: 15-24.</item>
+      </list>
+      <list subtype="discographie">
+        <item>Chants de mémoire. Dits par Marie Michelle Amédée Volcy et al. Montréal: Éditions Paroles, 2003. Disque compact.</item>
+        <item>« Montréal au mois d’aimer ». Montréal vu par ses poètes. Textes dits par Gabriel Gascon et al. Montréal: Société Paroles, 2006. Disque compact.</item>
+        <item>Lettres d’automne / Tanlapli. Montréal: Paroles, 2007. Avec les voix de Franz Benjamin, Jeanie Bogart et Emeline Michel, avec Oswald Durand Jr. (guitare et flûte) et Jean-Claude Julien (clavier et percussions). Disque compact.</item>
+        <item>« Kouvri m cheri », texte de Franz Benjamin. Kreyòl chante kreyòl konprann (vol. 2), par Bic (Bic Tizon Dife), 2012.</item>
+        <item>« Pran m », texte de Franz Benjamin. Chants de mémoire, par Danielle Guillaume, 2003.</item>
+        <item>« Kè m ap sote », texte de Franz Benjamin. Quintessence, par Emeline Michel, Production Cheval de feu, 2013</item>
+        <item>« Mwen pral trase kata », texte de Franz Benjamin. Mwen pral trase kata, par Rutshelle Guillaume, 2014.</item>
+        <item>« Dechennen m », texte de Franz Benjamin. Dechennen m, par Rutshelle Guillaume, 2016.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2008     Prix Kalbas Lo Lakarayib (Martinique) pour le poème « Se lanmè se dezè », traduit en français, anglais et espagnol.</item>
+      </list>
+      <list subtype="sur l’oeuvre de franz benjamin">
+        <item>Dumas, Pierre-Raymond. « Haïti : La nuit, la poésie, la vie ». Le Nouvelliste (29 avril 2011).</item>
+        <item>Paquin, Jacques. « Ode à la beauté ». Lettres québécoises 143 (automne 2011): 44.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+        <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+        <item ref="http://ile-en-ile.org/franz-benjamin-nwit-la-denye-rel/">Nwit la</item>
+        <item ref="http://franzbenjamin.org/"> Franz Benjamin</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=12456">Poésie: « Chants de mémoire », chants d’amour</item>
+        <item ref="http://www.tanbou.com/2006/summer/FrantzBenjaminOnALacheLesLoups.htm">On a lâché les loups</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=37466">Les jeux de mots de Frantz Benjamin</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=37892">« Chants de mémoire » et « Dits d’errance » : vers un voyage initiatique</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=37970">Franz Benjamin, le poète des tornades d’arrière-saison…</item>
+        <item ref="http://csmsmagazine.org/?p=1872">Le jeu de mots de Frantz Benjamin</item>
+        <item ref="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=431">Franz Benjamin</item>
+        <item ref="http://www.csmsmagazine.org/news.php?pg=20071215I583">Tan Lapli</item>
+        <item ref="http://www.voir.ca/publishing/article.aspx?zone=1&amp;section=10&amp;article=74226">Vingt-quatre heures dans la vie d’une nuit</item>
+        <item ref="http://www.voir.ca/publishing/article.aspx?zone=1&amp;section=10&amp;article=74226">« 24 heures dans la vie d’une nuit », avec Franz Benjamin</item>
+      </list>
+    </div>
+  </div>
+</TEI>

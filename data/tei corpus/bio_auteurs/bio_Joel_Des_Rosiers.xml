@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Joel_Des_Rosiers_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,15 +12,45 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/desrosiers/" xml:id="Joel_Des_Rosiers_bio_auteur_ile_en_ile">
-    <p>Né aux Cayes (Haïti) le 26 octobre 1951, descendant d’un signataire de l’Acte d’indépendance, Joël Des Rosiers passe son adolescence au Canada quand sa famille gagne l’exil et partira faire des études à Strasbourg où il se lie à la mouvance situationniste au début des années 70.</p>
-    <p>Médecin, poète et essayiste, il parcourt le monde, en particulier un long voyage au Sahel, avant de publier aux éditions Triptyque divers recueils de poèmes dont Tribu, Savanes et un essai Théories Caraïbes.</p>
+    <p>
+      Né aux 
+      <location ana="Cayes">Cayes</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ) le 26 octobre 1951, descendant d’un signataire de l’Acte d’indépendance, Joël 
+      <persName ana="Des_Rosiers">Des Rosiers</persName>
+       
+      <location ana="Passe">Passe</location>
+       son adolescence au 
+      <location ana="Canada">Canada</location>
+       quand sa famille gagne l’exil et partira faire des études à 
+      <location ana="Strasbourg">Strasbourg</location>
+       où il se lie à la mouvance situationniste au début des années 70.
+    </p>
+    <p>
+      Médecin, poète et essayiste, il parcourt le monde, en particulier un long voyage au 
+      <location ana="Sahel">Sahel</location>
+      , avant de publier aux éditions Triptyque divers recueils de poèmes dont Tribu, Savanes et un essai Théories 
+      <location ana="Caraibes">Caraïbes</location>
+      .
+    </p>
     <p>Sa poésie qui procède de mystères et de sacrifices est en même temps travaillée par d’extrêmes tensions qui se mêlent étrangement à une érudition apparemment clinique où la mélancolie de la chair s’offre à se commuer en deuil, en cérémonie religieuse et sensuelle.</p>
-    <p>Il reçoit en 1999 le Grand Prix du livre de Montréal pour Vétiver.</p>
-    <p>Depuis 1996, Joël Des Rosiers est vice-président de l’Union des écrivaines et écrivains québécois (UNEQ) où il est membre du Conseil d’administration depuis 1993. Il a aussi été vice-président de la Société Littéraire de Laval de 1991 à 1995.</p>
+    <p>
+      Il reçoit en 1999 le Grand Prix du livre de 
+      <location ana="Montreal">Montréal</location>
+       pour Vétiver.
+    </p>
+    <p>
+      Depuis 1996, Joël 
+      <persName ana="Des_Rosiers">Des Rosiers</persName>
+       est vice-président de l’Union des écrivaines et écrivains québécois (UNEQ) où il est membre du Conseil d’administration depuis 1993. Il a aussi été vice-président de la Société Littéraire de 
+      <location ana="Laval">Laval</location>
+       de 1991 à 1995.
+    </p>
   </text>
 </TEI>

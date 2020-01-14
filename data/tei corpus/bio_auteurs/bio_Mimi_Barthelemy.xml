@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Mimi_Barthelemy_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,16 +12,68 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/barthelemy/" xml:id="Mimi_Barthelemy_bio_auteur_ile_en_ile">
-    <p>Mimi Barthélémy est née à Port-au-Prince (Haïti) le 3 mai 1939.</p>
-    <p>Conteuse, actrice, écrivaine et metteuse en scène, Mimi Barthélémy a été éduquée en Haïti et en France (doctorat d’études dramatiques). Elle a fait de grands séjours en Amérique du Sud, au Sri Lanka, au Maghreb puis s’est installée à Paris. Elle a eu quatre enfants et a publié une douzaine de livres, surtout des contes en français créolisé, créés ou travaillés à partir des traditions haïtiennes, des disques compacts et audio-cassettes circulent également. Elle est souvent sollicitée pour des jurys et s’identifie comme artiste francophone. Sa pièce Une très belle mort – jouée en duo gestuel avec sa fille, la plasticienne Elodie Barthélémy – a connu un franc succès en Avignon, l’été 2001 avec sa compagnie, Ti Moun Fou.</p>
+    <p>
+      <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
+       est née à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ) le 3 mai 1939.
+    </p>
+    <p>
+      Conteuse, actrice, écrivaine et metteuse en scène, Mimi Barthélémy a été éduquée en 
+      <location ana="Haiti">Haïti</location>
+       et en 
+      <location ana="France">France</location>
+       (doctorat d’études dramatiques). Elle a fait de grands séjours en 
+      <location ana="Amerique_Du_Sud">Amérique du Sud</location>
+      , au 
+      <location ana="Sri_Lanka">Sri Lanka</location>
+      , au 
+      <location ana="Maghreb">Maghreb</location>
+       puis s’est installée à 
+      <location ana="Paris">Paris</location>
+      . Elle a eu quatre enfants et a publié une douzaine de livres, surtout des contes en français créolisé, créés ou travaillés à partir des traditions haïtiennes, des disques compacts et audio-cassettes circulent également. Elle est souvent sollicitée pour des jurys et s’identifie comme artiste francophone. Sa pièce Une très belle mort – jouée en duo gestuel avec sa fille, la plasticienne 
+      <persName ana="Elodie_Barthelemy">Elodie Barthélémy </persName>
+      – a connu un franc succès en 
+      <location ana="Avignon">Avignon</location>
+      , l’été 2001 avec sa compagnie, Ti Moun Fou.
+    </p>
     <p> </p>
-    <p>Mimi Barthélémy est décédée soudainement à Paris le 27 avril 2013, à moins d’une semaine de son 74e anniversaire. Elle laisse en deuil sa famille, ses nombreux amis proches et un public immense, à Paris, Port-au-Prince, Montréal et partout dans le monde où elle a transmis son charme, son intelligence, son énergie, son engagement, son patrimoine culturel et sa joie de vivre. Voir les liens ci-dessous pour une première sélection des hommages publiés dans la presse. Voir aussi la biographie de Mimi Barthélémy sur son site qui présente son oeuvre avec de nombreux exemples audiovisuels.</p>
-    <p>Sur Île en île, vous trouverez le texte de Mimi Barthélémy, « La naissance d’une vocation » qu’elle nous a confié en 2008 (suite à une première version en espagnol). Revu récemment avec Christiane Makward (avec quelques modifications que nous espérons bientôt y apporter), Mimi Barthélémy pensait renommer ce texte « Auto-Portrait de l’artiste en conteuse ».
-Nous vous invitons également à revoir la présentation de l’auteure par Kathleen Gyssels, à écouter un extrait de La Reine des poissons (1990), à voir l’entretien avec Mimi Barthélémy, 5 Questions pour Île en île (2010) et la vidéo du conte « La chenille, la chrysalide et le papillon ».</p>
+    <p>
+      <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
+       est décédée soudainement à 
+      <location ana="Paris">Paris</location>
+       le 27 avril 2013, à moins d’une semaine de son 74e anniversaire. Elle laisse en deuil sa famille, ses nombreux amis proches et un public immense, à 
+      <location ana="Paris">Paris</location>
+      , 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Montreal">Montréal</location>
+       et partout dans le monde où elle a transmis son charme, son intelligence, son énergie, son engagement, son patrimoine culturel et sa joie de vivre. Voir les liens ci-dessous pour une première sélection des hommages publiés dans 
+      <location ana="La_Presse">La Presse</location>
+      . Voir aussi la biographie de 
+      <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
+       sur son site qui présente son oeuvre avec de nombreux exemples audiovisuels.
+    </p>
+    <p>
+      Sur Île en île, vous trouverez le texte de 
+      <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
+      , « La naissance d’une vocation » qu’elle nous a confié en 2008 (suite à une première version en espagnol). Revu récemment avec 
+      <persName ana="Christiane_Makward">Christiane Makward</persName>
+       (avec quelques modifications que nous espérons bientôt y apporter), 
+      <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
+       pensait renommer ce texte « Auto-Portrait de l’artiste en conteuse ».
+Nous vous invitons également à revoir la présentation de l’auteure par 
+      <persName ana="Kathleen_Gyssels">Kathleen Gyssels</persName>
+      , à écouter un extrait de La Reine des poissons (1990), à voir l’entretien avec 
+      <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
+      , 5 Questions pour Île en île (2010) et la vidéo du conte « La chenille, la chrysalide et le papillon ».
+    </p>
   </text>
 </TEI>

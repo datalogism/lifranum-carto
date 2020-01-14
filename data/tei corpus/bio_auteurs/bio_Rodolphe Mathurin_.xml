@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Rodolphe Mathurin__bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,23 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.rodolphe-mathurin-sonson-mathurin.40382.html" xml:id="Rodolphe Mathurin__bio_auteur_spla">
-    <p>Rodolphe Mathurin dit « Sonson » est né en 1967 à Port-au-Prince, il est écrivain et enseignant au secondaire depuis plus de vingt ans. Après ses études classique il entame des études en génie civil qu'il abandonne pour s'adonner à l'enseignement de la littérature d'expression créole et des mathématiques. Poète, nouvelliste et militant politique de gauche dès son jeune âge, il participe aux luttes politiques clandestines contre la dictature. Il reste aujourd'hui très engagé dans le social aux côtés des jeunes de milieu défavorisé.	En 1996, il a fondé avec ses propres ressources le Centre de Documentation Roussol Lauture (C.D.R.L.), un espace de lecture pour les jeunes, à Decayette- Carrefour-Feuilles, bidonville de Port-au-Prince. 	Cette même année, son récit Triste Mort a été retenu parmi les treize meilleurs textes sélectionnés par le jury du premier concours Jacques Stephen Alexis. Depuis il a publié entre autres, un recueil de poésie « Kraze vè » en 2006, un recueil de nouvelles « Sens et lieu – Dictatures et contrées » en 2007 et plus récemment « Histoire de chiens et de chiennes » en 2014.</p>
+    <p>
+      Rodolphe Mathurin dit « Sonson » est né en 1967 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , il est écrivain et enseignant au secondaire depuis plus de vingt ans. Après ses études classique il entame des études en génie civil qu'il abandonne pour s'adonner à l'enseignement de la littérature d'expression créole et des mathématiques. Poète, nouvelliste et militant politique de gauche dès son jeune âge, il participe aux luttes politiques clandestines contre la dictature. Il reste aujourd'hui très engagé dans le social aux côtés des jeunes de milieu défavorisé.	En 1996, il a fondé avec ses propres ressources le Centre de Documentation Roussol 
+      <location ana="Lauture">Lauture</location>
+       (C.D.R.L.), un espace de lecture pour les jeunes, à Decayette- 
+      <location ana="Carrefour">Carrefour</location>
+      -Feuilles, bidonville de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . 	Cette même année, son récit Triste Mort a été retenu parmi les treize meilleurs textes sélectionnés par le jury du premier concours 
+      <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+      . Depuis il a publié entre autres, un recueil de poésie « Kraze vè » en 2006, un recueil de nouvelles « Sens et lieu – Dictatures et contrées » en 2007 et plus récemment « Histoire de chiens et de chiennes » en 2014.
+    </p>
   </text>
 </TEI>

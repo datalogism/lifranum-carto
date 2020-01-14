@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Suzanne_Comhaire-Sylvain_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,16 +12,79 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="athleen Gyssels" ref="http://ile-en-ile.org/comhaire-sylvain/" xml:id="Suzanne_Comhaire-Sylvain_bio_auteur_ile_en_ile">
-    <p>Suzanne Comhaire-Sylvain, de son nom d’épouse, était la fille de Georges Sylvain (1866-1925), symbole de la résistance à l’occupation américaine, et d’Eugénie Malbranche. Elle est née le 6 novembre 1898 à Port-au-Prince (Haïti). Elle est morte à la suite d’un accident de la route au Nigéria, le 20 juin 1975. Ce tragique accident mit fin à une carrière fulgurante, cependant semée d’embûches, et sous-évaluée à l’époque. De fait, cette femme eut le courage, en tant que femme, de sortir des sentiers battus dans un pays où les rares chercheurs et scientifiques étaient tous des hommes. De surcroît, à l’époque où Suzanne commença ses travaux, la République était pro-américaine, alors qu’elle alla prouver que la culture haïtienne avait d’incontestables racines africaines, et que le créole mérita d’être considérée comme une langue à part entière. Linguiste et folkloriste, elle avait hérité les dons artistiques et la soif intellectuelle de son père, auteur de Cric ? Crac ! fables de la Fontaine racontées par un montagnard (1901).</p>
-    <p>Ses sœurs aussi furent des femmes remarquables: Madeleine (Sylvain-Bouchereau, 1905-1970, morte à New York) fonda en 1934 la « Ligue Féminine d’Action Sociale », qui œuvra pour l’amélioration de la condition féminine haïtienne ; activiste de renom, elle est entre autres auteure de Haïti et ses femmes (1941). Yvonne Sylvain (1907-1989) fut la première femme-médecin d’Haïti et la première gynécologue-obstétricienne du pays. Plusieurs articles de leurs mains figurent dans la revue Voix des femmes. Elle fut la nièce de Bénito Sylvain, co-fondateur du panafricanisme, et la sœur de Normil Sylvain (1900-1929), poète et fondateur en 1927 de La Revue indigène.</p>
-    <p>Première anthropologue noire de son pays, Suzanne Comhaire-Sylvain fut l’élève de Malinovski, travailla en 1949 avec Alfred Métraux, et participa à une mission importante de l’Unesco sur les couches rurales et paysannes dans l’arrière-pays haïtien. Grâce à son mari, le Belge Jean Comhaire, qui fut chef du département d’anthropologie à l’Université de Nsukka, Suzanne Comhaire-Sylvain ajouta à son parcours haïtien un parcours africain.</p>
-    <p>Il est impossible d’énumérer ici le travail colossal de cette Haïtienne guidée par un seul idéal : servir son pays, faire connaître le folklore. Cette activité inlassable (plus de 200 articles!) fut récompensée par de nombreuses distinctions : prix de l’Alliance Française, la Médaille de l’Académie Française, la Grande Médaille de l’Alliance française et la Médaille de la Société pour l’encouragement du progrès.</p>
-    <p>Lisez l’ « hommage à ma femme », par Jean Comhaire, son mari.</p>
-    <p>Pour une liste de plus de 200 articles de Suzanne Comhaire-Sylvain, consultez le huitième tome de l’Académie des Sciences d’Outre-Mer à Bruxelles.</p>
+  <text hand="Kathleen Gyssels" ref="http://ile-en-ile.org/comhaire-sylvain/" xml:id="Suzanne_Comhaire-Sylvain_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Suzanne_Comhaire">Suzanne Comhaire</persName>
+      -Sylvain, de son nom d’épouse, était la fille de 
+      <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+       (1866-1925), symbole de la résistance à l’occupation américaine, et 
+      <persName ana="D’Eugenie_Malbranche">d’Eugénie Malbranche</persName>
+      . Elle est née le 6 novembre 1898 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Elle est morte à la suite d’un accident de la route au 
+      <location ana="Nigeria">Nigéria</location>
+      , le 20 juin 1975. Ce tragique accident mit fin à une carrière fulgurante, cependant semée d’embûches, et sous-évaluée à l’époque. De fait, cette femme eut le courage, en tant que femme, de sortir des sentiers battus dans un pays où les rares chercheurs et scientifiques étaient tous des hommes. De surcroît, à l’époque où Suzanne commença ses travaux, la République était pro-américaine, alors qu’elle alla prouver que la culture 
+      <location ana="Haitienne">Haïtienne</location>
+       avait d’incontestables racines africaines, et que le créole mérita d’être considérée comme une langue à part entière. Linguiste et folkloriste, elle avait hérité les dons artistiques et la soif intellectuelle de son père, auteur de Cric ? Crac ! 
+      <persName ana="Fables_De_La_Fontaine">Fables de La Fontaine</persName>
+       racontées par un montagnard (1901).
+    </p>
+    <p>
+      Ses sœurs aussi furent des femmes remarquables: Madeleine (Sylvain-
+      <location ana="Bouchereau">Bouchereau</location>
+      , 1905-1970, morte à 
+      <location ana="New_York">New York</location>
+      ) fonda en 1934 la « Ligue Féminine d’Action Sociale », qui œuvra pour l’amélioration de la condition féminine 
+      <location ana="Haitienne">Haïtienne</location>
+       ; activiste de renom, elle est entre autres auteure de 
+      <location ana="Haiti">Haïti</location>
+       et ses femmes (1941). 
+      <persName ana="Yvonne_Sylvain">Yvonne Sylvain</persName>
+       (1907-1989) fut la première femme-médecin d’
+      <location ana="Haiti">Haïti</location>
+       et la première gynécologue-obstétricienne du pays. Plusieurs articles de leurs mains figurent dans la revue Voix des femmes. Elle fut la nièce de 
+      <persName ana="Benito_Sylvain">Bénito Sylvain</persName>
+      , co-fondateur du panafricanisme, et la sœur de 
+      <persName ana="Normil_Sylvain">Normil Sylvain</persName>
+       (1900-1929), poète et fondateur en 1927 de La Revue indigène.
+    </p>
+    <p>
+      Première anthropologue noire de son pays, 
+      <persName ana="Suzanne_Comhaire">Suzanne Comhaire</persName>
+      -Sylvain fut l’élève de Malinovski, travailla en 1949 avec 
+      <persName ana="Alfred_Metraux">Alfred Métraux</persName>
+      , et participa à une mission importante de l’Unesco sur les couches rurales et paysannes dans l’arrière-pays haïtien. Grâce à son mari, le Belge 
+      <persName ana="Jean_Comhaire">Jean Comhaire</persName>
+      , qui fut chef du département d’anthropologie à l’Université de Nsukka, 
+      <persName ana="Suzanne_Comhaire">Suzanne Comhaire</persName>
+      -Sylvain ajouta à son parcours haïtien un parcours africain.
+    </p>
+    <p>
+      Il est impossible d’énumérer ici le travail colossal de cette 
+      <location ana="Haitienne">Haïtienne</location>
+       guidée par un seul idéal : servir son pays, faire connaître le folklore. Cette activité inlassable (plus de 200 articles!) fut récompensée par de nombreuses distinctions : prix de l’Alliance Française, la Médaille de l’Académie Française, la 
+      <location ana="Grande_Medaille">Grande Médaille</location>
+       de l’Alliance française et la Médaille de la Société pour l’encouragement du progrès.
+    </p>
+    <p>
+      Lisez l’ « hommage à ma femme », par 
+      <persName ana="Jean_Comhaire">Jean Comhaire</persName>
+      , son mari.
+    </p>
+    <p>
+      Pour une liste de plus de 200 articles de 
+      <persName ana="Suzanne_Comhaire">Suzanne Comhaire</persName>
+      -Sylvain, consultez le huitième tome de l’Académie des Sciences d’Outre-
+      <location ana="Mer">Mer</location>
+       à 
+      <location ana="Bruxelles">Bruxelles</location>
+      .
+    </p>
   </text>
 </TEI>

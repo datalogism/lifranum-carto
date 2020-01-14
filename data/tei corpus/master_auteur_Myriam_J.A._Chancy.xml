@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Myriam_J.A._Chancy_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="biblio_Myriam_J.A._Chancy.xml"/>
+  <xi:include ref="fiche_auteur_Myriam_J.A._Chancy.xml"/>
+</master>

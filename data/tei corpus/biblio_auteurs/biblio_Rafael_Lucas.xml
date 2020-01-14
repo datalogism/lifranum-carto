@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Rafael_Lucas_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Rafaël Lucas</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://www.spla.pro/fiche.personne.rafael-lucas.20069.html" xml:id="Rafael_Lucas_biblio_auteur_spla">
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://mondesfrancophones.com/author/rlucas/">Website RafaÃ«l Lucas </item>
+      </list>
+    </div>
+  </div>
+</TEI>

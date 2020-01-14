@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Nehemy_Pierre-Dahomey_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Néhémy Pierre-Dahomey</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/pierre-dahomey/" xml:id="Nehemy_Pierre-Dahomey_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="auf deutsch">
+        <item>Die Zurück gekehrten. Trad. Lena Müller. Hamburg: Nautilus, 2018.</item>
+      </list>
+      <list subtype="roman">
+        <item>Rapatriés. Paris: Seuil, 2017.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2017     Prix Révélation de la Société des Gens de Lettres (SGDL), pour Rapatriés.</item>
+        <item>2018     Prix Carbet des lycéens, pour Rapatriés.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="https://youtu.be/JAxIYKyGvvo">Présentation de Rapatriés</item>
+        <item ref="https://youtu.be/JAxIYKyGvvo">Présentation de Rapatriés</item>
+        <item ref="https://youtu.be/l_x2s_dn0vs">En attendant Nadeau, avec Pierre Benetti</item>
+        <item ref="http://ici.radio-canada.ca/premiere/emissions/medium-large/segments/entrevue/34284/rapatrie-nehemy-pierre-dahomey">Rapatriés : le recul poétique de Néhémy Pierre-Dahomey</item>
+        <item ref="http://octaviana.fr/items/browse?collection=364">La Bibliothèque francophone reçoit Néhémy Pierre-Dahomey</item>
+        <item ref="https://www.noto-revue.fr/lire-noto/lire-noto-numero11/">Je n’ai pas tué Amandine</item>
+        <item ref="https://www.marianne.net/culture/pasionarias-haitiennes">Pasionarias haïtiennes</item>
+        <item ref="http://lenouvelliste.com/article/171779/rapatries-le-fantasme-dune-vie-renouvelee">Rapatriés, le fantasme d’une vie renouvelée</item>
+        <item ref="http://www.ledevoir.com/culture/livres/505652/nehemy-pierre-dahomey-les-frontieres-sont-nuisibles">Les frontières sont nuisibles dénonce Néhémy Pierre-Dahomey</item>
+      </list>
+    </div>
+  </div>
+</TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Felix_Morisseau-Leroy_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,69 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="odney Saint-Éloi" ref="http://ile-en-ile.org/morisolewa/" xml:id="Felix_Morisseau-Leroy_bio_auteur_ile_en_ile">
-    <p>Félix Morisseau-Leroy (Feliks Moriso-Lewa) est né à Grand-Gosier (Haïti) le 13 mars 1912.  Il étudie le droit à Port-au-Prince puis enseigne à Jacmel. Auteur bilingue (français-créole), il occupe une place de choix dans le corpus littéraire haïtien.</p>
-    <p>Exilé au Sénégal – comme ses compatriotes-écrivains Jean Brierre, Gérard Chenet et Roger Dorsinville – Morisseau-Leroy y travaille comme enseignant. Ensuite, il se tourne vers l’Amérique du Nord et s’installe à Miami avec sa famille où il tente de regrouper des Haïtiens autour de leur culture. Il est l’un des promoteurs les plus importants de la langue créole. Son recueil Dyakout I, paru en 1953, constitue l’oeuvre fondatrice de la nouvelle littérature créole.</p>
-    <p>Il entreprend la traduction d’une série d’œuvres classiques afin de montrer la richesse du créole: Antigone de Sophocle, 1953, Wa Kreyon, 1953. La préoccupation de Morisseau-Leroy, si elle est poétique, elle est aussi sociale. Car pour lui, écrire est une manière de communiquer avec la majorité des Haïtiens, ségrégués, puisqu’ils viennent de la paysannerie et surtout parce qu’ils sont unilingues créoles. Écrire en créole pour lui est un manifeste politique afin que tous les Haïtiens participent de l’avenir de leur pays.</p>
-    <p>Félix Morisseau-Leroy est mort à Miami le 5 septembre 1998. Une rue de Miami, dans la zone de Little Haiti, porte son nom.</p>
+  <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/morisolewa/" xml:id="Felix_Morisseau-Leroy_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Felix_Morisseau">Félix Morisseau</persName>
+      -Leroy (
+      <persName ana="Feliks_Moriso">Feliks Moriso</persName>
+      -
+      <location ana="Lewa">Lewa</location>
+      ) est né à Grand-Gosier (
+      <location ana="Haiti">Haïti</location>
+      ) le 13 
+      <location ana="Mars">Mars</location>
+       1912.  Il étudie le droit à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       puis enseigne à 
+      <location ana="Jacmel">Jacmel</location>
+      . Auteur bilingue (français-créole), il occupe une place de choix dans le corpus littéraire haïtien.
+    </p>
+    <p>
+      Exilé au 
+      <location ana="Senegal">Sénégal</location>
+       – comme ses compatriotes-écrivains 
+      <persName ana="Jean_Brierre">Jean Brierre</persName>
+      , 
+      <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+       et 
+      <persName ana="Roger_Dorsinville">
+        Roger 
+        <location ana="Dorsinville">Dorsinville</location>
+      </persName>
+       – Morisseau-Leroy y travaille comme enseignant. Ensuite, il se tourne vers l’
+      <location ana="Amerique_Du_Nord">Amérique du Nord</location>
+       et s’installe à 
+      <location ana="Miami">Miami</location>
+       avec sa famille où il tente de regrouper des 
+      <location ana="Haitiens">Haïtiens</location>
+       autour de leur culture. Il est l’un des promoteurs les plus importants de la langue créole. Son recueil 
+      <persName ana="Dyakout_I">Dyakout I</persName>
+      , paru en 1953, constitue l’oeuvre fondatrice de la nouvelle littérature créole.
+    </p>
+    <p>
+      Il entreprend la traduction d’une série d’œuvres classiques afin de montrer la richesse du créole: 
+      <persName ana="Antigone_De_Sophocle">Antigone de Sophocle</persName>
+      , 1953, 
+      <persName ana="Wa_Kreyon">Wa Kreyon</persName>
+      , 1953. La préoccupation de Morisseau-Leroy, si elle est poétique, elle est aussi sociale. Car pour lui, écrire est une manière de communiquer avec la majorité des 
+      <location ana="Haitiens">Haïtiens</location>
+      , ségrégués, puisqu’ils viennent de la paysannerie et surtout parce qu’ils sont unilingues créoles. Écrire en créole pour lui est un manifeste politique afin que tous les 
+      <location ana="Haitiens">Haïtiens</location>
+       participent de l’avenir de leur pays.
+    </p>
+    <p>
+      <persName ana="Felix_Morisseau">Félix Morisseau</persName>
+      -Leroy est mort à 
+      <location ana="Miami">Miami</location>
+       le 5 septembre 1998. Une rue de 
+      <location ana="Miami">Miami</location>
+      , dans la zone de Little 
+      <location ana="Haiti">Haiti</location>
+      , porte son nom.
+    </p>
   </text>
 </TEI>

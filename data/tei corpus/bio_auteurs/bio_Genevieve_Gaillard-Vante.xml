@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Genevieve_Gaillard-Vante_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,43 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/gaillard-vante/" xml:id="Genevieve_Gaillard-Vante_bio_auteur_ile_en_ile">
-    <p>Geneviève Gaillard-Vanté est née à Port-au-Prince. Après une enfance heureuse vécue en Haïti, elle termine ses classes secondaires à Saint Cyril Academy en Pennsylvanie (États-Unis) et poursuit des études de culture hispanique à la Faculté de Philosophie et de Lettres à Madrid (Espagne).</p>
-    <p>Exposée très jeune au goût de la lecture et des voyages, elle en fait une vraie passion. Orientée vers les langues, Geneviève Gaillard-Vanté détient un diplôme d’aptitude linguistique reconnue par les Nations Unies, pour l’anglais et l’espagnol.</p>
-    <p>Auteure de contes et de romans, Geneviève Gaillard-Vanté est membre de l’Association Internationale des Poètes, avec plusieurs textes en vers ou en prose rythmée, publiés aux États-Unis entre 1996 et 1998.</p>
-    <p>Diplômée de Sheffield School of Interior Design of New York, elle est actuellement spécialiste dans les conceptions de textes publicitaires ainsi que dans le talent de la voix avec plus de deux cents annonces diffusées dans les médias.</p>
+    <p>
+      <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
+      -Vanté est née à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Après une enfance heureuse vécue en 
+      <location ana="Haiti">Haïti</location>
+      , elle termine ses classes secondaires à Saint Cyril Academy en 
+      <location ana="Pennsylvanie">Pennsylvanie</location>
+       (
+      <location ana="Etats-Unis">États-Unis</location>
+      ) et poursuit des études de culture hispanique à la Faculté de Philosophie et de Lettres à 
+      <location ana="Madrid">Madrid</location>
+       (
+      <location ana="Espagne">Espagne</location>
+      ).
+    </p>
+    <p>
+      Exposée très jeune au goût de la lecture et des voyages, elle en fait une vraie passion. Orientée vers les langues, 
+      <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
+      -Vanté détient un diplôme d’aptitude linguistique reconnue par les Nations Unies, pour l’anglais et l’espagnol.
+    </p>
+    <p>
+      Auteure de contes et de romans, 
+      <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
+      -Vanté est membre de l’Association Internationale des Poètes, avec plusieurs textes en vers ou en prose rythmée, publiés aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       entre 1996 et 1998.
+    </p>
+    <p>
+      Diplômée de Sheffield School of Interior Design of 
+      <location ana="New_York">New York</location>
+      , elle est actuellement spécialiste dans les conceptions de textes publicitaires ainsi que dans le talent de la voix avec plus de deux cents annonces diffusées dans les médias.
+    </p>
   </text>
 </TEI>

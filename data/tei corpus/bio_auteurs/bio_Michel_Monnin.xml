@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Michel_Monnin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,13 +12,51 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/monnin/" xml:id="Michel_Monnin_bio_auteur_ile_en_ile">
-    <p>Michel Monnin est né à Bienne, dans le canton du Jura (Suisse), en 1940. En 1948, sa famille s’établit en Haïti. Il fait ses études à l’Institution Saint-Louis-de Gonzague. En 1956, ses parents inaugurent la Galerie Monnin, à Pétion-Ville et c’est en 1965 que dans le cadre d’un projet touristique, Michel Monnin séjourne à Port-Salut, milieu rural où il ancre ses racines définitivement haïtiennes. À partir de 1968, il se consacre entièrement à la promotion de l’art haïtien.</p>
-    <p>À la suggestion des peintres – Calixte Henri, Manès, Carlo Jean-Jacques, qui partagent un atelier à la Galerie Monnin – il prend en main un groupe de très jeunes artistes qui deviendront célèbres sous le nom de « peintres de l’espace haïtien » (Jean-Marie Drot) dont les plus connus sont Saint-Louis Blaise, Roosevelt Sanon, Sénatus et Lamour.</p>
-    <p>Michel Monnin est l’auteur de plusieurs biographies de peintres et de textes sur la peinture publiés dans les catalogues d’expositions (au Grand Palais de Paris) et dans les journaux.</p>
+    <p>
+      <persName ana="Michel_Monnin">Michel Monnin</persName>
+       est né à 
+      <location ana="Bienne">Bienne</location>
+      , dans le 
+      <location ana="Canton_Du_Jura">canton du Jura</location>
+       (
+      <location ana="Suisse">Suisse</location>
+      ), en 1940. En 1948, sa famille s’établit en 
+      <location ana="Haiti">Haïti</location>
+      . Il fait ses études à l’Institution Saint-Louis-de Gonzague. En 1956, ses parents inaugurent la 
+      <location ana="Galerie_Monnin">Galerie Monnin</location>
+      , à 
+      <location ana="Petion">Pétion</location>
+      -Ville et c’est en 1965 que dans le cadre d’un projet touristique, 
+      <persName ana="Michel_Monnin">Michel Monnin</persName>
+       séjourne à Port-Salut, milieu rural où il ancre ses racines définitivement haïtiennes. À partir de 1968, il se consacre entièrement à la promotion de l’art haïtien.
+    </p>
+    <p>
+      À la suggestion des peintres – 
+      <persName ana="Calixte_Henri">Calixte Henri</persName>
+      , Manès, 
+      <persName ana="Carlo_Jean">Carlo Jean</persName>
+      -Jacques, qui partagent un atelier à la 
+      <location ana="Galerie_Monnin">Galerie Monnin</location>
+       – il prend en main un groupe de très jeunes artistes qui deviendront célèbres sous le nom de « peintres de l’espace haïtien » (Jean-
+      <persName ana="Marie_Drot">Marie Drot</persName>
+      ) dont les plus connus sont Saint-
+      <persName ana="Louis_Blaise">Louis Blaise</persName>
+      , 
+      <persName ana="Roosevelt_Sanon">Roosevelt Sanon</persName>
+      , Sénatus et 
+      <location ana="Lamour">Lamour</location>
+      .
+    </p>
+    <p>
+      <persName ana="Michel_Monnin">Michel Monnin</persName>
+       est l’auteur de plusieurs biographies de peintres et de textes sur la peinture publiés dans les catalogues d’expositions (au 
+      <location ana="Grand_Palais_De_Paris">Grand Palais de Paris</location>
+      ) et dans les journaux.
+    </p>
   </text>
 </TEI>

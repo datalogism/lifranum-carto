@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Dantes_Bellegarde_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,38 +12,42 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/bellegarde/" xml:id="Dantes_Bellegarde_biblio_auteur_ile_en_ile">
-    <list subtype="en español">
-      <item>La Nación haitiana. Trad. Lissette Vega de Purcell. Santo Domingo: Sociedad Dominicana de Biobliófilos, 1984.</item>
-    </list>
-    <list subtype="essais">
-      <item>L’Occupation américaine d’Haïti. Port-au-Prince: Chéraquit, 1924; L’Occupation américaine d’Haïti, ses conséquences morales et économiques. Port-au-Prince: Chéraquit, 1929; Éditions Lumière, 1996.</item>
-      <item>Pages d’histoire. Port-au-Prince: Chéraquit, 1925.</item>
-      <item>La République d’Haiti et les États-Unis devant la justice internationale. Paris: Librarie de Paris-Livres, 1924.</item>
-      <item>Pour une Haïti heureuse…  2 vols. (1. Par l’éducation. 2. Par l’éducation et le travail.)  Port-au-Prince: Chéraquit, 1927-29.</item>
-      <item>Un Haïtien parle. Port-au-Prince: Chéraquit, 1934.</item>
-      <item>La Résistance haïtienne (l’occupation américaine d’Haïti); récit d’histoire contemporaine. Montréal: Beauchemin, 1937.</item>
-      <item>La Nation haïtienne. Paris: J. de Gigord, 1938.</item>
-      <item>Haïti et ses problèmes. Montréal: Bernard Valiquette, 1941.</item>
-      <item>Dessalines a parlé. Port-au-Prince: Société d’éditions et de librairie, 1948.</item>
-      <item>Haïti et son peuple. Paris: Nouvelles Éditions Latines, 1953.</item>
-      <item>Histoire du peuple haïtien, 1492-1952. Port-au-Prince, 1953.</item>
-      <item>Au Service d’Haïti; appréciations sur un Haïtien et son oeuvre. Port-au-Prince: Theodore, 1962.</item>
-    </list>
-    <list subtype="sur l’oeuvre de dantès bellegarde">
-      <item>Bellegarde-Smith, Patrick In the Shadow of Powers; Dantès Bellegarde in Haitian Social Thought. Atlantic Highlands, NJ: Humanities Press International, 1985.</item>
-      <item>Bellegarde-Smith, Patrick. « En pays conquis: la francophonie dans l’œuvre et la carrière de Dantès Bellegarde ». Journal of Haitian Studies 10.1 (Spring 2004): 56-69.</item>
-      <item>Trouillot, Hénock. Dantès Bellegarde, un écrivain d’autrefois. Port-au-Prince: N.A. Théodore, 1957.</item>
-    </list>
-    <list subtype="liens">
-      <item ref="http://catnyp.nypl.org/">Catnyp, New York Public Library </item>
-      <item ref="http://ufdc.uflib.ufl.edu/ufdc/?b=UF00094091&amp;v=00001">Écrivains haïtiens, notices biographiques et pages choisies</item>
-      <item ref="http://ufdc.uflib.ufl.edu/ufdc/?b=UF00094091&amp;v=00001">Écrivains haïtiens, notices biographiques et pages choisies</item>
-      <item ref="http://dloc.com/UF00095144/00001">Haïti et ses problèmes</item>
-    </list>
+    <div subtype="livres">
+      <list subtype="en español">
+        <item>La Nación haitiana. Trad. Lissette Vega de Purcell. Santo Domingo: Sociedad Dominicana de Biobliófilos, 1984.</item>
+      </list>
+      <list subtype="essais">
+        <item>L’Occupation américaine d’Haïti. Port-au-Prince: Chéraquit, 1924; L’Occupation américaine d’Haïti, ses conséquences morales et économiques. Port-au-Prince: Chéraquit, 1929; Éditions Lumière, 1996.</item>
+        <item>Pages d’histoire. Port-au-Prince: Chéraquit, 1925.</item>
+        <item>La République d’Haiti et les États-Unis devant la justice internationale. Paris: Librarie de Paris-Livres, 1924.</item>
+        <item>Pour une Haïti heureuse…  2 vols. (1. Par l’éducation. 2. Par l’éducation et le travail.)  Port-au-Prince: Chéraquit, 1927-29.</item>
+        <item>Un Haïtien parle. Port-au-Prince: Chéraquit, 1934.</item>
+        <item>La Résistance haïtienne (l’occupation américaine d’Haïti); récit d’histoire contemporaine. Montréal: Beauchemin, 1937.</item>
+        <item>La Nation haïtienne. Paris: J. de Gigord, 1938.</item>
+        <item>Haïti et ses problèmes. Montréal: Bernard Valiquette, 1941.</item>
+        <item>Dessalines a parlé. Port-au-Prince: Société d’éditions et de librairie, 1948.</item>
+        <item>Haïti et son peuple. Paris: Nouvelles Éditions Latines, 1953.</item>
+        <item>Histoire du peuple haïtien, 1492-1952. Port-au-Prince, 1953.</item>
+        <item>Au Service d’Haïti; appréciations sur un Haïtien et son oeuvre. Port-au-Prince: Theodore, 1962.</item>
+      </list>
+      <list subtype="sur l’oeuvre de dantès bellegarde">
+        <item>Bellegarde-Smith, Patrick In the Shadow of Powers; Dantès Bellegarde in Haitian Social Thought. Atlantic Highlands, NJ: Humanities Press International, 1985.</item>
+        <item>Bellegarde-Smith, Patrick. « En pays conquis: la francophonie dans l’œuvre et la carrière de Dantès Bellegarde ». Journal of Haitian Studies 10.1 (Spring 2004): 56-69.</item>
+        <item>Trouillot, Hénock. Dantès Bellegarde, un écrivain d’autrefois. Port-au-Prince: N.A. Théodore, 1957.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://catnyp.nypl.org/">Catnyp, New York Public Library </item>
+        <item ref="http://ufdc.uflib.ufl.edu/ufdc/?b=UF00094091&amp;v=00001">Écrivains haïtiens, notices biographiques et pages choisies</item>
+        <item ref="http://ufdc.uflib.ufl.edu/ufdc/?b=UF00094091&amp;v=00001">Écrivains haïtiens, notices biographiques et pages choisies</item>
+        <item ref="http://dloc.com/UF00095144/00001">Haïti et ses problèmes</item>
+      </list>
+    </div>
   </div>
 </TEI>

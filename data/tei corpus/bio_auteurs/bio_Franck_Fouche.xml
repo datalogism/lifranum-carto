@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Franck_Fouche_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.franck-fouche.49712.html" xml:id="Franck_Fouche_bio_auteur_spla">
-    <p>&quot;Frank Fouché est né à Saint-Marc, Haïti, le 27 novembre 1915. Diplômé de la Faculté de Droit en 1939, il a été professeur, journaliste, poète, dramaturge, essayiste, metteur en scène. Après l'accession de Duvalier au pouvoir, il s'exile au Québec en 1965 où il enseigne le français. Il est décédé le 3 janvier 1978 à Montréal des suites d'un accident de la route.&quot;(Mémoire d'Encrier)</p>
+    <p>
+      &quot;Frank Fouché est né à Saint-Marc, 
+      <location ana="Haiti">Haïti</location>
+      , le 27 novembre 1915. Diplômé de la Faculté de Droit en 1939, il a été professeur, journaliste, poète, dramaturge, essayiste, metteur en scène. Après l'accession de Duvalier au pouvoir, il s'exile au 
+      <location ana="Quebec">Québec</location>
+       en 1965 où il enseigne le français. Il est décédé le 3 janvier 1978 à 
+      <location ana="Montreal">Montréal</location>
+       des suites d'un accident de la route.&quot;(Mémoire d'Encrier)
+    </p>
   </text>
 </TEI>

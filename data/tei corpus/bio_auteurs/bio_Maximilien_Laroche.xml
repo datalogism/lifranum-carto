@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Maximilien_Laroche_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,35 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.maximilien-laroche.14026.html" xml:id="Maximilien_Laroche_bio_auteur_spla">
-    <p>Né au Cap Haïtien, Maximilien Laroche a fait des études au Québec et en France. Docteur de l'université de Toulouse, il enseigne à l'Université Laval au Québec.Principales publications : Le miracle et la métamorphose (1970), L'image comme écho (1978), Littérature haïtienne, identité, langue, réalité (1981), L'avènement de la littérature haïtienne (1987), la double scène de la représentation (1991), Dialectique de l'américanisation (1993), La Sémiologie des apparences (1994), Mythologie haïtienne (2002), Littérature Haïtienne comparée (2007).</p>
+    <p>
+      Né au 
+      <location ana="Cap_Haitien">Cap Haïtien</location>
+      , 
+      <persName ana="Maximilien_Laroche">Maximilien Laroche</persName>
+       a fait des études au 
+      <location ana="Quebec">Québec</location>
+       et en 
+      <location ana="France">France</location>
+      . Docteur de l'université de 
+      <location ana="Toulouse">Toulouse</location>
+      , il enseigne à l'Université 
+      <location ana="Laval">Laval</location>
+       au 
+      <location ana="Quebec">Québec</location>
+      .Principales publications : Le miracle et la métamorphose (1970), L'image comme écho (1978), Littérature 
+      <location ana="Haitienne">Haïtienne</location>
+      , identité, langue, réalité (1981), L'avènement de la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       (1987), la double scène de la représentation (1991), Dialectique de l'américanisation (1993), La Sémiologie des apparences (1994), Mythologie 
+      <location ana="Haitienne">Haïtienne</location>
+       (2002), Littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       comparée (2007).
+    </p>
   </text>
 </TEI>

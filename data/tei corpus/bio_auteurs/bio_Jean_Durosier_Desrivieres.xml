@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean_Durosier_Desrivieres_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,61 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jean-durosier-desrivieres.24258.html" xml:id="Jean_Durosier_Desrivieres_bio_auteur_spla">
-    <p>Né en Haïti, Jean Durosier DESRIVIERES a vécu en Martinique de 1999 à 2008. Certifié ès Lettres modernes et classiques de L'Ecole Normale Supérieure d'Haïti, diplômé en Littérature francophone et générale à l'Université des Antilles et de la Guyane, il a consacré des travaux de recherches relatifs à la poésie d'expression française de Georges Castera, un poète haïtien engagé. Il est le préfacier du dernier recueil de celui-ci, Le trou du souffleur, prix carbet 2006.Auteur de poèmes en français et en créole, d'articles et critiques littéraires publiés dans différents journaux, revues et magazines haïtiens et étrangers, vice-président de l'Atelier de Création, de Recherches et d'études en Littérature Comparée (ACRELC), il a enseigné les Lettres modernes et classiques en Martinique (2001-2008) et s'est intéressé à l'art de la scène en tant que comédien amateur et animateur d'atelier de théâtre dans des collèges et lycées (2004-2008). Aussi, il a animé des émissions radiophoniques de poésie et de musique sur deux stations de radio de la Martinique - Campus FM et Radio Lévé Doubout Matinik (RLDM), une radio communautaire. Il prépare actuellement un Master en Arts et spectacle, spécialité études théâtrales, à l'Université Lumière, Lyon 2.Poète invité d'honneur de Gargas Café (décembre 2008) et de la 18e édition des Soirées d'été en Luberon (26 juin-5 juillet 2009), il a été nominé au 4e concours d'etc_caraïbe avec &quot;Paroles en crue&quot;, mis en lecture aux Soirées d'été et aux 1ères Rencontres Dramaturgiques de la Caraïbe à Fort-de-France (22-24 octobre 2009). Son dernier poème &quot;Aimé Césaire, papa&quot; est publié dans le N°44 de Bacchanales - &quot;EnfanSillage&quot;, la revue de la Maison de la poésie Rhône-Alpes. Il est co-auteur du Dictionnaire des cent auteurs francophones classiques que le Centre de Recherche Textes et Francophonies de l'Université Cergy-Pontoise doit bientôt éditer. Depuis son retour au pays natal en août 2009, il travaille avec le groupe des jeunes comédiens de &quot;L'atelier Soleil&quot;, issus du &quot;Petit Conservatoire&quot; dirigé par Daniel Marcelin ; il a animé &quot;Absolument livre&quot;, une émission de la Direction Nationale du Livre (DNL), diffusée par la Télévision Nationale d'Haïti (TNH) ; il a intégré le Cabinet du Ministère de la Culture et de la Communication du gouvernement haïtien, en tant qu'assistant de la Conseillère Spéciale auprès de la Ministre, Magali Comeau Denis, grande comédienne et figure militante. Mis en disponibilité, dans le contexte exceptionnel du post-séisme, il était invité à Prague du 20 au 25 mars 2010 en tant que poète-dramaturge, dans le cadre du Festival &quot;Nous sommes tous africains&quot;.</p>
+    <p>
+      Né en 
+      <location ana="Haiti">Haïti</location>
+      , Jean Durosier DESRIVIERES a vécu en 
+      <location ana="Martinique">Martinique</location>
+       de 1999 à 2008. Certifié ès 
+      <location ana="Lettres_Modernes">Lettres Modernes</location>
+       et classiques de L'Ecole Normale Supérieure d'
+      <location ana="Haiti">Haïti</location>
+      , diplômé en Littérature francophone et générale à l'Université des 
+      <location ana="Antilles">Antilles</location>
+       et de la 
+      <location ana="Guyane">Guyane</location>
+      , il a consacré des travaux de recherches relatifs à la poésie d'expression française de 
+      <persName ana="Georges_Castera">Georges Castera</persName>
+      , un poète haïtien engagé. Il est le préfacier du dernier recueil de celui-ci, Le trou du souffleur, prix carbet 2006.Auteur de poèmes en français et en créole, d'articles et critiques littéraires publiés dans différents journaux, revues et magazines 
+      <location ana="Haitiens">Haïtiens</location>
+       et étrangers, vice-président de l'Atelier de Création, de Recherches et d'études en Littérature Comparée (ACRELC), il a enseigné les 
+      <location ana="Lettres_Modernes">Lettres Modernes</location>
+       et classiques en 
+      <location ana="Martinique">Martinique</location>
+       (2001-2008) et s'est intéressé à l'art de la scène en tant que comédien amateur et animateur d'atelier de théâtre dans des collèges et lycées (2004-2008). Aussi, il a animé des émissions radiophoniques de poésie et de musique sur deux stations de radio de la 
+      <location ana="Martinique">Martinique</location>
+       - Campus FM et Radio Lévé Doubout Matinik (RLDM), une radio communautaire. Il prépare actuellement un Master en Arts et spectacle, spécialité études théâtrales, à l'Université Lumière, 
+      <location ana="Lyon">Lyon</location>
+       2.Poète invité d'honneur de Gargas Café (décembre 2008) et de la 18e édition des Soirées d'été en 
+      <location ana="Luberon">Luberon</location>
+       (26 juin-5 juillet 2009), il a été nominé au 4e concours d'etc_caraïbe avec &quot;Paroles en crue&quot;, mis en lecture aux Soirées d'été et aux 1ères Rencontres Dramaturgiques de la 
+      <location ana="Caraibe">Caraïbe</location>
+       à 
+      <location ana="Fort-De-France">Fort-de-France</location>
+       (22-24 octobre 2009). Son dernier poème &quot;
+      <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+      , papa&quot; est publié dans le N°44 de 
+      <location ana="Bacchanales">Bacchanales</location>
+       - &quot;EnfanSillage&quot;, la revue de la 
+      <location ana="Maison">Maison</location>
+       de la poésie Rhône-Alpes. Il est co-auteur du Dictionnaire des cent auteurs francophones classiques que le Centre de Recherche Textes et Francophonies de l'Université 
+      <location ana="Cergy">Cergy</location>
+      -Pontoise doit bientôt éditer. Depuis son retour au pays natal en août 2009, il travaille avec le groupe des jeunes comédiens de &quot;L'atelier Soleil&quot;, issus du &quot;Petit Conservatoire&quot; dirigé par 
+      <persName ana="Daniel_Marcelin">Daniel Marcelin</persName>
+       ; il a animé &quot;Absolument livre&quot;, une émission de la Direction Nationale du Livre (DNL), diffusée par la Télévision Nationale d'
+      <location ana="Haiti">Haïti</location>
+       (TNH) ; il a intégré le Cabinet du Ministère de la Culture et de la Communication 
+      <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+       haïtien, en tant qu'assistant de la Conseillère Spéciale auprès de la Ministre, Magali Comeau Denis, grande comédienne et figure militante. Mis en disponibilité, dans le contexte exceptionnel du post-séisme, il était invité à 
+      <location ana="Prague">Prague</location>
+       du 20 au 25 
+      <location ana="Mars">Mars</location>
+       2010 en tant que poète-dramaturge, dans le cadre du Festival &quot;Nous sommes tous africains&quot;.
+    </p>
   </text>
 </TEI>

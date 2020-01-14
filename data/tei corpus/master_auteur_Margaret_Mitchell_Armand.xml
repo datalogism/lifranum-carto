@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Margaret_Mitchell_Armand_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Margaret_Mitchell_Armand.xml"/>
+  <xi:include ref="biblio_Margaret_Mitchell_Armand.xml"/>
+  <xi:include ref="fiche_auteur_Margaret_Mitchell_Armand.xml"/>
+</master>

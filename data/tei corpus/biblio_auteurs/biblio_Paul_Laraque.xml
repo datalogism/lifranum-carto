@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Paul_Laraque_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Paul Laraque</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>Camourade, Selected Poems. Trad. Rosemary Manno. Willimantic, Connecticut: Curbstone Press, 1988.</item>
+        <item>Fitibal / Slingshot (édition bilingue). Trad. Jack Hirschman. San Francisco/Port-au-Prince: Seaworthy Press / Éditions Samba, 1989.</item>
+        <item>Liberty Drum, Selected Poems. Trad. Jack Hirschman. Falls Church, Virginia: Azul Editions, 1995.</item>
+      </list>
+      <list subtype="en español">
+        <item> Poesía cotidiana / Las armas cotidianas. Trad. Nancy Morejón. La Habana: Casa de las Américas, 1981.</item>
+        <item>Poesía. Trad. Beltran Sarriere. Maracay: Fondo Editorial, Secretaría Sectorial de Cultura del Estado Aragua, 1997.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>La sabbia dell’esilio / Le sable de l’exil (choix de poèmes du Vieux nègre et l’exil). Trad. Giancarlo Cavallo. Salerno: Multimedia Edizioni, 1994.</item>
+      </list>
+      <list subtype="poésie en français">
+        <item>Ce qui demeure. (avec une lettre-postface d’André Breton, illustrations de Davertige). Montréal: Nouvelle Optique, 1973.</item>
+        <item>Les armes quotidiennes / Poésie quotidienne. La Havane: Casa de las Américas, 1979.</item>
+        <item>Le vieux nègre et l’exil. Paris: Silex, 1988.</item>
+        <item>Oeuvres incomplètes. Montréal: CIDIHCA, 1998.</item>
+      </list>
+      <list subtype="poésie en créole">
+        <item>Fistibal. Montréal: Nouvelle Optique, 1974.</item>
+        <item>Sòlda mawon / Soldat marron. (édition bilingue) Trad. Jean F. Brierre. Port-au-Prince: Samba, 1987.</item>
+        <item>Lespwa. Port-au-Prince: Mémoires, 2001.</item>
+      </list>
+      <list subtype="contributions diverses">
+        <item>« Carnaval haïtien », « les réserves » et « Chassé-croisé ». LittéRéalité 10.1 (Printemps/Été 1998): 157-158.</item>
+        <item>« Sands of Exile ». Poème publié dans Left Curve 16 (1992).</item>
+        <item>Quatre poèmes (en créole avec des traductions en anglais). Open Gate: An Anthology of Haitian Creole Poetry. Paul Laraque et Max Manigat, eds. Willimantic, Connecticut: Curbstone Press, 2001: 20-27.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Sous la tonnelle de la peur », extraits du poème de Paul Laraque dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="distinction littéraire">
+        <item>1979     Prix Casa de las Américas pour Les armes quotidiennes / Poésie quotidienne.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/paul-laraque-extraits-de-poesies-lus-par-lauteur/">Lecture de poésie</item>
+        <item ref="http://ile-en-ile.org/paul-laraque-les-deux-rives/">Les deux rives</item>
+        <item ref="http://ile-en-ile.org/paul-laraque-1920-2007-hommages-a-paul-laraque/">Paul Laraque (1920-2007)</item>
+        <item ref="http://www.curbstone.org/authdetail.cfm?AuthID=118">Paul Laraque</item>
+        <item ref="http://www.potomitan.info/ayiti/laraque.php">Paul Laraque</item>
+        <item ref="http://www.tanbou.com/1994/Spring/Larak.htm">Paul Laraque: Powèt e militan pye nan dlo</item>
+        <item ref="http://www.tanbou.com/2007/Spring/index.htm">Pour célébrer la mémoire de Paul Laraque</item>
+        <item ref="http://www.caribenet.info/oltre_05_laraque_tanbou_libete.asp">« Tanbou libète » et « La saison des comptes »</item>
+        <item ref="http://www.tanbou.com/1199Larak.htm">Yon powèt nan Nouyòk</item>
+      </list>
+    </div>
+  </div>
+</TEI>

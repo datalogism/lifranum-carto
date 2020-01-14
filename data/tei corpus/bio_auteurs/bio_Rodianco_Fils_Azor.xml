@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Rodianco_Fils_Azor_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,15 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.rodianco-fils-azor.32629.html" xml:id="Rodianco_Fils_Azor_bio_auteur_spla">
-    <p>Rodianco Fils Azor de son nom de plume Dianco poete ,nouvelliste, animateur culturel ,est né a Gros-morne en Haiti en 1990.Atteint du virus de l'écriture, il commence à ecrire dès son plus jeune age.</p>
+    <p>
+      Rodianco Fils Azor de son nom de plume Dianco poete ,nouvelliste, animateur culturel ,est né a Gros-morne en 
+      <location ana="Haiti">Haiti</location>
+       en 1990.Atteint du virus de l'écriture, il commence à ecrire dès son plus jeune age.
+    </p>
   </text>
 </TEI>

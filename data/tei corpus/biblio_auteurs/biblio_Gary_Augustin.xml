@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gary_Augustin_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Gary Augustin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Girandole du jour. Port-au-Prince: Éditions Mémoire, 1994, 60 p.</item>
+        <item>Terre brûlée. Port-au-Prince: Éditions Mémoire, 2004, 54 p.</item>
+        <item>Des villes, des corps et autres songes. Port-au-Prince: Presses Nationales d’Haïti, 2012.</item>
+      </list>
+      <list subtype="poésie parue dans des ouvrages collectifs">
+        <item>(Sans titre) Conjonction (Lamadèl 100 poèmes créoles) 195 (juillet-août-septembre 1992).</item>
+        <item>« Comme un chant » / « Like a Song ». Dits des fous d’amour / Lovers’ Sweet Nothings. Paula Clermont Péan et Rodney Saint-Éloi, éds. Montréal: Mémoire d’encrier, 2003.</item>
+        <item>« Les mains nues », « Frisson », « En ce temps-là » et « Évidence » (extraits de Girandole du jour). Figures d’Haïti; 35 poètes pour notre temps. Jacques Rancourt, éd. Paris: Le Temps des Cerises, 2005: 132-34.</item>
+        <item>« Être », « Ambiguïté », « Balbutiements » et « Naissance du poème ». La Nouvelle Revue Française 576 (janvier 2006): 199-201.</item>
+        <item>« Marèl », « Legs », « Frisson » et « Faux pas ». Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 276-277.</item>
+        <item>« Mortel éclat de l’eau ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 69-70.</item>
+      </list>
+      <list subtype="participation à d’autres ouvrages">
+        <item>50 années de peinture en Haïti 1930-1980; Tome 1: 1930-1950.Gesner Armand, éd. Port-au-Prince:Fondation Culture Création, 1995.</item>
+      </list>
+      <list subtype="adaptations de poèmes de gary augustin">
+        <item>« Tach Lank » mis en musique et interprété par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson. Port-au-Prince: Productions Batofou, 2005.</item>
+        <item>« Premier matin », poème dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+        <item>Voix contemporaines, montage de textes de l’Atelier Le Vide, 2005, 2006.</item>
+      </list>
+      <list subtype="sur gary augustin">
+        <item>Alexis, Alix Dominique. « Girandole du jour, une poésie sous le signe de la lumière ». Le Nouvel Informateur 17 (1994).</item>
+        <item>Batraville, Dominique. « L’outre-jour de Gary Augustin ». Le Nouvelliste (22 août 1994).</item>
+        <item>Boyer, Jean Claude. « La constance en poésie ; Poèmes de Gary Augustin ». Le Nouvelliste (31 mars 2005).</item>
+        <item>Boyer, Jean Claude. « Ombres et lumières de Gary Augustin ». Le Nouvelliste (12 août 1997).</item>
+        <item>Dumas, Pierre Raymond. « Quelques poèmes inédits de Gary Augustin ». Le Nouvelliste (14-16 décembre 2001).</item>
+        <item>Édouard, Willems.  « Le cri des pages de Gary Augustin ». Le Nouvelliste (mardi et mercredi 31 août 1994)</item>
+        <item>Léonard, Roland. « Terre Brûlée ; Poèmes de Gary Augustin ». Le Nouvelliste (20 décembre 2004).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/gary-augustin-cinq-poemes/">Cinq poèmes</item>
+        <item ref="http://ile-en-ile.org/gary-augustin-poesie/">« Visions », « Trajectoire », « Comme un chant » et « Tiga »</item>
+        <item ref="http://www.espacioblog.com/sectioneducative/post/2006/12/08/questions-du-poete-gary-augustin-au-poete-georges-castera">Questions du poète Gary Augustin au poète Georges Castera</item>
+      </list>
+    </div>
+  </div>
+</TEI>

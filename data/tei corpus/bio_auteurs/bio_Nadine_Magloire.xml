@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Nadine_Magloire_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,17 +12,91 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="oëlle Vitiello" ref="http://ile-en-ile.org/magloire_nadine/" xml:id="Nadine_Magloire_bio_auteur_ile_en_ile">
-    <p>Nadine Magloire est née le 18 février 1932 à Port-au-Prince dans une famille d’artistes et d’intellectuels de renom. Sa mère, Carmen Brouard, est compositrice (la fille de l’auteure est également musicienne). Son oncle, Carl Brouard, est poète ; son père, Jean Magloire, est journaliste et homme politique ; son grand-père paternel, Auguste Magloire, est historien ; son grand-père maternel, Raphaël Brouard, maire de Port-au-Prince, est le mécène de la revue littéraire Les Griots, fondée en 1938.</p>
-    <p>Elle fait des études chez les soeurs de Sainte Rose de Lima. Cultivée et se nourrissant de lectures, elle voyage beaucoup (Montréal, Paris, Londres) et continue de s’instruire dans différents pays. À Montréal, elle fait la dernière année du secondaire (en philosophie) au lycée Marie-de-France et suit des cours de journalisme par correspondance. De 1955 à 1956, elle étudie au Centre d’Études de la radiodiffusion-télévision française à Paris. De retour à Port-au-Prince, elle suit des cours à l’École Normale Supérieure, puis à l’Université.</p>
-    <p>En 1967, Nadine Magloire publie sans doute le premier livre féministe haïtien, Le mal de vivre (republié avec quelques modifications en 1968), qui dresse un portrait au scalpel des rapports de genre en Haïti. Audacieux, le livre, à l’avant-garde des mouvements féministes internationaux, ose parler de sexualité à partir d’une perspective féminine et fait scandale. L’auteure enverra le manuscrit à Simone de Beauvoir, avec qui elle entretient une correspondance à la suite de la parution du livre.</p>
-    <p>En 1975, l’auteure signe un deuxième roman, Autopsie in vivo: le sexe mythique. À nouveau, les mécanismes sociaux et les inégalités sexuelles sont représentés à travers des personnages qui démasquent non seulement la bourgeoisie haïtienne, mais aussi les milieux intellectuels, milieux familiers, puisqu’elle publie (de mars 1978 à mars 1979) un magazine culturel, Le fil d’Ariane. En 1975, proclamée l’année de la femme, l’auteure organise une exposition de femmes peintres à l’Institut Français de Port-au-Prince.</p>
-    <p>En 1979, après plusieurs allers-retours entre Haïti et l’étranger, en particulier le Canada, elle s’installe définitivement à Montréal.</p>
-    <p>Elle reprend après un long silence, un manuscrit, Autopsie in vivo, paru en octobre 2009 à Montréal. Ce livre aborde le thème de la liberté féminine à travers le personnage d’Annie, orpheline élevée par ses tantes. Personnage « de trop », en carence d’amour, Annie fait son éducation sentimentale. Multi-spatial, multi-temporel, le roman suit un rythme qui reflète les absences (nostalgie de la mère, nostalgie de l’être aimé, nostalgie du pays de l’enfance) et dresse le portrait d’une société patriarcale. Pourtant, les femmes mènent aussi le jeu dans cette société sur fond de dictature. Celle-ci est à peine abordée, mais s’inscrit néanmoins dans le cadre du roman.</p>
-    <p>Nadine Magloire publie un nouveau roman, Autopsie in vivo (la suite) en novembre 2010. Malgré les titres similaires, il s’agit de romans différents les uns des autres.</p>
+  <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/magloire_nadine/" xml:id="Nadine_Magloire_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+       est née le 18 février 1932 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       dans une famille d’artistes et d’intellectuels de renom. Sa mère, 
+      <persName ana="Carmen_Brouard">Carmen Brouard</persName>
+      , est compositrice (la fille de l’auteure est également musicienne). Son oncle, 
+      <persName ana="Carl_Brouard">Carl Brouard</persName>
+      , est poète ; son père, 
+      <persName ana="Jean_Magloire">Jean Magloire</persName>
+      , est journaliste et homme politique ; son grand-père paternel, 
+      <persName ana="Auguste_Magloire">Auguste Magloire</persName>
+      , est historien ; son grand-père maternel, 
+      <persName ana="Raphael_Brouard">Raphaël Brouard</persName>
+      , maire de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , est le mécène de la revue littéraire 
+      <location ana="Les_Griots">Les Griots</location>
+      , fondée en 1938.
+    </p>
+    <p>
+      Elle fait des études chez les soeurs de 
+      <persName ana="Sainte_Rose_De_Lima">
+        <location ana="Sainte">Sainte</location>
+         Rose de 
+        <location ana="Lima">Lima</location>
+      </persName>
+      . Cultivée et se nourrissant de lectures, elle voyage beaucoup (
+      <location ana="Montreal">Montréal</location>
+      , 
+      <location ana="Paris">Paris</location>
+      , 
+      <location ana="Londres">Londres</location>
+      ) et continue de s’instruire dans différents pays. À 
+      <location ana="Montreal">Montréal</location>
+      , elle fait la dernière année du secondaire (en philosophie) au lycée Marie-de-
+      <location ana="France">France</location>
+       et suit des cours de journalisme par correspondance. De 1955 à 1956, elle étudie au Centre d’Études de la radiodiffusion-télévision française à 
+      <location ana="Paris">Paris</location>
+      . De retour à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , elle suit des cours à l’École Normale Supérieure, puis à l’Université.
+    </p>
+    <p>
+      En 1967, 
+      <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+       publie sans doute le premier livre féministe haïtien, Le mal de vivre (republié avec quelques modifications en 1968), qui dresse un portrait au scalpel des rapports de genre en 
+      <location ana="Haiti">Haïti</location>
+      . Audacieux, le livre, à l’avant-garde des mouvements féministes internationaux, ose parler de sexualité à partir d’une perspective féminine et fait scandale. L’auteure enverra le manuscrit à 
+      <persName ana="Simone_De_Beauvoir">Simone de Beauvoir</persName>
+      , avec qui elle entretient une correspondance à la suite de la parution du livre.
+    </p>
+    <p>
+      En 1975, l’auteure signe un deuxième roman, Autopsie in vivo: le sexe mythique. À nouveau, les mécanismes sociaux et les inégalités sexuelles sont représentés à travers des personnages qui démasquent non seulement la bourgeoisie 
+      <location ana="Haitienne">Haïtienne</location>
+      , mais aussi les milieux intellectuels, milieux familiers, puisqu’elle publie (de 
+      <location ana="Mars">Mars</location>
+       1978 à 
+      <location ana="Mars">Mars</location>
+       1979) un magazine culturel, Le fil d’Ariane. En 1975, proclamée l’année de la femme, l’auteure organise une exposition de femmes peintres à l’Institut Français de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      .
+    </p>
+    <p>
+      En 1979, après plusieurs allers-retours entre 
+      <location ana="Haiti">Haïti</location>
+       et l’étranger, en particulier le 
+      <location ana="Canada">Canada</location>
+      , elle s’installe définitivement à 
+      <location ana="Montreal">Montréal</location>
+      .
+    </p>
+    <p>
+      Elle reprend après un long silence, un manuscrit, Autopsie in vivo, paru en octobre 2009 à 
+      <location ana="Montreal">Montréal</location>
+      . Ce livre aborde le thème de la liberté féminine à travers le personnage d’Annie, orpheline élevée par ses tantes. Personnage « de trop », en carence d’amour, Annie fait son éducation sentimentale. Multi-spatial, multi-temporel, le roman suit un rythme qui reflète les absences (nostalgie de la mère, nostalgie de l’être aimé, nostalgie du pays de l’enfance) et dresse le portrait d’une société patriarcale. Pourtant, les femmes mènent aussi le jeu dans cette société sur fond de dictature. Celle-ci est à peine abordée, mais s’inscrit néanmoins dans le cadre du roman.
+    </p>
+    <p>
+      <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+       publie un nouveau roman, Autopsie in vivo (la suite) en novembre 2010. Malgré les titres similaires, il s’agit de romans différents les uns des autres.
+    </p>
   </text>
 </TEI>

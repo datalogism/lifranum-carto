@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean_Andre_Constant_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jean André Constant</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/constant/" xml:id="Jean_Andre_Constant_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Folitude. Montréal: Pages Folles, 2005.</item>
+        <item>Pwezi san aksan / Poetry with a French Accent, recueil bilingue créole-anglais. Montréal: Pages Folles, 2007.</item>
+        <item>Voix de garage. Montréal: Pages Folles (à paraître, 2007).</item>
+        <item>La forme du Vide (à paraître).</item>
+        <item>L’hymen de mes îles (à paraître).</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Les Masques amoureux, recueil de nouvelles (à paraître).</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Où le maquisard Ligondé s’est-il réfugié ? ». Le Rouleau Magazine 34 (1991).</item>
+        <item>« Y on Granmoun kap jwe », critique du recueil de poèmes Voyelles Adultes de Rodney Saint-Eloi. Jounal Libète, Port-au-Prince, Haïti (1994).</item>
+        <item>« Les mamans haïtiennes : objet et sujet de prévention des MST/SIDA ». Le Nouvelliste (29 mai 1995).</item>
+        <item>« Lever le voile », série d’articles publiés dans Le Nouvelliste (entre 1997 et 2000).</item>
+        <item>« La menace inaperçue ». Le Nouvelliste (10 mai 2003).</item>
+      </list>
+      <list subtype="publications scientifiques et académiques">
+        <item>Les mutations du système éducatif haïtien à l’heure de l’ajustement structurel. Mémoire de Licence en travail social, 1995.</item>
+        <item>Les vertus de l’éducation par le divertissement. Monographie inédite présentée à la vingtième Conférence Annuelle de Kiro d’Haïti, 1998.</item>
+        <item>Analyse sémiotique de « L’espace d’un cillement » de Jacques Stephen Alexis.Thèse de Licence en Linguistique, Faculté de Linguistique Appliquée, Université d’État d’Haiti, 1998.</item>
+        <item>Una década de Investigación, sous la direction de Julia Burgos-Ortiz. Editorial de la Universidad de Puerto Rico, 2001.</item>
+        <item>Implicaciones socio emocionales del anti-dominicanismo en Puerto Rico  (Implications sociales et émotionnelles de l’antidominicanisme à Porto Rico). Mémoire de Maîtrise en travail social,Escuela Graduada de Trabajo Social Beatriz Lasalle, Universidad de Puerto Rico, San Juan, 2002.</item>
+        <item>« El pobre análisis de la pobreza y la religión popular en Haití ». Exégesis (Humacao, Puerto Rico) 16.47 (2003): 18-36.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.tanbou.com/2005/SemiologiedUneCrise.htm">Haïti : Sémiologie d’une crise virtuelle</item>
+        <item ref="http://www.tanbou.com/2006/summer/pwezi.htm">Bri sapat</item>
+        <item ref="http://www.alterpresse.org/spip.php?article5017">Paul Farmer on Haiti and Global Health Issues</item>
+        <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=2577">Une lecture de « À l’angle des rues parallèles » ; L’écriture linéaire de Gary Victor</item>
+        <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=7538">Saint-John Kauss : deux recueils pour dire le cœur battant du poème</item>
+        <item ref="http://ecrits-vains.com/thematique/transatlantique/constant.htm">comme une vague…</item>
+        <item ref="http://www.tanbou.com/2007/Spring/HommageAPaulLaraque.htm">Hommage à Paul Laraque » / « Ochan pou Paul Laraque</item>
+        <item ref="http://www.francopolis.net/librairie/vostextesarchiveABC.htm#Constant">Textes 2, 4 et 5</item>
+        <item ref="http://www.terranovamagazine.ca/24/pages/livres/livres.html">Folitude de Jean André Constant</item>
+        <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=1190">Folitude, en absence de soi-même</item>
+        <item ref="http://www.csmsmagazine.org/news.php?pg=20060804I205">La Folitude de Jean-André Constant</item>
+        <item ref="http://www.potomitan.info/constant/">Jean André Constant</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=&amp;ArticleID=33905">Une voix ardente et prophétique</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46329">Un fauteuil-standard pour deux éditeurs</item>
+      </list>
+    </div>
+  </div>
+</TEI>

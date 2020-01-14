@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Magloire-Saint-Aude_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Magloire-Saint-Aude</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/magloire-saint-aude/" xml:id="Magloire-Saint-Aude_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="magloire fils, clément">
+        <item>« Triptyque ». La Relève (1er mai 1933): 20.</item>
+        <item>« Chants ». La Relève (1er juillet 1933): 21.</item>
+        <item>« Déclaration ». (avec Carl Brouard, Lorimer Denis et François Duvalier). Les Griots 1.1 (juillet-août-septembre 1938): 1.</item>
+        <item>« Fédor Rascalaub ou Les Dieux du Stupre ». Les Griots 3.3 (janvier-février-mars 1939): 339-341.</item>
+        <item>« Gaston Criel, poète de l’Île-de-France (Bibliographie) ». Les Griots 3.3 (janvier-février-mars 1939): 342-343.</item>
+        <item>« Dialogue de mes lampes ». Les Griots 2.2 (oct.-nov.-déc. 1939); 3.3 (jan.-fév.-mars 1940): 695-696.</item>
+      </list>
+      <list subtype="magloire-saint-aude">
+        <item>« Le surréalisme ce qu’il est ». Le Nouvelliste (26 janvier 1942): 1.</item>
+        <item>« Disque (« Il y avait un homme… ») ». Le Nouvelliste (20 mai 1942): 2.</item>
+        <item>« Disque (« Suarez écrit… ») ». Le Nouvelliste (15 juin 1942): 2.</item>
+        <item>« Tableau de la misère XXIV ». Le Nouvelliste (26 août 1942): 2.</item>
+        <item>« Disque (« Je préfère… ») ». Le Nouvelliste (15 septembre 1942): 4.</item>
+        <item>« Disque (« Chacun est seul… ») ». Le Nouvelliste (11 novembre 1942): 4.</item>
+        <item>« Tableau de la misère LIV ». Le Nouvelliste (12 novembre 1942): 2.</item>
+        <item>« Ombres et reflets (« I. Sur la page blanche… ») ». Le Nouvelliste (23 octobre 1953): 1.</item>
+        <item>« Ombres et reflets (« I. et c’est ainsi que, vivant hors de nous-mêmes… ») ». Le Nouvelliste (28 janvier 1955): 1.</item>
+        <item>« Ombres et reflets (« Sur la page blanche… ») ». Le Nouvelliste (22 décembre 1956): 36.</item>
+        <item>« Disque sur le surréalisme (extraits) » (1941). Conjonction 193 (Surréalisme et révolte en Haïti) (avril-mai-juin 1992): 39.</item>
+      </list>
+      <list subtype="in english">
+        <item>« Vigil » (1956). Trans. Michael Richardson. The Dedalus Book of Surrealism. Ed. Michael Richardson. Sawtry, Cambs: Dedalus, 1993: 209-212.</item>
+      </list>
+      <list subtype="en español">
+        <item>Diálogo de mis lámparas; Tabú; Desposeído. (prólogo de André Breton; ilustración de Wifredo Lam; edición y traducción de Jorge Camacho). Huelva: Diputación Provincial de Huelva, 2002.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Dialogue de mes lampes. Port-au-Prince: Presses de l’État, 1941, 11 p.; Port-au-Prince: Oedipe, 1957. Préface de Thoby-Marcelin.</item>
+        <item>Tabou. Port-au-Prince: Imprimerie du Collège Vertières, 1941, 15 p.</item>
+        <item>Déchu. Port-au-Prince: Imprimerie Oedipe, 1956, 16 p.</item>
+        <item>Dialogue de mes Lampes – Tabou – Déchu. Illustrations de Wilfredo Lam, H. Télémaque, J. Camacho. 59 p. Paris: Veuillet, 1970, 59 p.</item>
+        <item>Dimanche. Paris: Éditions Maintenant, 1973, 18 p.</item>
+        <item>Anthologie secrète / Magloire-Saint-Aude, oeuvre poétique avec des textes critiques. Montréal: Mémoire d’encrier, 2012.</item>
+      </list>
+      <list subtype="récits">
+        <item>Veillée. Port-au-Prince: Imprimerie Renelle, 1956; Le Nouvelliste (29-30 mai 1971): 1; Montréal: Mémoire d’encrier, 2003.</item>
+      </list>
+      <list subtype="inédits [4]">
+        <item>Sur la lèvre des poissons… (à Vincent Bounoure), 1964.</item>
+        <item>Talismans (à J. Camacho et V. Bounoure), 1968.</item>
+      </list>
+      <list subtype="sur magloire-saint-aude (articles) [6]">
+        <item>Appolon, Wesner. « Dialogue de mes lampes de Clément Magloire-Saint-Aude ». Le Nouvelliste (26 juillet 1941): 2, 4.</item>
+        <item>Bédouin, Jean-Louis. « Un silence parlé ». La Quinzaine Littéraire 121 (juillet 1971): 1-15.</item>
+        <item>Breton, André. « Poètes d’aujourd’hui: Poèmes de Magloire-Saint-Aude présentés par André Breton ». Le Figaro Littéraire 73 (13 septembre 1947): 1.</item>
+        <item>Brierre, Jean F. « Dieu des lampes des reflets et des ombres ». Le Nouvelliste (30 mars 1953 et 29-30 mai 1971).</item>
+        <item>Brouard, Carl. « Clément Magloire fils ». Le Matin (Port-au-Prince) (17 mai 1934).</item>
+        <item>Castera, Georges. « Clément Magloire-Saint-Aude, homme déchiré au-delà des phrases ». Chemins Critiques 1.2 (août 1989): 137-150.</item>
+        <item>Charles, Christophe. Magloire Saint-Aude: griot et surréaliste. Port-au-Prince: Choucoune, 1982.</item>
+        <item>Daumec, Gérard. « Magloire-Saint-Aude ». Optique 24 (février 1956): 51-56.</item>
+        <item>Delienne, Castera. « Dialogue de mes lampes ». Le Nouvelliste (22 juillet 1941): 1, 3.</item>
+        <item>Garret, Naomi M. Chapitre dans The Renaissance of Haitian Poetry. Paris: Présence Africaine, 1963: 184-190.</item>
+        <item>Glémaud, Marie-Josée. « L’espace poétique de Magloire-Saint-Aude ». Collectif Paroles 25 (septembre 1983).</item>
+        <item>Jadotte, Hérard. « Idéologie, littérature, dépendance ». Nouvelle Optique 4 (décembre 1971): 71-84.</item>
+        <item>Laroche, Maximilien. « Clément Magloire-Saint-Aude, l’exilé de l’intérieur ». Présence Francophone 10 (printemps 1978): 49-57.</item>
+        <item>Leperlier, François. « La solution poétique ». Magloire-Saint-Aude, Dialogue de mes lampes et autres textes – oeuvres complètes. Paris: Jean-Michel Place, 1998: 9-21.</item>
+        <item>Lubin, Maurice A. « Magloire-Saint-Aude, poète surréaliste d’Haïti ». Présence Francophone 3 (automne 1971): 87-93.</item>
+        <item>Montas, Yves. « Contexte de Magloire-Saint-Aude ». Cahier Kouidor 7.1 (décembre 1974): 68-69.</item>
+        <item>Rey, Ulrich. « Edris Saint-Amand et Magloire-Saint-Aude ». Le Nouvelliste (26 février 1942): 1, 3.</item>
+        <item>Rey, Ulrich. « Edris Saint-Amand et Magloire-Saint-Aude (suite) ». Le Nouvelliste (27 février 1942): 2.</item>
+        <item>Rigaud, Milo. « Magloire-Saint-Aude ». Cahiers Kouidor 7.1 (décembre 1974): 78-89.</item>
+        <item>Roumain, Jacques. « Préface de la première édition » in : Saint-Amand, Edris, Essai d’explication de Dialogue de mes lampes, troisième édition, pp. 7-10. (1942) Port-au-Prince: Éditions Mémoire, 1995.</item>
+        <item>Roumain, Michel. « Note sur Tabou ». Le Nouvelliste (22 janvier 1942): 1.</item>
+        <item>Thoby-Marcelin, Philippe. « Préface de « Dialogue de mes lampes » . Le Nouvelliste (29-30 mai 1971): 1.</item>
+        <item>Viau, Léonce. « Le Discours du Recteur de l’Université (d’État d’Haïti) ». Le Nouvelliste (1er juin 1971): 1.</item>
+      </list>
+      <list subtype="sur magloire-saint-aude (essais)">
+        <item>Martelly, Stéphane. Le Sujet opaque: une lecture de l’oeuvre poétique de Magloire-Saint-Aude. Paris: L’Harmattan, 2001.</item>
+        <item>Saint-Amand, Edris. Essai d’explication de «Dialogue de mes lampes». (1942)  Port-au-Prince: Éditions Mémoire, 1995, 57 p.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/magloire-saint-aude-extraits/">Extraits de Magloire-Saint-Aude</item>
+        <item ref="http://www.potomitan.info/kauss/invasion.php">L’Invasion surréaliste en Haïti</item>
+      </list>
+    </div>
+  </div>
+</TEI>

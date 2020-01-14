@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="James_Noel_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à James Noël</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="auf deutsch">
+        <item>Die größte der Raubkatzen. Ausgewählte Gedichte / Le plus grand des félins. Poèmes choisis. Trad. Rike Bolte. Trier (Trèves, Allemagne): Litradukt, 2018.</item>
+        <item>Was für ein Wunder. Trier: Litradukt, 2019.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Poèmes à double tranchant / Seul le baiser pour muselière. Préface de Frankétienne. Port-au-Prince: Farandole, 2005; ré-édition illustrée par Valérie Constantin. Mazères (France): Le Chasseur Abstrait, 2009.</item>
+        <item>Le Sang visible du vitrier. Préface de Jacques Taurand. Port-au-Prince: Farandole, 2006; Montréal: CIDIHCA, 2007; ré-édition augmentée, La Roque d’Anthéron: Vents d’Ailleurs, 2009.</item>
+        <item>Bon Nouvèl. Port-au-Prince: Kopivit-L’Action Sociale, 2009.</item>
+        <item>Kabòn 47. Port-au-Prince: Kopivit-L’Action Sociale, 2009.</item>
+        <item>Quelques poèmes et des poussières (avec Vingt-cinq poèmes avant le jour, de Dominique Maurizi). Rectoverso. Paris: Albertine, 2009.</item>
+        <item>Des poings chauffés à blanc. Paris: Bruno Doucey / Montréal: Noroît, 2010.</item>
+        <item>Kana Sutra. La Roque d’Anthéron: Vents d’Ailleurs, 2011.</item>
+        <item>La migration des murs / La migrazione dei muri. Livre d’artiste conçu par Fanette Mellier. Trad. Mia Lecomte. Roma: Villa Médicis, 2012.</item>
+        <item>Le Pyromane adolescent. Montréal: Mémoire d’encrier, 2013.</item>
+        <item>Cheval de feu. Paris: Le Temps des Cerises, 2014.</item>
+        <item>Le pyromane adolescent suivi de Le sang du vitrier. Paris: Seuil (Points), 2015.</item>
+        <item>Majigridji. Delmas: Legs, 2017.</item>
+      </list>
+      <list subtype="roman">
+        <item>Belle merveille. Paris: Zulma, 2017.</item>
+      </list>
+      <list subtype="dans des ouvrages collectifs">
+        <item>« Ville de solitude ». Belles Provinciales (Projet franco-haitien pour la promotion du livre et de la lecture) 1 (1999): 6.</item>
+        <item>« Temps mort » / « Tiempo muerto » et « La foudre » / « El relámpago ». Poèmes en français avec des traductions en espagnol d’Aurelia Martinez. Revista Casa de las Americas 233 (2004).</item>
+        <item>« Priye pou nou » et « Lonn kwa  » Symbiose poétique, dirigé par Renel Fièvre (collectif Rankont, juin 2002): 35-49.</item>
+        <item>« Non-Lieu ». 24 poèmes pour les Gonaïves (collectif). Port-au-Prince: Presses Nationales d’Haïti, 2004: 52.</item>
+        <item>« Non-lieu (poème pour les Gonaïves) », « Temps mort », « Poème de la main gauche » et « Seul le baiser pour muselière ». Notre Librairie 158 (avril-juin 2005).</item>
+        <item>« Haute Tension ». Prosopopées urbaines, Anthologie poétique d’inédits. Suzanne Dracius, éd. Fort-de-France: Desnel, 2006: 149-153.</item>
+        <item>« Fleur de sang ». Point Barre (Rose Hill, Maurice) 3 (2007): 9.</item>
+        <item>« Dés/ordres à mille temps ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 121-125.</item>
+        <item>« Le nom qui m’appelle ». L’année poétique 2008, présentée par Patrice Delbourg, Jean-Luc Maxence et Florence Trocmé. Paris: Seghers, 2008.</item>
+        <item>« Dernière phase » et « La poésie, ma soucoupe volante ». Poésies de langue française, anthologie présentée par Stéphane Bataillon, Sylvestre Clancier et Bruno Doucey. Paris: Seghers, 2008.</item>
+      </list>
+      <list subtype="poésie enregistrée et mise en musique">
+        <item>« Bon Nouvèl » mis en musique et interprété par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson. Port-au-Prince: Productions Batofou, 2005.</item>
+        <item>« Non-lieu », mis en musique et interprété par Robinson Auguste sur son disque Message. Montréal: Magna Multi Média, 2006.</item>
+        <item>Poèmes à double tranchant / Seul le baiser pour muselière, dits par Monique Mesplé Lassalle. Port-au-Prince: Editions Farandole et le Centre Kreololo, 2006. (CD audio, 23 minutes).</item>
+        <item>« Seul le baiser pour muselière », poème de James Noël dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+        <item>« Bog », poème de James Noël mis en musique par Wooly Saint Louis Jean sur son disque Eta’n Sinik, 2011.</item>
+      </list>
+      <list subtype="textes et articles sélectionnés">
+        <item>« … Et nos artistes alors ? ». Le Matin (19 juillet 2004).</item>
+        <item>« Jacques Roche : Mourir pour des idées ». Le Nouvelliste (20 juillet 2005).</item>
+        <item>« Roumain dans la peau de Manuel (Tour d’horizon de quatre actes manqués) ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 301-06.</item>
+      </list>
+      <list subtype="direction d’ouvrages">
+        <item>IntranQu’îllités, revue fondée et dirigée par James Noël, depuis 2012.</item>
+        <item>Anthologie de poésie haïtienne, dirigée et présentée par James Noël. Paris: Seuil (Points), 2015.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>La fleur de Guernica, avec des illustrations de Pascale Monnin. La Roque d’Anthéron: Vents d’Ailleurs, 2010.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>James Noël: Le poète des métaphores, film-documentaire réalisé par Jean Antoine Arisma, diffusé sur l’émission « Culture 5 » sur Télemax (Haïti). 2005, 8 minutes.</item>
+        <item>La danse des pieds, court-métrage réalisé par Dominique Batraville et Kendy Vérilus, inspiré de « Bon Nouvèl » de James Noël. 2005, 13 minutes.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2007     Artiste en résidence pour le festival Rumeurs Urbaines (Paris).</item>
+        <item>2007     Mention spéciale du jury, Prix de poésie des Écrivains Français d’Amérique, pour Le Sang visible du vitrier.</item>
+        <item>2008     Prix Fetkann (poésie), pour Le Sang visible du vitrier.</item>
+        <item>2009     Bourse d’écriture du Conseil Régional de L’Île-de-France (janvier-novembre)</item>
+        <item>2009     Bourse d’écriture de six semaines, invité par la Maison du Livre de la Nouvelle-Calédonie.</item>
+        <item>2010     Bourse d’écriture à Vincennes, dans le cadre du FestivalAmérica (août-décembre).</item>
+        <item>2012-13    Pensionnaire de la Villa Médicis à Rome.</item>
+        <item>2017     Chevalier de l’Ordre des Arts et des Lettres (France).</item>
+        <item>2017     Invité d’honneur au printemps des poètes de Montpellier.</item>
+        <item>2017     Prix des Caraïbes (ADELF), pour Belle merveille.</item>
+      </list>
+      <list subtype="sur l’oeuvre de james noël">
+        <item>Aizier, Jean-Philippe. « James Noël » Journal Littéraire 66 (février 2006).</item>
+        <item>Bernhardt, Denise. « James Noël ou la vie outragée ». Haïti Press Network (janvier 2005); Le Matin (3 février 2005); repris dans le recueil de James Noël, Poèmes à double tranchant / Seul le baiser pour muselière (Port-au-Prince: Farandole, 2005): 7-9.</item>
+        <item>Célestin, Joseph Edgar. « Histoire d’un joyeux Noël ». Panoramag 11 (juillet 2005); Le Matin (août 2005).</item>
+        <item>Frankétienne. « L’univers fabuleux de James Noël », extrait de la préface de Poèmes à double tranchant / Seul le baiser pour muselière. Notre Librairie 158 (avril-juin 2005).</item>
+        <item>Makhélé, Caya. « James Noël ; Diseur d’amours ». Continental (mensuel panafricain d’information) 67 (janvier 2008): 71.</item>
+        <item>Merveille, Hugo. « James Noël : Une plume à double tranchant » (entretien). Ticket 132 (supplément au journal Le Nouvelliste, mai 2005).</item>
+        <item>Pierre, Jobnel. « James Noël : Les motifs du vécu ». Le Nouvelliste (mai 2005).</item>
+        <item>Poulard, Monique. « Sortilège. Magie du verbe. James Noël », entretien avec trois poèmes. Miroir de l’Art (Paris) 8 (octobre-novembre 2006): 16-17.</item>
+        <item>Van Melle, Paul.  Poèmes à double tranchant / Seul le baiser pour muselière, compte rendu. Revue Inédit Nouveau (Belgique) 198 (janvier 2006).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/james-noel-bon-nouvel/">Bon Nouvèl</item>
+        <item ref="http://ile-en-ile.org/james-noel-deux-poemes/">La Foudre</item>
+        <item ref="http://ile-en-ile.org/james-noel-5-questions-pour-ile-en-ile/">James Noël, 5 Questions pour Île en île</item>
+        <item ref="http://ile-en-ile.org/james-noel-le-sang-visible-du-vitrier-extraits/">James Noël, Le sang visible du vitrier</item>
+        <item ref="http://ile-en-ile.org/kiskeya-james-noel/">Kiskeya, l’île mystérieuse</item>
+        <item ref="http://ile-en-ile.org/james-noel-poeme-de-la-main-gauche-jeu-de-mort/">Poème de la main gauche</item>
+        <item ref="http://james-noel.hautetfort.com/">Cœuritoire</item>
+        <item ref="https://blogs.mediapart.fr/james-noel/blog">Saxophonies</item>
+        <item ref="https://youtu.be/byvAGGhcKcw">Lancement de la revue IntranQu’îllités</item>
+        <item ref="http://www.fipradio.fr/diffusion-reecoute-fip-livre-ses-musiques-la-migration-des-murs-de-james-noel">FIP Livre ses musiques : « La migration des murs » de James Noël</item>
+        <item ref="https://youtu.be/3azDn7ld7Fo">Aux jours sombres, les amis inconnus – Arthur H &amp; James Noël</item>
+        <item ref="https://youtu.be/G0Zf4frVbKw">1e</item>
+        <item ref="https://youtu.be/N_Gb7VbAgMQ"> James Noël, poète enragé</item>
+        <item ref="https://web.archive.org/web/20110826032312/http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=44099">La pureté ambiguë</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/53273/James-Noel-Monsieur-le-poete">James Noël : Monsieur le poète !</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/109607/James-Noel-au-Theatre-des-Expositions-a-Rome">James Noël au Théâtre des Expositions à Rome</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/116553/James-Noel-ou-le-pyromane-adolescent">James Noël ou le pyromane adolescent</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/article/136931/James-Noel-lIntranQuile">James Noël, l’IntranQu’île</item>
+        <item ref="http://lenouvelliste.com/article/173671/james-noel-fait-des-vagues-a-la-3e-edition-de-vagues-litteraires">James Noël fait des vagues à la 3e édition de Vagues littéraires</item>
+        <item ref="http://lenouvelliste.com/lenouvelliste/recherche">archives du journal</item>
+        <item ref="http://blogs.mediapart.fr/blog/patrice-beray/130113/la-migration-des-murs-de-james-noel">La migration des murs, de James Noël</item>
+        <item ref="http://www.alterpresse.org/article.php3?id_article=4780">« Le sang visible du vitrier » Haiti : Sauf-conduit poétique d’un iconoclaste multi récidiviste</item>
+        <item ref="https://mjdesvignes.wordpress.com/2017/06/10/belle-merveille-james-sacre-zulma-aout-2017/">Belle merveille – James Noël – Editions Zulma – août 2017</item>
+        <item ref="https://www.nytimes.com/2014/11/21/movies/haitian-diaspora-in-stones-in-the-sun.html">The Old Country Never Goes Away ; Haitian Diaspora in ‘Stones in the Sun’</item>
+        <item ref="https://shadowandact.com/ayiti-mon-amour-post-earthquake-haitian-cinema">‘Ayiti Mon Amour’ &amp; Post-Earthquake Haitian Cinema</item>
+        <item ref="http://www.loophaiti.com/content/un-haitien-distingue-par-un-ancien-ministre-francais-de-la-culture">Un Haïtien nommé Chevalier de l’Ordre des Arts et des Lettres</item>
+        <item ref="https://studifrancesi.revues.org/5463">Anthologie de la poésie haïtienne contemporaine, éd. James Noël</item>
+        <item ref="https://www.letemps.ch/culture/2016/04/22/james-noel-ecume-vers">James Noël, dans l’écume des vers</item>
+        <item ref="https://traversees.wordpress.com/2017/01/09/james-noel-la-migration-des-murs-galaade-2016/">James Noël – La migration des murs – Galaade 2016</item>
+        <item ref="http://education.hauts-de-seine.net/portal/site/education/culture-colleges/projets-culture-jeunes/college-cinema-danse-chant-atelier-cinema-theatre/1313/e298570da4f06110VgnVCM100000860aa8c0RCRD.vhtml">Poésie caribéenne, « une fête à la santé des mots » </item>
+        <item ref="http://www.canalacademie.com/ida3945-Du-Chili-d-Haiti-et-de-France-Poesies-de-langue-francaise-5-11.html">Du Chili, d’Haïti et de France : Poésies de langue française</item>
+        <item ref="https://www.franceinter.fr/emissions/dans-quel-monde-on-vit/dans-quel-monde-on-vit-21-aout-2017">Haïti, mon amour, avec James Noël &amp; Corentin Fohlen</item>
+      </list>
+    </div>
+  </div>
+</TEI>

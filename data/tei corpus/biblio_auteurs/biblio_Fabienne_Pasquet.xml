@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Fabienne_Pasquet_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Fabienne Pasquet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/pasquet_fabienne/" xml:id="Fabienne_Pasquet_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="romans">
+        <item> L’Ombre de Baudelaire. Arles: Actes Sud, 1996.</item>
+        <item>La Deuxième mort de Toussaint-Louverture. Arles: Actes Sud, 2001.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Partition pour une extase. En italien, 1995</item>
+        <item>Sarah la noire. En italien, 1987, et en français, 1989.</item>
+        <item>Si la révolution m’était contée. En français, 1988.</item>
+        <item>Le récit de Madeleine. En français 1988.</item>
+      </list>
+      <list subtype="opéra">
+        <item>Tous un, musique de Patrick Defossez et Anne de Baecker, 2002.</item>
+      </list>
+      <list subtype="traductions par fabienne pasquet">
+        <item>Maïakovski, Vladimir. La Cimice. Trad. pour la scène, du russe en italien, avec Carlo Cecchi et Nicola Piovani. Administrazione Provinciale di Reggio Emilia, 1975.</item>
+        <item>Bertelli, Sergio. Noblesse oblige. Trad. de l’italien. Florence: Institut Français de Florence, 1986.</item>
+        <item>Grasset, A. I Figli di Medea. Trad. pour la scène, du français en italien, 1986.</item>
+        <item>Savelli, A. et Fabienne Pasquet. Sarah la noire. Trad. pour la scène, de l’italien en français, 1988.</item>
+        <item>Butters, Suzanne B. « Ferdinand de Médicis ». Trad. de l’anglais. La Villa Médicis. André Chastel et Philippe Morel, éds. Académie de France à Rome: École française de Rome, 1989.</item>
+        <item>Harrington, Anne. « Au-delà de la phrénologie : théorie de la localisation à l’époque contemporaine ». Trad. de l’anglais. La Fabrique de la Pensée. Pietro Corsi, éd. Milano: Electa, 1990.</item>
+        <item>Rosand, David. Peindre à Venise au XVIe siècle: Titien, Véronèse, Tintoret. Trad. de l’anglais, avec Daniel Arasse. Paris: Flammarion, 1993.</item>
+        <item>Ortalli, Gherardo. La peinture infamante du XIIIe au XVIe siècle. Traduit de l’italien, avec Daniel Arasse. Paris: G. Monfort, 1994.</item>
+        <item>Les Normands, peuple d’Europe (1030-1200). Mario d’Onofrio, éd. Trad. de l’italien des textes de F. Cardini, F. Aceto, L. Marino, V. von Falkenhausen et U. Scerrato. Paris: Flammarion, 1994.</item>
+        <item>Dictionnaire de l’architecture du XXème siècle. Jean-Paul Midant, éd. Traduction des articles en italien avec Isabelle Picon. Paris: Hazan et Institut français d’architecture, 1996.</item>
+        <item>Tempesti, Anna Forlani et Elena Capretti. Piero di Cosimo: l’œuvre peint. Trad. de l’italien, avec Bernard Comment. Paris: Éditions du Félin, 1996.</item>
+        <item>Panofsky, Erwin. « L’Annonciation Friedsam », « Une fois encore l’Annonciation Friedsam » et « Facies illa Rogeri Maximi pictoris », traduits de l’anglais. Peinture et dévotion en Europe du nord. Paris: Flammarion, 1997.</item>
+        <item>Luigi Snozzi: une école de tendance. Trad. de l’italien des textes de B. Secchi, T. Carloni, F. Guidotti, L. Vacchim. Lausanne: Presses Polytechniques et Universitaires Romandes, janvier 1999.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1997     Bourse d’aide à l’écriture du Centre National du Livre (France).</item>
+        <item>1997     Bourse d’aide à l’écriture Fondation Pro-Helvetia (Suisse).</item>
+        <item>2000     Prix Schiller (Suisse), pour La Deuxième mort de Toussaint Louverture.</item>
+        <item>2002     Bourse d’aide à l’écriture de la Ville de Genève.</item>
+        <item>2003     de janvier à mars, résidence itinérante sur l’arc jurassien franco-suisse, «Par dessus le mur l’écriture».</item>
+        <item>2003     Prix Marcel Aymé, pour La Deuxième mort de Toussaint Louverture.</item>
+      </list>
+      <list subtype="sur l’oeuvre de fabienne pasquet">
+        <item>François, Cyrille.« Fabienne Pasquet et l’écriture contre les silences et les mensonges de l’Histoire ». Nouvelles Francographies 1.1 (septembre 2007): 139-150.</item>
+        <item>François, Cyrille. « Approches de l’altérité dans les romans de Fabienne Pasquet ».Présences Haïtiennes. Sylvie Bouffartigue et al., éds. Amiens: Université de Cergy-Pontoise / Encrage, 2006: 357-368.</item>
+        <item>François, Cyrille. « En mémoire de Jeanne, ou la mémoire biculturelle dans L’Ombre de Baudelaire de Fabienne Pasquet ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 49-60.</item>
+        <item>Shelton, Marie-Denise. « Identité créole et mémoire: Edwidge Danticat et Fabienne Pasquet ». Journal of Haitian Studies 3/4 (1997/98): 103-108.</item>
+        <item>Vantroys, Carole. « La maîtresse noire ». Lire (mai 1996): 68.</item>
+        <item>Signalons également de nombreux articles sur l’œuvre de Fabienne Pasquet parus dans la presse belge (La Libre-Belgique, Le Vif-l’Express), française (L’Est Républicain, Le Figaro, Le Midi Libre, Nice Matin, Le Provençal) et suisse (Le Nouveau Quotidien, Le Temps, G.H.I.), comme l’article (non-signé), « Fabienne Pasquet », paru dans Le Zig (Pontarlier, France): 34 (mars-avril 2002): 7-10.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ppcritique.free.fr/pasquet.html">Des élèves de M. Perrin lisent La Deuxième mort de Toussaint Louverture de Fabienne Pasquet</item>
+        <item ref="http://www.swissinfo.org/sfr/Swissinfo.html?siteSect=105&amp;sid=1715929">Fabienne Pasquet et le roman, « travail de mémoire »</item>
+        <item ref="http://www.actes-sud.fr/">Actes Sud</item>
+      </list>
+    </div>
+  </div>
+</TEI>

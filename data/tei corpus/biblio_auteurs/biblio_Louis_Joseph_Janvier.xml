@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Louis_Joseph_Janvier_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Louis Joseph Janvier</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/janvier/" xml:id="Louis_Joseph_Janvier_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="essais">
+        <item>Phtisie pulmonaire; causes, traitement préventif. Paris: A. Parent, 1881.</item>
+        <item>Les Détracteurs de la race noire et de la république d’Haïti (avec Jules Auguste, Clément Denis, Arthur Bowler et Justin Dévost). Paris: Marpon et Flammarion, 1882.</item>
+        <item>La République d’Haïti et ses visiteurs (1840-1882); réponse à M. Victor Cochinat (de La Petite presse) et à quelques autres écrivains. Paris: Marpon et Flammarion, 1883; Port-au-Prince: Éditions Fardin, 1979.</item>
+        <item>L’Égalité des races. Paris: G. Rougier, 1884.</item>
+        <item>Haïti aux Haïtiens. Paris: A. Parent, A. Davy, 1884.</item>
+        <item>Les Antinationaux, actes et principes. Paris: G. Rougier, 1884; Port-au-Prince: Panorama, 1962.</item>
+        <item>Les Affaires d’Haïti (1883-1884). Paris: C. Marpon et E. Flammarion, 1885; Port-au-Prince: Panorama, 1973.</item>
+        <item>Les Constitutions d’Haïti, 1801-1885. Paris: C. Marpon et E. Flammarion, 1886; Port-au-Prince: Fardin, 1977.</item>
+        <item>Du Gouvernement civil en Haïti ; avec le portrait de l’auteur. Lille: Le Bigot frères, 1905.</item>
+        <item>La caisse d’épargne et l’école en Haïti. Port-au-Prince: Imprimerie de l’abeille, 1906.</item>
+        <item>Élections législatives de 1908 ; humble adresse aux électeurs de la commune de Port-au-Prince. Port-au-Prince: l’Abeille, 1907; Port-au-Prince: H. Chauvet, 1908.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Vieux Piquet ; scène de la vie haïtienne. Paris: A. Parent, 1884.</item>
+        <item>Une Chercheuse. Paris: C. Marpon et E. Flammarion, 1889; Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+      </list>
+      <list subtype="sur louis joseph janvier">
+        <item>Charles, Christophe Philippe. « Autobiographie de Louis Joseph Janvier (1885-1911) » (sélection d’extraits). Autobiographie des écrivains d’Haïti. Tome 1. Des Histoires passionnantes. réunies, présentées, éditées par Christophe Philippe Charles. Port-au-Prince: Choucoune, 1995: 59-80.</item>
+        <item>Desroches, Jenner. « Du Brésil à Haïti, ou le problème de l’inégalité des races en Amérique chez Arthur de Gobineau, Anténor, Firmin et Louis Joseph Janvier ». Thèse de 3e cycle/Littérature comparée Université Strasbourg II. 1974.</item>
+        <item>Gouraige, Ghislain. Histoire de la littérature haïtienne (De l’indépendance à nos jours). Port-au-Prince: Editions de l’Action Sociale, 1982.</item>
+        <item>Jean, Eddy Arnold. La Pensée politique haïtienne (XIXe siècle). Histoire de la littérature haïtienne, Volume 2.
+Port-au-Prince: Éditions Haïti-Demain, 2001.</item>
+        <item>Pompilus, Pradel. Louis Joseph Janvier par lui-même : le patriote et le champion de la négritude. Port-au-Prince: Imprimerie des Antilles, 1976 ; Port-au-Prince: La Presse évangélique (2e édition revue, corrigée et augmentée), 1995.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://lafayette.org.uk/jan2552.html">Photo de Louis Joseph Janvier</item>
+      </list>
+    </div>
+  </div>
+</TEI>

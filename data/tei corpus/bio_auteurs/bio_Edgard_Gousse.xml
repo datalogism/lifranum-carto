@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Edgard_Gousse_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,90 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.edgard-gousse.40411.html" xml:id="Edgard_Gousse_bio_auteur_spla">
-    <p>Edgard Gousse est un écrivain haïtien né à Jacmel. Ses dernières publication en date sont:-Ne dites pas à ma mère que je suis une salope, Roman, 2014.-Le pouvoir du sexe, Récit, 2014.----Né à JACMEL, Haïti. Professeur universitaire, chercheur, écrivain. Diplômé en information et journalisme (Université de Montréal), études supérieures (niveau doctorat) de linguistique et de didactique (Université du Québec à Montréal et Université de Montréal), puis de littérature hispanique (Université de Montréal), son expérience professionnelle couvre les domaines de l'écriture, de la critique littéraire, de l'édition et de la recherche portant sur les questions relatives à la didactique des langues. Edgard GOUSSE a vécu une vingtaine d'années à Montréal et travaillé dans le domaine de l'éducation et de la recherche, pendant plusieurs années. Ses recherches en éducation ont été publiées dans des revues spécialisées, du Canada et d'ailleurs. Il a été répertorié dans Interface, « Le Bottin de la recherche » au Canada, parmi les 10 000 scientifiques de ce pays. Récipiendaire, en 1995, de la Médaille José María Heredia (section littérature), décernée par l'Union des Écrivains et Artistes de Cuba (UNEAC) [Unión de Escritores y Artistas de Cuba] ; couronné « Meilleur conférencier », au Congrès international de Monterrey portant sur « La ville et l'écrivain » (Encuentro internacional de Escritores : La Ciudad y el Escritor), par les 113 autres écrivains des Amériques et d'Europe invités à ce congrès, à l'occasion du 400e anniversaire de la fondation de la ville de Monterrey (Monterrey, Mexique, mai 1996), Edgard GOUSSE a coordonné, à titre de vice-président, le Congrès mondial de la Poésie tenu à Cuba en 1999, avec des invités venus des cinq continents. Il a été, de 1993 à 2000, vice-président du Festival international de Poésie tenu chaque année à Santiago de Cuba. Plusieurs fois membre de jurys littéraires : président du jury au Concours national de Poésie « Pedro Correa Vásquez », géré conjointement par la Casa del Caribe et l'Union des Écrivains et Artistes de Cuba, Santiago de Cuba (juillet 2000) ; président du jury au Prix de théâtre intégrateur, géré par l'Alliance théâtrale de Montréal (1998) ; juré au Grand Prix du livre de Montréal (catégories poésie, nouvelle, roman, essai, théâtre), géré par la Ville de Montréal (1994, 1995 et 1996) ; juré auPrix littéraire de la Ville de Laval (catégories poésie, nouvelle), géré par la Société littéraire de Laval, Ville de Laval (1995), Edgard GOUSSE a également été, à Montréal, de 1992 à 1998, éditeur et directeur de Ruptures, revue littéraire en plusieurs langues (français, anglais, espagnol et portugais) diffusée dans pas moins de 30 pays des Amériques et du reste du monde ; cette copieuse revue, atteignant parfois les 600 pages, a publié des auteurs de 44 pays et utilisé les services de 80 traducteurs de 23 pays différents. Consultant, en Haïti, dans le cadre d'un projet en éducation financé par la Banque interaméricaine de Développement (BID), Edgard GOUSSE a mené, pour le compte du ministère de l'Éducation nationale, une importante analyse des manuels de langues en usage dans les écoles fondamentales en Haïti. Il a par ailleurs assuré la coordination générale du Colloque international sur l'enseignement bilingue en Haïti (mars 2003), organisé conjointement par l'Agence universitaire de la Francophonie (AUF), le ministère de l'Éducation nationale (MÉNJS) et l'Université Quisqueya (UniQ). Il a de plus coordonné, pour le compte de l'Organisation internationale de la Francophonie (OIF), une enquête nationale portant sur un « programme conjoint d'appui à la justice en Haïti », OIF, Union européenne, Canada (mai-juillet/septembre 2006). (...)</p>
+    <p>
+      <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+       est un écrivain haïtien né à 
+      <location ana="Jacmel">Jacmel</location>
+      . Ses dernières publication en date sont:-Ne dites pas à ma mère que je suis une salope, Roman, 2014.-Le pouvoir du sexe, Récit, 2014.----Né à 
+      <location ana="Jacmel">Jacmel</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      . Professeur universitaire, chercheur, écrivain. Diplômé en information et journalisme (Université de 
+      <location ana="Montreal">Montréal</location>
+      ), études supérieures (niveau doctorat) de linguistique et de didactique (Université du 
+      <location ana="Quebec">Québec</location>
+       à 
+      <location ana="Montreal">Montréal</location>
+       et Université de 
+      <location ana="Montreal">Montréal</location>
+      ), puis de littérature hispanique (Université de 
+      <location ana="Montreal">Montréal</location>
+      ), son expérience professionnelle couvre les domaines de l'écriture, de la critique littéraire, de l'édition et de la recherche portant sur les questions relatives à la didactique des langues. 
+      <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+       a vécu une vingtaine d'années à 
+      <location ana="Montreal">Montréal</location>
+       et travaillé dans le domaine de l'éducation et de la recherche, pendant plusieurs années. Ses recherches en éducation ont été publiées dans des revues spécialisées, du 
+      <location ana="Canada">Canada</location>
+       et d'ailleurs. Il a été répertorié dans Interface, « Le Bottin de la recherche » au 
+      <location ana="Canada">Canada</location>
+      , parmi les 10 000 scientifiques de ce pays. Récipiendaire, en 1995, de la Médaille José María Heredia (section littérature), décernée par l'Union des Écrivains et Artistes de 
+      <location ana="Cuba">Cuba</location>
+       (UNEAC) [Unión de Escritores y Artistas de 
+      <location ana="Cuba">Cuba</location>
+      ] ; couronné « Meilleur conférencier », au Congrès international de Monterrey portant sur « La ville et l'écrivain » (Encuentro internacional de Escritores : La Ciudad y el Escritor), par les 113 autres écrivains des 
+      <location ana="Ameriques">Amériques</location>
+       et d'Europe invités à ce congrès, à l'occasion du 400e anniversaire de la fondation de la ville de Monterrey (Monterrey, 
+      <location ana="Mexique">Mexique</location>
+      , mai 1996), 
+      <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+       a coordonné, à titre de vice-président, le Congrès mondial de la Poésie tenu à 
+      <location ana="Cuba">Cuba</location>
+       en 1999, avec des invités venus des cinq continents. Il a été, de 1993 à 2000, vice-président du Festival international de Poésie tenu chaque année à Santiago de 
+      <location ana="Cuba">Cuba</location>
+      . Plusieurs fois membre de jurys littéraires : président du jury au Concours national de Poésie « Pedro Correa Vásquez », géré conjointement par la Casa del Caribe et l'Union des Écrivains et Artistes de 
+      <location ana="Cuba">Cuba</location>
+      , Santiago de 
+      <location ana="Cuba">Cuba</location>
+       (juillet 2000) ; président du jury au Prix de théâtre intégrateur, géré par l'Alliance théâtrale de 
+      <location ana="Montreal">Montréal</location>
+       (1998) ; juré au Grand Prix du livre de 
+      <location ana="Montreal">Montréal</location>
+       (catégories poésie, nouvelle, roman, essai, théâtre), géré par la Ville de 
+      <location ana="Montreal">Montréal</location>
+       (1994, 1995 et 1996) ; juré auPrix littéraire de la Ville de 
+      <location ana="Laval">Laval</location>
+       (catégories poésie, nouvelle), géré par la Société littéraire de 
+      <location ana="Laval">Laval</location>
+      , Ville de 
+      <location ana="Laval">Laval</location>
+       (1995), 
+      <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+       a également été, à 
+      <location ana="Montreal">Montréal</location>
+      , de 1992 à 1998, éditeur et 
+      <location ana="Directeur">Directeur</location>
+       de Ruptures, revue littéraire en plusieurs langues (français, anglais, espagnol et portugais) diffusée dans pas moins de 30 pays des 
+      <location ana="Ameriques">Amériques</location>
+       et du reste du monde ; cette copieuse revue, atteignant parfois les 600 pages, a publié des auteurs de 44 pays et utilisé les services de 80 traducteurs de 23 pays différents. Consultant, en 
+      <location ana="Haiti">Haïti</location>
+      , dans le cadre d'un projet en éducation financé par la Banque interaméricaine de Développement (BID), 
+      <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+       a mené, pour le compte du ministère de l'Éducation nationale, une importante analyse des manuels de langues en usage dans les écoles fondamentales en 
+      <location ana="Haiti">Haïti</location>
+      . Il a par ailleurs assuré la coordination générale du Colloque international sur l'enseignement bilingue en 
+      <location ana="Haiti">Haïti </location>
+      (
+      <location ana="Mars">Mars</location>
+       2003), organisé conjointement par l'Agence universitaire de la Francophonie (AUF), le ministère de l'Éducation nationale (MÉNJS) et l'Université Quisqueya (UniQ). Il a de plus coordonné, pour le compte de l'Organisation internationale de la Francophonie (OIF), une enquête nationale portant sur un « programme conjoint d'appui à la justice en 
+      <location ana="Haiti">Haïti</location>
+       », OIF, Union européenne, 
+      <location ana="Canada">Canada</location>
+       (mai-juillet/septembre 2006). (...)
+    </p>
   </text>
 </TEI>

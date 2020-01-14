@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Anderson_Dovilas_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Anderson Dovilas</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/dovilas/" xml:id="Anderson_Dovilas_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Pwèl nan Zo. Montréal: Lagomatik, 2009.</item>
+        <item>Les Îles en accent aigu. Mazères (France): le Chasseur Abstrait, 2009.</item>
+        <item>Liminasyon. Santo Domingo: Lesly Lafont, 2011.</item>
+        <item>Vingt poèmes pour traverser la nuit. Paris: Edilivre, 2012.</item>
+        <item>Laviwon. West Palm Beach (Floride): Perles des Antilles, 2012.</item>
+        <item>Mon pays, rien de luxe. Bridgeport (Connecticut): Éditions Trouvailles, 2012.</item>
+        <item>Mémoire d’Outre-Monde. Paris: L’Harmattan, 2014.</item>
+      </list>
+      <list subtype="poésie parue dans des ouvrages collectifs">
+        <item>Trois poèmes. Anthologie de la poésie haïtienne (Cahier Haiti). Mazères: Le Chasseur abstrait, 2009: 557-562.</item>
+        <item>« Vox populi ». Pour Haïti. Suzanne Dracius, éd. Fort-de-France: Desnel, 2010: 263.</item>
+        <item>« Poème à l’encre vide… ». Voix sans frontière / Voci fara hotare (anthologie bilingue, français-roumain). Poètes choisis et traduits par Marilena Lica-Masala. Paris: l’Harmattan, 2010.</item>
+        <item>« Port-au-Prince sur la Grande-Rue ». Poètes pour Haïti. Dana Shishmanian et Khal Torabully, éds. Paris: l’Harmattan, 2011: 195.</item>
+        <item>« Récit d’une nuit blanche », « Laviwonn » (extrait) et « Des âmes nues ». Vents Alizés 0 (mai 2012): 79-83.</item>
+      </list>
+      <list subtype="préfaces">
+        <item>Tesson de vers, par Illeus Papillon. Port-au-Prince: Imprimerie Vilcin, 2010.</item>
+        <item>Archipel de vers, par Jean Baptiste Anivince. Port-au-Prince: Imprimerie Vilcin, 2010.</item>
+      </list>
+      <list subtype="inédits">
+        <item>Monologue de la chanson qui bouge.</item>
+        <item>Chronique des panthères.</item>
+        <item>Bese Triye.</item>
+      </list>
+      <list subtype="interventions publiques">
+        <item>Le Printemps des poètes. L’Institut Français d’Haïti. 21 mars 2009.</item>
+        <item>Vente signature de Pwél nan Zo. L’Institut Français d’Haïti. 8 juin 2009.</item>
+        <item>Conférence et vente-signature. La Faculté de linguistique appliquée (Créolophonie). 27 octobre 2009.</item>
+        <item>La Médiathèque du Perreux-sur-Marne (France). 27 mars 2010.</item>
+        <item>Le Salon du Livre de Paris, pour la sortie des Îles en accent aigu. 26 au 30 mars 2010.</item>
+        <item>Présentation de Coutecheve Aupont Lavoie, Duckens Charitable et Anderson Dovilas. La Bibliothèque Justin Lhérisson de Carrefour. 8 mai 2010.</item>
+        <item>Auteur invité, par le groupe Inteligencia de Santiago, Universidad Tecnológica de Santiago (UTESA, République dominicaine). 7 septembre 2010.</item>
+        <item>Célébration de la Langue créole. Fort Lauderdale (Floride). 28 octobre 2010.</item>
+        <item>Quand la poésie arrose. La Bibliothèque Étoile Filante de Fontamara (Haïti). 31 décembre 2010.</item>
+        <item>« La polyphonie historique dans la poésie haïtienne ». La Bibliothèque Lagomatik de Dame-Marie (Haïti). 26 février 2011.</item>
+        <item>Poetry Slam Celebrating Haitian Women. Lehman College (CUNY), Bronx, New York. 28 mars 2011.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/anderson-dovilas-pwezi-pefomans/"> Anderson Dovilas, Pwezi pèfòmans</item>
+        <item ref="http://ile-en-ile.org/anderson-dovilas-la-nuit-nest-pas-le-premier-secret-des-baisers-bleus/">La nuit n’est pas le premier secret des baisers bleus</item>
+        <item ref="http://ile-en-ile.org/anderson-dovilas-trois-poemes/">Trois poèmes</item>
+        <item ref="http://dovanderson.over-blog.com/">Le blog de Dovilas Anderson</item>
+        <item ref="http://www.harmattan.fr/index.asp?navig=catalogue&amp;obj=livre&amp;no=43605">Mémoire d’Outre-Monde</item>
+        <item ref="http://www.francopolis.net/revues/Dovilas-mai2012.html">Notes sur « Vingt poèmes pour traverser la nuit »</item>
+        <item ref="http://spcreolophone.blogvie.com/">Sosyete Powèt Kreyolofòn</item>
+        <item ref="http://www.lemanoirdespoetes.fr/poemes-anderson-dovilas.php">« Je vole », « Je voyage » et « Point »</item>
+        <item ref="http://www.paroleenarchipel.org/">Parole en Archipel</item>
+        <item ref="http://www.paroleenarchipel.com/article-vingt-poemes-pour-traverser-la-nuit-104458858.html">Vingt poèmes pour traverser la nuit</item>
+        <item ref="http://www.paroleenarchipel.com/article-en-hollande-la-france-devient-fran-oise-104871758.html">En Hollande, la France devient Françoise</item>
+        <item ref="http://www.paroleenarchipel.com/article-les-iles-en-accent-aigu-105328874.html">Les îles en accent aigu</item>
+        <item ref="http://www.paroleenarchipel.com/article-le-sang-de-l-oubli-le-sang-de-l-avenir-105976958.html">Le sang de l’oubli, le sang de l’avenir</item>
+        <item ref="http://www.paroleenarchipel.com/article-liminasyon-parcours-d-un-voyageur-106118692.html">Liminasyon: Parcours d’un voyageur</item>
+        <item ref="http://issuu.com/pallaikaroly/docs/vents_aliz_s_-_komansman?mode=window&amp;backgroundColor=#222222">Trois poèmes</item>
+        <item ref="http://www.potomitan.info/ayiti/dovilas.php">Pour en finir avec dérogation littéraire en Haïti</item>
+        <item ref="http://www.francopolis.net/salon/Dovilas-mars2012.html">Extraits de Mon pays rien de luxe</item>
+      </list>
+    </div>
+  </div>
+  <div ref="http://www.spla.pro/fiche.personne.anderson-dovilas.22813.html" xml:id="Anderson_Dovilas_biblio_auteur_spla">
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.dovanderson.over-blog.com">Website Anderson Dovilas </item>
+      </list>
+    </div>
+  </div>
+</TEI>

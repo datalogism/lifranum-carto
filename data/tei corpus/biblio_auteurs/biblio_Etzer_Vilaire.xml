@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Etzer_Vilaire_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Etzer Vilaire</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/vilaire/" xml:id="Etzer_Vilaire_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="roman">
+        <item>Thanathophobe. Inédit. Publié partiellement en feuilleton (vers 1912) dans Haïti littéraire et scientifique (comme Les destinées tragiques).</item>
+      </list>
+      <list subtype="poésie">
+        <item>Page d’amour et Les dix hommes noirs. Port-au-Prince: Imprimerie F. Smith, 1901.</item>
+        <item>Le flibustier, essai de roman en vers, avec Homo (vision de l’enfer). Port-au-Prince: Imprimerie Madame F. Smith, 1902.</item>
+        <item>Poèmes de la mort, 1898-1905. Paris: Fischbacher, 1907.</item>
+        <item>Nouveaux poèmes: les Voix, Terre et ciel, Au-delà, Fantaisies poétiques. Le Puy-en-Velay: Peyriller, Rouchon et Gamon, 1910.</item>
+        <item>Poésies complètes. Tome 1: Années tendres (Le flibustier, Page d’amour, Années tendres [Rêverie, Miscellanées]); Tome 2: Poèmes de la mort (Les dix hommes noirs, Tristesses ultimes-Amour, Les étoiles, Homo, Poème à mon âme); Tome 3: Nouveaux poèmes (Les voix, Terre et ciel, Au-delà, Fantaisies poétiques). Paris: Albert Messein, 1914-1919; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Les dix hommes noirs. Port-au-Prince: Choucoune, 1997.</item>
+      </list>
+      <list subtype="essais">
+        <item>« La Mission de Mr le député Etzer Vilaire et de Mr le sénateur Price-Mars à Prague, à Paris et à Genève en 1931, rapport au gouvernement de la République et au Corps législatif ». (avec Jean Price-Mars) Port-au-Prince: Imprimerie de V. Valcin, 1932, 33 pages.</item>
+        <item>« Quelques remarques sur l’homme d’airain ». Brutus, Timoléon C. L’Homme d’airain, étude monographique sur Jean-Jacques Dessalines, fondateur de la nation haïtienne. Port-au-Prince: 1946.</item>
+      </list>
+      <list subtype="prose religieuse">
+        <item>Les prédications d’un laïque (tome 1). Pétionville: Département d’entrainement des laïcs frères), s.d., 250 pages.</item>
+      </list>
+      <list subtype="morale et philosophie">
+        <item>Pensées (inédit).</item>
+        <item>La vie solitaire pendant l’occupation américaine (poèmes en prose, textes poétiques, méditations lyriques). Port-au-Prince: Séminaire Adventiste, 1937.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1912     Prix de l’Académie française, pour Nouveaux poèmes.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’etzer vilaire">
+        <item>Arnold, Jean Eddy. Etzer Vilaire: la vision tragique. Port-au-Prince: Haïti-Demain, 1996.</item>
+        <item>Charles, Christophe Philippe. Etzer Vilaire, génie ou pasticheur de talent ? Analyse critique et documents inédits. Port-au-Prince: Éditions Choucoune, 2003.</item>
+        <item>Fignolé, Jean-Claude. Etzer Vilaire, ce méconnu. Port-au-Prince: Imprimerie centrale, 1970.</item>
+        <item>Gaillard, Roger. Etzer Vilaire, témoin de nos malheurs. (comprend le texte de Vilaire, Les dix hommes noirs). Port-au-Prince: Presses nationales, 1972.</item>
+        <item>Guerrier, Wedsly. « Langue et littérature: le cas d’Etzer Vilaire ». The French Review 88.2 (December 2014): 73-87.</item>
+        <item>Laforest, Edmond. L’oeuvre poétique de M. Etzer Vilaire. Jérémie: Centenaire, 1907.</item>
+        <item>Pompilus, Pradel. « L’expérience d’Etzer Vilaire, ses risques et ses mérites ». Conjonction 119 (1971): 73-89.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://dloc.com/UF00081357/00001">Page d’amour et Les dix hommes noirs</item>
+        <item ref="https://web.archive.org/web/20070503141942/http://www.francophonie.philo.ulg.ac.be/HAI.Vilaire">Etzer Vilaire</item>
+      </list>
+    </div>
+  </div>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gerard_Chenet_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Gérard Chenet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/chenet/" xml:id="Gerard_Chenet_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="sur île en île">
+        <item>Transes vaudou d’Haïti pour Amélie chérie, extrait du roman lu par l’auteur, enregistré par Joëlle Vitiello en 2006 (prochainement en ligne).</item>
+      </list>
+      <list subtype="théâtre">
+        <item>El Hadj Omar: chronique de la guerre sainte. Préface de Jean-F. Brierre. Honfleur: Pierre Jean Oswald, 1968; Paris: L’Harmattan, 2009.</item>
+        <item>Les fiancailles tragiques. Jouée en Guinée et au Théâtre Daniel Sorano à Dakar. Pièce inédite.</item>
+        <item>Zombi nèg, pièce inédite.</item>
+        <item>Sécheresse, théâtre poétique. Jouée au Théâtre Noir à Paris sous le titre Image de sécheresse en juin 1985. Ciboure (France): La Cheminante, 2011.</item>
+      </list>
+      <list subtype="roman">
+        <item>Transes vaudou d’Haïti pour Amélie chérie. Paris: L’Harmattan, 2009.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Poèmes du village de Toubab Dyalaw. Préface de Lilyan Kesteloot. Dakar: Nouvelles Éditions Africaines, 1974.</item>
+      </list>
+      <list subtype="sur l’oeuvre de gérard chenet">
+        <item>Bonneau, Richard. « Un Haïtien puise aux sources africaines : El Hadj Omar de Gérard Chenet ». Afrique Littéraire et Artistique 31 (avril 1974): 76-80.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/gerard-chenet-5-questions-pour-ile-en-ile/">Gérard Chenet, 5 Questions pour Île en île</item>
+        <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/">Les « Cinq Glorieuses » de janvier 1946</item>
+        <item ref="http://sobobade.com/">Espace Sobo Badé</item>
+        <item ref="http://fr.allafrica.com/stories/200912071462.html">Afrique: « Trans vaudou d’Haïti pour Amélie Chérie » de Gérard Chenet – « Gérard restitue le monde qu’il porte »</item>
+        <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=238">Sources africaines d’un humanisme française</item>
+        <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=238">Sources africaines d’un humanisme française</item>
+        <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=569">Naissance</item>
+        <item ref="http://www.arts-are-essential.org/saproject06/days4_6.htm">The Senegal-America Project</item>
+      </list>
+    </div>
+  </div>
+</TEI>

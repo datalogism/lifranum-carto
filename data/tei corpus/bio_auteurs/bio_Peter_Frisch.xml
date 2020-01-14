@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Peter_Frisch_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,27 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.peter-frisch.49122.html" xml:id="Peter_Frisch_bio_auteur_spla">
-    <p>	Peter Frisch est co-propriétaire de Maison Henri-Deschamps, la maison d'impression et de publication de livres scolaires la plus importante d'Haïti. Il est également co-fondateur de la Fondation Lucienne Deschamps.	Il est aussi vice-président de l'Association de Généalogie d'Haïti et a publié un ouvrage sur la généalogie de la famille Elie en Haïti.</p>
+    <p>
+      	Peter Frisch est co-propriétaire de 
+      <location ana="Maison">Maison</location>
+       Henri-
+      <location ana="Deschamps">Deschamps</location>
+      , la 
+      <location ana="Maison">Maison</location>
+       d'impression et de publication de livres scolaires la plus importante d'
+      <location ana="Haiti">Haïti</location>
+      . Il est également co-fondateur de la Fondation Lucienne 
+      <location ana="Deschamps">Deschamps</location>
+      .	Il est aussi vice-président de l'Association de Généalogie d'
+      <location ana="Haiti">Haïti</location>
+       et a publié un ouvrage sur la généalogie de la famille Elie en 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
   </text>
 </TEI>

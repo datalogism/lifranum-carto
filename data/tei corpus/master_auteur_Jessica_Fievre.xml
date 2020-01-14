@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Jessica_Fievre_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Jessica_Fievre.xml"/>
+  <xi:include ref="biblio_Jessica_Fievre.xml"/>
+  <xi:include ref="fiche_auteur_Jessica_Fievre.xml"/>
+</master>

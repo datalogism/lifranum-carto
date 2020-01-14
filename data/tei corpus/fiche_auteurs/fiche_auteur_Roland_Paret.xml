@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Roland_Paret_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Roland Paret</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Roland_Paret">
+        <surname source="bnf">Roland</surname>
+        <forename source="bnf">Paret</forename>
+        <idno type="BNF">
+          cb165223744#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb165223744#about"/>
+        </idno>
+        <idno type="VIAF">
+          77542865
+          <g ref="http://viaf.org/viaf/77542865"/>
+        </idno>
+        <birth source="viaf">
+          <date>1943-07-26</date>
+        </birth>
+        <death source="ile_en_ile_auto">
+          <date>2019-01-26 00:00:00+00:00</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/cpf</language>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="viaf">college teachers</profession>
+        <profession source="viaf">authors black</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

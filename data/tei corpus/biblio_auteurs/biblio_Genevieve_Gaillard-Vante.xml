@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Genevieve_Gaillard-Vante_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Geneviève Gaillard-Vanté</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/gaillard-vante/" xml:id="Genevieve_Gaillard-Vante_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="en español">
+        <item>Sombras del tiempo. (Ombres du temps) Trad. Pierangela Vercesi Villagrán et Claudette Gaillard Cabrera (Guatemala). Inédit.</item>
+      </list>
+      <list subtype="romans">
+        <item>Ombres du temps. Port-au-Prince: Deschamps, 2001.</item>
+        <item>Parfum de cèdre. Port-au-Prince: Calliope, 2004.</item>
+      </list>
+      <list subtype="nouvelles et contes">
+        <item>Héros de Bagdad (conte pour adultes, en livret de 30 pages). Port-au-Prince: Imprimeur II, 2003.</item>
+        <item>« A Day of Thunder » (conte en anglais pour enfants, non traduit), inédit.</item>
+        <item>« A Strange Encounter » (conte en anglais pour enfants, non traduit), inédit.</item>
+        <item>« Au manoir de Jacmel » (conte en français pour enfants), inédit.</item>
+        <item>« Esquisses au soleil ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 21-28.</item>
+        <item>Voir aussi les liens, ci-dessous.</item>
+      </list>
+      <list subtype="poésie">
+        <item>« The Greatest City » (poème en anglais). Priceless Treasures. Melisa S. Mitchell, éd. Owings Mills, Maryland: The National Library of Poetry, 1998: 237.</item>
+        <item>« The Face in the Photograph » (poème en anglais) Best Poems of 1998. Howard Ely, éd. Owings Mills, Maryland: The National Library of Poetry, 1998: 335.</item>
+        <item>Rives obscures, à paraître.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1997     Editor’s Choice Award, décerné par The National Library of Poetry (Maryland).</item>
+        <item>2001     Prix Deschamps (spécial 25ème anniversaire du Prix) pour Ombres du temps.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/genevieve-gaillard-vante-heros-de-bagdad/">Héros de Bagdad </item>
+        <item ref="http://ile-en-ile.org/genevieve-gaillard-vante-ombres-du-temps/">Ombres du temps</item>
+        <item ref="http://ile-en-ile.org/genevieve-gaillard-vante-genevieve-gaillard-vante-une-ebauche-riche-en-emotions/">Geneviève Gaillard-Vanté, </item>
+        <item ref="http://ile-en-ile.org/kiskeya-gaillard-vante-duvalsaint#gaillard">Kiskeya, l’île mystérieuse</item>
+        <item ref="http://www.badosa.com/bin/obra.pl?id=n158">La nuit miraculeuse</item>
+      </list>
+    </div>
+  </div>
+</TEI>

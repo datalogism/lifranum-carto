@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Rene_Depestre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de René Depestre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Rene_Depestre">
+        <surname source="bnf">René</surname>
+        <forename source="bnf">Depestre</forename>
+        <idno type="BNF">
+          cb11899641z#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb11899641z#about"/>
+        </idno>
+        <idno type="VIAF">
+          94345085
+          <g ref="http://viaf.org/viaf/94345085"/>
+        </idno>
+        <idno type="VIAF">
+          René_Depestre
+          <g ref="http://fr.dbpedia.org/resource/René_Depestre"/>
+        </idno>
+        <birth source="viaf">
+          <date>1926-08-29</date>
+        </birth>
+        <death source="ile_en_ile_auto">
+          <date>1936-01-01 00:00:00+00:00</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/fr</language>
+        <profession source="viaf">poets</profession>
+        <profession source="viaf">authors black</profession>
+        <profession source="spla">Ecrivain/ne, Poète</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Stephane_Martelly_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,18 +12,77 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/martelly/" xml:id="Stephane_Martelly_bio_auteur_ile_en_ile">
-    <p>Stéphane Martelly naît le 14 septembre 1974 à Port-au-Prince, Haïti. Critique, auteure et peintre, elle s’est adonnée très jeune à diverses activités artistiques.</p>
-    <p>Par une approche profondément transdisciplinaire qui fait se confronter théorie, réflexion critique et création, elle poursuit une démarche réflexive sur la littérature haïtienne contemporaine, sur la création, sur les marginalités littéraires ainsi que sur les limites de l’interprétation.</p>
-    <p>Après des études universitaires en Haïti, à l’Université Quisqueya, où elle obtient une licence en Sciences de l’Éducation (options Lettres et Philosophie), elle poursuit ses études supérieures à l’Université de Montréal (maîtrise en Études françaises 1996-1998 et scolarité doctorale 2003-2005).</p>
-    <p>Elle est notamment l’auteure d’un essai littéraire sur le poète Magloire-Saint-Aude, une lecture critique paradoxale qui s’appuie sur une reconnaissance de l’opacité du texte saintaudien comme un enjeu esthétique, éthique et interprétatif. Elle prépare également une thèse (recherche-création) sur le sujet féminin et la folie dans les œuvres d’auteurs caribéens.</p>
-    <p>Ayant, dit-elle, « posé son baluchon » à Montréal depuis 2002, elle partage son temps entre la recherche en littérature, les charges de cours à l’Université et, toujours, la création.</p>
-    <p>Son activité de recherche inclut la co-organisation du colloque international « Relire l’histoire littéraire et le littéraire haïtiens » (Jacmel, Haïti, 2004) et le groupe de recherche Marges et Mémoires en poésie haïtienne et québécoise qu’elle a fondé en 2005 et dont elle a assuré la direction scientifique (financement du CRILCQ, le Centre de recherche interuniversitaire sur la littérature et la culture québécoise, 2005-2009). Depuis 2009, elle participe comme coordonnatrice et chercheure aux travaux du groupe de recherche d’histoire orale « Histoires de vie » des Montréalais déplacés par la violence – groupe Haïti (Université Concordia). En 2011, elle a conçu et organisé un atelier de création littéraire dans le cadre du projet « Histoires de vie » intitulé : « Je me suis parcouru moi-même : être, dire, se poser dans/devant l’histoire ». Elle présente régulièrement ses travaux dans des colloques et autres publications académiques.</p>
-    <p>En plus de son travail de recherche, Stéphane Martelly a publié de la poésie, La Boîte noire suivi de Départs (2004) et des livres illustrés : Couleur de rue (1999), L’Homme aux cheveux de fougère (2002) et La Maman qui s’absentait (2011). Certaines de ses œuvres ont été adaptées pour la scène. En collaboration avec Christine Jeanney, elle a publié un livre d’art numérique qui présente son travail pictural et s’intitule Folie passée à la chaux vive (Publie.net, 2010).</p>
-    <p>Comme plasticienne, son travail en 2011 inclut une résidence d’artiste au Vermont Studio Center aux États-Unis et une exposition solo (de la série de la Folie) à la Cornell University.</p>
+    <p>
+      <persName ana="Stephane_Martelly">Stéphane Martelly</persName>
+       naît le 14 septembre 1974 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      . Critique, auteure et peintre, elle s’est adonnée très jeune à diverses activités artistiques.
+    </p>
+    <p>
+      Par une approche profondément transdisciplinaire qui fait se confronter théorie, réflexion critique et création, elle poursuit une démarche réflexive sur la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       contemporaine, sur la création, sur les marginalités littéraires ainsi que sur les limites de l’interprétation.
+    </p>
+    <p>
+      Après des études universitaires en 
+      <location ana="Haiti">Haïti</location>
+      , à l’Université Quisqueya, où elle obtient une licence en Sciences de l’Éducation (options Lettres et Philosophie), elle poursuit ses études supérieures à l’Université de 
+      <location ana="Montreal">Montréal</location>
+       (
+      <location ana="Maitrise">Maîtrise</location>
+       en Études françaises 1996-1998 et scolarité doctorale 2003-2005).
+    </p>
+    <p>
+      Elle est notamment l’auteure d’un essai littéraire sur le poète Magloire-
+      <location ana="Saint-Aude">Saint-Aude</location>
+      , une lecture critique paradoxale qui s’appuie sur une reconnaissance de l’opacité du texte saintaudien comme un enjeu esthétique, éthique et interprétatif. Elle prépare également une thèse (recherche-création) sur le sujet féminin et la folie dans les œuvres d’auteurs caribéens.
+    </p>
+    <p>
+      Ayant, dit-elle, « posé son baluchon » à 
+      <location ana="Montreal">Montréal</location>
+       depuis 2002, elle partage son temps entre la recherche en littérature, les charges de cours à l’Université et, toujours, la création.
+    </p>
+    <p>
+      Son activité de recherche inclut la co-organisation du colloque international « Relire l’histoire littéraire et le littéraire 
+      <location ana="Haitiens">Haïtiens</location>
+       » (
+      <location ana="Jacmel">Jacmel</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      , 2004) et le groupe de recherche 
+      <location ana="Marges">Marges</location>
+       et 
+      <location ana="Memoires">Mémoires</location>
+       en poésie 
+      <location ana="Haitienne">Haïtienne</location>
+       et québécoise qu’elle a fondé en 2005 et dont elle a assuré la direction scientifique (financement du CRILCQ, le Centre de recherche interuniversitaire sur la littérature et la culture québécoise, 2005-2009). Depuis 2009, elle participe comme coordonnatrice et chercheure aux travaux du groupe de recherche d’histoire orale « Histoires de vie » des 
+      <location ana="Montrealais">Montréalais</location>
+       déplacés par la violence – groupe 
+      <location ana="Haiti">Haïti</location>
+       (Université Concordia). En 2011, elle a conçu et organisé un atelier de 
+      <persName ana="Creation_Litteraire">Création Littéraire</persName>
+       dans le cadre du projet « Histoires de vie » intitulé : « Je me suis parcouru moi-même : être, dire, se poser dans/devant l’histoire ». Elle présente régulièrement ses travaux dans des colloques et autres publications académiques.
+    </p>
+    <p>
+      En plus de son travail de recherche, 
+      <persName ana="Stephane_Martelly">Stéphane Martelly</persName>
+       a publié de la poésie, La Boîte noire suivi de Départs (2004) et des livres illustrés : Couleur de rue (1999), L’Homme aux cheveux de fougère (2002) et La Maman qui s’absentait (2011). Certaines de ses œuvres ont été adaptées pour la scène. En collaboration avec 
+      <persName ana="Christine_Jeanney">Christine Jeanney</persName>
+      , elle a publié un livre d’art numérique qui présente son travail pictural et s’intitule Folie passée à la chaux vive (Publie.net, 2010).
+    </p>
+    <p>
+      Comme plasticienne, son travail en 2011 inclut une résidence d’artiste au 
+      <location ana="Vermont">Vermont</location>
+       Studio Center aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       et une exposition solo (de la série de la Folie) à la Cornell University.
+    </p>
   </text>
 </TEI>

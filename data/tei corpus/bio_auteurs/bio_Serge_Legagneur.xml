@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Serge_Legagneur_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,19 +12,160 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/legagneur/" xml:id="Serge_Legagneur_bio_auteur_ile_en_ile">
-    <p>Serge Legagneur naît le 10 janvier 1937 à Jérémie (Haïti). Il passe son enfance dans cette ville côtière de Jérémie, dite « la Cité des Poètes » qui aura marqué sa poésie. Jean-Richard Laforest affirme que « l’un des points de départ de la vie du poète se situe ainsi à la fin des années 1930 sous les signes du Tropique antillais et du Capricorne zodiacal, dans cette petite ville, dont les rues sont parcourues de personnages à l’âme bigarrée, cousins germains de ceux de Macondo de Gabriel García Márquez ». Serge Legagneur publie ses premiers poèmes à la fin des années 1950.</p>
-    <p>Après ses études secondaires, il participe activement à la vie culturelle de Port-au-Prince. Avec ses amis écrivains, il fonde le groupe Haïti Littéraire. Serge Legagneur dirige en avant-gardiste la revue Semences (1962) qui s’arrête après quatre numéros. Semences publie en priorité les écrits des poètes d’Haïti Littéraire : Davertige, Roland Morisseau, Anthony Phelps, René Philoctète et Legagneur.</p>
-    <p>Devant la menace et l’horreur de la dictature de Duvalier, Serge Legagneur quitte Haïti et s’installe à Montréal en 1965. Il y retrouvera Émile Ollivier et Anthony Phelps, arrivés l’année précédente. Les nouveaux exilés Serge Legagneur et Roland Morisseau rejoignent Anthony Phelps dans un appartement qu’ils partagent au Carré Saint-Louis, à l’époque quartier marginalisé du centre-ville de Montréal, où s’établit la bohème littéraire. Avec ses deux complices d’Haïti Littéraire, et le poète Gérard V. Étienne, il anime les Lundis du Perchoir d’Haïti, un resto-bar, où, pour la première fois, vont se rencontrer des poètes d’Haïti et du Québec, entre autres : Paul Chamberland, Raoul Duguay, Claude Péloquin, Nicole Brossard et, bien sûr Gaston Miron, qui donne à ce groupe informel le nom de : Batèche batouque.</p>
-    <p>Serge Legagneur fait des études universitaires en littérature et un baccalauréat en psychopédagogie à l’Université du Québec à Montréal. Il a enseigné le français dans des établissements du secondaire.</p>
-    <p>Legagneur crée des liens avec les écrivains et peintres québécois. Il fréquentera aussi les bars : Casa Pedro, Le Bouvillon, hauts lieux de discussions de la faune artistique et intellectuelle montréalaise, dont le célèbre Patrick Straham, Le bison ravi.</p>
-    <p>Legagneur sera le premier du groupe Haiti Littéraire a être publié au Québec. Son premier recueil Textes interdits, sort en 1966. Le recueil est chaleureusement accueilli par les critiques et les poètes québécois. Selon Paul Bélanger, « l’œuvre de Serge Legagneur est tout à significative de l’effet des poètes haïtiens sur la poésie québécoise, voire même sur la poésie de langue française ». Dans Le Soleil (de Montréal) du 6 juillet 1967, Suzanne Paradis écrit : « Avec Serge Legagneur, la poésie canadienne-française a gravi plusieurs échelons à la fois sur la voie verticale de l’intelligence et du langage poétiques… Jamais, je crois, l’amour ni la haine n’auront atteint, avec une telle intensité verbale, à une telle réalité, à une telle mysticisme de la chair et de l’esprit enfin liés. Nous n’avons guère été gâtés au Canada français par la poésie de sentiment. Et je parle ici du sentiment dans son sens le plus fort. … Reconnaissons-le humblement, les Textes interdits nous précèdent, et de fort loin, dans les méandres de l’existence et du langage ».</p>
-    <p>D’autres recueils suivront, certains illustrés par des artistes québécois. La réception critique a toujours vu en Legagneur un écrivain exigeant envers lui-même et envers le langage. En 1997, les Éditions du Noroît publient Poèmes choisis, 1961-1997. Cet ouvrage amène un précieux éclairage sur la contribution de Serge Legagneur à la poésie haïtiano-québécoise contemporaine.</p>
-    <p>Fin des années 1990, Serge Legagneur déclare avec conviction qu’il n’est plus poète et qu’il a changé de métier. Il a déjà dit et écrit tout ce qu’il devait dire et écrire. En réalité, il n’a jamais cessé d’écrire. Dans son appartement transformé en labyrinthe, « Petit Poucet de fièvre et de chandelle »,  il a continué à écrire et à semer des poèmes comme des petits cailloux…</p>
-    <p>Le poète Serge Legagneur meurt des suites d’un cancer à Montréal le 30 juin 2017 à l’âge de 80 ans. Le poète et écrivain Pierre Nepveu nous rappelle que dans l’anthologie La poésie québécoise des origines à nos jours (dirigée par Nepveu et Laurent Mailhot, 1981, 1986, 2007), les poèmes choisis de Serge Legagneur figurent entre Speak White de Michèle Lalonde et les poèmes d’Yves Préfontaine. La notice présente les Textes interdits de Legagneur, « dont les amples coulées lyriques sont à la fois une dénonciation de l’oppression et une profession de foi en l’homme ». Pour Nepveu, le silence définitif de Serge Legagneur « nous le fera relire, car le poète reste vivant ».</p>
+    <p>
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       naît le 10 janvier 1937 à 
+      <location ana="Jeremie">Jérémie</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Il 
+      <location ana="Passe">Passe</location>
+       son enfance dans cette ville côtière de 
+      <location ana="Jeremie">Jérémie</location>
+      , dite « la Cité des Poètes » qui aura marqué sa poésie. Jean-
+      <persName ana="Richard_Laforest">Richard Laforest</persName>
+       affirme que « l’un des points de départ de la vie du poète se situe ainsi à la fin des années 1930 sous les signes du Tropique antillais et du Capricorne zodiacal, dans cette petite ville, dont les rues sont parcourues de personnages à l’âme bigarrée, cousins germains de ceux de 
+      <location ana="Macondo">Macondo</location>
+       de 
+      <persName ana="Gabriel_Garcia_Marquez">Gabriel García Márquez</persName>
+       ». 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       publie ses premiers poèmes à la fin des années 1950.
+    </p>
+    <p>
+      Après ses études secondaires, il participe activement à la vie culturelle de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Avec ses amis écrivains, il fonde le groupe 
+      <location ana="Haiti">Haïti</location>
+       Littéraire. 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       dirige en avant-gardiste la revue Semences (1962) qui s’arrête après quatre numéros. Semences publie en priorité les écrits des poètes d’
+      <location ana="Haiti">Haïti</location>
+       Littéraire : Davertige, 
+      <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+      , 
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+      , 
+      <persName ana="Rene_Philoctete">
+        René 
+        <location ana="Philoctete">Philoctète</location>
+      </persName>
+       et Legagneur.
+    </p>
+    <p>
+      Devant la menace et l’horreur de la dictature de Duvalier, 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       quitte 
+      <location ana="Haiti">Haïti</location>
+       et s’installe à 
+      <location ana="Montreal">Montréal</location>
+       en 1965. Il y retrouvera 
+      <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+       et 
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+      , arrivés l’année précédente. Les nouveaux exilés 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       et 
+      <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+       rejoignent 
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+       dans un appartement qu’ils partagent au Carré Saint-Louis, à l’époque quartier marginalisé du centre-ville de 
+      <location ana="Montreal">Montréal</location>
+      , où s’établit la bohème littéraire. Avec ses deux complices d’
+      <location ana="Haiti">Haïti</location>
+       Littéraire, et le poète 
+      <persName ana="Gerard_V._Etienne">Gérard V. Étienne</persName>
+      , il anime les Lundis du Perchoir d’
+      <location ana="Haiti">Haïti</location>
+      , un resto-bar, où, pour la première fois, vont se rencontrer des poètes d’
+      <location ana="Haiti">Haïti</location>
+       et du 
+      <location ana="Quebec">Québec</location>
+      , entre autres : 
+      <persName ana="Paul_Chamberland">Paul Chamberland</persName>
+      , 
+      <persName ana="Raoul_Duguay">Raoul Duguay</persName>
+      , 
+      <persName ana="Claude_Peloquin">Claude Péloquin</persName>
+      , 
+      <persName ana="Nicole_Brossard">Nicole Brossard</persName>
+       et, bien sûr 
+      <persName ana="Gaston_Miron">Gaston Miron</persName>
+      , qui donne à ce groupe informel le nom de : Batèche batouque.
+    </p>
+    <p>
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       fait des études universitaires en littérature et un baccalauréat en psychopédagogie à l’Université du 
+      <location ana="Quebec">Québec</location>
+       à 
+      <location ana="Montreal">Montréal</location>
+      . Il a enseigné le français dans des établissements du secondaire.
+    </p>
+    <p>
+      Legagneur crée des liens avec les écrivains et peintres québécois. Il fréquentera aussi les bars : 
+      <persName ana="Casa_Pedro">Casa Pedro</persName>
+      , 
+      <persName ana="Le_Bouvillon">Le Bouvillon</persName>
+      , hauts lieux de discussions de la faune artistique et intellectuelle montréalaise, dont le célèbre 
+      <persName ana="Patrick_Straham">Patrick Straham</persName>
+      , Le bison ravi.
+    </p>
+    <p>
+      Legagneur sera le premier du groupe 
+      <location ana="Haiti">Haiti</location>
+       Littéraire a être publié au 
+      <location ana="Quebec">Québec</location>
+      . Son premier recueil Textes interdits, sort en 1966. Le recueil est chaleureusement accueilli par les critiques et les poètes québécois. Selon 
+      <persName ana="Paul_Belanger">Paul Bélanger</persName>
+      , « l’œuvre de 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       est tout à significative de l’effet des poètes 
+      <location ana="Haitiens">Haïtiens</location>
+       sur la poésie québécoise, voire même sur la poésie de langue française ». Dans Le Soleil (de 
+      <location ana="Montreal">Montréal</location>
+      ) du 6 juillet 1967, 
+      <persName ana="Suzanne_Paradis">Suzanne Paradis</persName>
+       écrit : « Avec 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+      , la poésie canadienne-française a gravi plusieurs échelons à la fois sur la voie verticale de l’intelligence et du langage poétiques… Jamais, je crois, l’amour ni la haine n’auront atteint, avec une telle intensité verbale, à une telle réalité, à une telle mysticisme de la chair et de l’esprit enfin liés. Nous n’avons guère été gâtés au 
+      <location ana="Canada">Canada</location>
+       français par la poésie de sentiment. Et je parle ici du sentiment dans son sens le plus fort. … Reconnaissons-le humblement, les Textes interdits nous précèdent, et de fort loin, dans les méandres de l’existence et du langage ».
+    </p>
+    <p>
+      D’autres recueils suivront, certains illustrés par des artistes québécois. La réception critique a toujours vu en Legagneur un écrivain exigeant envers lui-même et envers le langage. En 1997, les Éditions du Noroît publient Poèmes choisis, 1961-1997. Cet ouvrage amène un précieux éclairage sur la contribution de 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       à la poésie haïtiano-québécoise contemporaine.
+    </p>
+    <p>
+      Fin des années 1990, 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       déclare avec conviction qu’il n’est plus poète et qu’il a changé de métier. Il a déjà dit et écrit tout ce qu’il devait dire et écrire. En réalité, il n’a jamais cessé d’écrire. Dans son appartement transformé en labyrinthe, « Petit Poucet de fièvre et de chandelle »,  il a continué à écrire et à semer des poèmes comme des petits cailloux…
+    </p>
+    <p>
+      Le poète 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       meurt des suites d’un cancer à 
+      <location ana="Montreal">Montréal</location>
+       le 30 juin 2017 à l’âge de 80 ans. Le poète et écrivain 
+      <persName ana="Pierre_Nepveu">Pierre Nepveu</persName>
+       nous rappelle que dans l’anthologie La poésie québécoise des origines à nos jours (dirigée par Nepveu et 
+      <persName ana="Laurent_Mailhot">Laurent Mailhot</persName>
+      , 1981, 1986, 2007), les poèmes choisis de 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       figurent entre 
+      <persName ana="Speak_White">Speak White</persName>
+       de 
+      <persName ana="Michele_Lalonde">Michèle Lalonde</persName>
+       et les poèmes d’
+      <persName ana="Yves_Prefontaine">Yves Préfontaine</persName>
+      . La notice présente les Textes interdits de Legagneur, « dont les amples coulées lyriques sont à la fois une dénonciation de l’oppression et une profession de foi en l’homme ». Pour Nepveu, le silence définitif de 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       « nous le fera relire, car le poète reste vivant ».
+    </p>
   </text>
 </TEI>

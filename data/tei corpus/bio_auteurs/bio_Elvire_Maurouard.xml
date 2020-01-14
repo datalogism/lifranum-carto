@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Elvire_Maurouard_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,18 +12,78 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/maurouard/" xml:id="Elvire_Maurouard_bio_auteur_ile_en_ile">
-    <p>Elvire Maurouard est née Marie-Elvie Jean-Jacques le 5 janvier 1971 à Jérémie (Haïti).</p>
-    <p>Docteur ès Lettres de l’Université de Paris-8 en 2003, Elvire Maurouard obtient en 2007 son Master en Études diplomatiques au CEDS (Centre d’Études Diplomatiques et Stratégiques, établissement agréé par l’ONU). Elle est Sociétaire à la Société des Poètes français.</p>
+    <p>
+      <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+       est née Marie-
+      <persName ana="Elvie_Jean">Elvie Jean</persName>
+      -Jacques le 5 janvier 1971 à 
+      <location ana="Jeremie">Jérémie</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ).
+    </p>
+    <p>
+      Docteur ès Lettres de l’Université de 
+      <location ana="Paris">Paris</location>
+      -8 en 2003, 
+      <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+       obtient en 2007 son Master en Études diplomatiques au CEDS (Centre d’Études Diplomatiques et Stratégiques, établissement agréé par l’ONU). Elle est Sociétaire à la Société des Poètes français.
+    </p>
     <p>Parmi ses études critiques figurent Les beautés noires de Baudelaire.</p>
-    <p>Selon Michel Lequenne, « Ambiguïté de sens du mot « noir » en tant que beauté. Celle des nuits et celle de la peau ! Il aura fallu plus d’un siècle et demi pour que leur unité nous apparaisse en Baudelaire. Il y aura fallu la sensibilité et la finesse d’analyse d’Elvire Maurouard, elle-même beauté noire, pour nous en découvrir et montrer la fusion dans l’œuvre et dans la vie amoureuse du poète : passion déchirée-déchirante pour de belles Îliennes, vécue dans les contradictions de son être social, résolue et sublimée dans sa géniale et bouleversante poésie nocturne. Au-delà, cette synthèse vivante oriente Baudelaire dans sa saisie du nouvel art, celui qui ouvre le romantisme à la découverte de l’Orient et de l’Afrique où le noir s’épanouit en couleurs luxuriantes et se fait sur-réalisme. La vue extralucide d’une jeune sœur de Jeanne Duval a su mettre à nu le cœur pantelant, faire vibrer le cristal des vers et nous rendre l’ivresse d’un regard. Grâce à elle, nous relirons plus profondément le poète ».</p>
-    <p>Dans Haïti, le pays hanté, Elvire Maurouard brosse une perception hallucinée et fascinante de son île natale à travers une analyse des écrits haïtiens. Elle s’attache à mettre en évidence le tragique qui, selon elle, imprègne dans ses profondeurs la littérature haïtienne. Les ouvrages étudiés dans cet essai racontent l’aventure des chefs haïtiens et de ceux qui les subissent. L’auteure entreprend à sa manière une tâche de réhabilitation de la culture haïtienne.</p>
-    <p>Ses recueils ont été traduits en huit langues dont le finois et l’italien. Son dernier recueil de poèmes s’intitule Coquillages africains en terre d’Europe. La première nouvelle d’Elvire Maurouard, « Le Jardin de Baudelaire », a reçu en Sicile le premier prix de l’Académie Internationale Il convivio en 2006.</p>
-    <p>Son travail se situe à l’interface de la création poétique et littéraire, et une pensée etho-psychologique. « Très tôt, dit-elle, je me suis investie dans l’étude des cultures composites issues de contacts culturels formés entre l’Occident et plusieurs sociétés qui lui sont familières, celle de la Caraïbe, de l’Amérique et de l’Afrique. Il y a là un effort qui pourrait aboutir presque à une nouvelle discipline partant de l’étude de la critique littéraire et aboutissant à une méta-analyse visant à l’interprétation ethnologique ».</p>
-    <p>Elvire Maurouard s’engage à la fois dans la création proprement littéraire et dans l’analyse de la création des autres auteurs avec, dit-elle, « toute la prudence que cette démarche inspire ».</p>
+    <p>
+      Selon 
+      <persName ana="Michel_Lequenne">Michel Lequenne</persName>
+      , « Ambiguïté de sens du mot « noir » en tant que beauté. Celle des nuits et celle de la peau ! Il aura fallu plus d’un siècle et demi pour que leur unité nous apparaisse en Baudelaire. Il y aura fallu la sensibilité et la finesse d’analyse d’
+      <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+      , elle-même beauté noire, pour nous en découvrir et montrer la fusion dans l’œuvre et dans la vie amoureuse du poète : passion déchirée-déchirante pour de belles Îliennes, vécue dans les contradictions de son être social, résolue et sublimée dans sa géniale et bouleversante poésie nocturne. Au-delà, cette synthèse vivante oriente Baudelaire dans sa saisie du nouvel art, celui qui ouvre le romantisme à la découverte de l’Orient et de l’
+      <location ana="Afrique">Afrique</location>
+       où le noir s’épanouit en couleurs luxuriantes et se fait sur-réalisme. La vue extralucide d’une jeune sœur de 
+      <persName ana="Jeanne_Duval">Jeanne Duval</persName>
+       a su mettre à nu le cœur pantelant, faire vibrer le cristal des vers et nous rendre l’ivresse d’un regard. Grâce à elle, nous relirons plus profondément le poète ».
+    </p>
+    <p>
+      Dans 
+      <location ana="Haiti">Haïti</location>
+      , le pays hanté, 
+      <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+       brosse une perception hallucinée et fascinante de son île natale à travers une analyse des écrits 
+      <location ana="Haitiens">Haïtiens</location>
+      . Elle s’attache à mettre en évidence le tragique qui, selon elle, imprègne dans ses profondeurs la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+      . Les ouvrages étudiés dans cet essai racontent l’aventure des chefs 
+      <location ana="Haitiens">Haïtiens</location>
+       et de ceux qui les subissent. L’auteure entreprend à sa manière une tâche de réhabilitation de la culture 
+      <location ana="Haitienne">Haïtienne</location>
+      .
+    </p>
+    <p>
+      Ses recueils ont été traduits en huit langues dont le finois et l’italien. Son dernier recueil de poèmes s’intitule Coquillages africains en 
+      <location ana="Terre">Terre</location>
+       d’Europe. La première nouvelle d’
+      <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+      , « Le Jardin de Baudelaire », a reçu en 
+      <location ana="Sicile">Sicile</location>
+       le premier prix de l’Académie Internationale Il convivio en 2006.
+    </p>
+    <p>
+      Son travail se situe à l’interface de la création poétique et littéraire, et une pensée etho-psychologique. « Très tôt, dit-elle, je me suis investie dans l’étude des cultures composites issues de contacts culturels formés entre l’
+      <location ana="Occident">Occident</location>
+       et plusieurs sociétés qui lui sont familières, celle de la 
+      <location ana="Caraibe">Caraïbe</location>
+      , de l’
+      <location ana="Amerique">Amérique</location>
+       et de l’
+      <location ana="Afrique">Afrique</location>
+      . Il y a là un effort qui pourrait aboutir presque à une nouvelle discipline partant de l’étude de la critique littéraire et aboutissant à une méta-analyse visant à l’interprétation ethnologique ».
+    </p>
+    <p>
+      <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+       s’engage à la fois dans la création proprement littéraire et dans l’analyse de la création des autres auteurs avec, dit-elle, « toute la prudence que cette démarche inspire ».
+    </p>
   </text>
 </TEI>

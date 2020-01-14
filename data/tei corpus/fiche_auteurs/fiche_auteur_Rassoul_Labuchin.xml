@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Rassoul_Labuchin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Rassoul Labuchin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Rassoul_Labuchin">
+        <surname source="bnf">Rassoul</surname>
+        <forename source="bnf">Labuchin</forename>
+        <idno type="BNF">
+          cb127824257#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb127824257#about"/>
+        </idno>
+        <idno type="VIAF">
+          39503931
+          <g ref="http://viaf.org/viaf/39503931"/>
+        </idno>
+        <birth source="viaf">
+          <date>1939</date>
+        </birth>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/cpf</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="spla">Réalisateur/trice, Metteur/se en scène, Acteur/trice, Dramaturge, Poète, Professeur, Scénariste, Militant/e, Traducteur/trice</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

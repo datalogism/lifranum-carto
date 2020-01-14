@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean-Euphele_Milce_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,50 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/milce/" xml:id="Jean-Euphele_Milce_bio_auteur_ile_en_ile">
-    <p>Jean-Euphèle Milcé naît à Passe-Reine, Gonaïves le 14 janvier 1969. Il fait des études de linguistique appliquée et de gestion de l’information à l’Université d’État d’Haïti et à l’Université de Fribourg en Suisse.</p>
-    <p>Il dirige la Bibliothèque haïtienne des Pères du Saint-Esprit de 1996 à 2000 et la Bibliothèque interculturelle de Fribourg, en Suisse, de 2004 à 2006. Il collabore également au Département de manuscrit et de la Bibliothèque centrale de l’Université de Lausanne.</p>
-    <p>Son roman, l’Alphabet des nuits, paru en 2004, obtient le Prix Georges Nicole en Suisse et est finaliste du Prix Prince Pierre de Monaco entre autres. L’univers de Jean-Euphèle Milcé est construit autour des drames de l’exil et des incertitudes de la traversée.</p>
-    <p>Jean-Euphèle Milcé vit en Haïti et travaille sur des projets de mise en place d’infrastructures culturelles publiques. Il est président du PEN Haïti et, depuis 2016, il est directeur de la publication du quotidien Le National.</p>
+    <p>
+      Jean-
+      <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+       naît à 
+      <location ana="Passe">Passe</location>
+      -Reine, 
+      <location ana="Gonaives">Gonaïves</location>
+       le 14 janvier 1969. Il fait des études de linguistique appliquée et de gestion de l’information à l’Université d’État d’
+      <location ana="Haiti">Haïti</location>
+       et à l’Université de Fribourg en 
+      <location ana="Suisse">Suisse</location>
+      .
+    </p>
+    <p>
+      Il dirige la Bibliothèque 
+      <location ana="Haitienne">Haïtienne</location>
+       des Pères du Saint-Esprit de 1996 à 2000 et la Bibliothèque interculturelle de Fribourg, en 
+      <location ana="Suisse">Suisse</location>
+      , de 2004 à 2006. Il collabore également au Département de manuscrit et de la Bibliothèque centrale de l’Université de Lausanne.
+    </p>
+    <p>
+      Son roman, l’Alphabet des nuits, paru en 2004, obtient le Prix Georges Nicole en 
+      <location ana="Suisse">Suisse</location>
+       et est finaliste du Prix 
+      <location ana="Prince">Prince</location>
+       Pierre de Monaco entre autres. L’univers de Jean-
+      <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+       est construit autour des drames de l’exil et des incertitudes de la traversée.
+    </p>
+    <p>
+      Jean-
+      <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+       vit en 
+      <location ana="Haiti">Haïti</location>
+       et travaille sur des projets de mise en place d’infrastructures culturelles publiques. Il est président du 
+      <location ana="Pen_Haiti">PEN Haïti</location>
+       et, depuis 2016, il est 
+      <location ana="Directeur">Directeur</location>
+       de la publication du quotidien Le National.
+    </p>
   </text>
 </TEI>

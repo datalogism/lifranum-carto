@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Carl_Brouard_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Carl Brouard</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/brouard/" xml:id="Carl_Brouard_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« Nostalgia » and « Art in the Service of the People » (excerpt). Trans. J. Michael Dash. « The Poetic Renaissance: Five Poems Philippe Thoby-Marcelin, Carl Brouard, Leon Laleau, Emile Roumer ». (Trans. J. Michael Dash.) A Haiti Anthology: Libète. Charles Arthur and J. Michael Dash, eds. Princeton (New Jersey): Markus Wiener, 1999: 298, 301-302.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Écrit sur du Ruban rose. Port-au-Prince: à compte d’auteur, 1927.</item>
+        <item>Pages retrouvées; œuvres en prose et en vers. Groupées par les soins du Comité soixantième anniversaire de Carl Brouard. Port-au-Prince: Éditions Panorama, 1963. En vers et en prose. Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+        <item>Anthologie secrète. Montréal: Mémoire d’encrier, 2004.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Les aventures de Malice et de Bouqui. Illustrations de Robert Bigaud (Djoby). Port-au-Prince: Editions Christophe, 2000, 30p.</item>
+      </list>
+      <list subtype="sur l’oeuvre de carl brouard">
+        <item>Berrou, F. Raphaël et Pradel Pompilius. Deux poètes indigénistes: Carl Brouard et Émile Roumer.Extraits tirés de l’Histoire de la littérature haïtienne (de Berrou et Pompilus), Tome 3. Port-au-Prince: Editions Caraïbes, 1974.</item>
+        <item>Gaillard, Roger. La destinée de Carl Brouard: essai accompagné de documents photographiques, d’un choix de textes et d’une suite chronologique. Deux illustrations, de Rose-Marie Desruisseaux et de Patrick Vilaire. Port-au-Prince: Deschamps, 1966.</item>
+        <item>Rochette, Bruno. « Famille, on vous hait ». Le Monde diplomatique (août 2002): 26.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/carl-brouard-presentation/">Présentation</item>
+        <item ref="http://ile-en-ile.org/carl-brouard-six-poemes/">Six poèmes</item>
+        <item ref="http://radiohaitilives.com/fr/enregistrements/celebration-de-carl-brouard-rassemblement-decrivains-et-poetes-15-novembre-1962/">Célébration de Carl Brouard : rassemblement d’écrivains et poètes, 15 novembre 1962</item>
+        <item ref="http://radiohaitilives.com/fr/enregistrements/hommage-de-roger-gaillard-a-carl-brouard-4-novembre-1965/">Hommage de Roger Gaillard à Carl Brouard</item>
+        <item ref="http://www.lib.ksu.edu/depts/spec/findaids/pc1993-05.html">Edna Worthley Underwood Papers</item>
+      </list>
+    </div>
+  </div>
+</TEI>

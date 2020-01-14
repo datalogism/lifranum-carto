@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jules_Emmanuel_Bellerice_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,17 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jules-emmanuel-bellerice.40586.html" xml:id="Jules_Emmanuel_Bellerice_bio_auteur_spla">
-    <p>Jules Bellerice est né à Port-au-Prince en 1978. Il a étudié la philosophie à l'Ecole Normale Supérieure.	Il est l'auteur du Guide la literature haïtienne et de A la rencontre de l'agronome Mémé.	Depuis 2000 il dirige la bibliothèque de référence scolaire FOCUSA.</p>
+    <p>
+      Jules Bellerice est né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       en 1978. Il a étudié la philosophie à l'Ecole Normale Supérieure.	Il est l'auteur du Guide la literature 
+      <location ana="Haitienne">Haïtienne</location>
+       et de A la rencontre de l'agronome Mémé.	Depuis 2000 il dirige la bibliothèque de référence scolaire FOCUSA.
+    </p>
   </text>
 </TEI>

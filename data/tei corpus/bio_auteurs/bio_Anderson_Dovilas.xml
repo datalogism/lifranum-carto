@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Anderson_Dovilas_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,20 +12,55 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="enise Bernhardt" ref="http://ile-en-ile.org/dovilas/" xml:id="Anderson_Dovilas_bio_auteur_ile_en_ile">
-    <p>Anderson Dovilas est né à Port-au-Prince le 2 juillet 1985, un an avant la chute de la dictature des Duvalier qui persécutait sa famille. Quand il est élève au Lycée Antênor Firmin, il rencontre la poésie comme punition à ses turbulences pendant les heures de cours. Depuis lors, il trouve son plaisir dans le devenir des mots. Il est membre de l’Atelier Création Marcel Gilbert de la Bibliothèque Justin Lhérisson de Carrefour où la poésie dépasse les barrières institutionnelles. Anderson Dovilas est sans doute l’un des plus grands poètes de sa génération avec des métaphores infinies.</p>
-    <p>Anderson Dovilas illustre avec bonheur le renouveau de la littérature haïtienne. Il possède la force et la tendresse de son âge. Le courage et la volonté sont ses armes, auxquelles s’ajoute le charme pimenté d’un goût de vivre qui lui attire toutes les sympathies.</p>
+  <text hand="Denise Bernhardt" ref="http://ile-en-ile.org/dovilas/" xml:id="Anderson_Dovilas_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+       est né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 2 juillet 1985, un an avant la chute de la dictature des Duvalier qui persécutait sa famille. Quand il est élève au Lycée Antênor 
+      <location ana="Firmin">Firmin</location>
+      , il rencontre la poésie comme punition à ses turbulences pendant les heures de cours. Depuis lors, il trouve son plaisir dans le devenir des mots. Il est membre de l’Atelier Création 
+      <persName ana="Marcel_Gilbert">Marcel Gilbert</persName>
+       de la 
+      <persName ana="Bibliotheque_Justin">Bibliothèque Justin</persName>
+       Lhérisson de 
+      <location ana="Carrefour">Carrefour</location>
+       où la poésie dé
+      <location ana="Passe">Passe</location>
+       les barrières institutionnelles. 
+      <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+       est sans doute l’un des plus grands poètes de sa génération avec des métaphores infinies.
+    </p>
+    <p>
+      <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+       illustre avec 
+      <location ana="Bonheur">Bonheur</location>
+       le renouveau de la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+      . Il possède la force et la tendresse de son âge. Le courage et la volonté sont ses armes, auxquelles s’ajoute le charme pimenté d’un goût de vivre qui lui attire toutes les sympathies.
+    </p>
     <p>C’est un poète qui distille ses émotions au fil des métaphores, mais il est aussi homme d’action, engagé politiquement. Intégré dans le milieu associatif, il est celui qui va de l’avant et ne renonce jamais, surmontant ses nostalgies et ses déchirements.</p>
-    <p>Anderson Dovilas appartient à cette génération qui relève les défis majeurs d’un siècle où la nature devient démente non moins que les hommes. En réponse au désarroi où se trouve plongé son pays, il crée en 2010 Sosyete Powèt Kreyolofòn (la Société des Poètes Créolophones) qui est à elle seule toute une philosophie. Elle a pour but de donner au public haïtien, dès le plus jeune âge, l’amour de l’écriture et de la lecture, à partir de la langue maternelle, pérennisant l’histoire et les croyances qui cimentent un peuple, et faisant rayonner le créole dans le cadre de diverses activités culturelles.</p>
-    <p>Les mots d’Anderson Dovilas sont sculptés dans le marbre de l’idéal, et modelés par les mouvances du cœur :</p>
-    <p>Il fait le temps de reprendre
+    <p>
+      <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+       appartient à cette génération qui relève les défis majeurs d’un siècle où la nature devient démente non moins que les hommes. En réponse au désarroi où se trouve plongé son pays, il crée en 2010 Sosyete Powèt Kreyolofòn (la Société des Poètes Créolophones) qui est à elle seule toute une philosophie. Elle a pour but de donner au public haïtien, dès le plus jeune âge, l’amour de l’écriture et de la lecture, à partir de la langue maternelle, pérennisant l’histoire et les croyances qui cimentent un peuple, et faisant rayonner le créole dans le cadre de diverses activités culturelles.
+    </p>
+    <p>
+      Les mots d’
+      <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+       sont sculptés dans le marbre de l’idéal, et modelés par les mouvances du cœur :
+    </p>
+    <p>
+      Il fait le temps de reprendre
 Ton nom sous mes draps
 Parce qu’il fait un temps de brise à modeler
-Sur les toits d’une chanson en terre cuite</p>
+Sur les toits d’une chanson en 
+      <location ana="Terre">Terre</location>
+       cuite
+    </p>
     <p>(extrait de Mon Pays, rien de luxe)</p>
   </text>
 </TEI>

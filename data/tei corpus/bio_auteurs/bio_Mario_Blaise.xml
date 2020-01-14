@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Mario_Blaise_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,21 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.mario-blaise.3618.html" xml:id="Mario_Blaise_bio_auteur_spla">
-    <p>Né à Port-au-Prince (Haïti) en 1943, Mario Blaise vit depuis l'âge de vingt et un ans, en France où il est venu continuer ses études.Jeune retraité, deux fois grand-père, il part à la rencontre de lui-même et nous livre les souvenirs de sa petite enfance à Petit-Goâve.</p>
+    <p>
+      Né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ) en 1943, Mario Blaise vit depuis l'âge de vingt et un ans, en 
+      <location ana="France">France</location>
+       où il est venu continuer ses études.Jeune retraité, deux fois grand-père, il part à la rencontre de lui-même et nous livre les souvenirs de sa petite enfance à Petit-
+      <location ana="Goave">Goâve</location>
+      .
+    </p>
   </text>
 </TEI>

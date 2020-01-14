@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Roland_Morisseau_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,12 +12,38 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="osaphat-Robert Large" ref="http://ile-en-ile.org/morisseau_roland/" xml:id="Roland_Morisseau_bio_auteur_ile_en_ile">
-    <p>Roland Morisseau naît à Port-au-Prince le 22 septembre 1933. Il fait ses études primaires à l’Institution Jean-Marie Guilloux et ses secondaires au lycée Louverture. Juste après le baccalauréat, il est employé au service des ventes chez Aggerholm, qui est, à l’époque, un commerçant haïtien de grande importance. Cependant, Morisseau suit progressivement la voie où l’a introduit sa passion pour la poésie, et, chemin faisant, il rencontre les jeunes poètes en passe de changer les choses dans le domaine des lettres haïtiennes. Ils se nomment Anthony Phelps, René Philoctète, Davertige, Serge Legagneur et Auguste Thénor. Ce sont les membres fondateurs du Groupe « Samba » qui devient par la suite « Haïti Littéraire ». À ses débuts, Morisseau suit les tendances de deux des poètes du groupe (Phelps et Philoctète) qui, à l’époque, penchaient pour une poésie « engagée ». Des vers du texte « Rue américaine » et du poème « Du sang de l’Afrique » témoignent pleinement de cette tendance.</p>
+  <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/morisseau_roland/" xml:id="Roland_Morisseau_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+       naît à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 22 septembre 1933. Il fait ses études primaires à l’Institution Jean-
+      <persName ana="Marie_Guilloux">Marie Guilloux</persName>
+       et ses secondaires au lycée Louverture. Juste après le baccalauréat, il est employé au service des ventes chez Aggerholm, qui est, à l’époque, un commerçant haïtien de grande importance. Cependant, Morisseau suit progressivement la voie où l’a introduit sa passion pour la poésie, et, chemin faisant, il rencontre les jeunes poètes en 
+      <location ana="Passe">Passe</location>
+       de changer les choses dans le domaine des lettres haïtiennes. Ils se nomment 
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+      , 
+      <persName ana="Rene_Philoctete">
+        René 
+        <location ana="Philoctete">Philoctète</location>
+      </persName>
+      , Davertige, 
+      <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+       et 
+      <persName ana="Auguste_Thenor">Auguste Thénor</persName>
+      . Ce sont les membres fondateurs du Groupe « Samba » qui devient par la suite « 
+      <location ana="Haiti">Haïti</location>
+       Littéraire ». À ses débuts, Morisseau suit les tendances de deux des poètes du groupe (Phelps et 
+      <location ana="Philoctete">Philoctète</location>
+      ) qui, à l’époque, penchaient pour une poésie « engagée ». Des vers du texte « Rue américaine » et du poème « Du sang de l’
+      <location ana="Afrique">Afrique</location>
+       » témoignent pleinement de cette tendance.
+    </p>
     <p>‘énorme horloge a crié l’heure
 la joie se marie à la tristesse
 les enfants de mon pays sont tristes
@@ -28,7 +54,21 @@ la voix forte des prolétaires du monde
 incarcérés torturés
 disent Non au colonialisme</p>
     <p>Mais, au plus vite, Roland choisit de créer ses poèmes dans le moule d’une thématique universelle. Son chant parcourt alors tous les horizons, s’adresse à tous les hommes. Certes, ses phrases où se fixent des mots sans fard vont fouiller dans les profondeurs de la souffrance humaine, mais n’ont guère la prétention de pouvoir y remédier.</p>
-    <p>D’un autre côté, l’étouffoir du duvaliérisme se répand sur les villes. La dictature s’oppose aux projets d’une jeunesse friande de connaissances ; des intellectuels progressistes, des professeurs réformateurs doivent quitter le pays. L’épanouissement de la poésie en souffre, et, quand ce ne sont pas les portes de la prison qui mettent fin à leurs activités, ce sont celles de l’exil qui offrent un exutoire aux poètes. L’avion qui emporte Roland Morisseau vers son destin d’exilé atterrit à Montréal un jour d’hiver de l’année 1964. Ces amis-poètes Phelps et Legagneur sont à l’aéroport pour l’accueillir. Le froid montréalais est aussi au rendez-vous. Au Canada, comme le dit Anthony Phelps : « Soleil devient neige, verglas, glace, flocon. Mer n’est plus que lac ou étang […]. Palmiste royal et cocotier se ratatinent épinette ou sapin ».</p>
+    <p>
+      D’un autre côté, l’étouffoir du duvaliérisme se répand sur les villes. La dictature s’oppose aux projets d’une jeunesse friande de connaissances ; des intellectuels progressistes, des professeurs réformateurs doivent quitter le pays. L’épanouissement de la poésie en souffre, et, quand ce ne sont pas les portes de la prison qui mettent fin à leurs activités, ce sont celles de l’exil qui offrent un exutoire aux poètes. L’avion qui emporte 
+      <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+       vers son destin d’exilé atterrit à 
+      <location ana="Montreal">Montréal</location>
+       un jour d’hiver de l’année 1964. Ces amis-poètes Phelps et Legagneur sont à l’aéroport pour l’accueillir. Le froid 
+      <location ana="Montrealais">Montréalais</location>
+       est aussi au rendez-vous. Au 
+      <location ana="Canada">Canada</location>
+      , comme le dit 
+      <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+       : « Soleil devient neige, verglas, glace, flocon. 
+      <location ana="Mer">Mer</location>
+       n’est plus que lac ou étang […]. Palmiste royal et cocotier se ratatinent épinette ou sapin ».
+    </p>
     <p>Poète de l’amour, Morisseau va puiser aux racines de ses émotions pour produire des vers et ranger ses belles images aux miroirs de la poésie. L’épouse est la source féminine où va fouiller l’inspiration. N’est-elle pas vivante dans ces vers de La Chanson de Roland :</p>
     <p>Ta gravitation autour de la lampe
 Tes seins en parapet d’ivoire
@@ -36,10 +76,36 @@ Tes seins en parapet d’ivoire
 Je l’aurais réclamée ta nudité à refaire le vertige de la création
 Réhabilitant la folie parmi les toits d’ardoise
 Et les fêtes marines</p>
-    <p>La muse est aussi chantée dans certains poèmes de La Promeneuse au jasmin. Carmenta Morisseau accompagne son mari-poète dans sa quête existentielle, durant une trentaine d’années. Mariés en Haïti, Carmenta et Roland Morisseau se retrouvent à Montréal, quand Carmenta rejoint son mari trois ans après son départ. Leurs trois enfants, les garçons Malec et Stéphane et la fille Nadia, sont tous nés à Montréal.</p>
-    <p>En 1993, Roland Morisseau fait paraître dans un numéro spécial de la revue Sapriphage  ces vers qui semblent présager l’arrivée du grand départ :</p>
+    <p>
+      La 
+      <location ana="Muse">Muse</location>
+       est aussi chantée dans certains poèmes de La Promeneuse au jasmin. 
+      <persName ana="Carmenta_Morisseau">Carmenta Morisseau</persName>
+       accompagne son mari-poète dans sa quête existentielle, durant une trentaine d’années. 
+      <location ana="Maries">Mariés</location>
+       en 
+      <location ana="Haiti">Haïti</location>
+      , Carmenta et 
+      <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+       se retrouvent à 
+      <location ana="Montreal">Montréal</location>
+      , quand Carmenta rejoint son mari trois ans après son départ. Leurs trois enfants, les garçons Malec et Stéphane et la fille Nadia, sont tous nés à 
+      <location ana="Montreal">Montréal</location>
+      .
+    </p>
+    <p>
+      En 1993, 
+      <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+       fait paraître dans un numéro spécial de la revue Sapriphage  ces vers qui semblent présager l’arrivée du grand départ :
+    </p>
     <p>La bêtise humaine est incommensurable
 J’ignore si pareil buis ne clôt la sérénité </p>
-    <p>Deux ans plus tard, le 29 juin 1995, dans ce Montréal où il s’est exilé, sereinement, le cœur du poète s’est éteint. Il s’en est allé, laissant à la postérité les vers récoltés le long d’un vécu tumultueux ; il s’en est allé, après avoir semé des mots, à tout vent, dans les pages d’une œuvre désormais bien établie dans les espaces de la littérature haïtienne.</p>
+    <p>
+      Deux ans plus tard, le 29 juin 1995, dans ce 
+      <location ana="Montreal">Montréal</location>
+       où il s’est exilé, sereinement, le cœur du poète s’est éteint. Il s’en est allé, laissant à la postérité les vers récoltés le long d’un vécu tumultueux ; il s’en est allé, après avoir semé des mots, à tout vent, dans les pages d’une œuvre désormais bien établie dans les espaces de la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+      .
+    </p>
   </text>
 </TEI>

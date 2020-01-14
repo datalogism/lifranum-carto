@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Ida_Faubert_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Ida Faubert</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/faubert/" xml:id="Ida_Faubert_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« A Strange Story ». Trans. Nicole Ball. Haiti Noir 2: The Classics. Ed. Edwidge Danticat New York: Akashic, 2014: 37-44.</item>
+      </list>
+      <list subtype="sur ida faubert">
+        <item>Charles, Christophe. « Deux célèbres pionnières: Virginie Sampeur et Ida Faubert ». La poésie féminine haïtienne. Port-au-Prince: Éditions Choucoune, 1980: 23-29.</item>
+        <item>Gardiner, Madeleine. Sonate pour Ida. Port-au-Prince: Imprimerie Henri Deschamps, 1984.</item>
+        <item>Gouraige, Ghislaine. « Ida Faubert ». Histoire de la littérature haïtienne (de l’indépendance à nos jours). Port-au-Prince: Éditions de l’action sociale, 1982: 218-220.</item>
+        <item>Laleau, Léon. « Ida Faubert ». Ligue Féminine d’Action Sociale, eds. Femmes Haïtiennes. Port-au-Prince: Imprimerie Henri Deschamps, 1954: 247-252.</item>
+        <item>Price-Mars, Jean. La Vocation de l’élite. Port-au-Prince: Edmond Chenet, 1919; Port-au-Prince: Ateliers Fardin, 1976; Port-au Prince: Les Éditions des Presses Nationales d’Haïti, 2001.</item>
+        <item>Thadal, Roland. « Fine Faubert, cette méconnue des lettres haïtiennes » (essai sur Fine Faubert et Ida Faubert). L’Union (31 mars 2003).</item>
+        <item>Tinsley, Natasha. « Open Roses, Closed Gardens, and Invisible Women: queering the tropical garden in the poetry of Ida Salomon Faubert ».  Canadian Woman Studies/Les Cahiers de la Femme: Women and the Black Diaspora 23.2 (Winter 2004).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/ida-faubert-pour-jacqueline/">Pour Jacqueline</item>
+        <item ref="http://ile-en-ile.org/ida-faubert-soir-tropical/">Soir tropical</item>
+        <item ref="http://idafaubert.net/">Ida Faubert</item>
+        <item ref="http://www.uneq.qc.ca/activites-litteraires/commemoration-haiti/ida-faubert-1882-1969/">Ida Faubert, une page à redécouvrir</item>
+        <item ref="https://youtu.be/ka6kxDPCd5E">Le front caché sur tes genoux</item>
+      </list>
+    </div>
+  </div>
+</TEI>

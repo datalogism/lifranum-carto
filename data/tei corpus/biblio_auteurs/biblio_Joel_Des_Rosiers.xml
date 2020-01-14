@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Joel_Des_Rosiers_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Joël Des Rosiers</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/desrosiers/" xml:id="Joel_Des_Rosiers_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« The Austerity of your Body » (« L’austerité de ton corps », poème extrait de Tribu). Trad. Carrol F. Coates. Callaloo 15.2 (Spring 1992): 407-20.</item>
+        <item>« White Woman of the Pure Exterior » (« Femme blanche au pure dehors », poème extrait de Tribu). Trad. Carrol F. Coates. Callaloo 15.2 (Spring 1992): 421-26.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Métropolis Opéra. Montréal / La Tronche (France): Triptyque / Vague à l’âme, 1987.</item>
+        <item>Tribu. Montréal: Triptyque, 1990.</item>
+        <item>Savanes. Montréal: Triptyque, 1993.</item>
+        <item>Vétiver. Montréal: Triptyque, 1999.</item>
+        <item>Caïques. Montréal: Triptyque, 2007.</item>
+        <item>Lettres à l’indigène. Montréal: Triptyque, 2009.</item>
+        <item>Gaïac. Montréal: Triptyque, 2010.</item>
+        <item>Chaux. Montréal: Triptyque, 2015.</item>
+        <item>Oeuvres complètes; Poèmes 1987-2015. Montréal: Triptyque, 2015.</item>
+      </list>
+      <list subtype="essais">
+        <item>Théories caraïbes: poétique du déracinement. Montréal: Triptyque, 1996; 2009.</item>
+        <item>Métaspora: essai sur les patries intimes. Montréal: Triptyque, 2013.</item>
+        <item>Discours de réception. Médecine et littérature. Montréal: Triptyque, 2019.</item>
+      </list>
+      <list subtype="nouvelle">
+        <item>Un autre soleil (avec Patricia Léry). Montréal: Plume &amp; Encre, 2006; édition révisée, Montréal: Triptyque, 2007.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Les fruits piqués du réalisme merveilleux » (à propos des Possédés de la Pleine-Lune de Jean-Claude Fignolé). Conjonction 173 (2e trimestre 1987): 178-184.</item>
+        <item>« La Brûlerie » (poème). Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 39-46.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Houyoux, Suzanne. « Joël Des Rosiers ». (Carrol F. Coates, trad.). Callaloo 15.2 (Spring 1992): 427-30.</item>
+        <item>Le Pelletier, Catherine. « Avec des auteurs haïtiens… » Encre noire; la langue en liberté. (RFO) Ibis Rouge Éditions, 1998: 31-39.</item>
+        <item>Sroka, Ghila B. « Joël Des Rosiers: Le XXIe siècle sera tribal » (interview). Tribune Juive 11.6 (avril 1994): 20-23.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1990     Finaliste du prix du Gouverneur général, pour Tribu</item>
+        <item>1993     Prix de l’excellence artistique de la Ville de Laval, pour Savanes.</item>
+        <item>1996     Prix de la Société des écrivains canadiens, pour Théories caraïbes.</item>
+        <item>1999     Grand Prix du livre de Montréal, pour Vétiver.</item>
+        <item>2000     16e Grand Prix du Festival International de la Poésie, Trois-Rivières, pour Vétiver.</item>
+        <item>2010     Invité d’honneur, Salon du livre de Montréal.</item>
+        <item>2011     Prix Athanase-David, pour l’ensemble de son oeuvre.</item>
+        <item>2014     Modern Language Association Prize for Independent Scholars, pour Métaspora.</item>
+        <item>2016     Prix de la poésie Fetkann-Maryse Condé, pour Chaux.</item>
+        <item>2017     Élu membre de l’Académie des lettres du Québec.</item>
+      </list>
+      <list subtype="sur l’oeuvre de joël des rosiers">
+        <item>Adamson, Ginette. « Espace géographique, espace scriptural dans l’oeuvre de Joël Des Rosiers ». TROIS 12.3 (automne 1997): 245-55.</item>
+        <item>Adamson, Ginette. « Joël Des Rosiers. Théories caraïbes: poétique du déracinement ». Notre Librairie 133 (janvier-avril 1998): 59-60.</item>
+        <item>Brophy, Michael. « Bris(é)es caraïbes: le souffle d’ex-île de Joël Des Rosiers ». Dalhousie French Studies 83 (Summer 2008): 119-126.</item>
+        <item>Chancé, Dominique. « Joël Des Rosiers ». Écritures du chaos. Saint-Denis (France): Presses Universitaires de Vincennes, 2009: 169-233.</item>
+        <item>Dolce, Nicoletta. « Vétiver de Joël Des Rosiers : la mémoire sans personne ». Relire l’histoire littéraire et le littéraire haïtiens. Port-au-Prince: Presses Nationales d’Haïti, 2007: 107-122.</item>
+        <item>Gyssels, Kathleen. « Encre et ancrage: les recueils de Joël Des Rosiers ». Préface aux Théories caraïbes: poétique du déracinement (1996): 17-30.</item>
+        <item>Gyssels, Kathleen. « Poétique du déracinement: les recueils de Joël Des Rosiers ». Présence francophone 53 (1999): 35-44</item>
+        <item>Gyssels, Kathleen. « Vétiver: poèmes de Joël Des Rosiers ». Notre Librairie 138-139 (septembre 1999-mars 2000): 162-163.</item>
+        <item>Vitiello, Joëlle. « À la recherche de la langue en nous perdue ». Postface à Théories caraïbes: poétique du déracinement (1996): 201-12.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/joel-des-rosiers-le-xxie-siecle-sera-tribal/">Joël Des Rosiers: le XXIe siècle sera tribal</item>
+        <item ref="http://ile-en-ile.org/joel-des-rosiers-hommage-a-emile-ollivier/">Hommage à Émile Ollivier</item>
+        <item ref="http://ile-en-ile.org/joel-des-rosiers-hommage-a-jean-claude-charles/">Dans la douce lumière de Paris</item>
+        <item ref="http://ile-en-ile.org/joel-des-rosiers-5-questions-pour-ile-en-ile/">Joël Des Rosiers, 5 Questions pour Île en île</item>
+        <item ref="http://www.africultures.com/index.asp?menu=affiche_article&amp;no=7601">Aimé Césaire, Adieu au Nègre Majuscule</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=57436&amp;PubDate=2008-05-16">Les mouvances de soi</item>
+        <item ref="http://www.litterature.org/recherche/ecrivains/des-rosiers-joel-162/">L’Ile</item>
+        <item ref="http://www.litterature.org/recherche/ecrivains/des-rosiers-joel-162/">L’Ile</item>
+        <item ref="http://www.groupenotabene.com/auteur/des-rosiers-joël">Triptyque</item>
+        <item ref="http://radiospirale.org/capsule/rencontre-avec-joel-des-rosiers">Rencontre avec Joël Des Rosiers</item>
+      </list>
+    </div>
+  </div>
+</TEI>

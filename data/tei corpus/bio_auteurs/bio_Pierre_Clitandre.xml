@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Pierre_Clitandre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,19 +12,123 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/clitandre/" xml:id="Pierre_Clitandre_bio_auteur_ile_en_ile">
-    <p>Journaliste, peintre et romancier, Pierre Clitandre naît le 20 mars 1954 à Port-au-Prince, Haïti. Il étudie la peinture à l’Académie de Beaux-Arts de 1974 à 1977 et poursuit ses études à la Faculté d’Ethnologie jusqu’en 1979. Journaliste culturel, il collabore dans les principaux journaux haïtiens : Le Nouvelliste, Le Matin et Le Petit Samedi Soir. Il est également chroniqueur pour Radio Haïti Inter, et pendant deux ans il collabore à Radio Plus pour des émissions de culture et archéologie, ethnologie et urbanisme.</p>
-    <p>Le premier juillet 1976, son ami journaliste au Petit Samedi Soir, Gasner Raymond, est assassiné. Clitandre continue pourtant à collaborer à l’hebdomadaire indépendant, dont il devient rédacteur en chef en 1979. Pour Le Petit Samedi Soir, il rédige des éditoriaux et une série de reportages sur les provinces haïtiennes. Suite aux mouvements de démocratisation, il est arrêté en novembre 1980 et passe cinq jours en prison avant de se faire expluser d’Haïti le 5 décembre 1980, avec des confrères journalistes : Marcus Garcia, Elsie Ethéart, Grégoire Eugène et Jean Dominique.</p>
-    <p>Pierre Clitandre se retrouve ainsi à New York. Sa famille le rejoint. De ce premier séjour à New York, il garde le souvenir positif des visites aux musées, malgré les affres de l’exil non choisi. En 1982, il apprend la disparition de son père ; fils unique, Clitandre n’aura jamais de traces de sa mort.</p>
-    <p>Entre 1984 et 1986, Pierre Clitandre et le docteur et critique littéraire Eddy Arnold Jean dirigent Haïti Demain Hebdo, journal antiduvaliériste très lu dans la diaspora newyorkaise. L’hebdomadaire contient des informations de première main sur la réalité répressive en Haïti tout en couvrant les actualités culturelles et incorporant des interviews avec les écrivains et artistes exilés. La publication est interrompue en 1986, remplacée par Haïti Demain Magazine, avec une présentation plus modernisée et au contenu plus analytique.</p>
-    <p>Peu après la chute des Duvalier, Pierre Clitandre rentre au pays, le 20 mars 1986. En 1999, il est appelé à diriger le journal d’État L’Union. Cette expérience de journalisme officiel ne durera que sept mois, jusqu’au coup d’état du 30 septembre 1991 qui renverse le gouvernement de Jean-Bertrand Aristide. Clitandre vit en clandestinité pendant près d’une année. Il arrive à quitter le pays en 1992 et vivra de nouveau à New York avec sa famille, se consacrant principalement à l’écriture et à la peinture. Il rentre en Haïti en 1996.</p>
-    <p>Publié d’abord en Haïti en 1979, le premier roman de Pierre Clitandre, Cathédrale du mois d’août, est repris en 1982 à Paris (et traduit en anglais en 1987). Dans Cathédrale du mois d’août, l’auteur évoque l’errance des provinces vers la capitale, l’éclatement et les métamorphoses de la ville et de l’individu.</p>
-    <p>L’univers de son deuxième roman Vin de Soleil – plus féminin, fermé, intériorisé – est plus sobre, intérieur. Quant au roman La maison des surprises, il s’agit d’une archéologie personnelle de l’auteur. « C’est aussi l’effort de se lessiver à grandes eaux de toutes les impuretés qui le pèsent dans la réalité, dit-il. Dans cette maison, le temps est mobile au recto comme au verso. Le virtuel et le réel cheminent ensemble ».</p>
-    <p>L’un des projets ambitieux qui occupe l’auteur, La Révolution Esthétique réunira ses textes publiés sur les arts en Haiti – la peinture, la sculpture, la musique et la littérature – pour trouver une articulation théorique qui présente Haiti sous l’éclairage d’un réalisme merveilleux adapté aux nouvelles découvertes sur les symboles du vodou et leur signification « scientifique ». Par les temps qui courent, dit-il, « il faut retrouver notre identité culturelle. Une telle approche sur l’imaginaire peut être une lumière sur notre parcours historique mouvementé ».</p>
-    <p>Ayant repris possession de la maison familiale, Pierre Clitandre la transforme en bibliothèque de communauté. La Bibliothèque du Soleil s’ouvre le 29 juillet 2005. Pierre Clitandre crée ainsi un espace public avec des rayons de livres et une galerie d’art, pour donner une nouvelle vie culturelle au quartier populaire de Carrefour-Feuilles à Port-au-Prince, anciennement connu pour les nombreuses résidences d’écrivains et de peintres.</p>
+    <p>
+      Journaliste, peintre et romancier, 
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+       naît le 20 
+      <location ana="Mars">Mars</location>
+       1954 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Haiti">Haïti</location>
+      . Il étudie la peinture à l’Académie de Beaux-Arts de 1974 à 1977 et poursuit ses études à la Faculté d’Ethnologie jusqu’en 1979. Journaliste culturel, il collabore dans les principaux journaux 
+      <location ana="Haitiens">Haïtiens</location>
+       : Le Nouvelliste, Le Matin et Le Petit Samedi Soir. Il est également chroniqueur pour Radio 
+      <location ana="Haiti">Haïti</location>
+       Inter, et pendant deux ans il collabore à Radio Plus pour des émissions de culture et archéologie, ethnologie et urbanisme.
+    </p>
+    <p>
+      Le premier juillet 1976, son ami journaliste au Petit Samedi Soir, 
+      <persName ana="Gasner_Raymond">Gasner Raymond</persName>
+      , est assassiné. Clitandre continue pourtant à collaborer à l’hebdomadaire indépendant, dont il devient rédacteur en chef en 1979. Pour Le Petit Samedi Soir, il rédige des éditoriaux et une série de reportages sur les provinces haïtiennes. Suite aux mouvements de démocratisation, il est arrêté en novembre 1980 et 
+      <location ana="Passe">Passe</location>
+       cinq jours en prison avant de se faire expluser d’
+      <location ana="Haiti">Haïti</location>
+       le 5 décembre 1980, avec des confrères journalistes : 
+      <persName ana="Marcus_Garcia">Marcus Garcia</persName>
+      , 
+      <persName ana="Elsie_Etheart">Elsie Ethéart</persName>
+      , 
+      <persName ana="Gregoire_Eugene">Grégoire Eugène</persName>
+       et 
+      <persName ana="Jean_Dominique">Jean Dominique</persName>
+      .
+    </p>
+    <p>
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+       se retrouve ainsi à 
+      <location ana="New_York">New York</location>
+      . Sa famille le rejoint. De ce premier séjour à 
+      <location ana="New_York">New York</location>
+      , il garde le souvenir positif des visites aux musées, malgré les affres de l’exil non choisi. En 1982, il apprend la disparition de son père ; fils unique, Clitandre n’aura jamais de traces de sa mort.
+    </p>
+    <p>
+      Entre 1984 et 1986, 
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+       et le docteur et critique littéraire 
+      <persName ana="Eddy_Arnold">Eddy Arnold</persName>
+       Jean dirigent 
+      <location ana="Haiti">Haïti</location>
+       
+      <persName ana="Demain_Hebdo">
+        <location ana="Demain">Demain</location>
+         Hebdo
+      </persName>
+      , 
+      <location ana="Journal">Journal</location>
+       antiduvaliériste très lu dans la diaspora newyorkaise. L’hebdomadaire contient des informations de première main sur la réalité répressive en 
+      <location ana="Haiti">Haïti</location>
+       tout en couvrant les actualités culturelles et incorporant des interviews avec les écrivains et artistes exilés. La publication est interrompue en 1986, remplacée par 
+      <location ana="Haiti">Haïti</location>
+       
+      <location ana="Demain">Demain</location>
+       Magazine, avec une présentation plus modernisée et au contenu plus analytique.
+    </p>
+    <p>
+      Peu après la chute des Duvalier, 
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+       rentre au pays, le 20 
+      <location ana="Mars">Mars</location>
+       1986. En 1999, il est appelé à diriger le 
+      <location ana="Journal">Journal</location>
+       d’État L’Union. Cette expérience de journalisme officiel ne durera que sept mois, jusqu’au coup d’état du 30 septembre 1991 qui renverse le gouvernement de Jean-
+      <persName ana="Bertrand_Aristide">Bertrand Aristide</persName>
+      . Clitandre vit en clandestinité pendant près d’une année. Il arrive à quitter le pays en 1992 et vivra de nouveau à 
+      <location ana="New_York">New York</location>
+       avec sa famille, se consacrant principalement à l’écriture et à la peinture. Il rentre en 
+      <location ana="Haiti">Haïti</location>
+       en 1996.
+    </p>
+    <p>
+      Publié d’abord en 
+      <location ana="Haiti">Haïti</location>
+       en 1979, le premier roman de 
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+      , Cathédrale du mois d’août, est repris en 1982 à 
+      <location ana="Paris">Paris</location>
+       (et traduit en anglais en 1987). Dans Cathédrale du mois d’août, l’auteur évoque l’errance des provinces vers la capitale, l’éclatement et les métamorphoses de la ville et de l’individu.
+    </p>
+    <p>
+      L’univers de son deuxième roman Vin de Soleil – plus féminin, fermé, intériorisé – est plus sobre, intérieur. Quant au roman La 
+      <location ana="Maison">Maison</location>
+       des surprises, il s’agit d’une archéologie personnelle de l’auteur. « C’est aussi l’effort de se lessiver à grandes eaux de toutes les impuretés qui le pèsent dans la réalité, dit-il. Dans cette 
+      <location ana="Maison">Maison</location>
+      , le temps est mobile au recto comme au verso. Le virtuel et le réel cheminent ensemble ».
+    </p>
+    <p>
+      L’un des projets ambitieux qui occupe l’auteur, La Révolution Esthétique réunira ses textes publiés sur les arts en 
+      <location ana="Haiti">Haiti</location>
+       – la peinture, la sculpture, la musique et la littérature – pour trouver une articulation théorique qui présente 
+      <location ana="Haiti">Haiti</location>
+       sous l’éclairage d’un réalisme merveilleux adapté aux nouvelles découvertes sur les symboles du vodou et leur signification « scientifique ». Par les temps qui courent, dit-il, « il faut retrouver notre identité culturelle. Une telle approche sur l’imaginaire peut être une lumière sur notre parcours historique mouvementé ».
+    </p>
+    <p>
+      Ayant repris possession de la 
+      <location ana="Maison">Maison</location>
+       familiale, 
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+       la transforme en bibliothèque de communauté. La Bibliothèque du Soleil s’ouvre le 29 juillet 2005. 
+      <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+       crée ainsi un espace public avec des rayons de livres et une galerie d’art, pour donner une nouvelle vie culturelle au quartier populaire de 
+      <location ana="Carrefour">Carrefour</location>
+      -Feuilles à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , anciennement connu pour les nombreuses résidences d’écrivains et de peintres.
+    </p>
   </text>
 </TEI>

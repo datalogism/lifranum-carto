@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Gerard_Etienne_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,19 +12,96 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="atania Feuerwerker" ref="http://ile-en-ile.org/etienne/" xml:id="Gerard_Etienne_bio_auteur_ile_en_ile">
-    <p>Né au Cap-Haïtien le 28 mai 1936, Gérard Vergniaud Étienne quitte à 15 ans le foyer paternel. Il proteste ainsi contre la violence que son père fait subir à sa mère parce qu’elle ne partage pas ses croyances vaudou. Il restera terriblement marqué par cette période de sa vie. Il part pour Port-au-Prince. À quinze ans il participe à une insurrection contre le gouvernement despotique de Paul E. Magloire. Arrêté en compagnie de Luc B. Innocent et de Windsor K. Laferrière, il est emprisonné et torturé.</p>
-    <p>Disciple du marxiste haïtien, le grand romancier et médecin Jacques-Stephen Alexis, il participe à un complot contre le gouvernement fasciste de François Duvalier. Il est arrêté et torturé (23 ans). Cette vie turbulente ne l’a pas empêché de faire des études classiques en Haïti, d’enseigner dans de prestigieux collèges et d’amorcer une carrière de journaliste.</p>
-    <p>En effet il rédige à 13 ans ses premiers poèmes qu’il interpréte à la radio. À l’âge de 16 ans, il achève un premier livre de poésie. Puis il publie coup sur coup Au milieu des larmes (1960), Plus large qu’un rêve (1960), La raison et mon amour (1961), Essai sur la négritude (1962) et Le nationalisme dans la littérature haïtienne (1963).</p>
-    <p>Il fonde le groupe culturel Samba qui devait devenir Haïti-littéraire. Parallèlement à sa vie d’écrivain, il enseigne dans des collèges et au lycée. Il est en même temps critique littéraire et reporter aux quotidiens Le Nouvelliste (1961-1962) et Panorama (1962-1964). Étienne a aussi suivi parallèlement une trajectoire artistique et militaire, particulièrement à la Société des Messagers de l’art (1963) et au Corps d’Aviation où, cadet de l’air, il est affecté au département de météorologie (1955-1957).</p>
-    <p>En août 1964, l’écrivain s’exile au Canada. Débarqué à Montréal, il enseigne au Lycée Da Silva (1964-1965) et travaille comme reporter au quotidien Métro Express et au journal Quartier Latin. Au cours de ses études de licence ès lettres (1964-1970) il travaille en usine puis comme infirmier à l’Hôtel Dieu de Montréal. Il enseigne au Collège de Matane (1968-1970) et collabore au journal La Voix canadienne. Il publie en 1965 son premier livre au Canada, Lettres à Montréal. Il rencontre en 1967 la compagne de sa vie, Natania Feuerwerker dont il a deux enfants, Joël et Michaëlla. Il commence à enseigner à l’Université de Moncton en 1971. Il obtient son doctorat en linguistique (Strasbourg, 1974). Il est professeur de linguistique et de grammaire supérieure à Moncton en Acadie jusqu’en 1978. En 1979, il fonde le module information/communication où il enseigne désormais le journalisme. Il collabore au Devoir de 1972 à 1987 et il est éditorialiste au quotidien Le Matin (1986-1987).</p>
-    <p>Malgré deux comas et une opération au cerveau, il continue à écrire à l’hebdomadaire Le Voilier (1987-1989). Malgré une agression d’ordre politique en 1993 (voir L’Injustice, la désinformation, le mépris de la loi), il poursuit sa lutte pour le changement dans son pays d’origine. Depuis cette date, il collabore au journal Haïti-Observateur.</p>
+  <text hand="Natania Feuerwerker" ref="http://ile-en-ile.org/etienne/" xml:id="Gerard_Etienne_bio_auteur_ile_en_ile">
+    <p>
+      Né au Cap-Haïtien le 28 mai 1936, 
+      <persName ana="Gerard_Vergniaud_Etienne">Gérard Vergniaud Étienne</persName>
+       quitte à 15 ans le foyer paternel. Il proteste ainsi contre la violence que son père fait subir à sa mère parce qu’elle ne partage pas ses croyances vaudou. Il restera terriblement marqué par cette période de sa vie. Il part pour 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . À quinze ans il participe à une insurrection contre le gouvernement despotique de 
+      <persName ana="Paul_E._Magloire">Paul E. Magloire</persName>
+      . Arrêté en compagnie de 
+      <persName ana="Luc_B._Innocent">Luc B. Innocent</persName>
+       et de 
+      <persName ana="Windsor_K._Laferriere">
+        Windsor K. 
+        <location ana="Laferriere">Laferrière</location>
+      </persName>
+      , il est emprisonné et torturé.
+    </p>
+    <p>
+      Disciple du marxiste haïtien, le grand romancier et médecin Jacques-
+      <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+      , il participe à un complot contre le gouvernement fasciste de 
+      <persName ana="Francois_Duvalier">François Duvalier</persName>
+      . Il est arrêté et torturé (23 ans). Cette vie turbulente ne l’a pas empêché de faire des études classiques en 
+      <location ana="Haiti">Haïti</location>
+      , d’enseigner dans de prestigieux collèges et d’amorcer une carrière de journaliste.
+    </p>
+    <p>
+      En effet il rédige à 13 ans ses premiers poèmes qu’il interpréte à la radio. À l’âge de 16 ans, il achève un premier livre de poésie. Puis il publie coup sur coup Au milieu des larmes (1960), Plus large qu’un rêve (1960), La raison et mon amour (1961), Essai sur la 
+      <location ana="Negritude">Négritude</location>
+       (1962) et Le nationalisme dans la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       (1963).
+    </p>
+    <p>
+      Il fonde le groupe culturel Samba qui devait devenir 
+      <location ana="Haiti">Haïti</location>
+      -littéraire. Parallèlement à sa vie d’écrivain, il enseigne dans des collèges et au lycée. Il est en même temps critique littéraire et reporter aux quotidiens Le Nouvelliste (1961-1962) et 
+      <location ana="Panorama">Panorama</location>
+       (1962-1964). Étienne a aussi suivi parallèlement une trajectoire artistique et militaire, particulièrement à la Société des Messagers de l’art (1963) et au Corps d’Aviation où, cadet de l’air, il est affecté au département de météorologie (1955-1957).
+    </p>
+    <p>
+      En août 1964, l’écrivain s’exile au 
+      <location ana="Canada">Canada</location>
+      . Débarqué à 
+      <location ana="Montreal">Montréal</location>
+      , il enseigne au Lycée Da Silva (1964-1965) et travaille comme reporter au quotidien Métro Express et au 
+      <location ana="Journal">Journal</location>
+       Quartier Latin. Au cours de ses études de licence ès lettres (1964-1970) il travaille en usine puis comme infirmier à l’Hôtel Dieu de 
+      <location ana="Montreal">Montréal</location>
+      . Il enseigne au Collège de Matane (1968-1970) et collabore au 
+      <location ana="Journal">Journal</location>
+       La Voix canadienne. Il publie en 1965 son premier livre au 
+      <location ana="Canada">Canada</location>
+      , Lettres à 
+      <location ana="Montreal">Montréal</location>
+      . Il rencontre en 1967 la compagne de sa vie, 
+      <persName ana="Natania_Feuerwerker">Natania Feuerwerker</persName>
+       dont il a deux enfants, Joël et Michaëlla. Il commence à enseigner à l’Université de 
+      <location ana="Moncton">Moncton</location>
+       en 1971. Il obtient son doctorat en linguistique (
+      <location ana="Strasbourg">Strasbourg</location>
+      , 1974). Il est professeur de linguistique et de grammaire supérieure à 
+      <location ana="Moncton">Moncton</location>
+       en 
+      <location ana="Acadie">Acadie</location>
+       jusqu’en 1978. En 1979, il fonde le module information/communication où il enseigne désormais le journalisme. Il collabore au Devoir de 1972 à 1987 et il est éditorialiste au quotidien Le Matin (1986-1987).
+    </p>
+    <p>
+      Malgré deux comas et une opération au cerveau, il continue à écrire à l’hebdomadaire 
+      <persName ana="Le_Voilier">Le Voilier</persName>
+       (1987-1989). Malgré une agression d’ordre politique en 1993 (voir L’Injustice, la désinformation, le mépris de la loi), il poursuit sa lutte pour le changement dans son pays d’origine. Depuis cette date, il collabore au 
+      <location ana="Journal">Journal</location>
+       
+      <location ana="Haiti">Haïti</location>
+      -Observateur.
+    </p>
     <p>Plusieurs de ses titres ont été traduits en langues étrangères. L’écrivain a aussi suivi une carrière scientifique. Il a découvert une nouvelle discipline en sciences humaines, l’anthroposémiologie, et il a publié deux essais plus haut mentionnés, en plus de 50 études savantes en linguistique, en critique et en sémiologie.</p>
-    <p>Gérard Étienne est récipiendaire de plusieurs prix et distinctions.</p>
-    <p>Gérard Étienne meurt le 14 décembre 2008 à Montréal. Pour célébrer sa vie et son oeuvre, voir les liens vers des textes-hommage en bas de cette page.</p>
+    <p>
+      <persName ana="Gerard_Etienne">Gérard Étienne</persName>
+       est récipiendaire de plusieurs prix et distinctions.
+    </p>
+    <p>
+      <persName ana="Gerard_Etienne">Gérard Étienne</persName>
+       meurt le 14 décembre 2008 à 
+      <location ana="Montreal">Montréal</location>
+      . Pour célébrer sa vie et son oeuvre, voir les liens vers des textes-hommage en bas de cette page.
+    </p>
   </text>
 </TEI>

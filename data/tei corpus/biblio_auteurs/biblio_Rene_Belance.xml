@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Rene_Belance_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,48 +12,50 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_biblio_auteur_ile_en_ile">
-    <list subtype="in english">
-      <item>« In Celebration of Absence ». Trad. Marcia Sterling. Portfolio 5 (Washington, D.C.), 1945.</item>
-      <item>« Jail ». Trad. Wallace F. Fowlie. Portfolio (Washington, D.C.), 1959.</item>
-      <item>Voir aussi Rowell et Saussy, ci-dessus.</item>
-    </list>
-    <list subtype="sur île en île">
-      <item ref="http://ile-en-ile.org/rene-belance-quatre-poemes-de-rene-belance/">Quatre poèmes de René Bélance</item>
-      <item ref="http://ile-en-ile.org/belance-quatre-poemes/">Sélection de poèmes </item>
-      <item ref="http://ile-en-ile.org/entretien-avec-rene-belance-par-paul-farmer/">Entretien avec René Bélance</item>
-      <item ref="http://ile-en-ile.org/rene-belance-geole/">Geôle</item>
-      <item ref="http://ile-en-ile.org/rene-belance-mains-libres/">Mains libres</item>
-      <item ref="http://ile-en-ile.org/rene-belance-1915-2004-hommages-au-poete/">René Bélance, 1915-2004, Hommages au poète</item>
-      <item ref="http://ile-en-ile.org/jimmy-ly-rene-belance-walla-walla-washington/">Surréalisme haïtien et littérature tahitienne à Walla Walla, Washington (septembre 1965)</item>
-    </list>
-    <list subtype="ailleurs sur le web">
-      <item ref="http://web.archive.org/web/20031114020638/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=563">Fuite </item>
-    </list>
-    <list subtype="poésie">
-      <item>Rythme de mon cœur. (préface de Léon Lahens). Port-au-Prince: Imprimerie modèle, 1940.</item>
-      <item>Luminaires. Port-au-Prince: Imprimerie Morissett, 1941.</item>
-      <item>Pour célébrer l’absence. Québec: s.m., 1943.</item>
-      <item>Survivances. Port-au-Prince: Imprimerie de l’État, 1944.</item>
-      <item>Épaule d’ombre. Port-au-Prince: Imprimerie de l’État, 1945.</item>
-      <item>Nul ailleurs. Pétion-Ville: Éditions Grand-Anse, 1984.</item>
-      <item>Épaule d’ombre et Nul ailleurs. Port-au-Prince: Presses Nationales d’Haïti, 2006.</item>
-      <item>Luminaires, Pour célébrer l’absence et Survivances. Port-au-Prince: Presses Nationales d’Haïti, 2006.</item>
-    </list>
-    <list subtype="entretien">
-      <item>Interview avec André Breton, publiée dans Haïti-Journal (12-13 décembre 1945). Republiée (« Interview de René Bélance ») dans le volume Entretiens (1913-1952) d’André Breton. Paris: Gallimard, 1952, 1969, 1973: 233-237.</item>
-    </list>
-    <list subtype="sur rené bélance">
-      <item>Rowell, Charles H. « René Bélance ». Entretien suivi de quatre poèmes (avec les traductions de Carrol F. Coates): « Fetish/Fétiche », « Comfort/Confort », « Clamor/Clameur » et « Nerve/Nervure ». Callaloo 15.3 (Summer 1992): 601-610.</item>
-      <item>Saussy, Haun. « A Note on René Bélance ». Callaloo 22.2 (Spring 1999): 351-67. (Avec trois poèmes de Bélance accompagnés des traductions de Haun Saussy : « Geôle/Jail », « Mains Libres…/Hands Free… » et « Trame/Web »).</item>
-      <item>Senghor, Léopold Sédar. « René Bélance » dans Anthologie de la nouvelle poésie nègre et malgache de langue française. Paris: PUF, 1948, 1985: 129-132. (Avec deux poèmes, « Couvercle » et « Vertige »).</item>
-    </list>
-    <list subtype="poésie enregistrée">
-      <item>« Allure » (extrait), dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
-    </list>
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« In Celebration of Absence ». Trad. Marcia Sterling. Portfolio 5 (Washington, D.C.), 1945.</item>
+        <item>« Jail ». Trad. Wallace F. Fowlie. Portfolio (Washington, D.C.), 1959.</item>
+        <item>Voir aussi Rowell et Saussy, ci-dessus.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Rythme de mon cœur. (préface de Léon Lahens). Port-au-Prince: Imprimerie modèle, 1940.</item>
+        <item>Luminaires. Port-au-Prince: Imprimerie Morissett, 1941.</item>
+        <item>Pour célébrer l’absence. Québec: s.m., 1943.</item>
+        <item>Survivances. Port-au-Prince: Imprimerie de l’État, 1944.</item>
+        <item>Épaule d’ombre. Port-au-Prince: Imprimerie de l’État, 1945.</item>
+        <item>Nul ailleurs. Pétion-Ville: Éditions Grand-Anse, 1984.</item>
+        <item>Épaule d’ombre et Nul ailleurs. Port-au-Prince: Presses Nationales d’Haïti, 2006.</item>
+        <item>Luminaires, Pour célébrer l’absence et Survivances. Port-au-Prince: Presses Nationales d’Haïti, 2006.</item>
+      </list>
+      <list subtype="entretien">
+        <item>Interview avec André Breton, publiée dans Haïti-Journal (12-13 décembre 1945). Republiée (« Interview de René Bélance ») dans le volume Entretiens (1913-1952) d’André Breton. Paris: Gallimard, 1952, 1969, 1973: 233-237.</item>
+      </list>
+      <list subtype="sur rené bélance">
+        <item>Rowell, Charles H. « René Bélance ». Entretien suivi de quatre poèmes (avec les traductions de Carrol F. Coates): « Fetish/Fétiche », « Comfort/Confort », « Clamor/Clameur » et « Nerve/Nervure ». Callaloo 15.3 (Summer 1992): 601-610.</item>
+        <item>Saussy, Haun. « A Note on René Bélance ». Callaloo 22.2 (Spring 1999): 351-67. (Avec trois poèmes de Bélance accompagnés des traductions de Haun Saussy : « Geôle/Jail », « Mains Libres…/Hands Free… » et « Trame/Web »).</item>
+        <item>Senghor, Léopold Sédar. « René Bélance » dans Anthologie de la nouvelle poésie nègre et malgache de langue française. Paris: PUF, 1948, 1985: 129-132. (Avec deux poèmes, « Couvercle » et « Vertige »).</item>
+      </list>
+      <list subtype="poésie enregistrée">
+        <item>« Allure » (extrait), dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/rene-belance-quatre-poemes-de-rene-belance/">Quatre poèmes de René Bélance</item>
+        <item ref="http://ile-en-ile.org/belance-quatre-poemes/">Sélection de poèmes </item>
+        <item ref="http://ile-en-ile.org/entretien-avec-rene-belance-par-paul-farmer/">Entretien avec René Bélance</item>
+        <item ref="http://ile-en-ile.org/rene-belance-geole/">Geôle</item>
+        <item ref="http://ile-en-ile.org/rene-belance-mains-libres/">Mains libres</item>
+        <item ref="http://ile-en-ile.org/rene-belance-1915-2004-hommages-au-poete/">René Bélance, 1915-2004, Hommages au poète</item>
+        <item ref="http://ile-en-ile.org/jimmy-ly-rene-belance-walla-walla-washington/">Surréalisme haïtien et littérature tahitienne à Walla Walla, Washington (septembre 1965)</item>
+        <item ref="http://web.archive.org/web/20031114020638/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=563">Fuite </item>
+      </list>
+    </div>
   </div>
 </TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Max_Dorsinville_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Max Dorsinville</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/dorsinville_max/" xml:id="Max_Dorsinville_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="essais">
+        <item>Caliban Without Prospero: Essay on Quebec and Black Literature. Erin (Ontario): Press Porcépic, 1974.</item>
+        <item>Le Pays natal: Essais sur les littératures du Tiers-Monde et du Québec. Dakar: Nouvelles Editions Africaines, 1983.</item>
+        <item>Solidarités: Tiers-Monde et littérature comparée. Montréal: CIDIHCA, 1988.</item>
+        <item>Understanding Contemporary Cuba in Verbal and Visual Forms: Modernism Revisited. Lewiston, NY: Mellen Press, 2004.</item>
+      </list>
+      <list subtype="romans">
+        <item>James Wait et les lunettes noires. Montréal: CIDIHCA, 1995.</item>
+        <item>Erzulie Loves Shango (version adaptée et traduite par l’auteur de James Wait et les lunettes noires). Montréal: CIDIHCA, 1998.</item>
+      </list>
+      <list subtype="récit">
+        <item>A Haitian’s Coming of Age in 1959: In the Postcolonial Light and Shadow of Castro and Duvalier. Lewiston, NY: Mellen Press, 2005.</item>
+      </list>
+      <list subtype="éditions critiques et traductions">
+        <item>The Haitians in Quebec. A Sociological Profile,  by Paul Dejean. Translated with a Foreword by Max Dorsinville. Ottawa: Tecumseh Press, 1980.</item>
+        <item>The Rule of Francois (« Papa Doc ») Duvalier in Two Novels by Roger Dorsinville: Realism and Magic Realism in Haiti. Trans. and Ed. Max Dorsinville. Preface by George Lang. Lewiston, NY: Mellen Press, 2000.</item>
+        <item>Post Colonial Stories by Roger Dorsinville: In the Shadow of Conrad’s Marlow. Trans. Max Dorsinville. Preface: Maryse Condé. Lewiston, NY: Mellen Press, 2001.</item>
+        <item>A Critical Edition of Haitian Writer Roger Dorsinville’s Memoirs of Haiti. Trans. and Ed. Max Dorsinville. Preface: Marie-Hélène.Laforest. Lewiston, NY: Mellen Press, 2002.</item>
+        <item>A Critical Edition of Haitian Writer Roger Dorsinville’s Memoirs of Africa. Trans. and Ed. Max Dorsinville. Preface: George Lang. Lewiston, NY: Mellen Press, 2002.</item>
+        <item>The Collected Edition of Roger Dorsinville’s Postcolonial Literary Criticism in Africa (deux volumes, en français). Vol. 1: 1976-1981; Vol. 2: 1982-1986. Ed. and Intro. Max Dorsinville. Preface: Marie-Hélène Laforest. Lewiston, N.Y.: Mellen Press, 2003.</item>
+        <item>A Brief History of the Black Communities in Canada,  by Frantz Voltaire. Trans. Max Dorsinville. Montréal: CIDIHCA, 2007.</item>
+      </list>
+      <list subtype="éditions critiques posthumes">
+        <item>Dorsinville, Roger. Pour célébrer la terre suivi de Poétique de l’exil. Montréal: Mémoire d’encrier, 2004.</item>
+        <item>Dorsinville, Max H. Mémoires de la décolonisation. Montréal: Mémoire d’encrier, 2006.</item>
+        <item>Dorsinville, Roger. Le Monde de Robert Brémont. Montréal: CIDIHCA, 2007.</item>
+        <item>Dorsinville, Max H. L’Ombre de Duvalier. Montréal: CIDIHCA, 2007.</item>
+      </list>
+      <list subtype="sur l’oeuvre de max dorsinville">
+        <item>Ashcroft, Bill, Gareth Griffiths and Helen Tiffin. The Empire Writes Back: Theory and Practice in Post-Colonial Literatures. London and New York: Routledge, 1989.</item>
+        <item>Blanc, Marie-Thérèse. « Peut-on en finir une fois pour toutes avec les classifications raciales ? » Essays on Canadian Writing 61 (Spring 1997): 207-210.</item>
+        <item>Clarke, George Elliot. Odysseys Home: Mapping African-Canadian Literature. Toronto: University of Toronto Press, 2002.</item>
+        <item>Des Rosiers, Joël. Théories caraïbes: Poétique du déracinement. Montréal: Triptyque, 1996.</item>
+        <item>Fouron, Pascale. « Solidarités » (compte-rendu). Revue Canadienne des Études Africaines 24.2 (1990): 273-274.</item>
+        <item>Ireland, Susan. « Declining the stereotype in the work of Stanley Lloyd Norris, Max Dorsinville, and Dany Laferriere ». Québec Studies 39 (Spring/Summer 2005): 35-77.</item>
+        <item>Lang, George. « Max Dorsinville: Solidarités » (compte-rendu). Research in African Literatures 20.3 (Fall 1989): 526-529.</item>
+        <item>Warner, Gary. « Le pays natal » (compte-rendu). Revue Canadienne des Études Africaines 19.3 (1985): 649-651.</item>
+        <item>Wright, Nancy. Pre-Sent Realities: Counter-Memory in Brand, Clarke, Dorsinville and Laferrière. M.A. Thesis, 2006. Université de Sherbrooke.</item>
+        <item>Wylie, Hal. James Wait et les lunettes noires (compte-rendu). World Literature Today  70: 3 (Summer 1996): 749.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/max-dorsinville-nous-sommes-tous-des-refugies/">Nous sommes tous des réfugiés</item>
+        <item ref="http://ile-en-ile.org/dorsinville_roger/">Roger Dorsinville</item>
+        <item ref="http://id.erudit.org/iderudit/500368ar">Caliban Without Prospero</item>
+        <item ref="http://mellenpress.com/">Edwin Mellen Press</item>
+        <item ref="http://www.arts.mcgill.ca/english/people/dorsinville.html">Max Dorsinville</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=35958">Max H. Dorsinville fouille dans les « Mémoires de la décolonisation »</item>
+      </list>
+    </div>
+  </div>
+</TEI>

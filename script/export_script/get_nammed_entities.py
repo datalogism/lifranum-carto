@@ -104,7 +104,7 @@ for aut_k in data_ile_en_ile0.keys():
         current["name_auth"]=aut_k
         data_ile_en_ile_ok["_".join(normalize_names(aut_k))]=current
 bios_content={}
-
+import re
 with open('C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/list_nammed_entities.csv', 'w', newline='', encoding="utf-8") as csvfile:
     spamwriter = csv.writer(csvfile, delimiter=';',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
@@ -134,6 +134,11 @@ with open('C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/list_na
             id_auth= strip_accents(normalize_names(auth)[0])
             for txt in bio_content:
                 current_doc = nlp(txt)
+#                \b( né | née | mort | décédé | décédée |Né |Née |Mort |Décédé| naît )+(*){0,15}(19|20)\d\d
+                x = re.search('[" né "," née "," mort "," décédé "," décédée ","Né ","Née ","Mort ","Décédé"]{0,30}(19|20)\d\d', txt)
+                if(x):
+                    print("FOUND ! ",txt[x.start():x.end()])
+                {}"
                 tempo_text=txt
                 for entity in current_doc.ents:
                     if(entity.label_=="ORG"):
@@ -146,5 +151,5 @@ with open('C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/list_na
                             else:
                                 spamwriter.writerow([id_auth,entity.text,"PER",""])
                     if(entity.label_=="LOC"):
-                        spamwriter.writerow([id_auth,entity.text,"LOC"],"")
+                        spamwriter.writerow([id_auth,entity.text,"LOC",""])
                         

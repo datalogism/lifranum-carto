@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Coutecheve_Lavoie_Aupont_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Coutecheve_Lavoie_Aupont.xml"/>
+  <xi:include ref="biblio_Coutecheve_Lavoie_Aupont.xml"/>
+  <xi:include ref="fiche_auteur_Coutecheve_Lavoie_Aupont.xml"/>
+</master>

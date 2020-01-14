@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Edris_Saint-Amand_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Édris Saint-Amand</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/saint-amand/" xml:id="Edris_Saint-Amand_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« The Flame Tree ». Black Orpheus (Nigeria) 9 (June 1961) 31-48.</item>
+      </list>
+      <list subtype="romans">
+        <item>Bon Dieu rit. Paris: Domat, 1952; Port-au-Prince: Les Éditions du Soleil, 1978; Paris: Hatier, 1989.</item>
+        <item>Le vent de janvier. Pétion-Ville: E. St-Amand, 1985.</item>
+      </list>
+      <list subtype="essais">
+        <item>Essai d’explication de Dialogue de mes lampes. Préface de Jacques Roumain. Port-au-Prince: Imprimerie de l’état, 1942; Port-au-Prince: Ateliers Fardin, 1975 (avec une préface de René Bélance); Port-au-Prince: Editions Mémoire, 1995.</item>
+      </list>
+      <list subtype="article sélectionné">
+        <item>« Préface » au recueil de poésie, Étincelles de René Depestre. Port-au-Prince: Imprimerie de l’État, 1945.</item>
+      </list>
+      <list subtype="sur édris saint-amand">
+        <item>Dolce, Jacquelin.. »Une lecture lucide de Bon Dieu rit« . Le Petit Samedi Soir 281 (24-30 mars 1979): 29-30.</item>
+        <item>Maule, Didier. « L’Espace d’un roman ». Conjonction 157 (1983): 21-43.</item>
+        <item>Micciollo, Henri. « Modernités dans Bon Dieu rit« . Conjonction 157 (1983): 13-20.</item>
+        <item>—. « Concordances et irréductibilités dans Gouverneurs de la rosée de Jacques Roumain et Bon Dieu rit d’Edris Saint-Amand ». Conjonction 163 (1984): 11-32.</item>
+        <item>Norgaisse, Jean. « L’idéologie et la révolte dans l’œuvre d’Edris Saint-Amand ». College Language Association (CLA) 46.3 (March 2003): 383-407.</item>
+        <item>—. « Discours sur la pauvreté chez Edris Saint-Amand ». Mémoire de DEA à La Sorbonne. Paris, 1995, 85 pages.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/edris-saint-amand-extraits-lus/">Édris Saint-Amand. Le vent de janvier et Bon Dieu rit</item>
+        <item ref="http://web.archive.org/web/20030607134553/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=620">Le Juste et le pervers</item>
+        <item ref="http://homepage.mac.com/chemla/fic_doc/bondieurit.html">Bon Dieu rit</item>
+      </list>
+    </div>
+  </div>
+</TEI>

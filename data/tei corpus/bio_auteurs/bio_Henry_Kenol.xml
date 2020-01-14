@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Henry_Kenol_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,15 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.henry-kenol.38446.html" xml:id="Henry_Kenol_bio_auteur_spla">
-    <p>Né le 29 avril 1973 à Les Saras, un village ferroviaire en pleine foret équatoriale dans le Mayombe au Congo Brazzaville, Hervé KENENE MILONGO, fils de paysans et septième d'une famille de neuf.Ses études au lycée essuyèrent plusieurs échecs notamment avec le Baccalauréat qu'il ne put obtenir à trois reprises. Il intégra le Cercle Littéraire et Artistique Atlantic (CLAA) en 1993. Il obtient un prix du concours de poésie TCHICAYA U TAM'SI en 1994. Fidèle aux muses, il n'écoute que son coeur pour exprimer dans une poésie lucide ses &quot;mots de tous les jours&quot;.En 2003, il publie l'Envol des pleurs aux Editions Souvenir (Bénin). Plusieurs recueils inédits dorment dans ses tiroirs :- L'Aube Stérile, poésie- Complaintes ou Rires d'Amertumes, poésie- Milles regards, poésie- Le Gué de Loukoula, conte- Les Enfants autours, conte.</p>
+    <p>
+      Né le 29 avril 1973 à Les Saras, un village ferroviaire en pleine foret équatoriale dans le Mayombe au 
+      <location ana="Congo">Congo</location>
+       Brazzaville, Hervé KENENE MILONGO, fils de paysans et septième d'une famille de neuf.Ses études au lycée essuyèrent plusieurs échecs notamment avec le Baccalauréat qu'il ne put obtenir à trois reprises. Il intégra le Cercle Littéraire et Artistique Atlantic (CLAA) en 1993. Il obtient un prix du concours de poésie TCHICAYA U TAM'SI en 1994. Fidèle aux muses, il n'écoute que son coeur pour exprimer dans une poésie lucide ses &quot;mots de tous les jours&quot;.En 2003, il publie l'Envol des pleurs aux Editions Souvenir (Bénin). Plusieurs recueils inédits dorment dans ses tiroirs :- L'Aube Stérile, poésie- Complaintes ou Rires d'Amertumes, poésie- Milles regards, poésie- Le Gué de Loukoula, conte- Les Enfants autours, conte.
+    </p>
   </text>
 </TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Felix_Morisseau-Leroy_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Félix Morisseau-Leroy</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/morisolewa/" xml:id="Felix_Morisseau-Leroy_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="nouvelles et contes">
+        <item>Ravinodyab / La Ravine aux diables. (édition bilingue français-créole)  Paris: l’Harmattan, 1982.</item>
+        <item>Kont kreyòl. (« Ravinodyab », « Eminans », « Sen Jan », « Lamizè », « Ri potchanm », « Vilbonè »). Port-au-Prince: Le Natal: 2001.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Antigòn. Port-au-Prince: Deschamps, 1953. Réimprimé avec d’autres textes: Antigone en créole. Diacoute. Natif-natal: un conte en vers. Récolte. Nendeln: Kraus Reprint, 1970.</item>
+        <item>Teyat kreyòl: Antigòn; Wa kreyon; Pèp la; Moun fou; Rara; Anatòl. Port-au-Prince: Libète, 1997.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Diacoute. Port-au-Prince: Deschamps, 1953.</item>
+        <item>Diacoute 2. Montréal: Nouvelle Optique, 1972.</item>
+        <item>Dyakout 1,2,3, ak twa lòt poèm («Sa m-di nan sa, Dépestre», « Yon veye Mòn Èkil pou Jak Aleksi », « Botpipèl »). Miami: Jaden Kreyòl, 1983.</item>
+        <item> Dyakout 1,2,3,4. New York: Haitiana Publications,1990.</item>
+        <item>Plénitudes. Port-au-Prince: Imprimerie Telhomme, 1940. Nendeln: Klaus Reprint, 1973.</item>
+        <item>« La mort d’Anacaono », « Jesse Owens » et « Rythmes ». Gerbe pour deux amis par Roussan Camille, Jean F. Brierre et F. Morrisseau-Leroy. Port-au-Prince: Deschamps, 1945.</item>
+        <item>Kasamansa.  Dakar:  Nouvelles Editions Africaines, 1977.</item>
+      </list>
+      <list subtype="conte">
+        <item>Natif-Natal: un conte en vers. Port-au-Prince: Imprimerie de l’État, 1948; Port-au-Prince: Deschamps, 1999.</item>
+      </list>
+      <list subtype="roman">
+        <item>Récolte. Port-au-Prince: Les Éditions haïtiennes, 1946.</item>
+        <item>Les Djons d’Aïti Tonma. Paris: L’Harmattan, 1996.</item>
+      </list>
+      <list subtype="essais">
+        <item>Le destin des Caraïbes / El destino del Caribe. Port-au-Prince: Imprimerie Telhomme, 1941.</item>
+      </list>
+      <list subtype="in english">
+        <item>Haitiad &amp; Oddities (selected poems). Trad. Jeffrey Knapp. Miami: Pantaléon Guilbaud, 1991.</item>
+        <item>Chamber Pot Road. Trad. Peter Constantine. The Caribbean Writer 11 (1997).</item>
+        <item>Five poems, in Creole with English translations by Jack Hirschman and Boadiba. Open Gate: An Anthology of Haitian Creole Poetry. Laraque, Paul et Jack Hirshman, eds. Willimantic, Connecticut: Curbstone Press, 2001: 2-11.</item>
+      </list>
+      <list subtype="en italiano">
+        <item>Il torrente dei diavoli. (Ravinodyab) (bilingue italiano-creolo)  Trad. Giovanna Bertoli. Ill. Claudio Melotti. Roma: Sinnos, 1997.</item>
+      </list>
+      <list subtype="collections">
+        <item>Antigone en Créole: Diacoute. Natif-natal. Un Conte en vers. Récolte. (fac-similé des éditions de 1953, 1948, 1954, 1946).  Nendeln: Kraus reprint, 1970.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1996     le Prix Carbet de la Caraibe.</item>
+      </list>
+      <list subtype="sur morisseau-leroy">
+        <item>Castera, Georges. « Félix Morisseau-Leroy, poète créole ». Relire l’histoire littéraire et le littéraire haïtiens. Port-au-Prince: Presses Nationales d’Haïti, 2007: 59-72.</item>
+        <item>Charles, Jean-Claude et Jean Métellus, sous la direction de. « Présence d’Haïti avec une pensée pour les 80 ans de Felix Morisseau-Leroy ». Sapriphage (Nanterre) 22 (numéro spécial 1994).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/felix-morisseau-leroy-kristyan-bolye-o/"> Kristyan Bolye o</item>
+        <item ref="http://ile-en-ile.org/aime-cesaire-le-defi-theatral-dans-antigone-de-felix-morisseau-leroy-et-la-tragedie-du-roi-christophe-daime-cesaire/">Le défi théâtral dans Antigone de Félix Morisseau-Leroy et La Tragédie du roi Christophe d’Aimé Césaire</item>
+        <item ref="http://www.webster.edu/~corbetre/haiti-archive/msg00361.html">A short bibliography on the literary works of Felix Morisseau-Leroy</item>
+        <item ref="http://web.archive.org/web/20050305020346/elvir.univ-poitiers.fr/article.php3?id_article=607"> L’espace de la conscience créole</item>
+        <item ref="http://www.thecaribbeanwriter.org/ContrMainFrame.php?volsec=11043">Chamber Pot Road</item>
+      </list>
+    </div>
+  </div>
+</TEI>

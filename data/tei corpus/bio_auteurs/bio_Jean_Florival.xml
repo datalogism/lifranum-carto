@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean_Florival_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jean-florival.14368.html" xml:id="Jean_Florival_bio_auteur_spla">
-    <p>Jean Florival, né en 1930 en Haïti, est journaliste. Il choisit l'exil en 1967 à New York et s'installe au Québec en 1973.</p>
+    <p>
+      Jean Florival, né en 1930 en 
+      <location ana="Haiti">Haïti</location>
+      , est journaliste. Il choisit l'exil en 1967 à 
+      <location ana="New_York">New York</location>
+       et s'installe au 
+      <location ana="Quebec">Québec</location>
+       en 1973.
+    </p>
   </text>
 </TEI>

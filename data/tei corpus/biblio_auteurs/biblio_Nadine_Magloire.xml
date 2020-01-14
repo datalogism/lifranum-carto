@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Nadine_Magloire_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Nadine Magloire</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/magloire_nadine/" xml:id="Nadine_Magloire_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>« From Le Mal de Vivre ». Trad. Christian Dovi Dogbe. Callaloo 15.2 (Spring 1992): 478-480.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le mal de vivre. Port-au-Prince: Éditions du Verseau, 1968.</item>
+        <item>Autopsie in vivo: le sexe mythique. Port-au-Prince: Éditions du Verseau, 1975; Port-au-Prince: Legs Édition, 2014.</item>
+        <item>Autopsie in vivo. Montréal: Éditions du Verseau/CIDHICA, 2009.</item>
+        <item>Autopsie in vivo (la suite). Montréal: Éditions du Verseau/CIDHICA, 2010.</item>
+      </list>
+      <list subtype="entretien">
+        <item>« Entretien avec Nadine Magloire ». Propos recueillis par Nicole Aas-Rouxparis. Elles écrivent des Antilles (Haïti, Guadeloupe, Martinique). Éds. Susanne Rinne et Joëlle Vitiello. Paris: L’Harmattan, 1997: 63-68.</item>
+      </list>
+      <list subtype="sur l’oeuvre de nadine magloire">
+        <item>Aas-Rouxparis, Nicole. « Voix/voies migrantes haïtiennes: Nadine Magloire, de la parole au silence ». Elles écrivent des Antilles (Haïti, Guadeloupe, Martinique). Eds. Susanne Rinne et Joëlle Vitiello. Paris: L’Harmattan, 1997: 53-62.</item>
+        <item>Chancy, Myriam. « Léspoua fè viv: Female Identity and the Politics of Textual Sexuality in Nadine Magloire’s Le mal de vivre and Edwidge Danticat’s Breath, Eyes, Memory ». Framing Silence: Revolutionary Novels by Haitian Women. New Brunswick: Rutgers University Press, 1997: 104-133.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list/>
+    </div>
+  </div>
+</TEI>

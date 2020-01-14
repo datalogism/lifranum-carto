@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Raymond_Chassagne_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Raymond Chassagne</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/chassagne/" xml:id="Raymond_Chassagne_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Mots de passe. Sherbrooke: Naaman, 1976.</item>
+        <item>Incantatoire. Illustrations de Patrick Vilaire. Port-au-Prince: Éditions Regain, 1996.</item>
+        <item>Carnet de bord. Montréal: Mémoire d’encrier, 2004.</item>
+        <item>Éloge du paladin. Montréal: Mémoire d’encrier, 2012.</item>
+      </list>
+      <list subtype="essais">
+        <item>« Les contradictions dans l’œuvre d’Aimé Césaire ». (Mémoire de maîtrise, McGill University, 1973) 1974.</item>
+        <item>« Singularité et rupture idéologique dans l’oeuvre d’Edouard Glissant ». (Thèse de doctorat, Université de Montréal) mai 1979.</item>
+        <item>Le gré de force: (manifeste solitaire). Port-au-Prince: Raymond Chassagne, 1998; Port-au-Prince: Éditions Reed, 1999.</item>
+        <item>Petit manuel du citoyen / Yon ti liv pou tout sitwayen (bilingue), livre didactique vers la formation citoyenne. Port-au-Prince: Raymond Chassagne et Fonds des Droits Humains (Fon Dwa Moun), 1999.</item>
+        <item>L’errance haïtienne, échecs et perspectives. (en préparation).</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Entre glace et corail » (poème). Conjonction 160 (janvier 1984): 79-82.</item>
+        <item>« Contraires et pourtant mêmes » (prose). Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 117-119.</item>
+        <item>De nombreuses publications dans les revues Optique et Conjonction.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Raymond Chassagne: dit par Anthony Phelps. (disque 33 tours, poèmes tirés de Mots de passe) Musique de transition de Claude Dauphin. Montréal: Éditions Naam, 1976.</item>
+        <item>Incantatoire, poèmes dits par: Anthony Phelps et Boris Chassagne. Réalisé par Anthony Phelps; musique d’Oswald Durand. Montréal/Port-au-Prince: Productions Caliban, 2003, PC-115.</item>
+        <item>« Blues à Madame », poème de Raymond Chassagne dit par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/raymond-chassagne-convivialite-blues-a-madame/">Convivialité</item>
+        <item ref="http://ile-en-ile.org/raymond-chassagne-poemes/">Passage, ma forêt noire à toi</item>
+        <item ref="http://ile-en-ile.org/chassagne-postface-de-manes-descollines-de-michel-monnin/">Postface</item>
+        <item ref="http://ile-en-ile.org/raymond-chassagne-presage/">Présage</item>
+        <item ref="http://ile-en-ile.org/trois-poemes-lus-par-raymond-chassagne/">Trois poèmes lus par Raymond Chassagne</item>
+        <item ref="http://web.archive.org/web/20040821092848/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=573">Les mots qui saignent</item>
+        <item ref="http://memoiredencrier.com/raymond-chassagne/">Raymond Chassagne</item>
+      </list>
+    </div>
+  </div>
+</TEI>

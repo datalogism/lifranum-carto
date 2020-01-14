@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Ida_Faubert_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,22 +12,171 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/faubert/" xml:id="Ida_Faubert_bio_auteur_ile_en_ile">
-    <p>Fille unique du président haïtien Lysius Salomon, Ida Salomon Faubert est née à Port-au-Prince le 14 février 1882 et passe sa petite enfance dans le palais présidentiel à Turgeau. Mais en 1888 sa famille s’exile en France, où la jeune fille fera ses études. Après un premier mariage, Ida revient à Port-au-Prince vers 1903 pour épouser André Faubert et donner naissance à une fille, Jacqueline, décédée très jeune, et à un fils, Raoul Faubert, né en 1906. Fleur à peine éclose de l’élite haïtienne, Ida Salomon Faubert brille dans son nouveau milieu. C’est « une grande dame de la haute société de Port-au-Prince » qui, selon Léon Laleau, « allait d’un cocktail à un thé, à une sauterie. Que ce fût à pied, le visage auréolé de son ombrelle aux teintes égayantes et tournantes ; que ce fût dans sa voiture tirée par cet allègre cheval souris qui, à la promener, semblait au comble de la fierté ; toujours sa grâce aduste* et tropicale laissait auprès elle, telle la traîne d’une robe de cour, un long sillage de frémissante admiration » (247).</p>
-    <p>Ida Salomon Faubert devient un personnage éblouissant non seulement dans la vie mondaine de Port-au-Prince mais aussi dans sa vie littéraire. Ayant regagné son pays natal, Ida Faubert se lance dans la renaissance de la littérature haïtienne qui s’annonce au début du vingtième siècle. Elle fait partie de la génération de La Ronde et de la première génération de poétesses haïtiennes. Ses premiers poèmes paraissent en 1912 dans la revue Haïti littéraire et scientifique, dirigée alors par Edmond Laforest, et ils figurent parmi les premiers vers publiés par une femme en Haïti sans la dissimulation d’un nom de plume. En 1913, l’université des Annales couronne la jeune poétesse d’un prix pour son sonnet « Pierre Loti ». Malgré ses succès sociaux et littéraires, Ida Faubert a du mal à s’adapter à l’esprit conservateur de l’élite haïtienne. Le « libéralisme, l’indépendance de caractère d’Ida ont du mal à supporter l’étroitesse des cadres et des idées de sa Patrie », précise la critique Madeleine Gardiner (24).</p>
-    <p>À la recherche d’une liberté personnelle qu’on pourrait qualifier de féministe, Ida Faubert s’établit définitivement à Paris en 1914. Peu après son retour en France elle divorce d’André Faubert et s’installe dans un appartement de la rue Blomet, où les rythmes antillais du Bal Nègre font bouger le quartier entier tous les samedis. Il s’y trouve également les ateliers des artistes surréalistes (qui fréquentent aussi les bals), y compris André Desnos et Juan Miró. Ida Faubert se lance dans la scène littéraire et artistique qui l’entoure. Elle fréquente les galeries et les conférences à la mode, et elle établit son propre salon littéraire où elle reçoit des artistes et des écrivains les jeudis. Ce salon se trouve au carrefour de plusieurs cultures littéraires qui s’entrecroisent à Paris pendant les Années Folles. Membre essentiel du cercle des haïtiens littéraires à Paris, Ida Faubert reçoit les visites de Léon Laleau et de Jean Price-Mars, lequel dédie un chapitre de sa Vocation de l’élite à la poétesse. Elle fréquente également de grands écrivains parisiens, tels que Jean Richepin et Jean Vignaud, et entre dans la coterie des écrivains féministes et lesbiens de la Rive Gauche grâce à ses relations avec Anna de Noailles. Ses poèmes se publient et Haïti et en France pendant cette période. En 1920 Louis Morpeau choisit ses poèmes pour son Anthologie haïtienne de la poésie contemporaine, et ses poèmes paraissent aussi dans Les annales politiques et littéraires, La Gazette de Paris, Le journal du peuple, Lisez-moi Bleu et dans des journaux littéraires italiens. Finalement ses poèmes se réunissent dans le recueil Cœur des îles, publié en 1939 par les Éditions René Debresse, et ce début littéraire lui vaut le prix Jacques Normand de la Société des Gens Lettrés.</p>
-    <p>« La poésie d’Ida Faubert, c’est l’élan passionné du cœur, l’abandon, la langueur… », écrit Christophe Charles dans La poésie féminine haïtienne (27). Le recueil Cœur des îles nous offre trois genres de ce qu’on pourrait appeler « la poésie du cœur ». On y trouve une poésie maternelle, des poèmes mélancoliques écrits à sa fille Jacqueline, morte très jeune (voir « Pour Jacqueline ») ; une poésie musicale, des rondels et chansons dédíés à ses amies ; et une poésie érotique, des sonnets sensuels qui souvent décrivent une scène d’amour dans un jardin tropical, et qui s’adressent souvent à des amant(e)s de sexe ambigu. Prenons l’exemple de son érotisme fleuri et ambigu dans le sonnet « Je voudrais demeurer… » :</p>
+    <p>
+      Fille unique du président haïtien 
+      <persName ana="Lysius_Salomon">Lysius Salomon</persName>
+      , 
+      <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+       est née à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 14 février 1882 et 
+      <location ana="Passe">Passe</location>
+       sa petite enfance dans le palais présidentiel à 
+      <location ana="Turgeau">Turgeau</location>
+      . Mais en 1888 sa famille s’exile en 
+      <location ana="France">France</location>
+      , où la jeune fille fera ses études. Après un premier mariage, Ida revient à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       vers 1903 pour épouser 
+      <persName ana="Andre_Faubert">André Faubert</persName>
+       et donner naissance à une fille, Jacqueline, décédée très jeune, et à un fils, 
+      <persName ana="Raoul_Faubert">Raoul Faubert</persName>
+      , né en 1906. Fleur à peine éclose de l’élite 
+      <location ana="Haitienne">Haïtienne</location>
+      , 
+      <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+       brille dans son nouveau milieu. C’est « une grande dame de la haute société de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       » qui, selon 
+      <persName ana="Leon_Laleau">
+        Léon 
+        <location ana="Laleau">Laleau</location>
+      </persName>
+      , « allait d’un cocktail à un thé, à une sauterie. Que ce fût à pied, le visage auréolé de son ombrelle aux teintes égayantes et tournantes ; que ce fût dans sa voiture tirée par cet allègre cheval souris qui, à la promener, semblait au comble de la fierté ; toujours sa grâce aduste* et tropicale laissait auprès elle, telle la traîne d’une robe de cour, un long sillage de frémissante admiration » (247).
+    </p>
+    <p>
+      <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+       devient un personnage éblouissant non seulement dans la vie mondaine de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       mais aussi dans sa vie littéraire. Ayant regagné son pays natal, 
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+       se lance dans la renaissance de la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       qui s’annonce au début du vingtième siècle. Elle fait partie de la génération de La Ronde et de la première génération de poétesses haïtiennes. Ses premiers poèmes paraissent en 1912 dans la revue 
+      <location ana="Haiti">Haïti</location>
+       littéraire et scientifique, dirigée alors par 
+      <persName ana="Edmond_Laforest">Edmond Laforest</persName>
+      , et ils figurent parmi les premiers vers publiés par une femme en 
+      <location ana="Haiti">Haïti</location>
+       sans la dissimulation d’un nom de plume. En 1913, l’université des Annales couronne la jeune poétesse d’un prix pour son sonnet « 
+      <persName ana="Pierre_Loti">Pierre Loti</persName>
+       ». Malgré ses succès sociaux et littéraires, 
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+       a du mal à s’adapter à l’esprit conservateur de l’élite 
+      <location ana="Haitienne">Haïtienne</location>
+      . Le « libéralisme, l’indépendance de caractère d’Ida ont du mal à supporter l’étroitesse des cadres et des idées de sa Patrie », précise la critique 
+      <persName ana="Madeleine_Gardiner">Madeleine Gardiner</persName>
+       (24).
+    </p>
+    <p>
+      À la recherche d’une liberté personnelle qu’on pourrait qualifier de féministe, 
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+       s’établit définitivement à 
+      <location ana="Paris">Paris</location>
+       en 1914. Peu après son retour en 
+      <location ana="France">France</location>
+       elle divorce d’
+      <persName ana="Andre_Faubert">André Faubert</persName>
+       et s’installe dans un appartement de la rue Blomet, où les rythmes antillais du 
+      <location ana="Bal_Negre">Bal Nègre</location>
+       font bouger le quartier entier tous les samedis. Il s’y trouve également les ateliers des artistes surréalistes (qui fréquentent aussi les bals), y compris 
+      <persName ana="Andre_Desnos">André Desnos</persName>
+       et 
+      <persName ana="Juan_Miro">Juan Miró</persName>
+      . 
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+       se lance dans la scène littéraire et artistique qui l’entoure. Elle fréquente les galeries et les conférences à la mode, et elle établit son propre salon littéraire où elle reçoit des artistes et des écrivains les jeudis. Ce salon se trouve au 
+      <location ana="Carrefour">Carrefour</location>
+       de plusieurs cultures littéraires qui s’entrecroisent à 
+      <location ana="Paris">Paris</location>
+       pendant les Années Folles. Membre essentiel du cercle des 
+      <location ana="Haitiens">Haïtiens</location>
+       littéraires à 
+      <location ana="Paris">Paris</location>
+      , 
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+       reçoit les visites de 
+      <persName ana="Leon_Laleau">
+        Léon 
+        <location ana="Laleau">Laleau</location>
+      </persName>
+       et de 
+      <persName ana="Jean_Price">
+        Jean 
+        <location ana="Price">Price</location>
+      </persName>
+      -
+      <location ana="Mars">Mars</location>
+      , lequel dédie un chapitre de sa Vocation de l’élite à la poétesse. Elle fréquente également de grands écrivains parisiens, tels que 
+      <persName ana="Jean_Richepin">Jean Richepin</persName>
+       et 
+      <persName ana="Jean_Vignaud">Jean Vignaud</persName>
+      , et entre dans la coterie des écrivains féministes et lesbiens de la 
+      <location ana="Rive_Gauche">Rive Gauche</location>
+       grâce à ses relations avec 
+      <persName ana="Anna_De_Noailles">Anna de Noailles</persName>
+      . Ses poèmes se publient et 
+      <location ana="Haiti">Haïti</location>
+       et en 
+      <location ana="France">France</location>
+       pendant cette période. En 1920 
+      <persName ana="Louis_Morpeau">Louis Morpeau</persName>
+       choisit ses poèmes pour son Anthologie 
+      <location ana="Haitienne">Haïtienne</location>
+       de la poésie contemporaine, et ses poèmes paraissent aussi dans Les annales politiques et littéraires, La Gazette de 
+      <location ana="Paris">Paris</location>
+      , Le 
+      <location ana="Journal">Journal</location>
+       du peuple, Lisez-moi Bleu et dans des journaux littéraires italiens. Finalement ses poèmes se réunissent dans le recueil Cœur des îles, publié en 1939 par les Éditions 
+      <persName ana="Rene_Debresse">René Debresse</persName>
+      , et ce début littéraire lui vaut le prix 
+      <persName ana="Jacques_Normand">
+        Jacques 
+        <location ana="Normand">Normand</location>
+      </persName>
+       de la Société des Gens Lettrés.
+    </p>
+    <p>
+      « La poésie d’
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+      , c’est l’élan passionné du cœur, l’abandon, la langueur… », écrit 
+      <persName ana="Christophe_Charles">Christophe Charles</persName>
+       dans La poésie féminine 
+      <location ana="Haitienne">Haïtienne</location>
+       (27). Le recueil Cœur des îles nous offre trois genres de ce qu’on pourrait appeler « la poésie du cœur ». On y trouve une poésie maternelle, des poèmes mélancoliques écrits à sa fille Jacqueline, morte très jeune (voir « Pour Jacqueline ») ; une poésie musicale, des rondels et chansons dédíés à ses amies ; et une poésie érotique, des sonnets sensuels qui souvent décrivent une scène d’amour dans un jardin tropical, et qui s’adressent souvent à des amant(e)s de sexe ambigu. Prenons l’exemple de son érotisme fleuri et ambigu dans le sonnet « Je voudrais demeurer… » :
+    </p>
     <p>Je voudrais demeurer une heure auprès de vous,
 Au jardin merveilleux que mon esprit suppose…
 Le soleil s’éteindrait, là-bas, au couchant rose,
 Et les jasmins s’effeuilleraient sur nos genoux. (Cœur des îles
 33)</p>
-    <p>En 1959, Salomon Faubert publie un recueil de récits, Sous le soleil caraïbe, qui esquisse la vie quotidienne d’Haïti. Elle vivra à Paris jusqu’à sa mort en 1969 (à Joinville-le-Pont), qui donne suite à un hommage respectueux dans les journaux de son pays. Fille d’un président haïtien, elle reste finalement une fille d’Haïti.</p>
-    <p>* aduste (adj.): desséché; brûlé par le soleil.
-Écrit pour Île en île, cette présentation de Natasha Tinsley est reproduite dans l’Anthologie secrète d’Ida Faubert en 2007.</p>
+    <p>
+      En 1959, 
+      <persName ana="Salomon_Faubert">Salomon Faubert</persName>
+       publie un recueil de récits, Sous le soleil 
+      <location ana="Caraibe">Caraïbe</location>
+      , qui esquisse la vie quotidienne d’
+      <location ana="Haiti">Haïti</location>
+      . Elle vivra à 
+      <location ana="Paris">Paris</location>
+       jusqu’à sa mort en 1969 (à 
+      <location ana="Joinville-Le-Pont">Joinville-le-Pont</location>
+      ), qui donne suite à un hommage respectueux dans les journaux de son pays. Fille d’un président haïtien, elle reste finalement une fille d’
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      * aduste (adj.): desséché; brûlé par le soleil.
+Écrit pour Île en île, cette présentation de 
+      <location ana="Natasha">Natasha</location>
+       Tinsley est reproduite dans l’Anthologie secrète d’
+      <persName ana="Ida_Faubert">Ida Faubert</persName>
+       en 2007.
+    </p>
   </text>
 </TEI>

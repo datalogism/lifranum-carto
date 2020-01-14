@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Marc_Leo_Laroche_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Marc_Leo_Laroche.xml"/>
+  <xi:include ref="fiche_auteur_Marc_Leo_Laroche.xml"/>
+</master>

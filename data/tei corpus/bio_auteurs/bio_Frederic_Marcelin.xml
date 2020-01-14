@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Frederic_Marcelin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Biographies deFrédéric Marcelin</title>
+        <title>Biographies deFrederic Marcelin</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,18 +12,42 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text ref="http://ile-en-ile.org/marcelin/" xml:id="Frederic_Marcelin_bio_auteur_ile_en_ile">
-    <p>Frédéric Marcelin est né à Port-au-Prince le 11 janvier 1848.* Il appartient à une famille de commerçants et grandit dans un quartier d’affaires de la capitale. Ses études classiques se font de façon irrégulière. À l’âge de 12 ans, ses parents l’envoient à Paris. Marcelin rentre en Haïti après quatre mois et reprend ses classes à Port-au-Prince, toujours de façon intermittente. Il suit aussi des cours de droit, mais ne s’adonne pas au métier d’avocat.</p>
-    <p>Marcelin entre dans la vie politique en 1867 comme secrétaire à la Légation d’Haïti à Washington. Il occupe ce poste durant deux ans. À son retour à Port-au-Prince, il épouse Elisabeth Pamela Pouille le 13 mai 1872. En 1874, il est élu à la Chambre des députés. Mais à la chute du gouvernement Domingue, il prend refuge à Kingston pour quelques mois. Ensuite, il vit entre Haïti et la France durant quelque temps. Son premier ouvrage, Ducasse Hippolyte, son époque, ses œuvres, est publié au Havre en 1878. C’est l’un des premiers ouvrages haïtiens de critique littéraire.</p>
-    <p>En 1882 Marcelin est de nouveau élu député de Port-au-Prince. À cette époque, il est membre du parti national. En 1887, sous le titre La Politique, Marcelin réunit les articles écrits et discours prononcés durant son second mandat. De 1892 à 1894, sous le président Hippolyte, Marcelin dirige le département des Finances.</p>
-    <p>Il se retire ensuite en France. Il y passe près de dix ans et y publie plusieurs ouvrages, y compris ses trois romans Thémistocle Epaminondas Labasterre, La Vengeance de Mama et Marilisse dans l’espace de trois ans. Si les écrits de Marcelin sont très appréciés en France, ses deux premiers romans sont très critiqués en Haïti par ses contemporains, surtout par Georges Sylvain et Dantès Bellegarde qui avancent que Marcelin présente seulement les défauts de la société haïtienne. Marcelin répond à leurs reproches avec Autour de deux romans en 1903. Il y fait appel à la presse française où l’on trouve plusieurs critiques favorables de ses romans. Il rentre en Haïti en novembre 1903.</p>
-    <p>En 1905, Marcelin fond la revue Haïti littéraire et sociale. De 1905 à 1908, il est encore à la tête du département des finances, cette fois-ci sous la présidence de Nord Alexis. Après la chute du gouvernement Alexis en 1908, Marcelin part de nouveau pour la France où il écrit et publie ses dernières œuvres. Il meurt à Paris en 1917 où il est enterré.</p>
-    <p>Léon-François Hoffmann affirme que « Frédéric Marcelin est le plus prolifique en date des écrivains haïtiens, avec à son actif vingt-huit volumes parus entre 1878 et 1915 » (Littérature d’Haïti 128), mais il faut noter que sa production est surtout technique. En fait, bien qu’il soit connu comme l’un des romanciers nationaux, Marcelin a écrit principalement des ouvrages traitant de la finance, du monde du commerce et de celui de la politique. Même ses romans évoquent surtout le milieu politique haïtien.</p>
-    <p>Le rôle du professeur français Hodelin dans Thémistocle Epaminondas Labasterre a été maintes fois analysé. Plusieurs critiques voient dans le professeur le porte-parole de Marcelin. Après la mort du père du héros, Hodelin joue un rôle paternel auprès de ce dernier et lui tient un discours paternaliste et condescendant. Ce personnage français est au centre des critiques adressées à Marcelin pour son premier roman. La critique Yvette Tardieu Feldman voit chez Marcelin le premier romancier féministe de la Caraïbe pour sa représentation de femmes fortes, tandis que Berrou et Pompilus trouvent que Zulma, l’héroïne de La Vengeance de Mama, ne ressemble pas aux femmes haïtiennes. L’œuvre fictive de Marcelin, bien qu’elle ne soit pas abondante a donc suscité d’importants débats littéraires. Quant à son style, il est assez familier, parfois ironique, humoristique et contient bon nombre de mots et d’expressions créoles.</p>
-    <p>* Marcelin est né soit en 1848, soit en 1850, voir Berrou et Pompilus.</p>
+  <text ref="http://www.spla.pro/fiche.personne.frederic-marcelin.35109.html" xml:id="Frederic_Marcelin_bio_auteur_spla">
+    <p>
+      <persName ana="Frederic_Marcelin">Frédéric Marcelin</persName>
+       est né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 11 janvier 1848.* Il appartient à une famille de commerçants et grandit dans un quartier d'affaires de la capitale. Ses études classiques se font de façon irrégulière. À l'âge de 12 ans, ses parents l'envoient à 
+      <location ana="Paris">Paris</location>
+      . Marcelin rentre en 
+      <location ana="Haiti">Haïti</location>
+       après quatre mois et reprend ses classes à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , toujours de façon intermittente. Il suit aussi des cours de droit, mais ne s'adonne pas au métier d'avocat.Marcelin entre dans la vie politique en 1867 comme secrétaire à la Légation d'
+      <location ana="Haiti">Haïti</location>
+       à 
+      <location ana="Washington">Washington</location>
+      . Il occupe ce poste durant deux ans. À son retour à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , il épouse Elisabeth Pamela Pouille le 13 mai 1872. En 1874, il est élu à la Chambre des députés. Mais à la chute 
+      <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+       Domingue, il prend refuge à 
+      <location ana="Kingston">Kingston</location>
+       pour quelques mois. Ensuite, il vit entre 
+      <location ana="Haiti">Haïti</location>
+       et 
+      <location ana="La_France">la France</location>
+       durant quelque temps. Son premier ouvrage, 
+      <persName ana="Ducasse_Hippolyte">Ducasse Hippolyte</persName>
+      , son époque, ses œuvres, est publié au 
+      <location ana="Havre">Havre</location>
+       en 1878. C'est l'un des premiers ouvrages 
+      <location ana="Haitiens">Haïtiens</location>
+       de critique littéraire (...)Lire l'intégralité de la biographie sur [http://www.lehman.cuny.edu/ile.en.ile] 
+    </p>
   </text>
 </TEI>

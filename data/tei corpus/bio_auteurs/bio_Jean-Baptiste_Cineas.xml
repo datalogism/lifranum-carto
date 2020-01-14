@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jean-Baptiste_Cineas_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,25 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jean-baptiste-cineas.35089.html" xml:id="Jean-Baptiste_Cineas_bio_auteur_spla">
-    <p>Jean-Baptiste Cinéas, (1895 - 1958), avocat, juriste, juge et romancier haïtien.Jean-Baptiste Cinéas est né à Cap-Haïtien. Il suit des études supérieures de droit. Il débute une carrière judiciaire. Il se tourne vers la littérature et devient romancier.</p>
+    <p>
+      Jean-
+      <persName ana="Baptiste_Cineas">
+        <location ana="Baptiste">Baptiste</location>
+         
+        <location ana="Cineas">Cinéas</location>
+      </persName>
+      , (1895 - 1958), avocat, juriste, juge et romancier haïtien.Jean-
+      <persName ana="Baptiste_Cineas">
+        <location ana="Baptiste">Baptiste</location>
+         
+        <location ana="Cineas">Cinéas</location>
+      </persName>
+       est né à Cap-Haïtien. Il suit des études supérieures de droit. Il débute une carrière judiciaire. Il se tourne vers la littérature et devient romancier.
+    </p>
   </text>
 </TEI>

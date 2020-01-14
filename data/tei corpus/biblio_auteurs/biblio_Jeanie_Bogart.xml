@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jeanie_Bogart_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jeanie Bogart</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Un jour… Tes pantoufles. Montréal: Paroles, 2008, 48 p.</item>
+        <item>Paradoxe. Montréal: Dédicace, 2011, 72  p.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Éloge de l’Interlocuteur : Esthetiques sur la psychologie des poetes et ecrivains: Dialogues avec Saint-John Kauss. Montreuil: Joseph Ouaknine, 2011, 140 p.</item>
+      </list>
+      <list subtype="poésie publiée dans des ouvrages collectifs">
+        <item>« A la foli », « Le temps du silence » et « Un jour… Tes pantoufles ». La Poésie Haïtienne Contemporaine. Bruxelles: La Maison de la Poésie, 2007.</item>
+        <item>« Mon meurtre ». Plaisir de la poésie, plaisir des mots. Bordeaux: Les Dossiers d’Aquitaine, 2007: 51.</item>
+        <item>« L’âme vagabonde », « Pour nous » et « Lorsque le froid mord ». Passerelle (Montréal) 1.4 (2008): 22-25.</item>
+        <item>« Lorsque le froid mord ». Poésie du Monde, Monde de la Poésie. Bordeaux: Les Dossiers d’Aquitaine, 2008: 75.</item>
+      </list>
+      <list subtype="discographie">
+        <item> Lettres d’automne / Tanlapli. Montréal: Paroles, 2007. Textes de Franz Benjamin, avec les voix de Franz Benjamin, Jeanie Bogart et Emeline Michel, avec Oswald Durand Jr. (guitare et flûte) et Jean-Claude Julien (clavier et percussions). Disque compact.</item>
+        <item>Dènye Rèl, disque de poésie (CD), New York: Encre de Chine, 2007. Textes de Jeanie Bogart, avec les voix de Jeanie Bogart, André Fouad, John Steve Brunache et BIC, avec Marc Mathelier (guitare). Disque compact.</item>
+        <item> Chimen Souvni’m. Miami: Je Dis Culture/ Gold Choice Production, 2008. Textes de André Fouad, avec les voix de André Fouad, Jeanie Bogart, Tanisha Pluviose Ade et Erol Josué, avec Dadou Pasquet(guitare). Disque compact.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jeanie-bogart-a-la-foli/">A la foli</item>
+        <item ref="http://ile-en-ile.org/jeanie-bogart-trois-poems/">Jeanie Bogart reads « Le cri » and other poems</item>
+        <item ref="http://fr.netlog.com/jeaniebj">Jeanie Bogart</item>
+        <item ref="http://www.potomitan.info/kauss/eloge.php">Éloge de l’interlocuteur</item>
+        <item ref="http://www.potomitan.info/ayiti/bogart/index.php">Jeanie Bogart Jourdain</item>
+        <item ref="http://lavilledescayes.com/index.php/component/content/article/48-ecrivain/166-jeanie-bogart?directory=138">Jeanie Bogart</item>
+        <item ref="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=448">Jeanie Bogart</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46758">John Steve Brunache se dit prêt à recommencer…</item>
+        <item ref="http://www.lulu.com/product/couverture-souple/paradoxe/16810499?showPreview">Paradoxe</item>
+        <item ref="http://www.csmsmagazine.org/">CSMS Magazine</item>
+        <item ref="http://csmsmagazine.org/?p=1912">Un hommage à Maurice Sixto</item>
+        <item ref="http://csmsmagazine.org/?p=1872">Le jeu de mots de Franz Benjamin</item>
+        <item ref="http://csmsmagazine.org/?p=1846">Plaies intérimaires</item>
+        <item ref="http://csmsmagazine.org/?p=1841">John Steve Brunache revient tout feu tout flamme</item>
+        <item ref="http://csmsmagazine.org/?p=1665">La première école publique franco-américaine bientôt à New York</item>
+        <item ref="http://csmsmagazine.org/?p=1622">Les ruminations de Lenous Suprice</item>
+        <item ref="http://csmsmagazine.org/?p=111">Yon Langay pou rakonte lanmou</item>
+        <item ref="http://csmsmagazine.org/?p=1440">Rencontre avec Jeanie Bogart</item>
+        <item ref="http://csmsmagazine.org/?p=314">Un Jour Tes Pantoufles: An intriguing collection of poetry</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=64043">L’amour et les mots</item>
+        <item ref="http://waybackmachine.org/*/http://www.lematinhaiti.com/Journal/34015.pdf">Un jour… Tes pantoufles</item>
+        <item ref="http://www.lenouvelliste.com/articles.print/1/65913">Une gerbe d’amour pour les opprimés</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=68769">Robenson Bernard écrit à la poétesse Jeanie Bogart</item>
+        <item ref="http://csmsmagazine.org/?p=296">Dènye Rèl: A holiday treat from Jeanie Bogart</item>
+      </list>
+    </div>
+  </div>
+</TEI>

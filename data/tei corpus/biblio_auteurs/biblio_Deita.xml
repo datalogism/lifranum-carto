@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Deita_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,51 +12,53 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/deita/" xml:id="Deita_biblio_auteur_ile_en_ile">
-    <list subtype="sur île en île">
-      <item ref="http://ile-en-ile.org/deita-retour-a-lile-heureuse/">Retour à l’île heureuse : hommage posthume à Déita</item>
-      <item ref="http://ile-en-ile.org/deita-legende-des-loa/"> Déita, La légende des loa du vodou haïtien</item>
-      <item ref="http://ile-en-ile.org/kiskeya-deita/">Kiskeya, l’île mystérieuse</item>
-    </list>
-    <list subtype="ailleurs sur le web">
-      <item ref="http://kreyol.org/ekriven/deyita/deyita.php">Mercedes Foucard Guignard [Deyita]</item>
-    </list>
-    <list subtype="romans">
-      <item>Les désespérés. Port-au-Prince, à compte d’auteur, 1964.</item>
-      <item>Esperans Dezire, roman créole. Port-au-Prince: Deschamps, 1989.</item>
-    </list>
-    <list subtype="essais">
-      <item>La légende des loa du vodou haïtien. Port-au-Prince: Déita, 1993.</item>
-      <item>Objets au quotidien (art et culture populaire en Haïti). Port-au-Prince: Éditions Conjonction (Institut Français d’Haïti), 1993.</item>
-      <item>Mon pays inconnu (2 tomes, le 2e porte le titre, Verte campagne, vodou et mythologie, les sociétés secrètes). Port-au-Prince: L’Imprimeur II, 1997-2000.</item>
-      <item>Répertoire pratique des loas du vodou haïtien. Port-au-Prince: Remee Art Publishing, 2006.</item>
-    </list>
-    <list subtype="poésie">
-      <item>Majòdyòl (Deita lan majòdyòl). Cambria Heights, New York: Direktris Word Processing Center, 1981.</item>
-    </list>
-    <list subtype="théâtre">
-      <item>Filibé. s.l., s.n. 1979.</item>
-      <item>Nanchon, ethnodrame (en créole). Port-au-Prince, à compte d’auteur, 1986.</item>
-    </list>
-    <list subtype="contes et proverbes">
-      <item>Contes des jardins du pays de Ti Toma. Tome 1. Port-au-Prince: L’Imprimeur II, 1989.</item>
-      <item>Kont nan jaden peyi Titoma. Port-au-Prince: L’Imprimeur II, 1991. (version créole du précédent)
+    <div subtype="livres">
+      <list subtype="romans">
+        <item>Les désespérés. Port-au-Prince, à compte d’auteur, 1964.</item>
+        <item>Esperans Dezire, roman créole. Port-au-Prince: Deschamps, 1989.</item>
+      </list>
+      <list subtype="essais">
+        <item>La légende des loa du vodou haïtien. Port-au-Prince: Déita, 1993.</item>
+        <item>Objets au quotidien (art et culture populaire en Haïti). Port-au-Prince: Éditions Conjonction (Institut Français d’Haïti), 1993.</item>
+        <item>Mon pays inconnu (2 tomes, le 2e porte le titre, Verte campagne, vodou et mythologie, les sociétés secrètes). Port-au-Prince: L’Imprimeur II, 1997-2000.</item>
+        <item>Répertoire pratique des loas du vodou haïtien. Port-au-Prince: Remee Art Publishing, 2006.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Majòdyòl (Deita lan majòdyòl). Cambria Heights, New York: Direktris Word Processing Center, 1981.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Filibé. s.l., s.n. 1979.</item>
+        <item>Nanchon, ethnodrame (en créole). Port-au-Prince, à compte d’auteur, 1986.</item>
+      </list>
+      <list subtype="contes et proverbes">
+        <item>Contes des jardins du pays de Ti Toma. Tome 1. Port-au-Prince: L’Imprimeur II, 1989.</item>
+        <item>Kont nan jaden peyi Titoma. Port-au-Prince: L’Imprimeur II, 1991. (version créole du précédent)
 Oun pwason wouj koudife ; Malis ak bèf nonk bouki a ; Konpè chen ak konpè chat ; Dènye priyè konpè chen ; Zwazo Leman ; Dede gran bwa ; Ay flit an mwen; Sentitabatyè ; Lè ou antre ou pa sòti ; Pou senk grenn mango ; Altès youn chikat ; Papa a, pitit fi ak chen baka a ; Bouki, Malis ak yon nich ze ; Yon nèg yo te rele Boule ; Mès solanèl pou rat ; Nat la tande ; Sanmangale ; Toulejou se klarinèt ; Nonk Bouki ak konpè pijon ; Yo to de bon zanmi ; Mwen di jou pap louvri ; Pye la tanyen vyendonk ; Sona ! Sone ! Basen Bolodjo ; Chandelye chen papa Bondye ; Adelin bèl pase Lalin ; Topinandlo ; Oun pye piman ; Payo kw ; Jipon pitit fiw la ; Youn tòti ki rele kandjo ; Pretandi ; Pèdri ak malfini.
 </item>
-      <item>Contes des jardins du pays de Ti Toma. Tome 2. Port-au-Prince: L’Imprimeur II, 2003.</item>
-      <item>Lilerèz : kont = L’île heureuse, conte. Port-au-Prince: Déita, 2007.</item>
-      <item>Les Proverbes de mon pays Haïti Toma. Port-au-Prince: Remee Art Publishing, 2012.</item>
-    </list>
-    <list subtype="texte dans un ouvrage collectif">
-      <item>« Les sociétés secrètes ». Haïti, la voie de nos silences : créativité… complexité… diversité : 117 femmes haïtiennes écrivent, recherches et compilations présentées par Marie-Alice Théard. 4 tomes. Port-au-Prince: Éditions Théard, 1998, Tome 2: 30-35.</item>
-    </list>
-    <list subtype="filmographie">
-      <item>« Danse haïtienne: histoire et tradition », conférence du 1er avril 1997 par Mercedes Guignard, « Déïta », filmé à Port-au-Prince par Timothy Lindop. 1998, 37 minutes.</item>
-      <item>Voir aussi les liens ci-dessous.</item>
-    </list>
+        <item>Contes des jardins du pays de Ti Toma. Tome 2. Port-au-Prince: L’Imprimeur II, 2003.</item>
+        <item>Lilerèz : kont = L’île heureuse, conte. Port-au-Prince: Déita, 2007.</item>
+        <item>Les Proverbes de mon pays Haïti Toma. Port-au-Prince: Remee Art Publishing, 2012.</item>
+      </list>
+      <list subtype="texte dans un ouvrage collectif">
+        <item>« Les sociétés secrètes ». Haïti, la voie de nos silences : créativité… complexité… diversité : 117 femmes haïtiennes écrivent, recherches et compilations présentées par Marie-Alice Théard. 4 tomes. Port-au-Prince: Éditions Théard, 1998, Tome 2: 30-35.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>« Danse haïtienne: histoire et tradition », conférence du 1er avril 1997 par Mercedes Guignard, « Déïta », filmé à Port-au-Prince par Timothy Lindop. 1998, 37 minutes.</item>
+        <item>Voir aussi les liens ci-dessous.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/deita-retour-a-lile-heureuse/">Retour à l’île heureuse : hommage posthume à Déita</item>
+        <item ref="http://ile-en-ile.org/deita-legende-des-loa/"> Déita, La légende des loa du vodou haïtien</item>
+        <item ref="http://ile-en-ile.org/kiskeya-deita/">Kiskeya, l’île mystérieuse</item>
+        <item ref="http://kreyol.org/ekriven/deyita/deyita.php">Mercedes Foucard Guignard [Deyita]</item>
+      </list>
+    </div>
   </div>
 </TEI>

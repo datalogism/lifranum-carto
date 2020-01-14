@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Dany_Laferriere_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Dany Laferrière</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Dany_Laferriere">
+        <surname source="bnf">Dany</surname>
+        <forename source="bnf">Laferrière</forename>
+        <idno type="BNF">
+          cb12096478s#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb12096478s#about"/>
+        </idno>
+        <idno type="VIAF">
+          87061403
+          <g ref="http://viaf.org/viaf/87061403"/>
+        </idno>
+        <idno type="VIAF">
+          Dany_Laferrière
+          <g ref="http://fr.dbpedia.org/resource/Dany_Laferrière"/>
+        </idno>
+        <birth source="viaf">
+          <date>1953-04-13</date>
+        </birth>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="viaf">authors black</profession>
+        <profession source="viaf">poetas</profession>
+        <profession source="viaf">periodistas</profession>
+        <profession source="viaf">novelists</profession>
+        <profession source="viaf">novelistas</profession>
+        <profession source="viaf">journalists</profession>
+        <profession source="viaf">guionistas</profession>
+        <profession source="viaf">escritores</profession>
+        <profession source="viaf">authors</profession>
+        <profession source="spla">Réalisateur/trice, Ecrivain/ne, Scénariste</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

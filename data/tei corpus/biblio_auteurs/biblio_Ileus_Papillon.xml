@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Ileus_Papillon_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Iléus Papillon</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/papillon_ileus/" xml:id="Ileus_Papillon_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Dans la prison de ton corps. Port-au-Prince: Imprimerie Vilsin, 2009.</item>
+        <item>Tessons de vers. Port-au-Prince: Éditions Bois d’Orme, 2010; 2e édition modifiée: Port-au-Prince: Presses Nationales d’Haïti, 2012.</item>
+        <item>Tribòbabò. Pòtoprens: Près Nasyonal d’Ayiti, 2012.</item>
+      </list>
+      <list subtype="textes publiés dans la presse et dans des ouvrages collectifs">
+        <item>« Ma ville en accent grave », extrait paru dans Le Nouvelliste (2009).</item>
+        <item>« Le poète Iléus Papillon vous invite… ». Guide des consommateurs, Média-Texte, novembre 2010.</item>
+        <item>« Biographie yon powèt, Iléus Papillon ». Haïti en Marche (novembre 2011).</item>
+        <item>Iléus Papillon, dans 135 poètes créoles d’Haïti. Christophe Charles, éd. Port-au-Prince: Choucoune, 2011.</item>
+        <item>« Temps de parole », publié par l’Atelier du Jeudi soir dans Le Nouvelliste (février 2012).</item>
+        <item>« Maux-de-passe ». RaLM (février 2012): 167-178.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Quand les vagins s’adressent aux étudiants ». Le Nouvelliste (novembre 2011).</item>
+        <item>« Dans Tach Solèy le poète Clément Benoit II se détache ». Haïti Press Network (décembre 2011).</item>
+        <item>« Une Université « dominicaine » dans le Nord historique d’Haïti. Campus Roi Henry Christophe de l’Université d’État d’Haïti : Affront à la Nation haïtienne ». Revue L’Indigène (février 2012) et Tribune (avril 2012).</item>
+      </list>
+      <list subtype="entretiens sélectionnés">
+        <item>Invité pour Dans la prison de ton corps, par Marc Exavier sur la radio Solidarité, 2009.</item>
+        <item>MatMag, Télévision nationale d’Haïti, 2009.</item>
+        <item>Vente signature de Tessons de vers au Ministère de la Culture, Télévision nationale d’Haïti, décembre 2010.</item>
+        <item>Discussion autour de Tessons de vers pour Orisma sur Radio Télé Zénith FM, 2010.</item>
+        <item>Invité par Dominique Batraville pour Tessons de vers à la radio Mélodie FM, en 2010 et 2011.</item>
+        <item>Lecture des extraits de Tessons de vers sur l’émission de Holly One G., « Saveur tropicale » sur Radio Tropic FM, novembre et décembre 2010.</item>
+        <item>Présentation de Tessons de vers, Canal Musical sur Radio Caraïbes, Marc Anderson Bréguard, juin 2011.</item>
+        <item>Antennes Jeunes, Radio Maxima du Cap-Haïtien avec Judith S. Bolivar, septembre 2011.</item>
+        <item>Invité sur l’emission : « Kilti pa nou » avec Jean Robert Bellarmin, Radio Centre Ville de Montréal, novembre 2011.</item>
+        <item>Invité du jour sur Radio Vision 2000, 19 janvier 2012.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2009     Lauréat de la première édition du concours de poésie « Ronde des talents », Pastorale Universitaire de Port-au-Prince.</item>
+        <item>2011     Participation à la 17e édition de Livres en Folie, Port-au-Prince, avec Tessons de vers.</item>
+        <item>2011     Membre du Jury de la première édition du Prix Youkens Leroy, Pastorale Universitaire de Port-au-Prince.</item>
+        <item>2012     Lauréat (3e place) du Concours organisé lors du 35e anniversaire de la Radio Nationale d’Haïti, avril 2012.</item>
+        <item>2012     Participation à la 18e édition de Livres en Folie, Port-au-Prince, avec Tessons de rêves et Tribòbabò.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/ileus-papillon-selection-de-poesie/">Sélection de poésie</item>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+        <item ref="http://www.lenouvelliste.com/article4.php?newsid=93125">Tessons de vers, une poésie humaine</item>
+        <item ref="http://www.lenouvelliste.com/article4.php?newsid=108647">Iléus Papillon, le poète qui fait le choix d’une poésie à la fois intense et sensuelle</item>
+        <item ref="http://www.touthaiti.com/culture-loisirs/nos-talents/958-qui-est-ileus-papillon">Qui est Iléus Papillon ?</item>
+      </list>
+    </div>
+  </div>
+</TEI>

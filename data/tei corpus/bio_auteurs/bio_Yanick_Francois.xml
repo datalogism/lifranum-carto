@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Yanick_Francois_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,35 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.yanick-francois.39630.html" xml:id="Yanick_Francois_bio_auteur_spla">
-    <p>Yanick François est née à Port-au-prince Haïti, le 15 mai. Elle parcourt ses cycles d'études primaires et secondaires à l'institution du Sacré-cœur de Turgeau, dirigée par les Filles de la Sagesse. En 1968, le premier prix de Littérature lui est décerné par le ministère de l'Éducation Nationale pour son essai sur la Création du Drapeau Haïtien. Après 1969, elle entame concomitamment ses études de Droit et de Nursing. Elle professe dans le domaine de la Santé en Haïti, au Canada et aux États-Unis d'Amérique. À l'Université de Montréal, elle décroche ses diplômes en Sciences Administratives de Santé. Elle revient au pays en 1986, à la direction des soins infirmiers de la Fondation Haïtienne d'Assistance Sociale, puis à la direction administrative de l'École Nationale des Infirmières de Port-au-Prince.Au cours des ans, Yanick a maintenu ses attaches au cordon des muses. Écrivain et poète, elle continue à produire plusieurs textes littéraires inédits. Ce n'est qu'a la fin de 2010 que l'opportunité s'offre et qu'elle a la possibilité de publier son premier recueil de poèmes intitulé : TOURTERELLES DES CÉPAGES D'ORGEAT. Au début de l'année 2012, elle publie son premier roman : LA GUEUSE, ainsi que son deuxième recueil de poèmes, TRANSES D'ORCHIDÉES.Yanick François nous confie qu'il y a aussi des temps où la muse nous imprègne des vibrations de l'irréel, du sursis des amants du Parnasse et des vestales, pour concocter les rêves de l'exquis.. Si elle aborde plusieurs thèmes de sa culture poétique, il n'en demeure pas moins qu'elle a touché, avec délicatesse, aux douces couleurs de l'érotisme féminin.</p>
+    <p>
+      Yanick François est née à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       
+      <location ana="Haiti">Haïti</location>
+      , le 15 mai. Elle parcourt ses cycles d'études primaires et secondaires à l'institution du Sacré-cœur de 
+      <location ana="Turgeau">Turgeau</location>
+      , dirigée par les Filles de la Sagesse. En 1968, le premier prix de Littérature lui est décerné par le ministère de l'Éducation Nationale pour son essai sur la Création du Drapeau Haïtien. Après 1969, elle entame concomitamment ses études de Droit et de Nursing. Elle professe dans le domaine de la Santé en 
+      <location ana="Haiti">Haïti</location>
+      , au 
+      <location ana="Canada">Canada</location>
+       et aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       d'
+      <location ana="Amerique">Amérique</location>
+      . À l'Université de 
+      <location ana="Montreal">Montréal</location>
+      , elle décroche ses diplômes en Sciences Administratives de Santé. Elle revient au pays en 1986, à la direction des soins infirmiers de la Fondation 
+      <location ana="Haitienne">Haïtienne</location>
+       d'Assistance Sociale, puis à la direction administrative de l'École Nationale des Infirmières de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      .Au cours des ans, Yanick a maintenu ses attaches au cordon des muses. Écrivain et poète, elle continue à produire plusieurs textes littéraires inédits. Ce n'est qu'a la fin de 2010 que l'opportunité s'offre et qu'elle a la possibilité de publier son premier recueil de poèmes intitulé : TOURTERELLES DES CÉPAGES D'ORGEAT. Au début de l'année 2012, elle publie son premier roman : LA GUEUSE, ainsi que son deuxième recueil de poèmes, TRANSES D'ORCHIDÉES.Yanick François nous confie qu'il y a aussi des temps où la 
+      <location ana="Muse">Muse</location>
+       nous imprègne des vibrations de l'irréel, du sursis des amants du Parnasse et des vestales, pour concocter les rêves de l'exquis.. Si elle aborde plusieurs thèmes de sa culture poétique, il n'en demeure pas moins qu'elle a touché, avec délicatesse, aux douces couleurs de l'érotisme féminin.
+    </p>
   </text>
 </TEI>

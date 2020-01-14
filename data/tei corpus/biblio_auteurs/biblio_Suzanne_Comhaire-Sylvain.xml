@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Suzanne_Comhaire-Sylvain_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Suzanne Comhaire-Sylvain</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/comhaire-sylvain/" xml:id="Suzanne_Comhaire-Sylvain_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>Creole Tales from Haiti. (bilingual Creole-English)  New York: American Folklore Association, 1937-1938, 2 Vols.</item>
+      </list>
+      <list subtype="essais">
+        <item>Le créole haïtien : morphologie et syntaxe. Port-au-Prince: Caravelle, 1936. Genève: Slatkine Reprints, 1979.</item>
+        <item>Les contes haïtiens, origine immédiate et extension en Amérique. Port-au-Prince: Caravelle, 1937, 2 vols.</item>
+        <item>Contes du pays d’Haïti. Port-au-Prince: Caravelle, 1938.</item>
+        <item>À propos du vocabulaire des croyances paysannes. Port-au-Prince: Caravelle, 1938.</item>
+        <item>Le roman de Bouqui. (couverture de V. Pierre-Noël et 13 dessins originaux de l’auteur). Port-au-Prince: Caravelle, 1940; Montréal: Leméac, 1973.</item>
+        <item>Food and Leisure among the African Youth of Léopoldville, Belgian Congo. Rondebosch: University of Cape Town, 1950.</item>
+        <item>Femmes de Kinshasa, hier et aujourd’hui. Paris/La Haye: Mouton, 1968.</item>
+        <item>Qui mange avec une femme : Contes zaïrois et haïtiens. Bandundu, Zaïre: Ceeba, 1973.</item>
+        <item>Jetons nos couteaux. Contes de garçonnets de Kinshasa avec parallèles haïtiens. Bandundu: Ceeba, 1974.</item>
+        <item>Femmes de Lomé. Bandundu: Ceeba, 1982.</item>
+        <item> Les montagnards de la région de Kenscoff (Rép. d’Haïti) : une société Kongo au-delà des mers. (introduction et notes de Jean Comhaire). Bandundu, Zaïre: Ceeba, 1984.</item>
+      </list>
+      <list subtype="ouvrages collectifs">
+        <item>« Folk Songs and Stories of the Americas ». Pan American Union Bulletin (February 1937); Reprint: Washington, D.C., Pan American Union, 1943, 64 pp.</item>
+        <item>L’homme et la terre dans la vallée de Marbial (Making a living in the Marbial Valley, Haïti).  (by Alfred Métraux, in collaboration with E. Berrouet and Dr. and Mrs. Jean Comhaire-Sylvain.) Paris: Unesco, 1951.</item>
+        <item>Haitian Creole: grammar, texts, vocabulary. (by Robert A. Hall, Jr., with the collaboration of Suzanne Comhaire-Sylvain, H. Ormonde McConnell and Alfred Métraux.) Philadelphia: American Anthropological Association, 1953.</item>
+        <item>Le nouveau dossier Afrique : situation et perspectives d’un continent. (de Suzanne et Jean Comhaire-Sylvain, avec la collaboration de Fernand Bézy, Francis Olu Okediji et Pierre L. Van den Berghe). Verviers: Gérard, 1971. Nouvelle édition revue et mise à jour: Verviers: Marabout, 1975.</item>
+      </list>
+      <list subtype="sur suzanne comhaire-sylvain">
+        <item>Gyssels Kathleen. « « Trésors de veillées » : les contes haïtiens recueillis par Suzanne Comhaire-Sylvain ».  Gradhiva 1 (2005): 243-248.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jean-comhaire-hommage-a-ma-femme/">Hommage à ma femme</item>
+        <item ref="http://ile-en-ile.org/suzanne-comhaire-sylvain-lettres/">Lettres à Suzanne Comhaire-Sylvain</item>
+        <item ref="http://www.jasminenarcisse.com/memoire/04_victoire/04_suzanne.html">Suzanne Comhaire-Sylvain</item>
+        <item ref="http://www.ceeba.at/soc/soc_femmes_de_Lome.htm">Femmes de Lomé</item>
+      </list>
+    </div>
+  </div>
+</TEI>

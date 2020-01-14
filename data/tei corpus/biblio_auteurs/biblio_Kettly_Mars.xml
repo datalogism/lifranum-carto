@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Kettly_Mars_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Kettly Mars</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/mars/" xml:id="Kettly_Mars_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="en danois">
+        <item>« Lobo » (nouvelle). Rosita (Noveller og digte fra Haiti = compilation de nouvelles haïtiennes). Trad. Ingegerd Nissen Petersen. Copenhagen: Udgivelsesdato, 2002.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Fado. Trad. Antje Tennstedt. Trier (Trèves, Allemagne): Litradukt, 2010.</item>
+        <item>Wilde Zeiten. Trad. Ingeborg Schmutte. Trier: Litradukt, 2012.</item>
+        <item>Vor dem Verdursten. Trad. Ingeborg Schmutte. Trier: Litradukt, 2013.</item>
+        <item>Ich bin am Leben. Trad. Ingeborg Schmutte. Trier: Litradukt, 2015.</item>
+        <item>Die zwielichtige Stunde. Trad. Ingeborg Schmutte. Trier: Litradukt, 2018.</item>
+      </list>
+      <list subtype="in english">
+        <item>From Kasalé (chapters 1 and 9), excerpts translated by Jeanine Herman. Bomb magazine 90 (Winter 2004-2005): 100-103.</item>
+        <item>« Paradise Inn ». Trans. David Ball. Haiti Noir. Edwidge Danticat, éd. New York: Akashic, 2011: 50-70.</item>
+        <item>Savage Seasons. Trans. Jeanine Herman. Lincoln: U. of Nebraska, 2015.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>L’Ora ibrida.Trad. Paola Ghinelli. Milano: Epoché edizioni, 2007.</item>
+      </list>
+      <list subtype="en japonais">
+        <item>« Anna et la mer » et « Les pigeons romains » (nouvelles). Recueil de nouvelles haïtiennes. Tokyo: Kokusho-Kankokai, 2003.</item>
+      </list>
+      <list subtype="in het nederlands">
+        <item>Wrede seizoenen. Trad. Marianne Kaas. Breda: De Geus, 2011.</item>
+      </list>
+      <list subtype="romans">
+        <item>Kasalé. Port-au-Prince: Imprimeur II, 2003; La Roque d’Anthéron (France): Vents d’Ailleurs, 2007.</item>
+        <item>L’heure hybride. La Roque d’Anthéron: Vents d’Ailleurs, 2005; Montréal: Mémoire d’encrier, 2018.</item>
+        <item>Fado. Paris: Mercure, 2008.</item>
+        <item>Saisons sauvages. Paris: Mercure, 2010.</item>
+        <item>Le prince noir de Lillian Russell (avec Leslie Péan). Paris: Mercure, 2011.</item>
+        <item>Aux frontières de la soif. Port-au-Prince: Société du Rhum Barbancourt, 2012; Paris: Mercure, 2013.</item>
+        <item>Bredjenn Blues. Port-au-Prince: L’Imprimeur II, 2014.</item>
+        <item>Je suis vivant. Paris: Mercure, 2015.</item>
+        <item>Bredjenn Blues; bons baisers de Santo Domingo. Port-au-Prince: L’Imprimeur II, 2016.</item>
+        <item>L’Ange du patriarche. Paris: Mercure, 2018.</item>
+      </list>
+      <list subtype="romans-feuilleton">
+        <item> Kool-Klub. Port-au-Prince: L’Imprimeur II, 2007.</item>
+        <item> Kool-Klub, le temps des loups. Port-au-Prince: L’Imprimeur II, 2008.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Un parfum d’encens. Port-au-Prince: Imprimeur II, 1999.</item>
+        <item> Mirage-Hôtel. Port-au-Prince: Imprimerie Caraïbe, 2002.</item>
+        <item>Et tant pis pour la mort. Pétion-Ville: C3 Éditions, 2014.</item>
+        <item>Laquelle de nous était Eurydice ? (Nouvelles jeunesse). Pétion-Ville: C3 Éditions, 2014.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Feu de miel. Port-au-Prince: Imprimeur II, 1997.</item>
+        <item>Feulements et sanglots. Port-au-Prince: Imprimeur II, 2001.</item>
+      </list>
+      <list subtype="poésie parue dans des recueils">
+        <item>« Les faiseurs de rêve ». Cultura (hors série, Voyage à l’intérieur de nous-mêmes, mars 1998).</item>
+        <item>Anthologie de la poésie haïtienne contemporaine (1945-1999): textes français et créoles. Raymond Philoctète, éd. Montréal: CIDIHCA, 1998, 2000.</item>
+        <item>« Je n’ai de droits que si tu m’aimes », texte paru dans l’ouvrage commémoratif du 50ème anniversaire de la déclaration universelle des droits de l’homme, UNESCO Haïti, 2001.</item>
+        <item>« La mer au seuil de la chambre » et « Espace » (tirés de Feulements et sanglots). Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 272.</item>
+        <item> La poésie antillaise, poèmes choisis par Morgane Enjalbert, illustrés par Ricardo Mosner. Paris: Mango, 2006.</item>
+        <item>Choix de poèmes. Terres de femmes, 150 ans de poésie féminine en Haïti. Paris: Bruno Doucey, 2010: 173-181.</item>
+        <item>Cinq poèmes. Anthologie de poésie haïtienne contemporaine, dirigée et présentée par James Noël. Paris: Points, 2015: 175-180.</item>
+      </list>
+      <list subtype="textes et nouvelles dans des ouvrages collectifs">
+        <item>Le prince noir (extrait). La Nouvelle Revue Française 576 (janvier 2006): 186-189.</item>
+        <item>« Mon Roumain à moi ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 185-189.</item>
+        <item>« Lobo ». Nouvelles d’Haïti (Collectif). Paris: Magellan &amp; Cie, 2007: 11-33.</item>
+        <item>« Le dernier des touristes ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 17-19.</item>
+        <item>« L’Auberge du Paradis ». Haiti noir. Textes présentés par Edwidge Danticat. Paris: Asphalte, 2012: 47-64.</item>
+        <item>« Le requiem des marteaux-piqueurs ». …des maux et des rues, collectif. Delmas: Legs, 2014: 51-56.</item>
+        <item>« Fiche signalétique d’une dissidente ». En amour avec Marie, collectif (dirigé par Emmelie Prophète). Port-au-Prince: L’Imprimeur II, 2016: 134-140.</item>
+        <item>« Celui après qui je viens ». Une enfance haïtienne. Textes recueillis par Guy Régis Jr. Paris: Gallimard: 2017: 67-78.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1996     Prix Jacques-Stephen Alexis de la nouvelle, pour « Soleils Contraires ».</item>
+        <item>2006     Prix Senghor de la Création littéraire, pour L’Heure hybride.</item>
+        <item>2011     Bourse Barbancourt.</item>
+        <item>2011     Prix Prince Claus, pour cette « écrivaine émouvante et énergique, avec sa vision incisive de la réalité et son portrait fascinant de la société haïtienne ».</item>
+        <item>2015     Prix Ivoire pour la littérature Africaine d’expression francophone, pour Je suis vivant.</item>
+      </list>
+      <list subtype="sur l’oeuvre de kettly mars">
+        <item>Jean-Charles, Régine Michelle. « À travers l’Atlantique noire : L’imagerie de l’eau dans les textes des femmes haïtiennes ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 163-176.</item>
+        <item>Magniez, Michel. « Le héros homosexuel dans les récits en Haïti ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 213-228.</item>
+        <item>Péan, Leslie. « La volupté de l’écriture de Kettly P. Mars. » Journal of Haitian Studies 11.1 (Spring 2005): 164-166.</item>
+        <item>Saint-Éloi, Rodney. « Kettly Mars ou la nécessaire présence du désir ». Cultures Sud 166 (juillet-septembre 2007).</item>
+        <item>Victor, Gary. « Kettly Mars dit la vie, de mieux en mieux ». Notre Librairie 158 (avril-juin 2005).</item>
+        <item>Vitiello, Joëlle. « Douceurs et violences dans l’écriture de Kettly Mars ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 367-383.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/kettly-p-mars-anna-et-la-mer/">Anna et la mer</item>
+        <item ref="http://ile-en-ile.org/kettly-p-mars-la-derniere-part-de-purete/">La dernière part de pureté </item>
+        <item ref="http://ile-en-ile.org/kettly-p-mars-kasale/">Kasalé</item>
+        <item ref="http://ile-en-ile.org/kettly-p-mars-5-questions-pour-ile-en-ile/">Kettly Mars, 5 Questions pour Île en île</item>
+        <item ref="http://ile-en-ile.org/kettly-p-mars-le-sanglot-des-etoiles/">Le Sanglot des étoiles</item>
+        <item ref="http://www.evene.fr/livres/actualite/interview-kettly-mars-heure-hybride-francophonie-haiti-294.php">Le mensonge: sequelle du passé</item>
+        <item ref="http://www.sgdl.org/ressource/documentation-sgdl/actes-des-forums/l-ecrivain-dans-l-espace-francophone/1181-la-chasse-a-lediteur-ou-les-hasards-de-ledition">La chasse à l’éditeur ou les hasards de l’édition </item>
+      </list>
+    </div>
+  </div>
+</TEI>

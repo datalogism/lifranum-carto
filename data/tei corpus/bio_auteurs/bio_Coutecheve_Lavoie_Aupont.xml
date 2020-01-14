@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Coutecheve_Lavoie_Aupont_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Biographies deCoutechève Lavoie Aupont</title>
+        <title>Biographies deCoutechève Lavoie Aupont (Lavoie)</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,24 +12,106 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="osaphat-Robert Large" ref="http://ile-en-ile.org/aupont/" xml:id="Coutecheve_Lavoie_Aupont_bio_auteur_ile_en_ile">
-    <p>La parole de Coutechève Lavoie Aupont, dit Lavoie, révèle une voix dans toute sa fraîcheur et une voie poétique vraisemblablement liée aux sources mêmes de la vie. Une parole qui se propage lentement en se servant du poème comme unique véhicule, et qui se tisse avec des mots simples, des phrases élégantes et une sensibilité qui mûrit avec le temps. Ainsi se construit un édifice poétique qui nous permet d’apercevoir, entre ses lignes, une belle forme d’espérance.</p>
-    <p>Lavoie fait partie de cette génération porteuse d’un renouvellement tout à fait nécessaire à la poésie haïtienne. Il est comédien, chanteur, musicien et conteur aussi, c’est-à-dire, tireur de contes à la belle étoile. </p>
-    <p>Il est né à Mirebalais, le 16 octobre 1982, non loin du chant aérien de la rivière du Fer à cheval et du roucoulement majestueux des milliers de tourterelles de cette zone. La présence amoureuse de sa mère a eu une grande influence sur sa sensibilité. D’autant qu’il a été son unique support durant les moments les plus forts d’un douloureux divorce. Il est en effet très jeune en 1986 quand son père quitte le toit familial et sa mère prend la décision de partir en République dominicaine, l’emmenant avec elle. Ils y resteront quatre années. </p>
-    <p>À 16 ans, Lavoie emprunte le chemin de l’avenir dans le domaine de l’art en compagnie de la troupe de théâtre du Collectif NOUS. Nous sommes en 2005, l’année où Téchelet Nicholas découvre les talents dramatiques de Lavoie. Ce metteur en scène devient son mentor et l’invite en fin de semaine dans les cafés littéraires où la poésie est à l’honneur. C’est là que le poète Lavoie fait ses premières armes. Il travaille également avec l’Atelier Le Vide. En 2007, il se produit devant un public à Port-au-Prince, lors de la commémoration du centenaire de Jacques Roumain. </p>
-    <p>Son premier recueil de poèmes Partances paraît aux Éditions Rivarticollection, en 2009. Les poètes de la Bibliothèque Justin Lhérisson se réjouissent du succès que connaît Partances. Le talent est incontestable, la sensibilité à fleur de peau et l’imagination profonde. </p>
-    <p>Lavoie est également étudiant de lettres à l’École Normale Supérieure depuis 2008, où il se nourrit des grands auteurs de la littérature francophone. Son imagination s’enrichit sur les bancs de cette faculté où viennent enseigner, entre autres, Lyonel Trouillot, Marc Exavier, Jacques Gougues, Alix Emera et Bérard Cénatus. </p>
-    <p>Mais, le 12 janvier 2010, Lavoie se trouve à l’École Normale au moment du tremblement de terre qui fait tant de victimes et détruit une aile de l’université. Carrefour, le quartier où vit Lavoie, est rasé.</p>
-    <p>Citons quelques vers de Partances qui décrivent Port-au-Prince. Dit « poète à l’encre têtue », Lavoie décrit précisément l’immense détresse de la ville :</p>
-    <p>on dirait Port-au-Prince
+  <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/aupont/" xml:id="Coutecheve_Lavoie_Aupont_bio_auteur_ile_en_ile">
+    <p>
+      La parole de 
+      <persName ana="Coutecheve_Lavoie_Aupont">
+        Coutechève 
+        <location ana="Lavoie">Lavoie</location>
+         Aupont
+      </persName>
+      , dit 
+      <location ana="Lavoie">Lavoie</location>
+      , révèle une voix dans toute sa fraîcheur et une voie poétique vraisemblablement liée aux sources mêmes de la vie. Une parole qui se propage lentement en se servant du poème comme unique véhicule, et qui se tisse avec des mots simples, des phrases élégantes et une sensibilité qui mûrit avec le temps. Ainsi se construit un édifice poétique qui nous permet d’apercevoir, entre ses lignes, une belle forme d’espérance.
+    </p>
+    <p>
+      <location ana="Lavoie">Lavoie</location>
+       fait partie de cette génération porteuse d’un renouvellement tout à fait nécessaire à la poésie 
+      <location ana="Haitienne">Haïtienne</location>
+      . Il est comédien, chanteur, musicien et conteur aussi, c’est-à-dire, tireur de contes à la belle étoile. 
+    </p>
+    <p>
+      Il est né à 
+      <location ana="Mirebalais">Mirebalais</location>
+      , le 16 octobre 1982, non loin du chant aérien de la rivière du Fer à cheval et du roucoulement majestueux des milliers de tourterelles de cette zone. La présence amoureuse de sa mère a eu une grande influence sur sa sensibilité. D’autant qu’il a été son unique support durant les moments les plus forts d’un douloureux divorce. Il est en effet très jeune en 1986 quand son père quitte le toit familial et sa mère prend la décision de partir en 
+      <location ana="Republique_Dominicaine">République Dominicaine</location>
+      , l’emmenant avec elle. Ils y resteront quatre années. 
+    </p>
+    <p>
+      À 16 ans, 
+      <location ana="Lavoie">Lavoie</location>
+       emprunte le chemin de l’avenir dans le domaine de l’art en compagnie de la troupe de théâtre du Collectif NOUS. Nous sommes en 2005, l’année où 
+      <persName ana="Techelet_Nicholas">Téchelet Nicholas</persName>
+       découvre les talents dramatiques de 
+      <location ana="Lavoie">Lavoie</location>
+      . Ce metteur en scène devient son mentor et l’invite en fin de semaine dans les cafés littéraires où la poésie est à l’honneur. C’est là que le poète 
+      <location ana="Lavoie">Lavoie</location>
+       fait ses premières armes. Il travaille également avec l’Atelier Le Vide. En 2007, il se produit devant un public à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , lors de la commémoration du centenaire de 
+      <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+      . 
+    </p>
+    <p>
+      Son premier recueil de poèmes 
+      <location ana="Partances">Partances</location>
+       paraît aux Éditions Rivarticollection, en 2009. Les poètes de la 
+      <persName ana="Bibliotheque_Justin">Bibliothèque Justin</persName>
+       Lhérisson se réjouissent du succès que connaît 
+      <location ana="Partances">Partances</location>
+      . Le talent est incontestable, la sensibilité à fleur de peau et l’imagination profonde. 
+    </p>
+    <p>
+      <location ana="Lavoie">Lavoie</location>
+       est également étudiant de lettres à l’École Normale Supérieure depuis 2008, où il se nourrit des grands auteurs de la littérature francophone. Son imagination s’enrichit sur les bancs de cette faculté où viennent enseigner, entre autres, 
+      <persName ana="Lyonel_Trouillot">Lyonel Trouillot</persName>
+      , 
+      <persName ana="Marc_Exavier">Marc Exavier</persName>
+      , 
+      <persName ana="Jacques_Gougues">Jacques Gougues</persName>
+      , 
+      <persName ana="Alix_Emera">Alix Emera</persName>
+       et 
+      <persName ana="Berard_Cenatus">Bérard Cénatus</persName>
+      . 
+    </p>
+    <p>
+      Mais, le 12 janvier 2010, 
+      <location ana="Lavoie">Lavoie</location>
+       se trouve à l’École Normale au moment du tremblement de 
+      <location ana="Terre">Terre</location>
+       qui fait tant de victimes et détruit une aile de l’université. 
+      <location ana="Carrefour">Carrefour</location>
+      , le quartier où vit 
+      <location ana="Lavoie">Lavoie</location>
+      , est rasé.
+    </p>
+    <p>
+      Citons quelques vers de 
+      <location ana="Partances">Partances</location>
+       qui décrivent 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Dit « poète à l’encre têtue », 
+      <location ana="Lavoie">Lavoie</location>
+       décrit précisément l’immense détresse de la ville :
+    </p>
+    <p>
+      on dirait 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      
 en robe de chambre sur la stérilité d’un jour de vote
 le long de son cou la vie est cocue
 et la souveraineté de nos songes s’en va
-comme une orange morte</p>
-    <p>Ainsi le poète nous offre des vers où des petits bouts de miroirs reflètent de façon prémonitoire le malheur tombé sur Port-au-Prince.</p>
+comme une orange morte
+    </p>
+    <p>
+      Ainsi le poète nous offre des vers où des petits bouts de miroirs reflètent de façon prémonitoire le malheur tombé sur 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      .
+    </p>
   </text>
 </TEI>

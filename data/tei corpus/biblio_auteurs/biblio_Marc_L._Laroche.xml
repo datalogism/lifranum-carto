@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Marc_L._Laroche_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,30 +12,32 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/laroche/" xml:id="Marc_L._Laroche_biblio_auteur_ile_en_ile">
-    <list subtype="sur île en île">
-      <item ref="http://ile-en-ile.org/marc-l-laroche-anacaona/">Anacaona</item>
-      <item ref="http://ile-en-ile.org/marc-l-laroche-xaragua/">La Tragédie de la reine du Xaragua</item>
-    </list>
-    <list subtype="ailleurs sur le web">
-      <item ref="http://editionscramoel.netfirms.com/">Éditions Cramoel</item>
-    </list>
-    <list subtype="romans">
-      <item> Anacaona. St-Laurent (Québec): Cramoel, 2003.</item>
-      <item>À la dérive (à paraître).</item>
-    </list>
-    <list subtype="théâtre">
-      <item>La Tragédie de la reine du Xaragua. St-Laurent (Québec): Cramoel, 2002.</item>
-    </list>
-    <list subtype="poésie">
-      <item> Miscellanées blues (à paraître).</item>
-    </list>
-    <list subtype="essai">
-      <item>« L’idéologique et le pouvoir: deux dimensions de toute science sociale: le cas de la production sociologique à l’Université de Montréal ». (Mémoire de maîtrise, UQÀM). Sainte Foy: Université du Québec, 1984.</item>
-    </list>
+    <div subtype="livres">
+      <list subtype="romans">
+        <item> Anacaona. St-Laurent (Québec): Cramoel, 2003.</item>
+        <item>À la dérive (à paraître).</item>
+      </list>
+      <list subtype="théâtre">
+        <item>La Tragédie de la reine du Xaragua. St-Laurent (Québec): Cramoel, 2002.</item>
+      </list>
+      <list subtype="poésie">
+        <item> Miscellanées blues (à paraître).</item>
+      </list>
+      <list subtype="essai">
+        <item>« L’idéologique et le pouvoir: deux dimensions de toute science sociale: le cas de la production sociologique à l’Université de Montréal ». (Mémoire de maîtrise, UQÀM). Sainte Foy: Université du Québec, 1984.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/marc-l-laroche-anacaona/">Anacaona</item>
+        <item ref="http://ile-en-ile.org/marc-l-laroche-xaragua/">La Tragédie de la reine du Xaragua</item>
+        <item ref="http://editionscramoel.netfirms.com/">Éditions Cramoel</item>
+      </list>
+    </div>
   </div>
 </TEI>

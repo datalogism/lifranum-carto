@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Duckens_Charitable_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.duckens-charitable-duccha.22294.html" xml:id="Duckens_Charitable_bio_auteur_spla">
-    <p>&quot;Duccha&quot;, Né en 1982, est avant tout poète. Ses publications sont adaptées au théâtre par L'Atelier Vide. Parmi eux : La vie en marelle et Acte de citoyenneté absolue, monologue représenté en mars 2010 au Segal Théâtre à New York.</p>
+    <p>
+      &quot;
+      <location ana="Duccha">Duccha</location>
+      &quot;, Né en 1982, est avant tout poète. Ses publications sont adaptées au théâtre par L'Atelier Vide. Parmi eux : La vie en marelle et Acte de citoyenneté absolue, monologue représenté en 
+      <location ana="Mars">Mars</location>
+       2010 au Segal Théâtre à 
+      <location ana="New_York">New York</location>
+      .
+    </p>
   </text>
 </TEI>

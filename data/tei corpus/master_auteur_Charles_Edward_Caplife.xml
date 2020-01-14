@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Charles_Edward_Caplife_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Charles_Edward_Caplife.xml"/>
+  <xi:include ref="biblio_Charles_Edward_Caplife.xml"/>
+  <xi:include ref="fiche_auteur_Charles_Edward_Caplife.xml"/>
+</master>

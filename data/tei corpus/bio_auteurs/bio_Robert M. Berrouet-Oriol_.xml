@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Robert M. Berrouet-Oriol__bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,29 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.robert-m-berrouet-oriol.49492.html" xml:id="Robert M. Berrouet-Oriol__bio_auteur_spla">
-    <p>&quot;Originaire d'Haïti, formé à l'Université du Québec à Montréal, Robert Berrouët-Oriol est linguiste, spécialiste en aménagement linguistique et en communications institutionnelles. À ce titre, il a œuvré durant 14 ans à l'Office de la langue française du Québec (OLF) où il a notamment été responsable du programme de coopération terminolinguistique entre l'OLF et les universités canadiennes, programme qui consistait à implanter la Banque de terminologie du Québec (BTQ, aujourd'hui Grand dictionnaire terminologique, GDT) et sa méthodologie de la recherche dans ces institutions. </p>
+    <p>
+      &quot;Originaire d'
+      <location ana="Haiti">Haïti</location>
+      , formé à l'Université du 
+      <location ana="Quebec">Québec</location>
+       à 
+      <location ana="Montreal">Montréal</location>
+      , 
+      <persName ana="Robert_Berrouet">
+        Robert 
+        <location ana="Berrou">Berrou</location>
+        ët
+      </persName>
+      -Oriol est linguiste, spécialiste en aménagement linguistique et en communications institutionnelles. À ce titre, il a œuvré durant 14 ans à l'Office de la langue française du 
+      <location ana="Quebec">Québec</location>
+       (OLF) où il a notamment été responsable du programme de coopération terminolinguistique entre l'OLF et les universités canadiennes, programme qui consistait à implanter la Banque de terminologie du 
+      <location ana="Quebec">Québec</location>
+       (BTQ, aujourd'hui Grand dictionnaire terminologique, GDT) et sa méthodologie de la recherche dans ces institutions. 
+    </p>
   </text>
 </TEI>

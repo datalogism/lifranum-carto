@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Willems_Edouard_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.willems-edouard.49119.html" xml:id="Willems_Edouard_bio_auteur_spla">
-    <p>	Après sa licence à la FDSE, Me. Willems EDOUARD s'est spécialisé dans le droit d'auteur. Il est également détenteur d'un DESS en management culturel (Paris-III Sorbonne Nouvelle/FIC). Il a dirigé les Presses Nationales d'Haïti pendant 7 ans. Aujourd'hui, il travaille comme avocat et consultant, notamment auprès du Bureau Haïtien du Droit d'Auteur.	Il est l'auteur d'un recueil de poésies, Plaies intérimaires, paru en 2005 chez Mémoire d'Encrier.</p>
+    <p>
+      	Après sa licence à la FDSE, Me. Willems EDOUARD s'est spécialisé dans le droit d'auteur. Il est également détenteur d'un DESS en management culturel (
+      <location ana="Paris">Paris</location>
+      -III 
+      <persName ana="Sorbonne_Nouvelle">Sorbonne Nouvelle</persName>
+      /FIC). Il a dirigé les Presses Nationales d'
+      <location ana="Haiti">Haïti</location>
+       pendant 7 ans. Aujourd'hui, il travaille comme avocat et consultant, notamment auprès du Bureau Haïtien du Droit d'Auteur.	Il est l'auteur d'un recueil de poésies, Plaies intérimaires, paru en 2005 chez Mémoire d'Encrier.
+    </p>
   </text>
 </TEI>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Jean James_Estepha_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Jean James_Estepha.xml"/>
+  <xi:include ref="fiche_auteur_Jean James_Estepha.xml"/>
+</master>

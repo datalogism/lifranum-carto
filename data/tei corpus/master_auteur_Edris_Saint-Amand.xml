@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Edris_Saint-Amand_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="biblio_Edris_Saint-Amand.xml"/>
+  <xi:include ref="fiche_auteur_Edris_Saint-Amand.xml"/>
+</master>

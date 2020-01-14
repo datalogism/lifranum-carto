@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Fred_Edson_Lafortune_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Fred Edson Lafortune</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/lafortune/" xml:id="Fred_Edson_Lafortune_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>En nulle autre. Mazères (France): le Chasseur abstrait, 2009.</item>
+        <item>An n al Lazil. Cambridge (Massachusetts): Trilingual Press, 2014.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Stagioni » (Trad. Angelo Manitta). Il Convivio, rivista Trimestrale di Poesia Arte e Cultura dell’Accademia Internazionale Il Convivio (Settembre 2006).</item>
+        <item>« Minuit ». Le Manoir des poètes (printemps-été 2007): 32.</item>
+        <item>« Pluie ». Art et Poésie 98 (2 trimestre 2007).</item>
+        <item>« Reflet » et « Pwenvigil ». Les Voix du Soleil : anthologie des écrivains haïtiens publiés dans la revue Tanbou / Voices of the Sun: The Anthology of Haitian Writers Published in the Review Tanbou / Vwa Solèy pale : Antoloji ekriven ayisyen ki pibliye nan jounal Tanbou. Tontongi, éd. Cambridge (Massachusetts): Trilingual Press, 2009: 97-99, 316, 349.</item>
+        <item>« En Nulle Autre ou l’histoire de quelques-uns de mes folies ». RAL,mag 1 (1er mai 2009): 48-50.</item>
+        <item>« La mort a des rigueurs à nulle autre pareilles ». Pour Haïti. Suzanne Dracius, éd. Fort-de-France: Desnel, 2010: 359-60.</item>
+      </list>
+      <list subtype="anthologie">
+        <item>Cahier Haïti (textes réunis par Fred Edson Lafortune et James Noël). Numéro spécial 8 des Cahiers de la RAL,M (Revue d’Art et de Littérature, Musique), 2009, 604 pp.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Lekti, Lekti, Lekti, documentaire (court métrage) sur l’incitation à la lecture en Haïti, réalisé par la Mission des Nations Unis pour la Stabilisation et la Paix en Haïti (MINUSTAH), 2007.</item>
+        <item>Entretien avec Guillaume Truilhé sur CT2E, la Chaine de Télévision Toulousaine et Européenne, mars 2009.</item>
+      </list>
+      <list subtype="conférences sélectionnées">
+        <item>« L’image poétique », présentée au club littéraire « Clac », juillet 2004.</item>
+        <item>« Qu’est ce que c’est qu’une poésie », présentée au club littéraire « Les amis de la culture », juillet 2004.</item>
+        <item>Présentation du recueil Pwenvigil à l’Atelier Création Marcel Gilbert de la Bibliothèque Justin Lhérisson, mai 2005.</item>
+        <item>« Le rôle de la poésie », présentée au club littéraire « Ajad », juillet 2005.</item>
+        <item>« La poésie : Héritage à travers les âges », présentée au collège Notre Dame des Petits avec Duckens Charitable, 11 mars 2007.</item>
+        <item>« Un amour à fendre le solstice », présentation du recueil à la SPF à Paris, 24 novembre 2007.</item>
+        <item>« Haïti : histoire et littérature », présentée au lycée Hôtelier dans une classe de seconde B.E.P à St-Quentin en Yvelines (France), 10 avril 2009.</item>
+        <item>Présentation de En nulle autre à la Bibliothèque Justin Lherisson (Haïti), 13 juin 2009.</item>
+        <item>« Poetry in Haitian Vodou Music », présentation à Lehman College (CUNY), 28 octobre 2009</item>
+      </list>
+      <list subtype="créations théâtrales">
+        <item>En terre d’exile, jouée à la bibliothèque Justin Lhérisson, mise en scène de Jude Richard.</item>
+        <item>Muse lyrique, jouée à la bibliothèque Justin Lhérisson, mise en scène de Techelet Nicolas, 2005.</item>
+        <item>Soleil noir de la patience, jouée à la bibliothèque Justin Lhérisson, mise en scène de Jude Richard.</item>
+        <item>Face à face / Fasafas, jouée deux fois au cimetière de Carrefour, mise en scène de Techelet Nicolas, 2004-2005.</item>
+        <item>Maux-mots, jouée à la Télémax et à la bibliothèque Etoile Filante, mise en scène de Edouard Baptiste (youyou), 2004.</item>
+        <item>Bayawonn ak bayawonn, jouée à l’hôtel Villa privé, mise en scène de Jude Richard.</item>
+        <item>Raab, jouée à la bibliothèque Étoile Filante, mise en scène de Jude Richard.</item>
+        <item>Ogou Badagri, jouée à l’École Normale Supérieure, mise en scène par Fred Edson Lafortune et Jude Richard.</item>
+        <item>Poésies et Chansons, jouée à la bibliothèque Justin Lhérisson, mise en scène par Adler Jean Pierre et Techelet Nicolas, 26 novembre 2005.</item>
+        <item>Voix contemporaines, jouée à la bibliothèque Etoile Filante, mise en scène de Adler Jean Pierre et Techelet Nicolas, 2005.</item>
+        <item>Le temps de l’amour, jouée à Jacmel au restaurant Le Rendez-vous, mise en scène collective.</item>
+        <item>Peyi a pa vanse, extrait du recueil inédit du poète Edgar Gousse, jouée dans les rues de Jacmel, mise en scène de Fred Edson Lafortune.</item>
+        <item>Mann mannan, adaptation du recueil inédit Pwenvigil, jouée au collège Cœurs Unis avec les élèves du même collège, mise en scène par l’auteur, Fred Edson Lafortune.</item>
+        <item>Sans titre, jouée au collège Cœurs Unis avec les élèves du même collège, mise en scène de Fred Edson Lafortune.</item>
+        <item>Oye ! Oye ! Rèv nou, jouée deux fois au Champ de Mars (Port-au-Prince) et à Mara Villa avec les comédiens de l’Atelier Le vide, mise en scène de Techelet Nicolas.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2017     Gran Pri Pwezi Frantz Dominique Batraville, pour An n al Lazil.</item>
+      </list>
+      <list subtype="sur l’oeuvre de fred edson lafortune">
+        <item>« Fred Edson Lafortune ». L’Ouvre Boîte 80 (été 2008): 50.</item>
+        <item>« Fred Edson, l’écriture comme passerelle ». Vue d’Haïti (novembre 2007).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://frededsonlafortune.hautetfort.com/">Fred Edson Lafortune</item>
+        <item ref="http://www.tanbou.com/2008/pwezi082008.htm">Ann al lazil…</item>
+        <item ref="http://www.tanbou.com/2008/pwezi082008.htm">Ann al lazil…</item>
+        <item ref="http://www.lechasseurabstrait.com/revue/-Fred-Edson-LAFORTUNE-">Fred Edson Lafortune</item>
+        <item ref="http://poesie.webnet.fr/vospoemes/poemes/fred_edson_lafortune/fred_edson_lafortune.html">Fred Edson Lafortune</item>
+        <item ref="http://www.tanbou.com/2006/summer/poesie.htm">Reflet</item>
+        <item ref="http://www.culturessud.com/contenu.php?id=150">Répliques</item>
+        <item ref="http://www.lechasseurabstrait.com/revue/D-un-silence-a-l-autre-entretiens">D’un silence à l’autre</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74706">Ecriture et littérarité dans « En nulle autre »</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=48549">Fred Edson assistera à un séminaire sur la littérature médiévale au Collège de France</item>
+        <item ref="http://www.alterpresse.org/spip.php?article6442">Haiti/Littérature : Un jeune poète haïtien au Collège de France</item>
+        <item ref="http://www.potomitan.info/ayiti/lafortune/lazil.php">An n al Lazil: Yon liv tout moun dwe li</item>
+        <item ref="http://www.lenational.org/poete-fred-edson-lafortune-laureat-de-4e-edition-prix-de-poesie-creole-dominique-batraville/">Le poète Fred Edson Lafortune, lauréat de la 4e édition du prix de poésie créole Dominique Batraville</item>
+        <item ref="http://www.tanbou.com/2014/PrezantasyonLivAnNAlLazilFredEdsonLafortune.htm">Prezantasyon liv An n al Lazil de Fred Edson Lafortune</item>
+      </list>
+    </div>
+  </div>
+</TEI>

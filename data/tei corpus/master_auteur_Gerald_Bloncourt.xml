@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Gerald_Bloncourt_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Gerald_Bloncourt.xml"/>
+  <xi:include ref="biblio_Gerald_Bloncourt.xml"/>
+  <xi:include ref="fiche_auteur_Gerald_Bloncourt.xml"/>
+</master>

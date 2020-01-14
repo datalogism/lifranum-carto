@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Demesvar_Delorme_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Démesvar Delorme</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/delorme/" xml:id="Demesvar_Delorme_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="essais">
+        <item>L’Indépendance d’Haïti et la France, par Charolais. Paris: E. Dentu, 1861.</item>
+        <item>Études sur l’Amérique. La Démocratie et le préjugé de couleur aux États-Unis d’Amérique. Les Nationalités américaines et le système Monroë. Bruxelles: H. Thiry-Van Buggenhoudt, 1866.</item>
+        <item>Les Théoriciens au pouvoir. Causeries historiques. Paris: H. Plon, 1870.</item>
+        <item>La Misère au sein des richesses. Réflexions diverses sur Haïti. Paris: E. Dentu, 1873.</item>
+        <item>Les Petits; la Hollande. Bruxelles: La Société belge de librairie, 1898.</item>
+      </list>
+      <list subtype="romans">
+        <item>Francesca: les jeux du sort. Paris: E. Dentu, 1872; Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+        <item>Le Damné. Paris: Challamel aîné, 1877; Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+        <item>L’Albanaise. Roman paru en feuilleton dans Le Moniteur (Port-au-Prince), 1884-1885.</item>
+      </list>
+      <list subtype="pamphlets">
+        <item>La reconnaissance du général Salnave. Paris: H. Chaix, 1868.</item>
+        <item>Les Paisibles. Paris: Alcan-Lévy, 1874.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list/>
+    </div>
+  </div>
+</TEI>

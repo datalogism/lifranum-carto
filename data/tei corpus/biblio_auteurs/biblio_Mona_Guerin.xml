@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Mona_Guerin_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Mona Guérin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/guerin/" xml:id="Mona_Guerin_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="sur scène">
+        <item>L’Oiseau de ces dames (1966).</item>
+        <item>Les Cinq Chéris (1969).</item>
+        <item>La Pieuvre (1971).</item>
+        <item>Chambre 26 (1973).</item>
+        <item>Sylvia  (1974).</item>
+        <item>La Pension Vacher (1976).</item>
+      </list>
+      <list subtype="éditions">
+        <item>Chambre 26: pièce en 4 actes, avec Les Cinq Chéris: théâtre pour adolescents: comédie en 3 actes. Port-au-Prince: Deschamps, 1973.</item>
+        <item>La Pieuvre, avec L’Oiseau de ces dames. Port-au-Prince: Deschamps, 1973.</item>
+        <item>La Pension Vacher, comédie en deux actes, avec Sylvia, comédie en un acte. Port-au-Prince: Éditions du Soleil, 1977.</item>
+      </list>
+      <list subtype="poésie">
+        <item> Sur les vieux thèmes. Port-au-Prince: Imprimerie Théodore, 1958.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Mi-figue, mi-raisin. Port-au-Prince: Deschamps, 1980; Paris: L’Harmattan, 1998.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1983     Chevalier de l’Ordre des Palmes académiques du Gouvernement Français.</item>
+        <item>1999     Prix Littéraire des Caraïbes de l’ADELF, pour Mi-figue, mi-raisin.</item>
+        <item>2002     Docteur Honoris Causa, Université Royale d’Haïti et la République d’Haïti.</item>
+      </list>
+      <list subtype="sur l’oeuvre de mona guérin">
+        <item>Baridon, Silvio et Raymond Philoctète. Poésie vivante d’Haïti (anthologie). Paris: Lettres Nouvelles/ Maurice Nadeau, 1978: 150-151.</item>
+        <item>Berrou, Raphaël et Pradel Pompilus. « Mona Guérin ». Histoire de la littérature haïtienne illustrée par les textes. Port-au-Prince: Éditions Caraïbes, 1977, Tome 3: 475-483.</item>
+        <item>« Bravo », dossier spécial sur Mona Guérin dans Le Nouvelliste, juillet 2001.</item>
+        <item>Cornevin, Robert. Le Théâtre haïtien des origines à nos jours. Montréal: Leméac, 1973: 153-164.</item>
+        <item>Dumas, Pierre Raymond. Anthologie de Nouvelles Haïtiennes. Conjonction 177-178 (1998).</item>
+        <item>Philoctète, Raymond. Anthologie de la poésie haïtienne contemporaine, 1945-1999. Montréal: Éditions du CIDIHCA, 2000.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/mona-guerin-le-second-choix-dedgard/">Le second choix d’Edgard</item>
+        <item ref="http://web.archive.org/web/20030614194815/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=590">Le culte de soi</item>
+        <item ref="http://www.jasminenarcisse.com/memoire/11_litterature/05_mona.html">Mona Guérin</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101165&amp;PubDate=2011-12-30">Woy ! Mona Guérin mouri !!!</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101165&amp;PubDate=2011-12-30">Woy ! Mona Guérin mouri !!!</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101220&amp;PubDate=2012-01-04">Faire acte d’immortalité</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101359&amp;PubDate=2012-01-06">Quand Mona rit…</item>
+        <item ref="http://www.lematinhaiti.com/contenu.php?idtexte=28241&amp;idtypetexte=">Mona Guérin : une vie bien remplie</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101170&amp;PubDate=2012-01-06">Une perte énorme pour la culture haïtienne</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101238&amp;PubDate=2012-01-09">Mona Guérin, l’incarnation du feuilleton radiodiffusé en Haïti</item>
+      </list>
+    </div>
+  </div>
+</TEI>

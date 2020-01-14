@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Elie_Fleurant_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,17 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.elie-fleurant.49633.html" xml:id="Elie_Fleurant_bio_auteur_spla">
-    <p>&quot;Élie Fleurant est un poète-philosophe, éducateur, inventeur, historien d'origine haitienne. Né au Cap-Haitien, il a fait ses études primaires et secondaires au Collège Notre-Dame du Perpétuel Secours de sa ville natale. C'est en 1969 qu'il a émigré aux État-Unis. L'auteur est titulaire d'une license en psychologie et éducation de Oswego State University de New York et d'une maîtrise en Philosophie et Administration Scolaire de St John's University. </p>
+    <p>
+      &quot;Élie Fleurant est un poète-philosophe, éducateur, inventeur, historien d'origine haitienne. Né au Cap-Haitien, il a fait ses études primaires et secondaires au Collège Notre-Dame du Perpétuel Secours de sa ville natale. C'est en 1969 qu'il a émigré aux État-Unis. L'auteur est titulaire d'une license en psychologie et éducation de Oswego State University de 
+      <location ana="New_York">New York</location>
+       et d'une 
+      <location ana="Maitrise">Maîtrise</location>
+       en Philosophie et Administration Scolaire de St John's University. 
+    </p>
   </text>
 </TEI>

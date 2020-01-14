@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Constant_Jeanty_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,33 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.constant-jeanty.42531.html" xml:id="Constant_Jeanty_bio_auteur_spla">
-    <p>Constant Jeanty est né à Port-au-Prince en 1936. Il est diplômé en éducation de l'École Normale d'Éducation Physique (ENEP). Il a aussi évolué en tant que chorégraphe et a contribué au développement et à la promotion de l'Art de la danse folklorique haïtienne. Aux États-Unis d'Amérique où il immigra en 1960, il fit des études en sciences sociales et en programmation informatique. Il travailla dans le domaine des relations publiques jusqu'en 1970, puis il immigra au Canada où il a occupé successivement les fonctions de représentant et de superviseur des ventes dans le domaine de la bureautique: la reproduction graphique à haute vitesse; les applications informatiques et télématiques. De 1982 à 2001 il occupa les postes de Directeur des ventes pour la Corporation Duotroll, de Vice Président de Anox, une entité subsidiaire à la corporation Duotroll et plus tard, de 1995 à 2001, le poste de Directeur Régional du département de la formation, avec des responsabilités accrues, à Montréal, à Québec et à Ottawa, pour Danka International, jusqu'à sa retraite où il s'adonne à la peinture et à l'écriture.(www.publibook.com)</p>
+    <p>
+      Constant Jeanty est né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       en 1936. Il est diplômé en éducation de l'École Normale d'Éducation Physique (ENEP). Il a aussi évolué en tant que chorégraphe et a contribué au développement et à la promotion de l'Art de la danse folklorique 
+      <location ana="Haitienne">Haïtienne</location>
+      . Aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       d'
+      <location ana="Amerique">Amérique</location>
+       où il immigra en 1960, il fit des études en sciences sociales et en programmation informatique. Il travailla dans le domaine des relations publiques jusqu'en 1970, puis il immigra au 
+      <location ana="Canada">Canada</location>
+       où il a occupé successivement les fonctions de représentant et de superviseur des ventes dans le domaine de la bureautique: la reproduction graphique à haute vitesse; les applications informatiques et télématiques. De 1982 à 2001 il occupa les postes de 
+      <location ana="Directeur">Directeur</location>
+       des ventes pour la Corporation Duotroll, de Vice Président de Anox, une entité subsidiaire à la corporation Duotroll et plus tard, de 1995 à 2001, le poste de 
+      <location ana="Directeur">Directeur</location>
+       Régional du département de la formation, avec des responsabilités accrues, à 
+      <location ana="Montreal">Montréal</location>
+      , à 
+      <location ana="Quebec">Québec</location>
+       et à 
+      <location ana="Ottawa">Ottawa</location>
+      , pour Danka International, jusqu'à sa retraite où il s'adonne à la peinture et à l'écriture.(www.publibook.com)
+    </p>
   </text>
 </TEI>

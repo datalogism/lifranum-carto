@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Paul_Laraque_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,122 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_bio_auteur_ile_en_ile">
-    <p>Paul Laraque (Pòl Larak) est né à Jérémie (Haïti) le 21 septembre 1920. Après des études à Jérémie et à Port-au-Prince, il entre à l’Académie Militaire en 1939 ; il en sort officier de l’armée en 1941. Laraque fait partie de ceux qui accueillent André Breton à l’aéroport en décembre 1945. En 1951, il se marie avec Marcelle Pierre-Louis. Pendant sa carrière militaire, il parcourt tout le pays où il connaîtra les conditions intolérables de la vie des paysans pauvres. Avec Morisseau-Leroy, Émile Roumer, Franck Fouché et Claude Innocent, Laraque est de la première génération des écrivains haïtiens d’expression créole. Poète dans l’armée, il nourrit l’ambition d’en être la conscience. En 1960, il garde la neutralité dans les événements politiques du 25 mai, mais sera mis à la « retraite » en novembre pendant la grève des étudiants et après l’arrestation de l’oncle de sa femme. Laraque s’exile en 1961, vers New York, l’Espagne puis de nouveau à New York où vit déjà son frère Franck et la famille de celui-ci. L’épouse de Paul Laraque l’y rejoint en 1961, et leurs trois enfants en 1962. Laraque obtient une maîtrise en langues romanes (Fordham University) et devient professeur de français. Parallèlement, il lutte dans le cadre d’organisations progressistes, perdant sa nationalité haïtienne en 1964.</p>
-    <p>Son double recueil de poésie, Les armes quotidiennes / Poésie quotidienne, obtient le prix Casa de las Américas en 1979, ce qui fait de Paul Laraque le premier lauréat de langue française de ce prix. Laraque est également co-fondateur de l’Association des Écrivains Haïtiens à l’Étranger, association qui organise, à titre d’exemples, le Festival Jacques-Stephen Alexis en 1982 et la commémoration du centenaire de Charlemagne Péralte en 1985. Ses activités l’amènent à rencontrer – à la Havane, à New York et à Washington, D.C. – d’autres figures littéraires et politiques, tels Fidel Castro, Nicolas Guillén, Langston Hughes, Ramsey Clark et C.L.R. James.</p>
-    <p>Après vingt-cinq ans d’exil, Laraque retourne au pays après la chute de la dynastie duvaliériste en 1986 ; sa nationalité lui est alors restituée. Lorsque son épouse prend la retraite de sa carrière aux Nations Unies en 1989, la famille s’établit dans la proximité de Port-au-Prince. Il prépare ensuite deux numéros de la revue Rencontre, consacrés à Jacques-Stephen Alexis (1992) et à Jacques Roumain (1993). En 1991, après le renversement du président Aristide et l’assassinat de son « frère de soleil », Guy F. Laraque, Paul Laraque est soumis à un second exil. Il s’installe à New York où il meurt le 8 mars 2007. Une série d’hommages lui est offerte sur le site Île en île.</p>
-    <p>Selon ses dires, son œuvre « exhorte les peuples à se libérer et vise, par dessus tout, à apporter une nouvelle contribution haïtienne, en français et en créole, à la poésie universelle ».</p>
+    <p>
+      <persName ana="Paul_Laraque">
+        Paul 
+        <location ana="Laraque">Laraque</location>
+      </persName>
+       (
+      <persName ana="Pol_Larak">Pòl Larak</persName>
+      ) est né à 
+      <location ana="Jeremie">Jérémie</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ) le 21 septembre 1920. Après des études à 
+      <location ana="Jeremie">Jérémie</location>
+       et à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , il entre à l’Académie Militaire en 1939 ; il en sort officier de l’armée en 1941. 
+      <location ana="Laraque">Laraque</location>
+       fait partie de ceux qui accueillent 
+      <persName ana="Andre_Breton">André Breton</persName>
+       à l’aéroport en décembre 1945. En 1951, il se marie avec 
+      <persName ana="Marcelle_Pierre">Marcelle Pierre</persName>
+      -Louis. Pendant sa carrière militaire, il parcourt tout le pays où il connaîtra les conditions intolérables de la vie des paysans pauvres. Avec Morisseau-Leroy, 
+      <persName ana="Emile_Roumer">Émile Roumer</persName>
+      , 
+      <persName ana="Franck_Fouche">Franck Fouché</persName>
+       et 
+      <persName ana="Claude_Innocent">Claude Innocent</persName>
+      , 
+      <location ana="Laraque">Laraque</location>
+       est de la première génération des écrivains 
+      <location ana="Haitiens">Haïtiens</location>
+       d’expression créole. Poète dans l’armée, il nourrit l’ambition d’en être la conscience. En 1960, il garde la neutralité dans les événements politiques du 25 mai, mais sera mis à la « retraite » en novembre pendant la grève des étudiants et après l’arrestation de l’oncle de sa femme. 
+      <location ana="Laraque">Laraque</location>
+       s’exile en 1961, vers 
+      <location ana="New_York">New York</location>
+      , 
+      <location ana="L’Espagne">l’Espagne</location>
+       puis de nouveau à 
+      <location ana="New_York">New York</location>
+       où vit déjà son frère Franck et la famille de celui-ci. L’épouse de 
+      <persName ana="Paul_Laraque">
+        Paul 
+        <location ana="Laraque">Laraque</location>
+      </persName>
+       l’y rejoint en 1961, et leurs trois enfants en 1962. 
+      <location ana="Laraque">Laraque</location>
+       obtient une 
+      <location ana="Maitrise">Maîtrise</location>
+       en langues romanes (Fordham University) et devient professeur de français. Parallèlement, il lutte dans le cadre d’organisations progressistes, perdant sa nationalité 
+      <location ana="Haitienne">Haïtienne</location>
+       en 1964.
+    </p>
+    <p>
+      Son double recueil de poésie, Les armes quotidiennes / Poésie quotidienne, obtient le prix Casa de las Américas en 1979, ce qui fait de 
+      <persName ana="Paul_Laraque">
+        Paul 
+        <location ana="Laraque">Laraque</location>
+      </persName>
+       le premier lauréat de langue française de ce prix. 
+      <location ana="Laraque">Laraque</location>
+       est également co-fondateur de l’Association des Écrivains 
+      <location ana="Haitiens">Haïtiens</location>
+       à l’Étranger, association qui organise, à titre d’exemples, le Festival Jacques-
+      <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+       en 1982 et la commémoration du centenaire de 
+      <persName ana="Charlemagne_Peralte">Charlemagne Péralte</persName>
+       en 1985. Ses activités l’amènent à rencontrer – à 
+      <location ana="La_Havane">La Havane</location>
+      , à 
+      <location ana="New_York">New York</location>
+       et à 
+      <location ana="Washington">Washington</location>
+      , D.C. – d’autres figures littéraires et politiques, tels 
+      <persName ana="Fidel_Castro">Fidel Castro</persName>
+      , 
+      <persName ana="Nicolas_Guillen">Nicolas Guillén</persName>
+      , 
+      <persName ana="Langston_Hughes">Langston Hughes</persName>
+      , 
+      <persName ana="Ramsey_Clark">Ramsey Clark</persName>
+       et C.L.R. James.
+    </p>
+    <p>
+      Après vingt-cinq ans d’exil, 
+      <location ana="Laraque">Laraque</location>
+       retourne au pays après la chute de la dynastie duvaliériste en 1986 ; sa nationalité lui est alors restituée. Lorsque son épouse prend la retraite de sa carrière aux Nations Unies en 1989, la famille s’établit dans la proximité de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Il prépare ensuite deux numéros de la revue Rencontre, consacrés à Jacques-
+      <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+       (1992) et à 
+      <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+       (1993). En 1991, après le renversement du président Aristide et l’assassinat de son « frère de soleil », 
+      <persName ana="Guy_F._Laraque">
+        Guy F. 
+        <location ana="Laraque">Laraque</location>
+      </persName>
+      , 
+      <persName ana="Paul_Laraque">
+        Paul 
+        <location ana="Laraque">Laraque</location>
+      </persName>
+       est soumis à un second exil. Il s’installe à 
+      <location ana="New_York">New York</location>
+       où il meurt le 8 
+      <location ana="Mars">Mars</location>
+       2007. Une série d’hommages lui est offerte sur le site Île en île.
+    </p>
+    <p>
+      Selon ses dires, son œuvre « exhorte les peuples à se libérer et vise, par dessus tout, à apporter une nouvelle contribution 
+      <location ana="Haitienne">Haïtienne</location>
+      , en français et en créole, à la poésie universelle ».
+    </p>
   </text>
 </TEI>

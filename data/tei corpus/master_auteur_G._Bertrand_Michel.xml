@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="G._Bertrand_Michel_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_G._Bertrand_Michel.xml"/>
+  <xi:include ref="fiche_auteur_G._Bertrand_Michel.xml"/>
+</master>

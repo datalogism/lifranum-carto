@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jacqueline-Scott_Lemoine_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,45 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jacqueline-scott-lemoine.5736.html" xml:id="Jacqueline-Scott_Lemoine_bio_auteur_spla">
-    <p>Née en 1923 à Port-au-Prince (Haïti) et décédée à Dakar (Sénégal) le 10 juillet 2011.Jacqueline Lemoine était comédienne de théâtre, de cinéma et de télévision. Elle a joué notamment dans La fête à Harlem, écrit et mis en scène par Melvin van Peebles, Les gouverneurs de la rosée de Jacques Roumain, mis en scène par Hervé Denis, La tragédie du roi Christophe de Césaire, mis en scène par Jean-Marie Serreau, Les Nègres de Jean Genet, mis en scène par Roger Blain, et dans les films Le Decaméron noir (Piero Vivarelli) et dans Amok (Souheil Ben Barka). Avec la danseuse et chorégraphe Germaine Acogny, elle a créé Afrique corps mémorable, un spectacle de danse et de poésie.Elle a joué dans de nombreuses pièces au Sénégal, où elle a vécu depuis 1966 avec son mari, le comédien, auteur et metteur en scène Lucien Lemoine avec lequel elle a produit pendant 12 ans l'émission La voix des poètes à la Radio-télévision du Sénégal. Elle a également été régisseur général de la programmation et de l'organisation des spectacles au Théâtre national Daniel Sorano de Dakar.Jacqueline Lemoine a été rédactrice de la revue Entracte et a encadré avec Lucien Lemoine un atelier de recherche et de pratiques théâtrales à la faculté de Lettres de l'université Cheikh Anta Diop de Dakar.A paraître : Les nuits de Thulussia, aux éditions Présence africaine, et Civadier, ou 50 ans de feux de la rampe et autres souvenirs.</p>
+    <p>
+      Née en 1923 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ) et décédée à 
+      <location ana="Dakar">Dakar</location>
+       (
+      <location ana="Senegal">Sénégal</location>
+      ) le 10 juillet 2011.Jacqueline Lemoine était comédienne de théâtre, de cinéma et de télévision. Elle a joué notamment dans La fête à 
+      <location ana="Harlem">Harlem</location>
+      , écrit et mis en scène par Melvin van Peebles, Les gouverneurs de la rosée de 
+      <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+      , mis en scène par 
+      <persName ana="Herve_Denis">Hervé Denis</persName>
+      , La tragédie du roi Christophe de Césaire, mis en scène par Jean-
+      <persName ana="Marie_Serreau">Marie Serreau</persName>
+      , Les Nègres de Jean Genet, mis en scène par Roger Blain, et dans les films Le Decaméron noir (Piero Vivarelli) et dans Amok (Souheil Ben Barka). Avec la danseuse et chorégraphe Germaine Acogny, elle a créé 
+      <location ana="Afrique">Afrique</location>
+       corps mémorable, un spectacle de danse et de poésie.Elle a joué dans de nombreuses pièces au 
+      <location ana="Senegal">Sénégal</location>
+      , où elle a vécu depuis 1966 avec son mari, le comédien, auteur et metteur en scène 
+      <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+       avec lequel elle a produit pendant 12 ans l'émission La voix des poètes à la Radio-télévision du 
+      <location ana="Senegal">Sénégal</location>
+      . Elle a également été régisseur général de la programmation et de l'organisation des spectacles au Théâtre national Daniel 
+      <location ana="Sorano">Sorano</location>
+       de 
+      <location ana="Dakar">Dakar</location>
+      .Jacqueline Lemoine a été rédactrice de la revue Entracte et a encadré avec 
+      <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+       un atelier de recherche et de pratiques théâtrales à la faculté de Lettres de l'université Cheikh Anta Diop de 
+      <location ana="Dakar">Dakar</location>
+      .A paraître : Les nuits de Thulussia, aux éditions Présence africaine, et Civadier, ou 50 ans de feux de la rampe et autres souvenirs.
+    </p>
   </text>
 </TEI>

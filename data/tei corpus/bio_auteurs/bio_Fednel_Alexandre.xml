@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Fednel_Alexandre_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,30 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.fednel-alexandre.20076.html" xml:id="Fednel_Alexandre_bio_auteur_spla">
-    <p>Fednel Alexandre est né dans la banlieue de la petite ville de Port-de-Paix, au nord-ouest d'Haiti. Très jeune, il s'intéresse à la création poétique. Il écrit ses premiers poèmes à 13 ans. A 16 ans, il devient animateur culturel des comités scolaires à l'Alliance Française et commence à animer des émissions culturelles à la radio. En 1996, il obtient son premier prix de poésie et le prix d'écriture Toussaint Louverture. En 1997, il remporte le prix régional de la Francophonie. Puis, il publie successivement &quot;Couleurs créoles&quot; et &quot;L'odeur des passions&quot;, deux recueils de poèmes, en 1999 et 2000. L'UNESCO lui attribue en 2001 un prix d'écriture et il publie des articles et des poèmes dans différents journaux et revues; il travaille dans l'édition et à la radio pour financer ses études universitaires. En 2004, il s'établit en France pour poursuivre des études supérieures. Finaliste du Prix du Jeune Ecrivain Francophone en 2005, il a mis en veilleuse ses activités de création pour se consacrer à ses études. Détenteur de trois Masters, Il écrit une thèse sur la représentation du pouvoir chez des romanciers francophones et enseigne le français à Syracuse University (NY). Il a bénéficié d'une bourse de recherche du conseil régional de Normandie et de deux bourses de recherche FSDIE. Depuis 2008, il a repris ses activités d'écriture en publiant des textes dans l'anthologie de poésie du monde des Dossiers d'Aquitaine. Il a également publié des textes dans des revues en France.</p>
+    <p>
+      Fednel Alexandre est né dans la banlieue de la petite ville de 
+      <location ana="Port-De-Paix">Port-de-Paix</location>
+      , au nord-ouest d'
+      <location ana="Haiti">Haiti</location>
+      . Très jeune, il s'intéresse à la création poétique. Il écrit ses premiers poèmes à 13 ans. A 16 ans, il devient animateur culturel des comités scolaires à l'Alliance Française et commence à animer des émissions culturelles à la radio. En 1996, il obtient son premier prix de poésie et le prix d'écriture 
+      <persName ana="Toussaint_Louverture">
+        <location ana="Toussaint">Toussaint</location>
+         Louverture
+      </persName>
+      . En 1997, il remporte le prix régional de la Francophonie. Puis, il publie successivement &quot;Couleurs créoles&quot; et &quot;L'odeur des passions&quot;, deux recueils de poèmes, en 1999 et 2000. L'UNESCO lui attribue en 2001 un prix d'écriture et il publie des articles et des poèmes dans différents journaux et revues; il travaille dans l'édition et à la radio pour financer ses études universitaires. En 2004, il s'établit en 
+      <location ana="France">France</location>
+       pour poursuivre des études supérieures. Finaliste du Prix du Jeune Ecrivain Francophone en 2005, il a mis en veilleuse ses activités de création pour se consacrer à ses études. Détenteur de trois Masters, Il écrit une thèse sur la représentation du pouvoir chez des romanciers francophones et enseigne le français à Syracuse University (
+      <location ana="Ny">NY</location>
+      ). Il a bénéficié d'une bourse de recherche du conseil régional de 
+      <location ana="Normandie">Normandie</location>
+       et de deux bourses de recherche FSDIE. Depuis 2008, il a repris ses activités d'écriture en publiant des textes dans l'anthologie de poésie du monde des Dossiers d'Aquitaine. Il a également publié des textes dans des revues en 
+      <location ana="France">France</location>
+      .
+    </p>
   </text>
 </TEI>

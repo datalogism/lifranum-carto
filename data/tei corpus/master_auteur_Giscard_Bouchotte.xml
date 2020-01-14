@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Giscard_Bouchotte_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Giscard_Bouchotte.xml"/>
+  <xi:include ref="fiche_auteur_Giscard_Bouchotte.xml"/>
+</master>

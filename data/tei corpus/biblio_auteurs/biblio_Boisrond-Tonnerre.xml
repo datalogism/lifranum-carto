@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Boisrond-Tonnerre_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Boisrond-Tonnerre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/boisrond/" xml:id="Boisrond-Tonnerre_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="sur boisrond-tonnerre">
+        <item>Dauphin, Marcel. Boisrond Tonnerre, pièce en trois actes. Port-au-Prince: Dorsinville, 1954.</item>
+        <item>Garrigus, John D. Before Haiti: Race and Citizenship in French Saint-Domingue. New York: Palgrave Macmillan, 2006.</item>
+        <item>Pauléus-Sannon, Horace. Boisrond-Tonnerre et son temps, étude historique. Port-au-Prince: Héraux, 1904.</item>
+        <item>Rosarion, Ulrick. Les dernières heures de Boisrond Tonnerre, tragédie en trois actes. Port-au-Prince: Bibliothèque Nationale d’Haïti, 1996.</item>
+        <item>Vilaire, Jean-Joseph. 4 causeries (« Boisrond Tonnerre », « Nos duels historiques », « Notre créole » et, « L’esprit et les mœurs des affranchis de St. Domingue). Port-au-Prince:Imprimerie du Séminaire Adventiste, 1974.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.kwabs.com/interactive//index.php?s=7556c4d76d0b4098e07d0b75dba844b6&amp;showtopic=61&amp;st=0&amp;p=61">Louis Boisrond-Tonnerre</item>
+        <item ref="http://www.haiti-reference.com/histoire/documents/acte-indep.html">Acte de l’Indépendance</item>
+        <item ref="http://gensdelacaraibe.org/index.php?option=com_content&amp;view=article&amp;id=1096%3Aactes-de-lindependance&amp;catid=125&amp;Itemid=50">Actes de l’Indépendance</item>
+        <item ref="http://webu2.upmf-grenoble.fr/Haiti/Independance_1804.htm">Proclamation de l’Indépendance du 1er janvier 1804</item>
+        <item ref="http://www.rootsweb.ancestry.com/~htiwgw/autographe_bt.htm">Un autographe du Tonnerre !</item>
+      </list>
+    </div>
+  </div>
+</TEI>

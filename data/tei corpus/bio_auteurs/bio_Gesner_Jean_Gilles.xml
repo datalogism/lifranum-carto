@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Gesner_Jean_Gilles_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,21 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.gesner-jean-gilles.40585.html" xml:id="Gesner_Jean_Gilles_bio_auteur_spla">
-    <p>Gesner Jean Gilles est né en Haïti. Il fit ses premières armes à Télé Haiti. Il fut aussi le correspondant du journal Haïti en marche.	Il est l'auteur de Jean Rabel, un texte dans lequel il présente cette ville avec un lyrisme sans bornes.</p>
+    <p>
+      Gesner Jean Gilles est né en 
+      <location ana="Haiti">Haïti</location>
+      . Il fit ses premières armes à Télé 
+      <location ana="Haiti">Haiti</location>
+      . Il fut aussi le correspondant du 
+      <location ana="Journal">Journal</location>
+       
+      <location ana="Haiti">Haïti</location>
+       en marche.	Il est l'auteur de Jean Rabel, un texte dans lequel il présente cette ville avec un lyrisme sans bornes.
+    </p>
   </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Guetty_Felin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,23 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.guetty-felin.17710.html" xml:id="Guetty_Felin_bio_auteur_spla">
-    <p>De nationalité américaine.Née à Port-au-Prince (Haiti), et ayant grandi à New York (USA), la réalisatrice Américano-Haïtienne Guetty Felin a été plusieurs fois primée. Réalisatrice indépendante, elle exerce dans le cinéma et la télévision depuis 17 ans (en 2008).Avant de réaliser des documentaires, elle a travaillé comme productrice déléguée, productrice ainsi que distributrice de nombreux documentaires et fictions primés pour des télévisions européennes et américaines.Elle est mariée avec le réalisateur Français Hervé Cohen. Ils ont notamment coécrit et coréalisé OBAMA PLUS PRES DU REVE (2008), documentaire sur Barack Hussein OBAMA (deux versions : 101 min et 52 min).</p>
+    <p>
+      De nationalité américaine.Née à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haiti</location>
+      ), et ayant grandi à 
+      <location ana="New_York">New York</location>
+       (
+      <location ana="Usa">USA</location>
+      ), la réalisatrice Américano-
+      <location ana="Haitienne">Haïtienne</location>
+       Guetty Felin a été plusieurs fois primée. Réalisatrice indépendante, elle exerce dans le cinéma et la télévision depuis 17 ans (en 2008).Avant de réaliser des documentaires, elle a travaillé comme productrice déléguée, productrice ainsi que distributrice de nombreux documentaires et fictions primés pour des télévisions européennes et américaines.Elle est mariée avec le réalisateur Français Hervé Cohen. Ils ont notamment coécrit et coréalisé OBAMA PLUS PRES DU REVE (2008), documentaire sur Barack Hussein OBAMA (deux versions : 101 min et 52 min).
+    </p>
   </text>
 </TEI>

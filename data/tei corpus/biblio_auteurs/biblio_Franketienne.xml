@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Franketienne_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Frankétienne</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/franketienne/" xml:id="Franketienne_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="pyèsteyat">
+        <item>Pèlin-Tèt. Port-au-Prince: Éditions du Soleil, 1978; Pelentet (pyesteyat), nouvo vesyon. Lawrence, KS / Port-au-Prince: Enstiti Etid Ayisyen Inivesite Kannzas / Edisyon Espiral, 2002.</item>
+        <item>Troufobon. (1977) Port-au-Prince: Imprimerie Les Presses port-au-princiennes, 1979.</item>
+        <item>Bobomasouri. (1984) Port-au-Prince: Koleksyon Espiral, 1986.</item>
+        <item>Kaselezo. (1985) Dérives 53/54 (1986/1987): 125-163.</item>
+        <item>Totolomannwèl. Port-au-Prince, 1986.</item>
+        <item>Melovivi. Port-au-Prince, 1987.</item>
+        <item>Minywi mwen senk. Port-au-Prince, 1988.</item>
+        <item>Kalibofobo. Port-au-Prince, 1988.</item>
+        <item>Foukifoura. Port-au-Prince: Creacom, 2000.</item>
+        <item>Délire du prédateur déchu. Inédit.
+Joué pour la première fois au Parc Historique de la canne-à-sucre à Port-au-Prince et à Jacmel en 2011.</item>
+      </list>
+      <list subtype="roman">
+        <item>Dézafi. Port-au-Prince: Édision Fardin, 1975; Châteauneuf-le-Rouge: Vents d’ailleurs, 2002.</item>
+      </list>
+      <list subtype="in english">
+        <item>The Noose (Pèlin-Tèt). Trans. Asselin Charles. Metamorphoses, a journal of literary translation 11.1 (Spring 2003): 135ff.
+Mise en scène par Jaye Austin-Williams au 4e New Immigrant Theatre Festival, 1997.</item>
+        <item>See also translations in the special issue of the Journal of Haitian Studies (Spring 2008) in « Ouvrages collectifs » (reference below).</item>
+        <item>From Dezafi and Les Affres d’un défi (selections). Trans. Wynnie Lamour and Kaiama L. Glover. Transition 111 (2013): 59ff.</item>
+        <item>Ready to Burst. Trans. Kaiama L. Glover. Brooklyn: Archipelago Books, 2014.</item>
+        <item>Ultravocal. Trans. Kaiama L. Glover. Brooklyn: Archipelago Books, 2016.</item>
+        <item>Dezafi. Trans. Asselin Charles. Charlottesville: University of Virginia Press, 2018.</item>
+      </list>
+      <list subtype="en español">
+        <item>A punto de reventar. (Mûr à crever) Trad. Mercedes Bustamante. Isla Negra (Chile): Ambos Editores, 2008, 2012.</item>
+        <item>Dezafi: Angustia en la gallera. Trad. Mercedes Bustamante. Isla Negra: Ambos Editores, 2016.</item>
+      </list>
+      <list subtype="ouvrages collectifs">
+        <item>Jonassaint, Jean [sous la direction de]. « Frankétienne, Écrivain haïtien ». Numéro spécial de Dérives, 53/54 (1987).</item>
+        <item>Jonassaint, Jean [sous la direction de]. Journal of Haitian Studies. Numéro spécial sur Frankétienne 14.1 (Spring 2008).
+Articles de: Alessandra Benedicty, Rachel Douglas, Kaiama L. Glover, Jean Jonassaint, Seanna Sumalee Oakley et Alvina Ruprecht. Sélections de l’oeuvre de Frankétienne traduites en anglais (Gun Blesse America, H’Éros-Chimères, Kaselezo) avec des notes sur la traduction de Frankétienne par Isabelle Cata, Alison Dykman, Tracy Elizabeth Robey, Natalie Hampshire.</item>
+        <item>Jonassaint, Jean [sous la direction de]. Typo/Topo/Poéthique: sur Frankétienne. Paris: L’Harmattan, 2008.
+Articles de: Alessandra Benedicty, Yves Chemla, Daniel Desormeaux, Marie Andrée Manuel Étienne, Jean Jonassaint, Rafael Lucas, Henri Micciollo, Jean Norgaisse, Alvina Ruprecht, Marie-Denise Shelton, Guy Tegomo, Kunio Tsunekawa et Marc-Yves Volcy, avec des fac-similé de textes de Frankétienne.</item>
+      </list>
+      <list subtype="études sur frankétienne">
+        <item>Amédée, Marie-Michèle. « Les Proverbes en créole et dans le roman Dézafi. Étude linguistique, sociologique et stylistique ». Thèse de maîtrise, Université de Montréal, 1980.</item>
+        <item>Beaubrun, Mae-Lyna. « Structure et stylistique de Dézafi et de Les Affres d’un défi« . Mémoire de M.A. (maîtrise), Carleton University, Ottawa, 2002.</item>
+        <item>Benedicty, Alessandra. « Vodou, Ethics, and Aesthetics: Haiti and the Creole Poetics of Frankétienne, Jean-Claude Fignolé, and René Depestre ». Thèse de doctorat (Ph.D.), University of Wisconsin, Madison, 2004.</item>
+        <item>Bernard, Philippe. Rêve et littérature romanesque en Haïti de Jacques Roumain au mouvement spiraliste. Paris, L’Harmattan, 2003 (plus particulièrement le chapitre 4, pp. 201-293).</item>
+        <item>Berrouet-Oriol, Robert et R. Fournier. « Poétique, langage et schizophrénie: Frankétienne ». Poétiques et Imaginaires. Francopolyphonie littéraire des Amériques (sous la direction de Pierre Laurette &amp; H.-G. Ruprecht), Paris, L’Harmattan, 1995: 83-101.</item>
+        <item>Bouraoui, Hédi. « L’art de saturer pour raturer. À l’écoute d’Ultravocal de Frankétienne, Haïtuvois« . Montréal: Nouvelle Optique, 1980: 57-74.</item>
+        <item>Bouraoui, Hédi. « Frankétienne: Les Affres d’un défi« . Dérives 22 (1980): 65-69.</item>
+        <item>Bouraoui, Hédi. « L’Oeuvre romanesque de Frankétienne: nouveau tournant de la littérature haïtienne ». Mot pour Mot 11 (1983): 11-18.</item>
+        <item>Chamoiseau, Patrick et Raphaël Confiant. Lettres créoles. Tracées antillaises et continentales de la littérature: Haiti, Guadeloupe, Martinique, Guyane: 1635-1975. Paris: Hatier, 1991.</item>
+        <item>Chancé, Domnique. « Astres et désastres dans L’Oiseau schizophone, de Frankétienne ». Ponti/Ponts 4 (2004): 303-321.</item>
+        <item>Chancé, Dominique. « Lire L’Oiseau schizophone de Frankétienne en écho au Finnegans Wake de Joyce ». Interculturel Francophonies 12 (novembre-décembre 2007): 17-40.</item>
+        <item>Chancé, Dominique. « Frankétienne ». Écritures du chaos. Saint-Denis (France): Presses Universitaires de Vincennes, 2009: 23-94.</item>
+        <item>Chassagne, Raymond. « Dénotatif et connotatif dans la peinture de Franck Étienne ». Conjonction 160 (janvier 1984): 9-13.</item>
+        <item>Confiant, Rafaël. « Kreyol pale, kreyol matje… analyse des significations attachées aux aspects littéraires, linguistiques et socio-historiques de l’écrit créolophone entre 1750 et 1995 aux petites Antilles, en Guyane et en Haïti ». Thèse de doctorat, Université des Antilles et de la Guyane, 1997.</item>
+        <item>Delas, Daniel. Littératures des Caraïbes de langue française. Paris: Nathan Université, 1999.</item>
+        <item>Dominique, Max. « Questionner Dézafi ». Conjonction 169 (1986): 27-38.</item>
+        <item>Dominique, Max. « Jeux intertextuels dans Bobomasouri de Frankétienne ».  Esquisses critiques. Montréal / Port-au-Prince: Cidihca / Mémoire, 1999: 251-257.</item>
+        <item>Dorval, Gérald. « La parole de la crève ». Études. Romans et peintures (premier cahier). Port-au-Prince: Fardin, 1975: 77-95.</item>
+        <item>Douaire, Anne. « La Fascination du mal: Frankétienne, Ultravocal« .  Plurial 10 (Presses Universitaires de Rennes, 2003): 67-83.</item>
+        <item>Douglas, Rachel. « An Aborted Miracle: The Significance and Aftermath of the Haitian Revolution in Frankétienne’s H’éros-chimères and Miraculeuse« . Journal of Haitian Studies 10.2 (fall 2004): 78-94.</item>
+        <item>Douglas, Rachel. « Transformation of the Framing Mise en Abyme in Frankétienne’s Rewriting ». Framed! Essays in French Studies. New York: Peter Lang, 2007: 109-126.</item>
+        <item>Douglas, Rachel. « Haitian Revolutions in Literature: The Case of Linguistic and Visual Inventiveness in Frankétienne ». Small Axe 27 (12.3, October 2008): 58-70.</item>
+        <item>Douglas, Rachel. « Innovation, subversion et renouvellement générique : la spirale et l’écriture quantique dans l’œuvre de Frankétienne ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 291-301.</item>
+        <item>Fanfan, Daniel. Clin d’oeil sur l’œuvre de Frank Etienne. Le structuralisme, le spiralisme, quel rapport? Port-au-Prince: Presses de l’Imprimerie Nouvelle Lune, 2001.</item>
+        <item>Glover, Kaiama L. « Spiralisme and Antillanité: Constructions of the Real and the Ideal in Twentieth Century Francophone Fiction ». Thèse de doctorat (Ph.D.), Columbia University, 2002.</item>
+        <item>Glover, Kaiama. « Écrire la schizophrénie. La configuration du personnage dans les œuvres « spiralistes » de Frankétienne, Jean-Claude Fignolé et René Philoctète ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 83-96.</item>
+        <item>Innocent, Garnel. Leksife / Leksik Franketienne. Port-au-Prince: Éditions B.H., 2004.</item>
+        <item>Jonassaint, Jean. « D’un exemplaire créateur souterrain: un entretien avec Frankétienne ». Writing Under Siege: Haitian Literature, 1804-2004. Marie-Agnès Sourieau and Kathy Balutansky, dirs. Amsterdam: Rodopi, 2004.</item>
+        <item>Jonassaint, Jean. « Beyond Painting or Writing: Frankétienne’s Poetic Quest ». Research in African Literatures 35.2 (Summer 2004): 141-156.</item>
+        <item>Lafontant Medard, M. « Pour une lecture de Dézfazi« . Conjonction 140 (1978): 55-97.</item>
+        <item>Lamarre, Joseph M. « Dézafi, le premier roman créole de la littérature haïtienne ». Présence francophone 21 (1980): 137-154.</item>
+        <item>Laroche, Maximilien. « Dézafi de Frankétienne ». Espace créole 2 (1977): 107-111.</item>
+        <item>Laroche, Maximilien. « Du collage au montage: Dézafi de Frankétienne, L’Image comme écho ». Montréal: Nouvelle Optique, 1978: 165-175.</item>
+        <item>Lucas, Rafaël. « Frankétienne, l’écriture de la possession et la modernité créole ». Le Monde Caraïbe, Echanges transatlantiques et horizons post-coloniaux. Christian Lerat, dir. Pessac: Maison des Sciences de l’Homme, 2003: 35-54.</item>
+        <item>Martelly, Stéphane. Les jeux du dissemblable: folie, marge et féminin en littérature haïtienne contemporaine. Montréal: Nota Bene, 2016.</item>
+        <item>Morel, A. « Frankétienne, romancier haïtien au carrefour de deux cultures ». Journal Comparative Study of Civilizations 1 (1985): 95-101.</item>
+        <item>Nzengou-Tayo, Marie-José. « La migration populaire haitienne au théâtre: Pèlin tèt de Frankétyèn et DPM Kanntè de Jan Mapou ». Les Théâtres francophones et créolophones de la Caraïbe. Alvina Ruprecht, dir. Paris: l’Harmattan 2003: 111-134.</item>
+        <item>Ruprecht, Alvina. « Les pratiques scéniques et textuelles de la région caribéenne francophone et créolophone: mise au point ». Les Théâtres francophones et créolophones de la Caraïbe. Alvina Ruprecht, dir. Paris: l’Harmattan 2003: 11-34.</item>
+        <item>Ruprecht, Alvina. « Haitian Theatre: Incursions into Dramaturgy and Performance ». Essays in Theatre/ Études théâtrales 20.1 (novembre 2001): 51-65.</item>
+        <item>Ruprecht, Alvina. « Théâtres antillais et guyanais: perspectives actuelles ».  L’Annuaire théâtral 28 (4e trimestre 2000), Publication de la SQET (Société québécoise d’études théâtrales): 11-20.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Batraville, Dominique. « Frankétienne : dramaturge et comédien ». Conjonction 207 (2002): 89-91.</item>
+        <item>Berrouet-Oriol, Robert et R. Fournier. « Imaginaires et parcours poétiques ». Poétiques et Imaginaires. Francopolyphonie littéraire des Amériques (sous la direction de Pierre Laurette et Hans-George Ruprecht). Paris: L’Harmattan, 1995: 47-68.</item>
+        <item>Chemla, Yves et Daniel Pujol. « Entretien avec Frankétienne ». Notre Librairie 133 (janvier-avril 1998): 113-117.</item>
+        <item>Clitandre, Pierre. « Franck Étienne n’écrit plus en français ». Le Petit Samedi Soir 294 (1979): 25-26.</item>
+        <item>Entrevue exclusive avec l’auteur de « Bobo Massouri [sic] ». Haïti-Observateur (12-19 avril 1985).</item>
+        <item>F. Etienne. « Spiralisme et Vision ». Le Nouvelliste (26 novembre 1968).</item>
+        <item>Fanon, J. « Frankétienne: la passion d’Haïti ». Demain l’Afrique 30 (1979): 75, 78, 79, 82.</item>
+        <item>Fleishchmann, U. « Entrevue avec Frankétienne sur son roman Dézafi ». Dérives 7 (1977): 17-25.</item>
+        <item>Hadjadj, Bernard. Frankétienne, l’universel haïtien: entretiens. Paris: Riveneuve, 2012.</item>
+        <item>Laferrière, Dany et Clitandre. « D’Univocal à la peinture, une certaine continuité ». Le Petit Samedi Soir 77 (1974): 6-8.</item>
+        <item>Philoctète, René. « Le Spiralisme, une nouvelle école littéraire ». Le Nouveau monde (29 mai 1972).</item>
+      </list>
+      <list subtype="dans la presse (sélections)">
+        <item>Aissaoui, Mohammed. « Haïti: les écrivains sortent de l’ombre ». Le Figaro (25 mai 2004): 27.</item>
+        <item>Aubel, François. « En Haïti, les chimères de Frankétienne ». Epok (magazine de la FNAC, Paris, 2004): 56-61.</item>
+        <item>Bédarida, Catherine. « Frankétienne, le cri du cœur haïtien ». Le Monde (25 juin 2004).</item>
+        <item>Charles, Christophe. « Discours politique et discours littéraire ». Le Petit Samedi Soir 141 (1976): 26-28.</item>
+        <item>Clitandre, Pierre et Dany Laferrière. « Frankétienne ou le dialogue spiraliste ». Le Petit Samedi Soir 77 (1974): 4-5.</item>
+        <item>Clitandre, Pierre. « Dézafi: une charge baroque ». Le Petit Samedi Soir 114 (1975): 10, 13.</item>
+        <item>Des Essarts, M. « L’affiche Frankétienne [sic] à l’Institut français ».  Le Nouveau Monde (6 avril 1983).</item>
+        <item>Des Essarts, M. « Kaselezo ou la genèse d’une révolte ». Le Nouveau Monde (30 mai 1985).</item>
+        <item>Des Essarts, M. « Frankétienne: de Fleurs d’insomnie à Totolomanwel, un parcours sans faille ». Enquêtes 5 (30 novembre-15 décembre 1986).</item>
+        <item>Dolce,Jacquelin. « Rencontre avec deux toiles de Frankétienne ». Le Petit Samedi Soir 77 (1974): 9.</item>
+        <item>Dominique, Max. « Oun ti ralé sou Dézafi, roman Frankétienne ». En avant 6 (1976): 11.</item>
+        <item>Dorval, G. « Du sel pour la liberté ». Le Petit Samedi Soir 117 (1975): 11-14.</item>
+        <item>Dumas, Pierre-Raymond. « Frankétienne, un écrivain haïtien nobélisable ». Le Nouvelliste (1er-3 août 2003): 8 et ss.</item>
+        <item>Duprat, B. « Kaselezo de nouveau en Haïti ». Le Nouvelliste (25 juin 1986).</item>
+        <item>Fardin, Daniel.  « Ultravocal, une œuvre étrange ». Le Petit Samedi Soir 13 (1972): 7-8.</item>
+        <item>Fardin, Daniel et Jean-Claude Fignolé.  « Dialogue à bâtons rompus sur le spiralisme ». Le Petit Samedi Soir 13 (1972): 22-24, 26.</item>
+        <item>Fardin, Daniel. « Frankétienne artiste ». Le Petit Samedi Soir 77 (1974): 3, 14.</item>
+        <item>Gaillard, Roger. « Frankétienne, créateur et voyant ». Le Petit Samedi Soir 118 (1975): 10-12.</item>
+        <item>Guiteau, Carl Henri. « Dézafi: un fleuve impétueux… ». Le Petit Samedi Soir 115 (1975): 7-8.</item>
+        <item>Henriquez, Pradel. « Mégalomania: Frankétienne, le maître de l’aube ». Le Nouvelliste (24 juin 2004): 11, 14.</item>
+        <item>Hérard, H. « Kaselezo en français et en France ». Le Matin (20 juin 1986).</item>
+        <item>Jean,Eddy Arnold. « À propos d’Ultravocal de Frankétienne » Le Petit Samedi Soir 17 (1973): 35-36.</item>
+        <item>[Jonassaint, Jean]. « Oun dézièm ti ralé sou Dézafi, roman Frankétienne ». En avant 8 (1976): 14-15.</item>
+        <item>La Meslée, Valérie Marin. « Frankétienne: la spirale et le chaos ». Magazine littéraire 431 (mai 2004): 98-99.</item>
+        <item>Louis-Jacques, O. « Bobo Masouri [sic] ». Haïti-Observateur (19-26 avril 1985).</item>
+        <item>Loupias, Bernard. « Frankétienne le flamboyant ». Le Nouvel Observateur 1782 (30 décembre 1998 – 6 janvier 1999): 42-43.</item>
+        <item>Manuel Étienne, M.A. « Transmutation par le sel ». Le Petit Samedi Soir 115 (1975): 11-12.</item>
+        <item>Paillière, Madeleine. « Verbe et dynamisme dans une géographie intellectuelle ». Le Petit Samedi Soir 17 (1973): 7-17.</item>
+        <item>Rodin, J. L. « ‘Bobomasouri’ au niveau de l’engagement et du langage ». Haïti-Progrès (17-23 avril 1985).</item>
+        <item>Romeus,Wilhelm. « Par les chemins de la douleur ou Ultravocal de Frankétienne ». Le Petit Samedi Soir 13 (1972): 10-12.</item>
+        <item>Roumer, Émile. « Dézafi vu par É. Roumer ». Le Petit Samedi Soir 115 (1975): 6.</item>
+        <item>Saint Martin, M. « Une voix de la diaspora: M. Saint Martin parle de Dézafi« . Le Petit Samedi Soir 135 (1976): 21-28.</item>
+        <item>Soukar, Michel. « Dézafi: le rêve éveillé de la zombification ». Le Petit Samedi Soir 114 (1975): 9.</item>
+        <item>Togiram. « Dézafi krazé défi ». Le Petit Samedi Soir 114 (1975): 11.</item>
+      </list>
+      <list subtype="en français">
+        <item>Au Fil du temps (poèmes). Port-au-Prince: Imprimerie des Antilles, 1964.</item>
+        <item>La Marche (poèmes). Port-au-Prince: Éditions Panorama, 1964.</item>
+        <item>Mon côté gauche (poèmes). Port-au-Prince: Imprimerie Gaston, 1965.</item>
+        <item>Vigie de verre. Port-au-Prince: Imprimerie Gaston, 1965.</item>
+        <item>Chevaux de l’avant-jour (poème). Port-au-Prince: Imprimerie Gaston, 1965.</item>
+        <item>Mûr à crever (genre total). Port-au-Prince: Presses port-au-princiennes (coll. »Spirale »), 1968; Port-au-Prince: Éd. Mémoire, 1994; Bordeaux: Ana Éditions, 2004; Paris: Hoëbeke, 2013.</item>
+        <item>Ultravocal (spirale). Port-au-Prince: Imprimerie Gaston, 1972; Paris:Hoëbeke, 2004.</item>
+        <item>Les Affres d’un défi (roman). Port-au-Prince: Deschamps, 1979; Paris: Jean-Michel Place, 2000.</item>
+        <item>Zagolkoray (spirale). Port-au-Prince, 1983.</item>
+        <item>Fleurs d’insomnie (spirale). Port-au-Prince: Deschamps, 1986.</item>
+        <item>Les Chevaux de l’avant-jour (poésie). (1966) Version revue et corrigée, in: Dérives 53/54 (1986/1987): 41-86.</item>
+        <item>Adjanoumelezo (spirale). Port-au-Prince, 1987.</item>
+        <item>L’Oiseau schizophone (spirale). Port-au-Prince: Éditions des Antilles, 1993; Paris: Jean-Michel Place, 1998.</item>
+        <item>L’Amérique saigne (Gun Blesse America) (roman, co-produit avec Claude Dambreville). Port-au-Prince: Microplus, 1995.</item>
+        <item>D’un pur silence inextinguible. (Premier mouvement des métamorphoses de l’Oiseau schizophone). Port-au-Prince: Spirale, 1996.</item>
+        <item>La nocturne connivence des corps inverses. Port-au-Prince: Spirale, 1996.</item>
+        <item>D’une bouche ovale. Port-au-Prince: Spirale, 1996.</item>
+        <item>La méduse orpheline. Port-au-Prince: Spirale, 1996.</item>
+        <item>Une étrange cathédrale dans la graisse des ténèbres. Port-au-Prince: Spirale, 1996.</item>
+        <item>Clavier de sel et d’ombre. Port-au-Prince: Spirale, 1997.</item>
+        <item>Les échos de l’abîme. Port-au-Prince: Spirale, 1997.</item>
+        <item>Et la voyance explose. Port-au-Prince: Spirale, 1997.</item>
+        <item>Voix marassas (spirale francréolophonique). Port-au-Prince: Spirale, 1998.</item>
+        <item>Rapjazz, Journal d’un paria. Port-au-Prince: Spirale, 1999; Montréal: Mémoire d’encrier, 2011.</item>
+        <item>Oeuf de lumière / Huevo de luz (poèmes). Port-au-Prince: Spirale, 2000.</item>
+        <item>H’Eros chimères. Port-au-Prince: Spirale, 2002.</item>
+        <item>Miraculeuse. Port-au-Prince: Spirale, 2003.</item>
+        <item>Les Métamorphoses de l’Oiseau schizophone (intégralité en huit volumes). La Roque d’Anthéron (France): Vents d’Ailleurs:
+
+D’un pur silence inextinguible. (1993, 1996). 2004.
+D’une bouche ovale. (1996). 2005.
+ La méduse orpheline. (1996). 2005.
+ La nocturne connivence des corps inversés. (1996). 2005.
+ Une étrange cathédrale dans la graisse des ténèbres. (1996). 2006.
+ Clavier de sel et d’ombre. (1997). 2012.
+ Les échos de l’abîme. (1997). 2013.
+ Et la voyance explose. (1997). 2013.
+
+</item>
+        <item>D’un pur silence inextinguible. (1993, 1996). 2004.</item>
+        <item>D’une bouche ovale. (1996). 2005.</item>
+        <item> La méduse orpheline. (1996). 2005.</item>
+        <item> La nocturne connivence des corps inversés. (1996). 2005.</item>
+        <item> Une étrange cathédrale dans la graisse des ténèbres. (1996). 2006.</item>
+        <item> Clavier de sel et d’ombre. (1997). 2012.</item>
+        <item> Les échos de l’abîme. (1997). 2013.</item>
+        <item> Et la voyance explose. (1997). 2013.</item>
+        <item>Brèche ardente. Port-au-Prince: Spirale, 2005.</item>
+        <item>Anthologie secrète. Montréal: Mémoire d’encrier, 2005.</item>
+        <item>Fleurs d’insomnie, réécriture. Port-au-Prince: Spirale, 2005.</item>
+        <item>Adjanoumelezo, réécriture. Port-au-Prince: Spirale, 2005.</item>
+        <item>La Diluvienne. Port-au-Prince: Spirale, 2006.</item>
+        <item>Galaxie Chaos-Babel (spirale). Port-au-Prince: Spirale, 2006.</item>
+        <item>Mots d’ailes en infini d’abîmes. Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+        <item>Feu de proie. Port-au-Prince: Spirale, 2007.</item>
+        <item>Heures brèves (spirale poétique). Port-au-Prince: Spirale, 2007.</item>
+        <item>Le Sphinx en feu d’énigmes (spirale poétique). Port-au-Prince: Spirale, 2007.</item>
+        <item>Corps sans repères (spirale). Port-au-Prince: Spirale, 2007.</item>
+        <item>Amours, délices et orgues (spirale). Port-au-Prince: Deschamps, 2008.</item>
+        <item>Melovivi ou Le piège suivi de Brèche ardente. Paris: Riveneuve Continents, 2010.</item>
+        <item>Textamentaire. Port-au-Prince: Spirale, 2010.</item>
+        <item>Visa pour la lumière. Port-au-Prince: Spirale, 2010.</item>
+        <item>Chaophonie. Montréal: Mémoire d’encrier, 2014.</item>
+        <item>La marquise sort à cinq heures. La Roque d’Anthéron: Vents d’Ailleurs, 2017.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>« Tout jeu. Tout vice. Mort raide. Point de faire part ». Le Petit Samedi Soir 78-79 (1974-1975): 11-13.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>« Zago Loray. Senfoni an « zodomajè » ». Premye Deboulaw (poésie). s.é.n.l.n.d. (microsillon), 1983.</item>
+        <item>Chaophonies, textes et voix: Frankétienne; musique: Mark Mulholland. CD audio 2012.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Une étrange cathédrale dans la graisse des ténèbres, avec Frankétienne. Réalisation: Charles Najman; Production: Gilles Le Mao, La Huit, 2011, 78 minutes.</item>
+        <item>Délire du prédateur déchu, film d’Arnold Antonin, texte de Frankétienne avec l’auteur dans le rôle principal de la pièce, 2012.</item>
+        <item>Dans l’oeil de la spirale / In the Eye of the Spiral, par Raynald Leconte et Eve Blouin, avec Frankétienne, 2012, 72 minutes.</item>
+        <item>Traversée des mondes de Frankétienne. Réalisation: Arnold Antonin, 2015.</item>
+      </list>
+      <list subtype="textes de frankétienne enregistrés et mis en musique">
+        <item>« Si », poème de Frankétienne mis en musique et interprété par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson, Port-au-Prince: Productions Batofou, 2005.</item>
+        <item>« Spasmes », poème de Frankétienne dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+      </list>
+      <list subtype="sélection de textes publiés dans des ouvrages collectifs">
+        <item>« Le creuset de l’obscène » (extrait d’H’Éros-Chimères) et un extrait de Miraculeuse. Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 148-151.</item>
+        <item>« Variations poétiques autour de Gouverneurs de la Rosée ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 101-104.</item>
+        <item>« Ma ville est dans mon ventre ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 71-73.</item>
+        <item>« Requiem de lune amère », poème. Riveneuve Continents 13 (Printemps 2011): 15-16.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1992     Session spéciale en hommage à Frankétienne, avec la présence de l’auteur, Congrès du CIEF, Strasbourg.</item>
+        <item>2001     Hommage à Frankétienne, mois de la langue créole, Montréal.</item>
+        <item>2001     Hommage à Frankétienne par ses élèves, Pétion-Ville.</item>
+        <item>2002     Prix Carbet de la Caraïbe, pour H’Éros chimères.</item>
+        <item>2003     Prix de leadership dans le domaine social délivré par Toast Masters International.</item>
+        <item>2004     Distinction remise par l’Association des Artistes Haïtiens de New York.</item>
+        <item>2004     Medalla de Honor Presidencial Centenario Pablo Neruda.</item>
+        <item>2005     Grand Prix du Livre Insulaire (Ouessant), le Prix des îles du Ponant, pour Anthologie Secrète.</item>
+        <item>2006     Prix International Union Latine de Littératures Romanes (Rome), pour l’ensemble de son œuvre.</item>
+        <item>2006     Prix Prince Claus (Pays-Bas), pour l’ensemble de son œuvre artistique, son usage poétique de la langue, son engagement en faveur des langues locales et sa contribution à la langue et à la culture régionales.</item>
+        <item>2006     Désigné « Trésor National Vivant » d’Haïti (avec Michèle Pierre-Louis et Azor [Lenord Fortuné]) par la Fondation Françoise Canez Auguste et Image et Marketing (Haïti).</item>
+        <item>2007     Prix Honneur et Mérite délivré par les Organisations populaires d’Haïti.</item>
+        <item>2008     Hommage à « L’Écrivain Quisqueyen » par le Ministre de la Culture dominicain.</item>
+        <item>2008     Mapou d’Or 2008, premier récipient du prix de la Fondation pour la reconnaissance des œuvres majeures (Forom).</item>
+        <item>2010     Artiste de l’UNESCO pour la Paix.</item>
+        <item>2010     Commandeur dans l’Ordre des Arts et des Lettres de la France.</item>
+        <item>2012     Grand Prix National des Lettres décerné par les Presses Nationals d’Haïti.</item>
+        <item>2012     Certificat Honneur et Mérite du Ministère des Affaires Étrangères d’Haïti.</item>
+        <item>2012     Diplôme Honneur et Mérite au grade de Grand Officier décerné par le président d’Haïti Michel Martelly.</item>
+      </list>
+      <list subtype="principales expositions">
+        <item>1974     Salle Dante Alighieri, Ambassade d’Italie, Port-au-Prince.</item>
+        <item>1983     Institut Français d’Haïti, Port-au-Prince.</item>
+        <item>1984     Institut Français d’Haïti, Port-au-Prince.</item>
+        <item>1985     Vernissage du tryptique (20×2 mètre), Hall de l’Institut Français d’Haïti, Port-au-Prince.</item>
+        <item>1988     Festival Arts Gallery, Port-au-Prince.</item>
+        <item>1990     Tufts University, Boston.</item>
+        <item>1990     Musée Afro-Américain, Boston.</item>
+        <item>1991     Institut Français d’Haïti, Port-au-Prince.</item>
+        <item>1992     Librairie Klébert, Strasbourg.</item>
+        <item>1993     Latin American Museum, Miami.</item>
+        <item>1993     Galerie Moderne, Paris.</item>
+        <item>1993     La Maison de la Culture, Berlin.</item>
+        <item>1994     Centre Culturel Haïtiano-Suédois, Göteborg (Suède).</item>
+        <item>1994     Université de Stockholm.</item>
+        <item>1994     Maneren Galerie, Göteborg (Suède).</item>
+        <item>1994     Casa de Francia, Santo Domingo (République dominicaine).</item>
+        <item>1995     Les Ateliers Jean René Jérôme, Port-au-Prince.</item>
+        <item>1996     Festival Arts Gallery, Port-au-Prince.</item>
+        <item>1996     Basse Terre, Guadeloupe.</item>
+        <item>1996     Cayenne, Guyane.</item>
+        <item>1996     UCLA, Los Angeles.</item>
+        <item>1996     Florida State University.</item>
+        <item>1997     La Chaux-de-Fonds, Suisse.</item>
+        <item>1997     Festival Arts Gallery, Port-au-Prince.</item>
+        <item>1999     Galerie de SHIBUYA, Tokyo.</item>
+        <item>2000     Queens Village, New York.</item>
+        <item>2003     Weston, Miami.</item>
+        <item>2003     Pierre Brooks Library, Miami.</item>
+        <item>2003     Salon du Livre et de la Culture, Francfort.</item>
+        <item>2004     « Entre ténèbres et lumières », exposition à l’occasion du bicentenaire haïtien. Port-au-Prince: Musée d’art haïtien du Collège St-Pierre. Voir Frankétienne: entre ténèbres et lumières. (Catalogue de l’exposition du 21 mai au 23 juillet 2004, avec des textes de Frankétienne, Jean Jonassaint, Michel-Philippe Lerebours, Gérald Merceron et Lyonel Trouillot).</item>
+        <item>2008     Exposition des dernières œuvres au showroom de Valerio Canez à Chateaublond (Port-au-Prince).</item>
+        <item>2009     Exposition d’une trentaine de pièces à l’Ambassade de la République Dominicaine en Haïti.</item>
+        <item>2009     Exposition d’une cinquantaine de tableaux au showroom de Valerio Canez.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/franketienne-dezafi-et-fleurs-dinsomnie/">Dezafi</item>
+        <item ref="http://ile-en-ile.org/franketienne-lenergie-linguistique-dans-loeuvre-de-franketienne/">L’énergie linguistique dans l’œuvre de Frankétienne</item>
+        <item ref="http://ile-en-ile.org/franketienne-foukifoura/"> Foukifoura</item>
+        <item ref="http://ile-en-ile.org/franketienne-5-questions-pour-ile-en-ile/">Frankétienne, 5 Questions pour Île en île</item>
+        <item ref="http://ile-en-ile.org/franketienne-a-la-journee-du-livre-haitien/">Frankétienne à la journée du livre haïtien</item>
+        <item ref="http://ile-en-ile.org/kiskeya-franketienne/">Kiskeya, l’île mystérieuse</item>
+        <item ref="http://ile-en-ile.org/franketienne-la-marquise/">La marquise sort à cinq heures</item>
+        <item ref="http://ile-en-ile.org/franketienne-rapjazz/"> Rapjazz</item>
+        <item ref="http://memoiredencrier.com/franketienne/">Mémoire d’encrier</item>
+        <item ref="http://wayback.archive.org/web/*/http://www.franketienne.com">ancien site officiel</item>
+        <item ref="http://www.lenational.org/">Le National</item>
+        <item ref="http://jacbayle.club.fr/livres/Haiti/Franketienne_8.html">Anthologie secrète</item>
+        <item ref="http://www.carleton.ca/califa/lecture.htm">Lecture critique comparée de Dézafi et de Les Affres d’un défi de Frankétienne: réécriture ou traduction?</item>
+        <item ref="http://www.lire.fr/critique.asp/idC=46891/idR=218/idG=3">L’esthétique des ruines</item>
+        <item ref="http://www.rfi.fr/emission/20130605-1-le-poete-haitien-franketienne/">Le poète haïtien Frankétienne</item>
+        <item ref="http://homepage.mac.com/chemla/fic_doc/Frank_sorb.html">Iconographie, schizophonie et autobiographie dans H’éros-chimères de Frankétienne</item>
+        <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=57387&amp;PubDate=2008-05-13">Frankétienne persiste et signe</item>
+        <item ref="http://pierre.campion2.free.fr/douaire.htm">Ultravocal, de Frankétienne</item>
+        <item ref="http://casadelasamericas.org/publicaciones/revistacasa/233/frank.htm">Entre el sueño y la pesadilla</item>
+        <item ref="http://perso.infonie.be/easy/conf%20franketienne.htm">L’Identité culturelle haïtienne</item>
+        <item ref="http://moloss.us/fall1/franketienne">Ripe to Burst</item>
+        <item ref="http://www.potomitan.info/kauss/spiralisme.php">Le spiralisme de Frankétienne</item>
+        <item ref="http://www.msh-m.fr/article.php3?id_article=497">Les langues totalitaires à l’épreuve de la schizophonie; Étude de L’Oiseau schizophone de Frankétienne</item>
+        <item ref="http://trans.univ-paris3.fr/spip.php?article279">Frankétienne, maître du Chaos</item>
+        <item ref="https://youtu.be/9VI4CdJJLNU">Des Livres &amp; vous</item>
+        <item ref="http://www.liberation.fr/livres/2013/06/05/des-mots-sales-des-mots-sucres-des-aigres-doux_908576">« Des mots salés, des mots sucrés, des aigres-doux »</item>
+        <item ref="http://www.lenational.org/prophetie-predetermination-catharsis-psychose-extravagance-lextase-creatrice-de-franketienne/">Prophétie, prédétermination, catharsis, psychose et extravagance dans l’extase créatrice de Frankétienne</item>
+      </list>
+    </div>
+  </div>
+  <div ref="http://www.spla.pro/fiche.personne.franketienne.4348.html" xml:id="Franketienne_biblio_auteur_spla">
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://www.franketienne.com">Website FrankÃ©tienne </item>
+      </list>
+    </div>
+  </div>
+</TEI>

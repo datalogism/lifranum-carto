@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Antoine_Innocent_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,16 +12,84 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/innocent_antoine/" xml:id="Antoine_Innocent_bio_auteur_ile_en_ile">
-    <p>Antoine Innocent est né à Port-au-Prince en 1873. Il fréquente le Lycée Alexandre Pétion de Port-au-Prince où il fait ses études classiques, puis y devient professeur de français et d’histoire. Il est collaborateur de La Ronde, revue littéraire fondée en 1898 à la suite de la Jeune Haïti (1895-1898) autour de Pétion Gérôme, son directeur, et d’autres écrivains dont Georges Sylvain et Dantès Bellegarde. Il est aussi membre de L’Œuvre, une association littéraire et théâtrale fondée par le poète Massillon Coicou. Il travaille au Sénat de la République où il occupe le poste de Secrétaire pendant une trentaine d’années.</p>
-    <p>Antoine Innocent est considéré par la critique officielle et traditionnelle comme un indigéniste avant la lettre. Il appartient à deux périodes de la littérature haïtienne, du coup à deux générations d’écrivains : la période classique (1804-1915) et la période indigéniste ou culturo-nationaliste (1915-1957). Ce sont les deux premières périodes de la littérature. Les troisième et quatrième périodes sont donc le renouveau humaniste (1957-1986) et l’époque contemporaine (1986 à nos jours). Innocent est le premier romancier haïtien à choisir d’explorer un univers nouveau : le vaudou avec ses rites, ses temples et ses dieux. Il ouvre donc la voie, d’abord aux indigénistes ou culturo-nationalistes, puis à tous ceux qui, plus tard, feront de la paysannerie, du vaudou et des croyances populaires des éléments clés de leurs productions.</p>
-    <p>En 1906, il publie son unique roman, Mimola, qui paraît d’abord en feuilleton dans Le Soir, journal dont il a été rédacteur. Mimola ou L’histoire d’une cassette, sous-titré Petit tableau de mœurs locales, est, à plusieurs points de vue, un roman très significatif. Tante Rosalie est une prêtresse du vaudou, ancienne esclave de la colonie de Saint-Domingue. Au soir de sa vie, elle confie à sa fille, Julie – devenue madame Georges –, le soin de jeter à la mer une vieille malle contenant les objets de son culte aux dieux africains. Question de ne pas perpétuer la tradition. Et voilà que la malédiction s’abat sur la famille. Georges, le mari, mourra, suivi de six des sept enfants de la famille. Lala, de son vrai nom Mimola, est atteinte d’un mal incurable. Désespérée, la mère entreprend le jour de la fête de Mont-Carmel un pèlerinage à Saut-d’Eau (Ville-Bonheur) en vue d’implorer la Vierge des Miracles en faveur de sa fille. Elle y fait la rencontre de bien d’autres pèlerins ; parmi eux, il y a madame Dajobert, dont le fils, Léon, est aussi atteint de troubles psychologiques. De retour chez eux, Lala prend le « ason ». Elle devient mambo et se remet de son mal. Léon, de son côté, formé à Paris, méprisant le culte vaudou, devient fou.</p>
-    <p>Récit authentique, roman indigène, Antoine Innocent dresse, à travers Mimola un tableau fidèle des croyances populaires et les réalités folkloriques d’Haïti. Il y met en relief tout un pan des traditions et des pratiques liées aux valeurs ancestrales. Le vaudou, religion de nos ancêtres, est ainsi présenté comme cette sorte de ciment qui unit et relie tous les Haïtiens, sans distinction de race ou de classe. Roman précurseur, avec Mimola, Innocent offre un portrait fidèle des croyances et réalités de la paysannerie et de l’arrière-pays et des pratiques du culte vaudou dont les racines sont à chercher dans les cultures africaines.</p>
-    <p>Antoine Innocent meurt le 13 avril 1960 à l’âge de 87 ans.</p>
-    <p>– Dieulermesson Petit Frère</p>
+    <p>
+      <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+       est né à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       en 1873. Il fréquente le Lycée 
+      <persName ana="Alexandre_Petion">
+        Alexandre 
+        <location ana="Petion">Pétion</location>
+      </persName>
+       de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       où il fait ses études classiques, puis y devient professeur de français et d’histoire. Il est collaborateur de La Ronde, revue littéraire fondée en 1898 à la suite de la Jeune 
+      <location ana="Haiti">Haïti</location>
+       (1895-1898) autour de 
+      <persName ana="Petion_Gerome">
+        <location ana="Petion">Pétion</location>
+         Gérôme
+      </persName>
+      , son 
+      <location ana="Directeur">Directeur</location>
+      , et d’autres écrivains dont 
+      <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+       et 
+      <persName ana="Dantes_Bellegarde">
+        Dantès 
+        <location ana="Bellegarde">Bellegarde</location>
+      </persName>
+      . Il est aussi membre de L’Œuvre, une association littéraire et théâtrale fondée par le poète 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+      . Il travaille au Sénat de la République où il occupe le poste de Secrétaire pendant une trentaine d’années.
+    </p>
+    <p>
+      <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+       est considéré par la critique officielle et traditionnelle comme un indigéniste avant la lettre. Il appartient à deux périodes de la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+      , du coup à deux générations d’écrivains : la période classique (1804-1915) et la période indigéniste ou culturo-nationaliste (1915-1957). Ce sont les deux premières périodes de la littérature. Les troisième et quatrième périodes sont donc le renouveau humaniste (1957-1986) et l’époque contemporaine (1986 à nos jours). Innocent est le premier romancier haïtien à choisir d’explorer un univers nouveau : le vaudou avec ses rites, ses temples et ses dieux. Il ouvre donc la voie, d’abord aux indigénistes ou culturo-nationalistes, puis à tous ceux qui, plus tard, feront de la paysannerie, du vaudou et des croyances populaires des éléments clés de leurs productions.
+    </p>
+    <p>
+      En 1906, il publie son unique roman, Mimola, qui paraît d’abord en feuilleton dans Le Soir, 
+      <location ana="Journal">Journal</location>
+       dont il a été rédacteur. Mimola ou L’histoire d’une cassette, sous-titré Petit tableau de mœurs locales, est, à plusieurs points de vue, un roman très significatif. 
+      <persName ana="Tante_Rosalie">Tante Rosalie</persName>
+       est une prêtresse du vaudou, ancienne esclave de la colonie de Saint-Domingue. Au soir de sa vie, elle confie à sa fille, Julie – devenue madame 
+      <persName ana="Georges_–">Georges –</persName>
+      , le soin de jeter à la 
+      <location ana="Mer">Mer</location>
+       une vieille malle contenant les objets de son culte aux dieux africains. Question de ne pas perpétuer la tradition. Et voilà que la malédiction s’abat sur la famille. Georges, le mari, mourra, suivi de six des sept enfants de la famille. Lala, de son vrai nom Mimola, est atteinte d’un mal incurable. Désespérée, la mère entreprend le jour de la fête de Mont-Carmel un pèlerinage à Saut-d’Eau (Ville-
+      <location ana="Bonheur">Bonheur</location>
+      ) en vue d’implorer la 
+      <persName ana="Vierge_Des_Miracles">Vierge des Miracles</persName>
+       en faveur de sa fille. Elle y fait la rencontre de bien d’autres pèlerins ; parmi eux, il y a madame Dajobert, dont le fils, Léon, est aussi atteint de troubles psychologiques. De retour chez eux, Lala prend le « ason ». Elle devient mambo et se remet de son mal. Léon, de son côté, formé à 
+      <location ana="Paris">Paris</location>
+      , méprisant le culte vaudou, devient fou.
+    </p>
+    <p>
+      Récit authentique, roman indigène, 
+      <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+       dresse, à travers Mimola un tableau fidèle des croyances populaires et les réalités folkloriques d’
+      <location ana="Haiti">Haïti</location>
+      . Il y met en relief tout un pan des traditions et des pratiques liées aux valeurs ancestrales. Le vaudou, religion de nos ancêtres, est ainsi présenté comme cette sorte de ciment qui unit et relie tous les 
+      <location ana="Haitiens">Haïtiens</location>
+      , sans distinction de race ou de classe. Roman précurseur, avec Mimola, Innocent offre un portrait fidèle des croyances et réalités de la paysannerie et de l’arrière-pays et des pratiques du culte vaudou dont les racines sont à chercher dans les cultures africaines.
+    </p>
+    <p>
+      <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+       meurt le 13 avril 1960 à l’âge de 87 ans.
+    </p>
+    <p>
+      – 
+      <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+    </p>
   </text>
 </TEI>

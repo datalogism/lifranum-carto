@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Emilio_Merisier_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,17 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.emilio-merisier.19581.html" xml:id="Emilio_Merisier_bio_auteur_spla">
-    <p>Emilio Merisier, from Port-au-Prince, Haiti, came to the United States in 2009 at age 17 to pursue his studies. His love for writing led him to discover his poet?s soul. Writing first in French, and now in English, Emilio thanks God for the opportunity to publish &quot;Hand Me a Pen&quot;, his first collection of poems</p>
+    <p>
+      Emilio Merisier, from 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      , 
+      <location ana="Haiti">Haiti</location>
+      , came to the United States in 2009 at age 17 to pursue his studies. His love for writing led him to discover his poet?s soul. Writing first in French, and now in English, Emilio thanks God for the opportunity to publish &quot;Hand Me a Pen&quot;, his first collection of poems
+    </p>
   </text>
 </TEI>

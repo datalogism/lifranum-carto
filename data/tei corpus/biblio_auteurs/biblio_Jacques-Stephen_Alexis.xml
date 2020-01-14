@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jacques-Stephen_Alexis_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,50 +12,52 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-06</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <div ref="http://ile-en-ile.org/alexis_jacques-stephen/" xml:id="Jacques-Stephen_Alexis_biblio_auteur_ile_en_ile">
-    <list subtype="in english">
-      <item>General Sun, My Brother. Carrol F. Coates, translation and introduction. Charlottesville: University Press of Virginia, 1999.</item>
-      <item>In the Flicker of an Eyelid. Trans. Carrol F. Coates and Edwidge Danticat. Charlottesville: University of Virginia Press, 2002.</item>
-      <item>« The Enchanted Second Lieutenant ». Trans. Sharon Masingale Bell. Haiti Noir 2: The Classics. Ed. Edwidge Danticat. New York: Akashic, 2014: 45-66.</item>
-    </list>
-    <list subtype="en español">
-      <item>En un abrir y cerrar de ojos. Trad. Jorge Zalamea. México: Era, 1969; Santo Domingo: Taller, 1984.</item>
-      <item>El compadre general Sol. La Habana: Casa de las Américas, 1974. Mi compadre el general Sol. Santo Domingo: Taller, 1976.</item>
-      <item>Romancero de las estrellas. Trad. Idea Vilariño. Santo Domingo: Taller, 1982.</item>
-    </list>
-    <list subtype="sur île en île et dans boutures">
-      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#alexis">Adieu à un camarade</item>
-      <item ref="http://ile-en-ile.org/jacques-stephen-alexis-ou-va-le-roman/">Où va le roman ?</item>
-      <item ref="http://ile-en-ile.org/lavaud/">Jacques Roumain et Jacques-Stephen Alexis; Le « réalisme merveilleux » de deux écrivains haïtiens métamorphosé par leurs artistes peintres, « boss metal » et sculpteurs</item>
-    </list>
-    <list subtype="ailleurs sur le web">
-      <item ref="http://www.cyberie.qc.ca/jpc/haiti/jsa.html">Jacques Stephen Alexis Remembered</item>
-    </list>
-    <list subtype="romans">
-      <item>Les arbres musiciens. Paris: Gallimard, 1957, 1984; Port-au-Prince: Les Editions Fardin, 1986.</item>
-      <item>Compère Général Soleil. Paris: Gallimard, 1955.</item>
-      <item>L’espace d’un cillement. Paris: Gallimard, 1959, 1983.</item>
-      <item>L’Étoile absinthe. Paris: Zulma, 2016.</item>
-    </list>
-    <list subtype="nouvelles">
-      <item>Romancero aux étoiles; contes. Paris: Gallimard, 1960.</item>
-    </list>
-    <list subtype="articles sélectionnés">
-      <item>« Contribution à la Table-Ronde sur le folklore et le nationalisme ». Optique (juin 1956):  25-34.</item>
-      <item>« La Culture haïtienne ». Les lettres françaises (27 septembre-3 octobre 1956).</item>
-      <item>« Du Réalisme merveilleux des Haïtiens ». Présence Africaine 8-9-10 (juin-novembre 1956): 245-271.</item>
-      <item>« Modern Haïtian Thought ». Books Abroad 30 (Spring 1956):  261-265.</item>
-      <item>« Où va le roman ? » (Débat autour des conditions d’un roman national chez les peuples noirs). Présence Africaine 13 (avril-mai 1957): 81-101.</item>
-      <item>« La Belle Amour humaine 1957 ». Europe 49.501 (janvier 1971): 20-27.</item>
-      <item>Préface à Jacques Roumain, Oeuvres Choisies. S. Pojarski, éd.  E.S.L., Editions du Progrès, 1964.</item>
-      <item>Préface à La Montagne ensorcelée de Jacques Roumain. Paris: Les Editeurs français réunis, 1972.</item>
-    </list>
-    <list subtype="filmographie">
-      <item>Jacques Stephen Alexis, mort sans sépulture. Documentaire par Arnold Antonin, 2015, 95 minutes.</item>
-    </list>
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>General Sun, My Brother. Carrol F. Coates, translation and introduction. Charlottesville: University Press of Virginia, 1999.</item>
+        <item>In the Flicker of an Eyelid. Trans. Carrol F. Coates and Edwidge Danticat. Charlottesville: University of Virginia Press, 2002.</item>
+        <item>« The Enchanted Second Lieutenant ». Trans. Sharon Masingale Bell. Haiti Noir 2: The Classics. Ed. Edwidge Danticat. New York: Akashic, 2014: 45-66.</item>
+      </list>
+      <list subtype="en español">
+        <item>En un abrir y cerrar de ojos. Trad. Jorge Zalamea. México: Era, 1969; Santo Domingo: Taller, 1984.</item>
+        <item>El compadre general Sol. La Habana: Casa de las Américas, 1974. Mi compadre el general Sol. Santo Domingo: Taller, 1976.</item>
+        <item>Romancero de las estrellas. Trad. Idea Vilariño. Santo Domingo: Taller, 1982.</item>
+      </list>
+      <list subtype="romans">
+        <item>Les arbres musiciens. Paris: Gallimard, 1957, 1984; Port-au-Prince: Les Editions Fardin, 1986.</item>
+        <item>Compère Général Soleil. Paris: Gallimard, 1955.</item>
+        <item>L’espace d’un cillement. Paris: Gallimard, 1959, 1983.</item>
+        <item>L’Étoile absinthe. Paris: Zulma, 2016.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Romancero aux étoiles; contes. Paris: Gallimard, 1960.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Contribution à la Table-Ronde sur le folklore et le nationalisme ». Optique (juin 1956):  25-34.</item>
+        <item>« La Culture haïtienne ». Les lettres françaises (27 septembre-3 octobre 1956).</item>
+        <item>« Du Réalisme merveilleux des Haïtiens ». Présence Africaine 8-9-10 (juin-novembre 1956): 245-271.</item>
+        <item>« Modern Haïtian Thought ». Books Abroad 30 (Spring 1956):  261-265.</item>
+        <item>« Où va le roman ? » (Débat autour des conditions d’un roman national chez les peuples noirs). Présence Africaine 13 (avril-mai 1957): 81-101.</item>
+        <item>« La Belle Amour humaine 1957 ». Europe 49.501 (janvier 1971): 20-27.</item>
+        <item>Préface à Jacques Roumain, Oeuvres Choisies. S. Pojarski, éd.  E.S.L., Editions du Progrès, 1964.</item>
+        <item>Préface à La Montagne ensorcelée de Jacques Roumain. Paris: Les Editeurs français réunis, 1972.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Jacques Stephen Alexis, mort sans sépulture. Documentaire par Arnold Antonin, 2015, 95 minutes.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#alexis">Adieu à un camarade</item>
+        <item ref="http://ile-en-ile.org/jacques-stephen-alexis-ou-va-le-roman/">Où va le roman ?</item>
+        <item ref="http://ile-en-ile.org/lavaud/">Jacques Roumain et Jacques-Stephen Alexis; Le « réalisme merveilleux » de deux écrivains haïtiens métamorphosé par leurs artistes peintres, « boss metal » et sculpteurs</item>
+        <item ref="http://www.cyberie.qc.ca/jpc/haiti/jsa.html">Jacques Stephen Alexis Remembered</item>
+      </list>
+    </div>
   </div>
 </TEI>

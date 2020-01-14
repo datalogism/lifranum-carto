@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Marc_Leo_Laroche_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,22 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.marc-leo-laroche.14133.html" xml:id="Marc_Leo_Laroche_bio_auteur_spla">
-    <p>Marc Léo Laroche est né le 30 juin 1940 à La Vallée de Jacmel (Haïti). Après des études secondaires au Lycée Pinchinat de Jacmel et des années d'enseignement qui le plongent dans les littératures française et haïtienne, il s'initie à la pratique littéraire en ébauchant son premier roman (égaré) en plus de composer des poèmes. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
+    <p>
+      <persName ana="Marc_Leo">Marc Léo</persName>
+       Laroche est né le 30 juin 1940 à 
+      <location ana="La_Vallee_De_Jacmel">La Vallée de Jacmel</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Après des études secondaires au Lycée Pinchinat de 
+      <location ana="Jacmel">Jacmel</location>
+       et des années d'enseignement qui le plongent dans les littératures française et 
+      <location ana="Haitienne">Haïtienne</location>
+      , il s'initie à la pratique littéraire en ébauchant son premier roman (égaré) en plus de composer des poèmes. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+    </p>
   </text>
 </TEI>

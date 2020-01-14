@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Cecile_Accilien_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,19 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.cecile-accilien.22014.html" xml:id="Cecile_Accilien_bio_auteur_spla">
-    <p>Cécile Accilien est professeur titulaire de littératures et cultures francophones à l'université de Columbus en Georgie. Ses recherches sont axées sur les cultures francophones des Caraïbes et de l'Afrique de l'Ouest. Elle a co-édité deux livres : Revolutionary Freedoms : A History of Survival, Strength and Imagination in Haiti, With the Paintings of Ulrick Jean-Pierre (avec Jessica Adams et Elmide Méléance, Caribbean Studies Press 2006) et Just Below South : Intercultural Performance in the Caribbean and the U.S. South (avec Jessica Adams et Michael Bibler, University of Virginia Press, 2007). Elle est aussi l'auteur de Rethinking Marriage In Francophone African and Caribbean Literatures (Lexington Books, 2008).</p>
+    <p>
+      Cécile Accilien est professeur titulaire de littératures et cultures francophones à l'université de Columbus en Georgie. Ses recherches sont axées sur les cultures francophones des 
+      <location ana="Caraibes">Caraïbes</location>
+       et de l'
+      <location ana="Afrique">Afrique</location>
+       de l'Ouest. Elle a co-édité deux livres : Revolutionary Freedoms : A History of Survival, Strength and Imagination in 
+      <location ana="Haiti">Haiti</location>
+      , With the Paintings of Ulrick Jean-Pierre (avec Jessica Adams et Elmide Méléance, Caribbean Studies Press 2006) et Just Below South : Intercultural Performance in the Caribbean and the U.S. South (avec Jessica Adams et Michael Bibler, University of Virginia Press, 2007). Elle est aussi l'auteur de Rethinking Marriage In Francophone African and Caribbean Literatures (Lexington Books, 2008).
+    </p>
   </text>
 </TEI>

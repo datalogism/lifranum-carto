@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Oswald_Durand_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Oswald Durand</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Oswald_Durand">
+        <surname source="bnf">Oswald</surname>
+        <forename source="bnf">Durand</forename>
+        <idno type="BNF">
+          cb119907835#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb119907835#about"/>
+        </idno>
+        <idno type="VIAF">
+          17232428
+          <g ref="http://viaf.org/viaf/17232428"/>
+        </idno>
+        <idno type="VIAF">
+          Oswald_Durand
+          <g ref="http://fr.dbpedia.org/resource/Oswald_Durand"/>
+        </idno>
+        <birth source="viaf">
+          <date>1840-09-17</date>
+        </birth>
+        <death source="viaf">
+          <date>1906-09-17</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="viaf">politicians</profession>
+        <profession source="viaf">authors black</profession>
+        <profession source="spla">Poète</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

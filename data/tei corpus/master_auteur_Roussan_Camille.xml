@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Roussan_Camille_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="biblio_Roussan_Camille.xml"/>
+  <xi:include ref="fiche_auteur_Roussan_Camille.xml"/>
+</master>

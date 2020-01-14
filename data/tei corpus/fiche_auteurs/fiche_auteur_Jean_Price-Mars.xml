@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean_Price-Mars_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Jean Price-Mars</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Jean_Price-Mars">
+        <surname source="bnf">Jean</surname>
+        <forename source="bnf">Price-Mars</forename>
+        <idno type="BNF">
+          cb12120492m#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb12120492m#about"/>
+        </idno>
+        <idno type="VIAF">
+          19710657
+          <g ref="http://viaf.org/viaf/19710657"/>
+        </idno>
+        <idno type="VIAF">
+          Jean_Price_Mars
+          <g ref="http://fr.dbpedia.org/resource/Jean_Price_Mars"/>
+        </idno>
+        <birth source="viaf">
+          <date>1876-10-15</date>
+        </birth>
+        <death source="viaf">
+          <date>1969-03-01</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="viaf">physicians</profession>
+        <profession source="viaf">ethnologists</profession>
+        <profession source="viaf">diplomats</profession>
+        <profession source="viaf">authors</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

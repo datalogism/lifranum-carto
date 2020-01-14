@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Syto_Cave_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Syto Cavé</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="nouvelles">
+        <item>Le singe du dormeur, récits. Port-au-Prince / Montréal: Editions Regain / Éditions du CIDIHCA, 1999.</item>
+        <item>Van Cortland Club. New York: Rivarticollection, 2004.</item>
+        <item>Une rose rouge entre les doigts, récits. Léchelle (France): Zellige, 2011.</item>
+      </list>
+      <list subtype="théâtre en français">
+        <item>Mémoires d’un balai, 1971. Mise en scène par Hervé Denis.</item>
+        <item>La parole des grands fonds, 1973. Mise en scène par Jacques Charlier.</item>
+        <item>Le chiffre sept. 1974.</item>
+        <item>Quelle mort tua l’empereur, 1975. Mise en scène par Jacques Charlier.</item>
+        <item>Les chants de Mélanie, 1977. Mise en scène par l’auteur.</item>
+        <item>Théodora. 1977.</item>
+        <item>Telcide et Duréna (Telcide ak Duréna), écrite en collaboration avec Régine Charlier, 1978. Mise en scène par l’auteur.</item>
+        <item>L’Amiral. Mise en scène par Hervé Denis.</item>
+        <item>Maître Carré. 1989.</item>
+        <item>Songe que fait Sarah, 1990. Mise en scène par l’auteur. Port-au-Prince: C3 Éditions, 2016.</item>
+        <item>On m’a volé mon corps, 1994. Mise en scène par l’auteur.</item>
+      </list>
+      <list subtype="théâtre en créole">
+        <item>Kavalye polka, 1984.</item>
+        <item>Brakoupe, 1987. Pièce publiée dans Conjonction 207 (2002): 56-73.</item>
+        <item>Mèt Katye. 1998.</item>
+        <item>Brakoupe, plis de lòt pyès teyat kreyòl: Mèt Katye ak Kayvalye Pòlka. Prefas: Lyonel Trouillot. Port-au-Prince: C3 Éditions, 2015.</item>
+      </list>
+      <list subtype="poésie">
+        <item>« Laisser-Passer » / «Lesepase»; « Point final » / « Pwen final ». Conjonction 195 (juillet-août-septembre 1992): 42-43; 62-63.</item>
+        <item>« Qui de nous a cassé la lampe ? » / « Kiyès ki kase lanp lan ? ». Conjonction 196 (octobre-novembre-décembre 1992): 104-105.</item>
+        <item>Qui d’un soir. Montréal: CIDIHCA, 2011.</item>
+        <item>La Cabine jaune. New York: Riv’Art’, 2015.</item>
+        <item>D’amour à mort / Damou a mò (recueil de chansons). Port-au-Prince: L’Imprimeur II, 2015.</item>
+        <item>Lectures courantes. Montréal: CIDIHCA, 2018.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Lapèsòn de Syto Cavé: poèmes, chansons et récits créoles composés et interprétés par l’auteur. Montréal: Les Productions Batofou, 1994; disque audio, PB101.</item>
+        <item>« Fanm lan bèl », « Rendez-vous », « Vive la mort », « Ellipse » et « Je m’en vais », poèmes de Syto Cavé dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+        <item>« Il est des villes », poème de Syto Cavé dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+        <item>Ils ont chanté Syto, CD de 25 chansons de Syto Cavé interprétés par Alan Cavé, Réginald Lubin, Wooly Saint-Louis Jean, Tamara Suffren, Patrick Préval, Vanessa Jacquemin, Françoise Volel, Boulo Valcourt et Ralph Thamar. Musique de Réginald Policard, Wooly Saint-Louis Jean, Boulo Valcourt, Guy Cavé, Ralph Millet, Lionel Ritchie, Mario Canonge. Port-au-Prince: Les Productions Batofou, 2015.</item>
+      </list>
+      <list subtype="articles et contributions diverses">
+        <item>Cavé, Syto avec Sandy Noble Yates et Anthony Phelps. (photos de Carl Hiebert). Paroles et Lumières. Where Light Speaks. Port-au-Prince / Mississauga (Ontario) / Colombus, OH: International Child Care, 1999.</item>
+        <item>« Entre le corps du pauvre et la mémoire du comédien ». Conjonction 207 (2002): 53-54.</item>
+        <item>« Une rue au fond du temps ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 233-237.</item>
+        <item>Cinq poèmes. Anthologie de poésie haïtienne contemporaine, dirigée et présentée par James Noël. Paris: Points, 2015: 97-103.</item>
+        <item>« Un miroir à Marie ». En amour avec Marie, collectif (dirigé par Emmelie Prophète). Port-au-Prince: L’Imprimeur, 2016: 22-23.</item>
+        <item>« Si jamais je deviens musicien ». Une enfance haïtienne. Textes recueillis par Guy Régis Jr. Paris: Gallimard: 2017: 17-22.</item>
+      </list>
+      <list subtype="textes de syto cavé mis en musique">
+        <item>« Chak jès », sur le disque Ki sa nou ye ? de Réginald Policard. Nouvel Jenerasyon, 2000.</item>
+        <item>« Foli d’amou » – « Foli Da Mou (Love Sick) », sur le disque Cordes et âme d’Emeline Michel, musique de Boulo Valcourt. Production Cheval De Feu, 2000.</item>
+        <item>« Fanm Dous Mwen » (avec Lionel Richie), « Vyé Frè » (musique de Tanya St. Val) et « La Pèsonn », trois poèmes, et la partie française de « J’ai besoin de toi ». Poèmes de Syto Cavé, mis en musique et chantés par Alain Cavé sur son disque Collabo’. AC Records, 2004.</item>
+        <item>« Vilbonè m », « Vi mwen chavire », « Fanm lan bèl », « Mwen renmen w » et « Kilè n ap di ase ? », poèmes de Syto Cavé mis en musique et interprétés par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson, Port-au-Prince: Productions Batofou, 2005.</item>
+        <item>« Lakaye » et « Rara yo deyò », poèmes de Syto Cavé mis en musique et interprétés par Wooly Saint Louis Jean sur son disque Eta’n Sinik, 2011.</item>
+      </list>
+      <list subtype="sur l’oeuvre de syto cavé">
+        <item>Bellefleur, Pierre Maxwell. « La nouvelle haïtienne – témoin d’une époque ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 259-269.</item>
+        <item>Rowell, Charles H. « Syto Cavé » (entretien). Trad. Mohamed B. Taleb-Kyar. Callaloo 15.2 (1992 Spring): 538-39.</item>
+        <item>Trouillot, Lyonel. « Syto ». Le Testament du mal de mer, précédé de Trois poètes. Port-au-Prince: Presses Nationales d’Haïti, 2004: 15-16.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/syto-cave-chien-familier/">Chien familier</item>
+        <item ref="http://ile-en-ile.org/syto-cave-madame-leon-et-tel-quau-miroir/">Madame Léon</item>
+        <item ref="https://youtu.be/LSrY6JvOVe0">‘Des Livres et Vous’ avec Syto Cavé</item>
+        <item ref="https://www.fokal.org/index.php/archives/374-theatre-representation-de-kavalye-polka-a-fokal">Livres en folie 2015: représentations de Kavalye Polka à FOKAL</item>
+        <item ref="http://www.madinin-art.net/syto-cave-notre-ami-est-en-martinique/">Syto Cavé, notre ami, est en Martinique</item>
+        <item ref="http://www.madinin-art.net/voisins-complices-une-performance-originale-en-gestation-permanente/">« Voisins complices » : Une performance originale en gestation permanente</item>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      </list>
+    </div>
+  </div>
+</TEI>

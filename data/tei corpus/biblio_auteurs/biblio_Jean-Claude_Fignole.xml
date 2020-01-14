@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean-Claude_Fignole_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Jean-Claude Fignolé</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/fignole/" xml:id="Jean-Claude_Fignole_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="en español">
+        <item>Los Poseídos de la luna llena. Trad. Laura Masello. Montevideo: Ediciones Trilce (Colección Agapá), 1992.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>Gli invasati della luna piena. (Pref. Louis-Philippe Dalembert). Trad. Maurizio Ferrara. Roma: Lavoro, 2000.</item>
+      </list>
+      <list subtype="romans">
+        <item>Les Possédés de la pleine lune. Paris: Seuil, 1987; La Roque d’Anthéron (France): Vents d’ailleurs, 2012.</item>
+        <item>Aube tranquille. Paris: Seuil, 1990; La Roque d’Anthéron: Vents d’ailleurs, 2013.</item>
+        <item>Hofuku. Port-au-Prince: Éditions Mémoire, 1993.</item>
+        <item>La dernière goutte d’homme. Montréal: Regain / CIDIHCA, 1999.</item>
+        <item>Moi, Toussaint Louverture… avec la plume complice de l’auteur. Montréal: Plume &amp; Encre, 2004.</item>
+        <item>Une heure pour l’éternité. Paris: Sabine Wespieser, 2008.</item>
+      </list>
+      <list subtype="essais">
+        <item>Etzer Vilaire, ce méconnu. Port-au-Prince: Imprimerie Centrale, 1970.</item>
+        <item>Pour une poesie de l’authentique et du solidaire: «ces iles qui marchent» de René Philoctète. Port-au-Prince: Éditions Fardin, 1971.</item>
+        <item>Sur Gouverneurs de la rosée: hypothèses de travail dans une perspective spiraliste. Port-au-Prince: Éditions Fardin, 1974.</item>
+        <item>Voeu de voyage et intention romanesque. Port-au-Prince: Fardin, 1978.</item>
+      </list>
+      <list subtype="nouvelles, textes courts">
+        <item>« Faux Bourdons ». Paradis Brisé, nouvelles des Caraïbes. Collection Étonnants Voyageurs. Paris: Hoëbeke, 2004: 87-131.</item>
+        <item>« Le voleur de vent ». Nouvelles d’Haïti (Collectif). Paris: Magellan &amp; Cie, 2007: 37-52.</item>
+        <item>« Une heure avant l’éternité » (extrait d’Une heure pour l’éternité). Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 179-184.</item>
+        <item>« Voleur de vent ». Riveneuve Continents 11 (printemps 2010): 203-11.</item>
+        <item>« Réalisme Merveilleux ! Métamorphose du Réel ? » [« Marvelous Realism! Metamorphosis of the Real? » Trans. Kaiama L. Glover]. Journal of Haitian Studies 16.1 (Spring 2010): 23-39 [40-57].</item>
+        <item>« Amour-Colère-Folie, en marge d’une re-lecture ». En amour avec Marie, collectif (dirigé par Emmelie Prophète). Port-au-Prince: L’Imprimeur II, 2016: 77-81.</item>
+      </list>
+      <list subtype="sur l’oeuvre de jean-claude fignolé">
+        <item>Benedicty, Alessandra. « Vodou, Ethics, and Aesthetics: Haiti and the Creole Poetics of Frankétienne, Jean-Claude Fignolé, and René Depestre ». Thèse de doctorat (Ph.D.), University of Wisconsin, Madison, 2004.</item>
+        <item>Des Rosiers, Joël. « Les fruits piqués du réalisme merveilleux » (à propos des Possédés de la pleine lune de Jean-Claude Fignolé). Conjonction 173 (2e trimestre 1987): 178-184.</item>
+        <item>Famin, Victoria. « Plus qu’une simple polyphonie : Voix spiralistes dans Aube tranquille et Une heure pour l’éternité de Jean-Claude Fignolé ». Journal of Haitian Studies 16.1 (Spring 2010): 128-43.</item>
+        <item>Glover, Kaiama. « Écrire la schizophrénie. La configuration du personnage dans les œuvres « spiralistes » de Frankétienne, Jean-Claude Fignolé et René Philoctète ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 83-96.</item>
+        <item>Glover, Kaiama. « Same Difference: Incoherent Being(s) in Jean-Claude Fignolé’s Early Prose Fiction ». The French Review 85.2 (December 2011): 316-330.</item>
+        <item>Gottin, Katia. « Spiralist Testifying in Jean-Claude Fignolé’s Aube tranquille: Reading the Victim-Perpetrator Dialectic in Haitian Literature ». The French Review 91.2 (December 2017): 74-85.</item>
+        <item>Gyssels, Kathleen. « Une heure pour l’éternité : Entretien avec Jean-Claude Fignolé » [« One Hour for Eternity: a Conversation with Jean-Claude Fignolé » Trans. Kaiama L. Glover.] Journal of Haitian Studies 16.1 (Spring 2010): 8-14 [15-22].</item>
+        <item>Lambert, Fernando. « Portrait de l’écrivain Jean-Claude Fignolé ». Notre Librairie 133 (janvier-avril 1998): 126-30.</item>
+        <item>Magnier, Bernard. « Jean-Claude Fignolé, poète de la mémoire » (entretien). Notre Librairie 104 (janvier-mars 1991): 45-48.</item>
+        <item>Magniez, Michel. « Le héros homosexuel dans les récits en Haïti ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 213-228.</item>
+        <item>Past, Mariana. « Pen as Sword: Combating the historical record in Fignole’s Moi, Toussaint Louverture, avec la plume complice de l’auteur ». Journal of Haitian Studies 16.2 (Fall 2010): 162-74.</item>
+        <item>Rowell, Charles H. et Marie-Agnès Sourieau. « Jean-Claude Fignolé » (entretien). Callaloo 15.2 (Spring 1992): 435-39.</item>
+        <item>Serrano, Lucienne J. « Par-delà le chaos: Aube tranquille de Jean-Claude Fignolé ». Présence Francophone 63 (2004): 108-116.</item>
+        <item>Serrano, Lucienne. « Le labyrinthe de la mémoire dans Aube Tranquille de Jean-Claude Fignolé ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 61-72.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/jean-claude-fignole-aube-tranquille/">Aube tranquille</item>
+        <item ref="http://ile-en-ile.org/jean-claude-fignole-les-faux-bourdons/">Les faux bourdons</item>
+        <item ref="http://lenouvelliste.com/article/173240/jean-claude-fignole-ecrivain-homme-des-grands-larges-nous-a-quittes">Jean-Claude Fignolé, écrivain, homme des grands larges, nous a quittés</item>
+        <item ref="http://www.lenational.org/jean-claude-livresse-bleue/">Jean-Claude et l’ivresse bleue</item>
+        <item ref="https://youtu.be/T9DsO1mSyN4">Dany Laferrière et Rodney Saint-Éloi : À propos de Jean-Claude Fignolé</item>
+        <item ref="http://lenouvelliste.com/article/173312/jean-claude-fignole-par-lyonel-trouillot">Jean-Claude Fignolé par Lyonel Trouillot</item>
+        <item ref="http://haiticonnexion-culture.blogspot.com/2017/07/un-autre-mapou-dhaiti-vient-de-tomber.html">Un autre mapou d’Haïti vient de tomber…</item>
+        <item ref="http://journallecteur.blogspot.com/2017/07/jean-claude-fignole-dans-leternite.html">Jean-Claude Fignolé dans l’éternité</item>
+        <item ref="http://www.magazine-litteraire.com/hommage/jean-claude-fignolé%C2%A0-disparition-du-«%C2%A0mapou%C2%A0»-des-lettres-haïtiennes">Jean-Claude Fignolé : disparition du ‘Mapou’ des lettres haïtiennes</item>
+        <item ref="http://lenouvelliste.com/article/173571/reparer-les-morts">Réparer les morts</item>
+        <item ref="http://www.lenational.org/nation-haitienne-a-dit-adieu-a-jean-claude-fignole/">La nation haïtienne a dit adieu à Jean-Claude Fignolé</item>
+        <item ref="http://lenouvelliste.com/article/173638/jean-claude-fignole-intention-voeu-et-depart-en-voyage-ininterrompu">Jean-Claude Fignolé : intention, vœu et départ en voyage ininterrompu</item>
+        <item ref="https://www.swediteur.com/auteur.php?id=45">Sabine Wespieser</item>
+        <item ref="http://homepage.mac.com/chemla/fic_doc/possedes.html">Les Possédés de la pleine lune</item>
+        <item ref="http://www.revuenoire.com/fr/index.php?menu=publications&amp;type=article&amp;id=33&amp;articleID=64&amp;PHPSESSID=dd84825bf328cf4f124d1f9790e6d6ab">Une poétique de la Schizophrénie</item>
+        <item ref="https://soundcloud.com/radiohaitiarchives/jean-claude-fignole-sur-abricots">Jean-Claude Fignolé, sur Abricots, 28 avril 1988</item>
+        <item ref="http://ma-tvideo.france3.fr/video/iLyROoafJ8na.html">Haïti, le rêve des Abricots</item>
+        <item ref="https://vimeo.com/171977192">An Interview with Jean-Claude Fignolé</item>
+      </list>
+    </div>
+  </div>
+</TEI>

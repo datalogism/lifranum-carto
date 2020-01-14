@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Lawrence_Hill_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Lawrence_Hill.xml"/>
+  <xi:include ref="biblio_Lawrence_Hill.xml"/>
+  <xi:include ref="fiche_auteur_Lawrence_Hill.xml"/>
+</master>

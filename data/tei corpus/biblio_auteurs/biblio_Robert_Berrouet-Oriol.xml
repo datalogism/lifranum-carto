@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Robert_Berrouet-Oriol_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Robert Berrouët-Oriol</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/berrouet-oriol/" xml:id="Robert_Berrouet-Oriol_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="in english">
+        <item>Thòraya, The Ink Field. Trad. Carrol F. Coates Montréal: Éditions du CIDIHCA, 2007.</item>
+      </list>
+      <list subtype="en català">
+        <item>Thoraya, d’encre le champ et En haute rumeur des siècles (extraits). Trad. Elizabeth Rafols. Troc paroles – Troc de paraules. Montréal / Barcelone: Adage / Pagès, 2008: 33-47.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Lettres urbaines: poèmes; suivi de Le dire-à-soi (du rapport à la langue). Montréal: Triptyque, 1986.</item>
+        <item>Thòraya, d’encre le champ. Montréal: Éditions du CIDIHCA, 2005.</item>
+        <item>En haute rumeur des siècles. Avec dix illustrations de Frankétienne. Montréal: Tryptique, 2010.</item>
+        <item>Poème du décours. Montréal: Tryptique, 2010.</item>
+        <item>Découdre le désastre suivi de L’île anaphore. Montréal: Triptyque, 2013.</item>
+        <item>Éloge de la mangrove. Montréal: Triptyque, 2016.</item>
+      </list>
+      <list subtype="monographie">
+        <item>L’aménagement linguistique en Haïti : enjeux défis et propositions. Robert Berrouët-Oriol coordonnateur et coauteur, avec des contributions de Darline Cothière, Robert Fournier et Hugues Saint-Fort. Montréal: CIDIHCA, 2011, Port-au-Prince: Éditions de l’Université d’État d’Haïti, 2011.
+Note : Livre de référence rédigé par un collectif de linguistes et comprenant notamment une proposition de projet de loi, en créole et en français, relatif à l’aménagement linguistique en Haïti.</item>
+      </list>
+      <list subtype="poésie parue dans des revues">
+        <item>« Fragmentaires » (à Anthony Phelps). Conjonction 169 (avril-juin 1986): 95-104.</item>
+        <item>« Incunabulum/Incunable » et « Dissidence, I / Dissidence, Je ». (Avec une traduction en anglais par Carrol F. Coates). Suivi par un entretien avec Robert Berrouët-Oriol (traduit par Paulette Richards). Callaloo 15.2 (Spring 1992): 506-517; 518-521.</item>
+        <item>« Dissidence, I / Dissidence, Je ». (Avec une traduction en anglais par Carrol F. Coates). Callaloo 24.3 (Summer 2001): 696-698.</item>
+        <item>« Découdre le désastre » Riveneuve Continents 13 (Printemps 2011): 67-71.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Négrophilie, schizophrénie, ou les avatars de l’errance urbaine ». Vice Versa (Montréal) 13-14 (février-avril 1986): 58-59; reproduit dans Conjonction 169 (avril-juin 1986): 60-67.</item>
+        <item>« L’effet d’exil ». Vice Versa 17 (décembre 1986-janvier 1987): 20-21.</item>
+        <item>« Les écritures migrantes et métisses au Québec » (avec Robert Fournier). LittéRéalité 3.2 (1991): 9-35; reproduit dans Quebec Studies 14 (Spring-Summer 1992): 7-22.</item>
+        <item>« Créolophonie et francophonie nord-sud : transcontinuum » (avec Robert Fournier). Revue canadienne des études latino-américaines et caraïbes 12.34 (1992): 5-12.</item>
+        <item>« Poétique, langage et schizophrénie » (avec Robert Fournier). Poétiques et imaginaires: Francopolyphonie littéraire des Amériques, sous la direction de Pierre Laurette et Hans-George Ruprecht. Paris: L’Harmattan, 1995: 83-101.</item>
+        <item>« L’amendement constitutionnel de mai 2011 annonce-t-il un coup d’État contre la langue créole d’Haïti ? ». L’amendement de la Constitution de 1987: enjeux, limites et perspectives. Fritz Dorvilier, éd. Port-au-Prince: Éditions C3Group, 2012: 41-148.</item>
+        <item>« Les frères jumeaux ». La transculture et ViceVersa. Fulvio Caccia, éd. Montréal: Triptyque, 2010: 181-187.</item>
+        <item>« Tracées saint-audiennes ». Magloire-Saint-Aude, Anthologie secrète. Montréal: Mémoire d’encrier, 2012: 96-100.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2010     Prix du livre insulaire de Ouessant (poésie), pour Poème du décours.</item>
+        <item>2010     Finaliste du Prix du Carbet et du Tout-Monde, pour Poème du décours.</item>
+        <item>2012     Membre du Jury du Prix de poésie du Gouverneur général du Canada (section poésie).</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://ile-en-ile.org/robert-berrouet-oriol-aux-tribus-trepassees/">Aux tribus trépassées</item>
+        <item ref="http://ile-en-ile.org/les-je-de-la-memoire-par-robert-berrouet-oriol/">Les je de la mémoire</item>
+        <item ref="http://www.berrouet-oriol.com">Berrouët-Oriol</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/">Robert Berrouët-Oriol</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/amenagement.php">L’aménagement linguistique en Haïti : enjeux défis et propositions</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/langues_haitiennes.php">Haïti contribue-t-elle à la « promotion de la langue de la France » ?</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/urgence.php">De l’urgence de l’aménagement linguistique en Haïti</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/manigat.php">Les acrobaties sémantiques de Mirlande Manigat sont un danger pour l’aménagement du créole haïtien</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/regard.php">Regard objectif sur le statut officiel, aujourd’hui, du créole en Haïti</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/dejean.php">Le « système linguistique » d’Yves Dejean conduit à une impasse</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/ecole.php">L’école en créole, en français, dans les deux langues ?</item>
+        <item ref="http://www.potomitan.info/ayiti/non5.php">De l’omertà à la défaite de la pensée critique : retour sur « La geste » d’Anthony Phelps</item>
+        <item ref="http://www.potomitan.info/conde/vie3.php">Haiti dans le regard de Maryse Condé – Questionner les failles du pacte autobiographique</item>
+        <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/ghetto.php">Soumis au débat public – Le créole haitien à l’épreuve du « ghetto essentialiste »</item>
+        <item ref="http://www.triptyque.qc.ca/auteurs/aut44.html">Robert Berroët-Oriol</item>
+        <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=92017">Faut-il amender la Constitution sans la version créole ?</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=92166">L’amendement constitutionnel de mai 2011 annonce-t-il un coup d’état contre la langue créole d’Haïti ?</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=93939&amp;PubDate=2011-08-30">Vers un aménagement linguistique en Haïti</item>
+        <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=100111">L’école en créole, en français, dans les deux langues ? État de la question et perspectives</item>
+        <item ref="https://pi.library.yorku.ca/ojs/index.php/litte/article/viewPDFInterstitial/26408/24404">Les écritures migrantes et métisses au Québec</item>
+        <item ref="https://pi.library.yorku.ca/ojs/index.php/litte/article/viewPDFInterstitial/26408/24404">Les écritures migrantes et métisses au Québec</item>
+        <item ref="http://id.erudit.org/iderudit/15093ac">Les écritures migrantes et métisses dans la poésie québécoise contemporaine : l’oeuvre de Joël Des Rosiers</item>
+        <item ref="http://web.archive.org/web/20050323192840/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=565">Thoraya – l’exil n’aura pas lieu</item>
+        <item ref="http://www.culturessud.com/contenu.php?id=350">Méditation sur la « bègue cartographie des siècles »</item>
+        <item ref="http://www.culturessud.com/contenu.php?id=350">Méditation sur la « bègue cartographie des siècles »</item>
+        <item ref="http://www.alterpresse.org/spip.php?article11343">Haïti : Déménagement linguistique</item>
+        <item ref="http://www.viceversamag.com/">Vice Versa</item>
+      </list>
+    </div>
+  </div>
+</TEI>

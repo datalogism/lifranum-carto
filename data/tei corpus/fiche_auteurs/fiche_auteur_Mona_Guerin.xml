@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Mona_Guerin_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Mona Guérin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Mona_Guerin">
+        <surname source="bnf">Mona</surname>
+        <forename source="bnf">Guérin</forename>
+        <idno type="BNF">
+          cb12053752c#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb12053752c#about"/>
+        </idno>
+        <idno type="VIAF">
+          14789597
+          <g ref="http://viaf.org/viaf/14789597"/>
+        </idno>
+        <birth source="viaf">
+          <date>1934-10-09</date>
+        </birth>
+        <death source="viaf">
+          <date>2011-12-30</date>
+        </death>
+        <death source="ile_en_ile_auto">
+          <date>2011-01-30 00:00:00+00:00</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="spla">Dramaturge, Poète</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

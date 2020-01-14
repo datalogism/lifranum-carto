@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Rene_Belance_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,15 +12,145 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_bio_auteur_ile_en_ile">
-    <p>René Bélance est né le 8 janvier 1915 à Corail (Haïti). Son enfance a été marquée par l’Occupation américaine de son pays. Par la suite, bien qu’il effectue une longue carrière aux États-Unis, il ne prendra jamais la nationalité américaine.</p>
-    <p>À l’école, René Bélance commence à écrire dès la sixième. Faute de moyens, Bélance ne suit pas son ambition de faire des études de médecine, et s’oriente vers la philosophie dès les années au lycée Alexandre Pétion à Port-au-Prince. Dans cet établissement, l’un de ses essais est remarqué par son professeur Duraciné Vaval. Lauréat d’un concours de philosophie organisé au lycée pour la fête de Pétion, Bélance obtient une bourse par l’intermédiaire de Dantès Bellegarde, essayiste et directeur du lycée à l’époque – une « fortune » de neuf dollars haïtiens (45 gourdes) par mois qui lui permet de « manger trois fois par jour » – pour suivre des études de philosophie pendant un an à l’École Nationale d’Instituteurs. Avec son certificat d’enseignement pour les études primaires, Bélance demande un poste dans sa ville natale de Corail mais finit plutôt par travailler pendant trois ans à un poste avec l’économie nationale à Port-au-Prince.</p>
-    <p>À titre de journaliste bénévole, Bélance contribue à cette époque (et pendant trois ans) des articles au quotidien Le Nouvelliste. Il enseigne à l’École Normale. Il obtient une bourse de l’Unesco et part au Mexique où il enseignera pendant deux ans dans un programme d’éducation d’adultes. L’Unesco lui propose un poste de photographe mais Bélance préfère retourner en Haïti pour enseigner à l’Institut pour l’Éducation des Adultes, récemment créé. Il enseigne ensuite, pendant huit mois, à une école rurale. Bélance revient à Port-au-Prince où il est nommé professeur de littérature au lycée Toussaint-Louverture. Parmi ses élèves, Bélance se souvient du jeune Émile Ollivier en qui il a reconnu les talents de romancier. Yolande Laraque (la soeur du poète), lui fait obtenir un poste d’enseignant au lycée Pétion où il reste jusqu’en 1959. Il passe alors trois ans à faire des recherches sur les Caraïbes à l’Universidad de Porto Rico à Río Piedras.</p>
-    <p>En 1962, Bélance part pour l’University of California à Berkeley où il enseigne, et obtient, après trois ans, une maîtrise. Suivra la carrière américaine du professeur Bélance: d’abord à Whitman College (à Walla Walla dans l’état de Washington), ensuite à Williams College dans le Massachusetts (1968-1970). Suite à une conférence impressionnante sur Aimé Césaire à Providence, Rhode Island, en 1970, Bélance est engagé comme professeur à Brown University où, pendant onze ans, il se spécialise dans le roman africain francophone et anglophone et dans la poésie française.</p>
-    <p>Lorsqu’il prend sa retraite en 1981, Bélance rentre en Haïti et vit à Frères où il se consacre à la poésie. Appelé « poète surréaliste » par le journaliste Roger Gaillard en 1943, René Bélance revendique d’autres élements et styles de sa poésie sociale, sa poésie de protestation. Au moment de sa mort à Port-au-Prince le 11 janvier 2004, de nombreux messages de personnalités du monde littéraire haïtien témoignent de l’estime pour le poète et de l’importance de sa poésie. Voir le dossier, René Bélance, 1915-2004, Hommages au poète.</p>
+    <p>
+      <persName ana="Rene_Belance">
+        René 
+        <location ana="Belance">Bélance</location>
+      </persName>
+       est né le 8 janvier 1915 à 
+      <location ana="Corail">Corail</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Son enfance a été marquée par l’Occupation américaine de son pays. Par la suite, bien qu’il effectue une longue carrière aux 
+      <location ana="Etats-Unis">États-Unis</location>
+      , il ne prendra jamais la nationalité américaine.
+    </p>
+    <p>
+      À l’école, 
+      <persName ana="Rene_Belance">
+        René 
+        <location ana="Belance">Bélance</location>
+      </persName>
+       commence à écrire dès la sixième. Faute de moyens, 
+      <location ana="Belance">Bélance</location>
+       ne suit pas son ambition de faire des études de médecine, et s’oriente vers la philosophie dès les années au lycée 
+      <persName ana="Alexandre_Petion">
+        Alexandre 
+        <location ana="Petion">Pétion</location>
+      </persName>
+       à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Dans cet établissement, l’un de ses essais est remarqué par son professeur 
+      <persName ana="Duracine_Vaval">Duraciné Vaval</persName>
+      . Lauréat d’un concours de philosophie organisé au lycée pour la fête de 
+      <location ana="Petion">Pétion</location>
+      , 
+      <location ana="Belance">Bélance</location>
+       obtient une bourse par l’intermédiaire de 
+      <persName ana="Dantes_Bellegarde">
+        Dantès 
+        <location ana="Bellegarde">Bellegarde</location>
+      </persName>
+      , essayiste et 
+      <location ana="Directeur">Directeur</location>
+       du lycée à l’époque – une « fortune » de neuf dollars 
+      <location ana="Haitiens">Haïtiens</location>
+       (45 gourdes) par mois qui lui permet de « manger trois fois par jour » – pour suivre des études de philosophie pendant un an à l’École Nationale d’Instituteurs. Avec son certificat d’enseignement pour les études primaires, 
+      <location ana="Belance">Bélance</location>
+       demande un poste dans sa ville natale de 
+      <location ana="Corail">Corail</location>
+       mais finit plutôt par travailler pendant trois ans à un poste avec l’économie nationale à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      .
+    </p>
+    <p>
+      À titre de journaliste bénévole, 
+      <location ana="Belance">Bélance</location>
+       contribue à cette époque (et pendant trois ans) des articles au quotidien Le Nouvelliste. Il enseigne à l’École Normale. Il obtient une bourse de l’Unesco et part au 
+      <location ana="Mexique">Mexique</location>
+       où il enseignera pendant deux ans dans un programme d’éducation d’adultes. L’Unesco lui propose un poste de photographe mais 
+      <location ana="Belance">Bélance</location>
+       préfère retourner en 
+      <location ana="Haiti">Haïti</location>
+       pour enseigner à l’Institut pour l’Éducation des Adultes, récemment créé. Il enseigne ensuite, pendant huit mois, à une école rurale. 
+      <location ana="Belance">Bélance</location>
+       revient à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       où il est nommé professeur de littérature au lycée 
+      <location ana="Toussaint">Toussaint</location>
+      -Louverture. Parmi ses élèves, 
+      <location ana="Belance">Bélance</location>
+       se souvient du jeune 
+      <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+       en qui il a reconnu les talents de romancier. 
+      <persName ana="Yolande_Laraque">
+        Yolande 
+        <location ana="Laraque">Laraque</location>
+      </persName>
+       (la soeur du poète), lui fait obtenir un poste d’enseignant au lycée 
+      <location ana="Petion">Pétion</location>
+       où il reste jusqu’en 1959. Il 
+      <location ana="Passe">Passe</location>
+       alors trois ans à faire des recherches sur les 
+      <location ana="Caraibes">Caraïbes</location>
+       à l’Universidad de 
+      <location ana="Porto_Rico">Porto Rico</location>
+       à 
+      <location ana="Rio_Piedras">Río Piedras</location>
+      .
+    </p>
+    <p>
+      En 1962, 
+      <location ana="Belance">Bélance</location>
+       part pour l’University of California à 
+      <location ana="Berkeley">Berkeley</location>
+       où il enseigne, et obtient, après trois ans, une 
+      <location ana="Maitrise">Maîtrise</location>
+      . Suivra la carrière américaine du professeur 
+      <location ana="Belance">Bélance</location>
+      : d’abord à Whitman College (à 
+      <persName ana="Walla_Walla">Walla Walla</persName>
+       dans l’état de 
+      <location ana="Washington">Washington</location>
+      ), ensuite à 
+      <persName ana="Williams_College">Williams College</persName>
+       dans le 
+      <location ana="Massachusetts">Massachusetts</location>
+       (1968-1970). Suite à une conférence impressionnante sur 
+      <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+       à Providence, 
+      <location ana="Rhode_Island">Rhode Island</location>
+      , en 1970, 
+      <location ana="Belance">Bélance</location>
+       est engagé comme professeur à 
+      <persName ana="Brown_University">Brown University</persName>
+       où, pendant onze ans, il se spécialise dans le roman africain francophone et anglophone et dans la poésie française.
+    </p>
+    <p>
+      Lorsqu’il prend sa retraite en 1981, 
+      <location ana="Belance">Bélance</location>
+       rentre en 
+      <location ana="Haiti">Haïti</location>
+       et vit à Frères où il se consacre à la poésie. Appelé « poète surréaliste » par le journaliste 
+      <persName ana="Roger_Gaillard">Roger Gaillard</persName>
+       en 1943, 
+      <persName ana="Rene_Belance">
+        René 
+        <location ana="Belance">Bélance</location>
+      </persName>
+       revendique d’autres élements et styles de sa poésie sociale, sa poésie de protestation. Au moment de sa mort à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 11 janvier 2004, de nombreux messages de personnalités du monde littéraire haïtien témoignent de l’estime pour le poète et de l’importance de sa poésie. Voir le dossier, 
+      <persName ana="Rene_Belance">
+        René 
+        <location ana="Belance">Bélance</location>
+      </persName>
+      , 1915-2004, Hommages au poète.
+    </p>
   </text>
 </TEI>

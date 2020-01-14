@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Jacques_Stephen_Alexis_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,11 +12,63 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://www.spla.pro/fiche.personne.jacques-stephen-alexis.5849.html" xml:id="Jacques_Stephen_Alexis_bio_auteur_spla">
-    <p>Jacques Stephen Alexis est né en 1922 aux Gonaïves (Haïti). C'est un descendant de Jean-Jacques Dessalines, fondateur, le 1er janvier 1804, de l'indépendance d'Haïti, première république noire. Après des études en Europe (où son père est nommé à un poste diplomatique), il s'inscrit en 1940, à la Faculté de Médecine de Port-au-Prince. A dix-huit ans, Jacques Stephen Alexis fait un début remarqué avec un essai sur le poète haïtien Hamilton Garoute et milite activement dans les organisations étudiantes qui luttent pour le renversement du gouvernement d'Elie Lescot. Il collabore à différentes revues littéraires, puis fonde La Ruche. Ce groupe se fixe pour mission un printemps littéraire et social. Il publie alors ses fameuses chroniques &quot;Lettres aux hommes vieux&quot; qui remuent profondément l'opinion jusqu'à la révolution de 1946 qui provoque la chute du président Lescot. Jacques Stephen Alexis et René Depestre, leaders étudiants de cette révolution sont éloignés du pays. Alexis poursuit alors ses études de médecine en France et présente au 1er Congrès des écrivains et artistes noirs, en 1956 à La Sorbonne, une conférence remarquée sur ce qu'il intitule &quot;Le réalisme merveilleux des Haïtiens&quot;. En 1955, de retour en Haïti, son roman Le Compère Général Soleil le révèle à la fois comme un grand poète et grand écrivain. D'autres romans suivront : Les Arbres musiciens (1957), L'Espace d'un cillement (1959) et un recueil de contes et nouvelles Romancero aux étoiles (1960). Pendant ce même temps, il fait le va-et-vient entre Haïti et l'étranger (Union Soviétique, Chine?). En 1961, Jacques Stephen Alexis, alors fondateur et leader du Parti d'Entente Populaire, tente de rentrer de Cuba en Haïti pour organiser la lutte contre François Duvalier. Il est attendu à son débarquement, capturé, torturé, porté disparu et probablement assassiné sans qu'on n'ait jamais pu rassembler avec certitude les circonstances de sa mort à 39 ans.La &quot;carrière&quot; fulgurante de Jacques Stephen Alexis est marquée par une grande rigueur de pensée et un désir total de se dévouer à la défense et à l'illustration d'Haïti. Il ne se voulait pas artiste haïtien de manière chauvine. Haïti représentait les peuples de culture négro-africaine et même davantage encore : ce monde qualifié de tiers, de sous-développé et de retardé, où la vie mérite plus que partout ailleurs d'être défendue, louée, exaltée et chantée afin d'être transformée. voir aussi la fiche de cet auteur sur le site &quot;L'île en île&quot; </p>
+    <p>
+      <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+       est né en 1922 aux 
+      <location ana="Gonaives">Gonaïves</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). C'est un descendant de Jean-
+      <persName ana="Jacques_Dessalines">
+        Jacques 
+        <location ana="Dessalines">Dessalines</location>
+      </persName>
+      , fondateur, le 1er janvier 1804, de l'indépendance d'
+      <location ana="Haiti">Haïti</location>
+      , première république noire. Après des études en Europe (où son père est nommé à un poste diplomatique), il s'inscrit en 1940, à la Faculté de Médecine de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . A dix-huit ans, 
+      <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+       fait un début remarqué avec un essai sur le poète haïtien Hamilton Garoute et milite activement dans les organisations étudiantes qui luttent pour le renversement 
+      <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+       d'Elie Lescot. Il collabore à différentes revues littéraires, puis fonde La Ruche. Ce groupe se fixe pour mission un printemps littéraire et social. Il publie alors ses fameuses chroniques &quot;Lettres aux hommes vieux&quot; qui remuent profondément l'opinion jusqu'à la révolution de 1946 qui provoque la chute du 
+      <persName ana="President_Lescot">Président Lescot</persName>
+      . 
+      <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+       et 
+      <persName ana="Rene_Depestre">René Depestre</persName>
+      , leaders étudiants de cette révolution sont éloignés du pays. Alexis poursuit alors ses études de médecine en 
+      <location ana="France">France</location>
+       et présente au 1er Congrès des écrivains et artistes noirs, en 1956 à La Sorbonne, une conférence remarquée sur ce qu'il intitule &quot;Le réalisme merveilleux des 
+      <location ana="Haitiens">Haïtiens</location>
+      &quot;. En 1955, de retour en 
+      <location ana="Haiti">Haïti</location>
+      , son roman Le 
+      <persName ana="Compere_General_Soleil">Compère Général Soleil</persName>
+       le révèle à la fois comme un grand poète et grand écrivain. D'autres romans suivront : Les Arbres musiciens (1957), L'Espace d'un cillement (1959) et un recueil de contes et nouvelles Romancero aux étoiles (1960). Pendant ce même temps, il fait le va-et-vient entre 
+      <location ana="Haiti">Haïti</location>
+       et l'étranger (Union Soviétique, 
+      <location ana="Chine">Chine</location>
+      ?). En 1961, 
+      <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+      , alors fondateur et leader du Parti d'Entente Populaire, tente de rentrer de 
+      <location ana="Cuba">Cuba</location>
+       en 
+      <location ana="Haiti">Haïti</location>
+       pour organiser la lutte contre 
+      <persName ana="Francois_Duvalier">François Duvalier</persName>
+      . Il est attendu à son débarquement, capturé, torturé, porté disparu et probablement assassiné sans qu'on n'ait jamais pu rassembler avec certitude les circonstances de sa mort à 39 ans.La &quot;carrière&quot; fulgurante de 
+      <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+       est marquée par une grande rigueur de pensée et un désir total de se dévouer à la défense et à l'illustration d'
+      <location ana="Haiti">Haïti</location>
+      . Il ne se voulait pas artiste haïtien de manière chauvine. 
+      <location ana="Haiti">Haïti</location>
+       représentait les peuples de culture négro-africaine et même davantage encore : ce monde qualifié de tiers, de sous-développé et de retardé, où la vie mérite plus que partout ailleurs d'être défendue, louée, exaltée et chantée afin d'être transformée. voir aussi la fiche de cet auteur sur le site &quot;L'île en île&quot; 
+    </p>
   </text>
 </TEI>

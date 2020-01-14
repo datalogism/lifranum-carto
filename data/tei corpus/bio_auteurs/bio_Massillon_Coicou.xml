@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Massillon_Coicou_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,14 +12,56 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="ontongi" ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_bio_auteur_ile_en_ile">
-    <p>Massillon Coicou est né le 9 octobre 1867 à Port-au-Prince (Haïti). Il fait ses études primaires chez les Frères de l’Instruction Chrétienne, et secondaires au Lycée National. Sous la présidence de Florvil Hyppolite, il effectue son service militaire (obligatoire à l’époque, les Haïtiens voulant être préparés pour défendre le pays contre toute invasion étrangère). Après son service militaire, Coicou entre dans l’enseignement, d’abord comme professeur suppléant, puis comme titulaire au Lycée National.</p>
-    <p>Poète, dramaturge, essayiste, diplomate et humaniste, Coicou est aussi un militant politique. Il prend les armes contre la dictature de Nord Alexis qui arrive au pouvoir grâce à ses manigances avec les États-Unis, qui l’aident à réprimer l’opposition d’Anténor Firmin, avec pour contrepartie le renforcement de la Doctrine Monroe dans les Amériques. La militance politique de Massillon Coicou contre le colonialisme européen et l’impérialisme étatsunien commence dès son enrôlement dans l’armée, mais elle continue avec plus d’intensité durant son professorat au Lycée National.</p>
-    <p>Il publie en 1892 le recueil de poèmes Poésies nationales, où il étale son grand souffle poétique comme un militant nationaliste de premier ordre. En témoigne le poème « Yankisme » où il s’en prend aux États-Unis pour avoir sacrifié leurs propres idéaux :</p>
+  <text hand="Tontongi" ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_bio_auteur_ile_en_ile">
+    <p>
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       est né le 9 octobre 1867 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       (
+      <location ana="Haiti">Haïti</location>
+      ). Il fait ses études primaires chez les Frères de l’Instruction Chrétienne, et secondaires au Lycée National. Sous la présidence de 
+      <persName ana="Florvil_Hyppolite">Florvil Hyppolite</persName>
+      , il effectue son service militaire (obligatoire à l’époque, les 
+      <location ana="Haitiens">Haïtiens</location>
+       voulant être préparés pour défendre le pays contre toute invasion étrangère). Après son service militaire, 
+      <location ana="Coicou">Coicou</location>
+       entre dans l’enseignement, d’abord comme professeur suppléant, puis comme titulaire au Lycée National.
+    </p>
+    <p>
+      Poète, dramaturge, essayiste, diplomate et humaniste, 
+      <location ana="Coicou">Coicou</location>
+       est aussi un militant politique. Il prend les armes contre la dictature de 
+      <persName ana="Nord_Alexis">Nord Alexis</persName>
+       qui arrive au pouvoir grâce à ses manigances avec les 
+      <location ana="Etats-Unis">États-Unis</location>
+      , qui l’aident à réprimer l’opposition d’
+      <persName ana="Antenor_Firmin">
+        Anténor 
+        <location ana="Firmin">Firmin</location>
+      </persName>
+      , avec pour contrepartie le renforcement de la 
+      <persName ana="Doctrine_Monroe">Doctrine Monroe</persName>
+       dans les 
+      <location ana="Ameriques">Amériques</location>
+      . La militance politique de 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       contre le colonialisme européen et l’impérialisme étatsunien commence dès son enrôlement dans l’armée, mais elle continue avec plus d’intensité durant son professorat au Lycée National.
+    </p>
+    <p>
+      Il publie en 1892 le recueil de poèmes Poésies nationales, où il étale son grand souffle poétique comme un militant nationaliste de premier ordre. En témoigne le poème « Yankisme » où il s’en prend aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       pour avoir sacrifié leurs propres idéaux :
+    </p>
     <p>« Il faut de l’or, – ou rien, – pour être, – ou ne pas être,
 Time is money. Le crime aussi.
 […] 
@@ -28,16 +70,171 @@ Beaucoup d’or pour l’Américain !
 All right ! droit vers le but, quel qu’il soit ! nous sommes
 Attirés par l’espoir d’un gain !
 Cotton is king !…  » </p>
-    <p>En 1893 il présente sa pièce de théâtre L’Oracle,  qui a un grand succès. En 1990, le président Tirésias Simon Sam le nomme secrétaire à la légation d’Haïti à Paris, puis chargé d’affaires. En France, il se joint à la vie littéraire de Paris, fréquentant les milieux politiques, les intellectuels, dont le poète Auguste Dorchain sous la présidence duquel il prononce un discours sur le génie français et l’âme haïtienne. À Paris, il publie en 1903 deux recueils de poésie, Passions et Impressions. Une année plus tard, il fait jouer Liberté au théâtre de Cluny, un drame en vers en quatre actes, en l’honneur du centenaire de l’anniversaire de l’assassinat de Dessalines (17 octobre 1804).</p>
-    <p>Massillon Coicou prend position corps et âme pour la candidature d’Anténor Firmin dans l’élection présidentielle de 1902, et pour le camp firministe dans le conflit qui oppose celui-ci avec Nord Alexis. (À noter que Nord Alexis et Firmin sont d’abord alliés dans la tentative de renversement du gouvernement provisoire d’Adolphe Boisrond-Canal, mais Alexis, aidé par les Étatsuniens, prendra le pouvoir par la force, en envahissant le parlement, armes aux poings.)</p>
-    <p>Massillon Coicou retourne en Haïti en 1905, en plein milieu du régime de terreur institué par Nord Alexis. Il exprime publiquement son soutien à Firmin et sa volonté de renverser Alexis. Suite à l’écrasement de l’insurrection firministe en janvier 1908, Coicou prend le maquis, continuant la rébellion armée contre Alexis. Capturé avec deux de ses frères, Horace et Pierre-Louis, tous les trois, plus une vingtaines d’autres insurgés, sont sommairement exécutés dans nuit du 14 au 15 mars 1908 devant les murs extérieurs du cimetière de Port-au-Prince.</p>
-    <p>On dit que l’exécution de Massillon Coicou a inspiré à Guillaume Apollinaire dans le recueil de nouvelles et de contes Poète assassiné (1916).</p>
-    <p>Dans une lettre écrite de son exil à Saint Thomas, datée du 29 mai 1908, adressée aux enfants des frères Coicou – Camille, Emmanuel, Christian et Clément – en passage à Kingston, Anténor Firmin exprime le « profond chagrin et les vifs regrets que m’a causé l’assassinat de mes trois affectionnés amis : Massillon, Horace et Pierre-Louis Coicou, vos biens aimés parents… Ils sont tombés victimes de leur dévouement à notre sainte cause et de leur affection personnelle pour moi. Ils n’ont point mesuré leur zèle et leurs nobles efforts dans le but d’essayer de m’arracher des mains de ceux qui avaient une si grande soif de mon sang. Hélas ! Combien n’aurais-je pas préféré verser ce sang que j’étais allé offrir en holocauste à notre pays, au lieu du leur si plein de sève et de généreuse ardeur ! Car je descends déjà l’échelle de la vie et ils étaient jeunes et forts, nourrissant toutes les nobles aspirations qui m’inspirent dans la lutte pour la génération de notre race. Quelle chose amère et triste que la souffrance et le deuil triplement et si brutalement infligés à notre malheureuse famille. »</p>
-    <p>La commémoration du centenaire de la mort de Massillon Coicou en mars 2008, marquée à la fois en Haïti et dans la diaspora, prouve que l’esprit de résistance et la volonté de sacrifice de ce grand poète pour la génération du pays sont encore honorés par les nouvelles générations.</p>
-    <p>Le centenaire de l’exécution de Massillon Coicou (2008)</p>
-    <p>Au moment du centenaire de l’exécution de Massillon Coicou, on constate avec regret une minceur d’informations disponibles à son sujet. Éparpillés et raréfiés, les détails sur sa vie, sur sa formation, ses actions politiques, ses œuvres littéraires et dramatiques, sont comme des pièces d’or obtenues au prix d’un long labeur et d’une grande patience. Il n’est pas une seule étude qui lui soit entièrement consacrée sur l’Internet, à part quelques courts articles de commémoration dans Le Nouvelliste. Un article de Henock Trouillot qui le mentionne semble plutôt intéressé à célébrer son « noirisme », qu’à apporter des éclairages sur sa vie. Il va sans dire qu’il est temps qu’une telle lacune soit comblée.</p>
-    <p>Pourtant Massillon Coicou est monumental. Par l’orientation qu’il a donnée à sa vie, par son engagement dans la politique, par le souci de poursuivre la vérité, en tout cas le questionnement, qui émane tout au long de ses oeuvres littéraires et dramatiques, Coicou personnifie, avec son contemporain Justin Lhérisson, l’expression poétique de la littérature engagée  avant la lettre en Haïti, à l’image de Victor Hugo en France.</p>
-    <p>On peut regretter – à l’instar des littérateurs pour qui le domaine symbolique est plus important que celui de la vie réelle – qu’il se soit laissé engluer dans la rivalité entre Anténor Firmin et Nord Alexis, mais cela n’amoindrit pas pour autant l’admiration qu’il mérite en tant qu’écrivain, poète et militant politique qui accepte de consacrer – et de sacrifier – sa vie à la cause de l’égalité politique et à la mise sur pied d’un État de droit en Haïti.</p>
-    <p>Dans la bibliographie ci-dessous, vous trouverez des liens vers quelques sites qui ont été utiles pour l’élaboration de ce profil. L’absence d’études approfondies sur une si grande figure de la littérature haïtienne est bien malheureuse. Mise en ligne pour le centenaire de l’exécution du poète en 1908, on espère que ce portrait de Massillon Coicou pour Île en île contribue à mieux le faire connaître.</p>
+    <p>
+      En 1893 il présente sa pièce de théâtre L’Oracle,  qui a un grand succès. En 1990, le président 
+      <persName ana="Tiresias_Simon_Sam">Tirésias Simon Sam</persName>
+       le nomme secrétaire à la légation d’
+      <location ana="Haiti">Haïti</location>
+       à 
+      <location ana="Paris">Paris</location>
+      , puis chargé d’affaires. En 
+      <location ana="France">France</location>
+      , il se joint à la vie littéraire de 
+      <location ana="Paris">Paris</location>
+      , fréquentant les milieux politiques, les intellectuels, dont le poète 
+      <persName ana="Auguste_Dorchain">Auguste Dorchain</persName>
+       sous la présidence duquel il prononce un discours sur le génie français et l’âme 
+      <location ana="Haitienne">Haïtienne</location>
+      . À 
+      <location ana="Paris">Paris</location>
+      , il publie en 1903 deux recueils de poésie, Passions et Impressions. Une année plus tard, il fait jouer Liberté au théâtre de Cluny, un drame en vers en quatre actes, en l’honneur du centenaire de l’anniversaire de l’assassinat de 
+      <location ana="Dessalines">Dessalines</location>
+       (17 octobre 1804).
+    </p>
+    <p>
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       prend position corps et âme pour la candidature d’
+      <persName ana="Antenor_Firmin">
+        Anténor 
+        <location ana="Firmin">Firmin</location>
+      </persName>
+       dans l’élection présidentielle de 1902, et pour le camp firministe dans le conflit qui oppose celui-ci avec 
+      <persName ana="Nord_Alexis">Nord Alexis</persName>
+      . (À noter que 
+      <persName ana="Nord_Alexis">Nord Alexis</persName>
+       et 
+      <location ana="Firmin">Firmin</location>
+       sont d’abord alliés dans la tentative de renversement 
+      <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+       provisoire d’
+      <persName ana="Adolphe_Boisrond">
+        Adolphe 
+        <location ana="Boisrond">Boisrond</location>
+      </persName>
+      -Canal, mais Alexis, aidé par les Étatsuniens, prendra le pouvoir par la force, en envahissant le parlement, armes aux poings.)
+    </p>
+    <p>
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       retourne en 
+      <location ana="Haiti">Haïti</location>
+       en 1905, en plein milieu du régime de terreur institué par 
+      <persName ana="Nord_Alexis">Nord Alexis</persName>
+      . Il exprime publiquement son soutien à 
+      <location ana="Firmin">Firmin</location>
+       et sa volonté de renverser Alexis. Suite à l’écrasement de l’insurrection firministe en janvier 1908, 
+      <location ana="Coicou">Coicou</location>
+       prend le maquis, continuant la rébellion armée contre Alexis. Capturé avec deux de ses frères, Horace et Pierre-Louis, tous les trois, plus une vingtaines d’autres insurgés, sont sommairement exécutés dans nuit du 14 au 15 
+      <location ana="Mars">Mars</location>
+       1908 devant les murs extérieurs du cimetière de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      .
+    </p>
+    <p>
+      On dit que l’exécution de 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       a inspiré à 
+      <persName ana="Guillaume_Apollinaire">Guillaume Apollinaire</persName>
+       dans le recueil de nouvelles et de contes Poète assassiné (1916).
+    </p>
+    <p>
+      Dans une lettre écrite de son exil à 
+      <persName ana="Saint_Thomas">Saint Thomas</persName>
+      , datée du 29 mai 1908, adressée aux enfants des frères 
+      <location ana="Coicou">Coicou</location>
+       – Camille, Emmanuel, Christian et Clément – en passage à 
+      <location ana="Kingston">Kingston</location>
+      , 
+      <persName ana="Antenor_Firmin">
+        Anténor 
+        <location ana="Firmin">Firmin</location>
+      </persName>
+       exprime le « profond chagrin et les vifs regrets que m’a causé l’assassinat de mes trois affectionnés amis : Massillon, Horace et Pierre-
+      <persName ana="Louis_Coicou">
+        Louis 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+      , vos biens aimés parents… Ils sont tombés victimes de leur dévouement à notre 
+      <location ana="Sainte">Sainte</location>
+       cause et de leur affection personnelle pour moi. Ils n’ont point mesuré leur zèle et leurs nobles efforts dans le but d’essayer de m’arracher des mains de ceux qui avaient une si grande soif de mon sang. Hélas ! Combien n’aurais-je pas préféré verser ce sang que j’étais allé offrir en holocauste à notre pays, au lieu du leur si plein de sève et de généreuse ardeur ! Car je descends déjà l’échelle de la vie et ils étaient jeunes et forts, nourrissant toutes les nobles aspirations qui m’inspirent dans la lutte pour la génération de notre race. Quelle chose amère et triste que la souffrance et le deuil triplement et si brutalement infligés à notre malheureuse famille. »
+    </p>
+    <p>
+      La commémoration du centenaire de la mort de 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       en 
+      <location ana="Mars">Mars</location>
+       2008, marquée à la fois en 
+      <location ana="Haiti">Haïti</location>
+       et dans la diaspora, prouve que l’esprit de résistance et la volonté de sacrifice de ce grand poète pour la génération du pays sont encore honorés par les nouvelles générations.
+    </p>
+    <p>
+      Le centenaire de l’exécution de 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       (2008)
+    </p>
+    <p>
+      Au moment du centenaire de l’exécution de 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+      , on constate avec regret une minceur d’informations disponibles à son sujet. Éparpillés et raréfiés, les détails sur sa vie, sur sa formation, ses actions politiques, ses œuvres littéraires et dramatiques, sont comme des pièces d’or obtenues au prix d’un long labeur et d’une grande patience. Il n’est pas une seule étude qui lui soit entièrement consacrée sur l’Internet, à part quelques courts articles de commémoration dans Le Nouvelliste. Un article de 
+      <persName ana="Henock_Trouillot">Henock Trouillot</persName>
+       qui le mentionne semble plutôt intéressé à célébrer son « noirisme », qu’à apporter des éclairages sur sa vie. Il va sans dire qu’il est temps qu’une telle lacune soit comblée.
+    </p>
+    <p>
+      Pourtant 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       est monumental. Par l’orientation qu’il a donnée à sa vie, par son engagement dans la politique, par le souci de poursuivre la vérité, en tout cas le questionnement, qui émane tout au long de ses oeuvres littéraires et dramatiques, 
+      <location ana="Coicou">Coicou</location>
+       personnifie, avec son contemporain 
+      <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+      , l’expression poétique de la littérature engagée  avant la lettre en 
+      <location ana="Haiti">Haïti</location>
+      , à l’image de 
+      <persName ana="Victor_Hugo">Victor Hugo</persName>
+       en 
+      <location ana="France">France</location>
+      .
+    </p>
+    <p>
+      On peut regretter – à l’instar des littérateurs pour qui le domaine symbolique est plus important que celui de la vie réelle – qu’il se soit laissé engluer dans la rivalité entre 
+      <persName ana="Antenor_Firmin">
+        Anténor 
+        <location ana="Firmin">Firmin</location>
+      </persName>
+       et 
+      <persName ana="Nord_Alexis">Nord Alexis</persName>
+      , mais cela n’amoindrit pas pour autant l’admiration qu’il mérite en tant qu’écrivain, poète et militant politique qui accepte de consacrer – et de sacrifier – sa vie à la cause de l’égalité politique et à la mise sur pied d’un État de droit en 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      Dans la bibliographie ci-dessous, vous trouverez des liens vers quelques sites qui ont été utiles pour l’élaboration de ce profil. L’absence d’études approfondies sur une si grande figure de la littérature 
+      <location ana="Haitienne">Haïtienne</location>
+       est bien malheureuse. Mise en ligne pour le centenaire de l’exécution du poète en 1908, on espère que ce portrait de 
+      <persName ana="Massillon_Coicou">
+        Massillon 
+        <location ana="Coicou">Coicou</location>
+      </persName>
+       pour Île en île contribue à mieux le faire connaître.
+    </p>
   </text>
 </TEI>

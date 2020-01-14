@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Demesvar_Delorme_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fiche Auteur de Démesvar Delorme</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <listPerson>
+      <person id="Demesvar_Delorme">
+        <surname source="bnf">Démesvar</surname>
+        <forename source="bnf">Delorme</forename>
+        <idno type="BNF">
+          cb10431814m#about
+          <g ref="http://data.bnf.fr/ark:/12148/cb10431814m#about"/>
+        </idno>
+        <idno type="VIAF">
+          48340282
+          <g ref="http://viaf.org/viaf/48340282"/>
+        </idno>
+        <idno type="VIAF">
+          Jean_Demesvar_Delorme
+          <g ref="http://fr.dbpedia.org/resource/Jean_Demesvar_Delorme"/>
+        </idno>
+        <birth source="viaf">
+          <date>1831-02-10</date>
+        </birth>
+        <death source="viaf">
+          <date>1901-12-26</date>
+        </death>
+        <death source="ile_en_ile_auto">
+          <date>1901-01-26 00:00:00+00:00</date>
+        </death>
+        <language source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</language>
+        <language source="spla">French</language>
+        <country source="spla">Haiti</country>
+        <language source="bnf">http://id.loc.gov/vocabulary/countries/ht</language>
+        <profession source="spla">Musicien/ne, Ecrivain/ne, Poète, Journaliste</profession>
+      </person>
+    </listPerson>
+  </text>
+</TEI>

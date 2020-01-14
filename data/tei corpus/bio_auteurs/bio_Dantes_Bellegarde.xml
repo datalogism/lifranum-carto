@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Dantes_Bellegarde_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,17 +12,140 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
   <text ref="http://ile-en-ile.org/bellegarde/" xml:id="Dantes_Bellegarde_bio_auteur_ile_en_ile">
-    <p>Louis-Marie Dantès Bellegarde est né le 18 mai 1877 à Port-au-Prince. Issu d’une famille qui fut proche des instances politiques haïtiennes dès les origines, il est d’abord élève au lycée Pétion, puis mène des études de droit et devient avocat. Il s’intéresse aux débats touchants à la généralisation de l’instruction publique depuis les années 1885-1890. Il sera en 1897 lui-même professeur au lycée Pétion. Co-fondateur, avec Pétion Gérome, de la revue littéraire La Ronde (1898 à 1902), il marque ainsi son attachement à un courant de pensée ouvert sur la perspective de la modernité et un certain universalisme, par opposition aux écoles dites patriotiques qui en appellent à un strict particularisme haïtien.</p>
-    <p>En 1904, il est nommé directeur de l’Instruction publique, et commence à mener une politique de réforme. Mais il est révoqué en 1907, en raison de ses opinions firministes. Il devient comptable puis chef de service à la Banque nationale, tout en collaborant à la revue Haïti littéraire et scientifique (1911-1912). Il devient le secrétaire particulier de Michel Oreste pendant sa courte présidence (1913-1914). De retour à la Banque Nationale, il prend conscience de l’imminence de l’occupation américaine.</p>
-    <p>De 1918 à 1921, sous la présidence de Dartiguenave (1915-1922), Bellegarde est secrétaire d’État de l’instruction publique puis de l’agriculture. Pendant cette période d’occupation et de guerre, il mène un travail acharné pour maintenir en état le système d’enseignement, en cherchant à augmenter notamment les salaires des instituteurs, et il participe par ses écrits, ses discours et ses articles au sursaut national, aux côtés de Léon Laleau et de Jean Price-Mars, tout en se démarquant de ce dernier sur la question de l’indigénisme.</p>
-    <p>Nommé en 1920 à la cour internationale de justice de La Haye, Dantès Bellegarde commence en 1921 une carrière diplomatique. Il participe au second congrès Pan Africain organisé par W.E.B. Du Bois en tant que président honoraire. Il est nommé ministre plénipotentiaire à Paris, délégué d’Haïti à la Société des Nations, à Genève, où il dénonce régulièrement l’occupation américaine. Il est aussi le représentant d’Haïti au Vatican. Bellegarde est dans ces années considéré comme un très grand orateur, et ses interventions sont largement commentées. En 1922, il est directement nommé par le gouvernement français Commandeur de la Légion d’honneur, distinction rarement accordée à un étranger. En 1930, il est ambassadeur à Washington, D.C.</p>
-    <p>Il est rappelé en Haïti en 1936. Il devient, jusqu’en 1941, Directeur de l’École Normale Supérieure, qui forme les enseignants et les cadres de l’administration de l’Instruction publique. Il sera enfin chargé de missions à Washington en 1946 et en 1957 tout en représentant souvent Haïti lors de rencontres internationales, notamment en Amérique centrale et en Amérique latine. Il est régulièrement honoré et décoré lors de ses déplacements. Régulièrement honoré et décoré lors de ses déplacements, Bellegarde meurt à Port-au-Prince le 16 juin 1966.</p>
-    <p>L’œuvre de Bellegarde, inscrite dans son temps et dans les circonstances, est nourrie par le positivisme comtien et le bergsonisme. Ses essais sont souvent composés de recueils d’articles liés à l’actualité ainsi que de discours prononcés lors d’occasions officielles. Mais Bellegarde a également imprimé sa trace dans l’enseignement haïtien par la rédaction d’ouvrages scolaires, en particulier dans le domaine de l’histoire. Politiquement marquée, cette œuvre radicalement opposée « aux doctrines malfaisantes du racisme athée et du bolchévisme sanguinaire » (Haïti et ses problèmes, 1941) ne parvient pas cependant à se départir d’une attitude ambiguë à l’égard de la France (« Je suis certain de rester […] dans la tradition de cette culture française, faite de clarté, de sociabilité et de sympathie, et dont M. Daniel-Rops, dans un récent article du Temps Présent de Paris, reconnaît M. Sténio Vincent, M. Léon Laleau, M. Clément Magloire, M. Abel Léger, le docteur Price-Mars, et moi-même, à côté de beaucoup d’autres, comme les tenants fidèles en Haïti »), comme à l’égard des populations les plus pauvres d’Haïti, souvent représentée comme « arriérées ». Mais sa critique tenace de l’enfermement dans une identité haïtienne peu ou mal définie peut être lue aussi comme une critique a priori des errances duvaliéristes.</p>
-    <p>On trouvera dans Au Service d’Haïti de multiples témoignages de ses contemporains, qui montrent le large éventail des activités de Bellegarde, ainsi que les marques d’une renommée internationale exceptionnelle.</p>
+    <p>
+      Louis-
+      <persName ana="Marie_Dantes_Bellegarde">
+        Marie Dantès 
+        <location ana="Bellegarde">Bellegarde</location>
+      </persName>
+       est né le 18 mai 1877 à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+      . Issu d’une famille qui fut proche des instances politiques haïtiennes dès les origines, il est d’abord élève au lycée 
+      <location ana="Petion">Pétion</location>
+      , puis mène des études de droit et devient avocat. Il s’intéresse aux débats touchants à la généralisation de l’instruction publique depuis les années 1885-1890. Il sera en 1897 lui-même professeur au lycée 
+      <location ana="Petion">Pétion</location>
+      . Co-fondateur, avec 
+      <location ana="Petion">Pétion</location>
+       Gé
+      <location ana="Rome">Rome</location>
+      , de la revue littéraire La Ronde (1898 à 1902), il marque ainsi son attachement à un courant de pensée ouvert sur la perspective de la modernité et un certain universalisme, par opposition aux écoles dites patriotiques qui en appellent à un strict particularisme haïtien.
+    </p>
+    <p>
+      En 1904, il est nommé 
+      <location ana="Directeur">Directeur</location>
+       de l’Instruction publique, et commence à mener une politique de réforme. Mais il est révoqué en 1907, en raison de ses opinions firministes. Il devient comptable puis chef de service à la Banque nationale, tout en collaborant à la revue 
+      <location ana="Haiti">Haïti</location>
+       littéraire et scientifique (1911-1912). Il devient le secrétaire particulier de 
+      <persName ana="Michel_Oreste">Michel Oreste</persName>
+       pendant sa courte présidence (1913-1914). De retour à la Banque Nationale, il prend conscience de l’imminence de l’occupation américaine.
+    </p>
+    <p>
+      De 1918 à 1921, sous la présidence de Dartiguenave (1915-1922), 
+      <location ana="Bellegarde">Bellegarde</location>
+       est secrétaire d’État de l’instruction publique puis de l’agriculture. Pendant cette période d’occupation et de guerre, il mène un travail acharné pour maintenir en état le système d’enseignement, en cherchant à augmenter notamment les salaires des instituteurs, et il participe par ses écrits, ses discours et ses articles au sursaut national, aux côtés de 
+      <persName ana="Leon_Laleau">
+        Léon 
+        <location ana="Laleau">Laleau</location>
+      </persName>
+       et de 
+      <persName ana="Jean_Price">
+        Jean 
+        <location ana="Price">Price</location>
+      </persName>
+      -
+      <location ana="Mars">Mars</location>
+      , tout en se démarquant de ce dernier sur la question de l’indigénisme.
+    </p>
+    <p>
+      Nommé en 1920 à la cour internationale de justice de 
+      <location ana="La_Haye">La Haye</location>
+      , 
+      <persName ana="Dantes_Bellegarde">
+        Dantès 
+        <location ana="Bellegarde">Bellegarde</location>
+      </persName>
+       commence en 1921 une carrière diplomatique. Il participe au second congrès Pan Africain organisé par W.E.B. Du Bois en tant que président honoraire. Il est nommé ministre plénipotentiaire à 
+      <location ana="Paris">Paris</location>
+      , délégué d’
+      <location ana="Haiti">Haïti</location>
+       à la Société des Nations, à 
+      <location ana="Geneve">Genève</location>
+      , où il dénonce régulièrement l’occupation américaine. Il est aussi le représentant d’
+      <location ana="Haiti">Haïti</location>
+       au 
+      <location ana="Vatican">Vatican</location>
+      . 
+      <location ana="Bellegarde">Bellegarde</location>
+       est dans ces années considéré comme un très grand orateur, et ses interventions sont largement commentées. En 1922, il est directement nommé par le gouvernement français Commandeur de la Légion d’honneur, distinction rarement accordée à un étranger. En 1930, il est ambassadeur à 
+      <location ana="Washington">Washington</location>
+      , D.C.
+    </p>
+    <p>
+      Il est rappelé en 
+      <location ana="Haiti">Haïti</location>
+       en 1936. Il devient, jusqu’en 1941, 
+      <location ana="Directeur">Directeur</location>
+       de l’École Normale Supérieure, qui forme les enseignants et les cadres de l’administration de l’Instruction publique. Il sera enfin chargé de missions à 
+      <location ana="Washington">Washington</location>
+       en 1946 et en 1957 tout en représentant souvent 
+      <location ana="Haiti">Haïti</location>
+       lors de rencontres internationales, notamment en 
+      <location ana="Amerique_Centrale">Amérique centrale</location>
+       et en 
+      <location ana="Amerique">Amérique</location>
+       latine. Il est régulièrement honoré et décoré lors de ses déplacements. Régulièrement honoré et décoré lors de ses déplacements, 
+      <location ana="Bellegarde">Bellegarde</location>
+       meurt à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       le 16 juin 1966.
+    </p>
+    <p>
+      L’œuvre de 
+      <location ana="Bellegarde">Bellegarde</location>
+      , inscrite dans son temps et dans les circonstances, est nourrie par le positivisme comtien et le bergsonisme. Ses essais sont souvent composés de recueils d’articles liés à l’actualité ainsi que de discours prononcés lors d’occasions officielles. Mais 
+      <location ana="Bellegarde">Bellegarde</location>
+       a également imprimé sa trace dans l’enseignement haïtien par la rédaction d’ouvrages scolaires, en particulier dans le domaine de l’histoire. Politiquement marquée, cette œuvre radicalement opposée « aux doctrines malfaisantes du racisme athée et du bolchévisme sanguinaire » (
+      <location ana="Haiti">Haïti</location>
+       et ses problèmes, 1941) ne parvient pas cependant à se départir d’une attitude ambiguë à l’égard de 
+      <location ana="La_France">la France</location>
+       (« Je suis certain de rester […] dans la tradition de cette culture française, faite de clarté, de sociabilité et de sympathie, et dont 
+      <persName ana="M._Daniel">M. Daniel</persName>
+      -Rops, dans un récent article du Temps Présent de 
+      <location ana="Paris">Paris</location>
+      , reconnaît 
+      <persName ana="M._Stenio_Vincent">M. Sténio Vincent</persName>
+      , 
+      <persName ana="M._Leon_Laleau">
+        M. Léon 
+        <location ana="Laleau">Laleau</location>
+      </persName>
+      , 
+      <persName ana="M._Clement_Magloire">M. Clément Magloire</persName>
+      , 
+      <persName ana="M._Abel_Leger">M. Abel Léger</persName>
+      , le docteur 
+      <location ana="Price">Price</location>
+      -
+      <location ana="Mars">Mars</location>
+      , et moi-même, à côté de beaucoup d’autres, comme les tenants fidèles en 
+      <location ana="Haiti">Haïti </location>
+      »), comme à l’égard des populations les plus pauvres d’
+      <location ana="Haiti">Haïti</location>
+      , souvent représentée comme « arriérées ». Mais sa critique tenace de l’enfermement dans une identité 
+      <location ana="Haitienne">Haïtienne</location>
+       peu ou mal définie peut être lue aussi comme une critique a priori des errances duvaliéristes.
+    </p>
+    <p>
+      On trouvera dans Au Service d’
+      <location ana="Haiti">Haïti</location>
+       de multiples témoignages de ses contemporains, qui montrent le large éventail des activités de 
+      <location ana="Bellegarde">Bellegarde</location>
+      , ainsi que les marques d’une renommée internationale exceptionnelle.
+    </p>
   </text>
 </TEI>

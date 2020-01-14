@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="Yanick_Lahens_bio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,16 +12,109 @@
         <org_name>Université Jean Moulin Lyon 3</org_name>
         <org_name>ENS Lyon</org_name>
         <org_name>Université Lyon 2</org_name>
-        <date>2020-01-04</date>
+        <date>2020-01-13</date>
       </publicationStmt>
     </fileDesc>
   </teiHeader>
-  <text hand="oëlle Vitiello" ref="http://ile-en-ile.org/lahens/" xml:id="Yanick_Lahens_bio_auteur_ile_en_ile">
-    <p>Née en Haïti le 22 décembre 1953, Yanick Lahens part très jeune pour la France où elle fait ses études secondaires. En France elle fait également des études supérieures en lettres. À son retour en Haïti, elle a enseigné à l’École Normale Supérieure (l’Université d’État) jusqu’en 1995.</p>
-    <p>Yanick Lahens est l’auteur de nombreux articles, en particulier sur Faulkner et Marie Chauvet, et d’un livre d’essais critiques, L’exil entre l’ancrage et la fuite: l’écrivain haïtien. Elle anime une émission culturelle « Entre Nous » à Radio Haïti Inter avec Jan J. Dominique. Elle est membre fondatrice de l’Association des écrivains haïtiens, et contribue régulièrement aux revues culturelles haïtiennes et antillaises telles que Chemins critiques, Cultura et Boutures. Entre 1996 et 1997, elle fait partie du cabinet du Ministre de la Culture (Raoul Peck) avec Louis-Philippe Dalembert. En 1998, elle dirige le projet de la « Route de l’esclavage » sous la présidence de Laënnec Hurbon qui annonce une réflexion et des actions intellectuelles, culturelles et artistiques autour de la problématique de l’esclavage dans toute l’île.</p>
-    <p>Tante Resia et les dieux est un recueil de nouvelles qui couvre plusieurs époques et des événements de nature diverse. « La chambre bleue », par exemple, raconte comment une petite fille a découvert que ses parents cachaient des amis persécutés par le pouvoir. Le fond politique est très discret et le texte est écrit du point de vue de la petite fille, dont on suit le raisonnement et les déductions, ce qui donne à la nouvelle la qualité d’un récit de détective. « Le jour fêlé » décrit la peur d’une jeune femme face à la violence quotidienne. Le talent de Lahens tient à ce que, à travers une écriture d’une grande sobriété, elle parvienne à rendre les émotions de ses personnages tangibles, en particulier la peur. La nouvelle qui donne son titre au recueil raconte le voyage d’une petite fille et sa découverte d’une célébration vaudoue. Plusieurs nouvelles évoquent aussi les répressions duvaliéristes contre de jeunes engagés politiques ainsi que la vie urbaine de Port-au-Prince avec ses quartiers et ses habitants.</p>
-    <p>La petite corruption est un recueil composé de sept nouvelles, suivies d’un glossaire. Comme dans le premier recueil de nouvelles de Lahens, le ton des récits est varié, ainsi que les époques et le type d’émotions. « Le désastre banal » raconte les rêves et la réalité quotidienne d’une jeune fille de vingt ans, sa tentative de sortir de la pauvreté qui l’entoure, ce que peut représenter la présence de jeunes soldats américains pour une telle jeune fille. « Bain de lune » déploie une tonalité orale, rurale, océane, une poésie surnaturelle, pour parler de tragédies familiales et de méprise due à des croyances dont la conséquence est une infinie violence pour les hommes, les femmes, et l’amour. « Une histoire américaine » raconte les souvenirs d’une jeune femme haïtienne partie tenter sa chance aux États-Unis à l’époque de la ségrégation. La juxtaposition de deux univers d’oppression, en Haïti et dans le Sud des États-Unis, dans le milieu de militants à chaque fois, fait ressortir les liens qui existent, subtilement tissés, entre des hommes et des femmes de cultures et situations historiques différentes. « La petite corruption » évoque les difficultés de la jeunesse masculine à vivre, à s’adapter ou se réadapter au pays, la tentation de la drogue, et la violence qui lui est associée, souvent à l’insu des protagonistes eux-mêmes. La petite corruption est réédité aux éditions Mémoire d’encrier (2003) dans une édition revue et augmentée d’une nouvelle, « Corossol, orange, citronnelle ».</p>
-    <p>Le premier roman de Yanick Lahens, Dans la maison du père, est le Bildungsroman d’une jeune fille qui grandit dans les années quarante dans une famille de la grande bourgeoisie. Au carrefour de son éducation de jeune fille de bonne famille et de son apprentissage de la culture populaire par sa bonne et son oncle, l’héroïne suit péripéties des journées révolutionnaires de 1945-46. La danse est ainsi dans ce roman la synecdoque des problèmes de classe en Haïti.</p>
-    <p>Yanick Lahens vit à Port-au-Prince où elle prend une part active dans l’animation culturelle et l’activité citoyenne. Son œuvre occupe une place privilégiée – à côté de celles de Marie Chauvet, Jan J. Dominique, Yanick Jean et Paulette Poujol-Oriol – dans la littérature au féminin en Haïti. Elle est membre du conseil d’administration du Conseil International d’Études Francophones (CIEF). Elle partage aujourd’hui son temps entre l’écriture, l’enseignement et ses activités de conférencière en Haïti et à l’étranger.</p>
+  <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/lahens/" xml:id="Yanick_Lahens_bio_auteur_ile_en_ile">
+    <p>
+      Née en 
+      <location ana="Haiti">Haïti</location>
+       le 22 décembre 1953, 
+      <persName ana="Yanick_Lahens">
+        Yanick 
+        <location ana="Lahens">Lahens</location>
+      </persName>
+       part très jeune pour 
+      <location ana="La_France">la France</location>
+       où elle fait ses études secondaires. En 
+      <location ana="France">France</location>
+       elle fait également des études supérieures en lettres. À son retour en 
+      <location ana="Haiti">Haïti</location>
+      , elle a enseigné à l’École Normale Supérieure (l’Université d’État) jusqu’en 1995.
+    </p>
+    <p>
+      <persName ana="Yanick_Lahens">
+        Yanick 
+        <location ana="Lahens">Lahens</location>
+      </persName>
+       est l’auteur de nombreux articles, en particulier sur Faulkner et 
+      <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+      , et d’un livre d’essais critiques, L’exil entre l’ancrage et la fuite: l’écrivain haïtien. Elle anime une émission culturelle « Entre Nous » à Radio 
+      <location ana="Haiti">Haïti</location>
+       Inter avec 
+      <persName ana="Jan_J._Dominique">Jan J. Dominique</persName>
+      . Elle est membre fondatrice de l’Association des écrivains 
+      <location ana="Haitiens">Haïtiens</location>
+      , et contribue régulièrement aux revues culturelles haïtiennes et antillaises telles que Chemins critiques, Cultura et 
+      <location ana="Boutures">Boutures</location>
+      . Entre 1996 et 1997, elle fait partie du cabinet du 
+      <persName ana="Ministre_De_La_Culture">Ministre de la Culture</persName>
+       (
+      <persName ana="Raoul_Peck">Raoul Peck</persName>
+      ) avec Louis-
+      <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+      . En 1998, elle dirige le projet de la « Route de l’esclavage » sous la présidence de 
+      <persName ana="Laennec_Hurbon">Laënnec Hurbon</persName>
+       qui annonce une réflexion et des actions intellectuelles, culturelles et artistiques autour de la problématique de l’esclavage dans toute l’île.
+    </p>
+    <p>
+      <persName ana="Tante_Resia">Tante Resia</persName>
+       et les dieux est un recueil de nouvelles qui couvre plusieurs époques et des événements de nature diverse. « La chambre bleue », par exemple, raconte comment une petite fille a découvert que ses parents cachaient des amis persécutés par le pouvoir. Le fond politique est très discret et le texte est écrit du point de vue de la petite fille, dont on suit le raisonnement et les déductions, ce qui donne à la nouvelle la qualité d’un récit de détective. « Le jour fêlé » décrit la peur d’une jeune femme face à la violence quotidienne. Le talent de 
+      <location ana="Lahens">Lahens</location>
+       tient à ce que, à travers une écriture d’une grande sobriété, elle parvienne à rendre les émotions de ses personnages tangibles, en particulier la peur. La nouvelle qui donne son titre au recueil raconte le voyage d’une petite fille et sa découverte d’une célébration vaudoue. Plusieurs nouvelles évoquent aussi les répressions duvaliéristes contre de jeunes engagés politiques ainsi que la vie urbaine de 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       avec ses quartiers et ses habitants.
+    </p>
+    <p>
+      La petite corruption est un recueil composé de sept nouvelles, suivies d’un glossaire. Comme dans le premier recueil de nouvelles de 
+      <location ana="Lahens">Lahens</location>
+      , le ton des récits est varié, ainsi que les époques et le type d’émotions. « Le désastre banal » raconte les rêves et la réalité quotidienne d’une jeune fille de vingt ans, sa tentative de sortir de la pauvreté qui l’entoure, ce que peut représenter la présence de jeunes soldats américains pour une telle jeune fille. « 
+      <location ana="Bain">Bain</location>
+       de lune » déploie une tonalité orale, rurale, océane, une poésie surnaturelle, pour parler de tragédies familiales et de méprise due à des croyances dont la conséquence est une infinie violence pour les hommes, les femmes, et l’amour. « Une histoire américaine » raconte les souvenirs d’une jeune femme 
+      <location ana="Haitienne">Haïtienne</location>
+       partie tenter sa chance aux 
+      <location ana="Etats-Unis">États-Unis</location>
+       à l’époque de la ségrégation. La juxtaposition de deux univers d’oppression, en 
+      <location ana="Haiti">Haïti</location>
+       et dans le Sud des 
+      <location ana="Etats-Unis">États-Unis</location>
+      , dans le milieu de militants à chaque fois, fait ressortir les liens qui existent, subtilement tissés, entre des hommes et des femmes de cultures et situations historiques différentes. « La petite corruption » évoque les difficultés de la jeunesse masculine à vivre, à s’adapter ou se réadapter au pays, la tentation de la drogue, et la violence qui lui est associée, souvent à l’insu des protagonistes eux-mêmes. La petite corruption est réédité aux éditions Mémoire d’encrier (2003) dans une édition revue et augmentée d’une nouvelle, « Corossol, orange, citronnelle ».
+    </p>
+    <p>
+      Le premier roman de 
+      <persName ana="Yanick_Lahens">
+        Yanick 
+        <location ana="Lahens">Lahens</location>
+      </persName>
+      , Dans la 
+      <location ana="Maison">Maison</location>
+       du père, est le Bildungsroman d’une jeune fille qui grandit dans les années quarante dans une famille de la grande bourgeoisie. Au 
+      <location ana="Carrefour">Carrefour</location>
+       de son éducation de jeune fille de bonne famille et de son apprentissage de la culture populaire par sa bonne et son oncle, l’héroïne suit péripéties des journées révolutionnaires de 1945-46. La danse est ainsi dans ce roman la synecdoque des problèmes de classe en 
+      <location ana="Haiti">Haïti</location>
+      .
+    </p>
+    <p>
+      <persName ana="Yanick_Lahens">
+        Yanick 
+        <location ana="Lahens">Lahens</location>
+      </persName>
+       vit à 
+      <location ana="Port-Au-Prince">Port-au-Prince</location>
+       où elle prend une part active dans l’animation culturelle et l’activité citoyenne. Son œuvre occupe une place privilégiée – à côté de celles de 
+      <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+      , 
+      <persName ana="Jan_J._Dominique">Jan J. Dominique</persName>
+      , 
+      <persName ana="Yanick_Jean">Yanick Jean</persName>
+       et 
+      <persName ana="Paulette_Poujol">Paulette Poujol</persName>
+      -Oriol – dans la littérature au féminin en 
+      <location ana="Haiti">Haïti</location>
+      . Elle est membre du conseil d’administration du Conseil International d’Études Francophones (CIEF). Elle partage aujourd’hui son temps entre l’écriture, l’enseignement et ses activités de conférencière en 
+      <location ana="Haiti">Haïti</location>
+       et à l’étranger.
+    </p>
   </text>
 </TEI>

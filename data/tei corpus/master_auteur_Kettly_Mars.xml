@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xml:id="Kettly_Mars_master_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include ref="bio_Kettly_Mars.xml"/>
+  <xi:include ref="biblio_Kettly_Mars.xml"/>
+  <xi:include ref="fiche_auteur_Kettly_Mars.xml"/>
+</master>

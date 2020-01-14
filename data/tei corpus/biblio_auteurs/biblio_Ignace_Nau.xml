@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Ignace_Nau_biblio_auteur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contenus associés à Ignace Nau</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-13</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <div ref="http://ile-en-ile.org/nau/" xml:id="Ignace_Nau_biblio_auteur_ile_en_ile">
+    <div subtype="livres">
+      <list subtype="poésie">
+        <item>Le Livre de Marie.</item>
+        <item>Pensées du Soir.</item>
+        <item>Poésies complètes, avec une étude biographique et littéraire par Hénock Trouillot et Christophe Ph. Charles. Port-au-Prince: Choucoune, 2000.</item>
+      </list>
+      <list subtype="nouvelles et contes">
+        <item>Un Épisode de la Révolution. (1836).</item>
+        <item>Isalina, ou Une scène créole. (1836). Isalina, ou, Une scène créole, avec une étude biographique et littéraire par Hénock Trouillot. Port-au-Prince: Choucoune, 2000.</item>
+        <item>Le Lambi. (1837).</item>
+      </list>
+      <list subtype="sur l’œuvre d’ignace nau">
+        <item>Bellegarde, Dantès. Écrivains haïtiens : notices biographiques et pages choisies. Port-au-Prince: Deschamps, 1950.</item>
+        <item>Berrou, Raphaël et Pompilus, Pradel. Histoire de la littérature haïtienne illustrée par les textes. Tome I. Port-au-Prince: Éditions Caraïbes, 1975.</item>
+        <item>Dumas, Pierre-Raymond. Anthologie de nouvelles haïtiennes. Vol. II. Port-au-Prince: Conjonction, 1991.</item>
+        <item>Éthéart, Liautaud. Miscellanées. Port-au-Prince: Imprimerie J. Coutois, 1855.</item>
+        <item>Hoffmann, Léon-François. Littérature d’Haïti. Paris: EDICEF, 1995.</item>
+      </list>
+    </div>
+    <div subtype="sur_le_web">
+      <list>
+        <item ref="http://gallica.bnf.fr/ark:/12148/cb32858266g/date">Revue des colonies</item>
+        <item ref="http://gallica.bnf.fr/ark:/12148/bpt6k5456110x/f38.image">Esquisses haïtiennes</item>
+        <item ref="http://gallica.bnf.fr/ark:/12148/bpt6k5456110x/f38.image">Esquisses haïtiennes</item>
+        <item ref="http://gallica.bnf.fr/ark:/12148/bpt6k5458250d/f28.image">Esquisses haïtiennes</item>
+      </list>
+    </div>
+  </div>
+</TEI>
