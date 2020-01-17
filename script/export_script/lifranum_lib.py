@@ -380,7 +380,7 @@ def get_Masters(data):
 	root = Element('master')
 	root.set('xmlns:xi', 'http://www.w3.org/2001/XInclude')
 	root.set('xml:lang', 'fr')
-	root.set('xml:id',id_auth+'_master_auteur') ###################
+	root.set('xml:id',id_auth+'_master_auteurs') ###################
 	for file in data["data_files"]:
 		ref=SubElement(root,"xi:include")
 		ref.set("ref",file)

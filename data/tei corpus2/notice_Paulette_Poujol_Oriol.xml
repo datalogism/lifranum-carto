@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Paulette_Poujol_Oriol_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Paulette Poujol Oriol</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-16</date>
+      </publicationStmt>
+      <sourceDesc>Données issues de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Paulette_Poujol_Oriol_fiche_autorite">
+    <person ana="Paulette_Poujol_Oriol" sex="na">
+      <persName>Paulette Poujol Oriol</persName>
+      <death source="ile_en_ile_auto">
+        <date>2011-01-11 00:00:00+00:00</date>
+      </death>
+    </person>
+  </div>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="James_Noel_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de James Noël</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-16</date>
+      </publicationStmt>
+      <sourceDesc>Données issues de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="James_Noel_fiche_autorite">
+    <person ana="James_Noel" sex="na">
+      <persName>
+        <surname source="bnf">James</surname>
+        <forename source="bnf">Noël</forename>
+      </persName>
+      <idno type="BNF">
+        cb15993246v#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb15993246v#about"/>
+      </idno>
+      <idno type="VIAF">
+        58863888
+        <g ref="http://viaf.org/viaf/58863888"/>
+      </idno>
+      <idno type="VIAF">
+        James_Noël
+        <g ref="http://fr.dbpedia.org/resource/James_Noël"/>
+      </idno>
+      <birth source="viaf">
+        <date>1978</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
+        </placeName>
+      </residence>
+    </person>
+  </div>
+</TEI>

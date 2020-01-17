@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gerard_Etienne_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Gérard Étienne</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-16</date>
+      </publicationStmt>
+      <sourceDesc>Données issues de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Gerard_Etienne_fiche_autorite">
+    <person ana="Gerard_Etienne" sex="na">
+      <persName>
+        <surname source="bnf">Étienne</surname>
+        <forename source="bnf">Gérard</forename>
+      </persName>
+      <idno type="BNF">
+        cb16277470r#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb16277470r#about"/>
+      </idno>
+      <idno type="VIAF">
+        170176897
+        <g ref="http://viaf.org/viaf/170176897"/>
+      </idno>
+      <idno type="VIAF">
+        Gérard_Étienne
+        <g ref="http://fr.dbpedia.org/resource/Gérard_Étienne"/>
+      </idno>
+      <birth source="viaf">
+        <date>1965-06-03</date>
+      </birth>
+      <death source="ile_en_ile_auto">
+        <date>2008-01-14 00:00:00+00:00</date>
+      </death>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/fr</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <occupation source="spla"> Poète</occupation>
+    </person>
+  </div>
+</TEI>

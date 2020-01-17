@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Emile_Roumer_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Émile Roumer</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <org_name>Université Jean Moulin Lyon 3</org_name>
+        <org_name>ENS Lyon</org_name>
+        <org_name>Université Lyon 2</org_name>
+        <date>2020-01-16</date>
+      </publicationStmt>
+      <sourceDesc>Données issues de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Emile_Roumer_fiche_autorite">
+    <person ana="Emile_Roumer" sex="na">
+      <persName>
+        <surname source="bnf">Émile</surname>
+        <forename source="bnf">Roumer</forename>
+      </persName>
+      <idno type="BNF">
+        cb11922844k#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb11922844k#about"/>
+      </idno>
+      <idno type="VIAF">
+        264763430
+        <g ref="http://viaf.org/viaf/264763430"/>
+      </idno>
+      <idno type="VIAF">
+        Émile_Roumer
+        <g ref="http://fr.dbpedia.org/resource/Émile_Roumer"/>
+      </idno>
+      <birth source="viaf">
+        <date>1903-02-05</date>
+      </birth>
+      <death source="viaf">
+        <date>1988-04-06</date>
+      </death>
+      <death source="ile_en_ile_auto">
+        <date>1988-01-06 00:00:00+00:00</date>
+      </death>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
+        </placeName>
+      </residence>
+      <occupation source="viaf">ecrivains</occupation>
+      <occupation source="viaf">authors</occupation>
+    </person>
+  </div>
+</TEI>
