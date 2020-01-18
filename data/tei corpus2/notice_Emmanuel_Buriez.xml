@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Emmanuel_Buriez_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Emmanuel_Buriez" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Emmanuel Buriez</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Emmanuel_Buriez_fiche_autorite">
+  <div n="1" xml:id="Emmanuel_Buriez_fiche">
     <person ana="Emmanuel_Buriez" sex="na">
       <persName>Emmanuel Buriez</persName>
       <langKnowledge>
@@ -28,9 +28,28 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">R�alisateur/trice</occupation>
+      <occupation source="spla">Réalisateur/trice</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
-      <occupation source="spla"> Sc�nariste</occupation>
+      <occupation source="spla"> Scénariste</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Emmanuel_Buriez_bio">
+    <text ref="http://www.spla.pro/fiche.personne.emmanuel-buriez.37660.html" xml:id="Emmanuel_Buriez_bio_auteur_spla">
+      <p>
+        Emmanuel Buriez (né le 15 décembre à 
+        <placeName ana="Haiti">Haïti</placeName>
+        ) est un cinéaste, réalisateur, producteur, comédien, scénariste, et acteur français.Biographie :Emmanuel Buriez est né à 
+        <placeName ana="Haiti">Haïti</placeName>
+        .En 
+        <placeName ana="France">France</placeName>
+         il commence le théâtre en MJC et étudie le solfège et le piano.Il réalise ses premiers courts métrages vers l'âge de 13 ans à Dunkerque (Nord-Pas-De-Calais).Il décroche plusieurs titres en karaté combat et karaté artistique ainsi qu'en athlétisme spécialisé au 100 mètres (10.54s).Activités militantes :Engagé auprès de plusieurs associations et ONG, il participe à des missions humanitaires sur le territoire français, sur le continent africain et asiatique principalement lors de catastrophes météorologiques.Lancement de carrière :Emmanuel Buriez se fait remarquer par le public belge avec sa série télévisée Magic World, une utopie en dérive qu'il écrit, réalise, interprète et produit.Il se voit remettre auparavant plusieurs récompenses pour des courts métrages et anime parrallèlement une chronique de critique de films sur une antenne de radio.Filmographie :Double failleVert pacifiqueMagic World une utopie en dériveOrdre de tuerKing Kong (non crédité)La vie en amontIron man 2Resident Evil RetributionWeekend avec un espionAldebaran CataclysmeBibliographie :Mages parmi les hommes, ainsi naquit la légende
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Emmanuel_Buriez_biblio"/>
+  <div n="4" xml:id="Emmanuel_Buriez_web">
+    <list type="spla">
+      <item ref="http://www.emmanuelburiez.book.fr">Website Emmanuel Buriez </item>
+    </list>
   </div>
 </TEI>

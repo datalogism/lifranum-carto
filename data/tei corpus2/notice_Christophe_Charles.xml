@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Christophe_Charles_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Christophe_Charles" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Christophe Charles</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Christophe_Charles_fiche_autorite">
+  <div n="1" xml:id="Christophe_Charles_fiche">
     <person ana="Christophe_Charles" sex="na">
-      <persName>
-        <surname source="bnf">Charles</surname>
-        <forename source="bnf">Christophe</forename>
-      </persName>
+      <persName>Christophe Charles</persName>
       <idno type="BNF">
         cb16454609f#about
         <g ref="http://data.bnf.fr/ark:/12148/cb16454609f#about"/>
@@ -40,5 +37,102 @@
         </placeName>
       </residence>
     </person>
+  </div>
+  <div n="2" xml:id="Christophe_Charles_bio">
+    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/charles_christophe/" xml:id="Christophe_Charles_bio_auteur_ile_en_ile">
+      <p>
+        Dans l’histoire de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , le nom de 
+        <persName ana="Christophe_Philippe_Charles">Christophe Philippe Charles</persName>
+         est partout. On a l’impression que c’est lui qui organise les catalogues, nuance les répertoires, classe la position des auteurs 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         dans tous les ordres chronologiques possibles. Qu’il s’agisse de critique littéraire, de poésie ou de travaux monographiques, il faut, coûte que coûte, tenir compte de la voix de 
+        <persName ana="Monsieur_Charles">Monsieur Charles</persName>
+        .
+      </p>
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 29 avril 1951, Christophe a fait des études universitaires et obtenu un diplôme en Lettres. Cet écrivain prolifique se présente à ses lecteurs sous divers pseudonymes, comme si la pluralité des genres réclamait de lui une multiplicité de signatures. Pour la poésie, il devient 
+        <persName ana="Christopher_Love">Christopher Love</persName>
+        , pour la critique, il se nomme 
+        <persName ana="Christophe_Philippe_Charles">Christophe Philippe Charles</persName>
+        . Finalement, quand il 
+        <placeName ana="Passe">Passe</placeName>
+         de la littérature à la philosophie, il utilise un curieux pseudonyme : 
+        <persName ana="Jean_Merdalor">Jean Merdalor</persName>
+        .
+      </p>
+      <p>
+        Depuis plus de 20 ans, cet écrivain poursuit aussi une carrière sérieuse dans l’enseignement. Il a d’ailleurs fondé à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         une école de journalisme où plus d’une génération de journalistes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         ont acquis les principes de base de cette profession honorable. Charles a en plus une 
+        <placeName ana="Maison">Maison</placeName>
+         d’édition, Choucoune, qui publie des jeunes à frais d’auteur et réédite, en même temps, des œuvres de pionniers de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         tels 
+        <persName ana="Etzer_Vilaire">
+          Etzer 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         et 
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+        . Parmi les maisons d’édition haïtiennes, Choucoune est probablement celle dont les coûts de fabrication sont les plus abordables. Et c’est ce qui explique la variété de son catalogue où, au début de leur carrière, se sont côtoyés des auteurs aussi importants que Louis-
+        <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+        , 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         et 
+        <persName ana="Robenson_Bernard">Robenson Bernard</persName>
+        .
+      </p>
+      <p>
+        <persName ana="Christophe_Charles">Christophe Charles</persName>
+         écrit en français et en créole. Dans la langue vernaculaire, le nom se créolise et devient : Christophélès.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Christophe_Charles_biblio">
+    <div ref="http://ile-en-ile.org/charles_christophe/" xml:id="Christophe_Charles_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Love and Liberty (choix de poèmes en français avec traductions en anglais). Port-au-Prince: Choucoune, 1979, 22 p.</item>
+      </list>
+      <list subtype="sur l’oeuvre de christophe charles">
+        <item>Bervin, Antoine. « À propos du dernier livre de Christophe Charles ». Le Nouvelliste (25 septembre 1974).</item>
+      </list>
+      <list subtype="anthologies et ouvrages littéraires">
+        <item>Baridon, Silvio et Raymond Philoctète Raymond. Poésie vivante d’Haïti. (2e éd.) Paris: Maurice Nadeau, 1986.</item>
+      </list>
+      <list subtype="poésie">
+        <item>L’Aventure humaine. Port-au-Prince: Choucoune, 1971, 29 p.</item>
+      </list>
+      <list subtype="prose narrative">
+        <item>Un trafic de zombis, conte. Port-au-Prince: Choucoune, 2011.</item>
+      </list>
+      <list subtype="critique, théorie et histoire littéraire">
+        <item>Dix nouveaux poètes et écrivains haïtiens. Port-au-Prince: Union nationale haïtienne des travailleurs intellectuels, 1974, 116 p.
+Articles et entretiens publiés dans Le Nouvelliste, 1970-1973; Études critiques et interview: Robert Bauduy et le calbindage de l’aurore; L’univers mystérieux de Gérard Campfort; Gérard Dougé et le pluréalisme; Frankétienne ou l’angoisse d’être; Les heures hallucinées de Ernst Jean-Baptiste; Un couple chante l’amour; Rassoul et Michaelle; Jules André Marc et la Génération de vertige; La poésie romantique de Ulrick Rosarion; Le théâtre total de Max Vallès.
+Textes théoriques: Robert Bauduy: « Poétique moderne et culture populaire »; Gérard Dougé: « Pluréalisme et culture haitienne »; Frankétienne: « Lire Ultravocal« . Ernst Jean-Baptiste: « Poésie et connaissance: ; Max Vallès: « Autour du Nouveau Bouquin ».
+</item>
+      </list>
+      <list subtype="politique et sociologie">
+        <item>Perspectives 2004: vers un nouvel ordre culturel en Haïti. Port-au-Prince: Choucoune, 1984, 267 p.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2002     Prix Gouverneur de la Rosée du Livre et de la Littérature, pour les Éditions Choucoune, Ministère de la Culture, Haïti.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Christophe_Charles_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/christophe-charles-5-questions-pour-ile-en-ile/">Christophe Charles, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/christophe-charles-obsessions/">Christophe Charles, Obsessions</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/98623/Antenor-Firmin-ne-fut-il-pas-un-visionnaire.html">Anténor Firmin ne fut-il pas un visionnaire ?</item>
+      <item ref="http://web.archive.org/web/20030606154609/http://elvir.univ-poitiers.fr/article.php3?id_article=571">Désespoir</item>
+      <item ref="http://www.dnlhaiti.org/?p=690">Les Éditions Choucoune : 35 ans</item>
+      <item ref="http://www.francophonie.philo.ulg.ac.be/HAI.Lettres">Évolution de la littérature haïtienne de 1804 à nos jours</item>
+    </list>
   </div>
 </TEI>

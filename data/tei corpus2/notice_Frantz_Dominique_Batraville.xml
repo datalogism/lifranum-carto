@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Frantz_Dominique_Batraville_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Frantz_Dominique_Batraville" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Frantz Dominique Batraville</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Frantz_Dominique_Batraville_fiche_autorite">
+  <div n="1" xml:id="Frantz_Dominique_Batraville_fiche">
     <person ana="Frantz_Dominique_Batraville" sex="na">
       <persName>Frantz Dominique Batraville</persName>
       <langKnowledge>
@@ -29,8 +29,26 @@
         </placeName>
       </residence>
       <occupation source="spla">Acteur/trice</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Journaliste</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Frantz_Dominique_Batraville_bio">
+    <text ref="http://www.spla.pro/fiche.personne.frantz-dominique-batraville.9813.html" xml:id="Frantz_Dominique_Batraville_bio_auteur_spla">
+      <p>
+        <persName ana="Frantz_Dominique_Batraville">Frantz Dominique Batraville</persName>
+         est né le 20 février 1962 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et emmené le même jour à l'Arcahaie, la ville natale de sa mère 
+        <persName ana="Denise_Elysee">Denise Élysée</persName>
+        , descendante d'émigrés protestants français. Le jeune Batraville avait l'habitude de passer ses vacances d'été à Saint-Marc, chez son père 
+        <persName ana="Louis_Pradel_Batraville">Louis Pradel Batraville</persName>
+        , médecin magnétiseur.Poète, journaliste, comédien et surtout, globe-trotter infatigable, Batraville est surtout connu comme un bon viveur plutôt que l'écorché-vif qu'on peut découvrir en le connaissant bien. En 
+        <placeName ana="Haiti">Haïti</placeName>
+        , l'imprévisibilité et l'excentricité du personnage arrange ou dérange selon l'occasion, selon les milieux. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Frantz_Dominique_Batraville_biblio"/>
+  <div n="4" xml:id="Frantz_Dominique_Batraville_web"/>
 </TEI>

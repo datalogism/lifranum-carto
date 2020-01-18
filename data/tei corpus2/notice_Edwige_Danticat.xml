@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Edwige_Danticat_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Edwige_Danticat" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Edwige Danticat</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Edwige_Danticat_fiche_autorite">
+  <div n="1" xml:id="Edwige_Danticat_fiche">
     <person ana="Edwige_Danticat" sex="na">
       <persName>Edwige Danticat</persName>
       <langKnowledge>
@@ -33,4 +33,140 @@
       <occupation source="spla"> Producteur/trice</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Edwige_Danticat_bio">
+    <text ref="http://www.spla.pro/fiche.personne.edwige-danticat.4217.html" xml:id="Edwige_Danticat_bio_auteur_spla">
+      <p>
+        Auteure américano-
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .L'auteure du &quot;Cri de l'oiseau rouge&quot; naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , en 1969. Dans son île natale, elle apprend à raconter les contes et légendes qui, quelques années plus tard, viendront nourrir son imaginaire et donner leur originalité à ses oeuvres. A l'âge de douze ans, elle rejoint ses parents à New-York, laissant derrière elle son enfance et sa tante qui jusque là l'avait élevée. Aux Etats-Unis, elle découvre New-York et la communauté 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de la diaspora. C¹est de cette rupture qu'Edwige Danticat tirera l'essentiel des thèmes abordés dans ses romans ; la relation entre la migration et la préservation d'une identité, le rôle des femmes dans la transmission des cultures d'origine, les questions liées à l'apprentissage de la langue du pays d'accueil, etc. Dans la majeure partie de ses romans, les personnages sont des femmes qui se réapproprient leur histoire individuelle, leur personnalité, leur corps et leur sexualité. Cependant, même si l'auteur insiste sur le rôle des femmes dans les sociétés humaines en générale et haïtiennes en particulier, dans ses romans, les relations entre hommes et femmes ne sont pas conflictuelles. Les femmes qu¹elle raconte sont &quot; souples et fortes comme des fleurs &quot;. Une fois ses études secondaires terminées, Edwige Danticat entreprend des études de littérature française à 
+        <persName ana="Brown_University">Brown University</persName>
+        . Elle obtient un Master of Fine Arts Degree et sa thèse de fin d'études &quot;Breath, Eyes, Memory&quot; est déjà un véritable succès littéraire. Elle lui vaut l'honneur d¹une publication en 1994 et constitue son premier roman traduit en français sous le titre, &quot;Le Cri de l'oiseau rouge'. Le réalisateur américain, 
+        <persName ana="Jonathan_Demme">Jonathan Demme</persName>
+         a acheté les droits pour une adaptation cinématographique. Plusieurs romans suivront cette première publication dont &quot;La récolte douce des larmes&quot; qui obtient le prix Carbet de la 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+         en 1999. En parallèle de ses activités littéraires, Edwige Danticat a travaillé avec des réalisateurs tels que 
+        <persName ana="Jonathan_Demme">Jonathan Demme</persName>
+         (&quot;Le silence des Agneaux&quot;, &quot;Philadelphia&quot;, &quot;La vérité sur Charlie&quot;, etc) ; notamment sur &quot;Beloved&quot; (adaptation cinématographique du roman de Toni Morisson) et &quot;
+        <persName ana="Jean_Dominique">Jean Dominique</persName>
+        , the Agronomist&quot;, documentaire très remarqué qu'elle a coproduit et dont la bande originale est signée Wyclef Jean, également haïtien immigré à New-York. Elle a rejoint le jury du 57ème festival de 
+        <placeName ana="Cannes">Cannes</placeName>
+        .
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+         est née à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 19 janvier 1969. Quand elle a deux ans, son père émigre à 
+        <placeName ana="New_York">New York</placeName>
+         ; deux ans après, sa femme le rejoint. Danticat et un frère restent en 
+        <placeName ana="Haiti">Haïti</placeName>
+         chez un oncle et sa femme. À 12 ans, elle rejoint ses parents à 
+        <placeName ana="Brooklyn">Brooklyn</placeName>
+         et s'installe dans une nouvelle langue et un nouveau pays.Elle publie ses premiers textes dès les années de High School, dans le 
+        <placeName ana="Journal">Journal</placeName>
+         de l'école où elle termine ses études secondaires. Elle obtient un premier diplôme universitaire (B.A.) à 
+        <persName ana="Barnard_College">Barnard College</persName>
+         en lettres françaises avant de poursuivre, boursière, une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en Beaux-Arts (MFA) à 
+        <persName ana="Brown_University">Brown University</persName>
+        . Avant même d'être terminée, sa thèse en &quot;creative writing&quot; est acceptée pour publication. Le texte qui en résulte - Breath, Eyes Memory (traduit en français sous le titre Le cri de l'oiseau rouge) - a autant de succès auprès des critiques que du public. L'écrivaine a 25 ans.La force et la texture du style de ce premier récit, où se croisent les réalités haïtiennes et newyorkaises, ont été comparées à celles des auteurs tel 
+        <persName ana="Maxine_Hong_Kingston">
+          Maxine Hong 
+          <placeName ana="Kingston">Kingston</placeName>
+        </persName>
+         et 
+        <persName ana="Toni_Morrison">Toni Morrison</persName>
+        , et ont mérité à l'auteur un passage sur le plateau de la maîtresse du petit écran américain, 
+        <persName ana="Oprah_Winfrey">Oprah Winfrey</persName>
+        .Nouvelliste talentueuse, Danticat publie ensuite un recueil de ses courts récits, Krik? Krac! Dans son deuxième roman, The Farming of Bones (publié en 1998 et traduit l'année suivante comme La Récolte douce des larmes), elle crée une fiction passionnante autour des événements tragiques de 1937. Danticat a également dirigé deux recueils de courts récits écrits par d'autres auteurs, dont The Butterfly's Way, 33 récits d'haïtiano-américains. Dans toute son oeuvre, son regard sur l'histoire et sur l'actualité n'autorise ni le sensationnalisme, ni la pitié, examinant en particulier la réalité du peuple haïtien avec une prose limpide et enchanteresse.
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+         poursuit sa carrière d'écrivaine en se consacrant également à l'enseignement (&quot;creative writing&quot;) - e.g., à 
+        <placeName ana="New_York">New York</placeName>
+         University et à l'Université de 
+        <placeName ana="Miami">Miami</placeName>
+         - et à de nombreux projets sur l'art et la culture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , comme l'indiquent ses collaborations avec les cinéastes 
+        <persName ana="Patricia_Benoit">Patricia Benoit</persName>
+         et 
+        <persName ana="Jonathan_Demme">Jonathan Demme</persName>
+        , et son engagement auprès de la National Coalition for Haitian Rights.Oeuvres principales / Principal Works :Romans / Novels:Breath, Eyes, Memory. 
+        <placeName ana="New_York">New York</placeName>
+        : Soho Press, 1994; 
+        <placeName ana="New_York">New York</placeName>
+        : Vintage Books, 1995.The Farming of Bones. 
+        <placeName ana="New_York">New York</placeName>
+        : Soho Press, 1998; Penguin, 1999.The Dew Breaker. 
+        <placeName ana="New_York">New York</placeName>
+        : Knopf, 2004.Récit:After the Dance: a Walk through Carnival in 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , 
+        <placeName ana="Haiti">Haiti</placeName>
+        . 
+        <placeName ana="New_York">New York</placeName>
+        : Crown, 2002.Nouvelles:Krik? Krak! (recueil de nouvelles) 
+        <placeName ana="New_York">New York</placeName>
+        : Soho Press, 1995; 
+        <placeName ana="New_York">New York</placeName>
+        : Vintage Books, 1996.&quot;A Rain of Daffodils.&quot; Seventeen 53.4 (1 April 1994): 152- ; Literary Cavalcade 52.6 (March 2000): 4-9.See also below - liens d'&quot;île en île&quot; - voir ci-dessous.Anthologies:The Butterfly's Way: Voices from the Haitian Dyaspora in the United States. Edited with an introduction by 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        . 
+        <placeName ana="New_York">New York</placeName>
+        : Soho Press, 2001.The Beacon Best of 2000: Great Writing by Women and Men of All Colors and Cultures. Edited by 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        . 
+        <placeName ana="Boston">Boston</placeName>
+        : Beacon Press, 2000.Littérature pour la jeunesse:Behind the Mountains: the Diary of Celiane Espérance. 
+        <placeName ana="New_York">New York</placeName>
+        : Orchard Books, 2002.Anacaona, Golden Flower. 
+        <placeName ana="New_York">New York</placeName>
+        : Scholastic, 2005 (à paraître).Articles sélectionnés:&quot;Hanging With The Fugees.&quot; Essence 27.4 (1 August 1996): 85-86.&quot;Forward.&quot; The Magic Orange Tree and other Haitian Folktales. Ed. Diane Wolkstein. 
+        <placeName ana="New_York">New York</placeName>
+        : Random, 1997: vii-viii.&quot;The Book of the Dead.&quot; The New Yorker 75.16 (21 June 1999): 194-.&quot;Bonjour Jean.&quot; The 
+        <placeName ana="Nation">Nation</placeName>
+         272.7 (19 February 2001): 20-22.&quot;Forward.&quot; Walking on Fire: Haitian Women's Stories of Survival and Resistance. Beverly Bell. Ithaca: Cornell U. Press, 2001.&quot;Evelyne Trouillot&quot; (interview). 
+        <placeName ana="Bomb">Bomb</placeName>
+         90 (Winter 2004-2005): 48-53.Traductions:In the Flicker of an Eyelid. (L'espace d'un cillement.) by Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        . Trad. with Carrol F. Coates. Charlottesville: University of Virginia Press, 2002.Distinctions littéraires:1994 Fiction Award, The Caribbean Writer.1995 National Book Award finalist, for Krik? Krak!1995 Pushcart Short Story Prize.1996 Best Young American Novelists Award, for Breath, Eyes, Memory by Granta.1999 American Book Award, for The Farming of Bones.1999 Prix Carbet de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , pour La récolte douce des larmes (The Farming of Bones).Enregistrements / Recordings:The Farming of Bones. Read by Rebecca Nicholas. Books on Tape, Inc., 1999.Sur 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        :Anglesey, Zoe. &quot;The Voice of the Storytellers: An Interview with 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        .&quot; Multicultural Review 7.3 (1 September 1998): 36-.Casey, Ethan. &quot;Remembering 
+        <placeName ana="Haiti">Haiti</placeName>
+        : Breath, Eyes, Memory.&quot; 
+        <placeName ana="Callaloo">Callaloo</placeName>
+         18.2 (Spring 1995): 524-526.Charters, Mallay. &quot;
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        : A Bitter Legacy Revisited.&quot; Publishers Weekly (17 August 1998): 42-43.Gyssels, Kathleen. &quot;Littérature doublement exilée: Krik? Krak! d'
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        .&quot; Ruptures 13 (octobre 1997-
+        <placeName ana="Mars">Mars</placeName>
+         1998): 187-202.Mead, Rebecca. &quot;Stepmother Tongue.&quot; 
+        <placeName ana="New_York">New York</placeName>
+         28.36 (20 November 1995): 50-.N'Zengo-Tayo, Marie-José. &quot;Children in Haitian Popular Migration as Seen by Maryse Condé and 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        .&quot; Winds of Change: The Transforming Voices of Caribbean Women Writers and Scholars. Adele S. Newson and Linda Strong-Leek, eds. 
+        <placeName ana="New_York">New York</placeName>
+        : Peter Lang, 1998: 93-100.Poon, Angelia. &quot; 4.2 (Winter 2000).Shea, Renee H. &quot;The Dangerous Job of 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        : An Interview.&quot; 
+        <placeName ana="Callaloo">Callaloo</placeName>
+         19.2 (Spring 1996): 382-89.Shea, Renee H. &quot;Traveling Worlds with 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+        .&quot; Poets and Writers 25.1 (January/February 1997): 42-31.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Edwige_Danticat_biblio"/>
+  <div n="4" xml:id="Edwige_Danticat_web"/>
 </TEI>

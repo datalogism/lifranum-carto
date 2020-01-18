@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Makenzy_Orcel_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Makenzy_Orcel" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Makenzy Orcel</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Makenzy_Orcel_fiche_autorite">
+  <div n="1" xml:id="Makenzy_Orcel_fiche">
     <person ana="Makenzy_Orcel" sex="na">
-      <persName>
-        <surname source="bnf">Makenzy</surname>
-        <forename source="bnf">Orcel</forename>
-      </persName>
+      <persName>Makenzy Orcel</persName>
       <idno type="BNF">
         cb16268653r#about
         <g ref="http://data.bnf.fr/ark:/12148/cb16268653r#about"/>
@@ -43,6 +40,113 @@
         </placeName>
       </residence>
       <occupation source="viaf">authors</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Idier_Nicolas">
+          <persName>Idier Nicolas</persName>
+        </person>
+        <person ana="Milce_Jean_Euphele">
+          <persName>Milcé Jean-Euphèle</persName>
+        </person>
+        <person ana="Younsi_Ouanessa">
+          <persName>Younsi Ouanessa</persName>
+        </person>
+        <person ana="VeZina_Michel">
+          <persName>Vézina Michel</persName>
+        </person>
+        <person ana="Salien_JoeL">
+          <persName>Salien Joël</persName>
+        </person>
+        <person ana="Saint_ELoi_Rodney">
+          <persName>Saint-Éloi Rodney</persName>
+        </person>
+        <person ana="Memoire_D_Encrier_Montreal">
+          <persName>Mémoire d'encrier Montreal</persName>
+        </person>
+        <person ana="Gohier_ERic">
+          <persName>Gohier Éric</persName>
+        </person>
+        <person ana="Girbig_Catherine">
+          <persName>Girbig Catherine</persName>
+        </person>
+        <person ana="Ghoula_Sarah">
+          <persName>Ghoula Sarah</persName>
+        </person>
+        <person ana="Dabakh_Kane_El_Hadji_Abdoul_Aziz">
+          <persName>Dabakh Kane El Hadji Abdoul Aziz</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Makenzy_Orcel_bio">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/orcel/" xml:id="Makenzy_Orcel_bio_auteur_ile_en_ile">
+      <p>
+        Né le 18 septembre 1983 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <persName ana="Makenzy_Orcel">Makenzy Orcel</persName>
+         fait ses études classiques au Collège Adventiste de Diquini et poursuit ses études à la Faculté de Linguistique Appliquée de 
+        <placeName ana="Prince">Prince</placeName>
+        -au-
+        <placeName ana="Prince">Prince</placeName>
+         jusqu’à ce qu’il abandonne ses études pour se consacrer à la lecture et à l’écriture.
+      </p>
+      <p>
+        <persName ana="Makenzy_Orcel">Makenzy Orcel</persName>
+         est un promeneur solitaire. Il publie en poésie La douleur de l’étreinte (2007) et Sans ailleurs (2009), et son premier roman, Les immortelles, en 2010. Son deuxième roman, Les Latrines, est sorti en octobre 2011.
+      </p>
+      <p>
+        <persName ana="Makenzy_Orcel">Makenzy Orcel</persName>
+         vit à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il a une jeunesse insolente et des yeux qui refusent de se fermer, ni de 
+        <placeName ana="Mourir">Mourir</placeName>
+         solitaire/sans livrer les méandres de la faille. Il écrit pour ne pas flancher. Pour être debout entre les phrases. Pour la dignité de son peuple, les mots se font fleurs, barbelés en crue/dans la spirale du rêve, dit testamentaire d’une île où seule l’étreinte/conduit la lumière.
+      </p>
+      <p>
+        <persName ana="Makenzy_Orcel">Makenzy Orcel</persName>
+         a fait son apprentissage de la vie et de l’écriture en lisant d’autres poètes. Il fixe l’horizon avec de grands yeux mouillés, articule le mot 
+        <placeName ana="Demain">Demain</placeName>
+        , avec hésitation, pour attacher des ailes/à la beauté. Parole économe sous laquelle perce un chant beau et précis qui tranche avec les cris et les éboulements de la 
+        <placeName ana="Terre">Terre</placeName>
+        .
+      </p>
+      <p>
+        Héritière de la grande tradition poétique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , la poésie de 
+        <persName ana="Makenzy_Orcel">Makenzy Orcel</persName>
+         est fulgurance – cette lumière magique qui transforme la vie et les choses en une aventure merveilleuse.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Makenzy_Orcel_biblio">
+    <div ref="http://ile-en-ile.org/orcel/" xml:id="Makenzy_Orcel_biblio_auteur_ile_en_ile">
+      <list subtype="roman">
+        <item>Les Immortelles. Montréal: Mémoire d’encrier, 2010; Paris: Zulma, 2012.</item>
+      </list>
+      <list subtype="poésie">
+        <item>La douleur de l’étreinte. Port-au-Prince: Deschamps, 2007.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Poèmes à Gonaïves ». Ancre des dattes. Jean-Euphèle Milcé et Makenzy Orcel, éds. Port-au-Prince: Page Ailée, 2008: 147-52.</item>
+      </list>
+      <list subtype="texte mis en musique">
+        <item>« Les putes », texte de Makenzy Orcel mis en musique sur le disque Eta’n Sinik par Wooly Saint Louis Jean, 2011.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2012    Prix Thyde Monnier de la Société des Gens de Lettres, pour Les Immortelles.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Makenzy_Orcel_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/makenzy-orcel-les-immortelles/">Les Immortelles</item>
+      <item ref="http://www.lacontreallee.com/auteurs/makenzy-orcel">La Contre Allée</item>
+      <item ref="http://www.lematinhaiti.com/Article.asp?ID=9005">Corps, désir, angoisse</item>
+      <item ref="http://www.lenouvelliste.com/articleforprint.php?PubID=1&amp;ArticleID=49329">Des poèmes dans la douleur de l’étreinte</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=60087">Orcel : construire et voguer</item>
+      <item ref="http://www.lematinhaiti.com/Article.asp?ID=20282">‘Sans ailleurs’ ou un cahier de métaphores…</item>
+      <item ref="http://www.lenouvelliste.com/articles.print/1/76288">Orcel signe « Sans ailleurs »</item>
+    </list>
   </div>
 </TEI>

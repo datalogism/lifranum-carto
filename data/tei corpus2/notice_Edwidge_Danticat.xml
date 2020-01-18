@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Edwidge_Danticat" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Edwidge Danticat</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Edwidge_Danticat_fiche">
+    <person ana="Edwidge_Danticat" sex="na">
+      <persName>Edwidge Danticat</persName>
+      <idno type="BNF">
+        cb125106512#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb125106512#about"/>
+      </idno>
+    </person>
+  </div>
+  <div n="2" xml:id="Edwidge_Danticat_bio">
+    <text ref="http://ile-en-ile.org/danticat/" xml:id="Edwidge_Danticat_bio_auteur_ile_en_ile">
+      <p/>
+      <p>
+        Elle publie ses premiers textes dès les années de High School, dans le 
+        <placeName ana="Journal">Journal</placeName>
+         de l’école où elle termine ses études secondaires. Elle obtient un premier diplôme universitaire (B.A.) à 
+        <persName ana="Barnard_College">Barnard College</persName>
+         en lettres françaises avant de poursuivre, boursière, une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en Beaux-Arts (MFA) à 
+        <persName ana="Brown_University">Brown University</persName>
+        . Avant même d’être terminée, sa thèse en « creative writing » est acceptée pour publication. Le texte qui en résulte – Breath, Eyes Memory (traduit en français sous le titre Le cri de l’oiseau rouge) – a autant de succès auprès des critiques que du public. L’écrivaine a 25 ans.
+      </p>
+      <p>
+        La force et la texture du style de ce premier récit, où se croisent les réalités haïtiennes et newyorkaises, ont été comparées à celles des auteurs tel 
+        <persName ana="Maxine_Hong_Kingston">
+          Maxine Hong 
+          <placeName ana="Kingston">Kingston</placeName>
+        </persName>
+         et 
+        <persName ana="Toni_Morrison">Toni Morrison</persName>
+        , et ont mérité à l’auteur un passage sur le plateau de la maîtresse du petit écran américain, 
+        <persName ana="Oprah_Winfrey">Oprah Winfrey</persName>
+        .
+      </p>
+      <p>Nouvelliste talentueuse, Danticat publie ensuite un recueil de ses courts récits, Krik? Krac!  Dans son deuxième roman, The Farming of Bones (publié en 1998 et traduit l’année suivante comme La Récolte douce des larmes), elle crée une fiction passionnante autour des événements tragiques de 1937. Danticat a également dirigé deux recueils de courts récits écrits par d’autres auteurs, dont The Butterfly’s Way, 33 récits d’haïtiano-américains. Dans toute son oeuvre, son regard sur l’histoire et sur l’actualité n’autorise ni le sensationnalisme, ni la pitié, examinant en particulier la réalité du peuple haïtien avec une prose limpide et enchanteresse.</p>
+      <p>
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+         poursuit sa carrière d’écrivaine en se consacrant également à de nombreux projets sur l’art et la culture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , comme l’indiquent ses collaborations avec les cinéastes 
+        <persName ana="Patricia_Benoit">Patricia Benoit</persName>
+         et 
+        <persName ana="Jonathan_Demme">Jonathan Demme</persName>
+        , et son engagement auprès de la National Coalition for Haitian Rights. Elle publie aussi des chroniques ponctuelles dans des revues telles que The New Yorker.
+      </p>
+      <p>
+        Parmi ses nombreux prix et distinctions, 
+        <persName ana="Edwidge_Danticat">Edwidge Danticat</persName>
+         est lauréate en 1999 de l’American Book Award, pour The Farming of Bones, récipiendaire en 2009 d’une bourse MacArthur, la bourse dite des « génies », et du Prix Neustadt International en 2018 pour l’ensemble de son oeuvre. Traduite en français, son oeuvre a été couronnée notamment par le Prix Carbet de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         en 1999, pour La récolte douce des larmes (The Farming of Bones) et par le Grand Prix de l’Association des Écrivains de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         en 2013, pour son essai Créer dangereusement (
+        <persName ana="Create_Dangerously">Create Dangerously</persName>
+        : The Immigrant Artist at Work).
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Edwidge_Danticat_biblio">
+    <div ref="http://ile-en-ile.org/danticat/" xml:id="Edwidge_Danticat_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrages collectifs">
+        <item>The Journal of Haitian Studies 7.2 (Fall 2001). »A Special Issue on Edwidge Danticat ». Articles de: Marc A. Christophe, Nadège Clitandre, Renée Larrier, Lisa M. Ortiz, Nadia Ragbar, Rodney Saint-Éloi, Helen Scott, Renée H. Shea et Helen Pyne-Timothy.</item>
+      </list>
+      <list subtype="études">
+        <item>Casey, Ethan. « Remembering Haiti: Breath, Eyes, Memory ». Callaloo 18.2 (Spring 1995): 524-526.</item>
+      </list>
+      <list subtype="interviews">
+        <item>Anglesey, Zoe. « The Voice of the Storytellers: An Interview with Edwidge Danticat ». Multicultural Review 7.3 (1 September 1998): 36-.</item>
+      </list>
+      <list subtype="en español">
+        <item>Palabra, ojos, memoria. Damián Alou, trad. Barcelona: Ediciones del Bronce, 1998.</item>
+      </list>
+      <list subtype="en français">
+        <item>Le cri de l’oiseau rouge (Breath, Eyes, Memory). Nicole Tisserand, trad. Paris: Pygmalion, 1995; Paris: Pocket, 1997.</item>
+      </list>
+      <list subtype="in het nederlands">
+        <item>Adem, ogen, herinnering. Nicolette Hoekmeijer, trad. Amsterdam: Wereldbibliotheek, 1995.</item>
+      </list>
+      <list subtype="romans / novels">
+        <item>Breath, Eyes, Memory. New York: Soho Press, 1994; New York: Vintage Books, 1995.</item>
+      </list>
+      <list subtype="récits">
+        <item>After the Dance: a Walk through Carnival in Jacmel, Haiti. New York: Crown, 2002.</item>
+      </list>
+      <list subtype="nouvelles / short stories">
+        <item>Krik? Krak!  New York: Soho Press, 1995;  New York: Vintage Books, 1996.</item>
+      </list>
+      <list subtype="anthologies">
+        <item>The Beacon Best of 2000: Great Writing by Women and Men of All Colors and Cultures. Edited by Edwidge Danticat. Boston: Beacon Press, 2000.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Behind the Mountains: the Diary of Celiane Espérance. New York: Orchard Books, 2002.</item>
+      </list>
+      <list subtype="essais">
+        <item>Create Dangerously: The Immigrant Artist at Work. Princeton: Princeton University Press, 2010.</item>
+      </list>
+      <list subtype="textes et articles sélectionnés">
+        <item>« A Rain of Daffodils. » Seventeen 53.4 (1 April 1994): 152- ; Literary Cavalcade 52.6 (March 2000): 4-9.</item>
+      </list>
+      <list subtype="traductions">
+        <item>In the Flicker of an Eyelid. (L’espace d’un cillement.) by Jacques-Stephen Alexis. Trad. with Carrol F. Coates. Charlottesville: University of Virginia Press, 2002.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1994     Fiction Award, The Caribbean Writer.</item>
+      </list>
+      <list subtype="enregistrements / recordings">
+        <item>The Farming of Bones. Read by Rebecca Nicholas. Books on Tape, Inc., 1999.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Edwidge_Danticat_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/edwidge-danticat-5-questions-pour-ile-en-ile/">Edwidge Danticat, 5 Questions pour Île en île</item>
+      <item ref="http://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1022">A Conversation with Edwidge Danticat</item>
+      <item ref="http://www.themorningnews.org/archives/personalities/birnbaum_v_edwidge_danticat.php">Birnbaum v. Edwidge Danticat</item>
+      <item ref="http://english.chass.ncsu.edu/jouvert/v7is1/gyss.htm">Haitians in the City: Two Modern-Day Trickster Tales</item>
+      <item ref="http://english.chass.ncsu.edu/jouvert/v4i2/anpoon.htm">Re-writing the Male Text: Mapping Cultural Spaces in Edwidge Danticat’s Krik? Krak! and Jamaica Kincaid’s A Small Place</item>
+      <item ref="http://www.randomhouse.com/features/danticat/">Random House</item>
+      <item ref="http://www.tanbou.com/2005/FrancophonieDanticat.htm">« Simplement voir les choses »: la francophilie dérivée dans l’écriture d’Edwidge Danticat</item>
+      <item ref="http://www.npr.org/ramarchives/ne7m0401.ram">Talk of the Nation</item>
+      <item ref="http://www.thenation.com/search/apachesolr_search/edwidge%20danticat">The Nation</item>
+      <item ref="http://www.thecaribbeanwriter.com/volume5/butterflies.html">Dream of the Butterflies</item>
+      <item ref="http://www.thecaribbeanwriter.com/volume5/graduation.html">Graduation</item>
+      <item ref="http://www.thecaribbeanwriter.com/volume6/lostshadows.html">Lost Shadows and Stick Figures</item>
+      <item ref="http://www.thecaribbeanwriter.com/volume7/v7p66.html">Between the Pool and the Gardenias</item>
+      <item ref="http://www.thecaribbeanwriter.com/volume7/voicesinadream.html">Voices in a Dream</item>
+      <item ref="http://www.thecaribbeanwriter.com/volume8/missingpeace.html">The Missing Peace</item>
+      <item ref="http://www.thecaribbeanwriter.org/ContrMainFrame.php?volsec=10036l">We Are Ugly, But We Are Here</item>
+      <item ref="http://web.archive.org/web/*/http://www.haitiglobalvillage.com/sd-marassa1-cd/">We Are Ugly, But We Are Here</item>
+      <item ref="https://www.washingtonpost.com/lifestyle/magazine/quality-control-a-short-story-by-edwidge-danticat/2014/11/13/6fcf89c0-4f05-11e4-aa5e-7153e466a02d_story.html">Quality Control</item>
+      <item ref="http://www.macfound.org/site/c.lkLXJ8MQKrH/b.5458007/k.8D4C/Edwidge_Danticat.htm">Edwidge Danticat</item>
+    </list>
+  </div>
+</TEI>

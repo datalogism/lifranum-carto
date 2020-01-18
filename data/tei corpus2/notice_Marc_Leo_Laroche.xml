@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Marc_Leo_Laroche_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Marc_Leo_Laroche" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Marc L�o Laroche</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Marc Léo Laroche</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Marc_Leo_Laroche_fiche_autorite">
+  <div n="1" xml:id="Marc_Leo_Laroche_fiche">
     <person ana="Marc_Leo_Laroche" sex="na">
-      <persName>Marc L�o Laroche</persName>
+      <persName>Marc Léo Laroche</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -31,4 +31,22 @@
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Marc_Leo_Laroche_bio">
+    <text ref="http://www.spla.pro/fiche.personne.marc-leo-laroche.14133.html" xml:id="Marc_Leo_Laroche_bio_auteur_spla">
+      <p>
+        <persName ana="Marc_Leo">Marc Léo</persName>
+         Laroche est né le 30 juin 1940 à 
+        <placeName ana="La_Vallee_De_Jacmel">La Vallée de Jacmel</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Après des études secondaires au Lycée Pinchinat de 
+        <placeName ana="Jacmel">Jacmel</placeName>
+         et des années d'enseignement qui le plongent dans les littératures française et 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , il s'initie à la pratique littéraire en ébauchant son premier roman (égaré) en plus de composer des poèmes. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Marc_Leo_Laroche_biblio"/>
+  <div n="4" xml:id="Marc_Leo_Laroche_web"/>
 </TEI>

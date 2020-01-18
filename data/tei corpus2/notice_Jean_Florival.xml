@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jean_Florival_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jean_Florival" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jean Florival</title>
-        <author>InËs Burri</author>
-        <author>AnaÔs Chambat</author>
-        <author>CÈlian Ringwald</author>
+        <author>In√®s Burri</author>
+        <author>Ana√Øs Chambat</author>
+        <author>C√©lian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>UniversitÈ Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>UniversitÈ Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Universit√© Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Universit√© Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>DonnÈes issues de sources d'autoritÈs et de rÈpÈtoire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorit√©s et de r√©p√©toire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jean_Florival_fiche_autorite">
+  <div n="1" xml:id="Jean_Florival_fiche">
     <person ana="Jean_Florival" sex="na">
       <persName>Jean Florival</persName>
       <langKnowledge>
@@ -31,4 +31,19 @@
       <occupation source="spla">Journaliste</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Jean_Florival_bio">
+    <text ref="http://www.spla.pro/fiche.personne.jean-florival.14368.html" xml:id="Jean_Florival_bio_auteur_spla">
+      <p>
+        Jean Florival, n√© en 1930 en 
+        <placeName ana="Haiti">Ha√Øti</placeName>
+        , est journaliste. Il choisit l'exil en 1967 √† 
+        <placeName ana="New_York">New York</placeName>
+         et s'installe au 
+        <placeName ana="Quebec">Qu√©bec</placeName>
+         en 1973.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Florival_biblio"/>
+  <div n="4" xml:id="Jean_Florival_web"/>
 </TEI>

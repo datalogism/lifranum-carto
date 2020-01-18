@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Nadine_Magloire_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Nadine_Magloire" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Nadine Magloire</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Nadine_Magloire_fiche_autorite">
+  <div n="1" xml:id="Nadine_Magloire_fiche">
     <person ana="Nadine_Magloire" sex="na">
       <persName>Nadine Magloire</persName>
       <langKnowledge>
@@ -31,4 +31,128 @@
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Nadine_Magloire_bio">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/magloire_nadine/" xml:id="Nadine_Magloire_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+         est née le 18 février 1932 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         dans une famille d’artistes et d’intellectuels de renom. Sa mère, 
+        <persName ana="Carmen_Brouard">Carmen Brouard</persName>
+        , est compositrice (la fille de l’auteure est également musicienne). Son oncle, 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+        , est poète ; son père, 
+        <persName ana="Jean_Magloire">Jean Magloire</persName>
+        , est journaliste et homme politique ; son grand-père paternel, 
+        <persName ana="Auguste_Magloire">Auguste Magloire</persName>
+        , est historien ; son grand-père maternel, 
+        <persName ana="Raphael_Brouard">Raphaël Brouard</persName>
+        , maire de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , est le mécène de la revue littéraire 
+        <placeName ana="Les_Griots">Les Griots</placeName>
+        , fondée en 1938.
+      </p>
+      <p>
+        Elle fait des études chez les soeurs de 
+        <persName ana="Sainte_Rose_De_Lima">
+          <placeName ana="Sainte">Sainte</placeName>
+           Rose de 
+          <placeName ana="Lima">Lima</placeName>
+        </persName>
+        . Cultivée et se nourrissant de lectures, elle voyage beaucoup (
+        <placeName ana="Montreal">Montréal</placeName>
+        , 
+        <placeName ana="Paris">Paris</placeName>
+        , 
+        <placeName ana="Londres">Londres</placeName>
+        ) et continue de s’instruire dans différents pays. À 
+        <placeName ana="Montreal">Montréal</placeName>
+        , elle fait la dernière année du secondaire (en philosophie) au lycée Marie-de-
+        <placeName ana="France">France</placeName>
+         et suit des cours de journalisme par correspondance. De 1955 à 1956, elle étudie au Centre d’Études de la radiodiffusion-télévision française à 
+        <placeName ana="Paris">Paris</placeName>
+        . De retour à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , elle suit des cours à l’École Normale Supérieure, puis à l’Université.
+      </p>
+      <p>
+        En 1967, 
+        <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+         publie sans doute le premier livre féministe haïtien, Le mal de vivre (republié avec quelques modifications en 1968), qui dresse un portrait au scalpel des rapports de genre en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Audacieux, le livre, à l’avant-garde des mouvements féministes internationaux, ose parler de sexualité à partir d’une perspective féminine et fait scandale. L’auteure enverra le manuscrit à 
+        <persName ana="Simone_De_Beauvoir">Simone de Beauvoir</persName>
+        , avec qui elle entretient une correspondance à la suite de la parution du livre.
+      </p>
+      <p>
+        En 1975, l’auteure signe un deuxième roman, Autopsie in vivo: le sexe mythique. À nouveau, les mécanismes sociaux et les inégalités sexuelles sont représentés à travers des personnages qui démasquent non seulement la bourgeoisie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , mais aussi les milieux intellectuels, milieux familiers, puisqu’elle publie (de 
+        <placeName ana="Mars">Mars</placeName>
+         1978 à 
+        <placeName ana="Mars">Mars</placeName>
+         1979) un magazine culturel, Le fil d’Ariane. En 1975, proclamée l’année de la femme, l’auteure organise une exposition de femmes peintres à l’Institut Français de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+      </p>
+      <p>
+        En 1979, après plusieurs allers-retours entre 
+        <placeName ana="Haiti">Haïti</placeName>
+         et l’étranger, en particulier le 
+        <placeName ana="Canada">Canada</placeName>
+        , elle s’installe définitivement à 
+        <placeName ana="Montreal">Montréal</placeName>
+        .
+      </p>
+      <p>
+        Elle reprend après un long silence, un manuscrit, Autopsie in vivo, paru en octobre 2009 à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Ce livre aborde le thème de la liberté féminine à travers le personnage d’Annie, orpheline élevée par ses tantes. Personnage « de trop », en carence d’amour, Annie fait son éducation sentimentale. Multi-spatial, multi-temporel, le roman suit un rythme qui reflète les absences (nostalgie de la mère, nostalgie de l’être aimé, nostalgie du pays de l’enfance) et dresse le portrait d’une société patriarcale. Pourtant, les femmes mènent aussi le jeu dans cette société sur fond de dictature. Celle-ci est à peine abordée, mais s’inscrit néanmoins dans le cadre du roman.
+      </p>
+      <p>
+        <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+         publie un nouveau roman, Autopsie in vivo (la suite) en novembre 2010. Malgré les titres similaires, il s’agit de romans différents les uns des autres.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.nadine-magloire.32116.html" xml:id="Nadine_Magloire_bio_auteur_spla">
+      <p>
+        <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+         est née le 18 février 1932 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         dans une famille d'artistes et d'intellectuels de renom. Sa mère, 
+        <persName ana="Carmen_Brouard">Carmen Brouard</persName>
+        , est compositrice (la fille de l'auteure est également musicienne). Son oncle, 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+        , est poète ; son père, 
+        <persName ana="Jean_Magloire">Jean Magloire</persName>
+        , est journaliste et homme politique ; son grand-père paternel, 
+        <persName ana="Auguste_Magloire">Auguste Magloire</persName>
+        , est historien ; son grand-père maternel, 
+        <persName ana="Raphael_Brouard">Raphaël Brouard</persName>
+        , maire de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , est le mécène de la revue littéraire 
+        <placeName ana="Les_Griots">Les Griots</placeName>
+        , fondée en 1938. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Nadine_Magloire_biblio">
+    <div ref="http://ile-en-ile.org/magloire_nadine/" xml:id="Nadine_Magloire_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« From Le Mal de Vivre ». Trad. Christian Dovi Dogbe. Callaloo 15.2 (Spring 1992): 478-480.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le mal de vivre. Port-au-Prince: Éditions du Verseau, 1968.</item>
+      </list>
+      <list subtype="entretien">
+        <item>« Entretien avec Nadine Magloire ». Propos recueillis par Nicole Aas-Rouxparis. Elles écrivent des Antilles (Haïti, Guadeloupe, Martinique). Éds. Susanne Rinne et Joëlle Vitiello. Paris: L’Harmattan, 1997: 63-68.</item>
+      </list>
+      <list subtype="sur l’oeuvre de nadine magloire">
+        <item>Aas-Rouxparis, Nicole. « Voix/voies migrantes haïtiennes: Nadine Magloire, de la parole au silence ». Elles écrivent des Antilles (Haïti, Guadeloupe, Martinique). Eds. Susanne Rinne et Joëlle Vitiello. Paris: L’Harmattan, 1997: 53-62.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Nadine_Magloire_web"/>
 </TEI>

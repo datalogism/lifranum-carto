@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Rassoul_Labuchin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Rassoul_Labuchin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Rassoul Labuchin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Rassoul_Labuchin_fiche_autorite">
+  <div n="1" xml:id="Rassoul_Labuchin_fiche">
     <person ana="Rassoul_Labuchin" sex="na">
-      <persName>
-        <surname source="bnf">Rassoul</surname>
-        <forename source="bnf">Labuchin</forename>
-      </persName>
+      <persName>Rassoul Labuchin</persName>
       <idno type="BNF">
         cb127824257#about
         <g ref="http://data.bnf.fr/ark:/12148/cb127824257#about"/>
@@ -48,15 +45,306 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
-      <occupation source="spla">R�alisateur/trice</occupation>
-      <occupation source="spla"> Metteur/se en sc�ne</occupation>
+      <occupation source="spla">Réalisateur/trice</occupation>
+      <occupation source="spla"> Metteur/se en scène</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Dramaturge</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Professeur</occupation>
-      <occupation source="spla"> Sc�nariste</occupation>
+      <occupation source="spla"> Scénariste</occupation>
       <occupation source="spla"> Militant/e</occupation>
       <occupation source="spla"> Traducteur/trice</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Lafontant_Medard_MichaeLle">
+          <persName>Lafontant-Medard Michaëlle</persName>
+        </person>
+        <person ana="Marcelin_Magalie">
+          <persName>Marcelin Magalie</persName>
+        </person>
+        <person ana="Guerrier_Chantal">
+          <persName>Guerrier Chantal</persName>
+        </person>
+        <person ana="Fouchard_Mael">
+          <persName>Fouchard Mael</persName>
+        </person>
+        <person ana="Auguste_Suzelle">
+          <persName>Auguste Suzelle</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Rassoul_Labuchin_bio">
+    <text hand="Mylène Dorcé" ref="http://ile-en-ile.org/labuchin/" xml:id="Rassoul_Labuchin_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Joseph_Yves_Medard">Joseph Yves Médard</persName>
+        , de son nom d’artiste 
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+        , est né le 30 
+        <placeName ana="Mars">Mars</placeName>
+         1938, à 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville.
+      </p>
+      <p>
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+         devient très tôt un grand militant syndicaliste. En 1959, il fonde le Mouvement Théâtral Ouvrier (MTO) au sein de l’Intersyndical d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , dirigé à l’époque par 
+        <persName ana="Ulrick_Joly">Ulrick Joly</persName>
+        . Le MTO réalisera des spectacles de théâtre tous les samedis durant un an, jusqu’à l’interdiction de l’Intersyndical d’
+        <placeName ana="Haiti">Haïti</placeName>
+         par 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        . 
+        <placeName ana="Rassoul">Rassoul</placeName>
+         est également membre du Parti d’Entente Populaire, parti au sein duquel Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         joue le rôle de secrétaire général.
+      </p>
+      <p>
+        <placeName ana="Rassoul">Rassoul</placeName>
+         fréquente la faculté de génie Leconte de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         jusqu’en 1968. À sa dernière année, il doit interrompre ses études car il est capturé par des membres des Volontaires de la sécurité nationale, les Tontons macoutes, sous 
+        <persName ana="Papa_Doc">Papa Doc</persName>
+        , puis torturé aux Casernes 
+        <placeName ana="Dessalines">Dessalines</placeName>
+        . Il y restera durant plus d’un mois. Il refuse de signer le document exigé par 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , stipulant qu’il renonçait entièrement aux luttes menées par les jeunes marxistes de l’époque. Quelques jours plus tard, 
+        <placeName ana="Rassoul">Rassoul</placeName>
+         échappe de justesse à la prison, parce qu’il allait participer à une émission organisée par les créolistes à Radio-
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        . Tous les participants à cette émission ont été incarcérés à Fort-Dimanche durant un an. 
+        <placeName ana="Rassoul">Rassoul</placeName>
+         fera de la prison à trois reprises sous les Duvaliers à cause de ses convictions idéologiques. Durant son troisième emprisonnement, en 1981-82, sous la pression, entre autres, du président français 
+        <persName ana="Francois_Mitterrand">François Mitterrand</persName>
+        , de son épouse Danielle et d’une très jeune 
+        <persName ana="Sophie_Marceau">
+          Sophie 
+          <placeName ana="Marceau">Marceau</placeName>
+        </persName>
+        , âgée alors de treize ans, 
+        <placeName ana="Rassoul">Rassoul</placeName>
+         sera libéré, pour être envoyé en exil en 
+        <placeName ana="France">France</placeName>
+        . À son retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <placeName ana="Rassoul">Rassoul</placeName>
+         fut sollicité par 
+        <placeName ana="Marceau">Marceau</placeName>
+        , âgée alors de 18 ans, pour jouer dans le film Descente aux enfers en 1986.
+      </p>
+      <p>
+        Parallèlement à son militantisme, 
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+         a mené une longue carrière dans l’enseignement. Il a enseigné le français et le créole à l’Institut français d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Ses nombreux intérêts incluent, entre autres, le théâtre, la poésie, la littérature, le cinéma et l’opéra.
+      </p>
+      <p>
+        En 1991, il est nommé 
+        <placeName ana="Directeur">Directeur</placeName>
+         du Théâtre national d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , par le président Jean-
+        <persName ana="Bertrand_Aristide">Bertrand Aristide</persName>
+        , poste qu’il occupe en 1991, puis de 1996 à 2001. 
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+         est nommé maire de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 2002 pour pallier à un vide administratif ; il reste maire de la capitale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         jusqu’en 2004. 
+        <persName ana="Maryaj_Lenglensou">Maryaj Lenglensou</persName>
+        , un projet de la mairie de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , a été conçu pour être présenté le 2 janvier 2004 dans le cadre des commémorations du bicentenaire de l’indépendance d’
+        <placeName ana="Haiti">Haiti</placeName>
+        . Premier opéra haitien, dont la musique est du compositeur haïtien 
+        <persName ana="Iphares_Blain">Ipharès Blain</persName>
+         et le livret de 
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+        , 
+        <persName ana="Maryaj_Lenglensou">Maryaj Lenglensou</persName>
+         est joué dans une vingtaine de villes d’
+        <placeName ana="Haiti">Haiti</placeName>
+         en 2007.
+      </p>
+      <p>
+        <placeName ana="Rassoul">Rassoul</placeName>
+         a été membre du comité de rédaction de la revue Conjonction de l’Institut français, membre de jury du Prix 
+        <persName ana="Henri_Deschamps">
+          Henri 
+          <placeName ana="Deschamps">Deschamps</placeName>
+        </persName>
+        , membre de jury du Prix de Casa de Las Americas, membre de jury du Cinéma latino-américain.
+      </p>
+      <p>Il est l’auteur de poésie en créole, traduite en anglais, espagnol, français, hollandais, danois et russe.</p>
+      <p>
+        <placeName ana="Rassoul">Rassoul</placeName>
+         a également travaillé dans plus d’une vingtaine de films. Il a, entre autres, interprété le rôle d’Aurélien dans Gouverneurs de la rosée de 
+        <persName ana="Maurice_Failevic">Maurice Failevic</persName>
+         et a rédigé le scénario de M ap pale nèt, réalisé par 
+        <persName ana="Raphael_Stines">Raphaël Stines</persName>
+        . Il est l’auteur et réalisateur du film Anita, considéré comme l’un des films qui a ouvert la voie au cinéma haïtien, selon le dictionnaire Larousse du cinéma.
+      </p>
+      <p>
+        Installé à 
+        <placeName ana="Montreal">Montréal</placeName>
+         depuis 
+        <placeName ana="Mars">Mars</placeName>
+         2010, suite au séisme qui a dévasté 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+         termine la rédaction de son premier roman, Les yeux de l’aube.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.rassoul-labuchin.6422.html" xml:id="Rassoul_Labuchin_bio_auteur_spla">
+      <p>
+        Né le 30 
+        <placeName ana="Mars">Mars</placeName>
+         1939 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        .De son vrai nom 
+        <persName ana="Joseph_Yves_Medard">Joseph Yves Médard</persName>
+        , 
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+         est tout à la fois professeur de français, comédien, metteur en scène, poète, dramaturge, réalisateur, militant syndicaliste et ancien maire de Port-Au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il est aussi l'auteur du livret du tout premier opéra en langue créole, 
+        <persName ana="Mariaj_Lenglensou">Mariaj Lenglensou</persName>
+        , inspiré des Noces de sang de 
+        <persName ana="Federico_Garcia">Federico Garcia</persName>
+         
+        <placeName ana="Lorca">Lorca</placeName>
+         et de l'histoire récente d'
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+        <persName ana="Rassoul_Labuchin">
+          <placeName ana="Rassoul">Rassoul</placeName>
+           Labuchin
+        </persName>
+         s'engage en résistance contre la dictature de Duvallier aux côtés de 
+        <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
+        . Il sera emprisonné et torturé, même après la prise de pouvoir du général 
+        <persName ana="Prosper_Avril">Prosper Avril</persName>
+         en 1988. Une pétition circula réclamant sa libération, signée entre autres par 
+        <persName ana="Sophie_Marceau">
+          Sophie 
+          <placeName ana="Marceau">Marceau</placeName>
+        </persName>
+         qui venait de partager l'écran avec lui dans le film de 
+        <persName ana="Francis_Girod_Descente">Francis Girod Descente</persName>
+         aux enfers (1986, 88'). Il a travaillé comme acteur dans Gouverneurs de la rosée réal. 
+        <persName ana="Maurice_Faillevic">Maurice Faillevic</persName>
+        , 1974). Comme Scénariste et traducteur créole dans Map pale net (
+        <persName ana="Raphael_Stines">Raphaël Stines</persName>
+        )Comme réalisateur il est l'auteur d'Anita, un moyen métrage considéré comme l'un des films qui a ouvert la voie au cinéma haïtien. Il se consacre aujourd'hui entièrement à l'écriture.Filmographie :Acteur :Descente aux enfers (réal. 
+        <persName ana="Francis_Girod">Francis Girod</persName>
+        , 88', 1986)Gouverneurs de la rosée (réal. 
+        <persName ana="Maurice_Faillevic">Maurice Faillevic</persName>
+        , 1974)Réalisateur :Anita (45', 1982)Il a réalisé:AnitaJoumankoleSources :Les Cinéastes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        .www.etonnants-voyageurs.com.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Rassoul_Labuchin_biblio">
+    <div ref="http://ile-en-ile.org/labuchin/" xml:id="Rassoul_Labuchin_biblio_auteur_ile_en_ile">
+      <list subtype="poésie (en créole)">
+        <item>Trois colliers maldioc. Port-au-Prince: Imprimerie des Antilles, 1962.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Et la fête sera belle. Port-au-Prince: Deschamps, 1979, 83 p.
+« Mamona, fille de l’étang », « Le loup-garou blanc », « Le ficus » et « Grenadine ».</item>
+      </list>
+      <list subtype="conte">
+        <item>Le ficus, par Michaëlle Lafontant-Médard et Rassoul Labuchin. Port-au-Prince: Imprimerie Théodore, 1971.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Rassoul Labuchin est l’auteur, metteur en scène et comédien d’une trentaine de pièces, jouées par le MTO (Mouvement théâtral ouvrier) dans le cadre des activités de loisir de l’UIH (Union Intersyndicale d’Haïti) dans les années 1974-75. (Voir Notes sur le développement du mouvement syndicale en Haïti par Jean-Jacques Doubout et Ulrick Joly, 1974, p. 52.)
+
+Parmi ces pièces, il y a notammant La Grève des ouvrières de café, Maître Sonson et Maître Aliboron et Le Roi Moko.
+Le Roi Moko, de Rassoul Labuchin, est joué avec les étudiants de l’École Normale supérieure à l’Institut français, ce qui déclenche une manifestation des étudiants au Bicentenaire en 1972. La pièce est adaptée et jouée à Québec dans le cadre de la Franco-Fête de 1975.
+Ti-Crabe et grenadine, de Rassoul Labuchin, est joué à l’Institut français dans une mise en scène de Jean-Paul Micouleau (vers 1976).
+M ap pale nèt, de Rassoul Labuchin (adaptation en créole du Bel Indifférent de Jean Cocteau), joué par Richard Brisson et Jessie Alphonse, 1977. Cette pièce de Rassoul est adaptée au cinéma en 1976 par Raphaël Stines avec Jessie Alphonse et François Latour ; M ap pale nèt est considéré comme le premier film de fiction haïtien.
+
+</item>
+      </list>
+      <list subtype="filmographie">
+        <item>comédien:
+
+Gouverneurs de la rosée. Adaptation du roman de Jacques Roumain par Maurice Failevic, 1974, 107 min.
+Descente aux enfers. Adaptation du roman de David Goodis par Francis Girod, 1986, 88 min.
+
+</item>
+      </list>
+      <list subtype="opéra">
+        <item>Maryaj Lenglensou (Le Mariage Lenglensou), opéra en trois actes. Livret: Rassoul Labuchin. Musique: Ipharès Blain. Choeur et orchestre Lenglensou. Jouée en Haïti en 2007. Directeur du film: Hans Fels. 2007, 93 minutes.</item>
+      </list>
+      <list subtype="roman">
+        <item>Les yeux de l’aube. Montréal: Jacques Trouillot Imprimeur, 2012.</item>
+      </list>
+      <list subtype="sur l’oeuvre de rassoul labuchin">
+        <item>Deschamps, Marguerite. À la découverte de Rassoul Labuchin, poète du réalisme merveilleux. Port-au-Prince: s.m., 1974, 20 p.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Rassoul_Labuchin_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/rassoul-labuchin-les-yeux-de-laube/">Les yeux de l’aube</item>
+      <item ref="http://ile-en-ile.org/rassoul-labuchin-textes-lus/">Rassoul Labuchin, extraits de textes</item>
+      <item ref="http://ile-en-ile.org/rassoul-labuchin-5-questions-pour-ile-en-ile/">Rassoul Labuchin, 5 questions pour Île en île</item>
+      <item ref="http://www.powerofculture.nl/en/current/2006/june/haitiopera.html">Blood Gushes in Haitian Opera</item>
+      <item ref="http://youtu.be/iNhWB9TGeR0">Haïti : les victimes de Duvalier attendent la justice</item>
+      <item ref="http://www.rfi.fr/lffr/articles/086/article_1447.asp">Maryaj Lenglensou, le premier opéra créole au monde</item>
+      <item ref="http://www.kepkaa.com/18juillet2010.html">Le défi d’être écrivain</item>
+      <item ref="http://youtu.be/O76PhnRKVn8">Rassoul Labuchin se souvient de Jacques Stephen Alexis</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=27136">Opéra haïtien: une grande première</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=27925">Quelques secondes avec Rassoul Labuchin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=31297">Mariage Lenglensou</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=31943">Un trailer nommé Lenglensou</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=35822">Une veillée pour l’Empereur</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=38215">Un poète haïtien au pays de Gengis Khan</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=39016">Un yankee devenu dieu sacré du vaudou</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=43724">Les marrons de l’alphabet et l’audiovisuel</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=46691">L’alphabétisation en marche</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=47613">Une lecture particulière de « L’Itinéraire… »</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=49495">Du poème au chant et à la danse</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=50608">Rassoul Labuchin : auteur créole polyvalent</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=52547">Labuchin chante l’amour</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=53260&amp;PubDate=2008-01-25">Cléante Lafontant-Guiteau vue par Rassoul Labuchin</item>
+      <item ref="http://www.lenouvelliste.com/articleforprint.php?PubID=1&amp;ArticleID=59284">Mes souvenirs de Robert Bauduy</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=63237">Rassoul Labuchin précise</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=63485">Contrer les archaïsmes de la mentalité</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=66183">Le marxiste, l’esthéticien du vodou et le mathématicien</item>
+    </list>
   </div>
 </TEI>

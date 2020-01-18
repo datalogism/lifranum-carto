@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Fred_Edson_Lafortune_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Fred_Edson_Lafortune" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Fred Edson Lafortune</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Fred_Edson_Lafortune_fiche_autorite">
+  <div n="1" xml:id="Fred_Edson_Lafortune_fiche">
     <person ana="Fred_Edson_Lafortune" sex="na">
       <persName>Fred Edson Lafortune</persName>
       <langKnowledge>
@@ -29,7 +29,207 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Fred_Edson_Lafortune_bio">
+    <text hand="Jean Watson Charles et James Pubien" ref="http://ile-en-ile.org/lafortune/" xml:id="Fred_Edson_Lafortune_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
+         nait le 31 juillet 1982 à Anse-à-Veau (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), où il fait ses études élémentaires. En 1991, sa famille s’installe à 
+        <placeName ana="Astruc">Astruc</placeName>
+         après que leur 
+        <placeName ana="Maison">Maison</placeName>
+         à Anse-à-Veau est incendiée. Il arrive à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , la capitale, en 1996 pour terminer ses études secondaires et entamer des études universitaires à la Faculté de Droit des 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         et à l’École Normale Supérieure. En 2007, il fait une formation en techniques d’animation autour du livre aux Presses Nationales d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . En octobre 2007, il est invité à 
+        <placeName ana="Paris">Paris</placeName>
+         par la Société des Poètes Français (SPF) pour présenter ses travaux littéraires et pour suivre un séminaire sur la littérature médiévale et sur « Écrits et culture dans 
+        <placeName ana="L’Europe">l’Europe</placeName>
+         moderne » au Collège de 
+        <placeName ana="France">France</placeName>
+        . Ce voyage est l’occasion pour le poète de rencontrer des personnalités du monde culturel et littéraire français et des écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         ou franco-
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         vivant en 
+        <placeName ana="France">France</placeName>
+        . À 
+        <placeName ana="Paris">Paris</placeName>
+        , il participe également à Planète Mots (journée du livre et du multimédia pour les jeunes) et à l’émission « l’Onde Poétique » à Radio Enghien.
+      </p>
+      <p>
+        En 
+        <placeName ana="Mars">Mars</placeName>
+         2009, 
+        <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
+         est au Salon du Livre de 
+        <placeName ana="Paris">Paris</placeName>
+         pour signer son recueil En nulle autre et pour présenter l’anthologie de poésie et d’art haïtien Cahier 
+        <placeName ana="Haiti">Haïti</placeName>
+         qu’il a coordonnée avec le poète 
+        <persName ana="James_Noel">James Noël</persName>
+        . Il est également interviewé par 
+        <persName ana="Guillaume_Truilhe">Guillaume Truilhé</persName>
+         à la Chaine de Télévision Toulousaine et Européenne (CT2E). Il suit un stage d’écriture avec 
+        <persName ana="Gerard_Noiret">Gérard Noiret</persName>
+         en résidence au Théâtre 95 à 
+        <placeName ana="Cergy">Cergy</placeName>
+        , stage qui se poursuit à Villeneuve-sur-Yonne (
+        <placeName ana="Bourgogne">Bourgogne</placeName>
+        ) avec l’écrivain 
+        <placeName ana="Baptiste">Baptiste</placeName>
+        -Marrey et le peintre Jean-
+        <persName ana="Louis_Gerbaud">Louis Gerbaud</persName>
+        .
+      </p>
+      <p>
+        Il anime des ateliers dans des lycées pour sensibiliser les élèves à la culture et à l’histoire d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et pour les amener à découvrir les conditions d’accès pour les jeunes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à l’éducation et au livre. Il présente des conférences sur la poésie, la littérature et la culture haïtiennes, en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , en 
+        <placeName ana="France">France</placeName>
+         et à 
+        <placeName ana="New_York">New York</placeName>
+        . Il collabore entre autres à la série « 5 Questions pour Île en île », une suite d’entretiens en vidéo présentant les auteurs du site Île en île.
+      </p>
+      <p>
+        <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
+         travaille dans de nombreux domaines : animateur d’ateliers d’écriture et du théâtre auprès des lycéens et personne visible lors des manifestations littéraires à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Ses poèmes sont publiés dans des revues haïtiennes et étrangères telles que Art et Poésie, Il Convivio et Le Manoir des poètes.
+      </p>
+      <p>
+        La poésie de 
+        <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
+         est simple, libérée de toute facture surréaliste. Cette écriture évocatrice n’est qu’un aboutissement d’une confrontation entre le réel et le mal de vivre.
+      </p>
+      <p>Je m’évaderai de ces cauchemars
+Oubliés sur la soif de tes nuits inquiètes</p>
+      <p>L’œuvre de Lafortune est un système clos dans lequel le poème ne se réinvente pas. En nulle autre n’est pas une poésie expérimentale ni en grande partie ésotérique, mais plutôt une correspondance entre le poète et ses souvenirs. L’œuvre contient une grande variété d’images : celles tirées des voyages et des lieux évoqués (Saint-Cloud, Auber, Groslay… isotopies qui renvoient à des référents géographiques et créent dans le texte un espace de mouvements) et celles tirées de la douleur :</p>
+      <p>Et cette même pauvreté de mon peuple
+Je la porte en moi comme la mère son fœtus
+Comme un fétu l’amour du feu
+Dans l’instinct de la mort</p>
+      <p>
+        Le trait essentiel de cette poésie, c’est qu’elle n’est jamais séparable de la vie et du vécu. Aussi, le poète ne s’écarte-t-il pas de la conception de 
+        <persName ana="Maria_Rilke">Maria Rilke</persName>
+         (Lettre à un jeune poète) faisant de la poésie le lieu de ces expériences.
+      </p>
+      <p>
+        Thématique assez récurrente, l’érotisme, dans En nulle autre, n’est pas une légitimation de la référence sexuelle. Ce corps féminin, double métaphore de par sa fonction jouissive et contemplative, engendre une polysémie de l’image, ce qui évite au poème ce culte puéril de la crudité et dénotant une certaine alié
+        <placeName ana="Nation">Nation</placeName>
+         d’ordre psychologique et psychanalytique, très répandue dans les milieux existentiels.
+      </p>
+      <p>Je la connais mère des îles
+Portant dans son corps sage
+L’absolue beauté des métaphores </p>
+      <p>Ce « corps » qu’il prétend connaître n’est que le symbole d’une métaphore qui tend à pérenniser le désir de l’acte. Mémoire narcissique. Dans ce contexte, l’écriture devient un pré-texte pour parler de son propre corps, cas pathologique d’onanisme. Cependant, le poète ne pousse pas sa poésie dans un ex-nihilo. C’est un érotisme sensitif, teinté de pudeur. Lien de partage et de régénération.</p>
+      <p>
+        Je trouve ma part d’éternité
+Dans la genèse de ton corps
+Tel ce coucher de 
+        <placeName ana="Terre">Terre</placeName>
+         qu’on regarde depuis la lune
+      </p>
+      <p>
+        <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
+        , comme 
+        <persName ana="Octavio_Paz">Octavio Paz</persName>
+        , est un poète pour qui « Le corps féminin est une halte terrible ». Dans En nulle autre, le poète s’exerce à un être autre. Pour parfaire ce dessein, il accorde la priorité au principe d’équivalence de Jakobson, principe par lequel l’équivalence qui régit la sélection, gouverne alors l’axe des combinaisons, ce qui dénote un parti pris majeur pour la fonction poétique. Et par ce 
+        <persName ana="Michael_Riffaterre">Michael Riffaterre</persName>
+         appelle la surdétermination par association et métonymie, Lafortune arrive à prolonger le désir par l’accompagnement d’une mémoire épanouie.
+      </p>
+      <p>
+        Ce désir décanté de la gangue charnelle est fixé à jamais, gravé, indélébile comme ce qui a rapport au divin. La plurivocité du texte éclate, transgresse l’érotisme primitif d’un 
+        <persName ana="Henri_Miller">Henri Miller</persName>
+         pour structurer la de-construction et éviter du coup la luxure.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.fred-edson-lafortune.32114.html" xml:id="Fred_Edson_Lafortune_bio_auteur_spla">
+      <p>
+        <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
+         nait le 31 juillet 1982 à Anse-à-Veau (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), où il fait ses études élémentaires. En 1991, sa famille s'installe à 
+        <placeName ana="Astruc">Astruc</placeName>
+         après que leur 
+        <placeName ana="Maison">Maison</placeName>
+         à Anse-à-Veau est incendiée. Il arrive à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , la capitale, en 1996 pour terminer ses études secondaires et entamer des études universitaires à la Faculté de Droit des 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         et à l'École Normale Supérieure. En 2007, il fait une formation en techniques d'animation autour du livre aux Presses Nationales d'
+        <placeName ana="Haiti">Haïti</placeName>
+        . En octobre 2007, il est invité à 
+        <placeName ana="Paris">Paris</placeName>
+         par la Société des Poètes Français (SPF) pour présenter ses travaux littéraires et pour suivre un séminaire sur la littérature médiévale et sur &quot;Écrits et culture dans l'Europe moderne&quot; au Collège de 
+        <placeName ana="France">France</placeName>
+        . Ce voyage est l'occasion pour le poète de rencontrer des personnalités du monde culturel et littéraire français et des écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         ou franco-
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         vivant en 
+        <placeName ana="France">France</placeName>
+        . À 
+        <placeName ana="Paris">Paris</placeName>
+        , il participe également à Planète Mots (journée du livre et du multimédia pour les jeunes) et à l'émission &quot;l'Onde Poétique&quot; à Radio Enghien. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Fred_Edson_Lafortune_biblio">
+    <div ref="http://ile-en-ile.org/lafortune/" xml:id="Fred_Edson_Lafortune_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>En nulle autre. Mazères (France): le Chasseur abstrait, 2009.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Stagioni » (Trad. Angelo Manitta). Il Convivio, rivista Trimestrale di Poesia Arte e Cultura dell’Accademia Internazionale Il Convivio (Settembre 2006).</item>
+      </list>
+      <list subtype="anthologie">
+        <item>Cahier Haïti (textes réunis par Fred Edson Lafortune et James Noël). Numéro spécial 8 des Cahiers de la RAL,M (Revue d’Art et de Littérature, Musique), 2009, 604 pp.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Lekti, Lekti, Lekti, documentaire (court métrage) sur l’incitation à la lecture en Haïti, réalisé par la Mission des Nations Unis pour la Stabilisation et la Paix en Haïti (MINUSTAH), 2007.</item>
+      </list>
+      <list subtype="conférences sélectionnées">
+        <item>« L’image poétique », présentée au club littéraire « Clac », juillet 2004.</item>
+      </list>
+      <list subtype="créations théâtrales">
+        <item>En terre d’exile, jouée à la bibliothèque Justin Lhérisson, mise en scène de Jude Richard.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2017     Gran Pri Pwezi Frantz Dominique Batraville, pour An n al Lazil.</item>
+      </list>
+      <list subtype="sur l’oeuvre de fred edson lafortune">
+        <item>« Fred Edson Lafortune ». L’Ouvre Boîte 80 (été 2008): 50.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Fred_Edson_Lafortune_web">
+    <list type="ile_en_ile">
+      <item ref="http://frededsonlafortune.hautetfort.com/">Fred Edson Lafortune</item>
+      <item ref="http://www.tanbou.com/2008/pwezi082008.htm">Ann al lazil…</item>
+      <item ref="http://www.tanbou.com/2008/pwezi082008.htm">Ann al lazil…</item>
+      <item ref="http://www.lechasseurabstrait.com/revue/-Fred-Edson-LAFORTUNE-">Fred Edson Lafortune</item>
+      <item ref="http://poesie.webnet.fr/vospoemes/poemes/fred_edson_lafortune/fred_edson_lafortune.html">Fred Edson Lafortune</item>
+      <item ref="http://www.tanbou.com/2006/summer/poesie.htm">Reflet</item>
+      <item ref="http://www.culturessud.com/contenu.php?id=150">Répliques</item>
+      <item ref="http://www.lechasseurabstrait.com/revue/D-un-silence-a-l-autre-entretiens">D’un silence à l’autre</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74706">Ecriture et littérarité dans « En nulle autre »</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=48549">Fred Edson assistera à un séminaire sur la littérature médiévale au Collège de France</item>
+      <item ref="http://www.alterpresse.org/spip.php?article6442">Haiti/Littérature : Un jeune poète haïtien au Collège de France</item>
+      <item ref="http://www.potomitan.info/ayiti/lafortune/lazil.php">An n al Lazil: Yon liv tout moun dwe li</item>
+      <item ref="http://www.lenational.org/poete-fred-edson-lafortune-laureat-de-4e-edition-prix-de-poesie-creole-dominique-batraville/">Le poète Fred Edson Lafortune, lauréat de la 4e édition du prix de poésie créole Dominique Batraville</item>
+      <item ref="http://www.tanbou.com/2014/PrezantasyonLivAnNAlLazilFredEdsonLafortune.htm">Prezantasyon liv An n al Lazil de Fred Edson Lafortune</item>
+    </list>
   </div>
 </TEI>

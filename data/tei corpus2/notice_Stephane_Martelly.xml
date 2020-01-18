@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Stephane_Martelly_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Stephane_Martelly" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de St�phane Martelly</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Stéphane Martelly</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Stephane_Martelly_fiche_autorite">
+  <div n="1" xml:id="Stephane_Martelly_fiche">
     <person ana="Stephane_Martelly" sex="na">
-      <persName>St�phane Martelly</persName>
+      <persName>Stéphane Martelly</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -31,5 +31,143 @@
       <occupation source="spla">Peintre</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Stephane_Martelly_bio">
+    <text ref="http://ile-en-ile.org/martelly/" xml:id="Stephane_Martelly_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Stephane_Martelly">Stéphane Martelly</persName>
+         naît le 14 septembre 1974 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Critique, auteure et peintre, elle s’est adonnée très jeune à diverses activités artistiques.
+      </p>
+      <p>
+        Par une approche profondément transdisciplinaire qui fait se confronter théorie, réflexion critique et création, elle poursuit une démarche réflexive sur la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         contemporaine, sur la création, sur les marginalités littéraires ainsi que sur les limites de l’interprétation.
+      </p>
+      <p>
+        Après des études universitaires en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , à l’Université Quisqueya, où elle obtient une licence en Sciences de l’Éducation (options Lettres et Philosophie), elle poursuit ses études supérieures à l’Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+         (
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en Études françaises 1996-1998 et scolarité doctorale 2003-2005).
+      </p>
+      <p>
+        Elle est notamment l’auteure d’un essai littéraire sur le poète Magloire-Saint-
+        <placeName ana="Aude">Aude</placeName>
+        , une lecture critique paradoxale qui s’appuie sur une reconnaissance de l’opacité du texte saintaudien comme un enjeu esthétique, éthique et interprétatif. Elle prépare également une thèse (recherche-création) sur le sujet féminin et la folie dans les œuvres d’auteurs caribéens.
+      </p>
+      <p>
+        Ayant, dit-elle, « posé son baluchon » à 
+        <placeName ana="Montreal">Montréal</placeName>
+         depuis 2002, elle partage son temps entre la recherche en littérature, les charges de cours à l’Université et, toujours, la création.
+      </p>
+      <p>
+        Son activité de recherche inclut la co-organisation du colloque international « Relire l’histoire littéraire et le littéraire 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         » (
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 2004) et le groupe de recherche 
+        <placeName ana="Marges">Marges</placeName>
+         et 
+        <placeName ana="Memoires">Mémoires</placeName>
+         en poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et québécoise qu’elle a fondé en 2005 et dont elle a assuré la direction scientifique (financement du CRILCQ, le Centre de recherche interuniversitaire sur la littérature et la culture québécoise, 2005-2009). Depuis 2009, elle participe comme coordonnatrice et chercheure aux travaux du groupe de recherche d’histoire orale « Histoires de vie » des 
+        <placeName ana="Montrealais">Montréalais</placeName>
+         déplacés par la violence – groupe 
+        <placeName ana="Haiti">Haïti</placeName>
+         (Université Concordia). En 2011, elle a conçu et organisé un atelier de 
+        <persName ana="Creation_Litteraire">Création Littéraire</persName>
+         dans le cadre du projet « Histoires de vie » intitulé : « Je me suis parcouru moi-même : être, dire, se poser dans/devant l’histoire ». Elle présente régulièrement ses travaux dans des colloques et autres publications académiques.
+      </p>
+      <p>
+        En plus de son travail de recherche, 
+        <persName ana="Stephane_Martelly">Stéphane Martelly</persName>
+         a publié de la poésie, La Boîte noire suivi de Départs (2004) et des livres illustrés : Couleur de rue (1999), L’Homme aux cheveux de fougère (2002) et La Maman qui s’absentait (2011). Certaines de ses œuvres ont été adaptées pour la scène. En collaboration avec 
+        <persName ana="Christine_Jeanney">Christine Jeanney</persName>
+        , elle a publié un livre d’art numérique qui présente son travail pictural et s’intitule Folie passée à la chaux vive (Publie.net, 2010).
+      </p>
+      <p>
+        Comme plasticienne, son travail en 2011 inclut une résidence d’artiste au 
+        <placeName ana="Vermont">Vermont</placeName>
+         Studio Center aux États-Unis et une exposition solo (de la série de la Folie) à la Cornell University.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.stephane-martelly.6345.html" xml:id="Stephane_Martelly_bio_auteur_spla">
+      <p>
+        Une auteure d'origine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         à la voix aussi puissante que fragile, qui a choisi 
+        <placeName ana="Montreal">Montréal</placeName>
+         comme lieu de résidence.Egalement artiste peintre, elle expose sous le pseudonyme de 
+        <placeName ana="Nou">Nou</placeName>
+        . voir aussi sa fiche sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Stephane_Martelly_biblio">
+    <div ref="http://ile-en-ile.org/martelly/" xml:id="Stephane_Martelly_biblio_auteur_ile_en_ile">
+      <list subtype="livres (poésie / fiction / livres d’art)">
+        <item>Couleur de rue (conte). Illustrations: Ralph Pénel Pierre. Pétion-Ville: Hachette-Deschamps / Vanves: Edicef, 1999, 22 p.</item>
+      </list>
+      <list subtype="essais littéraires">
+        <item>Le Sujet opaque, une lecture de l’oeuvre poétique de Magloire-Saint-Aude. Paris: L’Harmattan, 2001, 178 p.</item>
+      </list>
+      <list subtype="publications scientifiques et académiques">
+        <item>« Jacques-Stéphen Alexis ou la portée d’un regard : une analyse de la vision dans les Arbres Musiciens (1957) » (projet de Licence). Port-au-Prince: Université Quisqueya, 1996, 125 p.</item>
+      </list>
+      <list subtype="manuel scolaire">
+        <item>MOI – manuel de formation personnelle et sociale (direction du manuel scolaire – collectif); co-rédactrices: Dominique Clérié et Nancy Exilas; illustrations: Ralph Pierre. Port-au-Prince: Areytos, 2001, 96 p.</item>
+      </list>
+      <list subtype="essais publiés dans des ouvrages collectifs">
+        <item>« « La notation d’une agonie ». Espace subjectif du désastre dans Les Dix Hommes noirs d’Etzer Vilaire (1901) ».  Pont / Ponti, Astres et Désastres 4 (2004): 321-332.</item>
+      </list>
+      <list subtype="textes de création dans des ouvrages collectifs">
+        <item>« Reflets ». Chemins Critiques, revue haïtiano-caraïbénne 3.1-2 (décembre 1993).</item>
+      </list>
+      <list subtype="expositions et résidences d’artiste (sous le pseudonyme nou)">
+        <item>Exposition-vente de tableaux, Université Quisqueya, Port-au-Prince, mai 1994 et mai 1995.</item>
+      </list>
+      <list subtype="mises en scène / mises en espace et adaptations">
+        <item>Soirée poésie/ images/ musique. Lancement de La Boîte noire / Départs. Avec le montage photographique de Yasmina Saad, la musique de David Bontemps, production de Hélène Hotton, Yasmina Saad et le CIDIHCA. Librairie l’Ecume des jours, Montréal, 24 novembre 2004.</item>
+      </list>
+      <list subtype="enregistrement sonore">
+        <item>« La boîte noire », poème de Stéphane Martelly. Terre de femmes; 33 voix de la poésie féminine haïtienne. Textes dits par Paula Clermont Péan et Céline Liger. CD audio. Paris: Bruno Doucey, 2010.</item>
+      </list>
+      <list subtype="sur l’oeuvre de stéphane martelly">
+        <item>Alonso, Xavier. À propos de La Maman qui s’absentait. 24 Heures (Suisse) 2011.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Stephane_Martelly_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/stephane-martelly-la-boite-noire-departs/">La boîte noire, suivi de Départs</item>
+      <item ref="http://ile-en-ile.org/magloire-saint-aude/">Magloire-Saint-Aude</item>
+      <item ref="http://ile-en-ile.org/stephane-martelly-silence/">Silence</item>
+      <item ref="http://ile-en-ile.org/marie-therese-colimon-hall-temoignage-stephane-martelly/">Témoignage</item>
+      <item ref="http://www.lifestoriesmontreal.ca/fr">Histoires de vie Montréal | Montreal Life Stories</item>
+      <item ref="http://pages.videotron.com/lithaiti/">Relire l’histoire littéraire et le littéraire haïtien</item>
+      <item ref="http://www.erudit.org/revue/etudfr/2005/v41/n2/011378ar.html">HTML</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=57436">Les mouvances de soi ; Exister comme sujet dans Caïques de Joël Des Rosiers</item>
+      <item ref="http://www.ouvrez.fr/spip.php?rubrique3">Initiation à la création</item>
+      <item ref="http://www.publie.net/fr/ebook/9782814503557/folie-passée-à-la-chaux-vive">Présentation, Folie passée à la chaux vive</item>
+      <item ref="http://www.papier-de-soie.com/La-maman-qui-s-absentait.html">La Maman qui s’absentait</item>
+      <item ref="http://brigetoun.blogspot.com/2010_08_30_archive.html">Je suis outrageusement longue</item>
+      <item ref="http://www.encres-vagabondes.com/magazine/martelly.htm">Stéphane Martelly, La Maman qui s’absentait</item>
+      <item ref="http://blog.epagine.fr/index.php/2011/01/je-noublie-pas-haiti-lire-laferriere-martelly-lahens-et-dautres-encore/">Je n’oublie pas Haïti, lire Laferrière, Martelly, Lahens et d’autres encore</item>
+      <item ref="http://jeunesseapages.wordpress.com/2011/05/25/la-maman-qui-sabsentait-de-stephane-martelly-et-albin-christen/">La Maman qui s’absentait de Stéphane Martelly et Albin Christen</item>
+      <item ref="http://www.gensdelacaraibe.org/index.php?option=com_content&amp;view=article&amp;id=4545:marthely&amp;catid=209">La folie abordée par la peinture et la poésie dans un ouvrage numérique</item>
+      <item ref="http://www.africamerica.org/Pieds-poudres-pye-poudre-Stephane-Martelly-repond-a-Barbara-Prezeau_a188.html">Pieds poudrés / pye poudre – Stéphane Martelly répond à Barbara Prézeau</item>
+      <item ref="http://papalagi.blog.lemonde.fr/2011/05/28/recommande-la-maman-qui-sabsentait/">Recommandé : La Maman qui s’absentait</item>
+      <item ref="http://www.youtube.com/watch?v=zFoCT3nfYVg">Départs</item>
+      <item ref="http://www.publie.net/fr/ebook/9782814503557/folie-passée-à-la-chaux-vive">Publie.net</item>
+    </list>
   </div>
 </TEI>

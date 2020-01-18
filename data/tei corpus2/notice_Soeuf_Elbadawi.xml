@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Soeuf_Elbadawi_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Soeuf_Elbadawi" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Soeuf Elbadawi</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Soeuf_Elbadawi_fiche_autorite">
+  <div n="1" xml:id="Soeuf_Elbadawi_fiche">
     <person ana="Soeuf_Elbadawi" sex="na">
       <persName>Soeuf Elbadawi</persName>
       <langKnowledge>
@@ -28,11 +28,88 @@
           <country source="spla">Comores</country>
         </placeName>
       </residence>
-      <occupation source="spla">Metteur/se en sc�ne</occupation>
+      <occupation source="spla">Metteur/se en scène</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Producteur/trice</occupation>
       <occupation source="spla"> Journaliste</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Soeuf_Elbadawi_bio">
+    <text ref="http://www.spla.pro/fiche.personne.soeuf-elbadawi.2778.html" xml:id="Soeuf_Elbadawi_bio_auteur_spla">
+      <p>
+        BIOGRAPHIEComédien et metteur en scène. Rencontre son premier succès public aux Comores au tout début des années 90, avec La secrétaire Particulière de Jean Pliya, sous la direction de Michel Charles, un ancien de la Rue blanche. Fonde et anime en 2007 le &quot;Laboresvik&quot;, laboratoire de recherche en spectacle vivant, à l'Université des Comores, avant de l'intégrer à sa propre compagnie, O Mcezo*, créée en novembre 2008.Auteur et journaliste. Publie dans des revues et journaux francophones. Ancien membre de l'équipe Kashkazi aux Comores, il écrit pour la revue Africultures en 
+        <placeName ana="France">France</placeName>
+        . A collaboré plus de quinze ans avec Radio 
+        <placeName ana="France">France</placeName>
+         Internationale, radio pour laquelle il a produit nombre de magazines consacrés aux lettres, à la culture et au social.Passionné d'image et de son. Réalise des installations sonores et visuelles autour de questions sociales et politiques. S'intéresse à la musique et produit des disques pour &quot;Buda Musique&quot;, un label parisien. A dirigé le Komor4 Festival à Moroni.CREATIONSThéâtre2010Bénéficie d'une bourse pour une résidence d'écriture au Festival International des Francophonies en Limousin. Pour l'écriture d'une pièce. Commence en janvier 2010.Fait paraître &quot;Ceza choses dites, entendues ou lues sur le spectacle vivant aux Comores&quot;, la première publication du laboresvik, laboratoire de la compagnie O Mcezo*, aux éditions Bilk &amp; Soul, à Moroni.2009&quot;La Fanfare des fous&quot;. Spectacle sur la dépossession citoyenne. Première création de la compagnie O Mcezo*. Coproduit par Washko Ink. à Moroni et BillKiss* à 
+        <placeName ana="Paris">Paris</placeName>
+        . Tournée nationale réalisée avec le soutien de la Fondation du 
+        <placeName ana="Prince">Prince</placeName>
+         Claus aux Pays-Bas. Tournée organisée en même temps que des ateliers de sensibilisation (shungu sha mcezo) autour de l'avenir du théâtre aux Comores.Développe le &quot;gungu la mcezo&quot; au sein du laboresvik. Performance théâtrale, inspirée d'une tradition populaire comorienne, appelée &quot;gungu&quot;. Spectacle de rue. Le premier gungu la mcezo a eu lieu le 13 
+        <placeName ana="Mars">Mars</placeName>
+         09 à Moroni contre l'occupation française de l'île de Maore. Il a donné lieu à un cycle de conférence (botsi la ntsi ya huma/ Imaginaire politique et obsessions citoyenne) en 
+        <placeName ana="France">France</placeName>
+         et aux Comores.Organise la première édition du &quot;Kiomcezo&quot;, rencontres culturelles à géométrie variable.&quot;Moroni Blues/ Une rêverie à quatre&quot;. Reprise à la Réunion et tournée régionale dans l'
+        <placeName ana="Ocean_Indien">Océan indien</placeName>
+        . Répétitions à Madagascar et programmation à la Réunion, à Maurice, aux Comores. Avec le soutien de la Spedidam en 
+        <placeName ana="France">France</placeName>
+         et du Fonds de coopération régional à la Réunion. Parution du texte aux éditions Bilk &amp; Soul.2008Quitte l'Université des Comores et crée la compagnie O Mcezo* à Moroni. Pour un théâtre à vocation populaire et citoyenne, en phase avec sa réalité immédiate.S'occupe d'un festival universitaire et pluridisciplinaire, sur la scène de l'Alliance française de Moroni.Ecrit et joue dans &quot;Moroni Blues/ Une rêverie à quatre&quot;. Spectacle sur le mieux-vivre ensemble et contre le repli communautaire. Création à la Réunion au Théâtre des Bambous scène conventionnée. Mise en scène du français Robin Frédéric.20072007 &quot;Hommage à Rûmi&quot;. Spectacle de Titi Robin. Théâtre Gérard Philippe/festival Africolor, 
+        <placeName ana="France">France</placeName>
+        .&quot;Aller simple pour Moroni&quot;. Lecture-performance autour de &quot;Moroni Blues/ chap. II&quot; (éd. Bilk &amp; Soul) à La Baleine qui dit Vagues à Marseille. Avec &quot;Lectures du monde&quot;.Participe à &quot;Lantouraz&quot;, Théâtre du Grand Marché, île de la Réunion.Fonde le &quot;Laboresvik&quot;, laboratoire de recherche en spectacle vivant, à l'Université des Comores et présente des ébauches de spectacle avec les étudiants sur le plateau de l'Alliance française à Moroni jusqu'en 2008.2006&quot;Abdel K.&quot;, mise en espace avec les étudiants de la faculté de Lettres de l'Université des Comores. Spectacle sur l'assassinat d'un homme politique dans les années 1980, librement inspiré d'une nouvelle parue dans les Dernières nouvelles de la Franç
+        <placeName ana="Afrique">Afrique</placeName>
+        . Représentation au Palais du Peuple, Moroni.Collabore sur un chantier de rencontre et d'échange théâtral organisé par le Théâtre du Grand Marché (Saint-Denis, la Réunion) à Moroni. Avec la participation de la Compagnie L'Entreprise (Marseille, 
+        <placeName ana="France">France</placeName>
+        ).20052005 &quot;Piridjas le Magnifique&quot;. Texte de commande pour &quot;L'oeil du Cyclone&quot;, festival de théâtre au Grand Marché/ Centre Dramatique National, île de la Réunion.&quot;Esprit de transhumance&quot;. Reprise au Théâtre de l'Opprimé à 
+        <placeName ana="Paris">Paris</placeName>
+        .&quot;
+        <placeName ana="Haiti">Haiti</placeName>
+         d'île et d'exil&quot;. Reprise à Collectif 12, à Mantes La Jolie, en région parisienne, et à l'Institut Français de Naples.2004Joue dans &quot;
+        <placeName ana="Haiti">Haïti</placeName>
+         d'île et d'exil&quot;, Théâtre International de Langue Française (TILF), 
+        <placeName ana="Paris">Paris</placeName>
+        . Spectacle de Luc Clémentin. Egalement programmé à 
+        <placeName ana="Beaubourg">Beaubourg</placeName>
+        .&quot;Esprit de transhumance&quot;, Théâtre de l'Opprimé, 
+        <placeName ana="Paris">Paris</placeName>
+        . D'après les &quot;Testaments de transhumance&quot; (éditions Komedit) de Saïndoune Ben Ali, poète comorien. Spectacle sur l'histoire politique des Comores, initialement crée au festival Métissons, à Marseille, en 2003.Livre2010&quot;Fictions comoriennes&quot;, recueil de nouvelles, rassemblant une dizaine d'auteurs comoriens, dont lui-même aux éditions Komedit, à Moroni.2009&quot;Z. is not dead&quot; dans le numéro 10/Hiver 2009-2010 de la revue 
+        <placeName ana="Riveneuve_Continents">Riveneuve Continents</placeName>
+         en 
+        <placeName ana="France">France</placeName>
+        . Une fiction courte sur le deuil en pays déconstruit.&quot;Moroni Blues/ Une rêverie&quot; à quatre, pièce de théâtre, éditions Bilk &amp; Soul, créée au Théâtre Les Bambous, à la Réunion, par Robin Frédéric. Animation d'atelier d'écritures pour les collèges et lycées aux Comores, avec le soutien du CLEF, à la suite de cette parution du texte également joué à Moroni.2008Publie &quot;Un poème pour ma mère/ Une rose entre les dents&quot; aux éditions Komedit à Moroni.2007&quot;Nouvelles écritures comoriennes&quot;, collectif, éditions Komedit.&quot;Une suite pour Moroni Blues&quot;. Avec Saindou Kamal'Eddine et Rémi Carayol du 
+        <placeName ana="Journal">Journal</placeName>
+         Kashkazi. Editions de La Lune, 
+        <placeName ana="France">France</placeName>
+        &quot;Moroni Blues/ Chap. II&quot;, poème-essai, éditions Bilk &amp; Soul, Moroni. Un livre qui s'interroge sur la citoyenneté et sur le repli communautaire.2005&quot;Digressions sur ce que petite feuille n'est pas&quot;, Riveneuve Continent, n°3, automne 2005.2003&quot;Notes de Moustapha S. sur l'assassinat du citoyen Kader&quot;, in &quot;Dernières nouvelles de la Franç
+        <placeName ana="Afrique">Afrique</placeName>
+        &quot;, paru aux éditions Vents d'Ailleurs en 
+        <placeName ana="France">France</placeName>
+        . Projet rassemblant une dizaine d'auteurs africains et de l'
+        <placeName ana="Ocean_Indien">Océan indien</placeName>
+        , co-initié avec le Malgache Raharimanana.&quot;Maandzish n°3/ Petites histoires comoriennes&quot; avec Isabelle Mohamed, Aboubacar Mchangama et Mohamed Ahmed-Chamanga. Un recueil de textes sur la situation politique de l'Archipel des Comores. Komedit.Musique2009Produit &quot;ali.amani/ chants soufis des Comores&quot;, album, Buda Musique, 
+        <placeName ana="France">France</placeName>
+        , distribution Universal.2006Crée &quot;Zaïnaba&quot;, spectacle de chants et de danse au Komor4 Festival à Moroni, avec le concours du Scout Ngome. Programmation d'un récital de la chanteuse comorienne, qu'il accompagne au choeur, à la Comédie de Reims, en 
+        <placeName ana="France">France</placeName>
+        .2005Conçoit et dirige le projet &quot;Zaïnaba/ Chants de femmes des Comores&quot;. Deuxième opus produit pour le label Buda Musique à 
+        <placeName ana="Paris">Paris</placeName>
+        , après &quot;Musiques traditionnelles des Comores&quot;, sorti en 1999.Exposition/ Installation/ Production sonore2009&quot;Pays de lune&quot;. Première étape de travail au Muzdalifa House autour d'une installation en quatre volets retraçant le destin politique d'un archipel déconstruit. Réflexion autour d'une obsession citoyenne en pays dominé.Crée &quot;djahazi lorosa swauti&quot;, laboratoire de recherche et d'expérimentation sonore à partir de la réalité comorienne, 2009.2006Présente &quot;Moroni Blues/ Chap. II&quot; installation et performance, Festival du Film d'
+        <placeName ana="Afrique">Afrique</placeName>
+         et des Îles, Le Port, La Réunion.2004Expose les premières images de &quot;Moroni Blues&quot; au Centre Culturel 
+        <persName ana="Andre_Malraux">André Malraux</persName>
+        , dans le cadre du festival Africolor, Le Bourget, en 
+        <placeName ana="France">France</placeName>
+        .Est lauréat d'une bourse d'aide à l'écriture à la Scam en 
+        <placeName ana="France">France</placeName>
+        . Pour &quot;Comoriens de 
+        <placeName ana="France">France</placeName>
+        , une fabuleuse épopée&quot;. Oeuvre sonore et radiophonique.Filmographie2010&quot;Sirikali za mikowani: engarendo nda?&quot; Parole citoyenne sur le processus de communalisation aux Comores. Production Washko Ink. Film ayant bénéficié de fonds européens (PCD). Durée: 28 mn.&quot;01|Souvenirs de tournée&quot;. Film de Ahmed Jaffar sur la dynamique de la compagnie O Mcezo* aux Comores. Durée: 40 mn. Production Washko Ink.2008&quot;Moroni ce long poème...&quot; Film sur Moroni. Production Washko Ink.2005&quot;Moroni Undroni Mndroni&quot;. Co-réalisé avec Ahmed Jaffar, vidéaste comorien. voir aussi la fiche de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Soeuf_Elbadawi_biblio"/>
+  <div n="4" xml:id="Soeuf_Elbadawi_web">
+    <list type="spla">
+      <item ref="http://www.washko-ink.net">Website Soeuf Elbadawi </item>
+    </list>
   </div>
 </TEI>

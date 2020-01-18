@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Michele_Cazanove_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Michele_Cazanove" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Michele Cazanove</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Michele_Cazanove_fiche_autorite">
+  <div n="1" xml:id="Michele_Cazanove_fiche">
     <person ana="Michele_Cazanove" sex="na">
       <persName>Michele Cazanove</persName>
       <langKnowledge>
@@ -30,5 +30,32 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Michele_Cazanove_bio">
+    <text ref="http://www.spla.pro/fiche.personne.michele-cazanove.24819.html" xml:id="Michele_Cazanove_bio_auteur_spla">
+      <p>
+        Née à la REUNIONEtudes au Lycée Juliette DoduVoyage en 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        , puis en 
+        <placeName ana="Haiti">Haiti</placeName>
+         et retour en 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+         où je crées une galerie d'art que je dirige pendant plusieurs années.1975 : Publication &quot;L'été Indien&quot; Editions 
+        <placeName ana="Deschamps">Deschamps</placeName>
+         - HAITI1980 : Publication &quot;Poèmes&quot; 
+        <placeName ana="Haiti">Haiti</placeName>
+        .1988 : Publication &quot;Préumée Solitude&quot; Edts Julliard - 
+        <placeName ana="Paris">Paris</placeName>
+        .1991 : Publication &quot;La Chanson de Denrera (Zumbi de Palmares)&quot; Edts Wlody - 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        .2010 : Publication ebook : Le Printemps de la Fée Cassandre&quot;
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Michele_Cazanove_biblio"/>
+  <div n="4" xml:id="Michele_Cazanove_web">
+    <list type="spla">
+      <item ref="http://www.michele-cazanove.com/boutique/liste_rayons.cfm">Website Michele Cazanove </item>
+    </list>
   </div>
 </TEI>

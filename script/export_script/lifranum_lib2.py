@@ -7,7 +7,7 @@ from xml.etree import ElementTree
 
 import unicodedata
 import spacy
-
+import re
 from spacy_lefff import LefffLemmatizer, POSTagger
 nlp=spacy.load('fr_core_news_sm')
 
@@ -79,35 +79,35 @@ def prettify(elem):
 
 def normalize_names(rw_name):
     name=rw_name.strip()
-    idx=name.find("(")
-    if idx>0:
-        name=name[0:idx-1]
-    idx=name.find("[")
-    if idx>0:
-        name=name[0:idx-1]
-    splitted_names=name.split(",")
+    name_=re.sub("(\d{4}-\d{4})|(\d{4}-.{0,4})","",name)
+    name_=re.sub("(\(|\)|\.)","",name_)
+    name_=name_.replace("-"," ")
+    name_=name_.replace("'"," ")
+    name_=name_.replace("’"," ")
+    splitted_names=name_.split(",")
     if(len(splitted_names)==2):
         resp=[n.title().strip() for n in splitted_names]
         return resp
     elif(len(splitted_names)==1):
-        splitted_names=name.split(" ")
+        splitted_names=name_.split(" ")
         if(len(splitted_names)<3):
-            resp=[n.title().strip() for n in splitted_names]
+            resp=[n.title().strip() for n in splitted_names if n.title().strip()!=" "]
             return resp
         else:
             first_name_cand=[]
             last_name_cand=[]
             for part in splitted_names:
-                if(len(part)==sum(1 for c in part if c.isupper())):
-                    last_name_cand.append(part)
-                else:
-                    first_name_cand.append(part)
+                if(part!=" "):
+                    if(len(part)==sum(1 for c in part if c.isupper())):
+                        last_name_cand.append(part)
+                    else:
+                        first_name_cand.append(part)
             if(len(first_name_cand)>0 and len(last_name_cand)>0):
                 resp=[" ".join(first_name_cand).title().strip()," ".join(last_name_cand).title().strip()]
                 return resp
     
         
-    resp=[n.title().strip() for n in splitted_names]
+    resp=[n.title().strip() for n in splitted_names if n.title().strip()!=" "]
     return resp
 
 def AnnotateText(txt):
@@ -129,12 +129,13 @@ def AnnotateText(txt):
 
 
 def get_CompleteNotice(datas):
+#    datas=data_notices
     id_auth= strip_accents('_'.join(normalize_names(datas["author_name"])))
     generated_on = str(datetime.datetime.now())[0:10]
     root = Element('TEI')
     root.set('xmlns:xi', 'http://www.w3.org/2001/XInclude')
     root.set('xml:lang', 'fr')
-    root.set('xml:id',id_auth+"_notice") ###################
+    root.set('xml:id',id_auth) ###################
     teiHeader=SubElement(root,"teiHeader")
     fileDesc=SubElement(teiHeader,"fileDesc")
     titleStmt=SubElement(fileDesc,"titleStmt")
@@ -146,17 +147,17 @@ def get_CompleteNotice(datas):
     
     publicationStmt=SubElement(fileDesc,"publicationStmt")
     for auth in datas["file_authors"]:
-        author=SubElement(publicationStmt,"org_name")
+        author=SubElement(publicationStmt,"orgName")
         author.text=auth["org_name"]
     date=SubElement(publicationStmt,"date")
     date.text =generated_on
     sourceDesc=SubElement(fileDesc,"sourceDesc")
-    sourceDesc.text="Données issues de sources d'autorités et de répétoire web"
+    sourceDesc.text="Notice et contenu issus de sources d'autorités et de répétoire web"
     n=1
     if("data_auth" in datas.keys()):
         data=datas["data_auth"]
         Div_fiche_autorite=SubElement(root,"div")
-        Div_fiche_autorite.set("xml:id",id_auth+"_fiche_autorite")
+        Div_fiche_autorite.set("xml:id",id_auth+"_fiche")
         Div_fiche_autorite.set("n",str(n))
         person=SubElement(Div_fiche_autorite,"person")
         person.set("ana",id_auth)
@@ -172,22 +173,22 @@ def get_CompleteNotice(datas):
 
         ## NAME SURNAME
         persName=None
-        if("bnf" in data.keys() and "name" in data["bnf"].keys()):
-            if(data["bnf"]["name"] and data["bnf"]["name"] != None):
-                if(persName is None):
-                    persName=SubElement(person,"persName")
-                surname=SubElement(persName,"surname")
-                surname.set("source","bnf")
-                surname.text=data["bnf"]["name"]
-
-        ## FAMILY NAME
-        if("bnf" in data.keys() and "family_name" in data["bnf"].keys()):
-            if(data["bnf"]["family_name"] and data["bnf"]["family_name"] != None):
-                if(persName is None):
-                    persName=SubElement(person,"persName")
-                surname=SubElement(persName,"forename")
-                surname.set("source","bnf")
-                surname.text=data["bnf"]["family_name"]
+#        if("bnf" in data.keys() and "name" in data["bnf"].keys()):
+#            if(data["bnf"]["name"] and data["bnf"]["name"] != None):
+#                if(persName is None):
+#                    persName=SubElement(person,"persName")
+#                surname=SubElement(persName,"surname")
+#                surname.set("source","bnf")
+#                surname.text=data["bnf"]["name"]
+#
+#        ## FAMILY NAME
+#        if("bnf" in data.keys() and "family_name" in data["bnf"].keys()):
+#            if(data["bnf"]["family_name"] and data["bnf"]["family_name"] != None):
+#                if(persName is None):
+#                    persName=SubElement(person,"persName")
+#                surname=SubElement(persName,"forename")
+#                surname.set("source","bnf")
+#                surname.text=data["bnf"]["family_name"]
                 
         ### IF no distinctions
         if(persName is None):
@@ -328,18 +329,74 @@ def get_CompleteNotice(datas):
                         occupation.text=data["spla"]["activity"]
                         list_occup.append(data["spla"]["activity"])
 
-        if("viaf" in data.keys() and "co_authors" in data["viaf"].keys()):
-            if(data["viaf"]["co_authors"] and len(data["viaf"]["co_authors"])>0):
+        if("viaf" in data.keys() and "coauthors" in data["viaf"].keys()):
+            if(data["viaf"]["coauthors"] and len(data["viaf"]["coauthors"])>0):
                 listPerson=SubElement(person,"listPerson")
                 listPerson.set("type","co_authors")
                 listPerson.set("source","viaf")
-                for occ in data["viaf"]["co_authors"]:
-                    person2=SubElement(listPerson,"person")
-                    person2.set(ana,"viaf")
-                    ana_occ=strip_accents('_'.join(normalize_names(occ["name"])))
-                    person2.set("ana",ana_occ)
-                    persName2=SubElement(person2,"persName")
-                    persName2.text(occ["name"])
+                for co in data["viaf"]["coauthors"]:
+                    if("name" in co.keys()):
+                        person2=SubElement(listPerson,"person")
+                        person2.set("ana",co["id_lifranum"])
+                        persName2=SubElement(person2,"persName")
+                        persName2.text=co["name"]
+        n=n+1
 
-        return root
+    if("bio_data" in datas.keys()):
+        data=datas
+        Div_Bio=SubElement(root,"div")
+        Div_Bio.set("xml:id",id_auth+"_bio")
+        Div_Bio.set("n",str(n))
+        for bio_k in data["bio_data"].keys():
+            print(bio_k)
+            if "bio_content" in data["bio_data"][bio_k].keys():
+                text=SubElement(Div_Bio,"text")
+                text.set('xml:id', id_auth+'_bio_auteur_'+bio_k) ################### ID AUTEUR
+                text.set('ref', data["bio_data"][bio_k]["ref"]) ################### URL ILE EN ILE
+                if "hand" in data["bio_data"][bio_k].keys() and data["bio_data"][bio_k]["hand"]!="":
+                    text.set('hand',data["bio_data"][bio_k]["hand"] ) ################### WRITEN BY
+                for row in data["bio_data"][bio_k]["bio_content"]:
+                    text.append(ElementTree.fromstring('<p>'+row.replace("&","&amp;")+'</p>'))
+        n=n+1
+    if("biblio_data" in datas.keys()):
+        data=datas
+        Div_Biblio=SubElement(root,"div")
+        Div_Biblio.set("xml:id",id_auth+"_biblio")
+        Div_Biblio.set("n",str(n))
+        for biblio_k in data["biblio_data"].keys():
+            text=SubElement(Div_Biblio,"div")
+            text.set('xml:id', id_auth+'_biblio_auteur_'+biblio_k) ################### ID AUTEUR
+            text.set('ref', data["biblio_data"][biblio_k]["ref"])
+            for list_name in data["biblio_data"][biblio_k]["content"].keys():
+                new_list=SubElement(text,"list")
+                new_list.set("subtype",list_name.lower())
+                for prod_k in data["biblio_data"][biblio_k]["content"][list_name]:
+                    item = SubElement(new_list,"item")    
+                    item.text=prod_k
+        n=n+1
+    if("web_data" in datas.keys()):
+        data=datas["web_data"]
+        Div_Web=SubElement(root,"div")
+        Div_Web.set("xml:id",id_auth+"_web")
+        Div_Web.set("n",str(n))
+        for web_k in datas["web_data"].keys():
+            new_list=SubElement(Div_Web,"list")
+            new_list.set("type",web_k.lower())
+            for element in datas["web_data"][web_k]:
+                item = SubElement(new_list,"item")
+                item.text=element["title"]
+                item.set("ref",element["url"])
+
+
+                           
+    return root
         
+def getMaster(list_file):
+    root = Element('master')
+    root.set('xmlns:xi', 'http://www.w3.org/2001/XInclude')
+    root.set('xml:lang', 'fr')
+    root.set('xml:id','master_auteurs') ###################
+    for file in list_file:
+        ref=SubElement(root,"xi:include")
+        ref.set("ref",file)
+    return root

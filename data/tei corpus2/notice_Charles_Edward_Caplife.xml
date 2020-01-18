@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Charles_Edward_Caplife_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Charles_Edward_Caplife" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Charles Edward Caplife</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Charles_Edward_Caplife_fiche_autorite">
+  <div n="1" xml:id="Charles_Edward_Caplife_fiche">
     <person ana="Charles_Edward_Caplife" sex="na">
       <persName>Charles Edward Caplife</persName>
       <langKnowledge>
@@ -30,5 +30,28 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Charles_Edward_Caplife_bio">
+    <text ref="http://www.spla.pro/fiche.personne.charles-edward-caplife.6256.html" xml:id="Charles_Edward_Caplife_bio_auteur_spla">
+      <p>
+        Charles Edward Caplife est né en 1960, au Cap-Haïtien, 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il a fait ses études primaires chez les Frères de l'Instruction Chrétienne, ses études secondaires au Collège Notre-Dame de sa ville natale. Là, il s'intéressa au théâtre, à la comédie plus spécialement ; il s'associa avec quelques camarades de classe et amis - notamment Paul-Addy Calixte, Vody Nöel et Hervé 
+        <placeName ana="Lamour">Lamour</placeName>
+         - pour co-écrire la série de pièces Libordjen, personnage haut en couleur dont on retrouve le nom dans L'Île Rebelle. En 1980, il entra à l'Université d'Etat d'
+        <placeName ana="Haiti">Haïti</placeName>
+        , où il fit des études de génie civil, de mathématiques et de physique quantique. Son diplôme d'ingénieur obtenu, il arriva en 
+        <placeName ana="France">France</placeName>
+         vers le milieu des années 1980. Il y a fait des études d'informatique et a obtenu son doctorat en Sciences de la Conception à l'INSA de 
+        <placeName ana="Lyon">Lyon</placeName>
+        . Il a travaillé pour des laboratoires de recherche, notamment à l'élaboration de dictionnaires multilingues ; ce qui lui a permis de côtoyer linguistes et terminologues. Il a créé également une société d'informatique spécialisée dans l'intelligence artificielle (extraction de connaissances à partir d'interviews d'experts humains ou de livres). Touche à tout, il a été chef de projet chez plusieurs éditeurs de logiciels. Amateur de sciences, de musique* et de littérature, il a décidé de s'attaquer au roman, renouant ainsi avec l'époque où il écrivait et montait des pièces de théâtre jouées dans sa ville natale.--------------------------------------------------------------------------------* Peut-être musicien lui-même: la légende dit qu'il possède un piano et un violon, dont il aurait osé tirer trois notes en présence d'amis d'enfance et de leurs enfants.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Charles_Edward_Caplife_biblio"/>
+  <div n="4" xml:id="Charles_Edward_Caplife_web">
+    <list type="spla">
+      <item ref="http://caplife.free.fr">Website Charles Edward Caplife </item>
+    </list>
   </div>
 </TEI>

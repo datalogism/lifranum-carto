@@ -1,25 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Michele_Voltaire_Marcelin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Michele_Voltaire_Marcelin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Mich�le Voltaire Marcelin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Michèle Voltaire Marcelin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Michele_Voltaire_Marcelin_fiche_autorite">
+  <div n="1" xml:id="Michele_Voltaire_Marcelin_fiche">
     <person ana="Michele_Voltaire_Marcelin" sex="na">
-      <persName>Mich�le Voltaire Marcelin</persName>
+      <persName>Michèle Voltaire Marcelin</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Michele_Voltaire_Marcelin_bio">
+    <text ref="http://ile-en-ile.org/voltaire-marcelin/" xml:id="Michele_Voltaire_Marcelin_bio_auteur_ile_en_ile">
+      <p>
+        Poète, peintre et comédienne, 
+        <persName ana="Michele_Voltaire_Marcelin">Michèle Voltaire Marcelin</persName>
+         naît en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1955. Enfant heureuse et sauvage, elle grandit au bord de la 
+        <placeName ana="Mer">Mer</placeName>
+         entre les champs de canne à sucre et de vétiver. Dans la bibliothèque de son père, elle choisit des livres au hasard, se prend de belle passion pour la poésie et le théâtre et commence à se raconter des histoires en permanence.
+      </p>
+      <p>
+        Son adolescence à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         sera tourmentée : elle déteste l’univers carcéral de l’école et son existence privilégiée face à la réalité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         l’angoisse. Elle se sent impuissante, perd l’abandon et l’insouciance de l’enfance et se replie sur elle-même.
+      </p>
+      <p>
+        Au point de non-retour, elle sera sauvée par la générosité d’un frère qui l’invite à le rejoindre à 
+        <placeName ana="Santiago_Du_Chili">Santiago du Chili</placeName>
+        . Arrêtée pendant le coup d’état contre Allende en 1971, elle est prisonnière dans le Stade National. Relâchée, elle se retrouvera à 
+        <placeName ana="New_York">New York</placeName>
+         où elle rencontre un pianiste de jazz qui sera son compagnon pendant une vingtaine d’années.
+      </p>
+      <p>
+        Universitaire, elle renoue avec le théâtre au Leonard 
+        <placeName ana="Davis">Davis</placeName>
+         Center for Performing Arts du City College. Années de bohème. Les temps sont difficiles. En 1990, son mari est assassiné d’une balle au coeur. Elle survit à cette tragédie, se consacre à son fils, à la peinture, au théâtre, à l’écriture ; La Désenchantée sera publié en 2005. Le temps 
+        <placeName ana="Passe">Passe</placeName>
+        , l’espoir revient. La rencontre amoureuse de son deuxième mari galvanise l’écriture – de poèmes cette fois – et en 2009 Lost and Found et Amours et 
+        <placeName ana="Bagatelles">Bagatelles</placeName>
+         seront publiés par les éditions du CIDIHCA, suivis de la traduction en espagnol de La Désenchantée (La Desencantada).
+      </p>
+      <p>
+        Les textes connaîtront un succès critique et seront loués pour leur lyrisme et leur incandescence. En 2010, Amours et 
+        <placeName ana="Bagatelles">Bagatelles</placeName>
+         est traduit en espagnol par la 
+        <placeName ana="Maison">Maison</placeName>
+         d’édition cubaine ALBA comme Amores y cosas sin importancia. L’Université de Vassar inscrit La Désenchantée dans son cursus d’Introduction à la Littérature au printemps 2012.
+      </p>
+      <p>
+        Un grand choix des poèmes de 
+        <persName ana="Michele_Voltaire_Marcelin">Michèle Voltaire Marcelin</persName>
+         fait partie des anthologies poétiques 
+        <placeName ana="Terre">Terre</placeName>
+         de Femmes aux Éditions Doucey et Cahier 
+        <placeName ana="Haiti">Haïti</placeName>
+         de la RAL’M (Revue d’Art, Littérature et Musique). On peut aussi entendre sa voix sur les enregistrements sonores de La Désenchantée (texte complet) et Lost and Found (une vingtaine de poèmes choisis du livre).
+      </p>
+      <p>
+        Seule en scène ou accompagnée par des musiciens de jazz, à 
+        <placeName ana="La_Havane">La Havane</placeName>
+        , 
+        <placeName ana="Montreal">Montréal</placeName>
+        , 
+        <placeName ana="Paris">Paris</placeName>
+         ou 
+        <placeName ana="New_York">New York</placeName>
+        , faisant sienne le credo de Ferré : « La poésie est une clameur; elle doit être entendue comme la musique… », 
+        <persName ana="Michele_Voltaire_Marcelin">Michèle Voltaire Marcelin</persName>
+         partage son temps entre l’écriture, la peinture et la transmission orale de la poésie sur scène.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Michele_Voltaire_Marcelin_biblio">
+    <div ref="http://ile-en-ile.org/voltaire-marcelin/" xml:id="Michele_Voltaire_Marcelin_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« True Life ». Trans. Nicole Ball. Haiti Noir 2: The Classics. Ed. Edwidge Danticat. New York: Akashic, 2014: 176-186.</item>
+      </list>
+      <list subtype="en español">
+        <item>Amores y cosas sin importancia. La Habana: Arte y Literatura, 2010.</item>
+      </list>
+      <list subtype="récit">
+        <item>La Désenchantée. Montréal: CIDIHCA, 2005.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Lost and Found. Montréal: CIDIHCA, 2009.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>La Désenchantée (texte complet du recueil). CD audio, Leo Coltrane, Prod. Brooklyn: Ishlab Studios, 2006.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>Sélections et poésie, prose et images. Anthologie de la poésie haïtienne (Cahier Haiti). Mazères: Le Chasseur abstrait, 2009: 157-188.</item>
+      </list>
+      <list subtype="sur scène, sur l’écran (sélections)">
+        <item>Se Met Kò. Film réalisé par Patricia Benoit, 1989.</item>
+      </list>
+      <list subtype="sur michèle voltaire marcelin">
+        <item>Divers articles critiques sur l’oeuvre de Michèle Voltaire Marcelin et des entretiens avec l’auteure ont été publiés dans divers journaux (Le Matin et Le Nouvelliste, quotidiens d’Haïti), et sur des sites web et blogues (par ex., Montray Kreyol, Oprah Radio, Red Keyz Media, La Ventana de la Casa de las Américas). Une sélection se trouve dans les liens ci-dessous.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Michele_Voltaire_Marcelin_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/michele-voltaire-marcelin-5-questions-pour-ile-en-ile/">Michèle Voltaire Marcelin, 5 Questions pour Île en île</item>
+      <item ref="http://www.lidous.net/">La dous ki vyen</item>
+      <item ref="http://www.lechasseurabstrait.com/revue/spip.php?page=sommairex&amp;num=60">Cahier Haïti</item>
+      <item ref="http://www.oprah.com/oprahradio/Haitian-Poet-Michele-Voltaire-Marcelin-Audio">Haitian Poet Michele Voltaire Marcelin</item>
+      <item ref="http://www.pbs.org/newshour/indepth_coverage/entertainment/poetry/profiles/poet_marcelin.html">Michèle Voltaire Marcelin</item>
+      <item ref="http://www.pen.org/author.php/prmAID/791">Michèle Voltaire Marcelin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=76230">Amour ou bagatelle : selon l’humeur !</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=76230">Amour ou bagatelle : selon l’humeur !</item>
+      <item ref="http://www.redkeyzmedia.com/index.php/component/k2/item/248-haitian-poet-mich%C3%A8le-voltaire-marcelin">Haitian Poet Michèle Voltaire Marcelin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74574">Vous avez dit « Poésie érotique » ?</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=24703">Un enchantement</item>
+      <item ref="http://www.gensdelacaraibe.org/index.php?option=com_content&amp;view=article&amp;id=4426:le-festival-de-gwoka-jazz-invite-une-conteuse-haitienne-residant-a-new-york&amp;catid=59&amp;Itemid=200006">Le festival de gwoka-jazz invite Michèle Voltaire Marcelin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=25917">L’éveil du souvenir</item>
+      <item ref="http://laventana.casa.cult.cu/modules.php?name=News&amp;file=article&amp;sid=6265">Todas esas « cosas sin importancia »</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=19907">Vie et mort de l’enfance</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=19907">Ce que poésie veut dire</item>
+      <item ref="http://www.ecured.cu/index.php/Amores_y_cosas_sin_importancia">Amores y cosas sin importancia</item>
+      <item ref="http://www.ecured.cu/index.php/Amores_y_cosas_sin_importancia">Amores y cosas sin importancia</item>
+      <item ref="http://geoffreyphilp.blogspot.com/2010/11/in-my-own-wordsmichele-voltaire.html">In My Own Words… Michèle Voltaire Marcelin</item>
+      <item ref="http://www.granma.cu/ingles/culture-i/17feb-La-cabana.html">Special guests launch new books at La Cabaña</item>
+    </list>
   </div>
 </TEI>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Verly_Dabel_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Verly_Dabel" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Verly Dabel</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Verly_Dabel_fiche_autorite">
+  <div n="1" xml:id="Verly_Dabel_fiche">
     <person ana="Verly_Dabel" sex="na">
       <persName>Verly Dabel</persName>
       <langKnowledge>
@@ -30,5 +30,96 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Verly_Dabel_bio">
+    <text hand="Emmelie Prophète" ref="http://ile-en-ile.org/dabel/" xml:id="Verly_Dabel_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         est un collectionneur. Noctambule. Chercheur d’or. Collectionneur de moments, de mots, d’émotions.
+      </p>
+      <p>
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         est né le 27 février 1964 à 
+        <placeName ana="Ounanaminthe">Ounanaminthe</placeName>
+        , dans le Nord-
+        <placeName ana="Est_D’Haiti">Est d’Haïti</placeName>
+        . Il est détenteur d’une licence en gestion des affaires de l’INAGHEI (Institut National d’Administration de Gestion et des Hautes Études Internationales) et d’une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en gestion internationale de l’université des West Indies (
+        <placeName ana="Jamaique">Jamaïque</placeName>
+        ).
+      </p>
+      <p>
+        Comme un pont pour entrer en littérature, 
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         est passé de l’essai, aux nouvelles. À la 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         disait 
+        <persName ana="Georges_Anglade">Georges Anglade</persName>
+        .
+      </p>
+      <p>
+        Dans La crise 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , quelle(s) issue(s), publié en 1993, Dabel tente d’identifier et d’analyser les raisons du coup d’État qui a renversé en 1991 le président élu, Jean-
+        <persName ana="Bertrand_Aristide">Bertrand Aristide</persName>
+        . Il 
+        <placeName ana="Passe">Passe</placeName>
+         aussi au peigne fin les voies de sortie de crise, en prônant la condition sine qua non de stablilisation durable : la mobilisation des élites au profit des masses défavorisées. Deux ans après (1995), 
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         publie Le prix d’un coup d’État. Le retour d’Aristide en 1994 permet à Dabel un temps des bilans pour analyser les conséquences du coup d’État de 1991 et les leçons à en tirer, non sans rajouter des réflexions sur les conséquences de la globalisation dans les pays sous-développés. Un travail de perspicacité et de jugement d’essayiste, juste dans sa ligne directrice et bellement écrit.
+      </p>
+      <p>
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         est l’auteur de plusieurs recueils de nouvelles, dont Histoires sur mesure (1998), Zérotolérance (2004) et La Petite Persécution (2007). 
+        <persName ana="Georges_Anglade">Georges Anglade</persName>
+        , en 2009, parle en ces termes de 
+        <persName ana="Verly_Dabel">Verly Dabel </persName>
+        : « L’imagination et l’écriture de la 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         sont au point chez 
+        <persName ana="Verly_Dabel">Verly Dabel </persName>
+        ; toutes les composantes de ce genre se retrouvent en filigrane chez l’auteur, c’est un lodyanseur-né dont la bonne plume vient favoriser le passage à l’écrit ».
+      </p>
+      <p>
+        L’or est partout dans les livres de 
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+        . Il dégouline de la salive des politiques, des femmes, des hommes, des chroniqueurs de radio. 
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         tend l’oreille et la feuille blanche. Il fait rire, pleurer, réfléchir. Son humour est noir, quelquefois dérangeant. Dérangeant parce qu’il est souvent difficile de se sentir observé, lu, écrit. Il est en dehors des cercles. Il y en a qui sont comme ça. À part le Centre PEN, l’association des écrivains dont il est le trésorier impitoyable et jaloux.
+      </p>
+      <p>
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         vit et travaille à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Son dernier recueil de nouvelles, Éloge des ténèbres est sorti en 2012 chez Mémoire d’encrier.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.verly-dabel.32108.html" xml:id="Verly_Dabel_bio_auteur_spla">
+      <p>
+        <persName ana="Verly_Dabel">Verly Dabel</persName>
+         est un collectionneur. Noctambule. Chercheur d'or. Collectionneur de moments, de mots, d'émotions. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Verly_Dabel_biblio">
+    <div ref="http://ile-en-ile.org/dabel/" xml:id="Verly_Dabel_biblio_auteur_ile_en_ile">
+      <list subtype="recueils de nouvelles">
+        <item>Histoires sur mesure. Port-au-Prince: Imprimeur II, 1998.
+« La raison du plus fou », « La riposte du Sergent Whiteman », « Vierge miracle », « Coup de foudre pour Haïti », « La calvaire de Martha », « La dernière nuit », « Complot contre la Sûreté de la Star », « Ras-le-bol », « La Sainte Colère de la Sainte Vierge ».</item>
+      </list>
+      <list subtype="essais">
+        <item>La crise haïtienne, quelle(s) issue(s). Montréal-Est: Imprimerie Arnégraph, 1993.</item>
+      </list>
+      <list subtype="texte paru dans un ouvrage collectif">
+        <item>« Cric Crac Compère; Lettre à Georges Anglade ». Bonjour Voisine,  sous la direction de Marie Hélène Poitras. Montréal: Mémoire d’encrier, 2013: 419-422.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Verly_Dabel_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/verly-dabel-le-cure-dans-ses-petits-souliers/">Le curé dans ses petits souliers</item>
+      <item ref="http://memoiredencrier.com/verly-dabel/">Verly Dabel</item>
+    </list>
   </div>
 </TEI>

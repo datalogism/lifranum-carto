@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Fabian_Charles_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Fabian_Charles" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Fabian Charles</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Fabian_Charles_fiche_autorite">
+  <div n="1" xml:id="Fabian_Charles_fiche">
     <person ana="Fabian_Charles" sex="na">
       <persName>Fabian Charles</persName>
       <langKnowledge>
@@ -29,7 +29,56 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Fabian_Charles_bio">
+    <text ref="http://www.spla.pro/fiche.personne.fabian-charles.31432.html" xml:id="Fabian_Charles_bio_auteur_spla">
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Fabian Charles a à peine une vingtaine d'années, mais cela est une pure supposition… Il n'aime pas donner sa date de naissance ; on dirait même qu'il ne veut qu'on sache rien de lui en tant que personne : cela se base sur un choix idéologique, celui dicté par la conviction qu'on n'est pas déterminé par son âge, son sexe ou son origine, ce ne sont pas ces éléments qui font l'identité d'une personne. Alors exit pour le commentateur toute tentative d'expliquer, interpréter, conjecturer l'œuvre à partir des éléments de contexte qui lui sont extérieurs. Ambitieux projet d'écrivain, qui se pose devant ses lecteurs et ses critiques, même pas nu comme tant d'auteurs soi disant épris de la volonté de dépouillement mais comme transparent, invisible, anonyme… Obsession justement qui se transcrit dans le titre de son recueil Anonymat, en cours de publication chez L'
+        <placeName ana="Harmattan">Harmattan</placeName>
+         (extraits et chronique dans le numéro de mai de la revue en ligne Francopolis en ligne Francopolis : et Francopolis . Mais surtout obsession directement perceptible dans son projet poétique, qui fait tabula rasa des thèmes, des sentiments, des lieux communs, tout en les utilisant comme dans les techniques de collage, de citations, de jeux de mots. Brouillage de cartes efficace qui aboutit à donner de l'homme contemporain – sans distinction de sexe ou plutôt, dans la confusion des sexes, sans distinction d'origine, de lieu d'habitation, de marques culturelles mais plutôt dans la simultanéité des prédéterminations – l'image révélatrice d'un patchwork désarticulé, d'un pantin mécanique, d'une créature au fond paumée, au bord d'une autodestruction annoncée. D'où cette écriture hachée, entrecoupée, brutale, corrosive, qui renouvelle courageusement le concept de poésie, tout en perpétuant le filon puissant des grands révoltés des années de l'après-guerre, avec une source toujours vive de recherche et d'apprentissage dans la parole de l'archipel 
+        <persName ana="Rene_Char">René Char</persName>
+        . Oui, en effet, et très significativement : le poète est l'un des fondateurs et piliers du blog, ensuite de la revue en ligne, pour ne pas dire carrément du mouvement poétique Parole en archipel, qu'il anime avec Thélyson Orélien, le 
+        <placeName ana="Directeur">Directeur</placeName>
+         de la publication, et avec 
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+        .Tous les trois, poètes d'une nouvelle avant-garde qui se veut non pas 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , non pas insulaire au sens large (avec tout ce que le concept d'île comporte comme métaphorique, métaphysique même), mais planétaire (Parole en Archipel). La revue ne se sous-intitule-t-elle pas « Paroles en Îles-Monde, pour déclasser toutes aires géographiques » ? Étudiant en philosophie et sociologie à l'Université 
+        <placeName ana="Paris">Paris</placeName>
+         IV, Sorbonne, poète et revuiste, Fabian Charles est aussi journaliste d'opinion, son blog (Fabian Charles) lui sert de moyen pour partager une façon originale d'interpréter l'actualité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , avec à l'appui des coups d'œil sur l'étranger. Il a une précocité étonnante dans la compréhension des faits d'histoire, de politique et de société, qui lui vient peut-être d'une longue ascendance familiale. Et nous voilà tomber dans le travers à évier : expliquer… Mais peut-on faire abstraction de tout ? Le poète lui-même nous permet quelque exception, puisque, conscient du poids des ancêtres, il a bien voulu nous révéler un peu de son secret, qui est peut-être tout simplement celui d'être né vieux. Autrement dit, d'avoir à un point extrême assumé une conscience collective, étant, par son hérédité familiale, impliqué dans toute l'histoire récente de son pays sur plusieurs générations, alors que par sa formation culturelle, il prend ses racines dans toute la francophonie littéraire des 5 continents… Donnons-lui la parole, comme pour jeter un petit coup d'œil sous la pèlerine d'invisibilité… « Ma vie est composé de si peu d'éléments concrets, je sens pourtant qu'il y a longtemps que je vis. J'ai été élevé dans une grande famille très chrétienne, mais aussi une famille où pratiquement chacun de mes parents ont occupé de grandes fonctions.Du coté de ma mère mon arrière grand père a refusé le poste de président qu'on lui avait proposé et qu'il était censé occuper après un coup d'état, puisqu'il était président de la cour de cassation et que c'était lui la personne légale qui devrait remplacer le président démis. Son fils a été ministre de tous les présidents 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         de la fin du vingtième siècle, et surtout de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , il me racontait chaque soir autour d'un verre de lait chaud et de pain toastés ce qui se passait à cette époque.Du coté de mon père une famille nombreuse qui a surtout vécu dans les provinces et qui ont migré vers la capitale après que mon grand père, qui était préfet de la petite ville de l'Anse à Veau, a été évacué par un homme extrêmement corrompu. Mon père lui est capital dans mon histoire parce qu'il a été un leader de gauche qui a participé à la chute de Duvalier, qu'il était d'abord un fervent partisan d'Aristide, qu'il est devenu l'un de ses ministres rebelles et qui a connu la grande déception comme tant d'autres. Les femmes dans la famille étaient surtout de ferventes défenseuses de la chrétienté et ont connu de grandes réussites académiques, dans le professorat aussi.Il y avait beaucoup de débat dans la famille et j'ai connu beaucoup de mouvements sociaux… » C'est le profil d'un chaman qui se reconstitue des plis de son discours poétique, de son vécu, de son être composite et universel. Suivons-le ! Au-delà de la déconstruction d'une image de l'homme arrivé au bout de sa déchéance, car vidé de tout sens, peut-être nous révélera-t-il, avec la vigueur d'un tailleur de pierre, un sens nouveau. Fabian Charles a publié son premier recueil, Séquences d'une confusion nue, aux Editions Zémès / Page Ailée, livre salué par 
+        <persName ana="Yanick_Lahens">
+          Yanick 
+          <placeName ana="Lahens">Lahens</placeName>
+        </persName>
+         et Jean 
+        <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+        . Certains de ses textes ont été publiés dans des anthologies ou recueils collectifs, comme Poètes pour 
+        <placeName ana="Haiti">Haïti</placeName>
+         paru chez L'
+        <placeName ana="Harmattan">Harmattan</placeName>
+         (collection Témoignage poétique, 2011, sous la direction de Dana Shishmanian et Khal Torabully). Le recueil Anonymat, à paraître aux éditions de L'
+        <placeName ana="Harmattan">Harmattan</placeName>
+        , est sous presse. Dana Shishmanian En Île-de-
+        <placeName ana="France">France</placeName>
+        , le 14 juillet 2012.L'
+        <placeName ana="Harmattan">Harmattan</placeName>
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Fabian_Charles_biblio"/>
+  <div n="4" xml:id="Fabian_Charles_web">
+    <list type="spla">
+      <item ref="http://fabiancharles.blogspot.fr">Website Fabian Charles </item>
+    </list>
   </div>
 </TEI>

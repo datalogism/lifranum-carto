@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Yanick_Jean_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Yanick_Jean" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Yanick Jean</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Yanick_Jean_fiche_autorite">
+  <div n="1" xml:id="Yanick_Jean_fiche">
     <person ana="Yanick_Jean" sex="na">
-      <persName>
-        <surname source="bnf">Yanick</surname>
-        <forename source="bnf">Jean</forename>
-      </persName>
+      <persName>Yanick Jean</persName>
       <idno type="BNF">
         cb16267014z#about
         <g ref="http://data.bnf.fr/ark:/12148/cb16267014z#about"/>
@@ -40,7 +37,104 @@
       </residence>
       <occupation source="spla">Peintre</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Yanick_Jean_bio">
+    <text ref="http://ile-en-ile.org/jean/" xml:id="Yanick_Jean_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         est née le 10 mai 1946 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Elle y est décédée le 10 juin 2000. 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         était peintre, décoratrice, poète et romancière. Elle dit au cours d’un entretien (avec 
+        <persName ana="Joelle_Vitiello">Joëlle Vitiello</persName>
+         en 1997) avoir toujours eu le goût d’écrire et de créer.
+      </p>
+      <p>
+        Après une enfance bourgeoise mais difficile avec ses parents, 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         se trouve au cœur d’un groupe d’intellectuels à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Elle vit aux États-Unis avec  époux le dramaturge 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         à partir de 1968, à 
+        <placeName ana="New_York">New York</placeName>
+        . Elle participe aux débuts des aventures de la troupe théâtrale composée d’exilés à 
+        <placeName ana="New_York">New York</placeName>
+        , la troupe 
+        <placeName ana="Kouidor">Kouidor</placeName>
+        . Elle contribue à la réalisations de certains décors de scène. Elle se forme à la peinture. Après son divorce, elle demeure à 
+        <placeName ana="New_York">New York</placeName>
+         jusqu’en 1983 quand elle rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Son premier recueil de prose poétique 
+        <persName ana="Recommencer_Paule">Recommencer Paule</persName>
+         paraît en 1982. Le second, La fidélité non plus… est publié en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1986; avec un poème-préface de 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+        , il reprend certains thèmes du premier recueil. 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         a également écrit un roman encore inédit à ce jour, Joyeuse des distances, qu’elle décrit dans son entretien comme «un roman du roman».
+      </p>
+      <p>
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         était également décoratrice et a continué de peindre. Ses toiles sont peu connues, mais elles ont été exposées dans diverses galeries en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , à 
+        <placeName ana="Santa_Barbara">Santa Barbara</placeName>
+         et à 
+        <placeName ana="New_York">New York</placeName>
+        . Son écriture surréaliste répond à la fois aux souffles de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de plusieurs mouvements (spiralique, surréaliste, baroque) et aux mouvements de l’écriture féminine et féministe (dans la lignée d’
+        <persName ana="Helene_Cixous">Hélène Cixous</persName>
+        , 
+        <persName ana="Nicole_Brossard">Nicole Brossard</persName>
+        , 
+        <persName ana="Monique_Wittig">Monique Wittig</persName>
+         par exemple). Il existe une certaine correspondance entre ses toiles – représentant des femmes déchirées, multiples – et son écriture. L’œuvre de 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         est difficile à découvrir, voire à trouver. Elle a fait l’objet d’un grand silence en peinture comme en écriture. En 2003, les Éditions Mémoire d’encrier à 
+        <placeName ana="Montreal">Montréal</placeName>
+         rééditent La fidélité non plus…, ce qui contribuera à la faire connaître à sa juste mesure du grand public.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.yanick-jean.14123.html" xml:id="Yanick_Jean_bio_auteur_spla">
+      <p>
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         est née le 10 mai 1946 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Elle y est décédée le 10 juin 2000. 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+         était peintre, décoratrice, poète et romancière. Elle dit au cours d'un entretien (avec 
+        <persName ana="Joelle_Vitiello">Joëlle Vitiello</persName>
+         en 1997) avoir toujours eu le goût d'écrire et de créer. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Yanick_Jean_biblio">
+    <div ref="http://ile-en-ile.org/jean/" xml:id="Yanick_Jean_biblio_auteur_ile_en_ile">
+      <list subtype="roman">
+        <item>Joyeuse des distances. Inédit.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Recommencer Paule. Port-au-Prince: Éditions Fardin, 1982.</item>
+      </list>
+      <list subtype="sur l’oeuvre de yanick jean">
+        <item>Vitiello, Joëlle. « Yanick Jean: une femme totale capitale. » Préface à La fidélité non plus…. Montréal: Mémoire d’encrier, 2003: 7-16.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Yanick_Jean_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/yanick-jean-la-fidelite-non-plus/">La fidélité non plus</item>
+      <item ref="http://ile-en-ile.org/saint-eloi-francophonie/">L’Intelligence est inquiète</item>
+    </list>
   </div>
 </TEI>

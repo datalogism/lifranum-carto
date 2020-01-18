@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Emeline_Michel_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Emeline_Michel" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Emeline Michel</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Emeline_Michel_fiche_autorite">
+  <div n="1" xml:id="Emeline_Michel_fiche">
     <person ana="Emeline_Michel" sex="na">
       <persName>Emeline Michel</persName>
       <langKnowledge>
@@ -32,5 +32,44 @@
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Auteur-compositeur/trice</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Emeline_Michel_bio">
+    <text ref="http://www.spla.pro/fiche.personne.emeline-michel.6661.html" xml:id="Emeline_Michel_bio_auteur_spla">
+      <p>
+        Née en 1967 à 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , Emeline Michel s'initie à la musique en chantant du gospel dans l'église de son quartier. A douze ans, elle enregistre déjà sa première chanson, mais c'est grâce à un concours de chant qu'elle peut quitter son île pour parfaire son éducation musicale au Detroit Jazz Center, où elle côtoie Aretha Franklin et Anita Baker. C'est d'ailleurs à leur contact qu'elle décide de faire carrière dans la chanson.De retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , Emeline Michel sort en 1987 un premier album intitulé Douvanjou ka leve (Que le soleil se lève). En septembre 1991 le coup d'état qui secoue 
+        <placeName ana="Haiti">Haïti</placeName>
+         l'oblige à faire un choix difficile: rester ou partir afin d'être en mesure de poursuivre une carrière internationale, car la chanteuse est censée se produire au Zénith avec Mory Kante en octobre de la même année. Elle décide de partir et s'installe à 
+        <placeName ana="Paris">Paris</placeName>
+         puis à 
+        <placeName ana="Montreal">Montréal</placeName>
+        .A mesure des concerts qu'elle donne en 
+        <placeName ana="France">France</placeName>
+        , en 
+        <placeName ana="Belgique">Belgique</placeName>
+        , mais aussi aux Etats-Unis, au 
+        <placeName ana="Canada">Canada</placeName>
+        , au 
+        <placeName ana="Japon">Japon</placeName>
+         et en 
+        <placeName ana="Afrique">Afrique</placeName>
+        , sa notoriété grandit. En 1999, après avoir enregistré sous des labels français, canadiens et américains, elle retourne sur son île et fonde sa 
+        <placeName ana="Maison">Maison</placeName>
+         de production afin de produire une musique correspondant mieux à sa vision artistique. En 2000 elle sort Cordes et Âmes, un album qui sera superbement accueilli par la scène caraïbéenne.La chanteuse vit aujourd'hui avec son fils et son mari à 
+        <placeName ana="New_York">New York</placeName>
+        , une ville qu'elle considère comme un endroit stratégique pour exercer sa profession. Ses nombreux albums (Douvanjou Ka Leve en 1987, Flanm en 1988, Pa Gen Manti Nan Sa en 1990, Tout Mon Temps en 1990, Rhum &amp; Flamme en 1993, Ban'm Pase en 1996, Cordes et Ames en 2000 et Rasin Kreyol en 2005) et ses succès internationaux tels que A-K-I-K-O et Mwen Bezwen font d'elle une artiste à ne pas quitter des yeux.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Emeline_Michel_biblio"/>
+  <div n="4" xml:id="Emeline_Michel_web">
+    <list type="spla">
+      <item ref="http://www.emeline-michel.com">Website Emeline Michel </item>
+    </list>
   </div>
 </TEI>

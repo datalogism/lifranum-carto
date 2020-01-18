@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Roger_Dorsinville_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Roger_Dorsinville" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Roger Dorsinville</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Roger_Dorsinville_fiche_autorite">
+  <div n="1" xml:id="Roger_Dorsinville_fiche">
     <person ana="Roger_Dorsinville" sex="na">
       <persName>Roger Dorsinville</persName>
       <death source="ile_en_ile_auto">
@@ -33,5 +33,481 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Roger_Dorsinville_bio">
+    <text ref="http://ile-en-ile.org/dorsinville_roger/" xml:id="Roger_Dorsinville_bio_auteur_ile_en_ile">
+      <p>
+        Homme politique et écrivain, né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 11 
+        <placeName ana="Mars">Mars</placeName>
+         1911, où il est décédé le 12 janvier 1992, 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         a été militaire, évangéliste, enseignant, journaliste, chef de cabinet présidentiel, ainsi que consul, ministre et ambassadeur dans différents pays d’
+        <placeName ana="Amerique_Du_Sud">Amérique du Sud</placeName>
+         et au 
+        <placeName ana="Senegal">Sénégal</placeName>
+        , avant de mettre fin à sa carrière politique en 1965. Il vécut en exil au 
+        <placeName ana="Liberia">Libéria</placeName>
+         et au 
+        <placeName ana="Senegal">Sénégal</placeName>
+         jusqu’en 1986, année de son retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , rapportant avec lui des travaux d’ethnologie sur l’
+        <placeName ana="Hinterland">Hinterland</placeName>
+         libérien et une œuvre littéraire considérable rédigée à 
+        <placeName ana="Dakar">Dakar</placeName>
+         recouvrant la critique et la création.
+      </p>
+      <p>
+        Issu d’une famille de journalistes, d’historiens et de fonctionnaires, 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         fut initié à l’écriture sous la tutelle de son père Hénec, 
+        <placeName ana="Directeur">Directeur</placeName>
+        -fondateur du 
+        <placeName ana="Journal">Journal</placeName>
+         et de la revue L’Essor. Il débuta sa carrière littéraire avec Barrières (1945), une pièce dont le sujet, le préjugé de couleur, fit scandale à l’époque. Cette première œuvre, reflétant les préoccupations sociales de l’auteur, déjà manifestées dans sa pratique d’un journalisme de combat, introduit un lien entre le social et le littéraire qui parcourt son œuvre entière. Un long poème lyrique, Pour Célébrer la 
+        <placeName ana="Terre">Terre</placeName>
+        , suit en 1955. Animé par un rythme incantatoire et syncopé, ce poème est un hymne à la 
+        <placeName ana="Terre">Terre</placeName>
+         et aux hommes et femmes qui la fécondent. Puisant son inspiration dans l’attachement charnel du paysan à la 
+        <placeName ana="Terre">Terre</placeName>
+        , il est une invitation à la fête et à la danse, une forme d’acte propitiatoire servant à exorciser à l’avance l’avènement de la dictature des Duvalier, deux ans plus tard.
+      </p>
+      <p>
+        Loin de son pays natal, 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         fait paraître Le Grand devoir (1962), un long poème épique évoquant l’histoire tragique du Nouveau Monde marquée par l’esclavage et la dépossession pour situer 
+        <placeName ana="Haiti">Haïti</placeName>
+         désormais sous la férule duvaliériste. Le thème de la 
+        <placeName ana="Terre">Terre</placeName>
+         est repris, mais comme lieu de promesses dégradées; la voix du poète se fait messianique, inscrivant le langage dans la mouvance d’un bien collectif à préserver. Que l’image de la 
+        <placeName ana="Terre">Terre</placeName>
+         en soit une de paradis perdu, d’un mythe dévalorisé, constitue d’autre part la trame sous-jacente de l’essai consacré au père fondateur d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+         (1965). L’analyse qui y est menée de cette icône du patrimoine haïtien a pour objet de retracer un présent dégradé à sa source par la symbolique de la « trahison du père ». S’autorisant d’une métaphore à la fois biblique et biologique récurrente dans son œuvre romanesque, l’auteur attribue les malheurs d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , entre autres, à un héritage dévoyé depuis ses origines par la faute de ses pères fondateurs (voir « 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         ou le langage des commencements », Postface à Marche arrière).
+      </p>
+      <p>
+        Si, dans un premier temps, l’œuvre littéraire de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         porte sur la formation sociale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         vue du dedans et, progressivement, de l’extérieur, un second, de 1973 à 1986, déplace, sinon élargit, cet éclairage vers l’
+        <placeName ana="Afrique">Afrique</placeName>
+         où l’auteur établit résidence dès 1961. Il y renouvelle son inspiration; il y trouve une nouvelle naissance (« That is where I was born », dit-il en entrevue, 
+        <placeName ana="Callaloo">Callaloo</placeName>
+        ). Cette période est la plus féconde de son œuvre. 
+        <persName ana="Jean_Jonassaint">Jean Jonassaint</persName>
+         la qualifie de « retrouvailles ». 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         confirme à 
+        <persName ana="Cary_Hector">Cary Hector</persName>
+         : « Il est tout à fait évident qu’en tant qu’écrivain, par exemple, un nouveau 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         se perçoit à partir des livres de la série africaine ».
+      </p>
+      <p>
+        De 1973 à 1980 paraissent cinq romans et un recueil de nouvelles. À une exception près (
+        <placeName ana="Mourir">Mourir</placeName>
+         pour 
+        <placeName ana="Haiti">Haïti</placeName>
+        ), ces romans et nouvelles (
+        <persName ana="Gens_De_Dakar">
+          Gens de 
+          <placeName ana="Dakar">Dakar</placeName>
+        </persName>
+        ) interpellent l’
+        <placeName ana="Afrique">Afrique</placeName>
+         profonde des tribus confrontée à celle des « rois », épinglée par l’auteur dans une dialectique des contraires bousculant l’
+        <placeName ana="Afrique">Afrique</placeName>
+         moderne. Fort de sept ans d’expérience acquise dans l’
+        <placeName ana="Hinterland">Hinterland</placeName>
+         libérien à étudier les cultures traditionnelles, l’écrivain peint, de 
+        <placeName ana="Kimby">Kimby</placeName>
+         (1973) à Renaître à 
+        <placeName ana="Dende">Dendé</placeName>
+         (1980) – y compris Un Homme en trois morceaux (1975) et L’
+        <placeName ana="Afrique">Afrique</placeName>
+         des rois (1975) – des portraits de sociétés propulsées du passé au présent, de la tradition à la modernité, de la campagne à la ville, sur fond d’une quête de valeurs préservant la continuité. Cette quête repose sur des personnages, hommes et femmes, jeunes et vieux, produits mêmes des contraires en situation qui en font des êtres problématiques (
+        <placeName ana="Cassan">Cassan</placeName>
+        , dans Un Homme en trois morceaux; 
+        <placeName ana="Martha">Martha</placeName>
+         dans Renaître à 
+        <placeName ana="Dende">Dendé</placeName>
+        ) mais, néanmoins, porteurs d’espoir (
+        <placeName ana="Cassel">Cassel</placeName>
+        , dans 
+        <placeName ana="Kimby">Kimby</placeName>
+        ; 
+        <placeName ana="Auntie">Auntie</placeName>
+        , dans L’
+        <placeName ana="Afrique">Afrique</placeName>
+         des rois; ou encore 
+        <placeName ana="Ousmane">Ousmane</placeName>
+        , dans Renaître à 
+        <placeName ana="Dende">Dendé</placeName>
+        ).
+      </p>
+      <p>
+        L’
+        <placeName ana="Afrique">Afrique</placeName>
+         est au centre de l’éthique et de l’esthétique de ces textes; la résonance qui se dégage d’une thématique de la remise en question de valeurs sociales et individuelles n’est pas sans évoquer 
+        <placeName ana="L’Haiti">L’Haïti</placeName>
+         natale de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        . De plus, l’image de l’
+        <placeName ana="Afrique">Afrique</placeName>
+         représentée sous un jour concret, à la fois élargi et réaliste par le mythos d’une quête des origines révise et corrige les stéréotypes prévalant dans les lettres haïtiennes au temps fort de l’Indigénisme. En contrepoint d’une 
+        <placeName ana="Afrique">Afrique</placeName>
+         utopique, l’œuvre produite du vécu de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         en 
+        <placeName ana="Afrique">Afrique</placeName>
+         comporte en elle-même un caractère original et innovateur dans l’histoire littéraire d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Conscient du dédoublement de son œuvre faisant problème pour la critique s’interrogeant sur l’identité de l’œuvre et de l’auteur placés dans des circonstances asymétriques, l’écrivain conclut:
+      </p>
+      <p>
+        Nul ne peut empêcher que je sois un écrivain haïtien, né là, ayant acquis là ses techniques, ses armes, ayant formé là sa sensibilité première, même si cette sensibilité s’est élargie au contact de l’
+        <placeName ana="Afrique">Afrique</placeName>
+        , rien ne peut, du point de vue haïtien, m’empêcher de me situer dans le courant haïtien. (Le Pouvoir des mots 36)
+      </p>
+      <p>
+        Qu’
+        <placeName ana="Haiti">Haïti</placeName>
+        , au demeurant, ait été présente dans la pensée de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         tout au long de son exil est une donne manifeste de l’essai qu’il publie sur 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        , en 1981; du récit historique, 
+        <persName ana="De_Fatras">De Fatras</persName>
+         bâton à 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+         (1983); et, surtout, de ses 
+        <placeName ana="Memoires">Mémoires</placeName>
+        , Marche arrière (1986), qui paraîtront la veille de son retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , et Marche arrière II (1991) dans la foulée de son retour. Ces 
+        <placeName ana="Memoires">Mémoires</placeName>
+         représentent un dépassement de soi par leur forme adaptée de la tradition orale africaine, et leur contenu mûri par la mémoire décantée de la 
+        <placeName ana="Terre">Terre</placeName>
+         natale. Le recours à la parole, par comparaison avec le questionnement de l’écriture, sert de pierre d’assise à une conception du langage éprouvée sur le terrain en 
+        <placeName ana="Afrique">Afrique</placeName>
+         et enracinée dans les grands courants mythiques universels : « L’objet n’existe que par le mot qui le convoque, et le sentiment que par celui qui le qualifie. Le mot littéralement « crée » la situation » (
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         97). Il paraît comme rite de passage.
+      </p>
+      <p>
+        Un troisième temps consécutif au retour de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , de 1986 à 1991, recoupe et unifie les lieux doubles de son œuvre. Quatre romans, un recueil de nouvelles, un deuxième volume de Marche arrière, et un livre d’ethnologie sur l’
+        <placeName ana="Hinterland">Hinterland</placeName>
+         libérien (L’Homme derrière l’arbre) la caractérisent. Des romans, la critique retient Accords perdus (1987), monologue intérieur d’un narrateur abîmé par le temps et le destin mais luttant dans les ténèbres de la cécité pour la lumière, métaphore de l’espoir d’une 
+        <placeName ana="Haiti">Haïti</placeName>
+         nouvelle, libérée du duvaliérisme. Et elle louange Les 
+        <placeName ana="Veves">Vèvès</placeName>
+         du créateur (1989) comme une œuvre-maîtresse où l’imagination libre s’approprie le réalisme merveilleux, déborde ciel et 
+        <placeName ana="Terre">Terre</placeName>
+        , agite rêves, fantasmes et obsessions pour livrer une 
+        <placeName ana="Haiti">Haïti</placeName>
+         transformée sinon dans les faits du moins sous la pulsion de l’imaginaire régi par un narrateur-créateur souverain. Pour 
+        <persName ana="Weber_Lahens">
+          Weber 
+          <placeName ana="Lahens">Lahens</placeName>
+        </persName>
+        , il s’agit d’un « chef d’œuvre ». 
+        <persName ana="Jean_Fouchard">Jean Fouchard</persName>
+         y voit « le meilleur livre de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         ».
+      </p>
+      <p>Pour ma part, ayant rassemblé l’ensemble de son œuvre littéraire dans la collection Rites de passage (1990), je propose une vision globale.</p>
+      <p>
+        L’itinéraire, long de plus d’un quart de siècle (1957-1986), menant 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         de l’exil à son pays natal en appelait d’un juste répondant dans le titre de la collection. La polarisation entre les thèmes de l’innocence et de l’expérience dans l’œuvre entière; le dialogisme du garçonnet rêveur et du vieil homme dans Un Homme en trois morceaux et Accords perdus; la structure symétrique des vieux sages irriguant les générations autant dans 
+        <placeName ana="Kimby">Kimby</placeName>
+         et L’
+        <placeName ana="Afrique">Afrique</placeName>
+         des rois que dans Ils ont tué le Vieux Blanc (1988) et Les 
+        <placeName ana="Veves">Vèvès</placeName>
+         du créateur; le leitmotiv de l’anti-sexisme dans Renaître à 
+        <placeName ana="Dende">Dendé</placeName>
+         et Le Mâle de l’espèce (1990); l’alternance des lieux africain et antillais, des temps nocturne et diurne; bref, le cumul de récurrences thématique, typologique et symbolique accouplé aux variations de la voix narrative (dans les nouvelles regroupées dans Le Mâle de l’espèce, par exemple) imposaient en toute logique la métaphore symbiotique du « passage » pour signifier ces rites évolutifs.
+      </p>
+      <p>
+        Rites de passage distingue donc une œuvre inscrite dans un registre universellement mythique. L’expérience humaine se marie du point d’origine (Pour Célébrer la 
+        <placeName ana="Terre">Terre</placeName>
+        ) au point d’achèvement (Les 
+        <placeName ana="Veves">Vèvès</placeName>
+         du créateur) avec l’antériorité tellurique, le profane et le sacré. La parole de l’écrivain puise dans « le langage des commencements » et fait fonction de signe abolissant toute distinction entre signifiant et signifié lorsqu’elle scande l’image-clé de l’aube rythmant l’élan vital: fluidité, glissement, gestation et maturation. Oeuvre rebelle à l’enfermement ethnologique ou idéologique, il en émane ouverture, mouvance et partage.
+      </p>
+      <p>
+        La « commande sociale », c’est-à-dire le thème de l’engagement socio-politique incontournable dans l’histoire des lettres haïtiennes depuis 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         et l’école indigéniste, est ici revue et corrigée. Le souci du pays natal s’étend à un espace continental, sinon international et tiers-mondiste. Le personnage du paysan ou de l’ouvrier, « gouverneur de la rosée » ou « général soleil », selon l’iconographie de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         ou de Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , ce héros libérateur est approfondi dans la typologie de l’Étranger de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        .
+      </p>
+      <p>
+        L’être de l’ailleurs, de nulle part et de partout à la fois, met en relief liberté et disponibilité. Transmis par 
+        <placeName ana="Cassel">Cassel</placeName>
+         (
+        <placeName ana="Kimby">Kimby</placeName>
+        ), 
+        <placeName ana="Cassan">Cassan</placeName>
+         (Un Homme en trois morceaux), Martin (L’
+        <placeName ana="Afrique">Afrique</placeName>
+         des rois), Aldo (
+        <placeName ana="Mourir">Mourir</placeName>
+         pour 
+        <placeName ana="Haiti">Haïti</placeName>
+        ), et 
+        <placeName ana="Ousmane">Ousmane</placeName>
+         (Renaître à 
+        <placeName ana="Dende">Dendé</placeName>
+        ), ce diptyque de la solidarité paraît comme préface au redressement social ou collectif au sein duquel le personnage de l’Étranger joue un rôle de catalyseur. Celui-ci n’est pas un Messie ou un quelconque démiurge dont l’histoire d’
+        <placeName ana="Haiti">Haïti</placeName>
+         est pleine de sa démesure (Christophe, 
+        <placeName ana="Dessalines">Dessalines</placeName>
+         et même 
+        <placeName ana="Toussaint">Toussaint</placeName>
+        ). Il ne se place pas au-dessus des siens; il s’insère plutôt parmi eux, comme 
+        <placeName ana="Ousmane">Ousmane</placeName>
+        , de retour dans son village natal qui entre « avec confiance au cœur de la danse » (122). Ce même Étranger se retrouve dans les romans qui suivent le retour d’exil de l’écrivain: le narrateur d’Accords perdus; Lodinski, le « Vieux Blanc » ; et, bien sûr, le créateur des 
+        <placeName ana="Veves">Vèvès</placeName>
+         du créateur.
+      </p>
+      <p>
+        Contrairement à 
+        <placeName ana="Cassel">Cassel</placeName>
+        , homme de Foi (« aimer est la plus grande des lois » 189), 
+        <placeName ana="Cassan">Cassan</placeName>
+        , homme de Loi (« Dans quelque direction que ce fût il y avait un ordre, et il fallait obéir » 92), Martin, homme de Parti (« Opération-Salut » 43), et 
+        <placeName ana="Ousmane">Ousmane</placeName>
+        , homme de Partage (« Dans d’étranges villes, dans des campus d’écoles, ce compagnon des livres avait été curieux des hommes, cherchant les signes qui, après la défaite de l’ombre, disent à nouveau que des mères sont penchées sur des berceaux, que des hommes vont parler à d’autres hommes, que la détresse ou la joie va passer d’une fenêtre à une autre encore grise que l’aurore attend » [Renaître à 
+        <placeName ana="Dende">Dendé</placeName>
+         109], l’Étranger d’Accords perdus, du Vieux Blanc et des 
+        <placeName ana="Veves">Vèvès</placeName>
+         se découvre impuissant dans une «vallée des morts» (Accords perdus, 18), ou «percé à mort par un essaim de guêpes d’acier» (Vieux Blanc 203). Ou bien, il voit un « escadron de mort » (
+        <placeName ana="Veves">Vèvès</placeName>
+         153) s’avancer vers lui. Entre le héros revenu d’exil, et porteur de « catéchisme » de Roumain et d’Alexis, et celui vaincu et prenant la route de l’exil des œuvres plus récentes d’
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         (La Discorde aux cent voix, 1986) et de 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         (
+        <placeName ana="Hadriana">Hadriana</placeName>
+         dans tous mes rêves, 1988), celui de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         unit viscéralement les contraires du déracinement et de l’appartenance.
+      </p>
+      <p>
+        Le vieil homme condamné des trois romans post-1986 obtient un tout autre relief à le rapprocher de sa face inverse dans l’œuvre antérieure où les 
+        <placeName ana="Keta">Kéta</placeName>
+        , 
+        <placeName ana="Kimby">Kimby</placeName>
+        , 
+        <placeName ana="Auntie">Auntie</placeName>
+         et 
+        <placeName ana="Martha">Martha</placeName>
+         sont actifs et fécondants. Comprise dans son plein développement, la symbolique de l’Étranger traduit un personnage double à la mi-temps des oppositions, tel le dieu romain Janus ou le dieu vaudou Legba, gardien des allées et venues, sécularisé ici dans le clivage de la balkanisation historique 
+        <placeName ana="Afrique">Afrique</placeName>
+        -
+        <placeName ana="Antilles">Antilles</placeName>
+        . L’Étranger de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         est donc un signe propitiatoire des commencements; la corrélation avec l’image de l’aube se fait évidente:
+      </p>
+      <p>
+        L’aube était présente dans Pour Célébrer la 
+        <placeName ana="Terre">Terre</placeName>
+        , et elle signifiait déjà naissance…. Reprise dans un contexte africain… l’aube représente une naissance à la vie concrète telle qu’éprouvée par l’homme. La naissance est alors une métaphore pour exprimer l’appréhension de l’ordre des choses; elle symbolise l’acte initiatique, le rite de passage à la vie d’homme rappelé à chaque lever du jour. (Postface à Marche arrière)
+      </p>
+      <p>
+        La mort annoncée du narrateur d’Accords perdus, ainsi que celle subie par Lodinski et celle revendiquée par le créateur des 
+        <placeName ana="Veves">Vèvès</placeName>
+        , comporte une catharsis immanente au cycle vital des alternances: la mort précède une nouvelle naissance. Si dans 
+        <placeName ana="Kimby">Kimby</placeName>
+         la tradition est campée et acceptée par les vieux 
+        <placeName ana="Keta">Kéta</placeName>
+         et 
+        <placeName ana="Kimby">Kimby</placeName>
+        , et, d’autre part, dans Un Homme en trois morceaux et L’
+        <placeName ana="Afrique">Afrique</placeName>
+         des rois, elle est assumée et dépassée par 
+        <placeName ana="Cassan">Cassan</placeName>
+         et 
+        <placeName ana="Auntie">Auntie</placeName>
+         (« Sa mort fait de votre vie pour elles un commandement…. elles vous souhaitent la vie », L’
+        <placeName ana="Afrique">Afrique</placeName>
+         des rois 118), les romans qui suivent réaffirment la noblesse du sacrifice. La mort de l’Étranger, par conséquent, représente une constance dans la symbolique ainsi qu’un point d’aboutissement ou d’équilibre entre l’
+        <placeName ana="Afrique">Afrique</placeName>
+         et les 
+        <placeName ana="Antilles">Antilles</placeName>
+        , la jeunesse et la vieillesse, l’innocence et l’expérience, et, certainement, la mort et la vie.
+      </p>
+      <p>
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         fut un écrivain prolifique, pratiquant tous les genres littéraires, mariant œuvres d’imagination et travaux de réflexion. Polyvalente et polyforme, nationale et internationale, son œuvre appartient autant à son 
+        <placeName ana="Haiti">Haïti</placeName>
+         natale qu’à l’
+        <placeName ana="Afrique">Afrique</placeName>
+        , sa 
+        <placeName ana="Terre">Terre</placeName>
+         d’exil et de « re-naissance ». Elle reflète une vie marquée par les exigences et les aléas d’un engagement social dont il sortit victime plutôt que vainqueur au terme d’un long itinéraire. En politique, comme en littérature, il fit usage de la parole pour transformer la vie. De part et d’autre il laisse une foi, même mal éclairée à l’occasion, dans un rapport liant l’humain et son environnement dans l’échange et la solidarité.
+      </p>
+      <p>
+        Cette présentation est tirée de « 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         en trois temps », texte à paraître et reproduit sur Île en île avec permission.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.roger-dorsinville.12269.html" xml:id="Roger_Dorsinville_bio_auteur_spla">
+      <p>
+        Homme politique et écrivain, né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 11 
+        <placeName ana="Mars">Mars</placeName>
+         1911, où il est décédé le 12 janvier 1992, 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         a été militaire, évangéliste, enseignant, journaliste, chef de cabinet présidentiel, ainsi que consul, ministre et ambassadeur dans différents pays d'
+        <placeName ana="Amerique_Du_Sud">Amérique du Sud</placeName>
+         et au 
+        <placeName ana="Senegal">Sénégal</placeName>
+        , avant de mettre fin à sa carrière politique en 1965. Il vécut en exil au 
+        <placeName ana="Liberia">Libéria</placeName>
+         et au 
+        <placeName ana="Senegal">Sénégal</placeName>
+         jusqu'en 1986, année de son retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , rapportant avec lui des travaux d'ethnologie sur l'
+        <placeName ana="Hinterland">Hinterland</placeName>
+         libérien et une œuvre littéraire considérable rédigée à 
+        <placeName ana="Dakar">Dakar</placeName>
+         recouvrant la critique et la création. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Roger_Dorsinville_biblio">
+    <div ref="http://ile-en-ile.org/dorsinville_roger/" xml:id="Roger_Dorsinville_biblio_auteur_ile_en_ile">
+      <list subtype="essais dans les volumes des œuvres de roger dorsinville en anglais">
+        <item>The Rule of François [«Papa Doc»] Duvalier in Two Novels by Roger Dorsinville. Lewiston, NY: Mellen Press, 2000:
+
+Dorsinville, Max. «Violence and Women in the Haitian Novel».
+
+</item>
+      </list>
+      <list subtype="études sur roger dorsinville">
+        <item>Banisader, Abol Hassan. «Une grande fille [Renaître à Dendé]». Revue Afrique 1-2 (juin 1960).</item>
+      </list>
+      <list subtype="in english">
+        <item>The Rule of Francois (« Papa Doc ») Duvalier in Two Novels by Roger Dorsinville: Realism and Magic Realism in Haiti. (Mourir pour Haïti et Les Vèvès du createur). Trans. and Ed. Max Dorsinville. Preface by George Lang. Lewiston, N.Y., Mellen Press, 2000.</item>
+      </list>
+      <list subtype="en italiano">
+        <item>Un uomo in tre pezzi. (Un Homme en trois morceaux). Trad. Mari Mascetti. Roma: Jaca, 1977.</item>
+      </list>
+      <list subtype="на русском">
+        <item>Un Homme en trois morceaux et Gens de Dakar. Moscou: Xoudogestvenaia litteratura, 1983.</item>
+      </list>
+      <list subtype="romans">
+        <item>Kimby, ou, La loi de Niang. Paris: Présence Africaine, 1973; Port-au-Prince: Editions Deschamps, 1990.</item>
+      </list>
+      <list subtype="essais">
+        <item>Toussaint Louverture, ou, La vocation de la liberté. Paris: Julliard, 1965; Montreal: Éditions du CIDIHCA, 1987.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Les Contes de la forêt atlantique. Alger: Entreprise nationale du livre, 1986.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Pour Célébrer la terre. Port-au-Prince: Presses Libres, 1955.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Barrières, pièce en 3 actes. Port-au-Prince: Deschamps, 1946.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>« Entretiens avec Cary Hector ». Collectif Paroles 15 (1981-82): 18-31.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Roger_Dorsinville_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/roger-dorsinville-emerging-from-the-shadow-of-the-father-memoirs-of-haiti/">Emerging from the Shadow of the Father: Memoirs of Haiti</item>
+      <item ref="http://ile-en-ile.org/roger-dorsinville-preface/">Preface</item>
+      <item ref="http://ile-en-ile.org/roger-dorsinville-les-veves-du-createur/">Les Vèvès du Créateur</item>
+      <item ref="http://mellenpress.com/">Edwin Mellen Press</item>
+      <item ref="http://www.arts.ualberta.ca/%7Echinook/dorsinville/">L’Art photographique de Roger Dorsinville</item>
+    </list>
   </div>
 </TEI>

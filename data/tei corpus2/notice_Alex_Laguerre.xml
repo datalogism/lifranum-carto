@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Alex_Laguerre" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Alex Laguerre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Alex_Laguerre_fiche">
+    <person ana="Alex_Laguerre" sex="na">
+      <persName>Alex Laguerre</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Alex_Laguerre_bio">
+    <text ref="http://www.spla.pro/fiche.personne.alex-laguerre.40412.html" xml:id="Alex_Laguerre_bio_auteur_spla">
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Alex Laguerre est un membre de l' 'International Society of Poets' et il a recu l' 'Editor's Choice Award' en 2006. Il a déjà publié plus d'une douzaine de titres dont des recueils de poèmes : &quot;Accents aigus&quot;, &quot;Des rêves pour tout bagage&quot;, &quot;Incantations pour nuits de pleine lune&quot;; des recueils de nouvelles dont &quot;Poupée de chiffon&quot;, &quot;Opération Bagdad&quot;; et des romans dont &quot;
+        <placeName ana="Memoires">Mémoires</placeName>
+         des âmes errantes&quot; et &quot;
+        <placeName ana="Journal">Journal</placeName>
+         de 
+        <persName ana="Baron_Samedi">Baron Samedi</persName>
+        ''. Il a aussi contribué à la publication d'un recueil collectif &quot;Symbiose poétique&quot;, initiative de l'Association culturelle Rankont. Sa dernière publication date de 2014 et est un roman intitulé « Rhapsodie pour une trapéziste disparue ».	  Lire l'article –	« Alex Laguerre : Chantre du peuple », Evains Wêche, mai 2014. lenouvelliste.com.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Alex_Laguerre_biblio"/>
+  <div n="4" xml:id="Alex_Laguerre_web"/>
+</TEI>

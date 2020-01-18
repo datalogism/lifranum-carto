@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Antoine_Innocent_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Antoine_Innocent" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Antoine Innocent</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Antoine_Innocent_fiche_autorite">
+  <div n="1" xml:id="Antoine_Innocent_fiche">
     <person ana="Antoine_Innocent" sex="na">
       <persName>Antoine Innocent</persName>
       <death source="ile_en_ile_auto">
@@ -34,5 +34,110 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Journaliste</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Antoine_Innocent_bio">
+    <text ref="http://ile-en-ile.org/innocent_antoine/" xml:id="Antoine_Innocent_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+         est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1873. Il fréquente le Lycée 
+        <persName ana="Alexandre_Petion">
+          Alexandre 
+          <placeName ana="Petion">Pétion</placeName>
+        </persName>
+         de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         où il fait ses études classiques, puis y devient professeur de français et d’histoire. Il est collaborateur de La Ronde, revue littéraire fondée en 1898 à la suite de la Jeune 
+        <placeName ana="Haiti">Haïti</placeName>
+         (1895-1898) autour de 
+        <persName ana="Petion_Gerome">
+          <placeName ana="Petion">Pétion</placeName>
+           Gérôme
+        </persName>
+        , son 
+        <placeName ana="Directeur">Directeur</placeName>
+        , et d’autres écrivains dont 
+        <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+         et 
+        <persName ana="Dantes_Bellegarde">
+          Dantès 
+          <placeName ana="Bellegarde">Bellegarde</placeName>
+        </persName>
+        . Il est aussi membre de L’Œuvre, une association littéraire et théâtrale fondée par le poète 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+        . Il travaille au Sénat de la République où il occupe le poste de Secrétaire pendant une trentaine d’années.
+      </p>
+      <p>
+        <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+         est considéré par la critique officielle et traditionnelle comme un indigéniste avant la lettre. Il appartient à deux périodes de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , du coup à deux générations d’écrivains : la période classique (1804-1915) et la période indigéniste ou culturo-nationaliste (1915-1957). Ce sont les deux premières périodes de la littérature. Les troisième et quatrième périodes sont donc le renouveau humaniste (1957-1986) et l’époque contemporaine (1986 à nos jours). Innocent est le premier romancier haïtien à choisir d’explorer un univers nouveau : le vaudou avec ses rites, ses temples et ses dieux. Il ouvre donc la voie, d’abord aux indigénistes ou culturo-nationalistes, puis à tous ceux qui, plus tard, feront de la paysannerie, du vaudou et des croyances populaires des éléments clés de leurs productions.
+      </p>
+      <p>
+        En 1906, il publie son unique roman, Mimola, qui paraît d’abord en feuilleton dans Le Soir, 
+        <placeName ana="Journal">Journal</placeName>
+         dont il a été rédacteur. Mimola ou L’histoire d’une cassette, sous-titré Petit tableau de mœurs locales, est, à plusieurs points de vue, un roman très significatif. 
+        <persName ana="Tante_Rosalie">Tante Rosalie</persName>
+         est une prêtresse du vaudou, ancienne esclave de la colonie de Saint-Domingue. Au soir de sa vie, elle confie à sa fille, Julie – devenue madame 
+        <persName ana="Georges_–">Georges –</persName>
+        , le soin de jeter à la 
+        <placeName ana="Mer">Mer</placeName>
+         une vieille malle contenant les objets de son culte aux dieux africains. Question de ne pas perpétuer la tradition. Et voilà que la malédiction s’abat sur la famille. Georges, le mari, mourra, suivi de six des sept enfants de la famille. Lala, de son vrai nom Mimola, est atteinte d’un mal incurable. Désespérée, la mère entreprend le jour de la fête de Mont-Carmel un pèlerinage à Saut-d’Eau (Ville-
+        <placeName ana="Bonheur">Bonheur</placeName>
+        ) en vue d’implorer la 
+        <persName ana="Vierge_Des_Miracles">Vierge des Miracles</persName>
+         en faveur de sa fille. Elle y fait la rencontre de bien d’autres pèlerins ; parmi eux, il y a madame Dajobert, dont le fils, Léon, est aussi atteint de troubles psychologiques. De retour chez eux, Lala prend le « ason ». Elle devient mambo et se remet de son mal. Léon, de son côté, formé à 
+        <placeName ana="Paris">Paris</placeName>
+        , méprisant le culte vaudou, devient fou.
+      </p>
+      <p>
+        Récit authentique, roman indigène, 
+        <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+         dresse, à travers Mimola un tableau fidèle des croyances populaires et les réalités folkloriques d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il y met en relief tout un pan des traditions et des pratiques liées aux valeurs ancestrales. Le vaudou, religion de nos ancêtres, est ainsi présenté comme cette sorte de ciment qui unit et relie tous les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , sans distinction de race ou de classe. Roman précurseur, avec Mimola, Innocent offre un portrait fidèle des croyances et réalités de la paysannerie et de l’arrière-pays et des pratiques du culte vaudou dont les racines sont à chercher dans les cultures africaines.
+      </p>
+      <p>
+        <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+         meurt le 13 avril 1960 à l’âge de 87 ans.
+      </p>
+      <p>
+        – 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.antoine-innocent.35107.html" xml:id="Antoine_Innocent_bio_auteur_spla">
+      <p>
+        (1873-1960)Journaliste et romancier haïtien. Il collabore avec 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+        . Mimola ou l'histoire d'une cassette (1906), roman qui a eu le mérite d'aborder le thème du vaudou, le culte des loas, non pas comme un phénomène folklorique, mais comme l'expression d'une ancienne culture qui survit dans une continuité historique.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Antoine_Innocent_biblio">
+    <div ref="http://ile-en-ile.org/innocent_antoine/" xml:id="Antoine_Innocent_biblio_auteur_ile_en_ile">
+      <list subtype="roman">
+        <item>Mimola, ou L’histoire d’une cassette. Petit tableau de moeurs locales. Port-au-Prince: Imprimerie E. Malval, 1906; Port-au-Prince: V. Valcin, 1935; Nendeln: Kraus Reprint, 1970; Port-au-Prince: Fardin, 1981, 1999; Port-au-Prince, Presses nationales d’Haïti: 2006.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’antoine innocent">
+        <item>Anon. « Sur Antoine Innocent acteur: Toussaint Louverture au Fort de Joux ». L’Essor (Port-au-Prince, 14 janvier 1918).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Antoine_Innocent_web">
+    <list type="ile_en_ile">
+      <item ref="https://archive.org/details/mimolaoulhistoi00innogoog/page/n8">Mimola, ou l’histoire d’une cassette</item>
+      <item ref="http://www.kepkaa.com/moisducreole/Articles/edelyn.html">Antoine Innocent, auteur de Mimola. Un roman qui refuse de vieillir</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/149845/Le-vaudou-dans-la-litterature-haitienne">Le vaudou dans la littérature haïtienne</item>
+    </list>
   </div>
 </TEI>

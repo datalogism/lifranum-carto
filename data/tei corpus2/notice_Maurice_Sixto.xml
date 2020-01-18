@@ -1,28 +1,499 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Maurice_Sixto_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Maurice_Sixto" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Maurice Sixto</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Maurice_Sixto_fiche_autorite">
+  <div n="1" xml:id="Maurice_Sixto_fiche">
     <person ana="Maurice_Sixto" sex="na">
       <persName>Maurice Sixto</persName>
       <death source="ile_en_ile_auto">
         <date>1936-01-01 00:00:00+00:00</date>
       </death>
     </person>
+  </div>
+  <div n="2" xml:id="Maurice_Sixto_bio">
+    <text hand="Frenand Léger" ref="http://ile-en-ile.org/sixto/" xml:id="Maurice_Sixto_bio_auteur_ile_en_ile">
+      <p>
+        Né aux 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         le 23 mai 1919, 
+        <persName ana="Maurice_Alfredo_Sixto">
+          Maurice Alfredo 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         était journaliste, animateur de radio, traducteur, enseignant de littérature et l’un des professionnels 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         de l’oralité les plus populaires. Son nom est resté célèbre dans l’histoire de l’oraliture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         grâce à ses multiples histoires contées principalement en créole et, dans une moindre mesure, en français. Du côté maternel, il appartient à la lignée familiale des 
+        <placeName ana="Vastey">Vastey</placeName>
+        . Sa mère, 
+        <persName ana="Maria_Bourand">Maria Bourand</persName>
+        , fille de 
+        <persName ana="Alice_De_Vastey">
+          Alice de 
+          <placeName ana="Vastey">Vastey</placeName>
+        </persName>
+        , est la petite-fille de 
+        <persName ana="Pompee_Valentin_Vastey">
+          Pompée Valentin 
+          <placeName ana="Vastey">Vastey</placeName>
+        </persName>
+        , qui, lui-même, est devenu 
+        <persName ana="Baron_De_Vastey">
+          Baron de 
+          <placeName ana="Vastey">Vastey</placeName>
+        </persName>
+         sous le règne de 
+        <persName ana="Henry_Christophe">Henry Christophe</persName>
+         dans le Nord d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         tient son nom de famille de son père, l’ingénieur 
+        <persName ana="Alfredo_Sixto">
+          Alfredo 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         qui était le fils d’
+        <persName ana="Adolphe_Sixto">
+          Adolphe 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+        , un homme d’affaires originaire de 
+        <persName ana="Saint_Thomas">Saint Thomas</persName>
+         dans les 
+        <placeName ana="Iles_Vierges">Îles Vierges</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         débute ses études classiques à l’école des Frères de 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         et les poursuit à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         chez les Frères de l’Institution de Saint-
+        <persName ana="Louis_De_Gonzague">Louis de Gonzague</persName>
+         où il a commencé à se faire remarquer pour ses talents de 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è *, de diseur et surtout d’imitateur. On rapporte qu’il avait l’habitude d’amuser ses camarades de classe qui s’attroupaient autour de lui dans la cour de récréation pour l’entendre parodier des personnalités célèbres tels 
+        <persName ana="Sacha_Guitry">Sacha Guitry</persName>
+         et 
+        <persName ana="Stenio_Vincent">Sténio Vincent</persName>
+        . Il imitait aussi la voix des gens du peuple parlant le créole à un moment où cette langue n’avait encore aucun statut dans la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Il le faisait à ses risques et périls puisqu’à l’époque l’usage du créole était encore formellement interdit dans les écoles haïtiennes sous peine de sévères punitions allant jusqu’au châtiment corporel.
+      </p>
+      <p>
+        Ses études secondaires terminées, le jeune 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         décide d’intégrer l’ancienne Académie Militaire, non pas par conviction, mais pour fuir la 
+        <placeName ana="Maison">Maison</placeName>
+         familiale en signe de protestation contre son père. Peu de temps après la mort de Maria en 1936, 
+        <persName ana="Alfredo_Sixto">
+          Alfredo 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         épouse une jeune fille ayant le même âge que son fils de 17 ans. Ne pouvant pas supporter cet affront à la mémoire de sa défunte mère, Maurice prend le chemin de l’école militaire où il n’est resté que trois mois. Entre 1938 et 1948, 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         est, tour à tour, journaliste au quotidien Le Matin, enseignant d’anglais et de français, animateur à la radio HHBM, interprète et traducteur à l’Ambassade amérciaine, guide touristique à l’
+        <persName ana="Agence_Citadelle">Agence Citadelle</persName>
+        , et étudiant à la Faculté de Droit de 1945 à 1948. Il est ensuite nommé 
+        <persName ana="Attache_De_Presse">Attaché de Presse</persName>
+         à l’Ambassade du 
+        <placeName ana="Liberia">Libéria</placeName>
+         le 28 décembre 1950 par le président 
+        <persName ana="Paul_Eugene_Magloire">Paul Eugène Magloire</persName>
+        . Il reste en fonction à l’Ambassade du 
+        <placeName ana="Liberia">Libéria</placeName>
+         jusqu’en 1961 et part ensuite au 
+        <placeName ana="Congo">Congo</placeName>
+         en 1962 avec le premier contingent d’enseignants 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         qui partaient pour l’
+        <placeName ana="Afrique">Afrique</placeName>
+         sous l’égide de L’Unesco.
+      </p>
+      <p>
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         
+        <placeName ana="Passe">Passe</placeName>
+         neuf ans à 
+        <placeName ana="Kinshasa">Kinshasa</placeName>
+         où il enseigne le français, l’anglais, le latin et les sciences sociales. Il déplorait le fait que les Belges soient partis du 
+        <placeName ana="Congo">Congo</placeName>
+         sans contribuer à la formation d’enseignants locaux pour prendre la relève. C’est au cours de ces années passées en 
+        <placeName ana="Afrique">Afrique</placeName>
+         qu’il a rencontré et épousé 
+        <persName ana="Marie_Therese_Torchon">Marie Thérèse Torchon</persName>
+        , sa deuxième épouse avec qui il a vécu jusqu’à la fin de ses jours. Souffrant du glaucome dès l’âge de 24 ans, 
+        <placeName ana="Sixto">Sixto</placeName>
+         est atteint de déficience visuelle totale en 1969 malgré plusieurs interventions chirurgicales. À cause de la cécité, il est contraint d’abandonner son poste d’enseignant en 
+        <placeName ana="Afrique">Afrique</placeName>
+         pour revenir en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il s’établit définitivement aux États-Unis dans les années 1970. Sa condition ne l’empêche pourtant pas d’être très actif dans le milieu américain où il travaille comme consultant et donne ponctuellement des conférences sur les civilisations précolombiennes et africaines. Le 4 juillet 1976, il est honoré par le maire de 
+        <placeName ana="Philadelphie">Philadelphie</placeName>
+         à l’occasion de la célébration du bicentenaire des États-Unis. 
+        <persName ana="Madame_Jackie_Kennedy">Madame Jackie Kennedy</persName>
+         l’a choisi comme invité d’honneur à un dîner organisé en 1963 pour lever des fonds contre la leucémie. Maurice reçoit également le prix du meilleur diseur à 
+        <placeName ana="New_York">New York</placeName>
+         en 1979 ainsi que celui du meilleur conférencier à 
+        <placeName ana="Philadelphie">Philadelphie</placeName>
+         en 1984.
+      </p>
+      <p>
+        Comme dit le funeste dicton haïtien « 
+        <placeName ana="Male">Malè</placeName>
+         pa gen klaksòn » (le malheur ne s’annonce jamais) : un évènement malheureux, survenu le 12 mai 1984, a causé la mort de 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         à la « 
+        <persName ana="Villa_Lea_Kokoye">Villa Léa Kokoye</persName>
+         » à 
+        <placeName ana="Philadelphie">Philadelphie</placeName>
+        . Selon 
+        <persName ana="Gertrude_Sejour">Gertrude Séjour</persName>
+        , directrice de la Fondation 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+        , le 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è,  qui aimait fumer, se brûlait constamment lorsqu’il allumait à l’aveuglette ses cigarettes. La femme de Maurice a elle-même arrêté de fumer pour encourager son mari à en faire autant. Mais, avec l’aide d’une voisine, le fumeur invétéré se faisait acheter des cigarettes qu’il consommait en cachette. Un jour, alors qu’il allumait une cigarette, le pire s’est malheureusement produit. L’allumette est tombée sur ses habits et a mis le feu à son pyjama. Transporté d’urgence à l’hôpital 
+        <persName ana="Albert_Einstein">Albert Einstein</persName>
+         dans la ville de 
+        <placeName ana="Philadelphie">Philadelphie</placeName>
+        , 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         est mort d’une crise cardiaque causée par ses graves brûlures.
+      </p>
+      <p>
+        L’œuvre de 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+        , ayant pour titre d’ensemble Choses et gens entendus, est composée d’une série de 50 récits oraux (communément appelés 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         ** ), dont la plupart sont racontés en créole et quelques-uns en français. Enregistrés sur supports sonores, les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         de 
+        <placeName ana="Sixto">Sixto</placeName>
+         étaient à l’origine diffusés à la radio avant d’être compilés en volumes sur cassettes et CDs vendus chez des disquaires. Il existe en circulation huit volumes, dont six publiés pendant le vivant de 
+        <placeName ana="Sixto">Sixto</placeName>
+         et deux autres volumes posthumes. Les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         de 
+        <placeName ana="Sixto">Sixto</placeName>
+         les plus connus sont ceux qu’il a lui-même publiés avant sa mort. Parmi ceux-ci, on peut citer « Lea Kokoye », « 
+        <persName ana="Zabelbok_Berachat">Zabèlbòk Berachat</persName>
+         », « 
+        <persName ana="Ti_Sentaniz">Ti Sentaniz</persName>
+         », « 
+        <persName ana="Gwo_Moso">Gwo Moso</persName>
+         » , « J’ai vengé la race » et « 
+        <persName ana="Madan_Jul">Madan Jul </persName>
+        » . Chacun de ses six 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         est en fait le titre d’un des six volumes sortis à l’époque où 
+        <placeName ana="Sixto">Sixto</placeName>
+         était encore parmi nous. Il existe parallèlement plusieurs 
+        <placeName ana="Lodyans">Lodyans</placeName>
+          posthumes, notamment « 
+        <persName ana="Pa_Nan_Betiz">Pa nan Betiz</persName>
+         », « Emil toutou », « Solisyon chimik », « Machann poul », « Dictatures », « Les Perles du Général » et « 
+        <persName ana="Elie_Lescot">Élie Lescot</persName>
+         » ainsi que des inédits tels « La fortune politique de 
+        <persName ana="Dumarsais_Estime">Dumarsais Estimé </persName>
+        » et « La diplomatie se meurent et les ambassadeurs ont peur ».
+      </p>
+      <p>
+        Il semble que les tout premiers 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         de 
+        <placeName ana="Sixto">Sixto</placeName>
+         aient été composés en 
+        <placeName ana="Afrique">Afrique</placeName>
+         et c’est une phrase, provenant de La Condition humaine d’
+        <persName ana="Andre_Malraux">André Malraux</persName>
+        , qui aurait servi de catalyseur à la création de l’œuvre de 
+        <placeName ana="Sixto">Sixto</placeName>
+        . La phrase qui a retenu l’attention de 
+        <placeName ana="Sixto">Sixto</placeName>
+         est la suivante : « Il faut se défendre des absurdités de la vie, et l’on ne peut se défendre qu’en créant ». Selon 
+        <persName ana="Gertrude_Sejour">Gertrude Séjour</persName>
+        , « deux jours après, Léa Kokoye était née. Et suivirent, Ti Saintaniz, 
+        <persName ana="Me_Zabelbok">Me Zabèlbok</persName>
+        , etc. ». Quoique l’œuvre de 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         soit composée de 
+        <placeName ana="Lodyans">Lodyans</placeName>
+          et non de contes, on fait souvent référence à lui comme étant un conteur plutôt qu’un 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è. Cette confusion est probablement due au fait qu’il n’existe pas de définition théorique satisfaisante du genre du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Le 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        , en tant que récit, est conté ou raconté certes, mais cela ne fait du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è un conteur. Il est donc plus approprié d’utiliser le terme créole 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è plutôt que conteur ou « conteur de 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         ». L’écrivain et géographe haïtien 
+        <persName ana="Georges_Anglade">Georges Anglade</persName>
+         est le seul à avoir proposé une esquisse de théorie du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Dans un article publié en 2004, Anglade affirme qu’il a dû se forger sur le tas ses propres outils d’analyse qui lui ont permis de « définir approximativement les cinq éléments qui caractérisent ce genre d’un nouveau genre, genre unique en son genre : miniature, mosaïque, jouvence, voyance, cadence ».
+      </p>
+      <p>
+        Si l’analyse de Lea Kokoye montre, contrairement à ce que soutient Anglade, que ce 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         ne correspond pas aux critères de la miniature et de la mosaïque, cette œuvre répond par contre aux trois autres critères du modèle. En fait, ce sont les critères de la jouvence, de la voyance et de la cadence qui font toute la force de la théorie d’Anglade puisqu’ils constituent des composants invariables et consubstantiels du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . L’actualité, la critique et l’humour sont des critères qui permettent de rendre compte de la singularité du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         par rapport à tous les autres genres littéraires oraux et écrits. Comme le soutient Anglade, la spécificité du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         réside dans « une articulation complexe et unique de ces trois éléments ». Le modèle d’Anglade peut être utilisé comme une grille d’analyse du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Parmi ces trois éléments, l’humour entretient le rapport le plus étroit avec le 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        , défini par Pompilus comme un « récit d’un fait vrai ou fictif, mais plaisant… ». La pertinence du critère de la cadence dans l’hypothèse d’Anglade est indiscutable, compte tenu du rire que provoquent les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+          des quatre plus grands 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , à savoir le maître 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+        , 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+        , 
+        <persName ana="Theodore_Beaubrun">Théodore Beaubrun</persName>
+         dit Languichatte et 
+        <persName ana="Jean_Gesner_Henry">Jean Gesner Henry</persName>
+         alias 
+        <persName ana="Koupe_Kloue">Koupe Kloue</persName>
+         (
+        <persName ana="Coupe_Cloue">Coupé Cloué</persName>
+        ).
+      </p>
+      <p>
+        De ces quatre 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è, 
+        <placeName ana="Sixto">Sixto</placeName>
+         est celui qui se rapproche le plus de Lhérisson. Le rire que suscite ses 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         est, de par sa complexité, comparable à celui de Lhérisson. Prenons par exemple « Lea Kokoye » et « 
+        <persName ana="Ti_Sentaniz">Ti Sentaniz</persName>
+         ». Ces deux 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         suscitent le rire certes, mais ils sont loin d’être de simples divertissements frivoles. Le rire suscité par « Lea Kokoye » et « 
+        <persName ana="Ti_Sentaniz">Ti Sentaniz</persName>
+         », qui oscillent d’ailleurs entre le comique et le tragique, confère à ces 
+        <placeName ana="Lodyans">Lodyans</placeName>
+          une dimension à la fois distrayante et dérangeante. Inspiré probablement du réalisme de 
+        <placeName ana="Zoune">Zoune</placeName>
+         chez sa nainnaine, « 
+        <persName ana="Ti_Sentaniz">Ti Sentaniz</persName>
+         » aborde la question de la domesticité infantile en 
+        <placeName ana="Haiti">Haïti</placeName>
+         avec une clairvoyance telle qu’on ne songerait même pas à questionner le sérieux de ce 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Il est évident que 
+        <placeName ana="Sixto">Sixto</placeName>
+         n’a pas créé ses 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         dans la seule intention de faire rire puisqu’ils répondent parfaitement bien à la formule latine « castigat ridendo mores ».
+      </p>
+      <p>
+        Pour dénoncer la situation déshumanisante des nombreux enfants 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         traités en esclave (les restavèk), 
+        <placeName ana="Sixto">Sixto</placeName>
+         utilise, à l’instar de Lhérisson, un langage à la fois comique et réaliste. Le rire du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         provient souvent en effet d’une situation tristement comique. Chez 
+        <placeName ana="Sixto">Sixto</placeName>
+        , tout comme chez Lhérisson, le rire est puissant parce qu’il provient précisément de ce dont on ne doit pas rire, ni même parler. Le comique du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+          peut donc être vu comme un mode d’examen lucide du réel et de transgression des normes sociales et morales, car le rire qui en découle est souvent libérateur et contestataire. C’est justement la dialectique entre le rire et la souffrance, le 
+        <placeName ana="Bonheur">Bonheur</placeName>
+         et la douleur, qui est constitutive de ce comique du  
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Il reste donc à écrire, parallèlement à l’histoire de la « tragédie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         », celle du « rire haïtien ».
+      </p>
+      <p>
+        Dans « Lea Kokoye », 
+        <placeName ana="Sixto">Sixto</placeName>
+         oppose la situation d’ une femme d’origine modeste à celle d’une petite bourgeoise pour dénoncer le clivage et l’injustice sociale qui règne en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Complètement aliéné, le personnage éponyme du 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         « 
+        <persName ana="Maitre_Zabelbok">Maître Zabèlbok</persName>
+         » refuse de travailler et préfère se faire entretenir par sa femme. Dans « 
+        <persName ana="Ti_Sentaniz">Ti Sentaniz</persName>
+         », le 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è pointe du doigt la tragique situation des multiples restavèk 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         alors que dans « 
+        <persName ana="Gwo_Moso">Gwo Moso</persName>
+         », il nous fait rire à gorge déployée.
+      </p>
+      <p>
+        L’œuvre de 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+         est à la fois une forme de divertissement et un outil de réflexion, de critique politique, sociale et culturelle. Compte tenu de leur richesse littéraire, historique et sociologique, les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         de 
+        <placeName ana="Sixto">Sixto</placeName>
+         n’ont rien à envier à ceux des écrivains 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è  d’hier et d’aujourd’hui. Pourquoi les œuvres de certains 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è  sont-elles enseignées et enrichies par des commentaires critiques alors que celle de 
+        <placeName ana="Sixto">Sixto</placeName>
+         reste encore marginalisée ? Est-ce que cette marginalisation est due au caractère oral des 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         de 
+        <placeName ana="Sixto">Sixto</placeName>
+         ou par le fait d’être principalement narrés en créole ? Ces deux éléments, qui semblent malheureusement constituer un handicap, devraient au contraire pouvoir contribuer à un plus grand rayonnement de l’œuvre de 
+        <placeName ana="Sixto">Sixto</placeName>
+        . Contrairement à la plupart des écrivains 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è  
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         qui produisent exclusivement en français et qui utilisent l’oralité créole comme matière première pour continuer à illustrer et à enrichir cette langue, 
+        <placeName ana="Sixto">Sixto</placeName>
+         accorde une place privilégiée à la langue maternelle de l’ensemble de la population 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Pour leur contribution à la valorisation et à l’enrichissement de la langue créole ainsi que pour leur visée esthétique, les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+          de 
+        <placeName ana="Sixto">Sixto</placeName>
+         méritent d’être préservés précieusement et d’être étudiés dans les écoles haïtiennes.
+      </p>
+      <p>Notes:</p>
+      <p>
+        * Nous préférons utiliser le terme en créole, 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        è – dérivé de 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         – plus approprié que lodyanseur.
+** Le terme en créole, 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        , a été proposé par 
+        <persName ana="Georges_Anglade">Georges Anglade</persName>
+         pour nommer en français un genre de récit propre à la littérature orale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         que les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         francophones désignaient traditionnellement par « audience » en français. Par souci de neutralité et pour rester en conformité avec la tendance générale, qui veut que les emprunts prennent le genre masculin en français, nous préférons, contrairement à Anglade, dire le 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         (au masculin).
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Maurice_Sixto_biblio">
+    <div ref="http://ile-en-ile.org/sixto/" xml:id="Maurice_Sixto_biblio_auteur_ile_en_ile">
+      <list subtype="volume i (1974)">
+        <item>Lea Kokoyé</item>
+      </list>
+      <list subtype="volume ii (1977)">
+        <item>Zabèlbòk Berachat</item>
+      </list>
+      <list subtype="volume iii (1976)">
+        <item>Ti Sentaniz</item>
+      </list>
+      <list subtype="volume iv (1978)">
+        <item>Gwo Moso</item>
+      </list>
+      <list subtype="volume v (1978)">
+        <item>J’ai vengé la race</item>
+      </list>
+      <list subtype="volume vi (1979)">
+        <item>Madan Jul</item>
+      </list>
+      <list subtype="publications posthumes">
+        <item>Antèman Bèlmè</item>
+      </list>
+      <list subtype="œuvres inédites">
+        <item>Azibe</item>
+      </list>
+      <list subtype="lodyans">
+        <item>Leya Kokoye ak Lot Lodyans. Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="sur maurice sixto">
+        <item>Anglade, Georges. « Les lodyanseurs du soir, il y a 100 ans, le passage à l’écrit ». Écrire en pays assiégé, Amsterdam / New York: Rodopi, 2004: 61-87.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Maurice_Sixto_web">
+    <list type="ile_en_ile">
+      <item ref="http://www.fondationmauricesixto.org/">La Fondation Maurice A. Sixto</item>
+      <item ref="http://www.fondationmauricesixto.org/NewOldSite/index.php?option=com_content&amp;view=article&amp;id=11:auteur-de-ti-sentaniz-est-mort-dune-crise-cardiaque&amp;catid=4:presse&amp;Itemid=35">« L’auteur de Ti Sentaniz est mort d’une crise cardiaque »</item>
+      <item ref="http://www.potomitan.info/ayiti/sixto.php">La révolution tranquille de Maurice Sixto</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/articleprint/28552.html">Maurice Sixto sur support écrit</item>
+      <item ref="https://web.archive.org/web/20070104002033/http://www.roroli.com/flexnews/news.php?newsid=9">Maurice Alfredo Sixto (23 mai 1919-12 mai 1984), conteur, humoriste, enseignant</item>
+      <item ref="http://radionouveaumonde.com/2012/05/24/maurice-sixto-vivant-et-present-a-travers-ses-objets/">Maurice Sixto, vivant et présent à travers ses objets</item>
+      <item ref="http://www.alterpresse.org/spip.php?article4665#.U5MveV5X9g0">Maurice Sixto : Un modèle toujours vivant</item>
+      <item ref="http://youtu.be/oyciBxBbSxY">Léa Kokoyé</item>
+      <item ref="http://youtu.be/oyciBxBbSxY">Léa Kokoyé</item>
+      <item ref="http://youtu.be/MQOQY3kq0Lg">Ti Sentaniz</item>
+      <item ref="http://youtu.be/iETOZbHhVv8">J’ai vengé la race</item>
+    </list>
   </div>
 </TEI>

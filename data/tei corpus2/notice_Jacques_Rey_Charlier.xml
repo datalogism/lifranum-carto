@@ -1,28 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jacques_Rey_Charlier_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jacques_Rey_Charlier" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jacques Rey Charlier</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jacques_Rey_Charlier_fiche_autorite">
+  <div n="1" xml:id="Jacques_Rey_Charlier_fiche">
     <person ana="Jacques_Rey_Charlier" sex="na">
       <persName>Jacques Rey Charlier</persName>
       <death source="ile_en_ile_auto">
         <date>2006-01-27 00:00:00+00:00</date>
       </death>
     </person>
+  </div>
+  <div n="2" xml:id="Jacques_Rey_Charlier_bio">
+    <text hand="Marie-Cécile Corvington" ref="http://ile-en-ile.org/charlier_jacques/" xml:id="Jacques_Rey_Charlier_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Jacques_Rey_Charlier">Jacques Rey Charlier</persName>
+         est né le 4 mai 1945 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), fils d’
+        <persName ana="Etienne Charlier_D">Étienne D. Charlier</persName>
+         (avocat et historien) et de 
+        <persName ana="Ghislaine_Rey">Ghislaine Rey</persName>
+         (journaliste, activiste et écrivaine). Ses études secondaires terminées, il part pour les États-Unis en décembre 1965 pendant la période la plus répressive du régime duvaliériste. Après avoir commencé des études en architecture à 
+        <placeName ana="New_York">New York</placeName>
+         University et une courte période comme étudiant au New School for Social Research, il suit des cours de photographie avec la « Famous Photographers School », suivi par des cours de cinéma au German School.
+      </p>
+      <p>
+        Avec d’autres artistes et écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         exilés à 
+        <placeName ana="New_York">New York</placeName>
+         (
+        <persName ana="Georges_Castera">Georges Castera</persName>
+        , 
+        <persName ana="Herve_Denis">Hervé Denis</persName>
+        , 
+        <persName ana="Daniel_Huttinot">Daniel Huttinot</persName>
+        , Josaphat-
+        <persName ana="Robert_Large">Robert Large</persName>
+         et Jean-
+        <persName ana="Marie_Roumer">Marie Roumer</persName>
+        ), 
+        <persName ana="Jacques_Charlier">Jacques Charlier</persName>
+         fond en 1969 la troupe de théâtre 
+        <placeName ana="Kouidor">Kouidor</placeName>
+         qu’il dirigera jusqu’en 1975. La troupe joue dans les parcs et espaces publiques de la ville en français, en créole haïtien et en anglais pour un public fidèle. À la même époque, elle produit également en 
+        <placeName ana="France">France</placeName>
+        , au 
+        <placeName ana="Canada">Canada</placeName>
+         et à la 
+        <placeName ana="Martinique">Martinique</placeName>
+        . La troupe 
+        <placeName ana="Kouidor">Kouidor</placeName>
+         est également invitée à jouer au Festival des Nations à la Sorbonne en 1972 et au Festival Culturel de Fort-de 
+        <placeName ana="France">France</placeName>
+         en 
+        <placeName ana="Martinique">Martinique</placeName>
+         à plusieurs reprises (en 1975 et 1977) sur l’invitation d’
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        .
+      </p>
+      <p>
+        <persName ana="Jacques_Rey_Charlier">Jacques Rey Charlier</persName>
+         a écrit et a mis en scène des textes dramatiques pour le Festival de 
+        <placeName ana="Limoges">Limoges</placeName>
+        , pour le Théâtre du Quadrant au Moulin d’Andé et à 
+        <placeName ana="Lille">Lille</placeName>
+        , et pour le Théâtre de la Soif Nouvelle en 
+        <placeName ana="Martinique">Martinique</placeName>
+        . En 1989, Radio 
+        <placeName ana="France">France</placeName>
+        -Culture diffuse trois de ses courts récits et sa pièce de théâtre, La Passion d’Henriette 
+        <persName ana="Saint_Marc">Saint Marc</persName>
+         fait périodiquement partie de leur programme.
+      </p>
+      <p>
+        <persName ana="Lire_Charlier">Lire Charlier</persName>
+        , c’est partir en voyage dans l’aventure. En ses propres mots : « J’ai achevé une œuvre où la saga 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         est ouvertement inscrite au cœur du GRAND HERITAGE PAÏEN DE L’HISTOIRE MONDIALE, marchant de pair avec toutes les grandes épopées non monolâtres d’aujourd’hui et d’hier. Notre Vodou est alors conceptualisé comme la TRADITION du pays, son foyer d’identité culturel polythéiste sans lequel rien n’existe, certainement pas la nationalité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         ».
+      </p>
+      <p>
+        Son œuvre entière est peuplée de personnages ancrés dans la vie de tous les jours et dans l’histoire de l’île d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Les femmes en particulier y occupent un rôle central comme mères, filles, amantes, héroïnes tragiques, déesses et prêtresses.
+      </p>
+      <p>
+        Sa poésie épouse un lyrisme fiévreux, parfois vertigineux, puisant son originalité et sa force dans toutes les dimensions de la vie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et de sa riche culture et sa tradition orale.
+      </p>
+      <p>
+        Son œuvre théâtrale met en scène des personnages historiques et invite à explorer le monde mythologique des habitants de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         depuis les natifs Taïno and Ciboney, en passant par les Frères-de-la-Côte, les colons et les peuples importés d’
+        <placeName ana="Afrique">Afrique</placeName>
+        , sans oublier les dieux vodous qui font partie intégrale de l’identité culturelle 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>« À l’image du Vaudou de son pays natal, son théâtre est la rencontre impossible du quotidien et de l’imaginaire. Rey-Charlier superpose les niveaux de languages avec une générosité qui laisse rêveur » (Le Populaire du Centre, 17 octobre 1985).</p>
+      <p>
+        Son œuvre a été publiée, mise en scène, diffusée et exposée aux États-Unis, en 
+        <placeName ana="France">France</placeName>
+        , au 
+        <placeName ana="Canada">Canada</placeName>
+         et aux 
+        <placeName ana="Antilles">Antilles</placeName>
+         françaises. Ses poèmes ont été publiés dans les magazines littéraires La Main de Singe, Mot pour Mot, Po&amp;sie, La Lettre Internationale et Sapriphage en 
+        <placeName ana="France">France</placeName>
+        , et Chemin Critiques et Conjonction en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Des articles sur son oeuvre ont paru dans divers journaux : 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 
+        <placeName ana="Marche">Marche </placeName>
+        (
+        <placeName ana="Miami">Miami</placeName>
+        ), 
+        <persName ana="Collectif_Parole">Collectif Parole </persName>
+        (
+        <placeName ana="Montreal">Montréal</placeName>
+        ) et Le Nouvelliste (
+        <placeName ana="Haiti">Haïti</placeName>
+        ).
+      </p>
+      <p>
+        En octobre 1984, il part pour 
+        <placeName ana="La_France">la France</placeName>
+         où il séjourne au Moulin d’Andé, invité par 
+        <persName ana="Suzanne_Lipinska">Suzanne Lipinska</persName>
+         qui dirige ce centre culturel en 
+        <placeName ana="Normandie">Normandie</placeName>
+        . Il s’y installe pendant trois ans comme écrivain, metteur en scène et sculpteur en résidence. Dès le mois de décembre 1984, il commence à construire à partir d’objets trouvés des « livres-objets », des « boîtes » sur le thème du « Voyage Imaginaire ». Ils feront partie d’expositions collectives à 
+        <placeName ana="Paris">Paris</placeName>
+         et à 
+        <placeName ana="Lille">Lille</placeName>
+        , et en exhibitions solo à 
+        <placeName ana="Limoges">Limoges</placeName>
+        , au Moulin d’Andé et à 
+        <placeName ana="Rouen">Rouen</placeName>
+        .
+      </p>
+      <p>
+        Avec 
+        <persName ana="Alain_Kremski">Alain Kremski</persName>
+         et 
+        <persName ana="Thierry_Destrez">Thierry Destrez</persName>
+        , 
+        <persName ana="Jacques_Rey_Charlier">Jacques Rey Charlier</persName>
+         crée au Moulin d’Andé un spectacle autour des Élégies et du Testament de 
+        <persName ana="Rainer_Maria_Rilke">Rainer Maria Rilke</persName>
+        . En 1987, son état de santé l’oblige à retourner à 
+        <placeName ana="New_York">New York</placeName>
+         où il commence de longs traitements de dialyse.
+      </p>
+      <p>À partir de 1987, il se consacre presque uniquement à l’écriture en français et en anglais ; il produit et achève : un roman historique, Dodoméa ; un livre de contes, Tales of Caliban’s Slumber ; et un long poème épique, Voyageurs sans esprit.</p>
+      <p>
+        Il ne cesse de travailler pendant toute sa longue maladie et jusqu’à sa mort survenue le 27 décembre 2006 à sa résidence à 
+        <placeName ana="Harlem">Harlem</placeName>
+         à l’âge de 61 ans. Il a laissé un nombre important de manuscrits achevés mais inédits.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jacques_Rey_Charlier_biblio">
+    <div ref="http://ile-en-ile.org/charlier_jacques/" xml:id="Jacques_Rey_Charlier_biblio_auteur_ile_en_ile">
+      <list subtype="ailleurs sur le web">
+        <item>Kouidor.com – site des archives du groupe Kouidor (en préparation).</item>
+      </list>
+      <list subtype="poésie">
+        <item>Le Scapulaire des Armuriers. Illustrations de Davertige. New York: Jacques Charlier, 1976.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>L’Aventure éternelle. Rouen. Festival de la Francophonie, octobre 1985.</item>
+      </list>
+      <list subtype="expositions de sculpture">
+        <item>Exposition de « livres-objets » et « boites ». Moulin d’Andé, novembre 1986.</item>
+      </list>
+      <list subtype="essais/prose">
+        <item>L’Exception en règle, 1991.
+I. New York Hospital, Manhattan, ce 19 mai 1991
+II. Le Plaisir de Fatras-Bâton de Syto Cavé, New York City, 1er mai 1991
+L’Être de nos aveux/de notre scène/et de notre plaisir
+Si Près de la machine, 8 juin-8 juillet 1989</item>
+      </list>
+      <list subtype="romans">
+        <item>D’Un cratère en forme de cœur, 1989.
+Belème et Balata
+La Veuve de Cyparis</item>
+      </list>
+      <list subtype="contes">
+        <item>Tales of Caliban’s Slumber.
+Thaezin
+The Water Mom
+The Story of Olalla &amp; Chrisostome
+One Zaza Doll
+The Banza, the Seven-Headed-Beast, &amp; the Box of Days
+My Beauty
+Bottomless Little Circle (The Tale of Desperate Characters)</item>
+      </list>
+      <list subtype="sur l’oeuvre de jacques rey charlier">
+        <item>« Vaudou mais Francophone ». La Montagne (octobre 1985).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jacques_Rey_Charlier_web">
+    <list type="ile_en_ile">
+      <item ref="https://po-et-sie.fr/wp-content/uploads/2018/08/50_1989_p14_18.pdf">Autoportrait d’un orpailleur</item>
+      <item ref="http://web.archive.org/web/20031122202707/http://elvir.univ-poitiers.fr/article.php3?id_article=617">ombres coulantes</item>
+    </list>
   </div>
 </TEI>

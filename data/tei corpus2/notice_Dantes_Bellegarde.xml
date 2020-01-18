@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Dantes_Bellegarde_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Dantes_Bellegarde" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Dant�s Bellegarde</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Dantès Bellegarde</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Dantes_Bellegarde_fiche_autorite">
+  <div n="1" xml:id="Dantes_Bellegarde_fiche">
     <person ana="Dantes_Bellegarde" sex="na">
-      <persName>
-        <surname source="bnf">Dant�s</surname>
-        <forename source="bnf">Bellegarde</forename>
-      </persName>
+      <persName>Dantès Bellegarde</persName>
       <idno type="BNF">
         cb12179005z#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12179005z#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/46803770"/>
       </idno>
       <idno type="VIAF">
-        Dant�s_Louis_Bellegarde
-        <g ref="http://fr.dbpedia.org/resource/Dant�s_Louis_Bellegarde"/>
+        Dantès_Louis_Bellegarde
+        <g ref="http://fr.dbpedia.org/resource/Dantès_Louis_Bellegarde"/>
       </idno>
       <birth source="viaf">
         <date>1877-05-18</date>
@@ -63,6 +60,184 @@
       <occupation source="viaf">essayists</occupation>
       <occupation source="viaf">diplomats</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Sylvain_Georges">
+          <persName>Sylvain Georges</persName>
+        </person>
+        <person ana="MeNos_Solon">
+          <persName>Ménos Solon</persName>
+        </person>
+        <person ana="Duval_A">
+          <persName>Duval A</persName>
+        </person>
+        <person ana="Cook_Mercer">
+          <persName>Cook Mercer</persName>
+        </person>
+        <person ana="Charles_Louis">
+          <persName>Charles Louis</persName>
+        </person>
+        <person ana="Vincent_SteNio">
+          <persName>Vincent Sténio</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Dantes_Bellegarde_bio">
+    <text ref="http://ile-en-ile.org/bellegarde/" xml:id="Dantes_Bellegarde_bio_auteur_ile_en_ile">
+      <p>
+        Louis-
+        <persName ana="Marie_Dantes_Bellegarde">
+          Marie Dantès 
+          <placeName ana="Bellegarde">Bellegarde</placeName>
+        </persName>
+         est né le 18 mai 1877 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Issu d’une famille qui fut proche des instances politiques haïtiennes dès les origines, il est d’abord élève au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+        , puis mène des études de droit et devient avocat. Il s’intéresse aux débats touchants à la généralisation de l’instruction publique depuis les années 1885-1890. Il sera en 1897 lui-même professeur au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+        . Co-fondateur, avec 
+        <placeName ana="Petion">Pétion</placeName>
+         Gé
+        <placeName ana="Rome">Rome</placeName>
+        , de la revue littéraire La Ronde (1898 à 1902), il marque ainsi son attachement à un courant de pensée ouvert sur la perspective de la modernité et un certain universalisme, par opposition aux écoles dites patriotiques qui en appellent à un strict particularisme haïtien.
+      </p>
+      <p>
+        En 1904, il est nommé 
+        <placeName ana="Directeur">Directeur</placeName>
+         de l’Instruction publique, et commence à mener une politique de réforme. Mais il est révoqué en 1907, en raison de ses opinions firministes. Il devient comptable puis chef de service à la Banque nationale, tout en collaborant à la revue 
+        <placeName ana="Haiti">Haïti</placeName>
+         littéraire et scientifique (1911-1912). Il devient le secrétaire particulier de 
+        <persName ana="Michel_Oreste">Michel Oreste</persName>
+         pendant sa courte présidence (1913-1914). De retour à la Banque Nationale, il prend conscience de l’imminence de l’occupation américaine.
+      </p>
+      <p>
+        De 1918 à 1921, sous la présidence de Dartiguenave (1915-1922), 
+        <placeName ana="Bellegarde">Bellegarde</placeName>
+         est secrétaire d’État de l’instruction publique puis de l’agriculture. Pendant cette période d’occupation et de guerre, il mène un travail acharné pour maintenir en état le système d’enseignement, en cherchant à augmenter notamment les salaires des instituteurs, et il participe par ses écrits, ses discours et ses articles au sursaut national, aux côtés de 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+         et de 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , tout en se démarquant de ce dernier sur la question de l’indigénisme.
+      </p>
+      <p>
+        Nommé en 1920 à la cour internationale de justice de 
+        <placeName ana="La_Haye">La Haye</placeName>
+        , 
+        <persName ana="Dantes_Bellegarde">
+          Dantès 
+          <placeName ana="Bellegarde">Bellegarde</placeName>
+        </persName>
+         commence en 1921 une carrière diplomatique. Il participe au second congrès Pan Africain organisé par W.E.B. Du Bois en tant que président honoraire. Il est nommé ministre plénipotentiaire à 
+        <placeName ana="Paris">Paris</placeName>
+        , délégué d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à la Société des Nations, à 
+        <placeName ana="Geneve">Genève</placeName>
+        , où il dénonce régulièrement l’occupation américaine. Il est aussi le représentant d’
+        <placeName ana="Haiti">Haïti</placeName>
+         au 
+        <placeName ana="Vatican">Vatican</placeName>
+        . 
+        <placeName ana="Bellegarde">Bellegarde</placeName>
+         est dans ces années considéré comme un très grand orateur, et ses interventions sont largement commentées. En 1922, il est directement nommé par le gouvernement français Commandeur de la Légion d’honneur, distinction rarement accordée à un étranger. En 1930, il est ambassadeur à 
+        <placeName ana="Washington">Washington</placeName>
+        , D.C.
+      </p>
+      <p>
+        Il est rappelé en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1936. Il devient, jusqu’en 1941, 
+        <placeName ana="Directeur">Directeur</placeName>
+         de l’École Normale Supérieure, qui forme les enseignants et les cadres de l’administration de l’Instruction publique. Il sera enfin chargé de missions à 
+        <placeName ana="Washington">Washington</placeName>
+         en 1946 et en 1957 tout en représentant souvent 
+        <placeName ana="Haiti">Haïti</placeName>
+         lors de rencontres internationales, notamment en 
+        <placeName ana="Amerique_Centrale">Amérique centrale</placeName>
+         et en 
+        <placeName ana="Amerique">Amérique</placeName>
+         latine. Il est régulièrement honoré et décoré lors de ses déplacements. Régulièrement honoré et décoré lors de ses déplacements, 
+        <placeName ana="Bellegarde">Bellegarde</placeName>
+         meurt à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 16 juin 1966.
+      </p>
+      <p>
+        L’œuvre de 
+        <placeName ana="Bellegarde">Bellegarde</placeName>
+        , inscrite dans son temps et dans les circonstances, est nourrie par le positivisme comtien et le bergsonisme. Ses essais sont souvent composés de recueils d’articles liés à l’actualité ainsi que de discours prononcés lors d’occasions officielles. Mais 
+        <placeName ana="Bellegarde">Bellegarde</placeName>
+         a également imprimé sa trace dans l’enseignement haïtien par la rédaction d’ouvrages scolaires, en particulier dans le domaine de l’histoire. Politiquement marquée, cette œuvre radicalement opposée « aux doctrines malfaisantes du racisme athée et du bolchévisme sanguinaire » (
+        <placeName ana="Haiti">Haïti</placeName>
+         et ses problèmes, 1941) ne parvient pas cependant à se départir d’une attitude ambiguë à l’égard de 
+        <placeName ana="La_France">la France</placeName>
+         (« Je suis certain de rester […] dans la tradition de cette culture française, faite de clarté, de sociabilité et de sympathie, et dont 
+        <persName ana="M_Daniel">M. Daniel</persName>
+        -Rops, dans un récent article du Temps Présent de 
+        <placeName ana="Paris">Paris</placeName>
+        , reconnaît 
+        <persName ana="Stenio Vincent_M">M. Sténio Vincent</persName>
+        , 
+        <persName ana="Leon Laleau_M">
+          M. Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+        , 
+        <persName ana="Clement Magloire_M">M. Clément Magloire</persName>
+        , 
+        <persName ana="Abel Leger_M">M. Abel Léger</persName>
+        , le docteur 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , et moi-même, à côté de beaucoup d’autres, comme les tenants fidèles en 
+        <placeName ana="Haiti">Haïti </placeName>
+        »), comme à l’égard des populations les plus pauvres d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , souvent représentée comme « arriérées ». Mais sa critique tenace de l’enfermement dans une identité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         peu ou mal définie peut être lue aussi comme une critique a priori des errances duvaliéristes.
+      </p>
+      <p>
+        On trouvera dans Au Service d’
+        <placeName ana="Haiti">Haïti</placeName>
+         de multiples témoignages de ses contemporains, qui montrent le large éventail des activités de 
+        <placeName ana="Bellegarde">Bellegarde</placeName>
+        , ainsi que les marques d’une renommée internationale exceptionnelle.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.dantes-bellegarde.14059.html" xml:id="Dantes_Bellegarde_bio_auteur_spla">
+      <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Dantes_Bellegarde_biblio">
+    <div ref="http://ile-en-ile.org/bellegarde/" xml:id="Dantes_Bellegarde_biblio_auteur_ile_en_ile">
+      <list subtype="en español">
+        <item>La Nación haitiana. Trad. Lissette Vega de Purcell. Santo Domingo: Sociedad Dominicana de Biobliófilos, 1984.</item>
+      </list>
+      <list subtype="essais">
+        <item>L’Occupation américaine d’Haïti. Port-au-Prince: Chéraquit, 1924; L’Occupation américaine d’Haïti, ses conséquences morales et économiques. Port-au-Prince: Chéraquit, 1929; Éditions Lumière, 1996.</item>
+      </list>
+      <list subtype="sur l’oeuvre de dantès bellegarde">
+        <item>Bellegarde-Smith, Patrick In the Shadow of Powers; Dantès Bellegarde in Haitian Social Thought. Atlantic Highlands, NJ: Humanities Press International, 1985.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Dantes_Bellegarde_web">
+    <list type="ile_en_ile">
+      <item ref="http://catnyp.nypl.org/">Catnyp, New York Public Library </item>
+      <item ref="http://ufdc.uflib.ufl.edu/ufdc/?b=UF00094091&amp;v=00001">Écrivains haïtiens, notices biographiques et pages choisies</item>
+      <item ref="http://ufdc.uflib.ufl.edu/ufdc/?b=UF00094091&amp;v=00001">Écrivains haïtiens, notices biographiques et pages choisies</item>
+      <item ref="http://dloc.com/UF00095144/00001">Haïti et ses problèmes</item>
+    </list>
   </div>
 </TEI>

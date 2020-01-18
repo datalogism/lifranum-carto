@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gerard_Chenet" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Gérard Chenet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Gerard_Chenet_fiche">
+    <person ana="Gerard_Chenet" sex="na">
+      <persName>Gérard Chenet</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Gerard_Chenet_bio">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/chenet/" xml:id="Gerard_Chenet_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         est né le 14 avril 1927 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il fait ses études primaires à Saint-Louis-de-Gonzague et ses études secondaires au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         où il rencontre entre autres 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         et Klérimond. Son père est un grand bourgeois haïtien, métis, et sa mère vient d’un milieu modeste de la périphérie de la capitale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Son père est d’ailleurs mis à l’écart à cause de son mariage, ayant franchi la frontière raciale, socio-économique et de classe.
+      </p>
+      <p>
+        En 1946, 
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         est en première au lycée comme Depestre et 
+        <persName ana="Theodore_Baker">Théodore Baker</persName>
+         à Saint-Louis-de-Gonzague. Le lycée est régulièrement visité par des conférenciers français comme 
+        <persName ana="Andre_Maurois">André Maurois</persName>
+         par exemple. Influencé par les Pères enseignant au lycée, les jeunes lancent un 
+        <placeName ana="Journal">Journal</placeName>
+        , La Ruche. Cette expérience individuelle vécue par 
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         est indissociable de l’expérience collective vécue par toute une tranche de la jeunesse 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         ou du moins port-au-princienne de l’époque. Le 
+        <placeName ana="Journal">Journal</placeName>
+         existe déjà quand Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         et 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         font leur apparition dans le groupe. La Ruche est un petit 
+        <placeName ana="Journal">Journal</placeName>
+         manuscrit plutôt littéraire, reflétant les idées des auteurs étudiés par les lycéens qui circulait de main en main. Le titre même fait l’objet de beaucoup de discussions de la part des jeunes.
+      </p>
+      <p>
+        Dès le premier numéro, La Ruche s’avère comme un 
+        <placeName ana="Journal">Journal</placeName>
+         politisé, visant à faire prendre conscience de la situation politique en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , qui vit alors sous la présidence d’
+        <persName ana="Elie_Lescot">Élie Lescot</persName>
+        . Le troisième numéro est un numéro spécial, qui sort pour la Noël. Alexis et 
+        <placeName ana="Bloncourt">Bloncourt</placeName>
+         ont osé dire de nombreuses choses sur la direction du pays. Le numéro suscite une grande réaction au Ministère de l’Intérieur et Depestre, qui avait accepté la direction du numéro avec ses conséquences possibles, et Baker sont arrêtés. La jeunesse port-au-princienne est sensibilisée par ce fait et une grève massive se déclare en protestation contre la fermeture du 
+        <placeName ana="Journal">Journal</placeName>
+        . La grève est un prétexte qui sert de déclenchement à des réactions dans tous les secteurs du travail et de l’administration. La grève des étudiants devient une révolution et entraîne le départ du 
+        <persName ana="President_Lescot">Président Lescot</persName>
+        .
+      </p>
+      <p>
+        La révolution de 1946 a manifestement beaucoup influencé la génération qui l’a faite et qui l’a vécue. C’est une période qui a ouvert les yeux de la jeunesse urbaine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et qui a permis selon Chenet de reposer tous les problèmes qui existaient en 
+        <placeName ana="Haiti">Haïti</placeName>
+         depuis l’indépendance sur le clivage racial et donc socio-économique. L’expérience de La Ruche a permis de prendre conscience des clivages et de transcender un comportement social de dénigrement de la culture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , en particulier de la langue. La mère de Chenet ne parlait pas français et donc la question était particulièrement sensible pour lui. La Ruche a cessé de paraître suite à des failles et ruptures dans le groupe. La 
+        <placeName ana="Nouvelle_Ruche">Nouvelle Ruche</placeName>
+         voit alors le jour et devient l’organe de presse de la jeunesse révolutionnaire. Le parti communiste se crée en même temps. La 
+        <placeName ana="Nouvelle_Ruche">Nouvelle Ruche</placeName>
+         durera jusqu’au départ de 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+        . Entretemps, 
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         collabore au 
+        <placeName ana="Journal">Journal</placeName>
+         La 
+        <placeName ana="Nation">Nation</placeName>
+        , l’organe du Parti Socialiste Populaire. À nouveau son sort est lié à l’actualité politique. À la suite du départ du 
+        <persName ana="President_Lescot">Président Lescot</persName>
+        , le 
+        <persName ana="General_Magloire">général Magloire</persName>
+         qui avait pris le pouvoir à la tête d’une junte militaire avait organisé des élections présidentielles libres au cours desquelles 
+        <persName ana="Dumarsais_Estime">Dumarsais Estimé</persName>
+         est élu. Trois ans plus tard, Estimé est renversé par Magloire à son tour. Magloire commence alors à persécuter les journalistes et ses soldats brisent les presses de La 
+        <placeName ana="Nation">Nation</placeName>
+        . Le 
+        <placeName ana="Journal">Journal</placeName>
+         ne peut plus fonctionner. Chenet exerce alors divers métiers. Il travaille entre autres dans le cabinet de Rigaud, participe au projet de l’exposition internationale d’Estimé et au projet de la zone de 
+        <placeName ana="La_Saline">la Saline</placeName>
+         (devenue 
+        <placeName ana="Cite_Soleil">Cité Soleil</placeName>
+        ). Avec 
+        <persName ana="Albert_Mangones">Albert Mangonès</persName>
+        , Chenet participe aussi à un projet de restauration de La Citadelle 
+        <placeName ana="Laferriere">Laferrière</placeName>
+        . Finalement, il part au 
+        <placeName ana="Canada">Canada</placeName>
+         en 1955, son désir de devenir architecte étant devenu impossible à réaliser en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        En 1957 et 1958, Chenet part étudier les sciences politiques à 
+        <placeName ana="Nancy">Nancy</placeName>
+        , avant de partir pour l’Union Soviétique au Festival de la Jeunesse. Il reçoit alors une bourse de l’Union Internationale des Étudiants pour étudier l’histoire africaine en Europe de l’Est, où il fait une thèse de doctorat sur les relations entre 
+        <placeName ana="Haiti">Haïti</placeName>
+         et l’
+        <placeName ana="Allemagne">Allemagne</placeName>
+        . Lorsque le 
+        <persName ana="General_De_Gaulle">Général de Gaulle</persName>
+        , au pouvoir en 
+        <placeName ana="France">France</placeName>
+         depuis 1958, rapatrie les cadres français de 
+        <placeName ana="Guinee">Guinée</placeName>
+         en réponse au résultat du referendum guinéen sur l’association des futures anciennes colonies avec 
+        <placeName ana="La_France">la France</placeName>
+        , 
+        <persName ana="Sekou_Toure">Sékou Touré</persName>
+         fait appel à tous les progressistes du monde, et Chenet rejoint la 
+        <placeName ana="Guinee">Guinée</placeName>
+         où il travaille à l’IFAN. Il reste quatre ans en 
+        <placeName ana="Guinee">Guinée</placeName>
+         où il commence à écrire El Hadj Omar.
+      </p>
+      <p>
+        Lorsque 
+        <persName ana="Sekou_Toure">Sékou Touré</persName>
+         commence à donner des signes de dictature, Chenet part pour le 
+        <placeName ana="Senegal">Sénégal</placeName>
+        , à un moment où le Président du pays, 
+        <persName ana="Leopold_Sedar_Senghor">Léopold Sedar Senghor</persName>
+        , ouvre la porte à la diaspora africaine. Chenet y travaille au Ministère de la Recherche Scientifique, dans la section Histoire. Il retrouve au 
+        <placeName ana="Senegal">Sénégal</placeName>
+         des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         qui s’expatrient du pays dirigé par 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , tel Klerimond (de La Ruche), les auteurs 
+        <persName ana="Jean_Brierre">Jean Brierre</persName>
+         et 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        , le poète Morisseau-Leroy et les comédiens 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine et 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+        , et participe à l’organisation du Festival Mondial des Arts Nègres qui a lieu à 
+        <placeName ana="Dakar">Dakar</placeName>
+         en 1966. En 1976, il accompagnera Senghor qui fait son premier voyage en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Arrêté à sa sortie d’avion, Chenet est libéré sur l’intervention de Senghor. Le régime de Duvalier ne cesse de traumatiser Chenet, dont le frère et le neveu ont péri assassinés par les sbires du dictateur.
+      </p>
+      <p>
+        Chenet commence à écrire sur le théâtre après le Festival des Arts Nègres, il fait de la mise en scène et tout en s’occupant du théâtre et des arts en général, il devient aussi sculpteur et musicien. En 1968, il acquiert une petite 
+        <placeName ana="Maison">Maison</placeName>
+         à 
+        <persName ana="Toubab_Dielaw">Toubab Dielaw</persName>
+         où il se retire après avoir passé vingt-cinq ans comme conseiller de la Culture au 
+        <placeName ana="Senegal">Sénégal</placeName>
+        . Ce lieu, 
+        <placeName ana="Sobo_Bade">Sobo Badé</placeName>
+        , a depuis acquis une dimension légendaire et est devenu un hôtel original où les artistes peuvent venir faire des stages et où les talents de sculpteur et d’architecte de Chenet ont pu trouver à s’exprimer. 
+        <placeName ana="Sobo_Bade">Sobo Badé</placeName>
+         allie le nom de deux divinités vaudoues, qui représentent l’Orage et l’Éclair. Un deuxième centre culturel construit par Chenet a ouvert ses portes en 2007 aux artistes (danseurs, sculpteurs, musiciens). Ce centre, Engouement, proche de 
+        <placeName ana="Sobo_Bade">Sobo Badé</placeName>
+        , présente une architecture qui favorise la créativité et la spiritualité.
+      </p>
+      <p>
+        Auteur de plusieurs récits, recueils de poèmes, et pièces de théâtre, 
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         publie Transes vaudou d’
+        <placeName ana="Haiti">Haïti</placeName>
+         pour 
+        <persName ana="Amelie_Cherie">Amélie Chérie</persName>
+         en 2009. Dans ce roman, Chenet utilise la figure du zombi pour repenser l’histoire d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , depuis la résistance d’Anacaona, la princesse amérindienne qui tient tête à 
+        <persName ana="Christophe_Colomb">Christophe Colomb</persName>
+        , jusqu’aux ingérences états-uniennes dans la politique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         des années quarante. À travers l’itinéraire initiatique d’Amélie, amnésique, Chenet nous emmène dans divers lieux spirituels et historiques 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         tels Ville 
+        <placeName ana="Bonheur">Bonheur</placeName>
+        , 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+        , 
+        <persName ana="Bois_Caiman">Bois Caïman</persName>
+        , entre autres, dans un style parfois surréaliste, parfois réaliste, parfois merveilleux, parfois tout cela à la fois.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.gerard-chenet.16720.html" xml:id="Gerard_Chenet_bio_auteur_spla">
+      <p>
+        D'origine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , il vit à 
+        <persName ana="Toubab_Dialaw">Toubab Dialaw</persName>
+         (
+        <placeName ana="Senegal">Sénégal</placeName>
+        ) où il a fondé l'hôtel 
+        <placeName ana="Sobo_Bade">Sobo Badé</placeName>
+        .
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         est né le 14 avril 1927 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il fait ses études primaires à Saint-Louis-de-Gonzague et ses études secondaires au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         où il rencontre entre autres 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         et Klérimond. Son père est un grand bourgeois haïtien, métis, et sa mère vient d'un milieu modeste de la périphérie de la capitale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Son père est d'ailleurs mis à l'écart à cause de son mariage, ayant franchi la frontière raciale, socio-économique et de classe. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Gerard_Chenet_biblio">
+    <div ref="http://ile-en-ile.org/chenet/" xml:id="Gerard_Chenet_biblio_auteur_ile_en_ile">
+      <list subtype="sur île en île">
+        <item>Transes vaudou d’Haïti pour Amélie chérie, extrait du roman lu par l’auteur, enregistré par Joëlle Vitiello en 2006 (prochainement en ligne).</item>
+      </list>
+      <list subtype="théâtre">
+        <item>El Hadj Omar: chronique de la guerre sainte. Préface de Jean-F. Brierre. Honfleur: Pierre Jean Oswald, 1968; Paris: L’Harmattan, 2009.</item>
+      </list>
+      <list subtype="roman">
+        <item>Transes vaudou d’Haïti pour Amélie chérie. Paris: L’Harmattan, 2009.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Poèmes du village de Toubab Dyalaw. Préface de Lilyan Kesteloot. Dakar: Nouvelles Éditions Africaines, 1974.</item>
+      </list>
+      <list subtype="sur l’oeuvre de gérard chenet">
+        <item>Bonneau, Richard. « Un Haïtien puise aux sources africaines : El Hadj Omar de Gérard Chenet ». Afrique Littéraire et Artistique 31 (avril 1974): 76-80.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Gerard_Chenet_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/gerard-chenet-5-questions-pour-ile-en-ile/">Gérard Chenet, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/">Les « Cinq Glorieuses » de janvier 1946</item>
+      <item ref="http://sobobade.com/">Espace Sobo Badé</item>
+      <item ref="http://fr.allafrica.com/stories/200912071462.html">Afrique: « Trans vaudou d’Haïti pour Amélie Chérie » de Gérard Chenet – « Gérard restitue le monde qu’il porte »</item>
+      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=238">Sources africaines d’un humanisme française</item>
+      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=238">Sources africaines d’un humanisme française</item>
+      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=569">Naissance</item>
+      <item ref="http://www.arts-are-essential.org/saproject06/days4_6.htm">The Senegal-America Project</item>
+    </list>
+  </div>
+</TEI>

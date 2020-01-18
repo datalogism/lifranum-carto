@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Gerard_Etienne_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Gerard_Etienne" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de G�rard �tienne</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Gérard Étienne</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Gerard_Etienne_fiche_autorite">
+  <div n="1" xml:id="Gerard_Etienne_fiche">
     <person ana="Gerard_Etienne" sex="na">
-      <persName>
-        <surname source="bnf">�tienne</surname>
-        <forename source="bnf">G�rard</forename>
-      </persName>
+      <persName>Gérard Étienne</persName>
       <idno type="BNF">
         cb16277470r#about
         <g ref="http://data.bnf.fr/ark:/12148/cb16277470r#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/170176897"/>
       </idno>
       <idno type="VIAF">
-        G�rard_�tienne
-        <g ref="http://fr.dbpedia.org/resource/G�rard_�tienne"/>
+        Gérard_Étienne
+        <g ref="http://fr.dbpedia.org/resource/Gérard_Étienne"/>
       </idno>
       <birth source="viaf">
         <date>1965-06-03</date>
@@ -56,7 +53,194 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Gerard_Etienne_bio">
+    <text hand="Natania Feuerwerker" ref="http://ile-en-ile.org/etienne/" xml:id="Gerard_Etienne_bio_auteur_ile_en_ile">
+      <p>
+        Né au Cap-Haïtien le 28 mai 1936, 
+        <persName ana="Gerard_Vergniaud_Etienne">Gérard Vergniaud Étienne</persName>
+         quitte à 15 ans le foyer paternel. Il proteste ainsi contre la violence que son père fait subir à sa mère parce qu’elle ne partage pas ses croyances vaudou. Il restera terriblement marqué par cette période de sa vie. Il part pour Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . À quinze ans il participe à une insurrection contre le gouvernement despotique de 
+        <persName ana="Paul Magloire_E">Paul E. Magloire</persName>
+        . Arrêté en compagnie de 
+        <persName ana="Luc Innocent_B">Luc B. Innocent</persName>
+         et de 
+        <persName ana="Windsor Laferriere_K">
+          Windsor K. 
+          <placeName ana="Laferriere">Laferrière</placeName>
+        </persName>
+        , il est emprisonné et torturé.
+      </p>
+      <p>
+        Disciple du marxiste haïtien, le grand romancier et médecin Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , il participe à un complot contre le gouvernement fasciste de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        . Il est arrêté et torturé (23 ans). Cette vie turbulente ne l’a pas empêché de faire des études classiques en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , d’enseigner dans de prestigieux collèges et d’amorcer une carrière de journaliste.
+      </p>
+      <p>
+        En effet il rédige à 13 ans ses premiers poèmes qu’il interpréte à la radio. À l’âge de 16 ans, il achève un premier livre de poésie. Puis il publie coup sur coup Au milieu des larmes (1960), Plus large qu’un rêve (1960), La raison et mon amour (1961), Essai sur la 
+        <placeName ana="Negritude">Négritude</placeName>
+         (1962) et Le nationalisme dans la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         (1963).
+      </p>
+      <p>
+        Il fonde le groupe culturel Samba qui devait devenir 
+        <placeName ana="Haiti">Haïti</placeName>
+        -littéraire. Parallèlement à sa vie d’écrivain, il enseigne dans des collèges et au lycée. Il est en même temps critique littéraire et reporter aux quotidiens Le Nouvelliste (1961-1962) et 
+        <placeName ana="Panorama">Panorama</placeName>
+         (1962-1964). Étienne a aussi suivi parallèlement une trajectoire artistique et militaire, particulièrement à la Société des Messagers de l’art (1963) et au Corps d’Aviation où, cadet de l’air, il est affecté au département de météorologie (1955-1957).
+      </p>
+      <p>
+        En août 1964, l’écrivain s’exile au 
+        <placeName ana="Canada">Canada</placeName>
+        . Débarqué à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , il enseigne au Lycée Da Silva (1964-1965) et travaille comme reporter au quotidien Métro Express et au 
+        <placeName ana="Journal">Journal</placeName>
+         Quartier Latin. Au cours de ses études de licence ès lettres (1964-1970) il travaille en usine puis comme infirmier à l’Hôtel Dieu de 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Il enseigne au Collège de Matane (1968-1970) et collabore au 
+        <placeName ana="Journal">Journal</placeName>
+         La Voix canadienne. Il publie en 1965 son premier livre au 
+        <placeName ana="Canada">Canada</placeName>
+        , Lettres à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Il rencontre en 1967 la compagne de sa vie, 
+        <persName ana="Natania_Feuerwerker">Natania Feuerwerker</persName>
+         dont il a deux enfants, Joël et Michaëlla. Il commence à enseigner à l’Université de 
+        <placeName ana="Moncton">Moncton</placeName>
+         en 1971. Il obtient son doctorat en linguistique (
+        <placeName ana="Strasbourg">Strasbourg</placeName>
+        , 1974). Il est professeur de linguistique et de grammaire supérieure à 
+        <placeName ana="Moncton">Moncton</placeName>
+         en 
+        <placeName ana="Acadie">Acadie</placeName>
+         jusqu’en 1978. En 1979, il fonde le module information/communication où il enseigne désormais le journalisme. Il collabore au Devoir de 1972 à 1987 et il est éditorialiste au quotidien Le Matin (1986-1987).
+      </p>
+      <p>
+        Malgré deux comas et une opération au cerveau, il continue à écrire à l’hebdomadaire 
+        <persName ana="Le_Voilier">Le Voilier</persName>
+         (1987-1989). Malgré une agression d’ordre politique en 1993 (voir L’Injustice, la désinformation, le mépris de la loi), il poursuit sa lutte pour le changement dans son pays d’origine. Depuis cette date, il collabore au 
+        <placeName ana="Journal">Journal</placeName>
+         
+        <placeName ana="Haiti">Haïti</placeName>
+        -Observateur.
+      </p>
+      <p>Plusieurs de ses titres ont été traduits en langues étrangères. L’écrivain a aussi suivi une carrière scientifique. Il a découvert une nouvelle discipline en sciences humaines, l’anthroposémiologie, et il a publié deux essais plus haut mentionnés, en plus de 50 études savantes en linguistique, en critique et en sémiologie.</p>
+      <p>
+        <persName ana="Gerard_Etienne">Gérard Étienne</persName>
+         est récipiendaire de plusieurs prix et distinctions.
+      </p>
+      <p>
+        <persName ana="Gerard_Etienne">Gérard Étienne</persName>
+         meurt le 14 décembre 2008 à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Pour célébrer sa vie et son oeuvre, voir les liens vers des textes-hommage en bas de cette page.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.gerard-etienne.14094.html" xml:id="Gerard_Etienne_bio_auteur_spla">
+      <p>
+        Né au Cap-Haïtien le 28 mai 1936, 
+        <persName ana="Gerard_Vergniaud_Etienne">Gérard Vergniaud Étienne</persName>
+         quitte à 15 ans le foyer paternel. Il proteste ainsi contre la violence que son père fait subir à sa mère parce qu'elle ne partage pas ses croyances vaudou. Il restera terriblement marqué par cette période de sa vie. Il part pour Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . À quinze ans il participe à une insurrection contre le gouvernement despotique de 
+        <persName ana="Paul Magloire_E">Paul E. Magloire</persName>
+        . Arrêté en compagnie de 
+        <persName ana="Luc Innocent_B">Luc B. Innocent</persName>
+         et de 
+        <persName ana="Windsor Laferriere_K">
+          Windsor K. 
+          <placeName ana="Laferriere">Laferrière</placeName>
+        </persName>
+        , il est emprisonné et torturé. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Gerard_Etienne_biblio">
+    <div ref="http://ile-en-ile.org/etienne/" xml:id="Gerard_Etienne_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrages collectifs">
+        <item>Dumontet, Danielle, éd. L’Esthétique du choc: Gérard Étienne ou l’écriture haïtienne au Québec. New York: Peter Lang, 2003.</item>
+      </list>
+      <list subtype="études">
+        <item>Adamson, Ginette. « Une femme muette de Gérard Etienne: un plaidoyer pour la femme noire ». LittéRéalité 10.1 (printemps-été 1998): 97-105.</item>
+      </list>
+      <list subtype="sur le nègre crucifié">
+        <item>Dalembert, Louis-Philippe. « Le nègre crucifié ». Notre Librairie 104 (janvier-mars 1991): 130-31.</item>
+      </list>
+      <list subtype="sur un ambassadeur macoute à montréal">
+        <item>Hoffmann, Léon-François. « Le roman haïtien des dix dernières années ». Notre Librairie 104 (janvier-mars 1991): 26-36 (27).</item>
+      </list>
+      <list subtype="sur reine soleil levée">
+        <item>Dalembert, Louis-Philippe. « Gérard Étienne: La Reine Soleil levée« . Notre Librairie 104 (janvier-mars 1991):
+131-132.</item>
+      </list>
+      <list subtype="sur la pacotille">
+        <item>Egloff, Karin. « Étienne, Gérard, La Pacotille« . The French Review 66.4 (March 1993): 685.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Der Aufstand der Sonnenkönigin (La Reine Soleil Levée). Trad. Giò Waeckerlin Induni. Hannover: Schönbach, 1990.</item>
+      </list>
+      <list subtype="in english">
+        <item>« A Scream Not to Die of Shame ». Trad. Henri Dominique Paratte. Poésie acadienne contemporaine: Acadian Poetry Now. Moncton/Charlottetown: Éditions Perce-Neige/Ragweed Press, P.E.I., 1985.</item>
+      </list>
+      <list subtype="in italiano">
+        <item> La Regina Sol Levante. Trad. Lorenza Zanardi. Pref. Alba Pessini. Milano: Aquilegia Edizioni, 2003.</item>
+      </list>
+      <list subtype="em português">
+        <item>Una Mulher Calada. Trad. Zila Bernd. Bahia: Federal do Rio Grande Do Sul, Editora da Universidade, 1987. 165 p.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Nègre crucifié. Montréal: Éditions Francophone et Nouvelle Optique, 1974; Genève: Metropolis, 1990; Montréal: Balzac, 1994; Port-au-Prince: Presses Nationales d’Haïti, 2007; Montréal: Éditions du Marais, 2008.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Le Bacoulou. Genève: Éditions Métropolis, Genève, 1998.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Au milieu des larmes. Port-au-Prince: Togiram Press, 1960.</item>
+      </list>
+      <list subtype="essais">
+        <item>Essai sur la négritude. Port-au-Prince: Éditions Panorama, 1962; Montréal: Éditions du Marais, 2009 (à paraître).</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Monsieur le président. Montréal: Éditions du Marais, 2008.</item>
+      </list>
+      <list subtype="textes sélectionnés parus dans des ouvrages collectifs">
+        <item>« La vie et l’œuvre de Franck Fouché » (essai). Présence Francophone 16 (printemps 1978): 191-99.</item>
+      </list>
+      <list subtype="interviews">
+        <item>Jonassaint, Jean. Le pouvoir des mots, les maux du pouvoir. Paris-Montréal: Éditions de l’Arcantère / Les Presses de l’Université de Montréal, 1986: 59-76.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1988     Prix du meilleur éditorialiste (Éditorial du Voilier).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Gerard_Etienne_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/gerard-etienne-la-charte-des-crepuscules/">La Charte des crépuscules</item>
+      <item ref="http://ile-en-ile.org/gerard-etienne-la-pacotille/">La Pacotille</item>
+      <item ref="http://ile-en-ile.org/gerard-etienne-le-juif-negre/">Gérard Étienne ; le juif nègre</item>
+      <item ref="http://www.touthaiti.com/culture-loisirs/livres/1689-a-propos-de-la-reine-soleil-levee-de-gerard-etienne">À propos de ‘La Reine Soleil Levée’ de Gerard Étienne</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/etienne-gerard-194/">Gérard Étienne</item>
+      <item ref="http://www.editionsdumarais.ca/">Éditions du Marais</item>
+      <item ref="http://www.medi1.com/archives/archives_sonores.php">archives sonores de Medi1</item>
+      <item ref="http://www.radio-shalom.ca/">Notes et rythmes</item>
+      <item ref="http://www.potomitan.info/kauss/etienne.php">La poésie de Gérard Vergniaud Étienne</item>
+      <item ref="http://www.cief.info/nouvelles/2008/gerard_etienne.html">En souvenir de Gérard Étienne</item>
+      <item ref="http://editionsdumarais.blogspot.com/2008/12/gerard-tienne-28-mai-1936-14-dcembre.html">Gérard Étienne, 28 mai 1936 – 14 décembre 2008</item>
+      <item ref="http://www.radio-canada.ca/regions/atlantique/2008/12/15/002-NB-deces-etienne.shtml">Gérard Étienne n’est plus</item>
+      <item ref="http://www.lenouvelliste.com/articles.print/1/65335">Gérard V Etienne est mort</item>
+      <item ref="http://www.stanleypean.com/?p=258">Disparition de Gérard Étienne [1926-2008]</item>
+      <item ref="http://x-centri-cites.blogspot.com/2008/12/adieu-au-juif-ngre-grard-tienne.html">Adieu au juif nègre, Gérard Étienne</item>
+      <item ref="http://www.lematinhaiti.com/Article.asp?ID=16369">Talentueux, bagarreur et savant : Gérard V. Etienne (28 mai 1936 – 14 décembre 2008</item>
+    </list>
   </div>
 </TEI>

@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Elsie_Surena_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Elsie_Surena" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Elsie Sur�na</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Elsie Suréna</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Elsie_Surena_fiche_autorite">
+  <div n="1" xml:id="Elsie_Surena_fiche">
     <person ana="Elsie_Surena" sex="na">
-      <persName>
-        <surname source="bnf">Elsie</surname>
-        <forename source="bnf">Sur�na</forename>
-      </persName>
+      <persName>Elsie Suréna</persName>
       <idno type="BNF">
         cb162671147#about
         <g ref="http://data.bnf.fr/ark:/12148/cb162671147#about"/>
@@ -46,6 +43,126 @@
       <occupation source="viaf">poetes</occupation>
       <occupation source="viaf">photographes</occupation>
       <occupation source="viaf">photographers</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Descoteaux_Diane">
+          <persName>Descôteaux Diane</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Elsie_Surena_bio">
+    <text ref="http://ile-en-ile.org/surena/" xml:id="Elsie_Surena_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Elsie_Surena">Elsie Suréna</persName>
+         est née le 9* juin 1956 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Elle 
+        <placeName ana="Passe">Passe</placeName>
+         son enfance et son adolescence dans le sud d’
+        <placeName ana="Haiti">Haïti</placeName>
+         (Les 
+        <placeName ana="Cayes">Cayes</placeName>
+        , Camp-
+        <placeName ana="Perrin">Perrin</placeName>
+        ) auprès d’une mère qui lisait beaucoup. Plus tard, elle vit pendant de nombreuses années dans le Nord (Cap-Haïtien) où elle étudie le droit et s’initie au journalisme. Après un bref passage à l’École Nationale des Arts (ENARTS), elle suit plusieurs ateliers de formation en arts visuels (dessin, collage, photographie), notamment au School of the Museum de 
+        <persName ana="Boca_Raton">Boca Raton</persName>
+         et à l’Armory Art Center de 
+        <placeName ana="West_Palm_Beach">West Palm Beach</placeName>
+        , en 
+        <placeName ana="Floride">Floride</placeName>
+        .
+      </p>
+      <p>
+        Son goût des voyages l’amène à visiter différentes îles de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         et à séjourner en 
+        <placeName ana="Equateur">Équateur</placeName>
+         et aux États-Unis où elle suit des séminaires en 
+        <persName ana="Creation_Litteraire">Création Littéraire</persName>
+         au 
+        <placeName ana="Cambridge">Cambridge</placeName>
+         Center for Adult Education (CCAE), dans le 
+        <placeName ana="Massachussetts">Massachussetts</placeName>
+        . Elle pratique la photographie en noir et blanc mais s’adonne surtout à la poésie, avec un net penchant pour les genres brefs, en particulier le haïku. Ses thèmes favoris sont l’amour, l’absence, l’érotisme et le quotidien.
+      </p>
+      <p>
+        <persName ana="Elsie_Surena">Elsie Suréna</persName>
+         écrit en créole haïtien, français, anglais et espagnol, « selon l’arrivage », considérant qu’une langue n’est qu’un simple véhicule qui ne saurait à lui seul établir ou non son « haïtianité ». Certains de ses textes, d’aucuns traduits en anglais, portugais et japonais, ont paru dans divers journaux, revues, publications en ligne et figurent aussi dans des anthologies. Ses livres pour la jeunesse L’Arbre qui rêvait d’amour et Ann al jwe ! figurent dans des programmes dans des écoles en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , comme au Collège Saint 
+        <placeName ana="Martial">Martial</placeName>
+         et au Cours 
+        <placeName ana="Edmee">Édmée</placeName>
+         (à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        ) et au Collège Saint Jean (aux 
+        <placeName ana="Cayes">Cayes</placeName>
+        ).
+      </p>
+      <p>
+        Elle compte également à son actif maintes expositions de collage et de photographies (en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , au Cap et à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         ; en 
+        <placeName ana="Republique_Dominicaine">République Dominicaine</placeName>
+        , au 
+        <placeName ana="Japon">Japon</placeName>
+         et aux États-Unis) et publications. 
+        <persName ana="Elsie_Surena">Elsie Suréna</persName>
+         ne se voit pas uniquement comme une écrivaine mais plutôt comme une artiste utilisant le médium le plus approprié au projet du moment.
+      </p>
+      <p>
+        Depuis 2010, 
+        <persName ana="Elsie_Surena">Elsie Suréna</persName>
+         vit au 
+        <placeName ana="Quebec">Québec</placeName>
+         et continue d’animer des ateliers d’écriture. Elle est membre du Groupe Haïku 
+        <placeName ana="Montreal">Montréal</placeName>
+         et de l’Union des Écrivaines et Écrivains Québécois (UNEQ).
+      </p>
+      <p>* Par erreur, son acte de naissance donne le 23 juin.</p>
+    </text>
+  </div>
+  <div n="3" xml:id="Elsie_Surena_biblio">
+    <div ref="http://ile-en-ile.org/surena/" xml:id="Elsie_Surena_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Mélodies pour Soirs de Fine Pluie. Port-au-Prince: Presses Nationales d’Haïti, 2002.</item>
+      </list>
+      <list subtype="livres pour la jeunesse">
+        <item>L’Arbre qui rêvait d’amour. Illustré par Mireia Porta Arnau. Port-au-Prince: Presses Nationales d’Haïti, 2002; Santo Domingo: Bukante Editorial, 2e éd, 2009.
+Figure au programme du Collège Saint Martial (Port-au-Prince), du Cours Édmée et du Collège Saint Jean (Les Cayes) en classes de 6e secondaire pour l’année académique 2009-2010.</item>
+      </list>
+      <list subtype="nouvelles et récits courts">
+        <item>« Premiers Emois ». « Matrimoine » et « Complot Céleste ». Bain de Lune. Anthologie de récits haïtiens. éd. Hidehiro Tachibana/Moriyuki Hochino. Tokyo: Kokusho Kankhokaï, 2004.</item>
+      </list>
+      <list subtype="poésie parue dans des ouvrages collectifs">
+        <item>« À marée basse », « Fausse route » et « Au nord du crépuscule ». Les Belles Provinciales. Ministère de la Culture/Projet Franco-Haïtien de Promotion du Livre. Port-au-Prince: Le Nouvelliste/ Éditions Mémoire, 2000.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>Rubrique « Between you and me » (22 articles sur la résolution des conflits). The Haitian Times (de janvier à décembre 2004).</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1999     Lauréate du concours « Les Belles Provinciales » (Ministère de la Culture et Coopération Française), Port-au-Prince.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’elsie suréna">
+        <item>Charles, Christophe. « Connaissez-vous les mélodies de Suréna ? ». L’Union (3 février 2003): 15.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Elsie_Surena_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/elsie-surena-deux-poemes/">Deux poèmes par Elsie Suréna</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=70976">Haïti à l’honneur à Paris</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=73972&amp;PubDate=2009-09-10">Du côté de chez Suréna</item>
+      <item ref="http://www.potomitan.info/ayiti/surena/">Elsie Suréna</item>
+      <item ref="http://www.100pour100haiku.fr/revue_ploc/Ploc_revue_haiku_numero_6.pdf">Haïbun ; Retour à Camp-Perrin</item>
+      <item ref="http://575.tempslibres.org/aphp/phaiku1.php?auteur=sure-e">Haïkus</item>
+      <item ref="http://www.windowsonhaiti.com/hfphoto/surena/">The Photography of Elsie Suréna</item>
+      <item ref="http://www.tanbou.com/2005/pwezi.htm">Poukisa</item>
+      <item ref="http://www.bukante.net/fr/haikus.htm">Haïkus d’un soir</item>
+    </list>
   </div>
 </TEI>

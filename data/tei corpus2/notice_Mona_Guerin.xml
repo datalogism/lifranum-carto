@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Mona_Guerin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Mona_Guerin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Mona Gu�rin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Mona Guérin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Mona_Guerin_fiche_autorite">
+  <div n="1" xml:id="Mona_Guerin_fiche">
     <person ana="Mona_Guerin" sex="na">
-      <persName>
-        <surname source="bnf">Mona</surname>
-        <forename source="bnf">Gu�rin</forename>
-      </persName>
+      <persName>Mona Guérin</persName>
       <idno type="BNF">
         cb12053752c#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12053752c#about"/>
@@ -55,7 +52,229 @@
         </placeName>
       </residence>
       <occupation source="spla">Dramaturge</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Wiener_Jacqueline">
+          <persName>Wiener Jacqueline</persName>
+        </person>
+        <person ana="Voltaire_Marcelin_Michele">
+          <persName>Voltaire Marcelin Michèle</persName>
+        </person>
+        <person ana="Vincent_Nedjmhartine">
+          <persName>Vincent Nedjmhartine</persName>
+        </person>
+        <person ana="Valcin_Cleante">
+          <persName>Valcin Cléante</persName>
+        </person>
+        <person ana="Trouillot_Evelyne">
+          <persName>Trouillot Évelyne</persName>
+        </person>
+        <person ana="Theard_Marie_Alice">
+          <persName>Théard Marie-Alice</persName>
+        </person>
+        <person ana="Tavernier_Janine">
+          <persName>Tavernier Janine</persName>
+        </person>
+        <person ana="Surena_Elsie">
+          <persName>Suréna Elsie</persName>
+        </person>
+        <person ana="Savary_Savannah">
+          <persName>Savary Savannah</persName>
+        </person>
+        <person ana="Sampeur_Virginie">
+          <persName>Sampeur Virginie</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Mona_Guerin_bio">
+    <text ref="http://ile-en-ile.org/guerin/" xml:id="Mona_Guerin_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Mona_Guerin">Mona Guérin</persName>
+         naît le 9 octobre 1934 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Fille de 
+        <persName ana="Camille_Duplessy">Camille Duplessy</persName>
+         et de 
+        <persName ana="Gontran_Rouzier">Gontran Rouzier</persName>
+        , la jeune 
+        <persName ana="Mona_Rouzier">Mona Rouzier</persName>
+         fait ses études primaires chez les Sœurs de Saint-
+        <persName ana="Joseph_De_Cluny">Joseph de Cluny</persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et ses études secondaires au Pensionnat 
+        <placeName ana="Sainte">Sainte</placeName>
+        -
+        <persName ana="Rose_De_Lima">
+          Rose de 
+          <placeName ana="Lima">Lima</placeName>
+        </persName>
+         (Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        ). Son père, sous-secrétaire d’État sous le gouvernement du 
+        <persName ana="President_Lescot">Président Lescot</persName>
+        , connaîtra les déboires de la chute de ce gouvernement en 1946 qui vont marquer l’adolescence de l’écrivaine. De ses deux parents, elle dit hériter le sens d’humour ; elle rend hommage à la sagesse et le bon cœur de sa mère par le personnage de Grand-mère Mérien dans son feuilleton Roye ! Les Voilà !
+      </p>
+      <p>
+        Après un recueil de poésie en alexandrins publié à 24 ans, elle part au 
+        <placeName ana="Canada">Canada</placeName>
+         en 1959, ayant obtenu une bourse du Conseil des Arts du 
+        <placeName ana="Canada">Canada</placeName>
+         lui permettant d’étudier la littérature contemporaine à l’Université Catholique d’
+        <placeName ana="Ottawa">Ottawa</placeName>
+        . À son retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , elle se marie à l’ingénieur 
+        <persName ana="Joseph_Guerin">Joseph Guérin</persName>
+         et s’occupe de leurs deux filles, mène une carrière d’enseignante comme institutrice à l’école « Au 
+        <placeName ana="Galop">Galop</placeName>
+         » (de 1965 à 1980) et se consacre au théâtre.
+      </p>
+      <p>
+        Dès 1966, sa pièce L’Oiseau de ces dames est jouée au théâtre Rex à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (dans une mise en scène de 
+        <persName ana="Charles_Alexandre_Abellard">Charles Alexandre Abellard</persName>
+        ) et remporte un grand succès. Jusqu’à 1976, cinq autres pièces vont suivre, toutes mises en scène à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Si 
+        <placeName ana="La_Pieuvre">La Pieuvre</placeName>
+         (1971) reste la pièce préférée de l’auteure, c’est La Pension Vacher (1976) qui remportera le plus grand succès auprès du public. Dans le théâtre de Guérin, on trouve « de simples choses vues : des bribes d’émotions ou de situations dans une ambiance chatoyante et stressante que l’amour, l’humour, le snobisme, la dénonciation des conventions et des préjugés, l’image de la femme dans une société asservie, le goût de l’excellence et de la beauté » (Le Nouvelliste, juillet 2001).
+      </p>
+      <p>
+        <persName ana="Mona_Guerin">Mona Guérin</persName>
+         se fait connaître du grand public comme chroniqueuse du quotidien haïtien grâce à ses satires sociales. Elle écrit de nombreux scénarios pour la radio et la télévision. Son feuilleton Roye ! Les Voilà ! – le feuilleton radiophonique le plus populaire du pays – débute en août 1982 sur les ondes de Radio-
+        <placeName ana="Metropole">Métropole</placeName>
+         et continue ensuite sur 
+        <placeName ana="Magik">Magik</placeName>
+        -Stéréo. Roye ! Les voilà ! ne s’arrêtera qu’en août 1994, après 950 épisodes diffusés : douze ans pendant lesquels l’auteure fera vivre les personnages des familles Jambe et Mérien qui deviennent familiers au grand public. Guérin crée d’autres émissions à caractère religieux, éducatif ou satirique dont Récréation avec tante Mariette (1971, une émission pour enfants) pour Radio Nouveau-Monde et, pour Radio-
+        <placeName ana="Metropole">Métropole</placeName>
+        , trois émissions dominicales (de 1972 à 1982) : Ces dames gardent la ligne, Variations sur un mot et Jackotte et Monica. En collaboration avec sa fille, 
+        <persName ana="Elisabeth_Guerin_Parisot">Élisabeth Guérin Parisot</persName>
+        , elle crée sur les ondes de 
+        <placeName ana="Magik">Magik</placeName>
+        -Stéréo les émissions Comment vivons-nous et An 
+        <placeName ana="Nou">Nou</placeName>
+         gade ki jan nap viv (juillet-août 1997). Également sur 
+        <placeName ana="Magik">Magik</placeName>
+        -Stéréo, 
+        <persName ana="Mona_Guerin">Mona Guérin</persName>
+         anime Dieu à tout moment (de janvier 1992 à septembre 1994) et crée une soixantaine de sketches diffusés sous le titre de l’émission, Petit théâtre de 
+        <placeName ana="Magik">Magik</placeName>
+        -Stéréo (octobre 1994-juin 1995).
+      </p>
+      <p>
+        Pour la télévision 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , Guérin écrit plus de 150 sketches pour l’émission Gala de Galerie de 
+        <persName ana="Gerald_Alexis">Gérald Alexis</persName>
+        , diffusés chaque semaine sur Télé-
+        <placeName ana="Haiti">Haïti</placeName>
+         de 1977 à 1981. Malheureusement, aucune de ses émissions télévisées – y compris les interviews et reportages autour de l’émission – n’a été conservée.
+      </p>
+      <p>
+        Personnalité très visible dans la production culturelle 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , Guérin participe également à des jurys internationaux : elle est membre du jury du Prix Littéraire 
+        <persName ana="Henri_Deschamps">
+          Henri 
+          <placeName ana="Deschamps">Deschamps</placeName>
+        </persName>
+         (de 1975 à 1985), membre du jury au 4e et 5e Festivals de la Francophonie (1989 et 1990) et reçoit de nombreuses distinctions, dont un hommage du barreau de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1981, le Prix Littéraire des 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+         en 1999 et le « Bravo » du quotidien Le Nouvelliste qui honore une personnalité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         (voir le supplément spécial consacré à l’écrivaine en juillet 2001) ; elle est nommée docteur honoris causa de l’Université Royale d’
+        <placeName ana="Haiti">Haïti</placeName>
+         en 2002.
+      </p>
+      <p>
+        Dans 
+        <placeName ana="La_Presse">La Presse</placeName>
+         écrite, 
+        <persName ana="Mona_Guerin">Mona Guérin</persName>
+         assume une chronique hebdomadaire, « Le coin de Cécile », dans Le Nouvelliste de 1965 à 1970. Cette chronique n’est pas d’abord signée de son nom mais l’auteure se révèle au moment de la mise en scène de sa première pièce L’Oiseau de ces dames en 1966, puisque la chronique étant populaire, cela sert à attirer l’attention sur la nouvelle pièce. Également pour Le Nouvelliste, elle tient une chronique « Mi-figue mi-raisin » de 1977 à 1981 et dont elle tirera la collection de nouvelles du même titre.
+      </p>
+      <p>La plume de l’auteure ne se tarit pas, faisant toujours rire par les diverses formes de sa satire sociale. Depuis février 2004, son nouveau feuilleton, Pierre qui roule…, est diffusée à plusieurs reprises, chaque semaine, sur Radio Soleil.</p>
+      <p>
+        Amoindrie les dernières années de sa vie et vivant ailleurs que dans la 
+        <placeName ana="Maison">Maison</placeName>
+         partagée avec son mari (détruite lors du séisme du 12 janvier 2010), 
+        <persName ana="Mona_Guerin">Mona Guérin</persName>
+         meurt le 30 décembre 2011. Dans les jours qui viennent, nous signalerons des hommages célébrant l’auteure dans les liens ci-dessous.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.mona-guerin.14114.html" xml:id="Mona_Guerin_bio_auteur_spla">
+      <p>
+        <persName ana="Mona_Guerin">Mona Guérin</persName>
+         naît le 9 octobre 1934 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Fille de 
+        <persName ana="Camille_Duplessy">Camille Duplessy</persName>
+         et de 
+        <persName ana="Gontran_Rouzier">Gontran Rouzier</persName>
+        , la jeune 
+        <persName ana="Mona_Rouzier">Mona Rouzier</persName>
+         fait ses études primaires chez les Sœurs de Saint-
+        <persName ana="Joseph_De_Cluny">Joseph de Cluny</persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et ses études secondaires au Pensionnat 
+        <placeName ana="Sainte">Sainte</placeName>
+        -
+        <persName ana="Rose_De_Lima">
+          Rose de 
+          <placeName ana="Lima">Lima</placeName>
+        </persName>
+         (Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        ). Son père, sous-secrétaire d'État sous le gouvernement du 
+        <persName ana="President_Lescot">Président Lescot</persName>
+        , connaîtra les déboires de la chute de ce gouvernement en 1946 qui vont marquer l'adolescence de l'écrivaine. De ses deux parents, elle dit hériter le sens d'humour ; elle rend hommage à la sagesse et le bon cœur de sa mère par le personnage de Grand-mère Mérien dans son feuilleton Roye ! Les Voilà ! voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Mona_Guerin_biblio">
+    <div ref="http://ile-en-ile.org/guerin/" xml:id="Mona_Guerin_biblio_auteur_ile_en_ile">
+      <list subtype="sur scène">
+        <item>L’Oiseau de ces dames (1966).</item>
+      </list>
+      <list subtype="éditions">
+        <item>Chambre 26: pièce en 4 actes, avec Les Cinq Chéris: théâtre pour adolescents: comédie en 3 actes. Port-au-Prince: Deschamps, 1973.</item>
+      </list>
+      <list subtype="poésie">
+        <item> Sur les vieux thèmes. Port-au-Prince: Imprimerie Théodore, 1958.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Mi-figue, mi-raisin. Port-au-Prince: Deschamps, 1980; Paris: L’Harmattan, 1998.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1983     Chevalier de l’Ordre des Palmes académiques du Gouvernement Français.</item>
+      </list>
+      <list subtype="sur l’oeuvre de mona guérin">
+        <item>Baridon, Silvio et Raymond Philoctète. Poésie vivante d’Haïti (anthologie). Paris: Lettres Nouvelles/ Maurice Nadeau, 1978: 150-151.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Mona_Guerin_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/mona-guerin-le-second-choix-dedgard/">Le second choix d’Edgard</item>
+      <item ref="http://web.archive.org/web/20030614194815/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=590">Le culte de soi</item>
+      <item ref="http://www.jasminenarcisse.com/memoire/11_litterature/05_mona.html">Mona Guérin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101165&amp;PubDate=2011-12-30">Woy ! Mona Guérin mouri !!!</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101165&amp;PubDate=2011-12-30">Woy ! Mona Guérin mouri !!!</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101220&amp;PubDate=2012-01-04">Faire acte d’immortalité</item>
+      <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101359&amp;PubDate=2012-01-06">Quand Mona rit…</item>
+      <item ref="http://www.lematinhaiti.com/contenu.php?idtexte=28241&amp;idtypetexte=">Mona Guérin : une vie bien remplie</item>
+      <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101170&amp;PubDate=2012-01-06">Une perte énorme pour la culture haïtienne</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=101238&amp;PubDate=2012-01-09">Mona Guérin, l’incarnation du feuilleton radiodiffusé en Haïti</item>
+    </list>
   </div>
 </TEI>

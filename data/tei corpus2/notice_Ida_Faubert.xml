@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Ida_Faubert_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Ida_Faubert" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Ida Faubert</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Ida_Faubert_fiche_autorite">
+  <div n="1" xml:id="Ida_Faubert_fiche">
     <person ana="Ida_Faubert" sex="na">
-      <persName>
-        <surname source="bnf">Ida</surname>
-        <forename source="bnf">Faubert</forename>
-      </persName>
+      <persName>Ida Faubert</persName>
       <idno type="BNF">
         cb13168660f#about
         <g ref="http://data.bnf.fr/ark:/12148/cb13168660f#about"/>
@@ -59,7 +56,220 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Brancour_Rene">
+          <persName>Brancour René</persName>
+        </person>
+        <person ana="Dominique_Pierre">
+          <persName>Dominique Pierre</persName>
+        </person>
+        <person ana="Autezac Leo D 18 19 Compositeur_">
+          <persName>Autezac Léo d' 18-19 compositeur</persName>
+        </person>
+        <person ana="Vignaud_Jean">
+          <persName>Vignaud Jean</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Ida_Faubert_bio">
+    <text ref="http://ile-en-ile.org/faubert/" xml:id="Ida_Faubert_bio_auteur_ile_en_ile">
+      <p>
+        Fille unique du président haïtien 
+        <persName ana="Lysius_Salomon">Lysius Salomon</persName>
+        , 
+        <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+         est née à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 14 février 1882 et 
+        <placeName ana="Passe">Passe</placeName>
+         sa petite enfance dans le palais présidentiel à 
+        <placeName ana="Turgeau">Turgeau</placeName>
+        . Mais en 1888 sa famille s’exile en 
+        <placeName ana="France">France</placeName>
+        , où la jeune fille fera ses études. Après un premier mariage, Ida revient à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         vers 1903 pour épouser 
+        <persName ana="Andre_Faubert">André Faubert</persName>
+         et donner naissance à une fille, Jacqueline, décédée très jeune, et à un fils, 
+        <persName ana="Raoul_Faubert">Raoul Faubert</persName>
+        , né en 1906. Fleur à peine éclose de l’élite 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+         brille dans son nouveau milieu. C’est « une grande dame de la haute société de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         » qui, selon 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+        , « allait d’un cocktail à un thé, à une sauterie. Que ce fût à pied, le visage auréolé de son ombrelle aux teintes égayantes et tournantes ; que ce fût dans sa voiture tirée par cet allègre cheval souris qui, à la promener, semblait au comble de la fierté ; toujours sa grâce aduste* et tropicale laissait auprès elle, telle la traîne d’une robe de cour, un long sillage de frémissante admiration » (247).
+      </p>
+      <p>
+        <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+         devient un personnage éblouissant non seulement dans la vie mondaine de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         mais aussi dans sa vie littéraire. Ayant regagné son pays natal, 
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+         se lance dans la renaissance de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         qui s’annonce au début du vingtième siècle. Elle fait partie de la génération de La Ronde et de la première génération de poétesses haïtiennes. Ses premiers poèmes paraissent en 1912 dans la revue 
+        <placeName ana="Haiti">Haïti</placeName>
+         littéraire et scientifique, dirigée alors par 
+        <persName ana="Edmond_Laforest">Edmond Laforest</persName>
+        , et ils figurent parmi les premiers vers publiés par une femme en 
+        <placeName ana="Haiti">Haïti</placeName>
+         sans la dissimulation d’un nom de plume. En 1913, l’université des Annales couronne la jeune poétesse d’un prix pour son sonnet « 
+        <persName ana="Pierre_Loti">Pierre Loti</persName>
+         ». Malgré ses succès sociaux et littéraires, 
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+         a du mal à s’adapter à l’esprit conservateur de l’élite 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Le « libéralisme, l’indépendance de caractère d’Ida ont du mal à supporter l’étroitesse des cadres et des idées de sa Patrie », précise la critique 
+        <persName ana="Madeleine_Gardiner">Madeleine Gardiner</persName>
+         (24).
+      </p>
+      <p>
+        À la recherche d’une liberté personnelle qu’on pourrait qualifier de féministe, 
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+         s’établit définitivement à 
+        <placeName ana="Paris">Paris</placeName>
+         en 1914. Peu après son retour en 
+        <placeName ana="France">France</placeName>
+         elle divorce d’
+        <persName ana="Andre_Faubert">André Faubert</persName>
+         et s’installe dans un appartement de la rue Blomet, où les rythmes antillais du 
+        <placeName ana="Bal_Negre">Bal Nègre</placeName>
+         font bouger le quartier entier tous les samedis. Il s’y trouve également les ateliers des artistes surréalistes (qui fréquentent aussi les bals), y compris 
+        <persName ana="Andre_Desnos">André Desnos</persName>
+         et 
+        <persName ana="Juan_Miro">Juan Miró</persName>
+        . 
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+         se lance dans la scène littéraire et artistique qui l’entoure. Elle fréquente les galeries et les conférences à la mode, et elle établit son propre salon littéraire où elle reçoit des artistes et des écrivains les jeudis. Ce salon se trouve au 
+        <placeName ana="Carrefour">Carrefour</placeName>
+         de plusieurs cultures littéraires qui s’entrecroisent à 
+        <placeName ana="Paris">Paris</placeName>
+         pendant les Années Folles. Membre essentiel du cercle des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         littéraires à 
+        <placeName ana="Paris">Paris</placeName>
+        , 
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+         reçoit les visites de 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+         et de 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , lequel dédie un chapitre de sa Vocation de l’élite à la poétesse. Elle fréquente également de grands écrivains parisiens, tels que 
+        <persName ana="Jean_Richepin">Jean Richepin</persName>
+         et 
+        <persName ana="Jean_Vignaud">Jean Vignaud</persName>
+        , et entre dans la coterie des écrivains féministes et lesbiens de la 
+        <placeName ana="Rive_Gauche">Rive Gauche</placeName>
+         grâce à ses relations avec 
+        <persName ana="Anna_De_Noailles">Anna de Noailles</persName>
+        . Ses poèmes se publient et 
+        <placeName ana="Haiti">Haïti</placeName>
+         et en 
+        <placeName ana="France">France</placeName>
+         pendant cette période. En 1920 
+        <persName ana="Louis_Morpeau">Louis Morpeau</persName>
+         choisit ses poèmes pour son Anthologie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de la poésie contemporaine, et ses poèmes paraissent aussi dans Les annales politiques et littéraires, La Gazette de 
+        <placeName ana="Paris">Paris</placeName>
+        , Le 
+        <placeName ana="Journal">Journal</placeName>
+         du peuple, Lisez-moi Bleu et dans des journaux littéraires italiens. Finalement ses poèmes se réunissent dans le recueil Cœur des îles, publié en 1939 par les Éditions 
+        <persName ana="Rene_Debresse">René Debresse</persName>
+        , et ce début littéraire lui vaut le prix 
+        <persName ana="Jacques_Normand">
+          Jacques 
+          <placeName ana="Normand">Normand</placeName>
+        </persName>
+         de la Société des Gens Lettrés.
+      </p>
+      <p>
+        « La poésie d’
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+        , c’est l’élan passionné du cœur, l’abandon, la langueur… », écrit 
+        <persName ana="Christophe_Charles">Christophe Charles</persName>
+         dans La poésie féminine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         (27). Le recueil Cœur des îles nous offre trois genres de ce qu’on pourrait appeler « la poésie du cœur ». On y trouve une poésie maternelle, des poèmes mélancoliques écrits à sa fille Jacqueline, morte très jeune (voir « Pour Jacqueline ») ; une poésie musicale, des rondels et chansons dédíés à ses amies ; et une poésie érotique, des sonnets sensuels qui souvent décrivent une scène d’amour dans un jardin tropical, et qui s’adressent souvent à des amant(e)s de sexe ambigu. Prenons l’exemple de son érotisme fleuri et ambigu dans le sonnet « Je voudrais demeurer… » :
+      </p>
+      <p>Je voudrais demeurer une heure auprès de vous,
+Au jardin merveilleux que mon esprit suppose…
+Le soleil s’éteindrait, là-bas, au couchant rose,
+Et les jasmins s’effeuilleraient sur nos genoux. (Cœur des îles
+33)</p>
+      <p>
+        En 1959, 
+        <persName ana="Salomon_Faubert">Salomon Faubert</persName>
+         publie un recueil de récits, Sous le soleil 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , qui esquisse la vie quotidienne d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Elle vivra à 
+        <placeName ana="Paris">Paris</placeName>
+         jusqu’à sa mort en 1969 (à Joinville-le-Pont), qui donne suite à un hommage respectueux dans les journaux de son pays. Fille d’un président haïtien, elle reste finalement une fille d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        * aduste (adj.): desséché; brûlé par le soleil.
+Écrit pour Île en île, cette présentation de 
+        <placeName ana="Natasha">Natasha</placeName>
+         Tinsley est reproduite dans l’Anthologie secrète d’
+        <persName ana="Ida_Faubert">Ida Faubert</persName>
+         en 2007.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.ida-faubert.14100.html" xml:id="Ida_Faubert_bio_auteur_spla">
+      <p>
+        Naissance: 14 Février 1882Mort: 1969Pays d'origine: HaïtiProfessions : poétesse et écrivaineFille unique du président haïtien 
+        <persName ana="Lysius_Salomon">Lysius Salomon</persName>
+        , 
+        <persName ana="Ida_Salomon_Faubert">Ida Salomon Faubert</persName>
+         est née à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 14 février 1882 et 
+        <placeName ana="Passe">Passe</placeName>
+         sa petite enfance dans le palais présidentiel à 
+        <placeName ana="Turgeau">Turgeau</placeName>
+        . Mais en 1888 sa famille s'exile en 
+        <placeName ana="France">France</placeName>
+        , où la jeune fille fera ses études. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Ida_Faubert_biblio">
+    <div ref="http://ile-en-ile.org/faubert/" xml:id="Ida_Faubert_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« A Strange Story ». Trans. Nicole Ball. Haiti Noir 2: The Classics. Ed. Edwidge Danticat New York: Akashic, 2014: 37-44.</item>
+      </list>
+      <list subtype="sur ida faubert">
+        <item>Charles, Christophe. « Deux célèbres pionnières: Virginie Sampeur et Ida Faubert ». La poésie féminine haïtienne. Port-au-Prince: Éditions Choucoune, 1980: 23-29.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Ida_Faubert_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/ida-faubert-pour-jacqueline/">Pour Jacqueline</item>
+      <item ref="http://ile-en-ile.org/ida-faubert-soir-tropical/">Soir tropical</item>
+      <item ref="http://idafaubert.net/">Ida Faubert</item>
+      <item ref="http://www.uneq.qc.ca/activites-litteraires/commemoration-haiti/ida-faubert-1882-1969/">Ida Faubert, une page à redécouvrir</item>
+      <item ref="https://youtu.be/ka6kxDPCd5E">Le front caché sur tes genoux</item>
+    </list>
   </div>
 </TEI>

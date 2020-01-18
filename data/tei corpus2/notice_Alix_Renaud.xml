@@ -1,25 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Alix_Renaud_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Alix_Renaud" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Alix Renaud</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Alix_Renaud_fiche_autorite">
+  <div n="1" xml:id="Alix_Renaud_fiche">
     <person ana="Alix_Renaud" sex="na">
       <persName>Alix Renaud</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Alix_Renaud_bio">
+    <text ref="http://ile-en-ile.org/renaud/" xml:id="Alix_Renaud_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Alix_Renaud">Alix Renaud</persName>
+         naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 30 août 1945. Il vit au 
+        <placeName ana="Quebec">Québec</placeName>
+         depuis 1968.
+      </p>
+      <p>
+        Écrivain, poète et diseur, 
+        <persName ana="Alix_Renaud">Alix Renaud</persName>
+         a plusieurs fois représenté les écrivains du 
+        <placeName ana="Quebec">Québec</placeName>
+         à l’étranger, notamment en 
+        <placeName ana="France">France</placeName>
+         (1983), au 
+        <placeName ana="Mexique">Mexique</placeName>
+         (1984) et en 
+        <placeName ana="Belgique">Belgique</placeName>
+         (1994). Il est l’auteur d’une vingtaine d’ouvrages publiés au 
+        <placeName ana="Quebec">Québec</placeName>
+         et en 
+        <placeName ana="France">France</placeName>
+         (poésie, romans, nouvelles et dictionnaires spécialisés). Il a étudié l’art dramatique (Conservatoire national, Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        ), la linguistique et la terminologie (Université 
+        <placeName ana="Laval">Laval</placeName>
+        , 
+        <placeName ana="Quebec">Québec</placeName>
+        ).
+      </p>
+      <p>
+        Diseur, il se produit sur scène depuis les années 1970, au pays comme à l’étranger : récitals de poèmes et de chansons en français, créole, espagnol et italien. 
+        <persName ana="Alix_Renaud">Alix Renaud</persName>
+         a enseigné l’art de dire (« lecture de textes poétiques ») à l’Université 
+        <placeName ana="Laval">Laval</placeName>
+        , à 
+        <placeName ana="Quebec">Québec</placeName>
+        , et a animé des ateliers de diction poétique (CEULA; Bibliothèque de Saint-Romuald; Association des écrivains de Toronto). Il a longtemps occupé un poste de terminologue au Secrétariat d’État du 
+        <placeName ana="Canada">Canada</placeName>
+         (1976-1989). Il a également été conseiller littéraire auprès du ministère des Affaires culturelles du 
+        <placeName ana="Quebec">Québec</placeName>
+         (actuel ministère de la Culture et des Communications du 
+        <placeName ana="Quebec">Québec</placeName>
+        ) et a assuré pendant un an, en 1982, la chronique linguistique (terminologie de la haute fidélité) du périodique 
+        <placeName ana="Montrealais">Montréalais</placeName>
+         Son Hi-Fi Magazine. Il a écrit pendant plusieurs années pour la radio FM de Radio-
+        <placeName ana="Canada">Canada</placeName>
+         (dramatiques et documentaires), en plus de collaborer à divers journaux et revues par des textes de création, de critique littéraire, de sociolinguistique et des études terminologiques (L’Action, Le Soleil, Le Devoir, 
+        <placeName ana="Quebec">Québec</placeName>
+         français, 
+        <placeName ana="Quebec">Québec</placeName>
+         Science, Imagine).
+      </p>
+      <p>
+        Au cours de l’année 1991, 
+        <persName ana="Alix_Renaud">Alix Renaud</persName>
+         est reporter bilingue (espagnol-français) pour Radio 
+        <placeName ana="Canada">Canada</placeName>
+         International et, à l’occasion, par la suite, Reportero de un día. Critique gastronomique du 
+        <placeName ana="Journal">Journal</placeName>
+         Voir de 
+        <placeName ana="Quebec">Québec</placeName>
+         et coauteur du Guide restos Voir (de 1995 à 2012), il est aussi, entre 1992 et 2010,  professeur d’expression orale au Collège radio-télévision de 
+        <placeName ana="Quebec">Québec</placeName>
+         (C.R.T.Q.). Il est membre de l’Union des écrivaines et écrivains québécois depuis 1979 et membre associé de la Fédération professionnelle des journalistes du 
+        <placeName ana="Quebec">Québec</placeName>
+         (F.P.J.Q.). Il anime depuis sa fondation le Cercle Gabriel-García-
+        <persName ana="Marquez_De_Quebec">
+          Márquez de 
+          <placeName ana="Quebec">Québec</placeName>
+        </persName>
+        , qui fête en 2018 ses dix ans d’existence. Parrain du festival MondoKarnaval en 2016. Il réalise depuis plusieurs années des jeux linguistiques pour différents périodiques spécialisés, dont Camping Caravaning.
+      </p>
+      <p>
+        Le 15 
+        <placeName ana="Mars">Mars</placeName>
+         2002, la série Je vous entends écrire,  animée par l’écrivain 
+        <persName ana="Alain_Beaulieu">Alain Beaulieu</persName>
+        , a rendu hommage à l’écrivain 
+        <persName ana="Alix_Renaud">Alix Renaud</persName>
+         au cours d’une soirée musicale et littéraire au Tam! Tam! Café (
+        <placeName ana="Quebec">Québec</placeName>
+        ). Les écrivains 
+        <persName ana="Stanley_Pean">Stanley Péan</persName>
+         et 
+        <persName ana="Jean_Desy">Jean Désy</persName>
+         ont présenté l’auteur et ont lu des extraits de sa poésie et de sa prose. Ensuite, accompagnée des musiciens 
+        <persName ana="Jeannot_Turcotte">Jeannot Turcotte</persName>
+         (piano), Jean-
+        <persName ana="Michel_Borgeat">Michel Borgeat</persName>
+         (guitare) et 
+        <persName ana="Ralph_Cote">Ralph Côté</persName>
+         (batterie et percussions), la chanteuse 
+        <persName ana="Michelle_Lavallee">Michelle Lavallée</persName>
+         a interprété une dizaine de chansons d’
+        <persName ana="Alix_Renaud">Alix Renaud</persName>
+        .
+      </p>
+      <p>
+        Diffusées par la chaîne FM de Radio-
+        <placeName ana="Canada">Canada</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Alix_Renaud_biblio">
+    <div ref="http://ile-en-ile.org/renaud/" xml:id="Alix_Renaud_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« Memories » (« Souvenir »).Suzanne Brichaux-Houyoux, trad. Callaloo 15.2 (Spring 1992): 522-523.</item>
+      </list>
+      <list subtype="en español">
+        <item>« Ofrenda de Gracias » (« Grâces »). Trad. Carmen Arriagada (Chili; voir le lien ci-dessous).</item>
+      </list>
+      <list subtype="em português">
+        <item>« Graças » (« Grâces »). Trad. Raimunda Bedasee. Sitientibus (Revista da Universidade Estadual de Feira de Santana) 9 (janvier-juin 1992): 132.</item>
+      </list>
+      <list subtype="romans">
+        <item>Merdiland. Marseille / Québec: Le Temps parallèle / Laliberté, 1983.</item>
+      </list>
+      <list subtype="roman pour la jeunesse">
+        <item>Grand Roi et Petit Fou. Québec: Éditions GID, 2009.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Le mari. Sherbrooke, Québec: Naaman, 1980.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Le troc mystérieux,  carte-poème (avec une adaptation russe de M. Jeremi­jew). Genève: Éditions Poésie vivante, 1970.</item>
+      </list>
+      <list subtype="essais de linguistique et de terminologie">
+        <item>Dictionnaire de l’audiophonie: de la machine de gravure à la salle d’écoute / Audio dictionary: from the recording to the listening room. Paris / Montréal: CEDIC / Ville-Marie, 1981.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Les Autres, pièce en deux actes, créée par la C.A.L.C.Q. au théâtre Côté cour, à Québec, le 27 avril 1996. Mise en scène de Chantal Liart.</item>
+      </list>
+      <list subtype="dans des anthologies et des ouvrages de référence">
+        <item>Anthologie Poésie vivante. Genève: Poésie Vivante, 1970.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Casanova contre Voltaire » (étude littéraire). L’Action (Québec, 22 août 1970).</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2007     Prix Charles-Biddle, pour son apport exceptionnel à la société québécoise.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Alix_Renaud_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/alix-renaud-poemes/">Ménage à trois</item>
+      <item ref="http://www3.sympatico.ca/alix.renaud/">Alix Renaud, ou le plaisir du texte</item>
+      <item ref="https://youtu.be/j00ZarXgz5g">« Le Mot et la chose », poème de Lattaignant</item>
+      <item ref="https://youtu.be/C1P65X3rhZU">Des genoux au vertige</item>
+      <item ref="http://www3.sympatico.ca/diamantbleu/accueil.html">À la recherche du Petit Prince</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/renaud-alix-389/">Présentation sur L’île</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/renaud-alix-389/">Présentation sur L’île</item>
+      <item ref="http://www.potomitan.info/ayiti/renaud.php">Présentation sur Potomitan</item>
+      <item ref="http://www.uefs.br/sitientibus/sitientibus_9/entrevista.pdf">Entrevista</item>
+      <item ref="http://newsgroups.derkeiler.com/Archive/Soc/soc.culture.haiti/2005-11/msg00159.html">Le don de jouer avec les mots</item>
+      <item ref="http://www.mondokarnaval.com/alix_chronique_2016.html">Les Chroniques d’Alix Renaud</item>
+      <item ref="http://www3.sympatico.ca/alix.renaud/grac_esp.html">Ofrenda de Gracias</item>
+      <item ref="http://fr.wiktionary.org/wiki/pompion">Pompion</item>
+      <item ref="https://www.thecaribbeancurrent.com/quebec-awards-alix-renaud-for-excellence-in-arts-and-culture/">Quebec Awards Alix Renaud for Excellence in Arts and Culture</item>
+      <item ref="http://www.voir.ca/">Voir</item>
+      <item ref="https://voir.ca/livres/2000/02/10/alix-renaud-ovation/">Ovation</item>
+    </list>
   </div>
 </TEI>

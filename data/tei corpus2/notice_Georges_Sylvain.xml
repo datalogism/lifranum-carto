@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Georges_Sylvain_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Georges_Sylvain" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Georges Sylvain</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Georges_Sylvain_fiche_autorite">
+  <div n="1" xml:id="Georges_Sylvain_fiche">
     <person ana="Georges_Sylvain" sex="na">
-      <persName>
-        <surname source="bnf">Georges</surname>
-        <forename source="bnf">Sylvain</forename>
-      </persName>
+      <persName>Georges Sylvain</persName>
       <idno type="BNF">
         cb11088759g#about
         <g ref="http://data.bnf.fr/ark:/12148/cb11088759g#about"/>
@@ -50,5 +47,116 @@
         </placeName>
       </residence>
     </person>
+  </div>
+  <div n="2" xml:id="Georges_Sylvain_bio">
+    <text hand="Dieulermesson Petit Frère" ref="http://ile-en-ile.org/sylvain_georges/" xml:id="Georges_Sylvain_bio_auteur_ile_en_ile">
+      <p>
+        Poète, essayiste, diplomate et homme politique, 
+        <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+         naît le 2 avril 1865 à Puerto-
+        <placeName ana="Plata">Plata</placeName>
+         en 
+        <placeName ana="Republique_Dominicaine">République Dominicaine</placeName>
+        . Il fait ses études chez les frères de l’Instruction Chrétienne de Port-de-Paix, fréquente ensuite le Petit Séminaire Collège Saint-
+        <placeName ana="Martial">Martial</placeName>
+         de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et le Collège Stanislas de 
+        <placeName ana="Paris">Paris</placeName>
+        . Il étudie le droit et les lettres à la Faculté des Lettres et la Faculté de Droit de 
+        <placeName ana="Paris">Paris</placeName>
+        .
+      </p>
+      <p>
+        De retour au pays, il épouse 
+        <persName ana="Eugenie_Mallebranche">Eugénie Mallebranche</persName>
+        . De cette union naîtront sept enfants : 
+        <persName ana="Suzanne_Comhaire">Suzanne Comhaire</persName>
+        -Sylvain, la première femme noire anthropologue d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Normil_Sylvain">Normil Sylvain</persName>
+        , le poète et fondateur de la Revue Indigène, 
+        <persName ana="Madeleine_Sylvain">Madeleine Sylvain</persName>
+        -
+        <placeName ana="Bouchereau">Bouchereau</placeName>
+        , fondatrice de la Ligue féminine d’action sociale, 
+        <persName ana="Yvonne_Sylvain">Yvonne Sylvain</persName>
+        , la première femme médecin d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et la première gynécologue-obstétricienne du pays, Henri, Jeanne et 
+        <persName ana="Pierre_Sylvain">Pierre Sylvain</persName>
+        .
+      </p>
+      <p>
+        En 1894, on le retrouve Chef de division au département de l’instruction publique. Nommé Juge au tribunal de Cassation en 1901, il fonde l’école de droit, la Société de législation et l’œuvre des écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         afin de faire la promotion des lettres. Membre de l’institut International de Sociologie, Bâtonnier de l’ordre des avocats, il enseigne à la Faculté de droit. La même année, il publie Confidences et mélancolies, un recueil de 29 poèmes écrits en vers sur le style classique dans lequel le poète exprime les impressions, les confusions et les sentiments qui hantent son âme. Divisée en deux livres, l’œuvre s’articule autour de thèmes comme l’amour, la nature, la patrie, la mort, la nostalgie ou la mélancolie qui relève son caractère romantique. À lire les textes, on est frappé par la sobriété et le classicisme apparent de leur composition. Plus d’un siècle nous sépare de la première édition de ces poèmes qui gardent encore toute leur beauté. Le titre du recueil évoque, à première vue, une invitation. Invitation au silence et à se laisser pénétrer par les émotions qui traversent l’œuvre. Il met en évidence l’une de ses caractéristiques essentielles à savoir une conscience qui se dévoile. Qui met au jour faits, des gestes qui ont marqué sa vie. Ce qui révèle le côté individualiste [individuel] de l’œuvre dans la mesure où les textes se lisent comme des tranches de vie. Des morceaux de rêves épars d’une âme heureuse et tourmentée.
+      </p>
+      <p>
+        En cette même année 1901, il publie aussi Cric-Crac, un recueil de fables créoles imitées des 
+        <persName ana="Fables_De_La_Fontaine">Fables de La Fontaine</persName>
+        . Avec la collaboration de 
+        <persName ana="Solon_Menos">Solon Ménos</persName>
+         et 
+        <persName ana="Dantes_Bellegarde">
+          Dantès 
+          <placeName ana="Bellegarde">Bellegarde</placeName>
+        </persName>
+        , il publie en 1904 deux tomes d’une anthropologie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         intitulée : Auteurs 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        . Morceaux choisis. L’œuvre est couronnée par l’Académie française. Un an plus tard, il fonde l’Alliance française en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . En 1908, paraît La lecture, un recueil de discours et conférences qu’il a prononcés en sa qualité de délégué de l’Alliance française en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Un an plus tard, il est reçu à titre de ministre plénipotentiaire de 
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+         et près du Saint-Siège, poste qu’il occupe jusqu’en 1912.
+      </p>
+      <p>
+        En effet, l’année 1915 marque une étape décisive dans sa vie. Il fonde le 
+        <placeName ana="Journal">Journal</placeName>
+         La Patrie fermé peu de temps après par l’occupant américain. Ayant côtoyé les milieux littéraires du pays, il fait partie de La Ronde, revue littéraire de l’époque qui regroupe les écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         opposés à l’occupation. Il collabore à plusieurs journaux et revues notamment Le Nouvelliste, La Vérité et 
+        <placeName ana="Haiti">Haïti</placeName>
+         littéraire et sociale. En 1922, il fonde avec quelques amis le 
+        <placeName ana="Journal">Journal</placeName>
+         l’Union Patriotique dont il est l’administrateur délégué. Il reprend sa lutte contre les forces impérialistes.
+      </p>
+      <p>
+        <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+         meurt le 2 août 1925 en fier combattant de l’occupation américaine.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Georges_Sylvain_biblio">
+    <div ref="http://ile-en-ile.org/sylvain_georges/" xml:id="Georges_Sylvain_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Confidences et Mélancolies. Paris: Ateliers haïtiens, 1901; Imprimerie Henri Deschamps, 1975, 1979; Port-au-Prince: Presses nationales d’Haïti, 2005; Port-au-Prince: Legs Édition, 2014.</item>
+      </list>
+      <list subtype="fables">
+        <item>Cric-Crac. Fables de La Fontaine racontées par un montagnard haïtien. Paris: Ateliers haïtiens, 1901; Port-au-Prince: Imprimerie Mme G. Sylvain, 1929; Port-au-Prince: Imprimerie de l’État, 1954; Nendelin: Kraus Reprint, 1971; Port-au-Prince: Fardin, 2004; Paris: L’Harmattan, 2011.</item>
+      </list>
+      <list subtype="essais">
+        <item>Auteurs haïtiens. Morceaux choisis (en collaboration avec Solon Menos et Dantès Bellegarde). Port-au-Prince: Imprimerie Mme F. Smith, 1904.</item>
+      </list>
+      <list subtype="distinction littéraire">
+        <item>1906    Prix Auguste Furtado de l’Académie française, pour Auteurs haïtiens. Morceaux choisis.</item>
+      </list>
+      <list subtype="sur l’oeuvre de georges sylvain">
+        <item>Anon. « En relisant Cric ? Crac !, de Georges Sylvain ». L’Informateur haïtien, Port-au-Prince (21 avril 1919).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Georges_Sylvain_web">
+    <list type="ile_en_ile">
+      <item ref="http://pinzweb.com/national/georges-sylvain-un-opposant-farouche-de-loccupation-americaine-de-1915-par-schultz">Georges Sylvain, un opposant farouche de l’occupation américaine de 1915</item>
+      <item ref="https://lenouvelliste.com/article/130180/la-grande-soeur-de-georges-sylvain">La grande sœur de Georges Sylvain</item>
+    </list>
   </div>
 </TEI>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Lucien_Lemoine_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Lucien_Lemoine" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Lucien Lemoine</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Lucien_Lemoine_fiche_autorite">
+  <div n="1" xml:id="Lucien_Lemoine_fiche">
     <person ana="Lucien_Lemoine" sex="na">
       <persName>Lucien Lemoine</persName>
       <langKnowledge>
@@ -28,8 +28,29 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">Metteur/se en sc�ne</occupation>
+      <occupation source="spla">Metteur/se en scène</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Lucien_Lemoine_bio">
+    <text ref="http://www.spla.pro/fiche.personne.lucien-lemoine.5737.html" xml:id="Lucien_Lemoine_bio_auteur_spla">
+      <p>
+        Comédien, auteur et metteur en scène sénégalais d'origine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         est décédé le 13 janvier 2010 à 
+        <placeName ana="Dakar">Dakar</placeName>
+        , à l'âge de 86 ans, où il vivait avec son épouse Jaqueline Lemoine. Arrivé le 10 avril 1966 au 
+        <placeName ana="Senegal">Sénégal</placeName>
+         avec la troupe 
+        <persName ana="Marie_Serreau">Marie Serreau</persName>
+         pour participer au Festival des arts nègres, il en avait fait son pays d'adoption et avait été naturalisé sénégalais en 1976. Figure de la scène culturelle sénégalaise, 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         est l'auteur de plusieurs poèmes et ouvrages et avait par ailleurs animé de nombreuses émissions culturelles sur la radio sénégalaise et enseigné au Centre d'études des sciences et techniques de l'information (CESTI).
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Lucien_Lemoine_biblio"/>
+  <div n="4" xml:id="Lucien_Lemoine_web"/>
 </TEI>

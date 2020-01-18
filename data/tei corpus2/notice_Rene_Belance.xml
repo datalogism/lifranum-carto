@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Rene_Belance_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Rene_Belance" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Ren� B�lance</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de René Bélance</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Rene_Belance_fiche_autorite">
+  <div n="1" xml:id="Rene_Belance_fiche">
     <person ana="Rene_Belance" sex="na">
-      <persName>
-        <surname source="bnf">Ren�</surname>
-        <forename source="bnf">B�lance</forename>
-      </persName>
+      <persName>René Bélance</persName>
       <idno type="BNF">
         cb126727637#about
         <g ref="http://data.bnf.fr/ark:/12148/cb126727637#about"/>
@@ -52,6 +49,204 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Saint_Amand_Edris">
+          <persName>Saint-Amand Edris</persName>
+        </person>
+        <person ana="Roumain_Jacques">
+          <persName>Roumain Jacques</persName>
+        </person>
+        <person ana="LeOn_Emile_Georges">
+          <persName>Léon-Emile Georges</persName>
+        </person>
+        <person ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress">
+          <persName>Archive of Hispanic Literature on Tape Library of Congress</persName>
+        </person>
+        <person ana="Depestre_Rene">
+          <persName>Depestre René</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Rene_Belance_bio">
+    <text ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+         est né le 8 janvier 1915 à 
+        <placeName ana="Corail">Corail</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Son enfance a été marquée par l’Occupation américaine de son pays. Par la suite, bien qu’il effectue une longue carrière aux États-Unis, il ne prendra jamais la nationalité américaine.
+      </p>
+      <p>
+        À l’école, 
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+         commence à écrire dès la sixième. Faute de moyens, 
+        <placeName ana="Belance">Bélance</placeName>
+         ne suit pas son ambition de faire des études de médecine, et s’oriente vers la philosophie dès les années au lycée 
+        <persName ana="Alexandre_Petion">
+          Alexandre 
+          <placeName ana="Petion">Pétion</placeName>
+        </persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Dans cet établissement, l’un de ses essais est remarqué par son professeur 
+        <persName ana="Duracine_Vaval">Duraciné Vaval</persName>
+        . Lauréat d’un concours de philosophie organisé au lycée pour la fête de 
+        <placeName ana="Petion">Pétion</placeName>
+        , 
+        <placeName ana="Belance">Bélance</placeName>
+         obtient une bourse par l’intermédiaire de 
+        <persName ana="Dantes_Bellegarde">
+          Dantès 
+          <placeName ana="Bellegarde">Bellegarde</placeName>
+        </persName>
+        , essayiste et 
+        <placeName ana="Directeur">Directeur</placeName>
+         du lycée à l’époque – une « fortune » de neuf dollars 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         (45 gourdes) par mois qui lui permet de « manger trois fois par jour » – pour suivre des études de philosophie pendant un an à l’École Nationale d’Instituteurs. Avec son certificat d’enseignement pour les études primaires, 
+        <placeName ana="Belance">Bélance</placeName>
+         demande un poste dans sa ville natale de 
+        <placeName ana="Corail">Corail</placeName>
+         mais finit plutôt par travailler pendant trois ans à un poste avec l’économie nationale à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+      </p>
+      <p>
+        À titre de journaliste bénévole, 
+        <placeName ana="Belance">Bélance</placeName>
+         contribue à cette époque (et pendant trois ans) des articles au quotidien Le Nouvelliste. Il enseigne à l’École Normale. Il obtient une bourse de l’Unesco et part au 
+        <placeName ana="Mexique">Mexique</placeName>
+         où il enseignera pendant deux ans dans un programme d’éducation d’adultes. L’Unesco lui propose un poste de photographe mais 
+        <placeName ana="Belance">Bélance</placeName>
+         préfère retourner en 
+        <placeName ana="Haiti">Haïti</placeName>
+         pour enseigner à l’Institut pour l’Éducation des Adultes, récemment créé. Il enseigne ensuite, pendant huit mois, à une école rurale. 
+        <placeName ana="Belance">Bélance</placeName>
+         revient à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         où il est nommé professeur de littérature au lycée 
+        <placeName ana="Toussaint">Toussaint</placeName>
+        -Louverture. Parmi ses élèves, 
+        <placeName ana="Belance">Bélance</placeName>
+         se souvient du jeune 
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         en qui il a reconnu les talents de romancier. 
+        <persName ana="Yolande_Laraque">
+          Yolande 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         (la soeur du poète), lui fait obtenir un poste d’enseignant au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         où il reste jusqu’en 1959. Il 
+        <placeName ana="Passe">Passe</placeName>
+         alors trois ans à faire des recherches sur les 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+         à l’Universidad de 
+        <placeName ana="Porto_Rico">Porto Rico</placeName>
+         à 
+        <placeName ana="Rio_Piedras">Río Piedras</placeName>
+        .
+      </p>
+      <p>
+        En 1962, 
+        <placeName ana="Belance">Bélance</placeName>
+         part pour l’University of California à 
+        <placeName ana="Berkeley">Berkeley</placeName>
+         où il enseigne, et obtient, après trois ans, une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+        . Suivra la carrière américaine du professeur 
+        <placeName ana="Belance">Bélance</placeName>
+        : d’abord à Whitman College (à 
+        <persName ana="Walla_Walla">Walla Walla</persName>
+         dans l’état de 
+        <placeName ana="Washington">Washington</placeName>
+        ), ensuite à 
+        <persName ana="Williams_College">Williams College</persName>
+         dans le 
+        <placeName ana="Massachusetts">Massachusetts</placeName>
+         (1968-1970). Suite à une conférence impressionnante sur 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+         à Providence, 
+        <placeName ana="Rhode_Island">Rhode Island</placeName>
+        , en 1970, 
+        <placeName ana="Belance">Bélance</placeName>
+         est engagé comme professeur à 
+        <persName ana="Brown_University">Brown University</persName>
+         où, pendant onze ans, il se spécialise dans le roman africain francophone et anglophone et dans la poésie française.
+      </p>
+      <p>
+        Lorsqu’il prend sa retraite en 1981, 
+        <placeName ana="Belance">Bélance</placeName>
+         rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et vit à Frères où il se consacre à la poésie. Appelé « poète surréaliste » par le journaliste 
+        <persName ana="Roger_Gaillard">Roger Gaillard</persName>
+         en 1943, 
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+         revendique d’autres élements et styles de sa poésie sociale, sa poésie de protestation. Au moment de sa mort à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 11 janvier 2004, de nombreux messages de personnalités du monde littéraire haïtien témoignent de l’estime pour le poète et de l’importance de sa poésie. Voir le dossier, 
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+        , 1915-2004, Hommages au poète.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.rene-belance.14058.html" xml:id="Rene_Belance_bio_auteur_spla">
+      <p>
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+         est né le 8 janvier 1915 à 
+        <placeName ana="Corail">Corail</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Son enfance a été marquée par l'Occupation américaine de son pays. Par la suite, bien qu'il effectue une longue carrière aux États-Unis, il ne prendra jamais la nationalité américaine. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Rene_Belance_biblio">
+    <div ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« In Celebration of Absence ». Trad. Marcia Sterling. Portfolio 5 (Washington, D.C.), 1945.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Rythme de mon cœur. (préface de Léon Lahens). Port-au-Prince: Imprimerie modèle, 1940.</item>
+      </list>
+      <list subtype="entretien">
+        <item>Interview avec André Breton, publiée dans Haïti-Journal (12-13 décembre 1945). Republiée (« Interview de René Bélance ») dans le volume Entretiens (1913-1952) d’André Breton. Paris: Gallimard, 1952, 1969, 1973: 233-237.</item>
+      </list>
+      <list subtype="sur rené bélance">
+        <item>Rowell, Charles H. « René Bélance ». Entretien suivi de quatre poèmes (avec les traductions de Carrol F. Coates): « Fetish/Fétiche », « Comfort/Confort », « Clamor/Clameur » et « Nerve/Nervure ». Callaloo 15.3 (Summer 1992): 601-610.</item>
+      </list>
+      <list subtype="poésie enregistrée">
+        <item>« Allure » (extrait), dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Rene_Belance_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/rene-belance-quatre-poemes-de-rene-belance/">Quatre poèmes de René Bélance</item>
+      <item ref="http://ile-en-ile.org/belance-quatre-poemes/">Sélection de poèmes </item>
+      <item ref="http://ile-en-ile.org/entretien-avec-rene-belance-par-paul-farmer/">Entretien avec René Bélance</item>
+      <item ref="http://ile-en-ile.org/rene-belance-geole/">Geôle</item>
+      <item ref="http://ile-en-ile.org/rene-belance-mains-libres/">Mains libres</item>
+      <item ref="http://ile-en-ile.org/rene-belance-1915-2004-hommages-au-poete/">René Bélance, 1915-2004, Hommages au poète</item>
+      <item ref="http://ile-en-ile.org/jimmy-ly-rene-belance-walla-walla-washington/">Surréalisme haïtien et littérature tahitienne à Walla Walla, Washington (septembre 1965)</item>
+      <item ref="http://web.archive.org/web/20031114020638/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=563">Fuite </item>
+    </list>
   </div>
 </TEI>

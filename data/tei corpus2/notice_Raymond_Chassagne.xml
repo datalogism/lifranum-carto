@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Raymond_Chassagne_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Raymond_Chassagne" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Raymond Chassagne</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Raymond_Chassagne_fiche_autorite">
+  <div n="1" xml:id="Raymond_Chassagne_fiche">
     <person ana="Raymond_Chassagne" sex="na">
       <persName>Raymond Chassagne</persName>
       <langKnowledge>
@@ -30,5 +30,163 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Raymond_Chassagne_bio">
+    <text ref="http://ile-en-ile.org/chassagne/" xml:id="Raymond_Chassagne_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Raymond_Chassagne">
+          Raymond 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+         naît le 13 février 1924 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il fait des études secondaires au Collège de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         
+        <persName ana="Henri_Odeide">Henri Odéide</persName>
+        . En mai 1957, il démissionne de l’Armée d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et part pour l’exil après un procès politique et un emprisonnement de neuf mois, dans les prisons du dictateur 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        .
+      </p>
+      <p>
+        <placeName ana="Chassagne">Chassagne</placeName>
+         séjourne aux États-Unis de 1959 à 1966, et ensuite au 
+        <placeName ana="Canada">Canada</placeName>
+         où il obtient un diplôme de 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         à l’université McGill en 1975, avec un mémoire portant sur l’œuvre poétique d’
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        . Il poursuit ses études à l’université de 
+        <placeName ana="Montreal">Montréal</placeName>
+         et obtient, avec une thèse sur l’œuvre d’
+        <persName ana="Edouard_Glissant">Édouard Glissant</persName>
+         en 1979, un doctorat de lettres. Il enseigne la littérature au 
+        <placeName ana="Quebec">Québec</placeName>
+         jusqu’en 1979 quand il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Depuis son retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <placeName ana="Chassagne">Chassagne</placeName>
+         dispense des cours de littérature et de méthodologie à l’Université d’État, collabore à différentes revues et anime des émissions de radio et de télévision. En compagnie d’
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         et de 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+        , il participe aux soirées littéraires du club Batofou.
+      </p>
+      <p>
+        Depuis 1994, il s’installe à Port-Salut au sud d’
+        <placeName ana="Haiti">Haïti</placeName>
+         où il fonde une bibliothèque, encadre les professeurs et prend une part active à la vie communautaire du village. Dans ce lieu de retranchement, il entame un véritable travail d’écriture et de réflexions.
+      </p>
+      <p>
+        Il revient vivre à 
+        <placeName ana="Montreal">Montréal</placeName>
+         en 2007.
+      </p>
+      <p>
+        L’œuvre de 
+        <persName ana="Raymond_Chassagne">
+          Raymond 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+         couvre aussi bien la prose analytique que l’écriture poétique. Le point nodal de son œuvre est la poignance de l’aventure 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , qu’il définit comme un « parcours chargé de défis : la dénaturation de la création d’un pays, les subséquences mythiques et les difficultés rencontrées dans la construction d’une véritable citoyenneté ».
+      </p>
+      <p>
+        La poétique de 
+        <placeName ana="Chassagne">Chassagne</placeName>
+         – tout comme ses réflexions – vise à l’avènement d’un vivre-ensemble en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Le poète, essayiste et professeur 
+        <persName ana="Raymond_Chassagne">
+          Raymond 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+         s’éteint à 
+        <placeName ana="Longueuil">Longueuil</placeName>
+         (
+        <placeName ana="Quebec">Québec</placeName>
+        ) le 27 mai 2013 à l’âge de 89 ans. Le service des funérailles aura lieu samedi le 1er juin à Saint-Lambert. Dans les liens ci-dessous, nous rajouterons des références aux hommages et témoignages de 
+        <placeName ana="La_Presse">La Presse</placeName>
+         ; vous en trouverez déjà sur la page Facebook des éditions Mémoire d’encrier. Les liens vous renvoient également à la vidéo de 
+        <persName ana="Boris_Chassagne">
+          Boris 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+         (1992) lisant trois poèmes, et aux enregistrements sonores : cinq poèmes de 
+        <persName ana="Raymond_Chassagne">
+          Raymond 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+         dits par 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         et un poème dit par 
+        <persName ana="Boris_Chassagne">
+          Boris 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+        , le fils du regretté poète.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.raymond-chassagne.14075.html" xml:id="Raymond_Chassagne_bio_auteur_spla">
+      <p>
+        <persName ana="Raymond_Chassagne">
+          Raymond 
+          <placeName ana="Chassagne">Chassagne</placeName>
+        </persName>
+         naît le 13 février 1924 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il fait des études secondaires au Collège de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         
+        <persName ana="Henri_Odeide">Henri Odéide</persName>
+        . En mai 1957, il démissionne de l'Armée d'
+        <placeName ana="Haiti">Haïti</placeName>
+         et part pour l'exil après un procès politique et un emprisonnement de neuf mois, dans les prisons du dictateur 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        . voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Raymond_Chassagne_biblio">
+    <div ref="http://ile-en-ile.org/chassagne/" xml:id="Raymond_Chassagne_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Mots de passe. Sherbrooke: Naaman, 1976.</item>
+      </list>
+      <list subtype="essais">
+        <item>« Les contradictions dans l’œuvre d’Aimé Césaire ». (Mémoire de maîtrise, McGill University, 1973) 1974.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Entre glace et corail » (poème). Conjonction 160 (janvier 1984): 79-82.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Raymond Chassagne: dit par Anthony Phelps. (disque 33 tours, poèmes tirés de Mots de passe) Musique de transition de Claude Dauphin. Montréal: Éditions Naam, 1976.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Raymond_Chassagne_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/raymond-chassagne-convivialite-blues-a-madame/">Convivialité</item>
+      <item ref="http://ile-en-ile.org/raymond-chassagne-poemes/">Passage, ma forêt noire à toi</item>
+      <item ref="http://ile-en-ile.org/chassagne-postface-de-manes-descollines-de-michel-monnin/">Postface</item>
+      <item ref="http://ile-en-ile.org/raymond-chassagne-presage/">Présage</item>
+      <item ref="http://ile-en-ile.org/trois-poemes-lus-par-raymond-chassagne/">Trois poèmes lus par Raymond Chassagne</item>
+      <item ref="http://web.archive.org/web/20040821092848/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=573">Les mots qui saignent</item>
+      <item ref="http://memoiredencrier.com/raymond-chassagne/">Raymond Chassagne</item>
+    </list>
   </div>
 </TEI>

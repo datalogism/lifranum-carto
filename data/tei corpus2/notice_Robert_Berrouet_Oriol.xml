@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Robert_Berrouet_Oriol" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Robert Berrouët Oriol</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Robert_Berrouet_Oriol_fiche">
+    <person ana="Robert_Berrouet_Oriol" sex="na">
+      <persName>Robert Berrouët Oriol</persName>
+      <birth source="viaf">
+        <date>1929-10-31</date>
+      </birth>
+      <occupation source="viaf">linguists</occupation>
+      <occupation source="viaf">authors black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Saint_Fort_Hugues">
+          <persName>Saint-Fort Hugues</persName>
+        </person>
+        <person ana="John_Valerie">
+          <persName>John Valérie</persName>
+        </person>
+        <person ana="Fournier_Robert">
+          <persName>Fournier Robert</persName>
+        </person>
+        <person ana="CothieRe_Darline">
+          <persName>Cothière Darline</persName>
+        </person>
+        <person ana="Turi Joseph_G">
+          <persName>Turi Joseph-G</persName>
+        </person>
+        <person ana="Fattier_Dominique">
+          <persName>Fattier Dominique</persName>
+        </person>
+        <person ana="Durosier_Desrivieres_Jean">
+          <persName>Durosier Desrivières Jean</persName>
+        </person>
+        <person ana="Desrivieres_Jean_Durosier">
+          <persName>Desrivières Jean Durosier</persName>
+        </person>
+        <person ana="Corbeil_Jean_Claude">
+          <persName>Corbeil Jean-Claude</persName>
+        </person>
+        <person ana="Coates Carrol_F">
+          <persName>Coates Carrol F</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Robert_Berrouet_Oriol_bio">
+    <text hand="Mylène Dorcé" ref="http://ile-en-ile.org/berrouet-oriol/" xml:id="Robert_Berrouet_Oriol_bio_auteur_ile_en_ile">
+      <p>
+        Originaire de 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Robert_Berrouet">
+          Robert 
+          <placeName ana="Berrou">Berrou</placeName>
+          ët
+        </persName>
+        -Oriol vit à 
+        <placeName ana="Montreal">Montréal</placeName>
+         depuis 1969. Ayant fait ses études à l’Université du 
+        <placeName ana="Quebec">Québec</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , ce linguiste-terminologue, spécialiste en aménagement linguistique et en communications institutionnelles, est aussi un poète accompli.
+      </p>
+      <p>
+        Dès le début des années 1980 et durant 14 ans, 
+        <persName ana="Robert_Berrouet">
+          Robert 
+          <placeName ana="Berrou">Berrou</placeName>
+          ët
+        </persName>
+        -Oriol a travaillé à l’alimentation, la mise à jour et la diffusion de la Banque de terminologie du 
+        <placeName ana="Quebec">Québec</placeName>
+        , l’une des directions opérationnelles de l’Office québécois de la langue française. Responsable des accords de coopération terminolinguistiques entre le 
+        <placeName ana="Quebec">Québec</placeName>
+         et les Écoles de traduction du 
+        <placeName ana="Canada">Canada</placeName>
+        , il a joué un rôle majeur – sur mandat 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         du 
+        <placeName ana="Quebec">Québec</placeName>
+         et de l’Office de la langue française (OQLF) – dans la conceptualisation et la mise en oeuvre du premier accord de coopération linguistique entre le 
+        <placeName ana="Quebec">Québec</placeName>
+         et 
+        <placeName ana="Haiti">Haïti</placeName>
+         dans le domaine de la formation à la méthodologie de la recherche en terminologie et à la gestion des chantiers terminologiques. Cet accord a également permis à 
+        <placeName ana="Haiti">Haïti</placeName>
+         de devenir membre du RINT (Réseau international de néologie et de terminologie).
+      </p>
+      <p>
+        Il a également enseigné la linguistique et la communication à l’Université d’État d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et à l’Université Quisqueya entre 1992 et 1997, période durant laquelle il a contribué à la mise sur pied du Secrétairerie d’État à l’alphabétisation.
+      </p>
+      <p>
+        Lecteur critique et essayiste, 
+        <persName ana="Robert_Berrouet">
+          Robert 
+          <placeName ana="Berrou">Berrou</placeName>
+          ët
+        </persName>
+        -Oriol a collaboré à diverses revues haïtiennes et internationales, notamment 
+        <placeName ana="Calacs">Calacs</placeName>
+        , 
+        <placeName ana="Callaloo">Callaloo</placeName>
+        , Chemins critiques, Conjonction, Dérives, Europe, Interculturel, Moebius, Quebec Studies, Revue noire, Saprifage et 
+        <persName ana="Vice_Versa">Vice Versa</persName>
+        . Il est l’auteur de la première étude théorique relative au concept théorique d’« écritures migrantes et métisses au 
+        <placeName ana="Quebec">Québec</placeName>
+         ».
+      </p>
+      <p>
+        En plus de publier divers articles portant sur la fiction romanesque d’
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+        , de 
+        <persName ana="Pierre_Nepveu">Pierre Nepveu</persName>
+        , de 
+        <persName ana="Dany_Laferriere">
+          Dany 
+          <placeName ana="Laferriere">Laferrière</placeName>
+        </persName>
+         et de Jean-
+        <persName ana="Claude_Charles">Claude Charles</persName>
+        , 
+        <placeName ana="Berrou">Berrou</placeName>
+        ët-Oriol est l’auteur de plusieurs recueils de poésie.
+      </p>
+      <p>
+        Après Lettres urbaines  (poésie), suivi de Le dire-à-soi  (1987) et, au fil des ans, de plusieurs publications de poèmes en revues, incluant des traductions anglaises, Thòraya, d’encre le champ  est son deuxième livre de poésie. Il y explore, dans son « métier à métisser » (
+        <persName ana="Rene_Depestre">René Depestre</persName>
+        ) et avec la radicalité des amples voix lyriques et baroques du XXe siècle, les territoires sacrés et combien complexes des sédimentaires de l’identité, de la mémoire, de l’écriture et des paysages intérieurs.
+      </p>
+      <p>Par la suite, avec En haute rumeur des siècles, il revient à une trame plus mallarméenne de sa poésie, tandis que Poème du décours est sa première incursion dans le champ polyphonique de la prose poétique construite d’un long souffle sans autre ponctuation que le flux de lecture introduit par le lecteur.</p>
+      <p>
+        <persName ana="Robert_Berrouet">
+          Robert 
+          <placeName ana="Berrou">Berrou</placeName>
+          ët
+        </persName>
+        -Oriol est le lauréat en 2010 du Prix de poésie du Livre insulaire Ouessant pour Poème du décours.
+      </p>
+      <p>
+        Il est coordonnateur et coauteur du livre de référence L’aménagement linguistique en 
+        <placeName ana="Haiti">Haïti </placeName>
+        : enjeux, défis et propositions (2011),
+      </p>
+      <p>Son projet esthétique s’est approfondi avec la publication d’En haute rumeur des siècles, « Troc paroles-Troc de paraules » et « Découdre le désastre ».</p>
+    </text>
+  </div>
+  <div n="3" xml:id="Robert_Berrouet_Oriol_biblio">
+    <div ref="http://ile-en-ile.org/berrouet-oriol/" xml:id="Robert_Berrouet_Oriol_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Thòraya, The Ink Field. Trad. Carrol F. Coates Montréal: Éditions du CIDIHCA, 2007.</item>
+      </list>
+      <list subtype="en català">
+        <item>Thoraya, d’encre le champ et En haute rumeur des siècles (extraits). Trad. Elizabeth Rafols. Troc paroles – Troc de paraules. Montréal / Barcelone: Adage / Pagès, 2008: 33-47.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Lettres urbaines: poèmes; suivi de Le dire-à-soi (du rapport à la langue). Montréal: Triptyque, 1986.</item>
+      </list>
+      <list subtype="monographie">
+        <item>L’aménagement linguistique en Haïti : enjeux défis et propositions. Robert Berrouët-Oriol coordonnateur et coauteur, avec des contributions de Darline Cothière, Robert Fournier et Hugues Saint-Fort. Montréal: CIDIHCA, 2011, Port-au-Prince: Éditions de l’Université d’État d’Haïti, 2011.
+Note : Livre de référence rédigé par un collectif de linguistes et comprenant notamment une proposition de projet de loi, en créole et en français, relatif à l’aménagement linguistique en Haïti.</item>
+      </list>
+      <list subtype="poésie parue dans des revues">
+        <item>« Fragmentaires » (à Anthony Phelps). Conjonction 169 (avril-juin 1986): 95-104.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Négrophilie, schizophrénie, ou les avatars de l’errance urbaine ». Vice Versa (Montréal) 13-14 (février-avril 1986): 58-59; reproduit dans Conjonction 169 (avril-juin 1986): 60-67.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2010     Prix du livre insulaire de Ouessant (poésie), pour Poème du décours.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Robert_Berrouet_Oriol_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/robert-berrouet-oriol-aux-tribus-trepassees/">Aux tribus trépassées</item>
+      <item ref="http://ile-en-ile.org/les-je-de-la-memoire-par-robert-berrouet-oriol/">Les je de la mémoire</item>
+      <item ref="http://www.berrouet-oriol.com">Berrouët-Oriol</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/">Robert Berrouët-Oriol</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/amenagement.php">L’aménagement linguistique en Haïti : enjeux défis et propositions</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/langues_haitiennes.php">Haïti contribue-t-elle à la « promotion de la langue de la France » ?</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/urgence.php">De l’urgence de l’aménagement linguistique en Haïti</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/manigat.php">Les acrobaties sémantiques de Mirlande Manigat sont un danger pour l’aménagement du créole haïtien</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/regard.php">Regard objectif sur le statut officiel, aujourd’hui, du créole en Haïti</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/dejean.php">Le « système linguistique » d’Yves Dejean conduit à une impasse</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/ecole.php">L’école en créole, en français, dans les deux langues ?</item>
+      <item ref="http://www.potomitan.info/ayiti/non5.php">De l’omertà à la défaite de la pensée critique : retour sur « La geste » d’Anthony Phelps</item>
+      <item ref="http://www.potomitan.info/conde/vie3.php">Haiti dans le regard de Maryse Condé – Questionner les failles du pacte autobiographique</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/ghetto.php">Soumis au débat public – Le créole haitien à l’épreuve du « ghetto essentialiste »</item>
+      <item ref="http://www.triptyque.qc.ca/auteurs/aut44.html">Robert Berroët-Oriol</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=92017">Faut-il amender la Constitution sans la version créole ?</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=92166">L’amendement constitutionnel de mai 2011 annonce-t-il un coup d’état contre la langue créole d’Haïti ?</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=93939&amp;PubDate=2011-08-30">Vers un aménagement linguistique en Haïti</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=100111">L’école en créole, en français, dans les deux langues ? État de la question et perspectives</item>
+      <item ref="https://pi.library.yorku.ca/ojs/index.php/litte/article/viewPDFInterstitial/26408/24404">Les écritures migrantes et métisses au Québec</item>
+      <item ref="https://pi.library.yorku.ca/ojs/index.php/litte/article/viewPDFInterstitial/26408/24404">Les écritures migrantes et métisses au Québec</item>
+      <item ref="http://id.erudit.org/iderudit/15093ac">Les écritures migrantes et métisses dans la poésie québécoise contemporaine : l’oeuvre de Joël Des Rosiers</item>
+      <item ref="http://web.archive.org/web/20050323192840/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=565">Thoraya – l’exil n’aura pas lieu</item>
+      <item ref="http://www.culturessud.com/contenu.php?id=350">Méditation sur la « bègue cartographie des siècles »</item>
+      <item ref="http://www.culturessud.com/contenu.php?id=350">Méditation sur la « bègue cartographie des siècles »</item>
+      <item ref="http://www.alterpresse.org/spip.php?article11343">Haïti : Déménagement linguistique</item>
+      <item ref="http://www.viceversamag.com/">Vice Versa</item>
+    </list>
+  </div>
+</TEI>

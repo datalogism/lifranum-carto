@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Roland_Paret_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Roland_Paret" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Roland Paret</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Roland_Paret_fiche_autorite">
+  <div n="1" xml:id="Roland_Paret_fiche">
     <person ana="Roland_Paret" sex="na">
-      <persName>
-        <surname source="bnf">Roland</surname>
-        <forename source="bnf">Paret</forename>
-      </persName>
+      <persName>Roland Paret</persName>
       <idno type="BNF">
         cb165223744#about
         <g ref="http://data.bnf.fr/ark:/12148/cb165223744#about"/>
@@ -47,6 +44,141 @@
       </residence>
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Tatsuno_Michiko">
+          <persName>Tatsuno Michiko</persName>
+        </person>
+        <person ana="Voltaire_Frantz">
+          <persName>Voltaire Frantz</persName>
+        </person>
+        <person ana="Lafontant_Carl">
+          <persName>Lafontant Carl</persName>
+        </person>
+        <person ana="Kip">
+          <persName>KIP</persName>
+        </person>
+        <person ana="Duret_Marcel">
+          <persName>Duret Marcel</persName>
+        </person>
+        <person ana="Douyon_Frantz">
+          <persName>Douyon Frantz</persName>
+        </person>
+        <person ana="Cave_Syto">
+          <persName>Cavé Syto</persName>
+        </person>
+        <person ana="Azor">
+          <persName>Azor</persName>
+        </person>
+        <person ana="Azor">
+          <persName>Azor</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Roland_Paret_bio">
+    <text ref="http://ile-en-ile.org/paret/" xml:id="Roland_Paret_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Roland_Paret">Roland Paret</persName>
+         est né le 26 juillet 1943, au Cap-Haïtien. En 1964, il quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         pour 
+        <placeName ana="L’Europe">l’Europe</placeName>
+        . Après des études de cinéma à l’École Supérieure d’État de cinéma, de théâtre et de télévision (PWSFTiTv) à 
+        <placeName ana="Lodz">Lodz</placeName>
+        , en 
+        <placeName ana="Pologne">Pologne</placeName>
+        , il émigre à 
+        <placeName ana="Montreal">Montréal</placeName>
+         où il vit depuis 1973.
+      </p>
+      <p>
+        Il a réalisé des émissions à Radio-
+        <placeName ana="Quebec">Québec</placeName>
+         et des films à Via-le-monde-
+        <persName ana="Daniel_Bertolino">Daniel Bertolino</persName>
+        . De 1978 à 1982, il enseigne le langage visuel à l’Université du 
+        <placeName ana="Quebec">Québec</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Au Département de langue et littérature françaises à l’Université McGill, de 1978 à 1985, il enseigne l’histoire du cinéma français, le théâtre français contemporain et la littérature française.
+      </p>
+      <p>
+        En 1985, 
+        <persName ana="Roland_Paret">Roland Paret</persName>
+         est le lauréat du grand prix du scénario de l’ACCT pour 
+        <placeName ana="Ikor">Ikor</placeName>
+        , scénario qu’il ne réussit pas à produire. En 1986 son film Abakanowicz, une réflexion sur la sculpteure polonaise, obtient une mention spéciale au Festival International du Film sur l’Art (FIFA) de 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Il obtient le prix « Gouverneur de la rosée du livre » du ministère haïtien de la culture en 2002 pour le premier volume de Tribunal des Grands Vents.
+      </p>
+      <p>
+        Tribunal des Grands Vents est le titre générique que 
+        <persName ana="Roland_Paret">Roland Paret</persName>
+         donne à une suite romanesque qui comprendra plusieurs volumes. Trois ont déjà paru : La Convocation des Grands Vents, Les Archives des Grands Vents et L’Assemblée des Grands Vents. Lors de la publication du premier tome, Pierre-
+        <persName ana="Raymond_Dumas">Raymond Dumas</persName>
+         parle d’« un feu d’artifice, un délice, un carnaval plein d’une chaleur insolente ». Selon Dumas, c’est « un roman d’une invention assez extraordinaire, aux changements de tons constants [… une] performance langagière, [une] scénarisation de l’imagination baroque, de la jubilation sarcastique ». Dumas voit chez Paret « un romancier faussement tragique, fêtard désespéré, archiviste boulimique à qui une curiosité fatale a enseigné le goût des autres et de la mystique, la science et la passion de l’au-delà, l’humour blasphématoire et le pessimisme à la fois pitoyable et terrifiant » (Le Nouvelliste 9 
+        <placeName ana="Mars">Mars</placeName>
+         2000).
+      </p>
+      <p>
+        Paret signe une chronique dans le mensuel parisien, 
+        <placeName ana="Haiti">Haïti</placeName>
+        -Tribune, « Aux limites de la mémoire » (2005-2006).
+      </p>
+      <p>
+        <persName ana="Roland_Paret">Roland Paret</persName>
+         est mort à 
+        <placeName ana="Montreal">Montréal</placeName>
+         le 26 
+        <placeName ana="Mars">Mars</placeName>
+         2019, entouré de ses proches, laissant ses manuscrits en de bonnes mains. La veille de son décès, nous mettions en ligne sur Île en île l’entretien (2013) au cours duquel 
+        <persName ana="Roland_Paret">Roland Paret</persName>
+         s’adresse à ses futurs lecteurs.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Roland_Paret_biblio">
+    <div ref="http://ile-en-ile.org/paret/" xml:id="Roland_Paret_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item>Tribunal des Grands Vents.
+
+Tome I: La Convocation des Grands Vents (Dieu le père ; Les yeux de la Méduse ; La cité des grands vents). Montréal: CIDIHCA (première édition à tirage limité), 1999; Montréal: CIDIHCA, 2001.
+Tome II: Les Archives des Grands Vents (Très sage roi Salomon ! Très sage reine de Saba ! ; Le peintre et ses modèles ; Madame ; Le ministère des songes ; Barbelo). Montréal: CIDIHCA, 2001.
+Tome III: L’Assemblée des Grands Vents. Montréal: CIDIHCA, 2005.
+
+</item>
+      </list>
+      <list subtype="scénarii">
+        <item>Ikor, 1985, inédit.</item>
+      </list>
+      <list subtype="réalisations de films">
+        <item>La Vache et le Paysan, réalisé par Roland Paret, 1971.</item>
+      </list>
+      <list subtype="réalisations télévision">
+        <item>De 1978 à 1986, réalisation d’une quarantaine d’émissions pour Radio-Québec.</item>
+      </list>
+      <list subtype="mises en scène  théâtre et spectacles">
+        <item>Caligula d’Albert Camus, Lodz, Pologne, 1970.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Le supplice de Marsyas. Montréal: Plume &amp; Encre, 2006.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires et au cinéma">
+        <item>1985     Prix du scénario de l’Agence de Coopération Culturelle et Technique (ACCT) pour Ikor, scénario inédit.</item>
+      </list>
+      <list subtype="sur l’oeuvre de roland paret">
+        <item>Chemla, Yves. « Rendre aux histoires leur saveur ». Haïti-Tribune 34-35 (mai-juin 2006): 1, 20.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Roland_Paret_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/paret-5-questions/">Roland Paret, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/roland-paret-edmond-la-panique/">Edmond-la-Panique</item>
+      <item ref="http://ile-en-ile.org/roland-paret-monsieur-antonius/">Monsieur Antonius</item>
+      <item ref="http://ile-en-ile.org/roland-paret-nicolas/">Nicolas</item>
+      <item ref="http://ile-en-ile.org/roland-paret-les-yeux-de-meduse/">Les Yeux de méduse</item>
+      <item ref="http://www.monde-diplomatique.fr/2002/10/WARGNY/16951">Au diable les dieux!</item>
+    </list>
   </div>
 </TEI>

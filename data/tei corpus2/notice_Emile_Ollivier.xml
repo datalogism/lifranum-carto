@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Emile_Ollivier_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Emile_Ollivier" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de �mile Ollivier</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Émile Ollivier</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Emile_Ollivier_fiche_autorite">
+  <div n="1" xml:id="Emile_Ollivier_fiche">
     <person ana="Emile_Ollivier" sex="na">
-      <persName>
-        <surname source="bnf">�mile</surname>
-        <forename source="bnf">Ollivier</forename>
-      </persName>
+      <persName>Émile Ollivier</persName>
       <idno type="BNF">
         cb12004517h#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12004517h#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/87423596"/>
       </idno>
       <idno type="VIAF">
-        �mile_Ollivier_(�crivain)
-        <g ref="http://fr.dbpedia.org/resource/�mile_Ollivier_(�crivain)"/>
+        Émile_Ollivier_(écrivain)
+        <g ref="http://fr.dbpedia.org/resource/Émile_Ollivier_(écrivain)"/>
       </idno>
       <birth source="viaf">
         <date>1940-02-11</date>
@@ -54,6 +51,279 @@
       <occupation source="viaf">ecrivains</occupation>
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="MoiSe_Claude">
+          <persName>Moïse Claude</persName>
+        </person>
+        <person ana="Voyer_Brigitte">
+          <persName>Voyer Brigitte</persName>
+        </person>
+        <person ana="Manigat_Charles">
+          <persName>Manigat Charles</persName>
+        </person>
+        <person ana="Toupin_Louis">
+          <persName>Toupin Louis</persName>
+        </person>
+        <person ana="Universite_De_Montreal_Section_D_Andragogie">
+          <persName>Université de Montréal Section d'andragogie</persName>
+        </person>
+        <person ana="Sugden Leonard_W">
+          <persName>Sugden Leonard W</persName>
+        </person>
+        <person ana="Chalom_Maurice">
+          <persName>Chalom Maurice</persName>
+        </person>
+        <person ana="Ying Chen ; RomancieRe_">
+          <persName>Ying Chen ;  romancière</persName>
+        </person>
+        <person ana="Santolini_Arnaud">
+          <persName>Santolini Arnaud</persName>
+        </person>
+        <person ana="Association_Francophone_Pour_Le_Savoir_Acfas">
+          <persName>Association francophone pour le savoir-Acfas</persName>
+        </person>
+        <person ana="Geppert_Beata">
+          <persName>Geppert Beata</persName>
+        </person>
+        <person ana="Gallimard">
+          <persName>Gallimard</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Emile_Ollivier_bio">
+    <text ref="http://ile-en-ile.org/ollivier/" xml:id="Emile_Ollivier_bio_auteur_ile_en_ile">
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 19 février 1940, 
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         est formé à la sociologie après des études de philosophie à l’École Normale Supérieure d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et des études de lettres et de psychologie en 
+        <placeName ana="France">France</placeName>
+        .
+      </p>
+      <p>
+        Fréquentant les cercles littéraires à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Ollivier milite activement au sein de l’Union Nationale des Étudiants 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        . En 1964, il se voit contraint à l’exil par le régime de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        . Après un séjour d’études en 
+        <placeName ana="France">France</placeName>
+        , en 1965 Ollivier et sa femme Marie-José Glémaud s’installent d’abord à Amos en 
+        <placeName ana="Abitibi">Abitibi</placeName>
+        , dans le nord du 
+        <placeName ana="Quebec">Québec</placeName>
+        , ensuite en 1968 à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Pendant vingt-cinq ans, Ollivier mène une carrière de professeur à l’Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+         dans la Faculté des sciences de l’éducation.
+      </p>
+      <p>
+        L’époque de la « révolution tranquille » au 
+        <placeName ana="Quebec">Québec</placeName>
+         sera riche pour le sociologue et romancier qui s’intéresse aux questions d’identité nationale et aux nouveaux immigrants qui contribuent aux transformations de cette société. Dès son arrivée au 
+        <placeName ana="Quebec">Québec</placeName>
+        , Ollivier sera non seulement enseignant mais animateur socioculturel, travaillant auprès de la communauté 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         comme avec d’autres groupes d’immigrants, dans des organisations communautaires, comme consultant au bureau de l’Office de la langue française, dans des projets multimédia et Télé-Université auprès du ministère de l’Éducation, et avec le Conseil des Communautés culturelles et de l’Immigration du 
+        <placeName ana="Quebec">Québec</placeName>
+        . Ollivier reste actif au sein des groupes intellectuels 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         en exil au 
+        <placeName ana="Quebec">Québec</placeName>
+        . Il collabore notamment aux revues Nouvelle Optique et Collectif Paroles.
+      </p>
+      <p>
+        Son œuvre d’essayiste et de sociologue reflète l’intérêt porté aux populations immigrées de 
+        <placeName ana="Montreal">Montréal</placeName>
+        , l’intégration et l’alphabétisation de ses migrants, dans le sens large de manipuler les codes d’une nouvelle société tout en sachant garder, en respectant et transformant, la mémoire des origines. Plusieurs ouvrages écrits en collaboration montre la participation active d’
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         à lutter pour l’avènement de la démocratie en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Écrit à la première personne, son dernier essai, Repérages (2001), pose des questions d’identité, de territoire et de langue. Ollivier y réfléchit sur le rôle de l’écrivain et de l’artiste, traçant son propre parcours de romancier et d’essayiste qui mène vers une « écriture de frontières ». Contre le repli identitaire et contre l’oubli, Ollivier écrit des œuvres qui présentent des « carrefours du multiple ».
+      </p>
+      <p>
+        Ollivier a trente-sept ans quand il publie en 1977 deux nouvelles (ou bien un roman en deux parties) sous le titre Paysage de l’aveugle. La première est un récit à la première personne d’un personnage qui raconte les tortures et les humiliations qu’il a subies aux mains d’un dictateur, Heronymus, et ses acolytes. La deuxième nouvelle est le parcours d’un Haïtien, 
+        <persName ana="Herman_Pamphile">Herman Pamphile</persName>
+        , réfugié à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , raconté par lui-même, à travers son 
+        <placeName ana="Journal">Journal</placeName>
+        , et par un narrateur extérieur. Paysage de l’aveugle est un livre sur l’errance, annonçant des thèmes récurrents dans l’œuvre d’Ollivier, dont la mémoire et les difficultés de l’alié
+        <placeName ana="Nation">Nation</placeName>
+         et de l’exil. Léon-
+        <persName ana="Francois_Hoffmann">
+          François 
+          <placeName ana="Hoffmann">Hoffmann</placeName>
+        </persName>
+         décrit Paysage de l’aveugle comme « une méditation, ou une lamentation, ou un hurlement contre l’impossibilité de la vie de l’Haïtien, que ce soit dans son pays ou dans la diaspora ». La pièce tirée de la première partie, Paysage de l’aveugle, est adaptée pour le théâtre par le Théâtre Noir de 
+        <placeName ana="Paris">Paris</placeName>
+         et une version cinématographique en est présentée au FESPACO au 
+        <placeName ana="Burkina_Faso">Burkina Faso</placeName>
+         et au Festival Créole de la 
+        <placeName ana="Martinique">Martinique</placeName>
+        .
+      </p>
+      <p>
+        Son premier roman, Mère-Solitude, publié aux éditions 
+        <persName ana="Albin_Michel">Albin Michel</persName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+         en 1983, est remarqué par la critique, lauréat du Prix 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         et traduit en anglais et en italien. Mère-Solitude trace l’histoire d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à travers un portrait de plusieurs générations d’une famille, les Morelli. On y retrouve une ville qui ressemble à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Trou-
+        <placeName ana="Bordet">Bordet</placeName>
+        , décrite avec toute la misère, la violence, la barbarie et le sous-développement qui la caractérisent ; des crimes se perpétuent à travers les générations. Son deuxième roman, La Discorde aux cent voix (1986) est le récit du microcosme de deux voisins dans la ville des « Cailles ». La haine apparente que se vouent les deux protagonistes, au grand plaisir des jeunes du voisinage, met aussi en scène l’histoire et les problèmes sociaux d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Le cadre de son roman Passages – lauréat du Grand Prix du Livre de 
+        <placeName ana="Montreal">Montréal</placeName>
+         en 1991 – est la 
+        <placeName ana="Floride">Floride</placeName>
+        , une sorte de no-man’s-land entre les 
+        <placeName ana="Antilles">Antilles</placeName>
+         et le 
+        <placeName ana="Canada">Canada</placeName>
+         des protagonistes : un Haïtiano-québécois, 
+        <placeName ana="Normand">Normand</placeName>
+        , et une 
+        <placeName ana="Cubano">Cubano</placeName>
+        -canadienne d’origine syrienne, 
+        <placeName ana="Amparo">Amparo</placeName>
+        . 
+        <placeName ana="Normand">Normand</placeName>
+        , comme beaucoup des personnages chez Ollivier, est un migrant-errant, un déraciné qui ressemble en beaucoup à l’auteur, un écrivain « archiviste de la mémoire collective, sismographe de l’éboulement des illusions ». 
+        <placeName ana="Normand">Normand</placeName>
+         porte également une marque physique de l’auteur qui était, comme son écriture, « Une vie en suspens… ; des traitements itératifs pour insuffisance rénale chronique, des séances d’épuration du sang trois fois par semaine…, pluie, 
+        <placeName ana="Tonnerre">Tonnerre</placeName>
+        , tempête ; des veines fatiguées, un frayage permanent avec la douleur ». Le roman Passages – qui se clôt sur la fin de la dictature Duvalier, médiatisée par les images télévisées, tout comme le naufrage des boat-people – ouvre la possiblité du retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , même si 
+        <placeName ana="Normand">Normand</placeName>
+        , précisément, ne peut mettre un terme à son exil nostalgique. La possibilité du retour est traitée en revanche dans le roman suivant, Les Urnes scellées (1995, Prix Carbet de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        ). Dans ce récit, 
+        <persName ana="Adrien_Gorfoux">Adrien Gorfoux</persName>
+        , archéologue, et sa femme Estelle, exilés au 
+        <placeName ana="Quebec">Québec</placeName>
+        , retournent en 
+        <placeName ana="Haiti">Haïti</placeName>
+         après la fuite du couple Duvalier en 1986. Les Urnes scellées, en partie un roman policier puisqu’Adrien tente d’élucider un meurtre dont il a été témoin, est aussi le roman d’une ville et de la mémoire historique du pays. C’est aussi l’aboutissement d’une réflexion sur l’exil, ou plutôt l’errance, les choix à faire, et l’impossibilité de résoudre l’Histoire d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Ce n’est que dans Mille-Eaux (1999, d’après le surnom de l’auteur, 
+        <persName ana="Mille_O">Mille O.</persName>
+        ) qu’
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         se permet une écriture ouvertement autobiographique. Mille-Eaux raconte l’enfance de l’auteur à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , les découvertes et pérégrinations de l’enfant de la bien-nommée 
+        <persName ana="Madeleine_Souffrant">Madeleine Souffrant</persName>
+         – d’où il hérite ses « pieds poudrés » de l’errant port-au-princien – et du père absent qui lui ouvre, par défi, le terrain de l’écriture. Un défi si bien relevé qu’il aboutit à une œuvre importante et cohérente ; la renommée du fils dé
+        <placeName ana="Passe">Passe</placeName>
+         celle de l’
+        <persName ana="Academicien_Emile_Ollivier">Académicien Émile Ollivier</persName>
+         (1825-1913) après lequel l’auteur est nommé. Ollivier est également l’auteur de fictions courtes : la nouvelle loufoque, « Regarde, regarde les lions », est publiée en 1995 dans une édition avec des photographies de 
+        <placeName ana="Mohror">Mohror</placeName>
+        , avant de servir comme titre d’une collection de nouvelles publiée chez 
+        <persName ana="Albin_Michel">Albin Michel</persName>
+         qui fait la une des pages littéraires à 
+        <placeName ana="Montreal">Montréal</placeName>
+         en 
+        <placeName ana="Mars">Mars</placeName>
+         2001. Le cadre de ces quinze nouvelles varie mais qu’ils soient à 
+        <placeName ana="Montreal">Montréal</placeName>
+         ou à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , les personnages colorés sont observés avec curiosité et émerveillement. Même dans la nouvelle dont l’action se 
+        <placeName ana="Passe">Passe</placeName>
+         en 
+        <placeName ana="France">France</placeName>
+        , « Des nouvelles de Son Excellence », on trouve un migrant comme personnage central ; mais les misères d’exil du dernier dictateur haïtien – dont on trouve le portrait petit déguisé chez « Papaphis » – inspirent davantage le ridicule que la compassion du lecteur.
+      </p>
+      <p>
+        Membre actif de nombreuses associations professionnelles, Ollivier devient président de l’ICEA (Institut canadien d’éducation des adultes) ; actif dans le milieu littéraire québécois, il est membre de l’Union des Écrivains et Écrivaines du 
+        <placeName ana="Quebec">Québec</placeName>
+         (UNEQ) et participe à des jurys tels celui du Prix du Gouverneur Général dont il est président en 2002. Au moment de son décès soudain le 10 novembre 2002 à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , il achève un roman, La Brûlerie, publié en novembre 2004.
+      </p>
+      <p>
+        Voir notre dossier 
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         (1940-2002); Hommages à l’auteur, avec des textes et des émissions radiophoniques.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Emile_Ollivier_biblio">
+    <div ref="http://ile-en-ile.org/ollivier/" xml:id="Emile_Ollivier_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrages collectifs">
+        <item>« Émile Ollivier », numéro spécial d’Études littéraires 34.3 (été 2002). Sous la direction de Christiane NDiaye. Études d’Éloïse A. Brière, Yves Chemla, Christiane Ndiaye, Joubert Satyre, Thomas C. Spear et Joëlle Vitiello, et un essai inédit de l’auteur (publication posthume, ce numéro étant sorti en octobre 2003). (disponible en ligne, voir liens ci-dessous)</item>
+      </list>
+      <list subtype="études sur émile ollivier">
+        <item>Aas-Rouxparis, Nicole. « Passages d’Emile Ollivier: Dérive et Diversité ». Québec Studies 15 (1992-1993): 31-39.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Seid gegrübt ihr winde. (Passages)  Elfriede Riegler, trad.  Zürich: Rotpunktverlag, 1999.</item>
+      </list>
+      <list subtype="in english">
+        <item>Mother Solitude. David Lobdell, trans. Ottawa: Oberon, 1989.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>Madre-Solitudine. Traduzione di Maurizio Ferrara, Introdizione di Marie-José Hoyet. Roma: Edizioni Lavoro, 1999.</item>
+      </list>
+      <list subtype="romans">
+        <item>Mère-Solitude. Paris: Albin Michel, 1983; Paris: Le Serpent à Plumes, 1994.</item>
+      </list>
+      <list subtype="essais">
+        <item>1946/1976: Trente ans de Pouvoir Noir en Haïti. (avec Cary Hector et Claude Moïse)  Montréal: Collectif Paroles, 1976.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Paysage de l’aveugle. Montréal: Pierre Tisseyre, 1977.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1985    Prix Jacques Roumain, pour Mère-Solitude</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Lire Paolo Freire ». Nouvelle Optique 1.6-7 (avril-septembre 1972): 187-193.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Pierrot Le Noir. (avec Jean-Richard Laforest et Anthony Phelps) (disque)  Production Caliban, 1970.</item>
+      </list>
+      <list subtype="direction de recueils">
+        <item>Sociologie de la formation des adultes. Matériaux pour un enseignement. Montréal: Librairie de l’U. de Montréal, 1981-1982.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Emile_Ollivier_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/emile-ollivier-hommage-a-anthony-phelps/">Hommage à Anthony Phelps</item>
+      <item ref="http://ile-en-ile.org/emile-ollivier-la-supplique-delie-magnan/">La supplique d’Élie Magnan</item>
+      <item ref="http://ile-en-ile.org/emile-ollivier-et-me-voila-otage-et-protagoniste/">Et me voilà otage et protagoniste</item>
+      <item ref="http://ile-en-ile.org/emile-ollivier-hommages-a-lauteur/">La mémoire d’une île</item>
+      <item ref="http://ile-en-ile.org/emile-ollivier-hommages-a-lauteur/">Émile Ollivier (1940-2002); Hommages à l’auteur</item>
+      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      <item ref="http://www.erudit.org/revue/etudlitt/2002/v34/n3/">Émile Ollivier</item>
+      <item ref="http://www.mce.gouv.qc.ca/g/html/onq/93/93_35.htm">Émile Ollivier</item>
+      <item ref="http://www.litterature.org/ile32000.asp?numero=351">Émile Ollivier</item>
+      <item ref="http://www.ledevoir.com/2002/11/15/13424.html">Émile Ollivier (1940-2002) – À l’épreuve de l’avenir)</item>
+      <item ref="http://www.medi1.com/archives/archives_sonores.php">archives sonores de Medi1</item>
+      <item ref="http://www.vehiculepress.com/montreal/writers/ollivier.html">Émile Ollivier</item>
+    </list>
   </div>
 </TEI>

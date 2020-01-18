@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Constant_Jeanty_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Constant_Jeanty" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Constant Jeanty</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Constant_Jeanty_fiche_autorite">
+  <div n="1" xml:id="Constant_Jeanty_fiche">
     <person ana="Constant_Jeanty" sex="na">
       <persName>Constant Jeanty</persName>
       <langKnowledge>
@@ -28,8 +28,35 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">Chor�graphe</occupation>
+      <occupation source="spla">Chorégraphe</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Constant_Jeanty_bio">
+    <text ref="http://www.spla.pro/fiche.personne.constant-jeanty.42531.html" xml:id="Constant_Jeanty_bio_auteur_spla">
+      <p>
+        Constant Jeanty est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1936. Il est diplômé en éducation de l'École Normale d'Éducation Physique (ENEP). Il a aussi évolué en tant que chorégraphe et a contribué au développement et à la promotion de l'Art de la danse folklorique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Aux États-Unis d'
+        <placeName ana="Amerique">Amérique</placeName>
+         où il immigra en 1960, il fit des études en sciences sociales et en programmation informatique. Il travailla dans le domaine des relations publiques jusqu'en 1970, puis il immigra au 
+        <placeName ana="Canada">Canada</placeName>
+         où il a occupé successivement les fonctions de représentant et de superviseur des ventes dans le domaine de la bureautique: la reproduction graphique à haute vitesse; les applications informatiques et télématiques. De 1982 à 2001 il occupa les postes de 
+        <placeName ana="Directeur">Directeur</placeName>
+         des ventes pour la Corporation Duotroll, de Vice Président de Anox, une entité subsidiaire à la corporation Duotroll et plus tard, de 1995 à 2001, le poste de 
+        <placeName ana="Directeur">Directeur</placeName>
+         Régional du département de la formation, avec des responsabilités accrues, à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , à 
+        <placeName ana="Quebec">Québec</placeName>
+         et à 
+        <placeName ana="Ottawa">Ottawa</placeName>
+        , pour Danka International, jusqu'à sa retraite où il s'adonne à la peinture et à l'écriture.(www.publibook.com)
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Constant_Jeanty_biblio"/>
+  <div n="4" xml:id="Constant_Jeanty_web"/>
 </TEI>

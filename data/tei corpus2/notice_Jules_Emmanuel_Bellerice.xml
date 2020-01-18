@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jules_Emmanuel_Bellerice_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jules_Emmanuel_Bellerice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jules Emmanuel Bellerice </title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jules_Emmanuel_Bellerice_fiche_autorite">
+  <div n="1" xml:id="Jules_Emmanuel_Bellerice_fiche">
     <person ana="Jules_Emmanuel_Bellerice" sex="na">
       <persName>Jules Emmanuel Bellerice </persName>
       <langKnowledge>
@@ -29,7 +29,20 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Biblioth�caire</occupation>
+      <occupation source="spla"> Bibliothécaire</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Jules_Emmanuel_Bellerice_bio">
+    <text ref="http://www.spla.pro/fiche.personne.jules-emmanuel-bellerice.40586.html" xml:id="Jules_Emmanuel_Bellerice_bio_auteur_spla">
+      <p>
+        Jules Bellerice est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1978. Il a étudié la philosophie à l'Ecole Normale Supérieure.	Il est l'auteur du Guide la literature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et de A la rencontre de l'agronome Mémé.	Depuis 2000 il dirige la bibliothèque de référence scolaire FOCUSA.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jules_Emmanuel_Bellerice_biblio"/>
+  <div n="4" xml:id="Jules_Emmanuel_Bellerice_web"/>
 </TEI>

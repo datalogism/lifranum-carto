@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Georges_Castera_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Georges_Castera" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Georges Castera</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Georges_Castera_fiche_autorite">
+  <div n="1" xml:id="Georges_Castera_fiche">
     <person ana="Georges_Castera" sex="na">
-      <persName>
-        <surname source="bnf">Georges</surname>
-        <forename source="bnf">Castera</forename>
-      </persName>
+      <persName>Georges Castera</persName>
       <idno type="BNF">
         cb12304276q#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12304276q#about"/>
@@ -56,7 +53,253 @@
       <occupation source="viaf">painters</occupation>
       <occupation source="viaf">designers</occupation>
       <occupation source="viaf">authors</occupation>
-      <occupation source="spla">Po�te</occupation>
+      <occupation source="spla">Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Saint_Eloi_Rodney">
+          <persName>Saint-Éloi Rodney</persName>
+        </person>
+        <person ana="Lanctot_Mance">
+          <persName>Lanctôt Mance</persName>
+        </person>
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="加古_里子">
+          <persName>加古 里子</persName>
+        </person>
+        <person ana="Wah_Bernard">
+          <persName>Wah Bernard</persName>
+        </person>
+        <person ana="Saint_Fleurant_Louisiane">
+          <persName>Saint Fleurant Louisiane</persName>
+        </person>
+        <person ana="Kako_Satoshi">
+          <persName>Kako Satoshi</persName>
+        </person>
+        <person ana="Pierre_Claude">
+          <persName>Pierre Claude</persName>
+        </person>
+        <person ana="Durosier_Desrivieres_Jean">
+          <persName>Durosier Desrivières Jean</persName>
+        </person>
+        <person ana="Lanctt_Mance">
+          <persName>Lanctt̥ Mance</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Georges_Castera_bio">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/castera/" xml:id="Georges_Castera_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         fils est né le 27 décembre 1936 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), fils du médecin haïtien 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         et d’Irène Aubry. Très jeune, il commence à écrire dans ce Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         fasciné par les lettres. Il rencontre des auteurs comme 
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+        , Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , 
+        <persName ana="Felix_Morisseau">Félix Morisseau</persName>
+        -Leroy, 
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+        , les 
+        <persName ana="Freres_Marcelin">frères Marcelin</persName>
+        , 
+        <persName ana="Anthony_Lespes">Anthony Lespès</persName>
+         et des peintres comme 
+        <persName ana="Bernard_Wah">Bernard Wah</persName>
+        , 
+        <persName ana="Herve_Telemaque">Hervé Télémaque</persName>
+        , 
+        <persName ana="Jacques_Gabriel">Jacques Gabriel</persName>
+        , 
+        <persName ana="Dieudonne_Cedor">Dieudonné Cedor</persName>
+        , 
+        <persName ana="Max_Pinchinat">Max Pinchinat</persName>
+        , 
+        <persName ana="Roland_Dorcely">Roland Dorcely</persName>
+        … À partir des années 50, il se fait connaître dans les journaux de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et est accueilli chaleureusement par les aînés.
+      </p>
+      <p>
+        En 1956, il part pour 
+        <placeName ana="L’Europe">l’Europe</placeName>
+        . Il découvre en 
+        <placeName ana="France">France</placeName>
+         une jeunesse curieuse de révolutionner le monde. Surréaliste et marxiste, dans ses écrits, il prend le parti des petites gens et chante leur face à face quotidien avec la vie. Heureusement que chez Castera, la poésie et la révolution (à venir et à faire) font toujours bon ménage.
+      </p>
+      <p>
+        Il entame des études en médecine en 
+        <placeName ana="Espagne">Espagne</placeName>
+         qu’il abandonne pour suivre une carrière poétique. Militant de gauche, toutes les luttes du monde qui entendent libérer l’Homme l’intéressent. Son œuvre est une révolte contre l’injustice, la misère et la répression et un pari sur l’amour et le désir.
+      </p>
+      <p>
+        Dans les années 1970, on le retrouve aux États-Unis où il travaille au théâtre avec les metteurs en scène 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         et 
+        <persName ana="Herve_Denis">Hervé Denis</persName>
+        . Il prend une part active dans l’organisation politique de la communauté 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de 
+        <placeName ana="New_York">New York</placeName>
+         et dans la formation de la troupe de théâtre 
+        <placeName ana="Kouidor">Kouidor</placeName>
+        .
+      </p>
+      <p>
+        À la chute de Duvalier en 1986, 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         rentre à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , après 30 ans d’exil et contribue à la formation poétique des jeunes tant de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         que de la province, à l’aide de ses lectures et interventions publiques, souvent avec des amis écrivains comme 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         et 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+        .
+      </p>
+      <p>
+        Il vit actuellement à 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville où il partage son temps entre l’édition et l’écriture. Poète, dessinateur et 
+        <placeName ana="Directeur">Directeur</placeName>
+         littéraire aux éditions Mémoire, il écrit en français, en créole et en espagnol. Il est membre fondateur de l’Association des écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         est l’une des plus grandes figures de la poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         contemporaine. Quelques-uns de ses poèmes créoles ont été mis en musique par 
+        <persName ana="Lody_Auguste">Lody Auguste</persName>
+        , 
+        <persName ana="Atis_Endepandan">Atis Endepandan</persName>
+        , Pierre-
+        <persName ana="Rigaud_Chery">Rigaud Chéry</persName>
+        , 
+        <persName ana="Marcel_Nouvrier">Marcel Nouvrier</persName>
+         et 
+        <persName ana="Wooly_Saint_Louis_Jean">Wooly Saint Louis Jean</persName>
+        .
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.georges-castera.8063.html" xml:id="Georges_Castera_bio_auteur_spla">
+      <p>
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         est né le 26 décembre 1936. Il a quitté 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1956 et y est revenu trente ans plus tard, à la chute de Duvalier en 1986. Il vit aujourd'hui à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .Très jeune, il commence à écrire, fasciné par les lettres. A partir des années 1950, il se fait connaître dans les journaux et est accueilli chaleureusement par les aînés. En 1956, il part en Europe puis aux États-Unis en 1970 où il travailleavec les metteurs en scène 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         et 
+        <persName ana="Herve_Denis">Hervé Denis</persName>
+        , et prend une part active dans l'organisation politique de la communauté 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . A la chute de Duvalier en 1986, il rentre à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , après 30 ans d'exil, et contribue à la formation poétique des jeunes tant de la capitale que de la province. Poèté, dessinateur et 
+        <placeName ana="Directeur">Directeur</placeName>
+         littéraire aux editions Mémoire, 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         écrit en français, en créole et en espagnol.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Georges_Castera_biblio">
+    <div ref="http://ile-en-ile.org/castera/" xml:id="Georges_Castera_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« Notice / Mise en demeure ». Poème de Georges Castera publié avec une traduction en anglais de Carrol F. Coates, précédé d’un entretien avec l’auteur (propos recueillis par Charles H. Rowell, traduits par Mohamed B. Taleb-Kyar). Callaloo 15.2 (Spring 1992): 528-532.</item>
+      </list>
+      <list subtype="poésie en créole">
+        <item>Klou gagit. Madrid: s.n., 1965.</item>
+      </list>
+      <list subtype="poésie en français">
+        <item>Le Retour à l’arbre. (avec des dessins de Bernah Wah). New York: Calfou Nouvelle Orientation, 1974.</item>
+      </list>
+      <list subtype="poésie sélectionnée parue dans des ouvrages collectifs">
+        <item>Cinq poèmes. Vers Schmuggel / Mots de passe (Gedichte / Poèmes), édition franco-allemande. Heidelberg: Wunderhorn, 2003: 62-73.</item>
+      </list>
+      <list subtype="poésie en espagnol">
+        <item>A nivel de la mirada. (à paraître)</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Tanbou Tibout-la bout, première tentative d’un théâtre en créole littéraire à New York; plusieurs représentations dans des lycées à New York, 1970.</item>
+      </list>
+      <list subtype="poésie-jeunesse">
+        <item>Alarive lèzanfan. Port-au-Prince: Éditions Mémoire / Montréal: Planète rebelle, 1998.</item>
+      </list>
+      <list subtype="essais et articles sélectionnés">
+        <item>« L’expérience de la nuit et l’expérience du jour dans Compère Général Soleil ». Europe 501 (janvier 1971): 71-81.</item>
+      </list>
+      <list subtype="conférences sélectionnées">
+        <item>Symposium sur la littérature haïtienne, avec la participation d’écrivains et poètes haïtiens. University of Massachusetts, Boston, 1970.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Quatre textes (« Tifi a », « Bèl pale », « Lèt damou », « M’anvi chante peyi m ») mis en musique et chantés par Atis Endependan sur leur disque Qui sa pou n fè? New York: Alternative Culturelle, 1973.</item>
+      </list>
+      <list subtype="traductions en créole par georges castera">
+        <item>Dans la clandestinité, Georges Castera a traduit du français au créole et de l’espagnol au créole de nombreux textes politiques (programmes de partis, journaux, communiqués, films documentaires, poèmes et cetera).</item>
+      </list>
+      <list subtype="dessins de georges castera">
+        <item>Optique, revue culturelle et littéraire d’Haïti. 29 (1956).</item>
+      </list>
+      <list subtype="participation à des jurys">
+        <item>1996     Premier Prix de la Casa de las Américas (La Havane).</item>
+      </list>
+      <list subtype="hommages et distinctions à georges castera">
+        <item>1994     Special Tribute to Georges Castera, « Kònen lambi Libète IV ». Talk House, Miami Beach.</item>
+      </list>
+      <list subtype="sur l’oeuvre de georges castera">
+        <item>Auguste, Bonel. « La modernité de la poésie créole de Georges Castera ». Relire l’histoire littéraire et le littéraire haïtiens. Port-au-Prince: Presses Nationales d’Haïti, 2007: 73-84.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Georges_Castera_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/boutures/">Boutures</item>
+      <item ref="http://ile-en-ile.org/georges-castera-lire-a-fonds-perdu/">Lire À fonds perdu</item>
+      <item ref="http://ile-en-ile.org/georges-castera-poetes-contemporains-de-la-roumanie/">Poètes roumains contemporains</item>
+      <item ref="http://ile-en-ile.org/georges-castera-xie-festival-international-de-poesie-de-medellin/">XIe festival international de poésie de Medellin</item>
+      <item ref="http://ile-en-ile.org/castera-sept-poemes/">Georges Castera lisant une sélection de poésie</item>
+      <item ref="http://ile-en-ile.org/georges-castera-5-questions-pour-ile-en-ile/">Georges Castera, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/georges-castera-pitit-malere/">Poto</item>
+      <item ref="http://ile-en-ile.org/georges-castera-tanbou-kreyol/">Tanbou kreyol</item>
+      <item ref="https://c3editions.com/auteur_detail.php?aut_id=2893">C3 Éditions</item>
+      <item ref="http://creativetimereports.org/2013/01/12/the-end-point/">« Le Point d’arrivée » / « The End Point »</item>
+      <item ref="http://barricadejournal.org/vol1issue1/creole-drum/">Creole Drum</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=50790">Sur Georges Castera</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=51980">Bow! Un grand bruit de tonnerre de Georges Castera</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=65614">L’écrivain de la culture populaire</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=73735">Le culte de la poésie</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=101075">« L’influence de Georges Castera est évidente sur au moins deux générations »</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=101073">L’héritage vivant, merveilleux de Georges Castera</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=102270">Georges Castera est tout un système</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=102283">Le symbolisme de l’encre et de la demeuree</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=102509">Le recueil « Les cinq lettres » de Georges Castera réédité</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=104913">Le Poète Georges Castera est l’invité d’honneur de la 18ème édition de Livres en folie</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=104692">Pwenba de Georges Castera</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=105200">Georges Castera livre ses pensées</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=105680">Georges Castera : Pwemba !</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=105936">La poétique de Georges Castera</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=106510">PST !: le livre de dessins de Georges Castera</item>
+      <item ref="http://www.lenouvelliste.com/article4.php?newsid=113006">Castera chez les détenus</item>
+    </list>
   </div>
 </TEI>

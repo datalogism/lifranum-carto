@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Stephen_Alexis_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Stephen_Alexis" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Stephen Alexis</title>
-        <author>InËs Burri</author>
-        <author>AnaÔs Chambat</author>
-        <author>CÈlian Ringwald</author>
+        <author>In√®s Burri</author>
+        <author>Ana√Øs Chambat</author>
+        <author>C√©lian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>UniversitÈ Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>UniversitÈ Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Universit√© Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Universit√© Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>DonnÈes issues de sources d'autoritÈs et de rÈpÈtoire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorit√©s et de r√©p√©toire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Stephen_Alexis_fiche_autorite">
+  <div n="1" xml:id="Stephen_Alexis_fiche">
     <person ana="Stephen_Alexis" sex="na">
       <persName>Stephen Alexis</persName>
       <langKnowledge>
@@ -33,4 +33,19 @@
       <occupation source="spla"> Professeur</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Stephen_Alexis_bio">
+    <text ref="http://www.spla.pro/fiche.personne.stephen-alexis.14034.html" xml:id="Stephen_Alexis_bio_auteur_spla">
+      <p>
+        N√© aux 
+        <placeName ana="Gonaives">Gona√Øves</placeName>
+         le 29 novembre 1889, il travaille dans l'enseignement, le journalisme et comme diplomate.C'est le p√®re de Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , l'un des auteurs 
+        <placeName ana="Haitiens">Ha√Øtiens</placeName>
+         les plus connus. voir la fiche compl√®te de cet auteur sur le site &quot;L'√Æle en √Æle&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Stephen_Alexis_biblio"/>
+  <div n="4" xml:id="Stephen_Alexis_web"/>
 </TEI>

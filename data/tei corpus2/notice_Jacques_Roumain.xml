@@ -1,25 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jacques_Roumain_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jacques_Roumain" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jacques Roumain</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jacques_Roumain_fiche_autorite">
+  <div n="1" xml:id="Jacques_Roumain_fiche">
     <person ana="Jacques_Roumain" sex="na">
       <persName>Jacques Roumain</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Jacques_Roumain_bio">
+    <text ref="http://ile-en-ile.org/roumain/" xml:id="Jacques_Roumain_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         est né le 4 juin 1907 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Scolarisé à Saint 
+        <persName ana="Louis_De_Gonzague">Louis de Gonzague</persName>
+        , il achève ses études en 
+        <placeName ana="Suisse">Suisse</placeName>
+         pour voyager ensuite en 
+        <placeName ana="Allemagne">Allemagne</placeName>
+        , en 
+        <placeName ana="France">France</placeName>
+        , en 
+        <placeName ana="Angleterre">Angleterre</placeName>
+         et en 
+        <placeName ana="Espagne">Espagne</placeName>
+         où il amorce des études d’agronomie. À l’âge de vingt ans, il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Il contribue alors très activement à la naissance de la Revue Indigène où il publie poèmes, nouvelles et traductions. Très impliqué politiquement, il est emprisonné une première fois en 1929. Très rapidement aussi, il publie successivement La proie et l’ombre, La montagne ensorcelée et Les fantômes. Se retirant des fonctions qu’il occupe au sein 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+        , il est à nouveau emprisonné en 1933 et en 1934 alors qu’il vient tout juste de fonder le Parti Communiste Haïtien dont il est par ailleurs le Secrétaire Général. Analyse schématique 32-34, un essai politique et social, lui vaut alors trois années de prison à la suite desquelles il repart pour 
+        <placeName ana="L’Europe">l’Europe</placeName>
+        , fragilisé.
+      </p>
+      <p>
+        Après un an passé en 
+        <placeName ana="Belgique">Belgique</placeName>
+        , il s’installe à 
+        <placeName ana="Paris">Paris</placeName>
+        , entreprenant des études d’ethnologie à la Sorbonne et des études de paléontologie sous la direction de 
+        <persName ana="Paul_Rivet">Paul Rivet</persName>
+        , au 
+        <placeName ana="Musee_De_L’Homme">Musée de l’Homme</placeName>
+        . Parallèlement, il collabore à différentes revues telles que Regards, Commune, Les Volontaires. Il publie également « Les griefs de l’homme noir » au sein d’un texte collectif intitulé L’homme de couleur. Membre de la Société des Américanistes de 
+        <placeName ana="Paris">Paris</placeName>
+         et alors que la guerre éclate, il gagne les États-Unis dès 1939.
+      </p>
+      <p>
+        Inscrit à l’université Columbia à 
+        <placeName ana="New_York">New York</placeName>
+        , il poursuit ses études scientifiques ainsi que ses activités littéraires dans le cadre de revues importantes. Il voyage beaucoup et séjourne presque un an aux côtés du poète 
+        <persName ana="Nicolas_Guillen">Nicolás Guillén</persName>
+         à 
+        <placeName ana="La_Havane">La Havane</placeName>
+        . L’élection du 
+        <persName ana="President_Lescot">Président Lescot</persName>
+        , en 1941, lui permet alors de regagner 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Dès son retour, il fonde le Bureau d’Ethnologie de 
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+         dont il est également 
+        <placeName ana="Directeur">Directeur</placeName>
+        . Ses recherches aboutissent à la publication en 1942 de ses études respectivement intitulées Autour de la campagne anti-superstitieuse et Contribution à l’étude de l’ethno-botanique précolombienne des 
+        <placeName ana="Grandes_Antilles">Grandes Antilles</placeName>
+         puis, en 1943, de son livre intitulé Le sacrifice du tambour Assoto. En 1942, le gouvernement haïtien investit 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         d’une charge de diplomate à 
+        <placeName ana="Mexico">Mexico</placeName>
+        .
+      </p>
+      <p>Aussi est-ce dans cette ville qu’il met un point final à son roman, Gouverneurs de la rosée en juillet 1944, déjà atteint par la maladie qui l’emportera peu après, le 18 août 1944, dans son pays natal.</p>
+      <p>
+        Pour obtenir des détails précis, consulter la biographie de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         établie par Léon-
+        <persName ana="Francois_Hoffmann">
+          François 
+          <placeName ana="Hoffmann">Hoffmann</placeName>
+        </persName>
+        .
+      </p>
+      <p>
+        Voir la Bibliographie de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        , par genres, par Léon-
+        <persName ana="Francois_Hoffmann">
+          François 
+          <placeName ana="Hoffmann">Hoffmann</placeName>
+        </persName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jacques_Roumain_biblio">
+    <div ref="http://ile-en-ile.org/roumain/" xml:id="Jacques_Roumain_biblio_auteur_ile_en_ile">
+      <list subtype="auf deutsch">
+        <item>Herr über den Tau. Trad. Eva Klemperer. Berlin: Volk und Welt, 1947.</item>
+      </list>
+      <list subtype="in english">
+        <item>Masters of the Dew. Trad. Langston Hughes and Mercer Cook. New York: Reynal &amp; Hitchcock, 1947; Introduction MercerCook. New York Collier Books, 1971; Introduction J. MichaelDash. London: Heinemann, 1978.</item>
+      </list>
+      <list subtype="en español">
+        <item>Gobernadores del rocio. Trad. Fina Warschaver. Buenos Aires: Lautaro,1951; Buenos Aires: Centro Editor de America Latina 1971; La Habana: Casade las Américas, 1971; Santo Domingo: Ediciones de Taller,1974.</item>
+      </list>
+      <list subtype="ouvrages collectifs">
+        <item>Acacia, Michel, éd. Révolte, subversion et développement chez Jacques Roumain: actes du Colloque International Penser avec Jacques Roumain aujourd’hui (2007). Port-au-Prince: Éditions de l’Université d’Etat d’Haïti, 2009.</item>
+      </list>
+      <list subtype="études">
+        <item>Acacia, Michel. Race et couleur chez Jacques Roumain. Pétion-Ville: C3 Éditions, 2017.</item>
+      </list>
+      <list subtype="romans">
+        <item>Les fantoches. Port-au-Prince: Imprimerie de l’État, 1931; Port-au-Prince: Fardin, 1977.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Bois d’ébène. Port-au-Prince: Imprimerie Henri Deschamps, 1945; Bois d’ébène, suivi de Madrid. Montréal: Mémoire d’encrier, 2003; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="essais">
+        <item>Contribution à l’ètude de l’ethnobotanique précolombienne des Grandes Antilles. Port-au-Prince: Imprimerie de l’État, 1942.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>La proie et l’ombre. Port-au-Prince: Éditions La Presse, 1930; Port-au-Prince: Fardin, 1977.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jacques_Roumain_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/biographie-de-jacques-roumain/">Biographie</item>
+      <item ref="http://ile-en-ile.org/biographie-de-jacques-roumain/">Biographie</item>
+      <item ref="http://ile-en-ile.org/bibliographie-de-jacques-roumain-par-genres/">Bibliographie de Jacques Roumain, par genres</item>
+      <item ref="http://ile-en-ile.org/nicolas-guillen-elegie-a-jacques-roumain-boutures-1-4/">Élégie à Jacques Roumain</item>
+      <item ref="http://ile-en-ile.org/jacques-roumain-presentation-de-gouverneurs-de-la-rosee/">Présentation de Gouverneurs de la Rosée</item>
+      <item ref="http://ile-en-ile.org/lavaud/">Jacques Roumain et Jacques-Stephen Alexis; Le « réalisme merveilleux » de deux écrivains haïtiens métamorphosé par leurs artistes peintres, « boss metal » et sculpteurs</item>
+    </list>
   </div>
 </TEI>

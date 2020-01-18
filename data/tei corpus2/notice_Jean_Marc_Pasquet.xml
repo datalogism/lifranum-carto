@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean_Marc_Pasquet" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Jean Marc Pasquet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Jean_Marc_Pasquet_fiche">
+    <person ana="Jean_Marc_Pasquet" sex="na">
+      <persName>Jean Marc Pasquet</persName>
+      <birth source="viaf">
+        <date>1969</date>
+      </birth>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Huet_Gaetan">
+          <persName>Huet Gaëtan</persName>
+        </person>
+        <person ana="Avrillier_Raymond">
+          <persName>Avrillier Raymond</persName>
+        </person>
+        <person ana="Kerambrun_JeRoMe">
+          <persName>Kerambrun Jérôme</persName>
+        </person>
+        <person ana="Centre_D_Eco_Developpement_&amp;_D_Initiative_Sociale_France">
+          <persName>Centre d'éco-développement &amp; d'initiative sociale France</persName>
+        </person>
+        <person ana="Brunel_Laurence">
+          <persName>Brunel Laurence</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Jean_Marc_Pasquet_bio">
+    <text ref="http://ile-en-ile.org/pasquet_jean-marc/" xml:id="Jean_Marc_Pasquet_bio_auteur_ile_en_ile">
+      <p>
+        Jean-
+        <persName ana="Marc_Pasquet">Marc Pasquet</persName>
+         naît le 8 
+        <placeName ana="Mars">Mars</placeName>
+         1957 en 
+        <placeName ana="Suisse">Suisse</placeName>
+        , de mère franco-russe et de père haïtien. Élevé en 
+        <placeName ana="Asie">Asie</placeName>
+        , en 
+        <placeName ana="Afrique">Afrique</placeName>
+         et en Europe, métissé de quatre continents, Jean-
+        <persName ana="Marc_Pasquet">Marc Pasquet</persName>
+         nourrit son imaginaire de ses multiples enracinements. Il est écrivain, musicien et scénariste.
+      </p>
+      <p>
+        Paru en 1996 aux Éditions Robert Laffont, son premier roman Nègre Blanc  est salué par le public. La critique qualifie le roman de « fusion pananimiste, une érection de l’âme doublée d’un chant d’amour à la femme et à l’
+        <placeName ana="Afrique">Afrique</placeName>
+         » (
+        <persName ana="A_Duplan">A. Duplan</persName>
+        , L’Hebdo).
+      </p>
+      <p>Son deuxième roman, Le Don de Qâ (Lattès, 2001), est un roman initiatique, un manifeste iconoclaste et poétique pour la préservation de la nature. L’ouvrage se situe dans la forêt pluviale canadienne et raconte l’histoire d’amour sensuelle et initiatique de Qâ, la dernière femme poilue des bois, et de Boris, un Européen égaré, citadin incrédule, chaman malgré lui. En une quête haletante, on participe à la métamorphose de Boris, de son départ forcé d’Europe, à son accession à des dons extraordinaires que, grâce à l’aide de chamans Amérindiens, il porte à la connaissance des hommes.</p>
+      <p>
+        L’histoire de son troisième roman, Libre toujours (Lattès, 2004) se déroule sur deux époques, en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , prise comme métaphore du monde. Thriller initiatique haletant, où se mêlent violence et poésie chamanique, vodou et archéologie, suspense et spiritualité, Libre toujours  est un hymne à la liberté. Voici le propos d’un lecteur averti : « Je viens de lire le livre de 
+        <persName ana="Pasquet_J M">J. M. Pasquet</persName>
+         en vente à 
+        <placeName ana="Abidjan">Abidjan</placeName>
+         (qui a été un village transitoire de l’auteur). Puissance de l’évocation, de l’invocation aussi ; voyage au centre du cœur magmatique qui a façonné le monde. Certains situent le cœur des ténèbres en 
+        <placeName ana="Afrique">Afrique</placeName>
+        … Pourquoi pas ? Qui n’a pas une idée des ténèbres ne peut appréhender la lumière du monde. Je crois que Pasquet est le laminaire dont parle Césaire. Un laminaire enraciné dans une invisible mangrove, mais qui dérive sur l’océan sans rivages que le monde est devenu et sera pour longtemps. Finalement, parler d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , c’est parler du monde », signé 
+        <persName ana="Ibrahim_Sy_Savane">Ibrahim Sy Savané</persName>
+         (
+        <placeName ana="Abidjan">Abidjan</placeName>
+        , le 24 août 2004).
+      </p>
+      <p>
+        L’œuvre de Jean-
+        <persName ana="Marc_Pasquet">Marc Pasquet</persName>
+        , qui mêle aventures et spiritualité, recoupe la tendance « Conscience-Fiction ». Il vit à 
+        <placeName ana="Geneve">Genève</placeName>
+        , collabore avec de nombreux artistes et se produit avec le groupe Zfly pour des concerts d’improvisation jazz, et avec son groupe de rock steady Les Gordinis. Combinant écriture romanesque, scénario et musique, Jean-
+        <persName ana="Marc_Pasquet">Marc Pasquet</persName>
+         met en place une narration particulière : palette métisse, faite d’aventures et d’expériences, de poésie, et d’envoûtement.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Marc_Pasquet_biblio">
+    <div ref="http://ile-en-ile.org/pasquet_jean-marc/" xml:id="Jean_Marc_Pasquet_biblio_auteur_ile_en_ile">
+      <list subtype="auf deutsch">
+        <item>Die Waldfrau. (Le Don de Qâ) Trad. DorisHeinemann. Bern: Scherz, 2003.</item>
+      </list>
+      <list subtype="romans">
+        <item>Nègre blanc. Paris: Laffont, 1996; Paris: France Loisirs, 1997. Nègre blanc suivi de trois nouvelles inédites,« Maharadja », « Chameau rouge » et « Pygmée blues ». Genève: Rezonance / Montréal: Mémoire d’encrier, 2005.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Nola blues. Montréal: Mémoire d’encrier, 2006.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2001      Prix de la Société Littéraire de Genève, pour Le Don de Qâ.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jean_Marc_Pasquet_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/jean-marc-pasquet-le-don-de-qa/">Le Don de Qâ</item>
+      <item ref="http://ile-en-ile.org/jean-marc-pasquet-libre-toujours/">Libre toujours</item>
+      <item ref="http://www.voixdecrivains.com/galerie.html">Voix d’écrivains</item>
+      <item ref="http://www.madeinmusic.com/groups/ZF/">Le groupe ZF</item>
+    </list>
+  </div>
+</TEI>

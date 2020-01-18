@@ -1,25 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Cauvin_Paul_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Cauvin_Paul" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Cauvin Paul</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Cauvin_Paul_fiche_autorite">
+  <div n="1" xml:id="Cauvin_Paul_fiche">
     <person ana="Cauvin_Paul" sex="na">
       <persName>Cauvin Paul</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Cauvin_Paul_bio">
+    <text ref="http://ile-en-ile.org/paul/" xml:id="Cauvin_Paul_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Cauvin Paul_L">Cauvin L. Paul</persName>
+         naît le 3 
+        <placeName ana="Mars">Mars</placeName>
+         1942 à Port-de-Paix (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il fait ses études primaires à l’école des Frères de l’Instruction Chrétienne et secondaires au Lycée Tertulie Guilbaud, à Port-de-Paix. Il est diplomé de l’École Normale d’Instituteurs (de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        ).
+      </p>
+      <p>
+        Boursier 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         français, il part à 
+        <placeName ana="Paris">Paris</placeName>
+         en 1965 pour suivre un cours de Psycho-pédagogie à l’Institut Pédagogique. En 
+        <placeName ana="France">France</placeName>
+        , il est également professeur stagiaire au College d’Enseignement Général de Nice (
+        <placeName ana="Cote_D’Azur">Côte d’Azur</placeName>
+        ). De retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , il étudie le droit à la Faculté de Droit et des Sciences Économiques à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         où il obtient une licence en Droit.
+      </p>
+      <p>
+        <persName ana="Cauvin_Paul">Cauvin Paul</persName>
+         part aux États-Unis en 1973 et étudie les lettres françaises à CUNY (City University of 
+        <placeName ana="New_York">New York</placeName>
+        ), obtenant sa 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         du City College et son doctorat du Graduate Center. Enseignant, il était professeur de litteratures française et haitienne au Lycée Tertulien Guilbaud à Port-de-Paix et depuis 1987 il est professeur de langues française et créole au Tilden High School, à 
+        <placeName ana="Brooklyn">Brooklyn</placeName>
+        . Il est également professeur adjoint de français à York College (CUNY).
+      </p>
+      <p>
+        Son premier roman, Le Vieux Samuel, est un roman de la 
+        <placeName ana="Mer">Mer</placeName>
+         : des 
+        <placeName ana="Tortugais">Tortugais</placeName>
+        , pour ne pas crever de faim, partent labourer la 
+        <placeName ana="Mer">Mer</placeName>
+         dans l’espoir de découvrir une île où le lait et le miel coulent à flots. Dans Les Sédentaires, 
+        <persName ana="Cauvin_Paul">Cauvin Paul</persName>
+         évoque de grandes bêtises haïtiennes nationales, dont le refus de « l’autre » qui est parti et revenu au pays avec des idées nouvelles. Dans La Belle Eurydice, par contre, une fille exilée est heureuse de retourner au bercail après avoir fait de solides études à l’étranger.
+      </p>
+      <p>
+        En plus de ses romans, 
+        <persName ana="Cauvin_Paul">Cauvin Paul</persName>
+         est l’auteur d’un essai sur Gouverneurs de la rosée, d’un manuel d’exercices de créole (
+        <placeName ana="Mache">Mache</placeName>
+         chache), et de plusieurs recueils de poésie.
+      </p>
+      <p>
+        <persName ana="Cauvin_Paul">Cauvin Paul</persName>
+         est co-fondateur du 
+        <placeName ana="Journal">Journal</placeName>
+         
+        <placeName ana="Haiti">Haïti</placeName>
+        -Progrès auquel il collabore à ses débuts (1982-1983). De 1980 à 2000, il anime une émission radiophonique appelée « Controverse » sur les ondes de WLIB-FM à 
+        <placeName ana="New_York">New York</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Cauvin_Paul_biblio">
+    <div ref="http://ile-en-ile.org/paul/" xml:id="Cauvin_Paul_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item>Le Vieux Samuel. Port-au-Prince: Deschamps, 1996.</item>
+      </list>
+      <list subtype="essais">
+        <item>Manuel …! : un dieu tombé : essai sur Gouverneurs de la rosée. New York: Lakansyèl, 1975.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Les Nouvelles Cantilènes. Port-de-Paix: Collection Regénération du Nord-Ouest d’Haïti, 1963.</item>
+      </list>
+      <list subtype="exercices en langue créole">
+        <item>Mache chache. Temple Terrace, Florida: Educa Vision, 1995.</item>
+      </list>
+      <list subtype="nouvelle">
+        <item>Nuit sans fond. Astoria (New York): C.L. Paul, 1976.</item>
+      </list>
+      <list subtype="enregistrement sonore">
+        <item>Jeneral Solèy, disque 45 tours, poésie en créole. New York: GNP, 1982.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Cauvin_Paul_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/cauvin-l-paul-le-vieux-samuel/">Le Vieux Samuel</item>
+      <item ref="http://web.archive.org/web/20040722200850/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=609">Tohu-bohu</item>
+    </list>
   </div>
 </TEI>

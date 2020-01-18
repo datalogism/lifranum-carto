@@ -1,28 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Paulette_Poujol_Oriol_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Paulette_Poujol_Oriol" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Paulette Poujol Oriol</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Paulette_Poujol_Oriol_fiche_autorite">
+  <div n="1" xml:id="Paulette_Poujol_Oriol_fiche">
     <person ana="Paulette_Poujol_Oriol" sex="na">
       <persName>Paulette Poujol Oriol</persName>
       <death source="ile_en_ile_auto">
         <date>2011-01-11 00:00:00+00:00</date>
       </death>
     </person>
+  </div>
+  <div n="2" xml:id="Paulette_Poujol_Oriol_bio">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/poujol-oriol/" xml:id="Paulette_Poujol_Oriol_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Paulette_Poujol_Oriol">Paulette Poujol Oriol</persName>
+         est née le 12 mai 1926 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Sa famille habitait à 
+        <placeName ana="Paris">Paris</placeName>
+         et est revenue en 
+        <placeName ana="Haiti">Haïti</placeName>
+         lorsqu’elle avait six ans. Son père a fondé l’Institut Commercial 
+        <persName ana="Joseph_Poujol">Joseph Poujol</persName>
+        . Paulette poursuit une formation à l’École Normale Supérieure à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         avant d’étudier à la 
+        <placeName ana="Jamaique">Jamaïque</placeName>
+         au London Institute of Commerce and Business Administration. Elle enseigne à l’institut de son père, puis enseigne l’anglais et le français au Collège Saint François d’Assise pendant quatorze ans. Elle a également étudié la formation des enseignants avec une autre écrivaine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+         et travaille depuis vingt-sept ans à l’École Nationale de Jardinières d’Enfants créée par Colimon. Elle enseigne également des cours de culture et littérature anglo-saxonne à l’Université Quisqueya, à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Elle est membre du jury littéraire pour le Prix 
+        <persName ana="Henri_Deschamps">
+          Henri 
+          <placeName ana="Deschamps">Deschamps</placeName>
+        </persName>
+        .
+      </p>
+      <p>
+        Actrice dès son plus jeune âge, 
+        <persName ana="Paulette_Poujol_Oriol">Paulette Poujol Oriol</persName>
+         a fondé le Piccolo Teatro où elle enseigne le théâtre aux enfants. Elle a mis en scène plusieurs pièces et a été responsable de la section Théâtre de l’École Nationale des Arts (1983-1991). Féministe, elle milite depuis cinquante ans au sein de plusieurs associations dont la Ligue Féminine d’Action Sociale, dont elle est la présidente depuis 1997.
+      </p>
+      <p>
+        Son premier roman, Le Creuset, trace l’ascension sociale d’une famille d’origine modeste et ses tribulations. La Fleur rouge est, selon la préface de 
+        <persName ana="Pradel_Pompilus">Pradel Pompilus</persName>
+        , « destinée d’abord au lecteur haïtien ». C’est un texte où se retrouvent le français standard, le français dialectal haïtien et le créole. L’avant-propos de l’auteur alterne entre le créole et le français. Dans ce recueil de nouvelles, Poujol-Oriol porte un regard ironique sur les petits défauts et les vanités des hommes et des femmes qui peuplent ses nouvelles, presque toutes des fables morales où les protagonistes sont punis par leurs défauts. Dans Le Passage, 
+        <persName ana="Poujol_Oriol">Poujol Oriol</persName>
+         présente l’itinéraire de déchéance sociale d’un personnage, 
+        <persName ana="Coralie_Santeuil">Coralie Santeuil</persName>
+        , à travers le récit entrecroisé de sa traversée de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         jusqu’aux hauteurs de la ville bourgeoise de 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville où habitent ses enfants (sur le modèle du chemin de croix du Christ, mais en quatorze stations) et de la mémoire de sa vie qui présente l’itinéraire inverse. Comme dans ses autres romans, 
+        <persName ana="Poujol_Oriol">Poujol Oriol</persName>
+         mélange le français et le créole, sans concession pour le lecteur non créolophone.
+      </p>
+      <p>
+        Par ailleurs, 
+        <persName ana="Paulette_Poujol_Oriol">Paulette Poujol Oriol</persName>
+         a écrit et publié de nombreux articles dans 
+        <placeName ana="La_Presse">La Presse</placeName>
+         et a préfacé beaucoup d’ouvrages littéraires, sociologiques et féministes.
+      </p>
+      <p>
+        <persName ana="Paulette_Poujol_Oriol">Paulette Poujol Oriol</persName>
+         meurt le 11 
+        <placeName ana="Mars">Mars</placeName>
+         2011 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . La disparition soudaine de la romancière, metteur en scène et comédienne met en deuil la communauté littéraire et artistique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Lire quelques textes-hommages, et écouter la voix de l’auteure, par les liens ci-dessous.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Paulette_Poujol_Oriol_biblio">
+    <div ref="http://ile-en-ile.org/poujol-oriol/" xml:id="Paulette_Poujol_Oriol_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« From The Melting Pot » (extrait du Creuset). Trans. Carrol F. Coates. Callaloo  15.2 (Spring 1992): 490-94.</item>
+      </list>
+      <list subtype="en español">
+        <item>« Flor roja ». Trad. Lisa París. Los Fantabulosos Vuelos; Anthología de relatos de autoras caribeñas. Barcelona: Verdecielo Ediciones, 2005: 41-46.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Creuset. Port-au-Prince: H. Deschamps, 1980.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>« Fleur rouge ». Les fantômes de Philomène. (collectif) Paris: Seghers, 1989.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Trou-soleil, inédit.</item>
+      </list>
+      <list subtype="sélection de textes parus dans des ouvrages collectifs">
+        <item>« La femme haïtienne dans la littérature : problèmes de l’écrivain ». The Journal of Haitian Studies 3/4
+(1996-1998).</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>« Fleur rouge », nouvelle de Paulette Poujol-Oriol, lue par Marc Roger sur son disque Lecteur public. Paris: La Voie des Livres, 2000.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1980     Prix Henri Deschamps, pour Le Creuset.</item>
+      </list>
+      <list subtype="sur paulette poujol oriol">
+        <item>Dossier spécial, « Paulette Poujol Oriol: Woven Tales, Voice &amp; Feminism ».  The Journal of Haitian Studies 17.1 (Spring 2011): 5-58, 246-257. Articles, hommages et un entretien, par: Robert Berroët-Oriol, Carrol F. Coates, Edwidge Danticat, Kettly Mars, Nadève Ménard, Thomas C. Spear, Lucía M. Suárez, Gina Athena Ulysse, Chantalle F. Verna, Joëlle Vitiello.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Paulette_Poujol_Oriol_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-lucette/">Lucette</item>
+      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-luz/">Luz</item>
+      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-oresca/">Oresca</item>
+      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-le-passage/">Le Passage</item>
+      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-5-questions-pour-ile-en-ile/">Paulette Poujol Oriol, 5 Questions pour Île en île</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=57675">La lecture, vice impuni de Paulette P. Oriol</item>
+      <item ref="http://www.jasminenarcisse.com/memoire/11_litterature/04_paulette.html">Paulette Poujol-Oriol</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=90136&amp;PubDate=2011-03-11">Décès de l’écrivain et femme de théâtre Paulette Poujol Oriol</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=90195">Hommage à Paulette Poujol-Oriol</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=90399">Paulette Poujol Oriol a tourné la page…</item>
+      <item ref="http://www.wwohd.org/In_Memoriam.html">Lettre à mon grand volcan: Paulette Poujol Oriol</item>
+      <item ref="http://msmagazine.com/blog/blog/2011/03/29/the-legacy-of-haitian-feminist-paulette-poujol-oriol/">The Legacy of Haitian Feminist Paulette Poujol-Oriol</item>
+    </list>
   </div>
 </TEI>

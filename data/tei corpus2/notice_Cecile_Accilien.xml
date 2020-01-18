@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Cecile_Accilien_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Cecile_Accilien" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de CÈcile Accilien</title>
-        <author>InËs Burri</author>
-        <author>AnaÔs Chambat</author>
-        <author>CÈlian Ringwald</author>
+        <title>Notice de C√©cile Accilien</title>
+        <author>In√®s Burri</author>
+        <author>Ana√Øs Chambat</author>
+        <author>C√©lian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>UniversitÈ Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>UniversitÈ Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Universit√© Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Universit√© Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>DonnÈes issues de sources d'autoritÈs et de rÈpÈtoire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorit√©s et de r√©p√©toire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Cecile_Accilien_fiche_autorite">
+  <div n="1" xml:id="Cecile_Accilien_fiche">
     <person ana="Cecile_Accilien" sex="na">
-      <persName>CÈcile Accilien</persName>
+      <persName>C√©cile Accilien</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -27,4 +27,19 @@
       <occupation source="spla"> Professeur</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Cecile_Accilien_bio">
+    <text ref="http://www.spla.pro/fiche.personne.cecile-accilien.22014.html" xml:id="Cecile_Accilien_bio_auteur_spla">
+      <p>
+        C√©cile Accilien est professeur titulaire de litt√©ratures et cultures francophones √† l'universit√© de Columbus en Georgie. Ses recherches sont ax√©es sur les cultures francophones des 
+        <placeName ana="Caraibes">Cara√Øbes</placeName>
+         et de l'
+        <placeName ana="Afrique">Afrique</placeName>
+         de l'Ouest. Elle a co-√©dit√© deux livres : Revolutionary Freedoms : A History of Survival, Strength and Imagination in 
+        <placeName ana="Haiti">Haiti</placeName>
+        , With the Paintings of Ulrick Jean-Pierre (avec Jessica Adams et Elmide M√©l√©ance, Caribbean Studies Press 2006) et Just Below South : Intercultural Performance in the Caribbean and the U.S. South (avec Jessica Adams et Michael Bibler, University of Virginia Press, 2007). Elle est aussi l'auteur de Rethinking Marriage In Francophone African and Caribbean Literatures (Lexington Books, 2008).
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Cecile_Accilien_biblio"/>
+  <div n="4" xml:id="Cecile_Accilien_web"/>
 </TEI>

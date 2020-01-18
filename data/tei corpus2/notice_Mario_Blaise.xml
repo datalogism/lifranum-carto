@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Mario_Blaise_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Mario_Blaise" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Mario Blaise</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Mario_Blaise_fiche_autorite">
+  <div n="1" xml:id="Mario_Blaise_fiche">
     <person ana="Mario_Blaise" sex="na">
       <persName>Mario Blaise</persName>
       <langKnowledge>
@@ -31,4 +31,21 @@
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Mario_Blaise_bio">
+    <text ref="http://www.spla.pro/fiche.personne.mario-blaise.3618.html" xml:id="Mario_Blaise_bio_auteur_spla">
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) en 1943, Mario Blaise vit depuis l'âge de vingt et un ans, en 
+        <placeName ana="France">France</placeName>
+         où il est venu continuer ses études.Jeune retraité, deux fois grand-père, il part à la rencontre de lui-même et nous livre les souvenirs de sa petite enfance à Petit-
+        <placeName ana="Goave">Goâve</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Mario_Blaise_biblio"/>
+  <div n="4" xml:id="Mario_Blaise_web"/>
 </TEI>

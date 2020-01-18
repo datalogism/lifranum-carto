@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Max_Dorsinville_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Max_Dorsinville" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Max Dorsinville</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Max_Dorsinville_fiche_autorite">
+  <div n="1" xml:id="Max_Dorsinville_fiche">
     <person ana="Max_Dorsinville" sex="na">
       <persName>Max Dorsinville</persName>
       <langKnowledge>
@@ -31,5 +31,285 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Traducteur/trice</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Max_Dorsinville_bio">
+    <text hand="H. Nigel Thomas" ref="http://ile-en-ile.org/dorsinville_max/" xml:id="Max_Dorsinville_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         est né le 30 janvier 1943 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) dans une famille littéraire ; son oncle, 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        , était un romancier et un chroniqueur prolifique dont 
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         traduira quatre livres en anglais et éditera deux autres, en français, après la mort de son oncle. 
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         fait ses études primaires à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         au Petit Séminaire du Collège St-
+        <placeName ana="Martial">Martial</placeName>
+         sous la tutelle de prêtres français. Il quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1954 lorsque son père est nommé ambassadeur au sein de la mission 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         aux Nations Unies. De 1954 à 1960 il fait ses études secondaires au Collège de Saint-Laurent, à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , un pensionnat dirigé par les Pères de 
+        <placeName ana="Sainte">Sainte</placeName>
+        -Croix. De 1960 à 1968 il étudie à l’Université de 
+        <placeName ana="Sherbrooke">Sherbrooke</placeName>
+         dont il obtient un baccalauréat, en 1966, et une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         ès arts en littérature canadienne comparée, en 1968. Il reçoit un doctorat en littérature comparée de la City University of 
+        <placeName ana="New_York">New York</placeName>
+         en 1972. Il est professeur au département d’anglais de l’Université McGill de 1970 à 2006 et 
+        <placeName ana="Directeur">Directeur</placeName>
+        , de 1975 à 1980, du Centre d’études canadiennes-françaises. 
+        <placeName ana="Directeur">Directeur</placeName>
+         littéraire des Éditions Mémoire d’encrier, à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , depuis 2006, il est aussi consultant au CIDIHCA (Centre International de Documentation et d’Information Haïtiennes, Caribéennes et Afro-Canadiennes).
+      </p>
+      <p>
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         écrit : « Si je devais décrire de façon générale mes intérêts en littérature… académique et non-académique, ils regrouperaient ce que j’appelle la « littérature mémorielle » : le genre de littérature qui témoigne de la vie et de l’époque d’un auteur, comme on peut le voir dans l’œuvre de 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         et celle de mon père, 
+        <persName ana="Max_H">Max H.</persName>
+        , qui laisse une documentation abondante sur le mouvement de la décolonisation en 
+        <placeName ana="Afrique">Afrique</placeName>
+         qu’il vécut de première main… et, aussi, mon propre travail de 
+        <persName ana="Creation_Litteraire">Création Littéraire</persName>
+         ».
+      </p>
+      <p>
+        Les livres rédigés par 
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         incluent un roman en versions française et anglaise, chacune portant un titre radicalement différent : 
+        <persName ana="James_Wait">James Wait</persName>
+         et les lunettes noires  (1995), et 
+        <persName ana="Erzulie_Loves_Shango">Erzulie Loves Shango</persName>
+         (1998). Dans sa version double, ce roman est au centre de la réflexion qui suit sur l’œuvre de 
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        . 
+        <persName ana="James_Wait">James Wait</persName>
+        / Erzulie a pour sujet les rencontres entre blancs et noirs au 
+        <placeName ana="Quebec">Québec</placeName>
+        , à 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+        , une ville fictive que les lecteurs peuvent facilement associer à 
+        <placeName ana="Sherbrooke">Sherbrooke</placeName>
+        . Il poursuit dans la fiction ce que 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         explore dans ses recherches académiques : les ressemblances entre la culture et la littérature canadiennes-françaises et noires.
+      </p>
+      <p>
+        Dans l’introduction à son essai 
+        <persName ana="Caliban_Without">Caliban Without</persName>
+         Prospero, 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         affirme que « l’identité québécoise émergente des années cinquante et soixante établit des parallèles précis entre son expérience sociale et celle des noirs aux États-Unis et en 
+        <placeName ana="Afrique">Afrique</placeName>
+         ». Soucieux d’adapter la rencontre entre Caliban et Prospero comme un paradigme dans son essai, 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         met l’accent sur l’identité entre les deux pôles qui s’ensuit de cette rencontre. Un constat – qui pourrait servir à analyser 
+        <persName ana="James_Wait">James Wait</persName>
+        / Erzulie – est que « L’antithèse entre Caliban et Prospero est la division ultime que chaque individu porte en lui-même. À la fin de La Tempête, la bienveillance en contrepoint de Prospero vis-à-vis de Caliban (qui a tenté de le tuer) sous-entend la reconnaissance de la part de Prospero que l’ « esclave empoisonné », fils du diable et d’une sorcière, est en vérité le versant sombre de son être occulté aussi longtemps qu’il se percevait comme un métropolitain, et qu’il assume durant son séjour dans les ténèbres insulaires à pratiquer la sorcellerie ». Il n’est pas non plus fortuit que 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         signale au lecteur la présence de ce que le roman, en quatrième de couverture, caractérise comme son aspect carnavalesque : « 
+        <persName ana="Erzulie_Loves_Shango">Erzulie Loves Shango</persName>
+          est une histoire à plusieurs niveaux racontée sous la forme masquée du carnaval. Rien n’est ce qu’il semble être. Rien ne reste semblable ». Voilà une façon elliptique de sous-entendre que la structure et les thèmes du roman ressemblent à ceux de La Tempête.
+      </p>
+      <p>
+        Le fardeau de la race, entendu globalement, est le thème principal de 
+        <persName ana="James_Wait">James Wait</persName>
+        / Erzulie.  Le drame au centre de l’intrigue est accentué par son cadre : la ville fictive de 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+         dans les Cantons de l’Est au 
+        <placeName ana="Quebec">Québec</placeName>
+         durant les années soixante. Une époque où, selon le roman, les blancs canadiens-français comprenaient l’identité noire selon des stéréotypes sexuels grossiers répercutés pendant plusieurs siècles pour justifier le traitement inhumain des noirs par des blancs. Dans ce roman, les « deux solitudes » ne sont pas canadienne-française et anglaise, mais noire et blanche. D’une part, l’opposition de la communauté aux deux co-protagonistes (Denise, la Canadienne-française, et 
+        <persName ana="James_Wait">James Wait</persName>
+        , l’Américain noir) est le véhicule de l’intrigue. Mais Denise, en fin de compte, échoue à surmonter les attitudes bourgeoises conformistes et les aspirations sociales. D’autre part, l’intrigue secondaire concernant l’étudiant et Bonbon, le mulâtre/noir/
+        <persName ana="Don_Juan">Don Juan</persName>
+         – tous deux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         – est la source de vignettes par lesquelles le lecteur observe les valeurs et les besoins qui déterminent le comportement des blancs de 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+         avec les noirs.
+      </p>
+      <p>
+        Chaque personnage du roman est victime du racisme, et chacun le pratique à sa façon. Quel que soit le mérite de Denise à se distinguer des autres personnages blancs en essayant de comprendre et de réconcilier les races, elle est pourtant attirée au départ par James parce qu’elle est dégoûtée par les mœurs pénibles et hypocrites de sa société bourgeoise. Même si le roman laisse entendre qu’elle aspire à une forme de renaissance par l’entremise de James – qu’elle associe à la force revitalisante de la nature – l’attirance qu’elle éprouve pour lui est en partie pour épater les bourgeois. Il en est ainsi, même si le narrateur s’évertue à nous convaincre de l’amour de Denise pour la nature, de sa curiosité et de son ouverture aux Autres. Qui plus est, elle transforme James en objet de la nature – une bonne intention, nul doute, si le but recherché est de le contraster avec sa propre communauté défraîchie. Mais, dans la mesure où elle cherche en lui l’évasion de sa prison bourgeoise, le lecteur se rappelle de la vogue pour le primitivisme des années 1920 qui soutenait que les peuples bruns et noirs pratiquaient une sexualité débridée et se comportaient comme des enfants dans la société occidentale. Leur ontologie, selon cette ligne de pensée, les empêchait d’être contaminés par les névroses de la société occidentale. Par conséquent, plusieurs croyaient que ces « primitifs » seraient les sauveurs de la société occidentale. Pendant un certain temps, des éditeurs américains mirent de la pression sur leurs auteurs noirs pour développer des personnages selon cette formule, et plusieurs – 
+        <persName ana="Claude_Mckay">Claude McKay</persName>
+        , 
+        <persName ana="Zora_Neale">Zora Neale</persName>
+         Hurston, 
+        <persName ana="Arna_Bontemps">Arna Bontemps</persName>
+        , et même 
+        <persName ana="Langston_Hughes">Langston Hughes</persName>
+         – y donnèrent suite.
+      </p>
+      <p>
+        James est profondément blessé par le racisme. Il a séjourné en 
+        <placeName ana="France">France</placeName>
+         avec le 82e 
+        <placeName ana="Bataillon">Bataillon</placeName>
+         aéroporté, et il est un vétéran du 
+        <placeName ana="Vietnam">Vietnam</placeName>
+         qui se tourne vers le baseball parce qu’il est incapable de trouver un emploi convenable aux États-Unis; ceci étant dû à sa couleur de peau. À cause de son âge (et peut-être de sa couleur de peau) aucune des ligues majeures ne l’engage. Il accepte une offre de jouer dans une équipe de ligue mineure à 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+         (une aubaine pour l’équipe et ses bâilleurs de fonds, nous dit-on, puisqu’il est leur joueur-vedette mais chichement rémunéré). James conçoit son arrivée à 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+         comme une évasion du racisme enduré aux États-Unis et de son existence dans le ghetto de Bedford-Stuyvesant à 
+        <placeName ana="Brooklyn">Brooklyn</placeName>
+        . Il exprime un mépris démesuré pour ses parents et ses amis noirs, eux aussi victimes du racisme, à tel point que le lecteur se demande s’il ne projette pas son ambivalence amour-haine sur eux :
+      </p>
+      <p>
+        Il pouvait difficilement s’empêcher de haïr sa famille et de penser à une seule chose : comment fuir le ghetto, fuir les junkies, les foules sur les trottoirs le samedi soir en face de quelque bouge, les gars qui se défrisaient les cheveux et les tenaient en place avec des filets, des bas grossiers ou des petits chapeaux sans rebords. Passant près d’eux, il hurlait presque, utilisant leur langue : « Des nègres c’est ce que vous êtes et resterez… dans cette merde puante que vous vous concoctée ! Réveillez-vous, mes frères, réveillez-vous avant qu’il ne soit trop tard ! Prenez-moi… Je ne resterai pas ici. Je ne vais pas rater ma vie à rester ici. Comprenez ? Je n’ai pas été en Europe et en 
+        <placeName ana="Asie">Asie</placeName>
+         pour finir avec vous, plongé dans votre merde ! (151)
+      </p>
+      <p>
+        La réaction de James à la tentative initiale de Denise de le connaître révèle une peur profonde et une méfiance de la race blanche. Il explique constamment pourquoi une union avec Denise n’aurait aucun avenir – l’hostilité de sa famille et de sa communauté envers elle serait insoutenable, dit-il – le lecteur comprend facilement qu’il joue un rôle significatif dans la fin de leur liaison. De plus, il est conscient de la malveillance et, à l’occasion, de la violence physique à laquelle il est exposé ; cette violence que les blancs réservent aux noirs qui fréquentent les femmes blanches. Les derniers mots prononcés dans le roman lui appartiennent, même si les dernières pensées sont celles de Denise. Denise, qui vit finalement à 
+        <placeName ana="Dakar">Dakar</placeName>
+         avec le mari que ses parents avaient souhaité pour elle, se rappelle de ses paroles juxtaposées à la réception hostile que ses parents lui réservèrent : « Ça n’ira pas. J’ai essayé de te le dire. Tu ne comprends pas ? J’ai essayé de te faire comprendre. Je pense que tu comprends, non ? ». De façon délibérée ou par inadvertance, 
+        <persName ana="James_Wait">James Wait</persName>
+         se démarque comme une figure solitaire et triste, piégé et handicapé par le racisme qu’il pensait fuir en se rendant au 
+        <placeName ana="Canada">Canada</placeName>
+        .
+      </p>
+      <p>
+        Les stratégies qu’utilise 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         pour raconter l’histoire et approfondir sa signification réussissent bien. Par exemple, l’usage qu’il fait des lunettes noires comme symbole est, tel que noté par Joël 
+        <persName ana="Des_Rosiers">Des Rosiers</persName>
+        , très efficace. Les résidents de 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+         fixent James derrière leurs lunettes noires. La noirceur veut dire ici non seulement une vision déréglée mais aussi le refus de connaître. Bref, les résidents de 
+        <placeName ana="Coolbrook">Coolbrook</placeName>
+         désirent préserver leurs stéréotypes sur ce qu’ils pensent des noirs et des rôles qu’ils devraient remplir, c’est-à-dire, des sous-humains à l’appétit sexuel débridé. Des personnages comme Bonbon exploitent un tel préjugé.
+      </p>
+      <p>
+        Essentiellement, l’histoire est racontée sous forme de flashback. 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         voulait insuffler une structure carnavalesque dans son roman, insistant sur le déguisement (dépeignant le comportement calculateur des personnages) et le démasquage (révélant les pensées des personnages contredisant leur comportement). Pour ceci, il fallait un narrateur omniscient. Selon Marie-
+        <persName ana="Therese_Blanc">Thérèse Blanc</persName>
+         : « Le roman de 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         a un intérêt particulier puisqu’il est situé au 
+        <placeName ana="Quebec">Québec</placeName>
+        , où le sujet des tensions raciales entre blancs et noirs n’a pas été abordé par grand nombre d’auteurs ».  Marie-
+        <persName ana="Therese_Blanc">Thérèse Blanc</persName>
+         laisse comprendre de façon implicite pourquoi le roman de 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         a été ignoré tandis que celui de 
+        <persName ana="Dany_Laferriere">
+          Dany 
+          <placeName ana="Laferriere">Laferrière</placeName>
+        </persName>
+        , Comment faire l’amour avec un nègre sans se fatiguer, a été amplement commenté. Selon elle, 
+        <placeName ana="Laferriere">Laferrière</placeName>
+         adoucit son message en utilisant l’humour et, par conséquent, « n’aliène pas ses lecteurs québécois » ; tandis que 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         « fait usage d’une voix plus traditionnelle et sobre ». Ce qu’elle évite de dire c’est que les lecteurs québécois et l’institution littéraire québécoise ont « puni » 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         parce qu’il leur a présenté des vérités qu’ils préféraient ne pas voir. Marie-
+        <persName ana="Therese_Blanc">Thérèse Blanc</persName>
+         cible presque exclusivement la thématique des relations raciales dans le roman, et à l’extérieur du roman, entre noirs et blancs, et parmi les noirs mêmes. Outre le mérite qu’elle attribue au roman pour son exploration des relations raciales, elle complimente 
+        <placeName ana="Dorsinville">Dorsinville</placeName>
+         pour la représentation qu’il fait de l’amour entre 
+        <persName ana="James_Wait">James Wait</persName>
+         et 
+        <persName ana="Denise_Dupuis">Denise Dupuis</persName>
+         dans la mesure où elle concerne la description d’une relation mutuellement respectueuse qui transcende la race.
+      </p>
+      <p>
+        Alors que 
+        <persName ana="Caliban_Without">Caliban Without</persName>
+         Prospero  de 
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         a été largement cité – comme, par exemple, par Ashcroft, Griffiths et Tiffin dans The Empire Writes Back  (1989) – (et, parfois, j’ajouterai, sans lui donner le crédit qui lui revient), sa fiction reste cependant inconnue, en général.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.max-dorsinville.32109.html" xml:id="Max_Dorsinville_bio_auteur_spla">
+      <p>
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         est né le 30 janvier 1943 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) dans une famille littéraire ; son oncle, 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        , était un romancier et un chroniqueur prolifique dont 
+        <persName ana="Max_Dorsinville">
+          Max 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         traduira quatre livres en anglais et éditera deux autres, en français, après la mort de son oncle. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Max_Dorsinville_biblio">
+    <div ref="http://ile-en-ile.org/dorsinville_max/" xml:id="Max_Dorsinville_biblio_auteur_ile_en_ile">
+      <list subtype="essais">
+        <item>Caliban Without Prospero: Essay on Quebec and Black Literature. Erin (Ontario): Press Porcépic, 1974.</item>
+      </list>
+      <list subtype="romans">
+        <item>James Wait et les lunettes noires. Montréal: CIDIHCA, 1995.</item>
+      </list>
+      <list subtype="récit">
+        <item>A Haitian’s Coming of Age in 1959: In the Postcolonial Light and Shadow of Castro and Duvalier. Lewiston, NY: Mellen Press, 2005.</item>
+      </list>
+      <list subtype="éditions critiques et traductions">
+        <item>The Haitians in Quebec. A Sociological Profile,  by Paul Dejean. Translated with a Foreword by Max Dorsinville. Ottawa: Tecumseh Press, 1980.</item>
+      </list>
+      <list subtype="éditions critiques posthumes">
+        <item>Dorsinville, Roger. Pour célébrer la terre suivi de Poétique de l’exil. Montréal: Mémoire d’encrier, 2004.</item>
+      </list>
+      <list subtype="sur l’oeuvre de max dorsinville">
+        <item>Ashcroft, Bill, Gareth Griffiths and Helen Tiffin. The Empire Writes Back: Theory and Practice in Post-Colonial Literatures. London and New York: Routledge, 1989.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Max_Dorsinville_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/max-dorsinville-nous-sommes-tous-des-refugies/">Nous sommes tous des réfugiés</item>
+      <item ref="http://ile-en-ile.org/dorsinville_roger/">Roger Dorsinville</item>
+      <item ref="http://id.erudit.org/iderudit/500368ar">Caliban Without Prospero</item>
+      <item ref="http://mellenpress.com/">Edwin Mellen Press</item>
+      <item ref="http://www.arts.mcgill.ca/english/people/dorsinville.html">Max Dorsinville</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=35958">Max H. Dorsinville fouille dans les « Mémoires de la décolonisation »</item>
+    </list>
   </div>
 </TEI>

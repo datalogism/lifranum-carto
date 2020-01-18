@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Etzer_Vilaire_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Etzer_Vilaire" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Etzer Vilaire</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Etzer_Vilaire_fiche_autorite">
+  <div n="1" xml:id="Etzer_Vilaire_fiche">
     <person ana="Etzer_Vilaire" sex="na">
-      <persName>
-        <surname source="bnf">Etzer</surname>
-        <forename source="bnf">Vilaire</forename>
-      </persName>
+      <persName>Etzer Vilaire</persName>
       <idno type="BNF">
         cb14406844p#about
         <g ref="http://data.bnf.fr/ark:/12148/cb14406844p#about"/>
@@ -53,6 +50,214 @@
         </placeName>
       </residence>
       <occupation source="viaf">poets black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Price_Mars_Jean">
+          <persName>Price-Mars Jean</persName>
+        </person>
+        <person ana="Pompilus_Pradel">
+          <persName>Pompilus Pradel</persName>
+        </person>
+        <person ana="Fardin_Dieudonne">
+          <persName>Fardin Dieudonné</persName>
+        </person>
+        <person ana="Charles_Christophe_Philippe">
+          <persName>Charles Christophe Philippe</persName>
+        </person>
+        <person ana="Brutus TimoleOn_C">
+          <persName>Brutus Timoléon C</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Etzer_Vilaire_bio">
+    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/vilaire/" xml:id="Etzer_Vilaire_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Etzer_Vilaire">
+          Etzer 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         est le fils de Jean-
+        <placeName ana="Baptiste">Baptiste</placeName>
+         
+        <persName ana="Joseph_Vilaire">
+          Joseph 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         et 
+        <persName ana="D’Eugenie_Clerie">d’Eugénie Clérié</persName>
+        . Il naît le 7 avril 1872 sous le ciel enchanteur de la ville de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), la cité des poètes qui sera le cadre principal de ses sources d’inspiration. Enfant maladif et d’une grande sensibilité, il restera accroché à l’ombre de sa mère qui l’aime, le comble d’affections et lui procure les soins que réclame sa santé pour traverser la période de la jeunesse.
+      </p>
+      <p>
+        L’enfant n’aura pourtant pas à s’éloigner de la 
+        <placeName ana="Maison">Maison</placeName>
+         familiale pour aller suivre les cours de ses études primaires. Son père tient une petite école que fréquentent les enfants de ceux du protestantisme jérémien. Comme professeur, Jean-
+        <placeName ana="Baptiste">Baptiste</placeName>
+         
+        <persName ana="Joseph_Vilaire">
+          Joseph 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         emploie, pour l’assister, un français défroqué : 
+        <persName ana="Leon_Pons">Léon Pons</persName>
+        . Ce dernier connaît et enseigne bien la grammaire française.
+      </p>
+      <p>
+        Le père d’
+        <persName ana="Etzer_Vilaire">
+          Etzer 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         est par ailleurs un homme actif. Il garde plusieurs fers au feu. Avocat, il est juge au tribunal de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , une position qui ne l’empêche pas d’enseigner à son école ni de prêter sa voix à la politique. Sous le gouvernement de Salomon (1879-88), il fait partie de l’opposition.
+      </p>
+      <p>
+        Après les classes primaires, 
+        <persName ana="Etzer_Vilaire">
+          Etzer 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         se rend à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         pour la poursuite de ses études. Il est admis en 4ème au Petit Séminaire Collège Saint-
+        <placeName ana="Martial">Martial</placeName>
+        . Mais, loin de sa mère, sa santé se détériore et il doit retourner au bercail. C’est alors que ses lectures et ses études d’autodidacte lui font découvrir les inépuisables profondeurs de la philosophie. Son grand-père, 
+        <persName ana="Alain_Clerie">Alain Clérié</persName>
+        , est d’ailleurs un pasteur de la religion protestante dont les sermons philosophiquement superbes attirent des quantités de fidèles. Le petit-fils écoute souvent le grand-père, avec admiration. Par la suite, le jeune 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         deviendra professeur de français.
+      </p>
+      <p>
+        Toute sa vie, 
+        <persName ana="Etzer_Vilaire">
+          Etzer 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         a été pris par la question de la profondeur philosophique. Le printemps de son œuvre est pavé de textes nourris de cette veine ; ses écrits sont des imbrications où le temps a inscrit ses couleurs diverses et certaines traces d’une mémoire collective.
+      </p>
+      <p>
+        De cette profondeur philosophique cependant, 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         remonte à la surface avec une écriture où la trame du vécu haïtien se présente, vêtue d’un décor dramatique qui fait semblant de s’éloigner du décor local. La préoccupation principale, selon lui, se fixe sur l’universel. Or, paradoxalement, la trajectoire de 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         vers l’universel fait toujours escale sur le terrain d’une thématique du terroir. Une thématique qui se dissout dans la profondeur philosophique pour se transformer en éclats universels dans la pluralité de la poétique vilairienne. Et si 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         se plaint et évite le danger que représente « une poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         qui se borne à la description de notre merveilleuse nature tropicale », toujours est-il que le souffle qui fait balancer les palmiers de son île souffle aussi, en filigrane, dans les espaces de son œuvre. Comme preuve, il n’est qu’à placer Les Dix hommes noirs dans l’optique d’une analyse sérieuse de la dramatique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         pour remarquer que les reflets des malheurs du pays sont partout dans l’œuvre de 
+        <placeName ana="Vilaire">Vilaire</placeName>
+        . Et quand on compare ce chef-d’œuvre à une œuvre d’un autre auteur de sa génération, on voit que, de ces textes – malgré les rossignols qui mêlent leurs chants aux sons des tambours – le plus haïtien n’est pas celui qu’on pense.
+      </p>
+      <p>
+        Le détour vers l’universel permet à 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         de contourner l’espace d’un folklorisme à bon marché (pour ne pas dire de la superficialité tout court) tout en lui permettant d’accéder au milieu des grands drames ancrés dans l’histoire de son pays.
+      </p>
+      <p>
+        <persName ana="Etzer_Vilaire">
+          Etzer 
+          <placeName ana="Vilaire">Vilaire</placeName>
+        </persName>
+         avait un grand ami. C’était son frère Jean-Joseph, lui aussi poète, qui était en plus son confident. C’est à lui qu’Etzer avait le premier confié les tourments que lui causait le plus grand chagrin d’amour de sa vie. Il avait dû rompre subitement les relations avec la femme dont la pensée occupait tout l’espace de son cœur. Dans son recueil Page d’amour, il a écrit pour elle des vers magnifiques où il expose les fibres de ses sentiments. C’était sa grande déception ! Il s’est marié des années plus tard à 
+        <persName ana="Ariane_Cazeau">
+          Ariane 
+          <placeName ana="Cazeau">Cazeau</placeName>
+        </persName>
+         et a eu d’elle onze enfants : six garçons et cinq filles.
+      </p>
+      <p>
+        <placeName ana="Vilaire">Vilaire</placeName>
+         a aussi étudié le droit. Comme son père, il a été juge au Tribunal de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        . C’est le poète 
+        <persName ana="George_Sylvain">George Sylvain</persName>
+        , qui lors d’une tournée de conférences dans cette ville, découvre 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         et l’incite à se joindre aux écrivains de la Génération de La Ronde. L’œuvre de 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         connaît alors un grand succès à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         avant d’être lue à 
+        <placeName ana="Paris">Paris</placeName>
+         où le recueil Nouveaux poèmes est couronné par l’Académie française en 1912. C’est la célébrité ; 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         se rend en 
+        <placeName ana="France">France</placeName>
+         accompagné de 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         pour recevoir le prix. Le gouvernement de Borno fait appel à 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         qui déménage et se rend à la capitale. Là, on le retrouve 
+        <persName ana="Juge_De_Cassation">Juge de Cassation</persName>
+         au Tribunal de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Sa situation financière s’améliore : le salaire du Juge est supérieur à celui du professeur de français.
+      </p>
+      <p>
+        L’homme fait de la politique. Il se lie d’amitié avec l’intellectuel 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         dont il appuie la candidature au Sénat. 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         prend alors des positions, pose des actes où s’affirme son caractère inflexible. Il prend la défense d’un patriote qu’on accuse de délit contre le gouvernement et l’occupant américain. Son réquisitoire déchaîné contre ces protagonistes est la cause d’une arrestation immédiate. Le poète/avocat est en prison, mais sa fierté ne démord pas. Il faisait partie de cette génération d’
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         chez qui l’honneur occupait une place importante. 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         retourne une fois de plus à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         en 1926. La population de sa ville natale veut faire de lui un député.
+      </p>
+      <p>
+        Durant la période du triomphe des écrivains de l’Indigénisme haïtien – dont les poètes empruntaient une voie opposée à celle tracée par 
+        <placeName ana="Vilaire">Vilaire</placeName>
+         – il est entré dans son cocon ; comme un ermite, il a pénétré dans la salle de sa solitude de créateur, avec tout de même la certitude que sa poésie intemporelle, pétrie de profondeur, trouverait à l’avenir des générations de lecteurs qui auront compris la justesse de son chant. Il est mort le 22 mai 1951. Il avait 79 ans.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Etzer_Vilaire_biblio">
+    <div ref="http://ile-en-ile.org/vilaire/" xml:id="Etzer_Vilaire_biblio_auteur_ile_en_ile">
+      <list subtype="roman">
+        <item>Thanathophobe. Inédit. Publié partiellement en feuilleton (vers 1912) dans Haïti littéraire et scientifique (comme Les destinées tragiques).</item>
+      </list>
+      <list subtype="poésie">
+        <item>Page d’amour et Les dix hommes noirs. Port-au-Prince: Imprimerie F. Smith, 1901.</item>
+      </list>
+      <list subtype="essais">
+        <item>« La Mission de Mr le député Etzer Vilaire et de Mr le sénateur Price-Mars à Prague, à Paris et à Genève en 1931, rapport au gouvernement de la République et au Corps législatif ». (avec Jean Price-Mars) Port-au-Prince: Imprimerie de V. Valcin, 1932, 33 pages.</item>
+      </list>
+      <list subtype="prose religieuse">
+        <item>Les prédications d’un laïque (tome 1). Pétionville: Département d’entrainement des laïcs frères), s.d., 250 pages.</item>
+      </list>
+      <list subtype="morale et philosophie">
+        <item>Pensées (inédit).</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1912     Prix de l’Académie française, pour Nouveaux poèmes.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’etzer vilaire">
+        <item>Arnold, Jean Eddy. Etzer Vilaire: la vision tragique. Port-au-Prince: Haïti-Demain, 1996.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Etzer_Vilaire_web">
+    <list type="ile_en_ile">
+      <item ref="http://dloc.com/UF00081357/00001">Page d’amour et Les dix hommes noirs</item>
+      <item ref="https://web.archive.org/web/20070503141942/http://www.francophonie.philo.ulg.ac.be/HAI.Vilaire">Etzer Vilaire</item>
+    </list>
   </div>
 </TEI>

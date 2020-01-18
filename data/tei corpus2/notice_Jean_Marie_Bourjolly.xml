@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean_Marie_Bourjolly" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Jean-Marie Bourjolly</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Jean_Marie_Bourjolly_fiche">
+    <person ana="Jean_Marie_Bourjolly" sex="na">
+      <persName>Jean-Marie Bourjolly</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Jean_Marie_Bourjolly_bio">
+    <text ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean_Marie_Bourjolly_bio_auteur_ile_en_ile">
+      <p>
+        Jean-
+        <persName ana="Marie_Bourjolly">
+          Marie 
+          <placeName ana="Bourjolly">Bourjolly</placeName>
+        </persName>
+         est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Après des études secondaires au Petit-Séminaire Collège Saint-
+        <placeName ana="Martial">Martial</placeName>
+         et une année à la Faculté des sciences et à l’École normale supérieure à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il part étudier les mathématiques à 
+        <placeName ana="Toulouse">Toulouse</placeName>
+        . Il étudie ensuite la recherche opérationnelle à l’Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+         et à l’Université de Waterloo (
+        <placeName ana="Ontario">Ontario</placeName>
+        ), où il obtient un doctorat en combinatoire et optimisation.
+      </p>
+      <p>
+        Jean-
+        <persName ana="Marie_Bourjolly">
+          Marie 
+          <placeName ana="Bourjolly">Bourjolly</placeName>
+        </persName>
+         est actuellement professeur titulaire de logistique à l’École des sciences de la gestion de l’Université du 
+        <placeName ana="Quebec">Québec</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+         (UQÀM).
+      </p>
+      <p>
+        Dernier appel  est sa première œuvre de fiction. Le titre se réfère au dernier appel à l’aéroport : un projet de voyage d’étude qui est aussi une tentative de fuite sans retour, l’angoisse de l’attente, la possibilité que le dernier appel résonne pour la prison plutôt que pour la liberté. 
+        <persName ana="Raphael_Confiant">Raphaël Confiant</persName>
+         note que l’imaginaire du roman de 
+        <placeName ana="Bourjolly">Bourjolly</placeName>
+         est « riche de toutes les cultures qui se sont mêlées depuis plusieurs siècles en 
+        <placeName ana="Haiti">Haïti </placeName>
+        » : « Ce texte, qui revisite une enfance à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         du temps de la dictature ubuesque et sanglante de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , est aussi un beau roman d’apprentissage ». Le jeune héros, 
+        <persName ana="Didier_Delerme">Didier Delerme</persName>
+        , est un haïtien « ordinaire », sensible, et Dernier appel est le « portrait d’une génération », selon 
+        <persName ana="Adrien_Bance">Adrien Bance</persName>
+         (Le Matin, 20 mai 2004).
+      </p>
+      <p>
+        La parution du second roman de Jean-
+        <persName ana="Marie_Bourjolly">
+          Marie 
+          <placeName ana="Bourjolly">Bourjolly</placeName>
+        </persName>
+        , Voyage en quatre temps, est prévue prochainement.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Marie_Bourjolly_biblio">
+    <div ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean_Marie_Bourjolly_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item>Dernier appel. Montréal: Éditions du CIDIHCA, 2004.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Robre de Olor » (compte rendu du film). Lettres de Cuba 6 (2005).</item>
+      </list>
+      <list subtype="distinctions">
+        <item>2001     Co-récipiendaire du premier prix de la Société canadienne de recherche opérationnelle, pour ses travaux en télécommunications.</item>
+      </list>
+      <list subtype="sur jean-marie bourjolly">
+        <item>Bance, Adrien. « Récit pour une génération ». Le Matin (20 mai 2004): 18-19.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jean_Marie_Bourjolly_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/jean-marie-bourjolly-dernier-appel/">Dernier appel</item>
+      <item ref="http://ile-en-ile.org/les-je-de-la-memoire-par-robert-berrouet-oriol/">Les je de la mémoire</item>
+      <item ref="http://www.er.uqam.ca/nobel/r14677/">Jean-Marie Bourjolly</item>
+      <item ref="http://ctr.concordia.ca/2003-04/may_6/13/">Coming-of-age novel took 12 years</item>
+      <item ref="http://www.mantech.uqam.ca/enseignants/fiche.php?id=39">Jean-Marie Bourjolly</item>
+    </list>
+  </div>
+</TEI>

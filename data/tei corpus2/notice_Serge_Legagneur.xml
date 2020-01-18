@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Serge_Legagneur_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Serge_Legagneur" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Serge Legagneur</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Serge_Legagneur_fiche_autorite">
+  <div n="1" xml:id="Serge_Legagneur_fiche">
     <person ana="Serge_Legagneur" sex="na">
       <persName>Serge Legagneur</persName>
       <death source="ile_en_ile_auto">
@@ -31,7 +31,216 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">Po�te</occupation>
+      <occupation source="spla">Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Serge_Legagneur_bio">
+    <text ref="http://ile-en-ile.org/legagneur/" xml:id="Serge_Legagneur_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         naît le 10 janvier 1937 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il 
+        <placeName ana="Passe">Passe</placeName>
+         son enfance dans cette ville côtière de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , dite « la Cité des Poètes » qui aura marqué sa poésie. Jean-
+        <persName ana="Richard_Laforest">Richard Laforest</persName>
+         affirme que « l’un des points de départ de la vie du poète se situe ainsi à la fin des années 1930 sous les signes du Tropique antillais et du Capricorne zodiacal, dans cette petite ville, dont les rues sont parcourues de personnages à l’âme bigarrée, cousins germains de ceux de 
+        <placeName ana="Macondo">Macondo</placeName>
+         de 
+        <persName ana="Gabriel_Garcia_Marquez">Gabriel García Márquez</persName>
+         ». 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         publie ses premiers poèmes à la fin des années 1950.
+      </p>
+      <p>
+        Après ses études secondaires, il participe activement à la vie culturelle de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Avec ses amis écrivains, il fonde le groupe 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire. 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         dirige en avant-gardiste la revue Semences (1962) qui s’arrête après quatre numéros. Semences publie en priorité les écrits des poètes d’
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire : Davertige, 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+        , 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+        , 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         et Legagneur.
+      </p>
+      <p>
+        Devant la menace et l’horreur de la dictature de Duvalier, 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         et s’installe à 
+        <placeName ana="Montreal">Montréal</placeName>
+         en 1965. Il y retrouvera 
+        <persName ana="Emile_Ollivier">Émile Ollivier</persName>
+         et 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+        , arrivés l’année précédente. Les nouveaux exilés 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         et 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+         rejoignent 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         dans un appartement qu’ils partagent au Carré Saint-Louis, à l’époque quartier marginalisé du centre-ville de 
+        <placeName ana="Montreal">Montréal</placeName>
+        , où s’établit la bohème littéraire. Avec ses deux complices d’
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire, et le poète 
+        <persName ana="Gerard Etienne_V">Gérard V. Étienne</persName>
+        , il anime les Lundis du Perchoir d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , un resto-bar, où, pour la première fois, vont se rencontrer des poètes d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et du 
+        <placeName ana="Quebec">Québec</placeName>
+        , entre autres : 
+        <persName ana="Paul_Chamberland">Paul Chamberland</persName>
+        , 
+        <persName ana="Raoul_Duguay">Raoul Duguay</persName>
+        , 
+        <persName ana="Claude_Peloquin">Claude Péloquin</persName>
+        , 
+        <persName ana="Nicole_Brossard">Nicole Brossard</persName>
+         et, bien sûr 
+        <persName ana="Gaston_Miron">Gaston Miron</persName>
+        , qui donne à ce groupe informel le nom de : Batèche batouque.
+      </p>
+      <p>
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         fait des études universitaires en littérature et un baccalauréat en psychopédagogie à l’Université du 
+        <placeName ana="Quebec">Québec</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Il a enseigné le français dans des établissements du secondaire.
+      </p>
+      <p>
+        Legagneur crée des liens avec les écrivains et peintres québécois. Il fréquentera aussi les bars : 
+        <persName ana="Casa_Pedro">Casa Pedro</persName>
+        , 
+        <persName ana="Le_Bouvillon">Le Bouvillon</persName>
+        , hauts lieux de discussions de la faune artistique et intellectuelle montréalaise, dont le célèbre 
+        <persName ana="Patrick_Straham">Patrick Straham</persName>
+        , Le bison ravi.
+      </p>
+      <p>
+        Legagneur sera le premier du groupe 
+        <placeName ana="Haiti">Haiti</placeName>
+         Littéraire a être publié au 
+        <placeName ana="Quebec">Québec</placeName>
+        . Son premier recueil Textes interdits, sort en 1966. Le recueil est chaleureusement accueilli par les critiques et les poètes québécois. Selon 
+        <persName ana="Paul_Belanger">Paul Bélanger</persName>
+        , « l’œuvre de 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         est tout à significative de l’effet des poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         sur la poésie québécoise, voire même sur la poésie de langue française ». Dans Le Soleil (de 
+        <placeName ana="Montreal">Montréal</placeName>
+        ) du 6 juillet 1967, 
+        <persName ana="Suzanne_Paradis">Suzanne Paradis</persName>
+         écrit : « Avec 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+        , la poésie canadienne-française a gravi plusieurs échelons à la fois sur la voie verticale de l’intelligence et du langage poétiques… Jamais, je crois, l’amour ni la haine n’auront atteint, avec une telle intensité verbale, à une telle réalité, à une telle mysticisme de la chair et de l’esprit enfin liés. Nous n’avons guère été gâtés au 
+        <placeName ana="Canada">Canada</placeName>
+         français par la poésie de sentiment. Et je parle ici du sentiment dans son sens le plus fort. … Reconnaissons-le humblement, les Textes interdits nous précèdent, et de fort loin, dans les méandres de l’existence et du langage ».
+      </p>
+      <p>
+        D’autres recueils suivront, certains illustrés par des artistes québécois. La réception critique a toujours vu en Legagneur un écrivain exigeant envers lui-même et envers le langage. En 1997, les Éditions du Noroît publient Poèmes choisis, 1961-1997. Cet ouvrage amène un précieux éclairage sur la contribution de 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         à la poésie haïtiano-québécoise contemporaine.
+      </p>
+      <p>
+        Fin des années 1990, 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         déclare avec conviction qu’il n’est plus poète et qu’il a changé de métier. Il a déjà dit et écrit tout ce qu’il devait dire et écrire. En réalité, il n’a jamais cessé d’écrire. Dans son appartement transformé en labyrinthe, « Petit Poucet de fièvre et de chandelle »,  il a continué à écrire et à semer des poèmes comme des petits cailloux…
+      </p>
+      <p>
+        Le poète 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         meurt des suites d’un cancer à 
+        <placeName ana="Montreal">Montréal</placeName>
+         le 30 juin 2017 à l’âge de 80 ans. Le poète et écrivain 
+        <persName ana="Pierre_Nepveu">Pierre Nepveu</persName>
+         nous rappelle que dans l’anthologie La poésie québécoise des origines à nos jours (dirigée par Nepveu et 
+        <persName ana="Laurent_Mailhot">Laurent Mailhot</persName>
+        , 1981, 1986, 2007), les poèmes choisis de 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         figurent entre 
+        <persName ana="Speak_White">Speak White</persName>
+         de 
+        <persName ana="Michele_Lalonde">Michèle Lalonde</persName>
+         et les poèmes d’
+        <persName ana="Yves_Prefontaine">Yves Préfontaine</persName>
+        . La notice présente les Textes interdits de Legagneur, « dont les amples coulées lyriques sont à la fois une dénonciation de l’oppression et une profession de foi en l’homme ». Pour Nepveu, le silence définitif de 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         « nous le fera relire, car le poète reste vivant ».
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.serge-legagneur.14135.html" xml:id="Serge_Legagneur_bio_auteur_spla">
+      <p>
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         naît le 10 janvier 1937 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il 
+        <placeName ana="Passe">Passe</placeName>
+         son enfance dans cette ville côtière de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , dite &quot;la Cité des Poètes&quot; qui aura marqué sa poésie. Jean-
+        <persName ana="Richard_Laforest">Richard Laforest</persName>
+         affirme que &quot;l'un des points de départ de la vie du poète se situe ainsi à la fin des années 1930 sous les signes du Tropique antillais et du Capricorne zodiacal, dans cette petite ville, dont les rues sont parcourues de personnages à l'âme bigarrée, cousins germains de ceux de 
+        <placeName ana="Macondo">Macondo</placeName>
+         de 
+        <persName ana="Gabriel_Garcia_Marquez">Gabriel García Márquez</persName>
+        &quot;. 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         publie ses premiers poèmes à la fin des années 1950. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Serge_Legagneur_biblio">
+    <div ref="http://ile-en-ile.org/legagneur/" xml:id="Serge_Legagneur_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Textes interdits. Montréal: Éditions Estérel, 1966, 136 p.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Aux Armes Écrivains !… » (correspondance avec Paul Chamberland). Dialogue d’île en île; De Montréal à Haïti (collectif). Montréal: CIDIHCA et Radio-Canada: 1996: 55-76.</item>
+      </list>
+      <list subtype="poésie enregistrée">
+        <item>Poésie de Serge Legagneur dite par Anthony Phelps sur trois disques. Montréal: Productions Caliban:
+
+Quatre Poètes d’Haïti : Davertige, Legagneur, Morisseau, Phelps. Montréal, 1982.
+Les beaux poèmes d’amour d’Haïti-littéraire  dits par Anthony Phelps (Davertige, Legagneur, Morisseau, Philoctète, Phelps). CD. Pétion-Ville, Haïti, 1997.
+La poésie contemporaine d’Haïti. Trente-quatre poètes. CD. Pétion-Ville, Haïti, 1998.
+
+</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Serge_Legagneur_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+      <item ref="http://test.lenoroit.com/wordpress/legagneur-serge/">Éditions du Noroît,</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/legagneur-serge-298/">Serge Legagneur</item>
+      <item ref="https://www.potomitan.info/kauss/legagneur.php">La poésie de Serge Legagneur</item>
+      <item ref="http://web.archive.org/web/20030606082110/http://elvir.univ-poitiers.fr/article.php3?id_article=603">Textes interdits</item>
+      <item ref="http://www.ledevoir.com/culture/livres/503055/serge-legagneur-1937-2017-grand-deuil-sur-la-poesie-haitienne-et-quebecoise">Grand deuil pour la poésie haïtienne et québécoise</item>
+      <item ref="http://lenouvelliste.com/article/173439/special-vendredi-litteraire-en-lhonneur-de-serge-legagneur">Spécial Vendredi littéraire en l’honneur de Serge Legagneur</item>
+      <item ref="http://lenouvelliste.com/article/173571/reparer-les-morts">Réparer les morts</item>
+    </list>
   </div>
 </TEI>

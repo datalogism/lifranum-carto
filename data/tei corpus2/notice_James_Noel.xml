@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="James_Noel_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="James_Noel" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de James No�l</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de James Noël</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="James_Noel_fiche_autorite">
+  <div n="1" xml:id="James_Noel_fiche">
     <person ana="James_Noel" sex="na">
-      <persName>
-        <surname source="bnf">James</surname>
-        <forename source="bnf">No�l</forename>
-      </persName>
+      <persName>James Noël</persName>
       <idno type="BNF">
         cb15993246v#about
         <g ref="http://data.bnf.fr/ark:/12148/cb15993246v#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/58863888"/>
       </idno>
       <idno type="VIAF">
-        James_No�l
-        <g ref="http://fr.dbpedia.org/resource/James_No�l"/>
+        James_Noël
+        <g ref="http://fr.dbpedia.org/resource/James_Noël"/>
       </idno>
       <birth source="viaf">
         <date>1978</date>
@@ -46,6 +43,250 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Nirsimloo_Ananda_Devi">
+          <persName>Nirsimloo Ananda Devi</persName>
+        </person>
+        <person ana="Monnin_Pascale">
+          <persName>Monnin Pascale</persName>
+        </person>
+        <person ana="Taurand_Jacques">
+          <persName>Taurand Jacques</persName>
+        </person>
+        <person ana="CeSaire_Aime">
+          <persName>Césaire Aimé</persName>
+        </person>
+        <person ana="Vigee_Claude">
+          <persName>Vigée Claude</persName>
+        </person>
+        <person ana="Vazemsky_Dimitri">
+          <persName>Vazemsky Dimitri</persName>
+        </person>
+        <person ana="Vallotton_Jean_Pierre">
+          <persName>Vallotton Jean-Pierre</persName>
+        </person>
+        <person ana="Ton_That_Thanh_Van">
+          <persName>Ton-That Thanh-Vân</persName>
+        </person>
+        <person ana="Maurizi_Dominique">
+          <persName>Maurizi Dominique</persName>
+        </person>
+        <person ana="Lamy_Emilie">
+          <persName>Lamy Émilie</persName>
+        </person>
+        <person ana="Litradukt_Literatureditionen">
+          <persName>litradukt Literatureditionen</persName>
+        </person>
+        <person ana="Mellier_Fanette">
+          <persName>Mellier Fanette</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="James_Noel_bio">
+    <text ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="James_Noel">James Noël</persName>
+         naît le 17* 
+        <placeName ana="Mars">Mars</placeName>
+         1978 à 
+        <placeName ana="Hinche">Hinche</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Les déplacements de sa mère éducatrice et femme d’affaires, avec ses nombreux enfants, le feront connaître une quinzaine d’établissements scolaires élémentaires et secondaires. Après, il suit des cours d’ethnologie, étudie les arts dramatiques au Petit Conservatoire avec le comédien 
+        <persName ana="Daniel_Marcelin">Daniel Marcelin</persName>
+         et il suit des cours d’histoire de l’art à l’Institut français d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . En 2005, il fait un stage d’écriture théâtrale en 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+         et développe ses expériences dans l’édition en travaillant avec une 
+        <placeName ana="Maison">Maison</placeName>
+         d’édition en 
+        <placeName ana="France">France</placeName>
+        . Le poète écrit en créole et en français.
+      </p>
+      <p>
+        Poèmes à double tranchant / Seul le baiser pour muselière, le premier recueil de poésie de 
+        <persName ana="James_Noel">James Noël</persName>
+        , est sélectionné comme finaliste pour le Grand Prix des 
+        <placeName ana="Ameriques">Amériques</placeName>
+         insulaires de Ouessant en 2005. Dans sa préface au recueil, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         écrit : « Émergeant de l’abîme, le primordial écho des textes du jeune écrivain 
+        <persName ana="James_Noel">James Noël</persName>
+         dont la précoce maturité m’a saisi du premier coup. / Aucune approche critique et nulle raison explicative susceptible de justifier mes émotions et mon aval spontané, hormis la profonde certitude que les Poèmes à double tranchant portent la sève inaugurale de l’aube future, le sel miraculeux d’une aventure poétique féconde ».
+      </p>
+      <p>
+        Étudié en classe terminale au lycée 
+        <persName ana="Alexandre_Dumas">Alexandre Dumas</persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         comme au lycée 
+        <persName ana="Van_Der_Meersch">Van Der Meersch</persName>
+         à 
+        <placeName ana="Roubaix">Roubaix</placeName>
+        , ce recueil de 
+        <persName ana="James_Noel">James Noël</persName>
+         lui permet, par de nombreuses invitations, à animer des ateliers d’écriture en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <placeName ana="France">France</placeName>
+        , 
+        <placeName ana="Guyane">Guyane</placeName>
+        , Nouvelle-Calédonie et ailleurs.
+      </p>
+      <p>
+        Plusieurs documentaires ont été consacrés à l’auteur, dont le documentaire télévisé, 
+        <persName ana="James_Noel">James Noël </persName>
+        : Le poète des métaphores, réalisé par 
+        <persName ana="Jean_Antoine Arisma">Jean Antoine Arisma</persName>
+         en 2005.
+      </p>
+      <p>
+        Le 9 juillet 2006, la Bibliothèque de la 
+        <placeName ana="Grande_Anse">Grande Anse</placeName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         organise un hommage à 
+        <persName ana="James_Noel">James Noël</persName>
+        , avec une lecture de poésies, une mise en scène à partir des inédits de l’auteur et une performance du chanteur 
+        <persName ana="Wooly_Saint_Louis_Jean">Wooly Saint Louis Jean</persName>
+         et de la chanteuse 
+        <persName ana="Tamara_Suffren">Tamara Suffren</persName>
+         à partir de ses poèmes.
+      </p>
+      <p>
+        Son poème « 
+        <persName ana="Bon_Nouvel">Bon Nouvèl</persName>
+         » a inspiré un court-métrage réalisé par 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         et 
+        <persName ana="Kendy_Verilus">Kendy Vérilus</persName>
+        , La danse des pieds. Mis en musique par 
+        <persName ana="Wooly_Saint_Louis_Jean">Wooly Saint Louis Jean</persName>
+        , ce poème d’amour « 
+        <persName ana="Bon_Nouvel">Bon Nouvèl</persName>
+         » est disponible aux lecteurs d’Île en île. D’autres textes de 
+        <persName ana="James_Noel">James Noël</persName>
+         ont été mis en musique et chantés par James Germain et 
+        <persName ana="Arthur_H">Arthur H.</persName>
+      </p>
+      <p>
+        Acteur, 
+        <persName ana="James_Noel">James Noël</persName>
+         joue parmi les premiers rôles dans le film Wòch nan Solèy de 
+        <persName ana="Patricia_Benoit">Patricia Benoît</persName>
+         (2012) et dans Ayiti mon amour de 
+        <persName ana="Guetty_Felin">Guetty Félin</persName>
+         (2016). Il possède aussi la casquette de 
+        <placeName ana="Directeur">Directeur</placeName>
+         d’acteurs, pour organiser régulièrement des spectacles, tels La Migration des murs, Rêveur à gages (au festival Étonnants Voyageurs en 2012), 
+        <persName ana="Vaudou_Roma">Vaudou Roma </persName>
+        (joué à 
+        <placeName ana="Rome">Rome</placeName>
+         en 2013), Le Pouvoir des mondes (
+        <placeName ana="Mars">Mars</placeName>
+         2016) et Les Coussins de l’imaginaire (juillet 2016).
+      </p>
+      <p>
+        Avec l’artiste 
+        <persName ana="Pascale_Monnin">Pascale Monnin</persName>
+        , 
+        <persName ana="James_Noel">James Noël</persName>
+         fonde et dirige IntranQu’îllités, « revue de haute tension créatrice avec des pages qui vibrent et évoluent dans l’union libre des genres » (prose, poésie, photographie, peinture, musique, cinéma, etc.). « Le préfixe ‘In’ dans IntranQu’îllités pourrait même renvoyer à la négation de l’insularité. Ce titre est une manière, une astuce pour apostropher tous les imaginaires, pour pénétrer les interstices et naviguer dans l’air/ère d’une île-monde. » Depuis le premier numéro paru en janvier 2012, la revue sert à « contrarier les certitudes et les idées reçues, et ainsi donner libre cours à tous les vents et les tremblements de l’esprit ».
+      </p>
+      <p>
+        Pour 
+        <persName ana="James_Noel">James Noël</persName>
+        , le poète est sismographe, il capte ondes et vibrations. « J’écris pour avoir de mes nouvelles », dit-il.
+      </p>
+      <p>
+        Agitateur d’idées, 
+        <persName ana="James_Noel">James Noël</persName>
+         s’entoure de poètes, jeunes et moins jeunes, diseurs, slameurs, conteurs, peintres et photographes pour le partage de la création. Il voyage beaucoup, tout en poursuivant son enragement qu’il définit comme une forme d’engagement suprême, une attitude nécessaire pour « notre siècle en banqueroute ».
+      </p>
+      <p>
+        <persName ana="James_Noel">James Noël</persName>
+         et son oeuvre sont présentés sur le site d’Africultures et les sites des maisons d’édition : Legs, Mémoire d’encrier, 
+        <persName ana="Vents_D’Ailleurs">Vents d’Ailleurs</persName>
+         et 
+        <placeName ana="Zulma">Zulma</placeName>
+        .
+Vous pouvez le suivre sur Twitter.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="James_Noel_biblio">
+    <div ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_biblio_auteur_ile_en_ile">
+      <list subtype="auf deutsch">
+        <item>Die größte der Raubkatzen. Ausgewählte Gedichte / Le plus grand des félins. Poèmes choisis. Trad. Rike Bolte. Trier (Trèves, Allemagne): Litradukt, 2018.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Poèmes à double tranchant / Seul le baiser pour muselière. Préface de Frankétienne. Port-au-Prince: Farandole, 2005; ré-édition illustrée par Valérie Constantin. Mazères (France): Le Chasseur Abstrait, 2009.</item>
+      </list>
+      <list subtype="roman">
+        <item>Belle merveille. Paris: Zulma, 2017.</item>
+      </list>
+      <list subtype="dans des ouvrages collectifs">
+        <item>« Ville de solitude ». Belles Provinciales (Projet franco-haitien pour la promotion du livre et de la lecture) 1 (1999): 6.</item>
+      </list>
+      <list subtype="poésie enregistrée et mise en musique">
+        <item>« Bon Nouvèl » mis en musique et interprété par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson. Port-au-Prince: Productions Batofou, 2005.</item>
+      </list>
+      <list subtype="textes et articles sélectionnés">
+        <item>« … Et nos artistes alors ? ». Le Matin (19 juillet 2004).</item>
+      </list>
+      <list subtype="direction d’ouvrages">
+        <item>IntranQu’îllités, revue fondée et dirigée par James Noël, depuis 2012.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>La fleur de Guernica, avec des illustrations de Pascale Monnin. La Roque d’Anthéron: Vents d’Ailleurs, 2010.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>James Noël: Le poète des métaphores, film-documentaire réalisé par Jean Antoine Arisma, diffusé sur l’émission « Culture 5 » sur Télemax (Haïti). 2005, 8 minutes.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2007     Artiste en résidence pour le festival Rumeurs Urbaines (Paris).</item>
+      </list>
+      <list subtype="sur l’oeuvre de james noël">
+        <item>Aizier, Jean-Philippe. « James Noël » Journal Littéraire 66 (février 2006).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="James_Noel_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/james-noel-bon-nouvel/">Bon Nouvèl</item>
+      <item ref="http://ile-en-ile.org/james-noel-deux-poemes/">La Foudre</item>
+      <item ref="http://ile-en-ile.org/james-noel-5-questions-pour-ile-en-ile/">James Noël, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/james-noel-le-sang-visible-du-vitrier-extraits/">James Noël, Le sang visible du vitrier</item>
+      <item ref="http://ile-en-ile.org/kiskeya-james-noel/">Kiskeya, l’île mystérieuse</item>
+      <item ref="http://ile-en-ile.org/james-noel-poeme-de-la-main-gauche-jeu-de-mort/">Poème de la main gauche</item>
+      <item ref="http://james-noel.hautetfort.com/">Cœuritoire</item>
+      <item ref="https://blogs.mediapart.fr/james-noel/blog">Saxophonies</item>
+      <item ref="https://youtu.be/byvAGGhcKcw">Lancement de la revue IntranQu’îllités</item>
+      <item ref="http://www.fipradio.fr/diffusion-reecoute-fip-livre-ses-musiques-la-migration-des-murs-de-james-noel">FIP Livre ses musiques : « La migration des murs » de James Noël</item>
+      <item ref="https://youtu.be/3azDn7ld7Fo">Aux jours sombres, les amis inconnus – Arthur H &amp; James Noël</item>
+      <item ref="https://youtu.be/G0Zf4frVbKw">1e</item>
+      <item ref="https://youtu.be/N_Gb7VbAgMQ"> James Noël, poète enragé</item>
+      <item ref="https://web.archive.org/web/20110826032312/http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=44099">La pureté ambiguë</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/53273/James-Noel-Monsieur-le-poete">James Noël : Monsieur le poète !</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/109607/James-Noel-au-Theatre-des-Expositions-a-Rome">James Noël au Théâtre des Expositions à Rome</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/116553/James-Noel-ou-le-pyromane-adolescent">James Noël ou le pyromane adolescent</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/136931/James-Noel-lIntranQuile">James Noël, l’IntranQu’île</item>
+      <item ref="http://lenouvelliste.com/article/173671/james-noel-fait-des-vagues-a-la-3e-edition-de-vagues-litteraires">James Noël fait des vagues à la 3e édition de Vagues littéraires</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/recherche">archives du journal</item>
+      <item ref="http://blogs.mediapart.fr/blog/patrice-beray/130113/la-migration-des-murs-de-james-noel">La migration des murs, de James Noël</item>
+      <item ref="http://www.alterpresse.org/article.php3?id_article=4780">« Le sang visible du vitrier » Haiti : Sauf-conduit poétique d’un iconoclaste multi récidiviste</item>
+      <item ref="https://mjdesvignes.wordpress.com/2017/06/10/belle-merveille-james-sacre-zulma-aout-2017/">Belle merveille – James Noël – Editions Zulma – août 2017</item>
+      <item ref="https://www.nytimes.com/2014/11/21/movies/haitian-diaspora-in-stones-in-the-sun.html">The Old Country Never Goes Away ; Haitian Diaspora in ‘Stones in the Sun’</item>
+      <item ref="https://shadowandact.com/ayiti-mon-amour-post-earthquake-haitian-cinema">‘Ayiti Mon Amour’ &amp; Post-Earthquake Haitian Cinema</item>
+      <item ref="http://www.loophaiti.com/content/un-haitien-distingue-par-un-ancien-ministre-francais-de-la-culture">Un Haïtien nommé Chevalier de l’Ordre des Arts et des Lettres</item>
+      <item ref="https://studifrancesi.revues.org/5463">Anthologie de la poésie haïtienne contemporaine, éd. James Noël</item>
+      <item ref="https://www.letemps.ch/culture/2016/04/22/james-noel-ecume-vers">James Noël, dans l’écume des vers</item>
+      <item ref="https://traversees.wordpress.com/2017/01/09/james-noel-la-migration-des-murs-galaade-2016/">James Noël – La migration des murs – Galaade 2016</item>
+      <item ref="http://education.hauts-de-seine.net/portal/site/education/culture-colleges/projets-culture-jeunes/college-cinema-danse-chant-atelier-cinema-theatre/1313/e298570da4f06110VgnVCM100000860aa8c0RCRD.vhtml">Poésie caribéenne, « une fête à la santé des mots » </item>
+      <item ref="http://www.canalacademie.com/ida3945-Du-Chili-d-Haiti-et-de-France-Poesies-de-langue-francaise-5-11.html">Du Chili, d’Haïti et de France : Poésies de langue française</item>
+      <item ref="https://www.franceinter.fr/emissions/dans-quel-monde-on-vit/dans-quel-monde-on-vit-21-aout-2017">Haïti, mon amour, avec James Noël &amp; Corentin Fohlen</item>
+    </list>
   </div>
 </TEI>

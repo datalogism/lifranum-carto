@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Marie_Celie_Agnant" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Marie-Célie Agnant</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Marie_Celie_Agnant_fiche">
+    <person ana="Marie_Celie_Agnant" sex="na">
+      <persName>Marie-Célie Agnant</persName>
+      <birth source="viaf">
+        <date>1953-07-31</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="viaf">women authors black</occupation>
+      <occupation source="viaf">ucitelky</occupation>
+      <occupation source="viaf">spisovatelky</occupation>
+      <occupation source="viaf">basnirky</occupation>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Tapia_Veronica">
+          <persName>Tapia Veronica</persName>
+        </person>
+        <person ana="Saint_Eloi_Rodney">
+          <persName>Saint-Éloi Rodney</persName>
+        </person>
+        <person ana="Zekina_Daniela">
+          <persName>Zekina Daniela</persName>
+        </person>
+        <person ana="Tiga">
+          <persName>Tiga</persName>
+        </person>
+        <person ana="Tiga">
+          <persName>Tiga</persName>
+        </person>
+        <person ana="Pean_Stanley">
+          <persName>Péan Stanley</persName>
+        </person>
+        <person ana="Cousineau_Normand">
+          <persName>Cousineau Normand</persName>
+        </person>
+        <person ana="Mata_Barreiro_Carmen">
+          <persName>Mata Barreiro Carmen</persName>
+        </person>
+        <person ana="Barroux">
+          <persName>Barroux</persName>
+        </person>
+        <person ana="Barroux">
+          <persName>Barroux</persName>
+        </person>
+        <person ana="Wiener_Jacqueline">
+          <persName>Wiener Jacqueline</persName>
+        </person>
+        <person ana="Ellis_Zilpha">
+          <persName>Ellis Zilpha</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Marie_Celie_Agnant_bio">
+    <text hand="Lucie Lequin" ref="http://ile-en-ile.org/agnant/" xml:id="Marie_Celie_Agnant_bio_auteur_ile_en_ile">
+      <p>
+        Poète, nouvelliste, romancière, Marie-
+        <persName ana="Celie_Agnant">Célie Agnant</persName>
+         quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         pour le 
+        <placeName ana="Canada">Canada</placeName>
+         en 1970. Traductrice et interprète, elle détient un diplôme en enseignement du français et a enseigné plusieurs années tout en travaillant comme assistante de recherche. C’est ainsi que son premier roman, La dot de Sara, publié en 1995, sera « construit à partir de récits de vie de grands-mères d’origine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , transmis en créole dans le cadre d’une recherche en sociologie ».
+      </p>
+      <p>Écrivaine présente et attentive au monde qui l’entoure, son écriture porte à la fois le sceau de la poésie et de la violence issue des sociétés postcoloniales qui naviguent entre misère criante et opulence indécente. Ses textes, dont certains ont été traduits en plusieurs langues, trouvent leur ancrage dans la réalité sociale contemporaine ; elle aborde les thèmes tels l’exclusion, la solitude, le racisme, l’exil. La condition des femmes, le rapport au passé et à la mémoire font aussi partie de son champ d’exploration.</p>
+      <p>
+        Elle publie aussi des ouvrages destinés aux jeunes, s’intéresse au théâtre et a travaillé avec le Bread &amp; Puppet Theater (dans le 
+        <placeName ana="Vermont">Vermont</placeName>
+        ).
+      </p>
+      <p>
+        Conteuse, Marie-
+        <persName ana="Celie_Agnant">Célie Agnant</persName>
+         participe aux festivals de contes tenus au 
+        <placeName ana="Quebec">Québec</placeName>
+         et ailleurs, et anime régulièrement des séances et ateliers de contes pour petits et grands. Elle conte en français, en anglais en créole et en espagnol.
+      </p>
+      <p>
+        Membre de l’Union des écrivains et écrivaines du 
+        <placeName ana="Quebec">Québec</placeName>
+        , elle est inscrite au répertoire des artistes et écrivains à l’école.
+      </p>
+      <p>
+        Au cœur de son œuvre, la résonance de l’histoire particulière d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , sa culture et surtout sa souffrance drue et indicible bourdonnent. D’un livre à l’autre, inlassablement, l’auteure arpente l’impossible distance d’avec la mémoire – celles de ses ancêtres, 
+        <placeName ana="Memoires">Mémoires</placeName>
+         inventées, pour la plupart, mais combien familières à tous ceux qui habitent la souffrance d’où qu’ils soient.
+      </p>
+      <p>
+        Marie-
+        <persName ana="Celie_Agnant">Célie Agnant</persName>
+         construit une œuvre qui parle de l’humain – principalement des femmes – accablé par la vie et l’incapacité d’oublier. C’est que le poids de cette mémoire surchargée ne laisse jamais indemne. Néanmoins, au-delà de cet héritage lourd à porter, les femmes, sous la plume d’Agnant, en quête d’elles-mêmes, tentent de se reconstruire, ou pas, dans un monde décomposé, parfois putréfié, qui laisse peu de place à l’humain. De diverses façons, certaines d’entre elles sont enlisées dans leur cimetière intérieur, d’autres cherchent une neutralité tout aussi aliénante, tandis que certaines refusent le renoncement à soi et se battent pour leur soi, « debout dans la lumière, à affronter les coutelas » (Femmes au temps des carnassiers). Celles-ci veulent « vivre dans la dignité, vivre en femmes debout ».
+      </p>
+      <p>Outre le travail sur la mémoire, les mots dans le silence et le silence dans les mots sont explorés. Sur des modes différents, les voix narratives tentent de faire le pont entre leur généalogie personnelle, un certain passé collectif et un présent, souvent solitaire. À la fois, conscientes du passé et tournées vers l’avenir, elles déroulent le fil de la parole et le tendent à la génération qui les suit pour que celle-ci puisse se former une identité en mouvement, certes tributaire de l’héritage, mais aussi se forgeant à même l’inouï, à tout le moins dans une autonomie certaine.</p>
+      <p>Ce passage du savoir et ce testament de la parole traversent l’œuvre d’Agnant, et souvent, s’ouvrent, malgré tout, sur une célébration de la vie, de l’affection, de l’amitié et de l’amour, ne serait-ce qu’un instant comme un baume sur la déchirure.</p>
+      <p>De nombreuses questions sous-tendent l’œuvre. Comment se faire à la fois passeuse de la mémoire fondatrice et de la vie ? Raccommoder la mémoire et naître à nouveau ? Comment transmettre non seulement la mémoire historique, mais aussi une mémoire sensuelle faisant appel aux odeurs, aux couleurs et aux bruits ? Comment jongler avec le déracinement et l’enracinement ? Donner à voir le mal qui nous plonge ou nous a plongés dans la souffrance, sans s’incarcérer dans le rôle de victime ?</p>
+      <p>Si les livres d’Agnant s’emploient souvent à dénoncer le mal, ils font toujours signe à la vie et nous permettent d’habiter notre monde insensé.</p>
+      <p>
+        Entre éros et thanatos, Marie-
+        <persName ana="Celie_Agnant">Célie Agnant</persName>
+         se pose tout au long de ses différents textes, des questions essentielles sur le comment vivre comme sur le vivre ensemble et les raconte. Tout en déplorant l’absence de mots justes pour dire ce qui arrive à l’un et l’une à cause de l’autre, pour ajouter à l’Histoire des pans d’histoires personnelles, Agnant trouve néanmoins les mots pour dire l’indicible, du moins une partie, et nous les donne à lire.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.marie-celie-agnant.5619.html" xml:id="Marie_Celie_Agnant_bio_auteur_spla">
+      <p>
+        Romancière, poète, nouvelliste et conteuse, Marie-
+        <persName ana="Celie_Agnant">Célie Agnant</persName>
+         est née en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et vit au 
+        <placeName ana="Quebec">Québec</placeName>
+         depuis 1970. Elle est une écrivaine attentive au monde qui l'entoure et écrit des textes qui reflètent cet engagement. Très active sur la scène littéraire québécoise, elle connaît également une grande carrière internationale avec des traductions de ses textes vers l'espagnol, l'anglais, le néerlandais, le coréen. Depuis 1994, elle a publié une dizaine d'ouvrages parmi lesquels La Dot de Sara, Le Silence comme le sang. Plusieurs de ses textes, 
+        <persName ana="Alexis_D_Haiti">
+          Alexis d'
+          <placeName ana="Haiti">Haïti</placeName>
+        </persName>
+         ; Alexis, fils de Raphaël, La Légende du poisson amoureux, sont destinés à la jeunesse. Elle est l'auteure du roman Le Livre d'Emma, aux éditions Vents d'ailleurs.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Marie_Celie_Agnant_biblio">
+    <div ref="http://ile-en-ile.org/agnant/" xml:id="Marie_Celie_Agnant_biblio_auteur_ile_en_ile">
+      <list subtype="en català">
+        <item>El libre d’Emma. València: Edicions Tres i Quatre, 2014.</item>
+      </list>
+      <list subtype="in english">
+        <item>« The House Facing the Sea » (« La maison face à la mer »). Trans. Christina Vander Vorst. Metamorphoses, A Journal of Literary Translation 11.1 (Spring 2003): 193ff.</item>
+      </list>
+      <list subtype="en español">
+        <item>« La casa frente al mar » (« La maison face à la mer »). Casa de Las Américas 222 (enero-marzo 2001).</item>
+      </list>
+      <list subtype="in italiano">
+        <item>Il libro di Emma. Trad. Paola Ghinelli. Santa Maria Capua Vetere (Caserta, Italie): Edizioni Spartaco, 2007.</item>
+      </list>
+      <list subtype="in het nederlands">
+        <item>« Twee dagen om te vergeten » (« Deux jours pour oublier »). Trad. Kenneth Booten. Deus ex Machina 105 (juin 2003): 42.</item>
+      </list>
+      <list subtype="ouvrage collectif">
+        <item>Paroles et silences chez Marie-Célie Agnant; l’oublieuse mémoire d’Haïti. Colette Boucher et Thomas C. Spear, éds. Paris: Karthala, 2013. Avec des essais de: Colette Boucher, Beatriz Calvo Martín, Roseanna Dufault, Kumari Issur, Lucie Lequin, Scott W. Lyngaas, Carmen Mata Barreiro, Françoise Naudillon, Lucienne J. Serrano, Thomas C. Spear, Joëlle Vitiello et Heather A. West.</item>
+      </list>
+      <list subtype="articles séléctionnés">
+        <item>Adamowicz-Hariasz, Maria. « Le Trauma et le témoignage dans Le Livre d’Emma de Marie-Célie Agnant ». Symposium 64.3 (2010): 149-68.</item>
+      </list>
+      <list subtype="romans">
+        <item>La Dot de Sara. Montréal: Les Éditions du Remue-ménage, 1995; 2000; nouvelle co-édition avec une préface de Colette Boucher: Montréal: Remue-ménage/ Mémoire d’encrier, 2010.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Le Silence comme le sang (cinq nouvelles). Montréal: Remue-ménage, 1997.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Balafres. Montréal: CIDIHCA, 1994.</item>
+      </list>
+      <list subtype="romans pour la jeunesse">
+        <item>Alexis d’Haïti. Montréal: Hurtubise HMH, 1999.</item>
+      </list>
+      <list subtype="contes">
+        <item>L’oranger magique: conte d’Haïti. Illustrations de Barroux. Montréal: 400 Coups, 2003.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Poussière de légendes » (poème). LittéRéalité 10.1 (Printemps/Été 1998): 159-161.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1995     Finaliste, prix littéraire Desjardins, pour La Dot de Sara.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Ghinelli, Paola. Archipels littéraires. Entretiens avec Chamoiseau, Condé, Confiant, Brival, Maximin, Laferrière, Pineau, Dalembert, Agnant. Montréal: Mémoire d’encrier, 2005: 141-149.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Marie_Celie_Agnant_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://ile-en-ile.org/marie-celie-agnant-noel/">Noël</item>
+      <item ref="http://www.editionshurtubise.com/auteur/112.html">Éditions Hurtubise</item>
+      <item ref="http://pages.infinit.net/douyon/">Entre éclipses et lueurs : femme poto-mitan</item>
+      <item ref="http://pages.infinit.net/douyon/">Entre éclipses et lueurs : femme poto-mitan</item>
+      <item ref="http://www.lesvoixdelapoesie.com/poemes/poeme-de-ma-mere-0">Poème de ma mère</item>
+      <item ref="http://tusaaji.journals.yorku.ca/index.php/tusaaji/article/view/35296/31996">Un Regard assassin</item>
+      <item ref="http://sodep-blogue.equisoft.com/files/2014/03/Relations_Sofialorene.pdf">Sofialorène, si loin de la délivrance</item>
+      <item ref="http://www.haiti-progres.com/">Haïti-Progrès</item>
+      <item ref="http://www.haiti-progres.com/2000/sm000308/Xactuali.htm">8 Mars 2000: Date symbole et témoin</item>
+      <item ref="http://www.haiti-progres.com/2000/sm000229/actual.htm">1991-2000: Un coup d’État en progression</item>
+      <item ref="http://dx.doi.org/10.1080/00397709.2010.502487">Le trauma et le témoignage dans Le Livre d’Emma de Marie-Célie Agnant</item>
+      <item ref="http://www.erudit.org/revue/ethno/2005/v27/n1/014027ar.html">Québec-Haïti. Littérature transculturelle et souffle d’oralité; Une entrevue avec Marie-Célie Agnant</item>
+      <item ref="http://www.ediq.ulaval.ca/fileadmin/ediq/fichiers/Publication/Ediqscope/Ediqscope_2012/Ediscope__2012__No_4__Colette_Boucher__VF_web.pdf">Médiation culturelle et interculturalité. Des lectrices de Marie-Célie Agnant se racontent</item>
+      <item ref="http://www.ediq.ulaval.ca/fileadmin/ediq/fichiers/Publication/CE_2014_Vol_2_No_1/15._Boucher.pdf">Médiation culturelle et transmission intergénérationnelle. Des lectrices de Marie-Célie Agnant se racontent</item>
+      <item ref="http://id.erudit.org/revue/etudfr/2005/v41/n2/011379ar.html">Le continent noir des corps: Représentation du corps féminin chez Marie-Célie Agnant et Gisèle Pineau</item>
+      <item ref="http://www.erudit.org/revue/etudfr/2004/v40/n1/008475ar.html">Récits des origines chez quelques écrivaines de la francophonie</item>
+      <item ref="http://franc-parler.jp/spip.php?article609">Marie-Célie Agnant, écrivaine des deux Amériques</item>
+      <item ref="http://www.grioo.com/pinfo14635.html">Rencontre avec Marie-Célie Agnant</item>
+    </list>
+  </div>
+</TEI>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Peter_Frisch_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Peter_Frisch" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Peter Frisch</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Peter_Frisch_fiche_autorite">
+  <div n="1" xml:id="Peter_Frisch_fiche">
     <person ana="Peter_Frisch" sex="na">
       <persName>Peter Frisch</persName>
       <langKnowledge>
@@ -32,4 +32,27 @@
       <occupation source="spla"> Editeur/trice</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Peter_Frisch_bio">
+    <text ref="http://www.spla.pro/fiche.personne.peter-frisch.49122.html" xml:id="Peter_Frisch_bio_auteur_spla">
+      <p>
+        	Peter Frisch est co-propriétaire de 
+        <placeName ana="Maison">Maison</placeName>
+         Henri-
+        <placeName ana="Deschamps">Deschamps</placeName>
+        , la 
+        <placeName ana="Maison">Maison</placeName>
+         d'impression et de publication de livres scolaires la plus importante d'
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il est également co-fondateur de la Fondation Lucienne 
+        <placeName ana="Deschamps">Deschamps</placeName>
+        .	Il est aussi vice-président de l'Association de Généalogie d'
+        <placeName ana="Haiti">Haïti</placeName>
+         et a publié un ouvrage sur la généalogie de la famille Elie en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Peter_Frisch_biblio"/>
+  <div n="4" xml:id="Peter_Frisch_web"/>
 </TEI>

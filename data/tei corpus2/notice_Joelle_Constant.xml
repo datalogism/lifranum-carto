@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Joelle_Constant_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Joelle_Constant" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Joëlle Constant</title>
-        <author>Inès Burri</author>
-        <author>Anaïs Chambat</author>
-        <author>Célian Ringwald</author>
+        <title>Notice de JoÃ«lle Constant</title>
+        <author>InÃ¨s Burri</author>
+        <author>AnaÃ¯s Chambat</author>
+        <author>CÃ©lian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Université Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Université Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>UniversitÃ© Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>UniversitÃ© Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Données issues de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autoritÃ©s et de rÃ©pÃ©toire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Joelle_Constant_fiche_autorite">
+  <div n="1" xml:id="Joelle_Constant_fiche">
     <person ana="Joelle_Constant" sex="na">
-      <persName>Joëlle Constant</persName>
+      <persName>JoÃ«lle Constant</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -29,7 +29,10 @@
         </placeName>
       </residence>
       <occupation source="spla">Dramaturge</occupation>
-      <occupation source="spla"> Poète</occupation>
+      <occupation source="spla"> PoÃ¨te</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Joelle_Constant_bio"/>
+  <div n="3" xml:id="Joelle_Constant_biblio"/>
+  <div n="4" xml:id="Joelle_Constant_web"/>
 </TEI>

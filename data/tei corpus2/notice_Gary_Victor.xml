@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gary_Victor" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Gary Victor</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Gary_Victor_fiche">
+    <person ana="Gary_Victor" sex="na">
+      <persName>Gary Victor</persName>
+      <idno type="BNF">
+        cb13517818m#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb13517818m#about"/>
+      </idno>
+      <idno type="VIAF">
+        6109517
+        <g ref="http://viaf.org/viaf/6109517"/>
+      </idno>
+      <idno type="VIAF">
+        Gary_Victor
+        <g ref="http://fr.dbpedia.org/resource/Gary_Victor"/>
+      </idno>
+      <birth source="viaf">
+        <date>1958-07-09</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
+        </placeName>
+      </residence>
+      <occupation source="viaf">television writers</occupation>
+      <occupation source="viaf">screenwriters</occupation>
+      <occupation source="viaf">radio writers</occupation>
+      <occupation source="viaf">novelists</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Trier_Peter">
+          <persName>Trier Peter</persName>
+        </person>
+        <person ana="Litradukt_Literatureditionen">
+          <persName>litradukt Literatureditionen</persName>
+        </person>
+        <person ana="Edwidge_Alfonce_Marc">
+          <persName>Edwidge Alfonce Marc</persName>
+        </person>
+        <person ana="Mabanckou_Alain">
+          <persName>Mabanckou Alain</persName>
+        </person>
+        <person ana="ZePhyr_Brunatche">
+          <persName>Zéphyr Brunatche</persName>
+        </person>
+        <person ana="Vents_D_Ailleurs">
+          <persName>Vents d'ailleurs</persName>
+        </person>
+        <person ana="Rezeau_Marie_Florance">
+          <persName>Rezeau Marie-Florance</persName>
+        </person>
+        <person ana="Lefevre_Ricardo">
+          <persName>Lefevre Ricardo</persName>
+        </person>
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="Antonin_Arnold">
+          <persName>Antonin Arnold</persName>
+        </person>
+        <person ana="Silva_Francisco_Silva">
+          <persName>Silva Francisco Silva</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Gary_Victor_bio">
+    <text hand="Yves Chemla" ref="http://ile-en-ile.org/victor_gary/" xml:id="Gary_Victor_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         est né le 9 juillet 1958 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Agronome de formation, son métier lui permet de découvrir et de décrire la campagne 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . De 1976 à 1983, 
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         publie des nouvelles dans le 
+        <placeName ana="Journal">Journal</placeName>
+         d’état, Le Nouveau Monde et, par la suite, dans le quotidien Le Nouvelliste, où il est chroniqueur de 1983 à 1990 où il publie plus d’une centaine d’articles sur la culture, la politique et la société. En 2000, Victor s’est lancé dans l’écriture pour la jeunesse avec sa série « Djamina » parue dans Le Petit Nouvelliste.
+      </p>
+      <p>
+        Victor a publié neuf recueils de nouvelles. Son style incisif met en scène différents aspects de la vie sociale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , justement évoquée par des personnages typiques (
+        <persName ana="Albert_Buron">Albert Buron</persName>
+         ou Profil d’un homme d’une élite, 1988, ou bien 
+        <persName ana="Sonson_Pipirit">Sonson Pipirit</persName>
+         ou Profil d’un homme du peuple, 1989), personnages qui deviennent des types de la réalité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         est l’auteur de romans d’un style puissant marqué par le souci de la description précise et évocatrice qui engage l’écriture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dans de nouvelles perspectives, renouvelant notamment le genre de la 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Il met en scène des personnages qui par leur dérision et leur distance ironique portent un regard désabusé sur l’état de la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et en particulier sur ses conflits les plus désespérants. Dans Clair de Manbo (1990), À l’Angle des rues parallèles (2000), Le Diable dans un thé à la citronelle (1998) ainsi que dans cette extraordinaire traversée des siècles, des mythes et des sociétés que trace La Piste des Sortillèges (1996, repris dans une édition française, avec un glossaire complet, chez 
+        <persName ana="Vents_D_Ailleurs">Vents d’Ailleurs</persName>
+         en 2002), 
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         explore de façon méticuleuse l’articulation entre la folie personnelle et les délires collectifs sociaux, sur fond de démission et d’irresponsabilité programmée. Certes, on a pu qualifier ses romans d’exploration de la décomposition, de la violence criminelle infectée par la gangrène et la corruption généralisée. Mais il dément aussi cette qualification: La Piste des Sortilèges témoigne ainsi d’une quête initiatique marquée par l’amitié d’un homme pour un autre qu’il considère comme un Juste parmi les hommes. Comme si au sein de la décomposition toujours en progrès, il demeurait quand même une infime lueur, une infime chance pour sortir de l’enfermement. Mais c’est aussi en vue de découvrir et de mettre en pleine lumière des continents intérieurs parfois inquiétants. C’est du plus profond de l’imaginaire des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         que les livres de 
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         interrogent cette société violente et qui ne parvient pas à se sortir d’une inquiétude venue de très loin.
+      </p>
+      <p>
+        Victor a travaillé comme fonctionnaire entre autres au Ministère de la Planification ; 
+        <persName ana="Directeur_General">
+          <placeName ana="Directeur">Directeur</placeName>
+           Général
+        </persName>
+         du 
+        <placeName ana="Journal">Journal</placeName>
+         L’Union en 1990 ; technicien au Conseil Électoral Provisoire en 1987, 1990 et 1995, et 
+        <persName ana="Directeur_General">
+          <placeName ana="Directeur">Directeur</placeName>
+           Général
+        </persName>
+         au Ministère de la Culture de 
+        <placeName ana="Mars">Mars</placeName>
+         1991 à septembre 1991. Il a été aussi Secrétaire Général du Sénat de 
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
+         de 1996 à 2000.
+      </p>
+      <p>
+        Il a écrit également pour la radio (e.g., Radio-
+        <placeName ana="Metropole">Métropole</placeName>
+        ), la télévision, le cinéma et le théâtre. De la série télévisée « 
+        <placeName ana="Piwouli">Piwouli</placeName>
+         », produite sur Télé-Max (1999-2000), Victor a tiré une pièce, 
+        <placeName ana="Piwouli">Piwouli</placeName>
+         et le Zenglendo qui a été adaptée par le Petit Conservatoire de 
+        <persName ana="Daniel_Marcelin">Daniel Marcelin</persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 2001 et dont un film du même titre a été réalisé par 
+        <persName ana="Arnold_Anthonin">Arnold Anthonin</persName>
+         en 2002. D’autres pièces de Victor ont également été montées par 
+        <persName ana="Daniel_Marcelin">Daniel Marcelin</persName>
+         et jouées à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        : Anastaste en 2001 et Nuit publique en 2003.
+      </p>
+      <p>
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         est l’un des écrivains les plus lus à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Notre site Île en île propose des extraits de La piste des sortilèges et du Cercle des époux fidèles lus par l’auteur.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Gary_Victor_biblio">
+    <div ref="http://ile-en-ile.org/victor_gary/" xml:id="Gary_Victor_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« The Finger ». Nicole Ball, trad. Haiti Noir. Ed. Edwidge Danticat. New York: Akashic, 2011: 42-49.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Der Blutchor. (La chorale de sang). Trad. Peter Trier. Trier (Trèves, Allemagne): Litradukt, 2007.</item>
+      </list>
+      <list subtype="romans">
+        <item>Clair de Manbo. Port-au-Prince: Deschamps, 1990 ; La Roque-d’Anthéron (France): Vents d’Ailleurs, 2007.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Symphonie pour demain. Port-au-Prince: Fardin, 1981.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« La page blanche de la colonisation ! ». Dernières nouvelles du colonialisme (collectif). La Roque d’Anthéron: Vents d’ailleurs, 2006: 229-238.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Le jour où l’on vola ma femme, pièce jouée à Port-au-Prince en 2001.</item>
+      </list>
+      <list subtype="conte / jeunesse">
+        <item>L’aventure de Kibou le vèvè. Port-au-Prince: C3 Éditions, 2017.</item>
+      </list>
+      <list subtype="direction d’ouvrages">
+        <item>Max ! Max ! Max ! Port-au-Prince: C3 Éditions, 2016.</item>
+      </list>
+      <list subtype="traduction">
+        <item>Ti Prens lan, par Antoine de Saint-Exupéry. Port-au-Prince: La Direction Nationale du Livre, 2010; Port-au-Prince: C3 Éditions, 2018.</item>
+      </list>
+      <list subtype="texte mis en musique">
+        <item>« Zarenyen », texte de Gary Victor mis en musique sur le disque Eta’n Sinik par Wooly Saint Louis Jean, 2011.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2001     Chevalier de l’Ordre National du Mérite de la République Française, pour son oeuvre en langue française.</item>
+      </list>
+      <list subtype="sur l’oeuvre de gary victor">
+        <item>Bellefleur, Pierre Maxwell. « La nouvelle haïtienne – témoin d’une époque ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 259-269.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Gary_Victor_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/gary-victor-la-ballade-volee-du-rapeur/">La ballade volée du rapeur</item>
+      <item ref="http://ile-en-ile.org/gary-victor-le-cercle-des-epoux-fideles/">Le cercle des époux fidèles</item>
+      <item ref="http://ile-en-ile.org/gary-victor-extraits-dun-octobre-delyaniz-et-clair-de-manbo/">Gary Victor lit « Le Voyage »</item>
+      <item ref="http://ile-en-ile.org/gary-victor-5-questions-pour-ile-en-ile/">Gary Victor, 5 Questions pour Île en île</item>
+      <item ref="http://memoiredencrier.com/gary-victor/">Mémoire d’encrier</item>
+      <item ref="https://videostreaming.gc.cuny.edu/videos/video/361/"> </item>
+      <item ref="http://brock.scholarsportal.info/journals/voixplurielles/article/view/664">Haïti : les pouvoirs de l’art dans Le Sang et la Mer de Gary Victor et La Belle Amour humaine de Lyonel Trouillot</item>
+      <item ref="http://web.archive.org/web/20110723133146/http://www.garyvictor.net/">GaryVictor.net</item>
+      <item ref="http://web.archive.org/web/20060505191639/www.haitiglobalvillage.com/sd-gv-lbv/default.htm">Le Buron virtuel</item>
+      <item ref="https://www.erudit.org/fr/revues/etudfr/2016-v52-n1-etudfr02402/1035544ar/">Paternités sans frontières dans quelques romans haïtiens contemporains</item>
+      <item ref="https://www.bibliothequedesameriques.com/resources?author_keyword=Gary+Victor">L’oeuvre de Gary Victor dans la Bibliothèque des Amériques</item>
+      <item ref="http://lenouvelliste.com/">Le Nouvelliste</item>
+      <item ref="https://web.archive.org/web/20070810050944/http://www.fl.ulaval.ca/cuentos/victor.htm">La Pipe de Sansou</item>
+    </list>
+  </div>
+</TEI>

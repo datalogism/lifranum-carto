@@ -1,25 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Odette_Roy_Fombrun_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Odette_Roy_Fombrun" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Odette Roy Fombrun</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Odette_Roy_Fombrun_fiche_autorite">
+  <div n="1" xml:id="Odette_Roy_Fombrun_fiche">
     <person ana="Odette_Roy_Fombrun" sex="na">
       <persName>Odette Roy Fombrun</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Odette_Roy_Fombrun_bio">
+    <text ref="http://ile-en-ile.org/fombrun/" xml:id="Odette_Roy_Fombrun_bio_auteur_ile_en_ile">
+      <p>
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , née à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 13 juin 1917, 
+        <persName ana="Odette_Roy_Fombrun">Odette Roy Fombrun</persName>
+         est diplômée de l’École Normale d’Institutrices (1935). Elle a suivi des cours au Nursery Training School de 
+        <placeName ana="Boston">Boston</placeName>
+         (1945). Elle fonde la première école préscolaire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         en 1946. Durant son séjour à 
+        <placeName ana="Cuba">Cuba</placeName>
+         (1953), elle suit des cours d’arrangements floraux, et ouvre à son retour au pays le premier shop de fleurs : Tabou, fleurs et parfums. Puis, elle retourne à ses amours : l’éducation. Elle publie des études sur l’Éducation, sur l’Histoire, de très nombreux livres scolaires, des contes et – après avoir suivi des cours offerts par l’Institut français d’
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1999 – des romans policiers.
+      </p>
+      <p>
+        Membre de la Société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         d’Histoire et de Géographie, elle publie des études dans leur revue et des travaux ayant trait à l’histoire dont : Le drapeau et les Armes de la République, L’Ayiti des Indiens, et un Résumé de Description… de Saint-
+        <persName ana="Domingue_De_Moreau_De_Saint">Domingue de Moreau de Saint</persName>
+        -Méry.
+      </p>
+      <p>
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         
+        <placeName ana="Passe">Passe</placeName>
+         vingt ans en exil sous 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , dont dix ans aux États-Unis d’
+        <placeName ana="Amerique">Amérique</placeName>
+         et dix-sept ans en 
+        <placeName ana="Afrique">Afrique</placeName>
+         avec son mari, 
+        <persName ana="Marcel_Fombrun">Marcel Fombrun</persName>
+        , représentant de l’UNICEF. De retour au pays natal à la fin du règne des Duvalier (février 1986), le couple lutte en faveur de l’Unité nationale. De tempérament combatif, 
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         défend la démocratie dans de multiples conférences, interviews et articles de journaux. Au Centre Woodrow Wilson à 
+        <placeName ana="Washington">Washington</placeName>
+         (septembre 1986), elle présente : « La Démocratie est-elle possible en 
+        <placeName ana="Haiti">Haïti </placeName>
+        ? » (texte paru dans Démocratie en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , problèmes et perspectives) et propose des structures partant de la base – mal reçues par les conservateurs, mais qui entreront en essence dans la Constitution de 1987.
+      </p>
+      <p>
+        En 
+        <placeName ana="Mars">Mars</placeName>
+         1986, s’inspirant d’une coutume paysanne, 
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         présente le Konbitisme, base d’un contrat social national unificateur. La 
+        <placeName ana="Nation">Nation</placeName>
+         doit s’unir pour combattre la misère, produire, produire de la richesse. Dans cette optique, elle analyse le livre de 
+        <persName ana="Franck_Laraque">
+          Franck 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         sur la Pauvreté (texte paru dans 
+        <placeName ana="L’Haiti">L’Haïti</placeName>
+         et l’après Duvalier) et le livre de 
+        <persName ana="Gerard_Barthelemy">Gérard Barthélemy</persName>
+        , Le pays en dehors, essai sur l’univers rural haïtien, texte paru dans Le Nouvelliste du 26 décembre 1989.
+      </p>
+      <p>Citoyenne du Monde depuis 1981, elle défend les droits de l’homme, une forme de mondialisme, propose à la communauté internationale de remplacer les interventions punitives, comme l’embargo destructeur injustement infligé à son pays, par des approches préventives et constructives. Elle propose aux pays bâtisseurs de démocraties que l’assistance internationale soit conjointe, planifiée pour être vraiment bénéfique.</p>
+      <p>
+        <persName ana="Odette_Roy_Fombrun">Odette Roy Fombrun</persName>
+         a milité toute sa vie dans le domaine de l’éducation, surtout en faveur de l’éducation civique et de l’éducation prescolaire. 
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         a été présidente du Club BPW (Business &amp; Professional Women’s Club) de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         de 1996 à 2000, présidente de la Fondation 91 et responsable de la section culturelle de Fondation 92. À ces postes, elle a lutté pour une exploitation judicieuse de tous les héritages culturels des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         – indien, africain, occidental – pour qu’
+        <placeName ana="Haiti">Haïti</placeName>
+         devienne le principal Centre culturel de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        .
+      </p>
+      <p>En politique, elle a été membre de la Commission chargée de préparer l’Avant-Projet de Constitution de 1987. À ce titre, elle a fait des propositions dont certaines sont dans la Constitution (le service civique obligatoire, la Commission de Conciliation…). Quand tout va mal, elle accepte en 1994 d’être membre du Comité national de Médiation (voir Bulletin 1, de mai 1994 : Pleins Feux sur la Crise, La Table de Concertation nationale et Note sur la Conjoncture). Elle est membre de la Ligue Féminine d’Action Sociale et participe au combat des droits du CADOR (Club de l’âge d’or). Dans l’espoir de faire passer une de ses idées, elle accepte d’être membre du Comité de soutien pour la préparation du Rapport National sur le Développement Humain du PNUD (2001).</p>
+      <p>
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         lutte pour que l’île soit appelée l’
+        <placeName ana="Ile_Quisqueya">île Quisqueya</placeName>
+        , rendant ainsi hommage aux ancêtres 
+        <placeName ana="Tainos">Taïnos</placeName>
+        , et non Hispaniola, qui évoque le génocide indien (voir le texte, avec des traductions en anglais et en espagnol, sur Île en île).
+      </p>
+      <p>
+        Pour son Konbitisme, elle reçoit un Award du 
+        <placeName ana="Boston">Boston</placeName>
+         
+        <persName ana="Konbit_Clinic">Konbit Clinic</persName>
+         (23 mai 1993). À maintes reprises, elle a été ainsi honorée pour son engagement éducatif et civique ; en 2009, elle est déclarée « Trésor national vivant » en 
+        <placeName ana="Haiti">Haïti</placeName>
+         pour son « tempérament combatif de citoyenne concernée qui ose dire tout haut le ‘Konbitisme’, l’effort national possible à travers un civisme réfléchi, responsable et enseigné à l’échelle nationale ».
+      </p>
+      <p>
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         est auteure aux Éditions 
+        <persName ana="Henri_Deschamps">
+          Henri 
+          <placeName ana="Deschamps">Deschamps</placeName>
+        </persName>
+        . Ayant terminé la série Civisme, elle a préparé deux livres de Géographie pour le primaire. Dans le premier, elle a pu inclure une carte montrant comment 
+        <placeName ana="Haiti">Haïti</placeName>
+         peut produire de la richesse en exploitant toutes les richesses naturelles, historiques et culturelles qui se gaspillent dans le monde rural (tourisme rural). Ce qui ne l’empêche pas de continuer la production de romans policiers pour la Collection jeunesse Hachette-
+        <placeName ana="Deschamps">Deschamps</placeName>
+        .
+      </p>
+      <p>
+        Elle a écrit et continue d’écrire des articles engagés. Elle a créé le FERF, 
+        <persName ana="Fonds_Educatif">Fonds Éducatif</persName>
+         Roy-Fombrun avec 3 volets : Éducation préscolaire, Éducation civique et Promotion de la Lecture via la distribution de Mini Bibliothèques. En 2007, à l’occasion de ses 90 ans, ce Fonds est devenu la FORF ou Fondation 
+        <persName ana="Odette_Roy_Fombrun">Odette Roy Fombrun</persName>
+         pour l’éducation. La FORF a un volet, qui continuera les projets du FERF et un autre, plus ambitieux, consacré aux problèmes du pays. Ainsi, la FORF prépare un module de formation de jeunes en faveur du 
+        <persName ana="Touris_Lakay">Touris Lakay</persName>
+         ou Tourisme local qui doit être une kombite des trois forces traditionnellement exclues : la paysannerie, la jeunesse et la diaspora.
+      </p>
+      <p>
+        Les invités d’honneur au 23e édition de Livres en folie en 
+        <placeName ana="Haiti">Haïti</placeName>
+         le 15 et le 16 juin 2017 sont les auteurs 
+        <persName ana="Makenzy_Orcel">Makenzy Orcel</persName>
+         et 
+        <persName ana="Odette_Roy_Fombrun">Odette Roy Fombrun</persName>
+        . Le centième anniversaire de 
+        <persName ana="Madame_Fombrun">Madame Fombrun</persName>
+         est ainsi célébré comme il se doit pour un « trésor national » haïtien.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Odette_Roy_Fombrun_biblio">
+    <div ref="http://ile-en-ile.org/fombrun/" xml:id="Odette_Roy_Fombrun_biblio_auteur_ile_en_ile">
+      <list subtype="albums de coloriage">
+        <item>Jours importants. Port-au-Prince: Deschamps, 1997, 24 pp.</item>
+      </list>
+      <list subtype="oeuvre en langue anglaise (english)">
+        <item>Ti Roro of Haiti. Charles Fombrun, trad. Nairobi: East African Literature Bureau, 1974.</item>
+      </list>
+      <list subtype="autobiographie">
+        <item>Ma vie en trois temps. Port-au-Prince: Imprimerie Henri Deschamps, 1998.</item>
+      </list>
+      <list subtype="essais historiques">
+        <item>Le Drapeau de l’indépendance. Miami: O.R. Fombrun, 1986; Port-au-Prince, Deschamps, 1986.</item>
+      </list>
+      <list subtype="essais politiques">
+        <item>Le Konbitisme dans L’Education. Port-au-Prince: O.R. Fombrun, 1986.</item>
+      </list>
+      <list subtype="analyses, articles et interventions">
+        <item>Analyse du Pays en dehors, par Gérard Barthélemy. Le Nouvelliste (26 décembre 1989).</item>
+      </list>
+      <list subtype="contes">
+        <item>Contes africains: Kenya, Ouganda, Ethiopie, Madagascar avec des illustrations d’Ejigayehu Tesfaye. Abidjan: Nouvelles Editions Africaines, 1984, 127 pp.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Ti Roro d’Haïti. Nairobi: East African Literature Bureau, 1974, 38 pp.</item>
+      </list>
+      <list subtype="textes éducatifs">
+        <item>Leçons de Morale et Instruction civique. Port-au-Prince: Deschamps 1949; 1977 (édition revue, augmentée et corrigée), 158 pp.</item>
+      </list>
+      <list subtype="oeuvre en langue créole (kreyòl)">
+        <item>Ti Koze sou Istwa Dayiti. Plaquette, 1986, 12 pp.</item>
+      </list>
+      <list subtype="scénario">
+        <item> Ni vu ni connu. Script pour film (avec son fils, Prof. Charles Fombrun) 2002.</item>
+      </list>
+      <list subtype="inédits">
+        <item>Vies d’enfants (Rwanda). Manuscrit disponible.</item>
+      </list>
+      <list subtype="conférences à l’étranger">
+        <item>Boston Konbit Clinic, 23 mai 1983.</item>
+      </list>
+      <list subtype="prix et distinctions sélectionnés">
+        <item>1981     Prix du Ministère de l’Éducation Nationale, pour Anita et Virginie de l’île Maurice.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’odette roy fombrun">
+        <item>« Odette Roy Fombun, Chita pale » (interview). L’Éducateur (Port-au-Prince) 9 (mai 1987).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Odette_Roy_Fombrun_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      <item ref="http://ile-en-ile.org/odette-roy-fombrun-renommons-lile-quisqueya-non-pas-hispaniola/">Renommons l’île: Quisqueya, non pas Hispaniola</item>
+      <item ref="http://www.forfhaiti.org/">La Fondation Odette Roy Fombrun</item>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://www.un.org/rights/micivih/rapports/part3.htm">La Constitution de 1987 et les Droits de l’Homme</item>
+      <item ref="http://www.alterpresse.org/article.php3?id_article=1811">Le désastre des Gonaïves et le konbitisme d’Odette Roy Fombrun</item>
+      <item ref="http://www.alterpresse.org/imprimer.php3?id_article=6098">Haïti : Des femmes rendent hommage à une nonagénaire</item>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=16914">Hommage à une femme exceptionnelle</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=31890">Conflits et banqueroute</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=34326">Appel au ministre de la Culture et aux Chambres législatives</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=36236">Le rapport La Touche Tréville</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=43717">À propos du drapeau – précisions</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=50912">Odette Roy-Fombrun, 90 ans, continue encore à écrire</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=58672">Discours de Odette Roy Fombrun</item>
+      <item ref="http://lenouvelliste.com/article/171617/les-publications-prix-et-distinctions-dodette-roy-fombrun">Les publications, prix et distinctions d’Odette Roy Fombrun</item>
+      <item ref="http://lenouvelliste.com/article/171551/odette-roy-fombrun-nous-sommes-aussi-des-amerindiens">Odette Roy Fombrun: Nous sommes aussi des Amérindiens</item>
+    </list>
   </div>
 </TEI>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jacqueline_Scott_Lemoine" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Jacqueline Scott-Lemoine</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Jacqueline_Scott_Lemoine_fiche">
+    <person ana="Jacqueline_Scott_Lemoine" sex="na">
+      <persName>Jacqueline Scott-Lemoine</persName>
+      <birth source="viaf">
+        <date>1923-10-28</date>
+      </birth>
+      <death source="viaf">
+        <date>2011-07-09</date>
+      </death>
+      <death source="ile_en_ile_auto">
+        <date>2011-01-09 00:00:00+00:00</date>
+      </death>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <occupation source="spla"> Acteur/trice</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <occupation source="spla"> Universitaire</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Gauthier Florence 19 Historienne_">
+          <persName>Gauthier Florence 19- historienne</persName>
+        </person>
+        <person ana="Seck_Douta">
+          <persName>Seck Douta</persName>
+        </person>
+        <person ana="Dioum_Mamadou">
+          <persName>Dioum Mamadou</persName>
+        </person>
+        <person ana="Diop_David_Ika">
+          <persName>Diop David Ika</persName>
+        </person>
+        <person ana="Sall_Amadou_Lamine">
+          <persName>Sall Amadou Lamine</persName>
+        </person>
+        <person ana="Denis_Maxence">
+          <persName>Denis Maxence</persName>
+        </person>
+        <person ana="Roy_Fombrun_Odette">
+          <persName>Roy Fombrun Odette</persName>
+        </person>
+        <person ana="Senghor_LeOpold_SeDar">
+          <persName>Senghor Léopold Sédar</persName>
+        </person>
+        <person ana="Scott_Lemoine_Jacqueline">
+          <persName>Scott-Lemoine Jacqueline</persName>
+        </person>
+        <person ana="Diop_David">
+          <persName>Diop David</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Jacqueline_Scott_Lemoine_bio">
+    <text hand="Giscard Bouchotte" ref="http://ile-en-ile.org/scott/" xml:id="Jacqueline_Scott_Lemoine_bio_auteur_ile_en_ile">
+      <p>
+        Née 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+         le 28 octobre 1923 d’un père ingénieur architecte et d’une mère institutrice à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine vit à 
+        <placeName ana="Dakar">Dakar</placeName>
+        , avec son mari, le poète 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+        . Le 10 avril 1966, jour de son arrivée au 
+        <placeName ana="Senegal">Sénégal</placeName>
+         pour le Festival mondial des arts nègres (
+        <placeName ana="Fesman">Fesman</placeName>
+        ), elle sait déjà qu’elle ne va plus quitter l’
+        <placeName ana="Afrique">Afrique</placeName>
+        , en l’occurrence, cette 
+        <placeName ana="Terre">Terre</placeName>
+         sénégalaise qui est devenue depuis la sienne. Il y a certes tout un symbolisme autour de ce voyage effectué dans un contexte qu’on n’a pas encore revu : Senghor, alors président du 
+        <placeName ana="Senegal">Sénégal</placeName>
+        , lance le Festival des arts nègres, la première fois, cette occasion unique, comme le rappelle Jacqueline, où on a vu « tous les drapeaux du monde : allumés ! tous les damnés de la 
+        <placeName ana="Terre">Terre</placeName>
+         : rédemptés ! ».
+      </p>
+      <p>
+        Après une formation classique – études au Collège du Sacré-Coeur (Filles de la Sagesse) puis au Lycée de Jeunes Filles d’
+        <placeName ana="Haiti">Haïti</placeName>
+         où elle obtient son baccalauréat – 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+         enchaîne avec l’Institut Commercial 
+        <persName ana="Maurice_Laroche">Maurice Laroche</persName>
+         et la Croix Rouge de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         avec à la clé, un diplôme de sténodactylo et un autre en puériculture et premiers soins. Sa formation de comédienne peut alors débuter au Centre d’Art Dramatique de l’Institut Français d’
+        <placeName ana="Haiti">Haïti</placeName>
+         avant de se poursuivre au Conservatoire d’Art Dramatique de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Elle y jouera plusieurs pièces, dont Negro spiritual d’
+        <persName ana="Yves_Jamiaque">Yves Jamiaque</persName>
+         et 
+        <persName ana="Antigone_D’Anouilh">Antigone d’Anouilh</persName>
+        .
+      </p>
+      <p>
+        De 1950 à 1953, on la retrouve à l’Ambassade d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+         avant de s’établir en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1956, après un court séjour à 
+        <placeName ana="New_York">New York</placeName>
+        . C’est alors que l’Ambassadeur de l’époque en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Monsieur_Charles">Monsieur Charles</persName>
+         Le Génissel, impressionné par ses émissions sur les antennes de Télé 
+        <placeName ana="Haiti">Haïti</placeName>
+         (Le Club 5), lui propose, en 1963, une bourse pour la 
+        <placeName ana="Maison">Maison</placeName>
+         de la Radio en 
+        <placeName ana="France">France</placeName>
+        . Elle y obtient un Certificat de stage de l’ORTF (Office de Radiodiffusion Télévision Française). Elle fréquente alors le tout-
+        <placeName ana="Paris">Paris</placeName>
+         culturel : des réalisateurs, des hommes de théâtre et des poètes, comme 
+        <persName ana="Louis_Aragon">Louis Aragon</persName>
+        , avant de rencontrer Jean-
+        <persName ana="Marie_Serreau">Marie Serreau</persName>
+         qui lui propose le rôle de la reine dans La tragédie du roi Christophe d’
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        . C’est le début d’une longue aventure à la fois dans la vie (elle épouse vite fait 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         au Consulat d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+         le 15 juillet 1964 et 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+         se retrouve comme premier témoin) et au théâtre où elle enchaînera plus d’une cinquantaine de rôles.
+      </p>
+      <p>
+        La Tragédie du roi Christophe est créée en 1964 par la Compagnie du Toucan en 
+        <placeName ana="Autriche">Autriche</placeName>
+        , puis fera le tour d’Europe, plusieurs villes françaises dont 
+        <placeName ana="Paris">Paris</placeName>
+         avec une série au Théâtre de l’Odéon. En 1966, elle est retenue dans la programmation du 
+        <placeName ana="Fesman">Fesman</placeName>
+         à 
+        <placeName ana="Dakar">Dakar</placeName>
+         ; la représentation a eu lieu au Théâtre Daniel 
+        <placeName ana="Sorano">Sorano</placeName>
+        . Le public n’est pas des moindres : le 
+        <persName ana="President_Senghor">président Senghor</persName>
+         en personne mais aussi l’empereur 
+        <persName ana="Haile_Selassie">Haïlé Sélassié</persName>
+        , le neveu du roi du 
+        <placeName ana="Maroc">Maroc</placeName>
+        , 
+        <persName ana="Duke_Ellington">Duke Ellington</persName>
+        , 
+        <persName ana="Josephine_Baker">Josephine Baker</persName>
+        , 
+        <persName ana="Alioune_Diop">Alioune Diop</persName>
+        , Léon-
+        <persName ana="Gontran_Damas">Gontran Damas</persName>
+        , 
+        <persName ana="James_Baldwin">James Baldwin</persName>
+        , 
+        <persName ana="Abdou_Diouf">Abdou Diouf</persName>
+        , 
+        <persName ana="Katherine_Dunham">Katherine Dunham</persName>
+        , 
+        <persName ana="Langston_Hughes">Langston Hughes</persName>
+         et bien sûr, 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        . 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine y interprète la reine puis restera pensionnaire du 
+        <placeName ana="Sorano">Sorano</placeName>
+         pendant plus de dix-huit ans.
+      </p>
+      <p>
+        À 
+        <placeName ana="Dakar">Dakar</placeName>
+        , le désormais couple de 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine et 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         (amants éternels, encore plus amoureux que le soir de la rencontre !) côtoie des compagnons de l’errance qui ne les quitteront pas, dont les poètes 
+        <persName ana="Jean_Briere">Jean Brière</persName>
+        , 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+         et Morisseau-Leroy : ces « législateurs non reconnus de l’univers », comme elle les appelle, les compatriotes qu’elle récite au détour de n’importe quelle conversation, quel que soit le sujet. Et à force, la poésie devient art de vivre, les vers remplacent les mots ordinaires. Ainsi, il arrive même qu’un extrait d’un Roumer, un 
+        <placeName ana="Philoctete">Philoctète</placeName>
+         ou un Depestre soit préféré à un proverbe, avec la même efficacité. Marquée par les romans de Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         (entres autres), 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine évoque le style élégant d’un Danticat ou loue un 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         qui peut écrire en français et en créole, avant de convenir toutefois qu’elle ne fait partie d’aucune école. Y a-t-il une autre raison d’écrire sinon qu’une réponse à sa nécessité même ?
+      </p>
+      <p>
+        Les routes qui ne promettent pas le pays de leur destination, disait 
+        <persName ana="Rene_Char">René Char</persName>
+        , sont des routes aimées. Devenue citoyenne sénégalaise en 1976, 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine revendique avec la même force sa part du 
+        <placeName ana="Senegal">Sénégal</placeName>
+         et celle d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Toute une génération – de journalistes sénégalais, de personnalités du monde des lettres et du théâtre africains – a vu le couple enseigner et vieillir ensemble. 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine est une référence telle à 
+        <placeName ana="Dakar">Dakar</placeName>
+         qu’il arrive, s’amuse-t-elle à rappeler, qu’un chauffeur de taxi vous ramène chez elle depuis l’aéroport Léopold-Sédar-Senghor, rien qu’en évoquant son nom. Le modèle du couple, amants éternels, est sans doute pour quelque chose, mais le charisme naturel de Jacqueline et sa jeunesse figée à jamais (est-ce la poésie ?) sont indéniables. Est-ce à dire qu’elle n’a pas ses moments de doute ? Sa persévérance soulève les montagnes : quand le 13 avril 1997 son fils unique décède d’un accident de voiture à 
+        <placeName ana="Paris">Paris</placeName>
+        , elle décide de poursuivre le chemin, pour elle, pour lui.
+      </p>
+      <p>
+        Pendant ses dernières années, tout en s’occupant de la rédaction de la revue Entracte, elle encadre 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         sur un atelier de recherche et de pratiques théâtrales à l’Université Cheikh Anta Diop de 
+        <placeName ana="Dakar">Dakar</placeName>
+         (UCAD). Après la radio, le théâtre (sa dernière représentation a lieu en 2006 pour les 40 ans du 
+        <placeName ana="Sorano">Sorano</placeName>
+         avec 
+        <persName ana="L’Exil_D’Alboury">L’Exil d’Alboury</persName>
+        ), 
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine publie Les Nuits de Tulussia chez Présence Africaine en 2005 et une pièce de théâtre, La ligne de crête au Nègre International en 2007. Elle se pencherait déjà sur ses 
+        <placeName ana="Memoires">Mémoires</placeName>
+         (
+        <placeName ana="Cyvadier">Cyvadier</placeName>
+        , ou 50 ans de feux de la rampe et autres souvenirs) dans laquelle elle tente de remonter le fleuve jusqu’à la source. Avec la liberté que lui confère sans doute cet exil assumé (en 45 ans, elle n’est retournée en 
+        <placeName ana="Haiti">Haïti</placeName>
+         que quatre fois), mais pas toujours évident parce qu’il faut, loin de l’odeur si précieuse des amandiers et de la citronnelle, puiser quelque part cette énergie nécessaire pour continuer à tourner les pages.
+      </p>
+      <p>
+        <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
+        -Lemoine est décédée à 
+        <placeName ana="Dakar">Dakar</placeName>
+         le 9 juillet 2011, un an et demi après son mari.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.jacqueline-scott-lemoine.5736.html" xml:id="Jacqueline_Scott_Lemoine_bio_auteur_spla">
+      <p>
+        Née en 1923 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) et décédée à 
+        <placeName ana="Dakar">Dakar</placeName>
+         (
+        <placeName ana="Senegal">Sénégal</placeName>
+        ) le 10 juillet 2011.Jacqueline Lemoine était comédienne de théâtre, de cinéma et de télévision. Elle a joué notamment dans La fête à 
+        <placeName ana="Harlem">Harlem</placeName>
+        , écrit et mis en scène par Melvin van Peebles, Les gouverneurs de la rosée de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        , mis en scène par 
+        <persName ana="Herve_Denis">Hervé Denis</persName>
+        , La tragédie du roi Christophe de Césaire, mis en scène par Jean-
+        <persName ana="Marie_Serreau">Marie Serreau</persName>
+        , Les Nègres de Jean Genet, mis en scène par Roger Blain, et dans les films Le Decaméron noir (Piero Vivarelli) et dans Amok (Souheil Ben Barka). Avec la danseuse et chorégraphe Germaine Acogny, elle a créé 
+        <placeName ana="Afrique">Afrique</placeName>
+         corps mémorable, un spectacle de danse et de poésie.Elle a joué dans de nombreuses pièces au 
+        <placeName ana="Senegal">Sénégal</placeName>
+        , où elle a vécu depuis 1966 avec son mari, le comédien, auteur et metteur en scène 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         avec lequel elle a produit pendant 12 ans l'émission La voix des poètes à la Radio-télévision du 
+        <placeName ana="Senegal">Sénégal</placeName>
+        . Elle a également été régisseur général de la programmation et de l'organisation des spectacles au Théâtre national Daniel 
+        <placeName ana="Sorano">Sorano</placeName>
+         de 
+        <placeName ana="Dakar">Dakar</placeName>
+        .Jacqueline Lemoine a été rédactrice de la revue Entracte et a encadré avec 
+        <persName ana="Lucien_Lemoine">Lucien Lemoine</persName>
+         un atelier de recherche et de pratiques théâtrales à la faculté de Lettres de l'université Cheikh Anta Diop de 
+        <placeName ana="Dakar">Dakar</placeName>
+        .A paraître : Les nuits de Thulussia, aux éditions Présence africaine, et Civadier, ou 50 ans de feux de la rampe et autres souvenirs.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jacqueline_Scott_Lemoine_biblio">
+    <div ref="http://ile-en-ile.org/scott/" xml:id="Jacqueline_Scott_Lemoine_biblio_auteur_ile_en_ile">
+      <list subtype="sur île en île">
+        <item>Prochainement en ligne sur Île en île : un dossier présentant le mari de Jacqueline Scott-Lemoine, le poète Lucien Lemoine (1923-2010).</item>
+      </list>
+      <list subtype="roman">
+        <item>Les nuits de Tulussia.Préface d’Amadou Lamine Sall. Paris: Présence Africaine, 2005.</item>
+      </list>
+      <list subtype="récit">
+        <item>Cyvadier, ou 50 ans de feux de la rampe et autres souvenirs. (à paraître).</item>
+      </list>
+      <list subtype="théâtre">
+        <item>La ligne de crête. Dakar:Le Nègre International, 2007.</item>
+      </list>
+      <list subtype="nouvelle">
+        <item>« Mérissia Ti-Sia ». L’Étrangère et douze autres nouvelles primées dans le cadre du 9e concours radiophonique de la meilleure nouvelle de langue française. Anne-Marie Niane, éd. Paris: Haitier, 1985: 51-60.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Et vint l’Anthologie, mais d’abord ». Poésie nègre et liberté : 1948-1998, cinquantenaire de l’Anthologie de la nouvelle poésie nègre et malgache de langue française de Léopold Sédar Senghor. Dakar: Fondation Léopold Sédar Senghor, 1998.</item>
+      </list>
+      <list subtype="représentations théâtrales en france">
+        <item>La Tragédie du roi Christophe  d’Aimé Césaire, mise en scène par Jean-Marie Serreau créé pour le festival de Salzbourg, 1964; au Théâtre de l’Odéon, 1965.</item>
+      </list>
+      <list subtype="représentations théâtrales au théâtre daniel sorano à dakar">
+        <item>Monsieur Pots de vin et consorts, adaptation (du Révizor de Gogol) et mise en scène de Maurice Sonar Senghor.</item>
+      </list>
+      <list subtype="café-théâtre">
+        <item>Le Mot de Cambronne de Sacha Guitry, mise en scène Lucien Lemoine.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Le Decaméron noir (Il Decamerone Nero), comédie dramatique réalisée par Piero Vivarelli. Italie, 1979, 100 min.</item>
+      </list>
+      <list subtype="prix et distinctions">
+        <item>Lion d’Honneur du Lion’s Club de Dakar.</item>
+      </list>
+      <list subtype="sur jacqueline scott-lemoine">
+        <item>Talleyrand, Daniel. « Rencontre avec Jacqueline Lemoine ». Haïti-Tribune 18 (1er quinzaine avril 2005): 1, 19</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jacqueline_Scott_Lemoine_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/jacqueline-scott-lemoine-5-questions-pour-ile-en-ile/">Jacqueline Scott-Lemoine, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/jacqueline-scott-lemoine-les-nuits-de-tulussia/">Les Nuits de Tulussia</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-rupture-et-nouvel-espace-poetique/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://www.dailymotion.com/video/x35nk5_larbre-de-la-liberte-haiti-extrait">L’Arbre de la liberté</item>
+      <item ref="http://aflit.arts.uwa.edu.au/AMINAScott_Lemoine.html">« Les Nuits de Tulussia » de Jacqueline Scott-Lemoine</item>
+      <item ref="http://www.africultures.com/index.asp?menu=affiche_article&amp;no=3297">D’Haïti au Sénégal, la remontée du fleuve</item>
+      <item ref="http://www.agendakar.com/index.php/Webzine/Interviews/Jacqueline-Lemoine-passionnement.html">Jacqueline Lemoine, passionnément !</item>
+      <item ref="http://www.walf.sn/culture/suite.php?rub=5&amp;id_art=21608">Jacqueline Scott Lemoine : La « Reine mère » tire sa révérence</item>
+      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=1304">Et vint l’anthropologie, mais d’abord…</item>
+      <item ref="http://www.rfi.fr/afrique/20110710-actrice-senegalaise-jacqueline-scott-lemoine-est-morte">L’actrice Jacqueline Scott Lemoine est décédée</item>
+      <item ref="http://www.walf.sn/culture/suite.php?rub=5&amp;id_art=73637">Décès de Mme Lemoine : Jacqueline rejoint Lucien pour l’éternité</item>
+      <item ref="http://www.africultures.com/php/index.php?nav=article&amp;no=10317">Tu nous manques déjà, Jacqueline…</item>
+      <item ref="http://www.lesoleil.sn/index.php?option=com_content&amp;view=article&amp;id=5623:deces-de-jacqueline-lemoine--le-dernier-acte-dune-grande-dame-de-la-culture-&amp;catid=78:a-la-une">Décès de Jacqueline Lemoine : Le dernier acte d’une grande dame de la culture</item>
+      <item ref="http://www.lequotidien.sn/index.php?option=com_content&amp;view=article&amp;id=929&amp;catid=41&amp;Itemid=60">Dècès de la veuve de Lucien Lemoine : Les ultimes confessions de Jacqueline</item>
+      <item ref="http://www.pressafrik.com/In-Memoriam-Jacqueline-Scott-Lemoine-une-grande-artiste-a-tire-sa-reverence_a62014.html">In Memoriam. Jacqueline Scott Lemoine, une grande artiste a tiré sa révérence</item>
+    </list>
+  </div>
+</TEI>

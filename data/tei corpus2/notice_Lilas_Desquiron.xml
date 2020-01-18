@@ -1,25 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Lilas_Desquiron_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Lilas_Desquiron" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Lilas Desquiron</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Lilas_Desquiron_fiche_autorite">
+  <div n="1" xml:id="Lilas_Desquiron_fiche">
     <person ana="Lilas_Desquiron" sex="na">
       <persName>Lilas Desquiron</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Lilas_Desquiron_bio">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/desquiron/" xml:id="Lilas_Desquiron_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Lilas_Desquiron">Lilas Desquiron</persName>
+         est née à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1946. Sa famille, quittant 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , s’installe définitivement dans la capitale deux ans après sa naissance. Ses contacts avec sa ville d’origine sont donc de l’ordre du fantasme. À part un très bref séjour chez ses cousins Sansariq dans sa petite enfance, elle n’a pas connu 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         qui, pour elle, est un pays mythique surgi de la parole volubile des Jérémiens de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         au milieu desquels elle a grandi.
+      </p>
+      <p>
+        Dans les années 1960 et 1970, 
+        <persName ana="Lilas_Desquiron">Lilas Desquiron</persName>
+         étudie l’ethnologie à 
+        <placeName ana="Bruxelles">Bruxelles</placeName>
+         et à 
+        <placeName ana="Paris">Paris</placeName>
+        . Elle se spécialise dans l’étude des religions afro-américaines. Sa thèse soutenue à l’Université Libre de 
+        <placeName ana="Bruxelles">Bruxelles</placeName>
+         est publiée en 1990 sous le titre Les Racines du Vodou.
+      </p>
+      <p>
+        Son roman Les chemins de Loco-Miroir est un texte qui mêle l’aspect quotidien du vodou (en particulier le rôle des marasa ou jumelage entre deux protagonistes de classe sociale différente) et l’histoire des vêpres de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , quand un groupe de jeunes révolutionnaires débarque à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         en 1964. Ils seront massacrés par le régime duvaliériste.
+      </p>
+      <p>
+        <persName ana="Lilas_Desquiron">Lilas Desquiron</persName>
+         est 
+        <persName ana="Ministre_De_La_Culture">Ministre de la Culture</persName>
+         en 
+        <placeName ana="Haiti">Haïti</placeName>
+         sous la présidence de Jean-
+        <persName ana="Bertrand_Aristide">Bertrand Aristide</persName>
+         (2001-2004). Elle vit actuellement en 
+        <placeName ana="France">France</placeName>
+        .
+      </p>
+      <p>
+        Un combat est au centre de sa vie d’écrivain et de femme 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         : celui que mène le peuple haïtien contre la dictature et contre toutes les formes d’exclusion et d’injustice.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Lilas_Desquiron_biblio">
+    <div ref="http://ile-en-ile.org/desquiron/" xml:id="Lilas_Desquiron_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Reflections of Loko Miwa. Trans. Robin Orr Bodkin; Intro. Marie-Agnès Sourieau. Charlottesville: University Press of Virginia, 1998.</item>
+      </list>
+      <list subtype="roman">
+        <item>Les chemins de Loco-Miroir. Paris: Stock, 1990; Montréal: Éditions Regain / Éditions Mémoires / Éditions du CIDIHCA, 1999.</item>
+      </list>
+      <list subtype="essai">
+        <item>Racines du voudou. Port-au-Prince: Editions H. Deschamps, 1990.</item>
+      </list>
+      <list subtype="sur lilas desquiron">
+        <item>Bellande-Robertson, Florence. The Marassa Concept in Lilas Desquiron’s Reflections of Loko Miwa. Dubuque: Kendall/Hunt Publishing Company, 1999.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Lilas_Desquiron_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://www2.webster.edu/~corbetre/haiti/bookreviews/desquiron.htm">Reflections of Loko Miwa</item>
+      <item ref="http://www2.webster.edu/~corbetre/haiti/bookreviews/desquiron.htm">Reflections of Loko Miwa</item>
+      <item ref="http://journals.hil.unb.ca/index.php/IFR/article/view/7704/8761">Lilas Desquiron, Reflections of Loko Miwa</item>
+      <item ref="http://www.nytimes.com/books/98/05/10/bib/980510.rv125651.html">Into the Heart of Haiti</item>
+      <item ref="http://www.haitiwebs.com/showthread.php?t=49309">Lilas Desquiron: une « diva » ou presque</item>
+    </list>
   </div>
 </TEI>

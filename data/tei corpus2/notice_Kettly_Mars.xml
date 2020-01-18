@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Kettly_Mars_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Kettly_Mars" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Kettly Mars</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Kettly_Mars_fiche_autorite">
+  <div n="1" xml:id="Kettly_Mars_fiche">
     <person ana="Kettly_Mars" sex="na">
-      <persName>
-        <surname source="bnf">Kettly</surname>
-        <forename source="bnf">Mars</forename>
-      </persName>
+      <persName>Kettly Mars</persName>
       <idno type="BNF">
         cb15014305k#about
         <g ref="http://data.bnf.fr/ark:/12148/cb15014305k#about"/>
@@ -55,6 +52,225 @@
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">novelists</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Schmutte_Ingeborg">
+          <persName>Schmutte Ingeborg</persName>
+        </person>
+        <person ana="Kaas_Marianne">
+          <persName>Kaas Marianne</persName>
+        </person>
+        <person ana="Trouillot_Evelyne">
+          <persName>Trouillot Évelyne</persName>
+        </person>
+        <person ana="Tremblay_Jennifer">
+          <persName>Tremblay Jennifer</persName>
+        </person>
+        <person ana="Litradukt_Literatureditionen">
+          <persName>litradukt Literatureditionen</persName>
+        </person>
+        <person ana="Voltaire_Marcelin_Michele">
+          <persName>Voltaire Marcelin Michèle</persName>
+        </person>
+        <person ana="Vincent_Nedjmhartine">
+          <persName>Vincent Nedjmhartine</persName>
+        </person>
+        <person ana="Victor_Gary">
+          <persName>Victor Gary</persName>
+        </person>
+        <person ana="Theard_Marie_Alice">
+          <persName>Théard Marie-Alice</persName>
+        </person>
+        <person ana="Ferandon_Max">
+          <persName>Férandon Max</persName>
+        </person>
+        <person ana="Wiener_Jacqueline">
+          <persName>Wiener Jacqueline</persName>
+        </person>
+        <person ana="PeAn_Leslie_Jean_Robert">
+          <persName>Péan Leslie Jean-Robert</persName>
+        </person>
+        <person ana="PeAn Leslie Leslie Jean Robert_J R">
+          <persName>Péan Leslie J R Leslie Jean-Robert</persName>
+        </person>
+        <person ana="Mercure_De_France">
+          <persName>Mercure de France</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Kettly_Mars_bio">
+    <text hand="Joëlle Vitiello et Thomas C. Spear" ref="http://ile-en-ile.org/mars/" xml:id="Kettly_Mars_bio_auteur_ile_en_ile">
+      <p>
+        Kettly 
+        <persName ana="Pierre_Mars">
+          Pierre 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         est née le 3 septembre 1958 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Après ses études classiques, elle reçoit une formation en administration ; depuis vingt-cinq ans, elle travaille comme assistante administrative. 
+        <placeName ana="Passionnee">Passionnée</placeName>
+         dès son plus jeune âge de lecture et de poésie, elle commence à écrire au début des années 1990.
+      </p>
+      <p>
+        C’est par la poésie que 
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         exprime ses premiers élans créateurs. Poésie de départ : tout est patience et fluidité, érotisme et passion. Elle 
+        <placeName ana="Passe">Passe</placeName>
+         ensuite à l’écriture de la nouvelle et reçoit en 1996 le premier prix du Concours Jacques-
+        <persName ana="Stephen_Alexis_De_La_Nouvelle">Stephen Alexis de la Nouvelle</persName>
+        . Cette distinction l’encourage à s’engager dans la voie littéraire; elle a écrit depuis poèmes, nouvelles et romans.
+      </p>
+      <p>
+        Poète intimiste, 
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         peint par de petites touches sensuelles les émotions que lui inspirent l’amour, la beauté de la nature, les objets du quotidien. Dans ses nouvelles, l’auteur campe avec réalisme et vivacité des tableaux une société déchirée par ses profonds antagonismes économiques et politiques. Elle tente quelques questionnements sur les droits des femmes, et montre le désarroi d’un peuple toujours en quête d’identité.
+      </p>
+      <p>Son premier roman, Kasalé (2003), entraîne le lecteur dans un voyage en pays profond et soulève le débat de l’ambivalence spirituelle d’une grande majorité du peuple haïtien en « scrutant les horizons de la modernité à partir d’états subjectifs ancestraux qui n’ont pas encore trouvé de traductions dans des dispositions mentales porteuses d’avenir ».</p>
+      <p>
+        Tout dans le roman L’heure hybride (2005) se 
+        <placeName ana="Passe">Passe</placeName>
+         en l’espace de quatre heures. À l’approche de ses 40 ans, le personnage principal du roman, Jean François Éric L’Hermite, dit Rico L’Hermite, fait un bilan de sa vie en se réveillant après une soirée particulièrement torride et mouvementée passée avec ses amis de « la gigolaille » de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , fêtards de musique, d’alcool et de sexe. L’heure hybride du titre évoque l’équivoque, l’entre-deux et le moment où la journée se transforme en crepuscule, moment de métamorphose et de réflexion pour la faune de nuit comme Rico. Bête à plaisir, sauvage, beau et charmeur, Rico est également un solitaire qui n’aime, en fait, qu’une seule femme : sa mère prostituée, simple, digne et regrettée. « Je ne sais à quel critère évaluer sa moralité, [dit-il,] mais si elle fut amorale, elle le fut avec distinction ». Comme elle et « Avec elle, le sexe et le plaisir habitaient [son] quotidien au même titre que le vent, le soleil ou la 
+        <placeName ana="Mer">Mer</placeName>
+         ». L’heure hybride est objet d’une réception mitigée en 
+        <placeName ana="Haiti">Haïti</placeName>
+         où l’un des articles critiques – qui révèle un élément clé de l’intrigue – reproche à l’auteure de trop s’identifier avec un personnage moralement « pourri ». Bien reçu en 
+        <placeName ana="France">France</placeName>
+         (
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         fait partie des auteurs invités en tournée pour le Festival Francophone en 
+        <placeName ana="France">France</placeName>
+         en 2006), L’heure hybride est un roman où l’on trouve une « douce angoisse » et une « violente tendresse ».
+      </p>
+      <p>Roman-feuilleton, Kool-Klub paraît en 2007 après avoir paru dans Ticket, le supplément hebdomadaire du quotidien haïtien, Le Nouvelliste ; la popularité du texte se renouvelle l’année suivante, avec la publication de la suite, Kool-Klub, le temps des loups.</p>
+      <p>
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         participe à de nombreuses activités culturelles de son pays. Elle travaille avec l’écrivaine 
+        <persName ana="Paulette_Poujol_Oriol">Paulette Poujol Oriol</persName>
+         à l’élaboration d’une anthologie couvrant deux siècles d’écriture féminine en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Elle est membre du jury du prix littéraire 
+        <persName ana="Henri_Deschamps">
+          Henri 
+          <placeName ana="Deschamps">Deschamps</placeName>
+        </persName>
+        .
+      </p>
+      <p>
+        En 2008, 
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         publie Fado, présenté par les Éditions Mercure comme un roman « plein de sensualité et de mélancolie, baigné d’un bout à l’autre par la belle musique portugaise, [un roman qui] offre le portrait de deux femmes écorchées par la vie et pourtant débordantes de passion ».
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.kettly-mars.7317.html" xml:id="Kettly_Mars_bio_auteur_spla">
+      <p>
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         est née le 3 septembre 1958 en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Elle a grandi dans sa ville natale, Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , où elle vit toujours. Après des études classiques, elle effectue des études professionnelles en administration.Puis, au début des années 1990, alors que la trentaine s'installe avec son lot de questionnement, elle répond par l'écriture à un besoin de plus en plus pressant de se connaître, de se comprendre et de transgresser les tabous qui atrophient la parole-femme dans sa société.Ses premiers poèmes, intimistes, reflètent un besoin à la fois d'exploration intérieure et de rencontre sans faux-semblants avec l'Autre. Elle y trouve déjà les accents qui vont donner le ton à sa parole d'écrivain. 
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         écrit ensuite des nouvelles, et l'obtention en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , en 1996, du prix Jacques-Stéphen-Alexis de la nouvelle, l'encourage à s'affirmer sur la voie de l'écriture.Née sous une dictature, évoluant dans une société profondément marquée par un lourd passé colonial, violente, 
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         écrit pour préserver ce qu'il y a d'humanité au sein même de l'incohérence. Elle écrit pour affirmer la vérité et la beauté de son héritage multiculturel, mais aussi pour en dénoncer les travers.Dotée d'une écriture incisive, percutante, 
+        <persName ana="Kettly_Mars">
+          Kettly 
+          <placeName ana="Mars">Mars</placeName>
+        </persName>
+         fait partie de cette génération d'auteurs 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         qui portent un regard fin et sans complaisance sur la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Kettly_Mars_biblio">
+    <div ref="http://ile-en-ile.org/mars/" xml:id="Kettly_Mars_biblio_auteur_ile_en_ile">
+      <list subtype="en danois">
+        <item>« Lobo » (nouvelle). Rosita (Noveller og digte fra Haiti = compilation de nouvelles haïtiennes). Trad. Ingegerd Nissen Petersen. Copenhagen: Udgivelsesdato, 2002.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Fado. Trad. Antje Tennstedt. Trier (Trèves, Allemagne): Litradukt, 2010.</item>
+      </list>
+      <list subtype="in english">
+        <item>From Kasalé (chapters 1 and 9), excerpts translated by Jeanine Herman. Bomb magazine 90 (Winter 2004-2005): 100-103.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>L’Ora ibrida.Trad. Paola Ghinelli. Milano: Epoché edizioni, 2007.</item>
+      </list>
+      <list subtype="en japonais">
+        <item>« Anna et la mer » et « Les pigeons romains » (nouvelles). Recueil de nouvelles haïtiennes. Tokyo: Kokusho-Kankokai, 2003.</item>
+      </list>
+      <list subtype="in het nederlands">
+        <item>Wrede seizoenen. Trad. Marianne Kaas. Breda: De Geus, 2011.</item>
+      </list>
+      <list subtype="romans">
+        <item>Kasalé. Port-au-Prince: Imprimeur II, 2003; La Roque d’Anthéron (France): Vents d’Ailleurs, 2007.</item>
+      </list>
+      <list subtype="romans-feuilleton">
+        <item> Kool-Klub. Port-au-Prince: L’Imprimeur II, 2007.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Un parfum d’encens. Port-au-Prince: Imprimeur II, 1999.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Feu de miel. Port-au-Prince: Imprimeur II, 1997.</item>
+      </list>
+      <list subtype="poésie parue dans des recueils">
+        <item>« Les faiseurs de rêve ». Cultura (hors série, Voyage à l’intérieur de nous-mêmes, mars 1998).</item>
+      </list>
+      <list subtype="textes et nouvelles dans des ouvrages collectifs">
+        <item>Le prince noir (extrait). La Nouvelle Revue Française 576 (janvier 2006): 186-189.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1996     Prix Jacques-Stephen Alexis de la nouvelle, pour « Soleils Contraires ».</item>
+      </list>
+      <list subtype="sur l’oeuvre de kettly mars">
+        <item>Jean-Charles, Régine Michelle. « À travers l’Atlantique noire : L’imagerie de l’eau dans les textes des femmes haïtiennes ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 163-176.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Kettly_Mars_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/kettly-p-mars-anna-et-la-mer/">Anna et la mer</item>
+      <item ref="http://ile-en-ile.org/kettly-p-mars-la-derniere-part-de-purete/">La dernière part de pureté </item>
+      <item ref="http://ile-en-ile.org/kettly-p-mars-kasale/">Kasalé</item>
+      <item ref="http://ile-en-ile.org/kettly-p-mars-5-questions-pour-ile-en-ile/">Kettly Mars, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/kettly-p-mars-le-sanglot-des-etoiles/">Le Sanglot des étoiles</item>
+      <item ref="http://www.evene.fr/livres/actualite/interview-kettly-mars-heure-hybride-francophonie-haiti-294.php">Le mensonge: sequelle du passé</item>
+      <item ref="http://www.sgdl.org/ressource/documentation-sgdl/actes-des-forums/l-ecrivain-dans-l-espace-francophone/1181-la-chasse-a-lediteur-ou-les-hasards-de-ledition">La chasse à l’éditeur ou les hasards de l’édition </item>
+    </list>
   </div>
 </TEI>

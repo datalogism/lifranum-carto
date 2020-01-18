@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Joanne_Hyppolite_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Joanne_Hyppolite" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Joanne Hyppolite</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Joanne_Hyppolite_fiche_autorite">
+  <div n="1" xml:id="Joanne_Hyppolite_fiche">
     <person ana="Joanne_Hyppolite" sex="na">
       <persName>Joanne Hyppolite</persName>
       <langKnowledge>
@@ -31,4 +31,29 @@
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Joanne_Hyppolite_bio">
+    <text ref="http://www.spla.pro/fiche.personne.joanne-hyppolite.42230.html" xml:id="Joanne_Hyppolite_bio_auteur_spla">
+      <p>
+        Joanne Hyppolite est née en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et a émigré aux États-Unis à l'âge de quatre ans. Elle grandit dans le 
+        <placeName ana="Massachusetts">Massachusetts</placeName>
+        . Elle reçoit une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en études afro-américaines à l'Université de 
+        <placeName ana="Californie">Californie</placeName>
+        . Elle découvre sa passion pour l'écriture quand elle a 12 ans. Cet amour l'incite à poursuivre une licence en 
+        <persName ana="Creation_Litteraire">Création Littéraire</persName>
+         de l'Université de 
+        <placeName ana="Pennsylvanie">Pennsylvanie</placeName>
+        . Elle publie son premier livre, « Seth et Samona » à 24 ans. Le livre raconte l'histoire de la relation entre Seth, un jeune haïtien-américain, et Samona, une jeune fille afro-américaine, tous deux vivants à Dorchester, 
+        <placeName ana="Massachusetts">Massachusetts</placeName>
+        , la ville dans laquelle l'auteur a grandi. Suite aux encouragements d'un professeur elle soumet son manuscrit à la deuxième édition du concours annuel Marguerite de Angeli parrainé par Delacorte Press. Le roman obtient la première place. Avec son premier prix - un contrat de publication – la carrière de Joanne Hyppolite est lancée. La plupart de ses livres traitent de l'identité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et afro-américaine, des défis à surmonter, des stéréotypes et des différences culturelles. 	source: http://www.everythinghaitian.com/FeaturedStories/JoanneHyppolite.aspx
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Joanne_Hyppolite_biblio"/>
+  <div n="4" xml:id="Joanne_Hyppolite_web"/>
 </TEI>

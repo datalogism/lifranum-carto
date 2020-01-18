@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Anaise_Chavenet_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Anaise_Chavenet" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Ana�se Chavenet</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Anaïse Chavenet</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Anaise_Chavenet_fiche_autorite">
+  <div n="1" xml:id="Anaise_Chavenet_fiche">
     <person ana="Anaise_Chavenet" sex="na">
-      <persName>Ana�se Chavenet</persName>
+      <persName>Anaïse Chavenet</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -32,4 +32,19 @@
       <occupation source="spla"> Distributeur/trice</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Anaise_Chavenet_bio">
+    <text ref="http://www.spla.pro/fiche.personne.anaise-chavenet.44780.html" xml:id="Anaise_Chavenet_bio_auteur_spla">
+      <p>
+        &quot;Née à l'hôpital Saint-Antoine de 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , Anaïse insiste sur le lieu exact de sa naissance. « Pour les Jérémiens, être né à l'hôpital Saint-Antoine – l'hôpital public de la ville – c'est comme une marque d'authenticité », dit-elle en soulignant que l'ancienne sénatrice Évelyne Chéron a donné la même précision en 4e de couverture de son livre-témoignage qui sera lancé à « Livres en folie ». Anaïse est de cette Grand'Anse, belle et fraîche. Après sa naissance, sa mère Neylande Numa, décédée en 2001, est repartie avec elle au 
+        <placeName ana="Panama">Panama</placeName>
+         où son père Pierre Chavenet – décédé trois ans plus tôt, en 1998 – occupait le poste de secrétaire à l'ambassade d'
+        <placeName ana="Haiti">Haïti</placeName>
+        .&quot; 	La suite sur Le Nouvelliste
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Anaise_Chavenet_biblio"/>
+  <div n="4" xml:id="Anaise_Chavenet_web"/>
 </TEI>

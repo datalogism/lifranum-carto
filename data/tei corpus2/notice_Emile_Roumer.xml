@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Emile_Roumer_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Emile_Roumer" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de �mile Roumer</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Émile Roumer</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Emile_Roumer_fiche_autorite">
+  <div n="1" xml:id="Emile_Roumer_fiche">
     <person ana="Emile_Roumer" sex="na">
-      <persName>
-        <surname source="bnf">�mile</surname>
-        <forename source="bnf">Roumer</forename>
-      </persName>
+      <persName>Émile Roumer</persName>
       <idno type="BNF">
         cb11922844k#about
         <g ref="http://data.bnf.fr/ark:/12148/cb11922844k#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/264763430"/>
       </idno>
       <idno type="VIAF">
-        �mile_Roumer
-        <g ref="http://fr.dbpedia.org/resource/�mile_Roumer"/>
+        Émile_Roumer
+        <g ref="http://fr.dbpedia.org/resource/Émile_Roumer"/>
       </idno>
       <birth source="viaf">
         <date>1903-02-05</date>
@@ -54,6 +51,225 @@
       </residence>
       <occupation source="viaf">ecrivains</occupation>
       <occupation source="viaf">authors</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Charles_Christophe">
+          <persName>Charles Christophe</persName>
+        </person>
+        <person ana="Brouard_Carl">
+          <persName>Brouard Carl</persName>
+        </person>
+        <person ana="Pompilus_Pradel_1914?_2000">
+          <persName>Pompilus Pradel 1914?-2000</persName>
+        </person>
+        <person ana="Franketienne">
+          <persName>Frankétienne</persName>
+        </person>
+        <person ana="FrankeTienne">
+          <persName>Frankétienne</persName>
+        </person>
+        <person ana="Charles_Christophe_Philippe">
+          <persName>Charles Christophe Philippe</persName>
+        </person>
+        <person ana="Berrou_Raphael">
+          <persName>Berrou Raphaël</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Emile_Roumer_bio">
+    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/roumer/" xml:id="Emile_Roumer_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         naît à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         le 5 février 1903. C’est le petit-fils d’un patriote cubain qui, ayant lutté aux côtés de 
+        <persName ana="Jose_Marti">José Marti</persName>
+        , était obligé de s’exiler en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . On peut attribuer à ses origines familiales la perspective internationaliste de son œuvre. Il s’inspire de Dante, dans Anti-Singes, pour fustiger les détracteurs du créole, et il vitupère contre l’impérialisme yankee dans 
+        <persName ana="Le_Caiman">Le Caïman</persName>
+         étoilé. Mais cette ouverture sur de vastes horizons, Roumer la doit aussi à ses voyages et à ses lectures. Les Poèmes d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et de 
+        <placeName ana="France">France</placeName>
+         sont publiés à 22 ans par un jeune homme qui achève à peine ses études à 
+        <placeName ana="Paris">Paris</placeName>
+        .
+      </p>
+      <p>
+        Tout aussi nationaliste, 
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         fera de ses écrits en vers et en prose des plaidoyers pour la langue créole et l’avènement d’une littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         en langue vernaculaire. On constate donc dans ses textes la coexistence de deux perspectives en apparence opposées : un nationalisme littéraire qui le pousse à écrire en créole et un internationalisme qui lui fait coucher de force la langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dans le lit de Proust en écrivant des sonnets à la française. C’est pour résoudre cette première contradiction que, dans Anti-Singes, il fait suivre ses poèmes de leur traduction.
+      </p>
+      <p>
+        Chrétien et écrivain engagé, Roumer est à la fois un croyant et un progressiste convaincu qui fustige les impérialistes et les exploiteurs de classe dans 
+        <persName ana="Le_Caiman">Le Caïman</persName>
+         étoilé et dans Rosaire, couronne sonnets.
+      </p>
+      <p>
+        Son admiration pour les grands maîtres de la littérature européenne, antique et moderne, n’atténue en rien sa conscience d’être nègre. Dans ses écrits, il ne se contente pas d’attaquer le racisme blanc à l’étranger ; en 
+        <placeName ana="Haiti">Haïti</placeName>
+         non plus, il ne ménage guère les mulâtres et les bovarystes. Finalement ni ses convictions religieuses ni son engagement socio-politique ne parviennent à mettre une sourdine à la sensualité et à l’érotisme dans ses vers.
+      </p>
+      <p>
+        Aux yeux du grand public, Roumer demeure l’auteur d’un seul poème, « Marabout de mon cœur », qui constitue, avec « Choucoune » d’
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+        , les deux poèmes les plus lus, récités et chantés en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Pourtant, l’œuvre de Roumer est considérable. De son vivant il publie trois recueils de poésies : Poèmes d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et de 
+        <placeName ana="France">France</placeName>
+         (1925), 
+        <persName ana="Le_Caiman">Le Caïman</persName>
+         étoilé (1963) et Rosaire, couronne sonnets (1964). Il laisse également de nombreux inédits, dont Coucourouge (1955-1956) et Anti-Singes (1967) et de nombreux textes en vers et en prose publiés dans les revues et les journaux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         pendant plus d’un demi siècle.
+      </p>
+      <p>
+        Un texte de Roumer est un tissu de paradoxes. Si, dans la langue diglotte qu’il affectionne, Roumer parvient à susciter tant d’intérêt et de plaisir, c’est grâce au ton satirique et polémique de son œuvre et à son style qui capte et traduit la réalité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         avec force, humour et précision :
+      </p>
+      <p>
+        Morum immanitate vastissimas vincit
+
+        <placeName ana="Beluas">Beluas</placeName>
+        …
+m’foute li oun coute Cicéron.
+      </p>
+      <p>
+        Tout en ayant l’air de se vanter à la manière d’
+        <persName ana="Eliezer_Pitite">Éliezer Pitite</persName>
+        -Caille (de 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+        ), Roumer choisit ses traits d’ironie. Il joue sur l’intertexte de la langue créole et sur la zoopoétique de l’imaginaire haïtien. Prenons par exemple l’image du singe (Anti-Singes). Il n’est pire injure en créole que de traiter quelqu’un de « 
+        <placeName ana="Macaque">Macaque</placeName>
+         salé ». Mais pourquoi le 
+        <placeName ana="Macaque">Macaque</placeName>
+         salé serait-il plus ridicule que le 
+        <placeName ana="Macaque">Macaque</placeName>
+         non-salé ? Sans doute parce que le « requin doux » des rondes enfantines est censé être inoffensif contrairement au requin qui n’est pas dous pase siro. L’image du 
+        <placeName ana="Macaque">Macaque</placeName>
+         a d’ailleurs connu son heure de gloire et passera peut-être à l’Histoire grâce à la chanson « ke makak la » que le peuple chantait à la chute de Jean-
+        <persName ana="Claude_Duvalier">Claude Duvalier</persName>
+        , se réjouissant que l’on ait coupé la queue du « 
+        <placeName ana="Macaque">Macaque</placeName>
+         » (célébrant symboliquement le fait d’avoir brisé les coco-macaques avec lesquels les Tontons-macoutes matraquaient les citoyens).
+      </p>
+      <p>
+        Même si Roumer se donne la caution de Dante Alighieri pour traiter de singes les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         qui dénigrent le créole, on voit qu’il file une métaphore bien ancrée dans la tradition populaire. Et ce n’est là qu’un exemple d’image empruntée à une source étrangère qui, chez lui, est développée dans la logique de l’imaginaire haïtien.
+      </p>
+      <p>
+        Par les traductions françaises qu’il donne de ses poèmes créoles, Roumer traduit les mots du créole au français (aroyo devient enragé) ou, à l’inverse, il insère un mot français dans une phrase en créole, créolisant ainsi ce mot. Par contre, dans « Marabout de mon cœur » – un poème en français – il insère des mots créoles, et par conséquent les francise. Ce procédé de vases communicants entre mots, langues et références culturelles nous fait comprendre que, pour Roumer, le meilleur moyen d’universaliser son propos, c’est d’en faire une traduction, elle-même traduisible. Ce procédé est confirmé par la traduction de « Marabout de mon cœur » faite par le poète brésilien 
+        <persName ana="Haroldo_De_Campos">Haroldo de Campos</persName>
+         qui rend en portugais les réalités et images communes aux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et aux Brésiliens.
+      </p>
+      <p>
+        Comme Pétrarque et les poètes de la Renaissance comme 
+        <persName ana="Du_Bellay">Du Bellay</persName>
+        , 
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         compose des sonnets, faisant couler une inspiration créole dans une forme classique. Vers 1950, il était courant d’imiter en créole des modèles étrangers. Ainsi, 
+        <persName ana="Franck_Fouche">Franck Fouché</persName>
+         donnait des traductions en créole de 
+        <placeName ana="Lorca">Lorca</placeName>
+         et, en 1953, 
+        <persName ana="Felix_Morisseau">Félix Morisseau</persName>
+        -Leroy faisait jouer au Théâtre des Nations à 
+        <placeName ana="Paris">Paris</placeName>
+         son adaptation en créole d’
+        <persName ana="Antigone_De_Sophocle">Antigone de Sophocle</persName>
+        . Comme eux, Roumer rêvait de traduire en créole 
+        <persName ana="Othello_De_Shakespeare">Othello de Shakespeare</persName>
+        . Dans sa « Lettre à Wallace Fowlie », qu’on peut tenir pour son Art poétique, Roumer nous parle de cette traduction rêvée :
+      </p>
+      <p>Créole, cé oun langue riche et non méli-mélo
+Aussi m’ta vlé connin pour m’traduire Othello
+Meilleur styliste anglé qui traité prosodie.
+Francé, pauvre en accents, pour obvier maladie
+Besoin rimes ac oun compte syllabes pour extropier ;
+Langue anti-poétique, ce oun bête à mille pieds.
+Même ac lumière coucouille, ver-luisant ou lampyre
+Foc m’rende en créole, vers magique à Shakespeare.</p>
+      <p>Dans cette lettre, Roumer donne également ses raisons d’écrire en créole et précise son idéal d’écriture :</p>
+      <p>
+        Aïe, m’ap écri poëmes et carnets sou carnets !…
+Lan langue 
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         quand m’orfévré sonnets,
+Qui moune pour comprendre ça lan mitan barbarie
+Intellectuels qu’ap vive com fauves lan ménagerie ?
+Oun francé la chienlit, zott ap gargariser
+Quand cé créole yo prend pou mander oun baiser.
+À la tracas, lors moune obligé veiller bouche
+Pour le pour la, pas baille idiots, figure fausse couche.
+Zott coller à francé, rémoras sou requins
+Sans différence possible entre coquin et faquin.
+Langue créole écarté, cé triomphe insanie
+Littérature tournin en décalcomanie.
+      </p>
+      <p>
+        Le mot « décalcomanie » prend ici un double sens : décalquer, signifiant un dessin imitant un modèle sans imagination et -manie, là où la servilité s’apparente à la folie. Voilà comment Roumer dénonce l’alié
+        <placeName ana="Nation">Nation</placeName>
+         décrite par 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         comme un bovarysme collectif. En ce sens 
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         précède des auteurs comme 
+        <persName ana="Cheikh_Hamidou_Kane">Cheikh Hamidou Kane</persName>
+         (L’Aventure ambiguë) comme il prolonge l’expérience des écrivains du 
+        <persName ana="Harlem_Renaissance">
+          <placeName ana="Harlem">Harlem</placeName>
+           Renaissance
+        </persName>
+         et des poètes de la 
+        <placeName ana="Negritude">Négritude</placeName>
+        . Il reprend, continue et mène à sa façon un combat séculaire dans le verbe.
+      </p>
+      <p>
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         meurt à 
+        <placeName ana="Francfort">Francfort</placeName>
+         le 6 avril 1988 ; son corps est transporté à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         où auront lieu ses funérailles.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Emile_Roumer_biblio">
+    <div ref="http://ile-en-ile.org/roumer/" xml:id="Emile_Roumer_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Poèmes d’Haïti et de France. Paris: Éditions de La Revue Mondiale, 1925; Port-au-Prince: Panorama, 1972.</item>
+      </list>
+      <list subtype="essai">
+        <item>Le Caïman étoile. Port-au-Prince: Panorama, 1961.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Marabout de mon cœur », poème d’Émile Roumer dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’émile roumer">
+        <item>Berrou, F. Raphaël et Pradel Pompilius. Deux poètes indigénistes: Carl Brouard et Émile Roumer. Port-au-Prince: Editions Caraïbes, 1974.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Emile_Roumer_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/josaphat-large-presentation-emile-roumer/">Émile Roumer</item>
+      <item ref="http://ile-en-ile.org/emile-roumer-marabout-de-mon-coeur-desespoir/">Marabout de mon cœur</item>
+      <item ref="https://repository.duke.edu/dc/radiohaiti/RL10059-CS-0004_01">Entèvyou Emile Roumer, ekriven</item>
+      <item ref="https://repository.duke.edu/dc/radiohaiti/RL10059-RR-0033_01">Émile Roumer sou lang kreyòl la</item>
+      <item ref="http://www.tanbou.com/2005/PolemiqueEmileRoumer.htm">Polémique sur Émile Roumer</item>
+    </list>
   </div>
 </TEI>

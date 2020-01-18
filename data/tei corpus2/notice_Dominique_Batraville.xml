@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Dominique_Batraville_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Dominique_Batraville" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Dominique Batraville</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Dominique_Batraville_fiche_autorite">
+  <div n="1" xml:id="Dominique_Batraville_fiche">
     <person ana="Dominique_Batraville" sex="na">
-      <persName>
-        <surname source="bnf">Dominique</surname>
-        <forename source="bnf">Batraville</forename>
-      </persName>
+      <persName>Dominique Batraville</persName>
       <idno type="BNF">
         cb145697645#about
         <g ref="http://data.bnf.fr/ark:/12148/cb145697645#about"/>
@@ -49,6 +46,180 @@
       <occupation source="viaf">journalists</occupation>
       <occupation source="viaf">comedians</occupation>
       <occupation source="viaf">authors black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Mesadieu_Anne_Louise">
+          <persName>Mesadieu Anne-Louise</persName>
+        </person>
+        <person ana="Delorme_Verlus">
+          <persName>Delorme Verlus</persName>
+        </person>
+        <person ana="Najman_Charles">
+          <persName>Najman Charles</persName>
+        </person>
+        <person ana="Pauvros_Jean_FrancOis">
+          <persName>Pauvros Jean-François</persName>
+        </person>
+        <person ana="ETang Gerry_L">
+          <persName>L'Étang Gerry</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Dominique_Batraville_bio">
+    <text hand="Giscard Bouchotte" ref="http://ile-en-ile.org/batraville/" xml:id="Dominique_Batraville_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Frantz_Dominique_Batraville">Frantz Dominique Batraville</persName>
+         est né le 20 février 1962 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et emmené le même jour à l’Arcahaie, la ville natale de sa mère 
+        <persName ana="Denise_Elysee">Denise Élysée</persName>
+        , descendante d’émigrés protestants français. Le jeune Batraville avait l’habitude de passer ses vacances d’été à Saint-Marc, chez son père 
+        <persName ana="Louis_Pradel_Batraville">Louis Pradel Batraville</persName>
+        , médecin magnétiseur.
+      </p>
+      <p>
+        Après des études à l’Université Libre de 
+        <placeName ana="Bruxelles">Bruxelles</placeName>
+         et à l’Université de 
+        <placeName ana="Lille">Lille</placeName>
+         en 
+        <placeName ana="France">France</placeName>
+        , il retourne en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en juillet 1986 à la chute de Jean-
+        <persName ana="Claude_Duvalier">Claude Duvalier</persName>
+        .
+      </p>
+      <p>
+        Poète, nouvelliste, dramaturge et comédien, 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         partage son temps entre la marche, le taoisme et les prières égyptiennes. Il est surtout connu pour son travail de journaliste et de critique d’art.
+      </p>
+      <p>
+        Il rejoint l’équipe du quotidien centenaire haïtien Le Nouvelliste en 1988 comme critique. En freelance, Batraville collabore également pour d’autres services de presse écrite et audiovisuelle, notammant à HPN (
+        <placeName ana="Haiti">Haiti</placeName>
+         Press Network). Depuis 2003, il anime sa chronique « À Haute voix » sur Mélodie FM de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+      </p>
+      <p>
+        Son œuvre est assez variée : de recueils de poésie aux contes pour enfants en passant par une nouvelle inédite, « 
+        <persName ana="Potre_Van">Potre van</persName>
+         lan sèvolan 
+        <placeName ana="Lakansyel">Lakansyèl</placeName>
+         », récompensée par le Prix Sony Rupaire en 
+        <placeName ana="Martinique">Martinique</placeName>
+         en 1997. Quelques textes comme Kantik devanjou  ont été traduits en espagnol, en anglais et en portugais.
+      </p>
+      <p>
+        Au printemps 2014, Batravaille publie L’ange de charbon aux Édtions 
+        <placeName ana="Zulma">Zulma</placeName>
+        , qui présentent le roman comme une « extravagante synthèse d’horreur au quotidien et d’imaginaire cosmique [qui] traduit à merveille l’intériorité vécue d’un artiste pris dans l’œil du cyclone, [et] qui en ressort comme ivre mort dans un quartier fantôme habité de belles de nuit ».
+      </p>
+      <p>
+        Parallèlement à son travail de journaliste de 
+        <placeName ana="La_Presse">La Presse</placeName>
+         écrite et d’écrivain, 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         a participé à une dizaine de films belges, français, 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et suisses. Dans 
+        <persName ana="Royal_Bonbon">Royal Bonbon</persName>
+          de 
+        <persName ana="Charles_Najman">Charles Najman</persName>
+         (Prix Jean Vigo 2002), par exemple, il joue le rôle principal du roi Chacha. On trouve le comédien également dans L’évangile du cochon créole  de Michelange Quay (sélectionné à 
+        <placeName ana="Cannes">Cannes</placeName>
+         en 2004), La triste fin de Blaise St Christophe  de 
+        <persName ana="Marc_Barrat">Marc Barrat</persName>
+         et 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+         et 
+        <placeName ana="La_France">la France</placeName>
+        , réalisé par 
+        <persName ana="Laurent_Lutaud">Laurent Lutaud</persName>
+        . Le cinéaste 
+        <persName ana="Kendy_Verilus">Kendy Vérilus</persName>
+         a réalisé La danse des pieds, court-métrage sur le fétichisme des pieds, avec 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         dans le rôle principal.
+      </p>
+      <p>
+        N.B. L’orthographe 
+        <persName ana="Dominique_Batravil">Dominique Batravil</persName>
+         se trouve sur les premiers recueils de poésie publiés.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Dominique_Batraville_biblio">
+    <div ref="http://ile-en-ile.org/batraville/" xml:id="Dominique_Batraville_biblio_auteur_ile_en_ile">
+      <list subtype="en español">
+        <item>El Cantico de la aurora / Kantik devanjou. Texte en créole de l’auteur avec une traduction en espagnol d’Anna Kovack. Oralidad; lenguas, identidad y memoria de América 9 (Havane, 1998): 62-65.</item>
+      </list>
+      <list subtype="em português">
+        <item>« O pais natal/ Ô pays natal ». Jean Paul Mestas, trad.Um mundo no coração : Un monde au cœur, anthologie. Lisboa: Universitária Editora, 2001.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Boulpik. Préface de Konpe Filo. Port-au-Prince: Choucoune, 1978.</item>
+      </list>
+      <list subtype="romans et récits">
+        <item>Le récitant zen. New York: Rivarticollection, 2006.</item>
+      </list>
+      <list subtype="nouvelles, récits et poèmes dans des ouvrages collectifs">
+        <item>« L’Arbre qui saigne ». Anthologie des nouvelles primées au Concours Jacques-Stephen Alexis. Port-au-Prince: Imprimeur II, 1997: 79-85.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Fanm klete. Mise en scènepar Élie Pennonten Martinique en 1998, pièce inédite.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Les dits du Fou de l’île » (compte-rendu du roman de Lyonel Trouillot). Conjonction 203 (1998): 99-100.</item>
+      </list>
+      <list subtype="comédien">
+        <item>Rois des routes, documentaire réalisé par Elsie Haas (1998, 25 minutes).</item>
+      </list>
+      <list subtype="dans les anthologies">
+        <item>Castera, Georges, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Montréal: Mémoire d’encrier, 2003: 288-289.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1996     3e Prix Unicef-Haïti, pour la pièce Le Nègre et la rose de l’auberge (inédite).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Dominique_Batraville_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/dominique-batraville-5-questions-pour-ile-en-ile/">Dominique Batraville, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/dominique-batraville-les-flaneries-du-voyant/">Les Flâneries du Voyant</item>
+      <item ref="http://ile-en-ile.org/pour-edgar-allan-poe/">Pour Edgar Allan Poe</item>
+      <item ref="http://www.asso-maisondelaculture.fr/actualite_detail.php?id=110">35 secondes entre craintes et tremblements</item>
+      <item ref="http://www.zulma.fr/livre-l-ange-de-charbon-572089.html">L’ange de charbon</item>
+      <item ref="http://hpnhaiti.com/">Haiti Press Network</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=2790:haiti-litterature-franketienne-lintemporel-linclassable&amp;catid=8:societe&amp;Itemid=14">Haiti-Littérature: Frankétienne l’intemporel, l’inclassable</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=2913:haiti-peinture-entretien-avec-zephirin-peintre-et-animal-marin&amp;catid=8:societe&amp;Itemid=14">Haïti-Peinture : Entretien avec Zéphirin, peintre et animal marin</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=3670:le-musicien-azor-un-meteore-sous-une-pluie-de-tambours&amp;catid=8:societe&amp;Itemid=14">Le musicien Azor, un météore sous une pluie de tambours</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=3839:vers-la-cote-sud-dhaiti-en-route-pour-roche-a-bateau&amp;catid=10:tourisme&amp;Itemid=18">Vers la côte Sud d’Haïti : En route pour Roche-à-Bateau</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=3863:haiti-barbancourt-lacme-de-lhistoire-sucriere&amp;catid=8:societe&amp;Itemid=14">Haiti: Barbancourt, l’acmé de l’histoire sucrière</item>
+      <item ref="http://hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=3929:chanter-la-cuisine-haitienne-&amp;catid=8:societe&amp;Itemid=14">Chanter la cuisine haïtienne !</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=4006:haiti-la-rue-comme-espace-culinaire&amp;catid=8:societe&amp;Itemid=14">Haïti-Cuisine: La rue comme espace culinaire</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=4066:saint-louis-du-sud-jusquau-petit-matin-des-sirenes&amp;catid=10:tourisme&amp;Itemid=18">Saint-Louis du Sud jusqu’au petit matin des sirènes</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=4267:haiti-comme-echo-dans-le-roman-qbrisantsq-de-max-jeanne&amp;catid=8:societe&amp;Itemid=14">Haïti comme écho dans le roman « Brisants » de Max Jeanne</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=4334:davertige-ou-les-vertiges-dun-christ-charbon&amp;catid=8:societe&amp;Itemid=14">Davertige ou les vertiges d’un Christ charbon</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=4953:haiti-un-week-end-aux-gonaives-ou-presque&amp;catid=9:provinces&amp;Itemid=16">Haiti: Un week-end aux Gonaïves ou presque</item>
+      <item ref="http://www.hpnhaiti.com/site/index.php?option=com_content&amp;view=article&amp;id=4904:haiti-litterature-le-roman-haitien-et-italianisant-demile-ollivier-lorfevre&amp;catid=7:art-a-spectacle&amp;Itemid=17">Haïti-littérature: le roman haïtien et italianisant d’Emile Ollivier, l’orfèvre</item>
+      <item ref="http://web.archive.org/web/20051105032825/http://www.haitipressnetwork.com/news.cfm?articleID=5369">Dominique Batraville dans le rêve haïtien</item>
+      <item ref="http://web.archive.org/web/20051105032825/http://www.haitipressnetwork.com/news.cfm?articleID=5369">Dominique Batraville dans le rêve haïtien</item>
+      <item ref="http://web.archive.org/web/20060114190944/http://www.haitipressnetwork.com/news.cfm?articleID=5345">Dominique Batraville dans un film de Marc Barrat</item>
+      <item ref="http://web.archive.org/web/20070304043615/http://www.haitipressnetwork.com/news.cfm?articleID=6847">Dominique Batraville et Kendy Vérilus au festival Cinamazonia</item>
+      <item ref="https://youtu.be/_J0fN-RXeFQ">‘Des Livres et Vous’ avec Dominique Batraville</item>
+      <item ref="http://radiomelodiehaiti.com/">Mélodie 103.3 FM</item>
+      <item ref="http://web.archive.org/web/20071012225513/http://lematinhaiti.com/PageArticle.asp?ArticleID=6319">Le récitant zen de Batraville : De la nécessité du rituel pour accéder au mythe</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=68083">Carl Brouard: le protocole du buveur</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=68083">Carl Brouard: le protocole du buveur</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=94679">Frankétienne dans le dernier film de Charles Najman</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=99287">Réinventer le soleil avec Ernest Pépin</item>
+    </list>
   </div>
 </TEI>

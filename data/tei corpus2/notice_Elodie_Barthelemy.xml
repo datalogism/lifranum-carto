@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Elodie_Barthelemy_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Elodie_Barthelemy" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Elodie Barth�l�my</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Elodie Barthélémy</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Elodie_Barthelemy_fiche_autorite">
+  <div n="1" xml:id="Elodie_Barthelemy_fiche">
     <person ana="Elodie_Barthelemy" sex="na">
-      <persName>Elodie Barth�l�my</persName>
+      <persName>Elodie Barthélémy</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -32,4 +32,29 @@
       <occupation source="spla"> Illustrateur/trice</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Elodie_Barthelemy_bio">
+    <text ref="http://www.spla.pro/fiche.personne.elodie-barthelemy.4122.html" xml:id="Elodie_Barthelemy_bio_auteur_spla">
+      <p>
+        Élodie Barthélemy est née en 1965 en Colombie, d'origine franco-
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Elle a étudié à l'École supérieure des Beaux-Arts de 
+        <placeName ana="Paris">Paris</placeName>
+         dont elle est sortie diplomée avec les félicitations du jury à l'unanimité en 1991. Elle a alors reçu une allocation de recherche pour un séjour d'études sur l'art textile maya en 
+        <placeName ana="Amerique_Centrale">Amérique centrale</placeName>
+         pendant trois mois. Elle développe un travail au champ très ouvert : dessin, peinture, gravure, tissus appliqués, scénographies... dans lesquels on pressent un rapport intime aux matériaux et aux objets. Nombre de ses expositions font intervenir le visiteur et proposent une rencontre.Ses ?uvres ont été exposées en 
+        <placeName ana="France">France</placeName>
+        , en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , en 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        , et en 
+        <placeName ana="Amerique_Du_Sud">Amérique du Sud</placeName>
+        . Elle a reçu le deuxième prix de la Ville de Saint-Quentin à la quatrième Biennale Internationnale du Pastel. Aujourd'hui, elle vit et travaille à 
+        <placeName ana="Paris">Paris</placeName>
+         et dans l'Oise. Bibliographie : Aux éditions Vents d'ailleursUne veste pour rêver, Cécile Gagnon, ill. d'Élodie Barthélémy, coll. &quot;Les petites histoires du monde&quot;, Vents d'ailleurs, 2001.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Elodie_Barthelemy_biblio"/>
+  <div n="4" xml:id="Elodie_Barthelemy_web"/>
 </TEI>

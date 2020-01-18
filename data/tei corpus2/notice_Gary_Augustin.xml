@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Gary_Augustin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Gary_Augustin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Gary Augustin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Gary_Augustin_fiche_autorite">
+  <div n="1" xml:id="Gary_Augustin_fiche">
     <person ana="Gary_Augustin" sex="na">
       <persName>Gary Augustin</persName>
       <death source="ile_en_ile_auto">
@@ -32,7 +32,123 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Gary_Augustin_bio">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_bio_auteur_ile_en_ile">
+      <p>
+        Poète, journaliste et critique, 
+        <persName ana="Gary_Augustin">Gary Augustin</persName>
+         naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 15 janvier 1958. Après ses études secondaires au Collège Catt’s Pressoir, il se lance dans la vie turbulante 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         des arts du début des années 1980.
+      </p>
+      <p>
+        Passionné de littérature et de peinture, il publie de nombreux articles sur l’art. Il collabore à divers journaux et revues : 
+        <placeName ana="Boutures">Boutures</placeName>
+        , Chemins critiques,  Conjonction et Cultura. Il tient des chroniques culturelles dans les journaux de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Le Quotidien et Le Matin. Depuis 1989, il anime une chronique culturelle sur les ondes de la Radio Nationale.
+      </p>
+      <p>
+        La poésie de 
+        <persName ana="Gary_Augustin">Gary Augustin</persName>
+         est une quête profonde de transparence et de lumière. Écriture vive qui laisse place à la mesure et aux raccourcis de toutes sortes, sa poésie, épurée, est faite de lignes et de formes fuyantes. Le poème cherche ainsi sa voie dans l’économie des figures.
+      </p>
+      <p>
+        Ses recueils de poésie – Girandole du jour (1994), 
+        <placeName ana="Terre">Terre</placeName>
+         brûlée (2004) et Des villes, des corps et autres songes (2012) – apprennent la patience et l’humilité d’un geste poétique auquel l’exigence de clarté et de mystère ne fait jamais défaut.
+      </p>
+      <p>
+        Lors de la parution de Girandole du jour, le critique 
+        <persName ana="Alix_Dominique">Alix Dominique</persName>
+         Alexis écrit : « Toujours en lutte avec l’ombre, une lumière tantôt nulle, tantôt faible, tantôt vive traverse les poèmes de 
+        <persName ana="Gary_Augustin">Gary Augustin</persName>
+        . Grâce à un langage mesuré dans sa facture et subtil dans ses effets, la communication s’établit avec le lecteur généralement avec un égal 
+        <placeName ana="Bonheur">Bonheur</placeName>
+         dans la graphie et le son. Discrète malgré sa thématique de la lumière, Girandole du jour fait sans doute partie de ces œuvres à retardement dont la beauté ne s’étale que dans les relectures ».
+      </p>
+      <p>
+        Très actif dans la vie culturelle 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <persName ana="Gary_Augustin">Gary Augustin</persName>
+         fait partie du jury pour le Prix 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         de la Poésie, fait souvent des lectures de ses poèmes lors des soirées culturelles à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         comme aux Vendredis littéraires de l’Université 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        , 
+        <placeName ana="Vandredi">Vandredi</placeName>
+         anba la vil  de l’Atelier Copart et aux Ateliers Création 
+        <persName ana="Marcel_Gilbert">Marcel Gilbert</persName>
+         de la 
+        <persName ana="Bibliotheque_Justin">Bibliothèque Justin</persName>
+         Lhérisson.
+      </p>
+      <p>
+        <persName ana="Gary_Augustin">Gary Augustin</persName>
+         vit entre 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville et Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         où il consacre son temps à l’écriture et à la flânerie, ce grand art de ne rien faire. Il se promène librement à la manière énigmatique d’un Saint-
+        <placeName ana="Aude">Aude</placeName>
+        . Dans ses songes, perce quelquefois le désarroi :
+      </p>
+      <p>Cracher mon désarroi
+Comme une flaque
+Sur le pavé</p>
+      <p>Il est décédé le 2 septembre 2014.</p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.gary-augustin.14054.html" xml:id="Gary_Augustin_bio_auteur_spla">
+      <p>
+        Poète, journaliste et critique, 
+        <persName ana="Gary_Augustin">Gary Augustin</persName>
+         naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 15 janvier 1958. Après ses études secondaires au Collège Catt's Pressoir, il se lance dans la vie turbulante 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         des arts du début des années 1980. Passionné de littérature et de peinture, il publie de nombreux articles sur l'art. Il collabore à divers journaux et revues : 
+        <placeName ana="Boutures">Boutures</placeName>
+        , Chemins critiques, Conjonction et Cultura. Il tient des chroniques culturelles dans les journaux de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Le Quotidien et Le Matin. Depuis 1989, il anime une chronique culturelle sur les ondes de la Radio Nationale.  voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Gary_Augustin_biblio">
+    <div ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Girandole du jour. Port-au-Prince: Éditions Mémoire, 1994, 60 p.</item>
+      </list>
+      <list subtype="poésie parue dans des ouvrages collectifs">
+        <item>(Sans titre) Conjonction (Lamadèl 100 poèmes créoles) 195 (juillet-août-septembre 1992).</item>
+      </list>
+      <list subtype="participation à d’autres ouvrages">
+        <item>50 années de peinture en Haïti 1930-1980; Tome 1: 1930-1950.Gesner Armand, éd. Port-au-Prince:Fondation Culture Création, 1995.</item>
+      </list>
+      <list subtype="adaptations de poèmes de gary augustin">
+        <item>« Tach Lank » mis en musique et interprété par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson. Port-au-Prince: Productions Batofou, 2005.</item>
+      </list>
+      <list subtype="sur gary augustin">
+        <item>Alexis, Alix Dominique. « Girandole du jour, une poésie sous le signe de la lumière ». Le Nouvel Informateur 17 (1994).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Gary_Augustin_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/gary-augustin-cinq-poemes/">Cinq poèmes</item>
+      <item ref="http://ile-en-ile.org/gary-augustin-poesie/">« Visions », « Trajectoire », « Comme un chant » et « Tiga »</item>
+      <item ref="http://www.espacioblog.com/sectioneducative/post/2006/12/08/questions-du-poete-gary-augustin-au-poete-georges-castera">Questions du poète Gary Augustin au poète Georges Castera</item>
+    </list>
   </div>
 </TEI>

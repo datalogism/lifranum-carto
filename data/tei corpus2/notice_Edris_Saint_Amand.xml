@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Edris_Saint_Amand" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Édris Saint Amand</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Edris_Saint_Amand_fiche">
+    <person ana="Edris_Saint_Amand" sex="na">
+      <persName>Édris Saint Amand</persName>
+      <birth source="viaf">
+        <date>1918-03-26</date>
+      </birth>
+      <death source="viaf">
+        <date>2004-02-09</date>
+      </death>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Roumain_Jacques">
+          <persName>Roumain Jacques</persName>
+        </person>
+        <person ana="BeLance_Rene">
+          <persName>Bélance René</persName>
+        </person>
+        <person ana="Hatier">
+          <persName>Hatier</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Edris_Saint_Amand_bio">
+    <text ref="http://ile-en-ile.org/saint-amand/" xml:id="Edris_Saint_Amand_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Edris_Saint">Édris Saint</persName>
+        -Amand naît le 26 
+        <placeName ana="Mars">Mars</placeName>
+         1918 aux 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il fait ses études secondaires à l’Institution Saint-
+        <persName ana="Louis_De_Gonzague">Louis de Gonzague</persName>
+        . Il étudie les Sciences Appliquées à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . À partir de 1959, il est à 
+        <placeName ana="Paris">Paris</placeName>
+        , inscrit à l’École des Hautes Études Internationales.
+      </p>
+      <p>
+        À son retour à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , Saint-Amand enseigne les relations internationales et la littérature à l’École des Hautes Études Internationales, à l’École Normale Supérieure et au Lycée 
+        <placeName ana="Petion">Pétion</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Edris_Saint">Édris Saint</persName>
+        -Amand va prendre une part active dans le débat littéraire avec la publication de son ouvrage, Essai d’explication de Dialogue de mes lampes, en 1942. Cette étude de l’œuvre de Magloire-Saint-
+        <placeName ana="Aude">Aude</placeName>
+         lui vaut la reconnaissance de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         qui, en préfaçant l’essai, mentionne le talent du critique Saint-Amand.
+      </p>
+      <p>
+        En 1945, Saint-Amand écrit la préface du premier recueil de 
+        <persName ana="Rene_Depestre_Etincelles">René Depestre Étincelles</persName>
+        .
+      </p>
+      <p>
+        Saint-Amand milite dans la lutte syndicale, et dans tous les combats pour l’avènement d’une société plus juste. Il rêve de camper la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dans ses multiples contradictions. Il se lance dans le roman, capable selon lui de changer les mentalités haïtiennes. Ainsi, il écrit Bon Dieu rit (1952) et Le vent de janvier (1985).
+      </p>
+      <p>
+        Contrairement à 
+        <persName ana="Manuel_De_Jacques_Roumain">Manuel de Jacques Roumain</persName>
+        , les personnages de Saint-Amand sont des anti-héros. Ils sont pris dans le piège de leur propre dégradation. Leur seul recours est l’espace politique qu’ils parasitent. L’univers de Saint-Amand est un univers de déréliction et de désolation où la paysannerie est vouée à son sort de misère et de dénuement.
+      </p>
+      <p>
+        <persName ana="Edris_Saint">Édris Saint</persName>
+        -Amand occupe la fonction d’Ambassadeur d’
+        <placeName ana="Haiti">Haïti</placeName>
+         en 
+        <placeName ana="Argentine">Argentine</placeName>
+         de 1995 à 2002. En janvier 2004, il est décoré Chevalier d’Honneur par le gouvernement d’
+        <placeName ana="Argentine">Argentine</placeName>
+        . Il meurt à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 9 février 2004.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Edris_Saint_Amand_biblio">
+    <div ref="http://ile-en-ile.org/saint-amand/" xml:id="Edris_Saint_Amand_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« The Flame Tree ». Black Orpheus (Nigeria) 9 (June 1961) 31-48.</item>
+      </list>
+      <list subtype="romans">
+        <item>Bon Dieu rit. Paris: Domat, 1952; Port-au-Prince: Les Éditions du Soleil, 1978; Paris: Hatier, 1989.</item>
+      </list>
+      <list subtype="essais">
+        <item>Essai d’explication de Dialogue de mes lampes. Préface de Jacques Roumain. Port-au-Prince: Imprimerie de l’état, 1942; Port-au-Prince: Ateliers Fardin, 1975 (avec une préface de René Bélance); Port-au-Prince: Editions Mémoire, 1995.</item>
+      </list>
+      <list subtype="article sélectionné">
+        <item>« Préface » au recueil de poésie, Étincelles de René Depestre. Port-au-Prince: Imprimerie de l’État, 1945.</item>
+      </list>
+      <list subtype="sur édris saint-amand">
+        <item>Dolce, Jacquelin.. »Une lecture lucide de Bon Dieu rit« . Le Petit Samedi Soir 281 (24-30 mars 1979): 29-30.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Edris_Saint_Amand_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/edris-saint-amand-extraits-lus/">Édris Saint-Amand. Le vent de janvier et Bon Dieu rit</item>
+      <item ref="http://web.archive.org/web/20030607134553/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=620">Le Juste et le pervers</item>
+      <item ref="http://homepage.mac.com/chemla/fic_doc/bondieurit.html">Bon Dieu rit</item>
+    </list>
+  </div>
+</TEI>

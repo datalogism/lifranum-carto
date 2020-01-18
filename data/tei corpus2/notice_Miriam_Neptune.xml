@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Miriam_Neptune_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Miriam_Neptune" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Miriam Neptune</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Miriam_Neptune_fiche_autorite">
+  <div n="1" xml:id="Miriam_Neptune_fiche">
     <person ana="Miriam_Neptune" sex="na">
       <persName>Miriam Neptune</persName>
       <langKnowledge>
@@ -28,8 +28,23 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">Biblioth�caire</occupation>
+      <occupation source="spla">Bibliothécaire</occupation>
       <occupation source="spla"> Formateur/trice</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Miriam_Neptune_bio">
+    <text ref="http://www.spla.pro/fiche.personne.miriam-neptune.14781.html" xml:id="Miriam_Neptune_bio_auteur_spla">
+      <p>
+        Miriam Neptune a une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en bibliothéconomie, avec une spécialité en études cinématographiques. Elle a enseigné la communication et et donné des cours de production pendant de nombreuses années. Elle dirige actuellement le service de communication pédagogique de la Bibliothèque du Collège Barnard, où elle facilite aux étudiants, aux professeurs et à l'ensemble du personnel, l'accès aux équipements audiovisuels, aux logiciels et à la formation aux outils numériques.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Miriam_Neptune_biblio"/>
+  <div n="4" xml:id="Miriam_Neptune_web">
+    <list type="spla">
+      <item ref="http://neptunemir.github.io/webpage/">Website Miriam Neptune </item>
+    </list>
   </div>
 </TEI>

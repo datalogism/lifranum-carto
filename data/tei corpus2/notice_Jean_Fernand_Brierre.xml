@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jean_Fernand_Brierre_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jean_Fernand_Brierre" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jean Fernand Brierre</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jean_Fernand_Brierre_fiche_autorite">
+  <div n="1" xml:id="Jean_Fernand_Brierre_fiche">
     <person ana="Jean_Fernand_Brierre" sex="na">
       <persName>Jean Fernand Brierre</persName>
       <langKnowledge>
@@ -29,7 +29,33 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Jean_Fernand_Brierre_bio">
+    <text ref="http://www.spla.pro/fiche.personne.jean-fernand-brierre.14062.html" xml:id="Jean_Fernand_Brierre_bio_auteur_spla">
+      <p>
+        <persName ana="Jean_Fernand_Brierre">Jean Fernand Brierre</persName>
+         naît le 28 septembre 1909 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Revenu en 
+        <placeName ana="Haiti">Haïti</placeName>
+         après le départ des Duvalier, il meurt à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         dans la nuit du 24 au 25 décembre 1992.Deux vers déchirés, torturés, aujourd'hui comme il y a dix ans, trente ans ou cinquante ans me restituent entièrement 
+        <persName ana="Jean_Brierre">Jean Brièrre</persName>
+        , et ils ne sont pas de lui. Le premier est de 
+        <persName ana="Victor_Hugo">Victor Hugo</persName>
+         : &quot;Je hais l'oppression d'une haine profonde...&quot;. Le second est d'Aragon : &quot;Je prendrai dans mes mains mon visage irrité...&quot;. Qui n'a pas vu, une fois dans sa vie, le visage irrité de 
+        <persName ana="Jean_Brierre">Jean Brièrre</persName>
+         (chaque fois qu'un homme, une 
+        <placeName ana="Nation">Nation</placeName>
+        , un peuple est atteint dans ses droits ou dans sa dignité), ignore ce qu'est vraiment, totalement, la haine de l'oppression. Cet homme-là, c'est l'Émerveillant émerveillé ! voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Fernand_Brierre_biblio"/>
+  <div n="4" xml:id="Jean_Fernand_Brierre_web"/>
 </TEI>

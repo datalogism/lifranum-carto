@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Rene_Depestre_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Rene_Depestre" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Ren� Depestre</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de René Depestre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Rene_Depestre_fiche_autorite">
+  <div n="1" xml:id="Rene_Depestre_fiche">
     <person ana="Rene_Depestre" sex="na">
-      <persName>
-        <surname source="bnf">Ren�</surname>
-        <forename source="bnf">Depestre</forename>
-      </persName>
+      <persName>René Depestre</persName>
       <idno type="BNF">
         cb11899641z#about
         <g ref="http://data.bnf.fr/ark:/12148/cb11899641z#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/94345085"/>
       </idno>
       <idno type="VIAF">
-        Ren�_Depestre
-        <g ref="http://fr.dbpedia.org/resource/Ren�_Depestre"/>
+        René_Depestre
+        <g ref="http://fr.dbpedia.org/resource/René_Depestre"/>
       </idno>
       <birth source="viaf">
         <date>1926-08-29</date>
@@ -58,7 +55,390 @@
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">authors black</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="CeSaire_Aime">
+          <persName>Césaire Aimé</persName>
+        </person>
+        <person ana="Pinera_Virgilio">
+          <persName>Piñera Virgilio</persName>
+        </person>
+        <person ana="Gallimard">
+          <persName>Gallimard</persName>
+        </person>
+        <person ana="Palcy_Euzhan">
+          <persName>Palcy Euzhan</persName>
+        </person>
+        <person ana="Wydawnictwo_Amber">
+          <persName>Wydawnictwo AMBER</persName>
+        </person>
+        <person ana="Veth_Mirjam_De">
+          <persName>Veth Mirjam de</persName>
+        </person>
+        <person ana="FernaNdez_Retamar_Roberto">
+          <persName>Fernández Retamar Roberto</persName>
+        </person>
+        <person ana="TheBia_Melsan_Annick">
+          <persName>Thébia-Melsan Annick</persName>
+        </person>
+        <person ana="Glissant_EDouard">
+          <persName>Glissant Édouard</persName>
+        </person>
+        <person ana="Cazals_Patrick">
+          <persName>Cazals Patrick</persName>
+        </person>
+        <person ana="Podany_Richard">
+          <persName>Podaný Richard</persName>
+        </person>
+        <person ana="Graphischer_Grossbetrieb_Interdruck">
+          <persName>Graphischer Grossbetrieb Interdruck</persName>
+        </person>
+        <person ana="立花_英裕">
+          <persName>立花 英裕</persName>
+        </person>
+        <person ana="Ollivier_EMile">
+          <persName>Ollivier Émile</persName>
+        </person>
+        <person ana="Ludwig_Ralph">
+          <persName>Ludwig Ralph</persName>
+        </person>
+        <person ana="Guatelli_Tedeschi_Joelle">
+          <persName>Guatelli-Tedeschi Joëlle</persName>
+        </person>
+        <person ana="Cebo_Foniok_Małgorzata">
+          <persName>Cebo-Foniok Małgorzata</persName>
+        </person>
+        <person ana="Abreu_Estela_Dos_Santos">
+          <persName>Abreu Estela dos Santos</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Rene_Depestre_bio">
+    <text ref="http://ile-en-ile.org/depestre/" xml:id="Rene_Depestre_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         naît le 29 août 1926 à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Sa ville natale est souvent évoquée dans sa poésie et ses romans, en particulier 
+        <placeName ana="Hadriana">Hadriana</placeName>
+         dans tous mes rêves (1988). Il fait ses études primaires chez les Frères bretons de l’instruction chrétienne. Son père meurt en 1936 et 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         quitte sa mère, ses deux frères et ses deux sœurs pour aller vivre chez sa grand-mère maternelle. De 1940 à 1944, il fait ses études secondaires au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+      </p>
+      <p>
+        Étincelles, son premier recueil de poésie, paru en 1945, préfacé par 
+        <persName ana="Edris_Saint">Edris Saint</persName>
+        -Amand, le fait connaître rapidement. Il a seulement dix-neuf ans quand il le publie, influencé par le réalisme merveilleux d’
+        <persName ana="Alejo_Carpentier">Alejo Carpentier</persName>
+        , qui a fait une conférence à ce sujet en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1942. Depestre fonde alors un hebdomadaire avec trois amis : Baker, Alexis, et 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+        : La Ruche (1945-46). « On voulait aider les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à prendre conscience de leur capacité à rénover les fondements historiques de leur identité » (dit-il dans Le métier à métisser). Le gouvernement fait saisir le numéro de 1945 consacré à 
+        <persName ana="Andre_Breton">André Breton</persName>
+        , ce qui déclenchera l’insurrection de janvier 1946.
+      </p>
+      <p>
+        Depestre rencontre les intellectuels et les poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         de son temps, tels 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+        , et 
+        <persName ana="Rene_Belance">
+          René 
+          <placeName ana="Belance">Bélance</placeName>
+        </persName>
+         qui préface son deuxième recueil, Gerbe de sang en 1946. Il rencontre aussi des artistes étrangers.
+      </p>
+      <p>
+        Il fait partie des dirigeants du mouvement étudiant révolutionnaire de janvier 1946, qui parvient à renverser le président 
+        <persName ana="Elie_Lescot">Élie Lescot</persName>
+        . Très vite, l’armée prend le pouvoir, Depestre est arrêté et emprisonné, avant d’être exilé. Il poursuit ses études de lettres et sciences politiques à la Sorbonne (1946-1950). À 
+        <placeName ana="Paris">Paris</placeName>
+        , il fréquente les poètes surréalistes français et des artistes étrangers, ainsi que les intellectuels du mouvement de la 
+        <placeName ana="Negritude">Négritude</placeName>
+        , qui se réunissent autour d’
+        <persName ana="Alioune_Diop">Alioune Diop</persName>
+         et de Présence Africaine.
+      </p>
+      <p>
+        Depestre participe activement aux mouvements de décolonisation en 
+        <placeName ana="France">France</placeName>
+        , et il est expulsé du territoire français. Il part à 
+        <placeName ana="Prague">Prague</placeName>
+        , d’où il est chassé en 1952. Il part à 
+        <placeName ana="Cuba">Cuba</placeName>
+        , invité par l’écrivain 
+        <persName ana="Nicolas_Guillen">Nicolás Guillén</persName>
+        , où il est à nouveau arrêté et expulsé par le régime de 
+        <persName ana="Fulgencio_Batista">Fulgencio Batista</persName>
+        . Il est rejeté par 
+        <placeName ana="La_France">la France</placeName>
+         et l’
+        <placeName ana="Italie">Italie</placeName>
+        . Il part pour l’
+        <placeName ana="Autriche">Autriche</placeName>
+        , puis le 
+        <placeName ana="Chili">Chili</placeName>
+        , l’
+        <placeName ana="Argentine">Argentine</placeName>
+         et le 
+        <placeName ana="Bresil">Brésil</placeName>
+        . Il est resté au 
+        <placeName ana="Chili">Chili</placeName>
+         suffisamment longtemps pour organiser avec 
+        <persName ana="Pablo_Neruda">Pablo Neruda</persName>
+         et 
+        <persName ana="Jorge_Amado">Jorge Amado</persName>
+         le congrès continental de la culture.
+      </p>
+      <p>
+        Après le 
+        <placeName ana="Bresil">Brésil</placeName>
+        , Depestre revient à 
+        <placeName ana="Paris">Paris</placeName>
+         en 1956 où il fréquente d’autres 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , dont Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        . Il participe au premier congrès panafricain organisé par Présence Africaine en septembre 1956. Il écrit dans Présence Africaine et d’autres revues de l’époque comme Esprit et Lettres françaises. Il retourne en 
+        <placeName ana="Haiti">Haïti</placeName>
+         (1956-57). Refusant de collaborer avec le régime duvaliériste, il appelle les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à la résistance et se retrouve en résidence surveillée. Il part pour 
+        <placeName ana="Cuba">Cuba</placeName>
+         en 1959, à l’invitation de 
+        <persName ana="Che_Guevara">Che Guevara</persName>
+        . Convaincu par la révolution cubaine, il s’investit dans la gestion du pays (Ministère des Relations Extérieures, Éditions nationales, Conseil National de la Culture, Radio Havana-
+        <placeName ana="Cuba">Cuba</placeName>
+        , Las Casas de las Américas, Comité de préparation du congrès culturel de 
+        <placeName ana="La_Havane">La Havane</placeName>
+         en 1967). Il voyage beaucoup parallèlement à ses activités officielles (URSS, 
+        <placeName ana="Chine">Chine</placeName>
+        , Viêt-nam, entre autres) et participe au festival panafricain d’
+        <placeName ana="Alger">Alger</placeName>
+         en 1969 (où il rencontre l’écrivain congolais 
+        <persName ana="Henri_Lopes">Henri Lopes</persName>
+        , qu’il retrouvera plus tard dans les bureaux de l’UNESCO).
+      </p>
+      <p>
+        Au cours de ses diverses pérégrinations et de son séjour à 
+        <placeName ana="Cuba">Cuba</placeName>
+        , 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         poursuit une œuvre poétique importante. Son recueil de poésie le plus célèbre est sans doute Un arc-en-ciel pour l’
+        <placeName ana="Occident">Occident</placeName>
+         chrétien (1967) où se mêlent politique, érotisme, et vaudou, des thèmes qui traversent toute son œuvre. Poète à 
+        <placeName ana="Cuba">Cuba</placeName>
+         (1973) est une sorte de regard réfléchi sur l’évolution de la révolution cubaine.
+      </p>
+      <p>
+        Écarté par le pouvoir castriste dès 1971, Depestre rompt avec l’expérience cubaine en 1978 et retourne à 
+        <placeName ana="Paris">Paris</placeName>
+         où il travaille au Secrétariat de l’UNESCO. Il publie Le Mât de Cocagne, son premier roman, à 
+        <placeName ana="Paris">Paris</placeName>
+        , en 1979. En 1980, il publie Alléluia pour une femme-jardin, qui reçoit le Prix Goncourt de la Nouvelle en 1982.
+      </p>
+      <p>
+        Depestre quitte l’UNESCO en 1986 et se retire dans 
+        <placeName ana="L’Aude">l’Aude</placeName>
+        . En 1988, il publie 
+        <placeName ana="Hadriana">Hadriana</placeName>
+         dans tous mes rêves, qui reçoit de nombreux prix littéraires dont le prix 
+        <persName ana="Theophraste_Renaudot">Théophraste Renaudot</persName>
+        , le prix de la Société des Gens de Lettres, le Prix Antigone de la ville de 
+        <placeName ana="Montpellier">Montpellier</placeName>
+         et le prix du Roman de l’Académie royale de langue et de littérature françaises de 
+        <placeName ana="Belgique">Belgique</placeName>
+        . Il obtient la nationalité française en 1991. Il continue d’accumuler les honneurs, en particulier le prix Apollinaire de poésie pour son Anthologie personnelle (1993) et le prix italien 
+        <placeName ana="Grisane">Grisane</placeName>
+         pour l’adaptation du Mât de Cocagne au théâtre en 1995, ainsi que les bourses (Bourse du Centre National du Livre en 1994 et Guggenheim en 1995). Il est le sujet du film documentaire de Jean-
+        <persName ana="Daniel_Lafond">Daniel Lafond</persName>
+         réalisé à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+         dans tous nos rêves (1996).
+      </p>
+      <p>
+        Depestre a également publié des essais importants. Bonjour et adieu à la 
+        <placeName ana="Negritude">Négritude</placeName>
+         présente une réflexion sur sa position ambivalente vis-à-vis du mouvement de la 
+        <placeName ana="Negritude">Négritude</placeName>
+         conçu par 
+        <persName ana="Leopold_Sedar_Senghor">Léopold Sédar Senghor</persName>
+        , 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+         et Léon-
+        <persName ana="Gontran_Damas">Gontran Damas</persName>
+        . Impressionné par 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+         venu parler du surréalisme et de la 
+        <placeName ana="Negritude">Négritude</placeName>
+         en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , fasciné par la créolité, ou la créolo-francophonie, il n’en questionne pas moins le concept de 
+        <placeName ana="Negritude">Négritude</placeName>
+        . Rebelle au concept dans sa jeunesse, qu’il associe à de l’essentialisme ethnique, il en mesure la portée historique et situe le mouvement dans l’histoire mondiale des idées. Il revient sur ce sujet (critiques et re-situation du mouvement) dans ses deux recueils Ainsi parle le fleuve noir (1998) et Le métier à métisser (1998). Il rend hommage à Césaire et à son œuvre visionnaire dans le contexte actuel du mouvement de la créolité à la 
+        <placeName ana="Martinique">Martinique</placeName>
+         : « Césaire trancha d’un seul mot ce vain débat: au commencement de l’histoire décoloniale, à l’échelle d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et du monde, il y a le génie de 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+         » (Le métier à métisser 25). Son expérience à 
+        <placeName ana="Cuba">Cuba</placeName>
+         – sa fascination et son désamour pour le « castrofidélisme » et toutes les contraintes idéologiques – est également examiné dans ces deux textes, ainsi que le réalisme merveilleux, le rôle de l’érotisme, l’histoire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et le thème très contemporain de la mondialisation.
+      </p>
+      <p>
+        Loin de se considérer comme en exil, Depestre se voit plutôt comme un nomade aux racines multiples, un « homme-banian » – pour faire allusion à cet arbre qu’il cite si souvent et à ses racines rhizomiques – voire comme un « géo-libertin ». 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         vit aujourd’hui dans un petit village de 
+        <placeName ana="L’Aude">l’Aude</placeName>
+        , Lézignan-Corbières, avec sa seconde épouse, cubaine. Il écrit tous les matins, en regardant les champs de vignes, comme autrefois il s’enivrait de la vue de la baie jacmélienne sur la galerie de sa grand-mère.
+      </p>
+      <p>
+        Biographie basée sur celles qui accompagnent Ainsi parle le fleuve noir  et Encore une 
+        <placeName ana="Mer">Mer</placeName>
+         à traverser.
+      </p>
+      <p>
+        Voir aussi la Chronologie de 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+        , par Léon-
+        <persName ana="Francois_Hoffmann">
+          François 
+          <placeName ana="Hoffmann">Hoffmann</placeName>
+        </persName>
+         (Île en île, 2013).
+      </p>
+      <p>Prose traduite également en bulgare et en grec.</p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.rene-depestre.5711.html" xml:id="Rene_Depestre_bio_auteur_spla">
+      <p>
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         naît le 29 août 1926 à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Sa ville natale est souvent évoquée dans sa poésie et ses romans, en particulier 
+        <placeName ana="Hadriana">Hadriana</placeName>
+         dans tous mes rêves (1988). Il fait ses études primaires chez les Frères bretons de l'instruction chrétienne. Son père meurt en 1936 et 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         quitte sa mère, ses deux frères et ses deux sœurs pour aller vivre chez sa grand-mère maternelle. De 1940 à 1944, il fait ses études secondaires au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Rene_Depestre_biblio">
+    <div ref="http://ile-en-ile.org/depestre/" xml:id="Rene_Depestre_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrages collectifs">
+        <item>Joqueviel-Bourjea, Marie et Béatrice Bonhomme, sous la direction de. René Depestre, le soleil devant. Paris: Hermann, 2015. Textes de: Arnaud Beaujeu, Michael Bishop, Béatrice Bonhomme, Jean-Luc Bonniol, Serge Bourjea, Michael Brophy, Peter Collier, Louis-Philippe Dalembert, Éric Dazzan, Odile Gannier, Chantal de Grandpré, Joëlle Guatelli-Tedeschi, Rémi Guittet, Marie Joqueviel-Bourjea, Michael G. Kelly, Yanick Lahens, Régis Lefort, James Noël, Thierry Ozwald, Ronnie Scharfman, Jean-Luc Steinmetz, Ilda Tomas, André Velter et Arnaud Villani, avec deux textes de René Depestre.</item>
+      </list>
+      <list subtype="livres, articles">
+        <item>Antoine, Régis. « René Depestre ». Rayonnants écrivains de la Caraïbe. Paris: Maisonneuve et Larose, 1998.</item>
+      </list>
+      <list subtype="en danois">
+        <item>Slaraffentraeet. Ole Eistrup, trad. Copenhague: Klim, 1985.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Der Schlaraffenbaum. Eva Schewe, trad. Berlin: Verlag Volk und Welt, 1982.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>Poeta a Cuba. (édition bilingue) Ugo Salati, trad. Milano: Edizoni Accademia, 1973.</item>
+      </list>
+      <list subtype="in english">
+        <item>A Rainbow for the Christian West. Trans. Jack Hirschman. Fairfax, California: Red Hill Press, 1972.</item>
+      </list>
+      <list subtype="en español">
+        <item>Mineral negro. Virgilio Pinera, trad. La Habana: Editiones R., 1962.</item>
+      </list>
+      <list subtype="in het nederlands">
+        <item>Hadriana in al mijn dromen. Mirjam de Veth, trad. Amsterdam: Uitgeverij De Arbeidespers, 1991.</item>
+      </list>
+      <list subtype="en polonais">
+        <item>Hadriana moich marzen. Malgorzata Cebo-Fonick, trad. Varsovie: Amber, 1992.</item>
+      </list>
+      <list subtype="на русском">
+        <item>Tchornaya Rouda (Minerai noir). Pavel Antokolski, trad. Moscou: 1961.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Étincelles. Port-au-Prince: Imprimerie de l’État, 1945.</item>
+      </list>
+      <list subtype="prose">
+        <item>Pour la révolution pour la poésie. (essai) Montréal:  Leméac, 1974.</item>
+      </list>
+      <list subtype="traductions par rené depestre">
+        <item>Guillen, Nicolas. Le Grand Zoo. Paris: Seghers, 1966.</item>
+      </list>
+      <list subtype="présence dans l’audiovisuel (radio, cinéma, télévision)">
+        <item>« Les voix de l’écriture ». René Depestre. Propos recueillis et présentés par Anne Blancard;  poèmes dits par Sonia Emmanuel; musique par Luc Donnadieu;  livret (« René Depestre ou l’état de poésie ») par Priska Degras. Radio France Internationale, 1992.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>« Parler de Jacmel ». Propos recueillis à Montréal par Etzer Depestre (mars 1989). Edité à Port-au-Prince, 1989.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1982     Bourse Goncourt de la nouvelle, pour Alléluia pour une femme-jardin.</item>
+      </list>
+      <list subtype="adaptation au théatre">
+        <item>Le Mât de cocagne, adapté au théâtre au festival d’Avignon par Gérard Gelas et la Compagnie du Chêne Noir, 1994.</item>
+      </list>
+      <list subtype="travaux universitaires sur rené depestre">
+        <item>Benedicty, Alessandra. « Vodou, Ethics, and Aesthetics: Haiti and the Creole Poetics of Frankétienne, Jean-Claude Fignolé, and René Depestre ». Thèse de doctorat (Ph.D.), University of Wisconsin, Madison, 2004.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Rene_Depestre_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/depestre-cendres-de-toussaint-louverture/">Les cendres de Toussaint Louverture</item>
+      <item ref="http://ile-en-ile.org/chronologie-de-rene-depestre/">Chronologie de René Depestre</item>
+      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#depestre">Hasta la vista</item>
+      <item ref="http://ile-en-ile.org/rene-depestre-le-multiple-ailleurs-dhaiti/">Le multiple ailleurs d’Haïti</item>
+      <item ref="http://ile-en-ile.org/rene-depestre-5-questions-pour-ile-en-ile/">René Depestre, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/rene-depestre-haiti-dans-tous-nos-reves/">René Depestre: Haïti dans tous nos rêves</item>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      <item ref="http://www.monde-diplomatique.fr/2004/04/DEPESTRE/11130">Adresse aux Haïtiens d’aujourd’hui</item>
+      <item ref="http://www.ufrgs.br/cdrom/depestre/">Bom dia e adeus à negritude</item>
+      <item ref="http://www.tanbou.com/2003/summer/GlissantEtDepestre.htm">Déconstruire Édouard Glissant et René Depestre: Questions sur la « créolisation »</item>
+      <item ref="http://www.gallimard.fr/">Éditions Gallimard</item>
+      <item ref="http://caraibe-baroque.over-blog.com/2016/01/Popa_Singer_-eloge-des-humanites-creoles.html">Éloge des humanités créoles</item>
+      <item ref="http://www.medi1.com/archives/archives_sonores.php">archives sonores de Medi1</item>
+      <item ref="http://gradhiva.revues.org/261">Entretien avec René Depestre</item>
+      <item ref="http://www.seattleu.edu/souffles/S09DRAF_/38h_9.HTM">L’intellectuel révolutionnaire et ses responsabilités envers le tiers-monde</item>
+      <item ref="http://www.republique-des-lettres.com/c1/cesaire.php">Petit matin d’Aimé Césaire</item>
+      <item ref="http://www.atelier-n89.com/html/depestre.htm">Photothèque de l’Atelier N89</item>
+      <item ref="http://conflits.revues.org/18265">René Depestre dans les décombres du carnaval</item>
+      <item ref="http://blogs.mediapart.fr/edition/haiti-apres-le-seisme/article/021111/tremblement-de-terre-tremblement-de-l-histoire-en-">Tremblement de terre, tremblement de l’histoire en Haïti</item>
+      <item ref="http://www.lire.fr/critique.asp?idC=34775&amp;idTC=3&amp;idR=218&amp;idG=3">Le Zombie et le haut tortionnaire</item>
+    </list>
   </div>
 </TEI>

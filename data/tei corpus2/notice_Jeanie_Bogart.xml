@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jeanie_Bogart_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jeanie_Bogart" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jeanie Bogart</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jeanie_Bogart_fiche_autorite">
+  <div n="1" xml:id="Jeanie_Bogart_fiche">
     <person ana="Jeanie_Bogart" sex="na">
       <persName>Jeanie Bogart</persName>
       <langKnowledge>
@@ -31,5 +31,174 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Designer</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Jeanie_Bogart_bio">
+    <text ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+         est née le 29 septembre 1970 aux 
+        <placeName ana="Cayes">Cayes</placeName>
+        , une ville pluvieuse du sud d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Elle commence à écrire des poèmes à l’âge de quatorze ans. La jeune fille traîne autant que possible sur les plages et sur le vieux port où elle puise son inspiration. Elle continue ses études secondaires à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+      </p>
+      <p>
+        Après des études en journalisme, elle occupe de nombreuses professions – reporter, présentatrice et rédactrice de nouvelles à la radio et à la télévision en 
+        <placeName ana="Haiti">Haïti</placeName>
+         –, sans pour autant abandonner sa passion : la poésie. Elle émigre aux États-Unis en 1996 et étudie le Fashion Design à 
+        <placeName ana="New_York">New York</placeName>
+        . Rédactrice au magazine 
+        <placeName ana="Connecticut">Connecticut</placeName>
+         Haitian Voice, 
+        <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+         travaille également comme interprète auprès des tribunaux de 
+        <placeName ana="New_York">New York</placeName>
+        . Elle est membre de la Fondation Mémoire, une organisation professionnelle à but non-lucratif consacrée à défendre, protéger et rehausser tous les aspects du patrimoine national haïtien.
+      </p>
+      <p>
+        Pour son poème « A la foli », elle gagne le premier prix Kalbas Lò Lakarayib 2006, un concours de poésie réunissant les poètes créoles des 
+        <placeName ana="Ameriques">Amériques</placeName>
+        , d’
+        <placeName ana="Afrique">Afrique</placeName>
+         et de l’
+        <placeName ana="Ocean_Indien">Océan indien</placeName>
+        .
+      </p>
+      <p>
+        Son recueil de poésie, Un jour… tes pantoufles (2008), selon le linguiste 
+        <persName ana="Hugues_Saint">Hugues Saint</persName>
+        -Fort, « ravira les inconditionnels de l’amour fou, exalté, sans demi-mesure et à contre-courant des usages établis par les convictions sociales. Mais il charmera aussi ceux qui sont passionnés de l’écriture, des mots, de leur faculté à nous libérer, de nous-mêmes, de nos obsessions, de notre trop-plein de sentiments qui peuvent à la longue nous submerger. »
+      </p>
+      <p>
+        Dènye Rèl est un disque de poesie en langue creole qui réunit vingt et un poèmes écrits par 
+        <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+        , entrecoupés de morceaux instrumentaux du guitariste 
+        <persName ana="Marc_Mathelier">Marc Mathelier</persName>
+        . Il comprend également deux morceaux de musique, « Vini komè » de BIC et « Twoubadou » de 
+        <persName ana="John_Steve_Brunache">John Steve Brunache</persName>
+        . Pour 
+        <persName ana="Chenald_Augustin">Chenald Augustin</persName>
+         (Le Matin), « L’amour constitue la thématique dominante dans cette œuvre. L’évocation du désir fou, de la sensualité (à couper le souffle), de la féminité (dévoilée littéralement) paraît fort puissante dans ce recueil. »
+      </p>
+      <p>
+        Publié en 2001, Éloge de l’Interlocuteur : Dialogues avec Saint-
+        <persName ana="John_Kauss">John Kauss</persName>
+         est un livre d’entretiens qui permet au lecteur de découvrir les complexités de l’âme du poète qui s’ouvre à un autre poète et au monde entier, en passant par son enfance, le métier d’écrivain, la solitude, l’art royal, la poésie et le sacré….
+      </p>
+      <p>
+        Diseuse, 
+        <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+         prête sa voix au livre-disque de 
+        <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+        , Lettres d’Automne/Tanlapli (2007). Ainsi, elle figure dans de nombreux événements poétiques. En 2007, par exemple, elle participe au Word Play, une activité littéraire au Medicine Show Theatre à 
+        <placeName ana="New_York">New York</placeName>
+        . En 2007, elle fait partie de la présentation annuelle des poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à la Ferguson Library (dans le 
+        <placeName ana="Connecticut">Connecticut</placeName>
+        ), 
+        <placeName ana="Haiti">Haiti</placeName>
+         Through Its Poets. En 2011, elle est poète invitée au Poetry Slam « 
+        <persName ana="Celebrating_Haitian">Celebrating Haitian</persName>
+         Women » (dans 
+        <placeName ana="Le_Bronx">Le Bronx</placeName>
+        ) et à la Journée annuelle du livre haïtien, à 
+        <placeName ana="Jamaica">Jamaica</placeName>
+         (
+        <placeName ana="New_York">New York</placeName>
+        ). Elle participe également aux événements de 
+        <persName ana="Words_Without_Borders">Words Without Borders</persName>
+         à 
+        <placeName ana="Cambridge">Cambridge</placeName>
+         (
+        <placeName ana="Massachusetts">Massachusetts</placeName>
+        ).
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.jeanie-bogart.32106.html" xml:id="Jeanie_Bogart_bio_auteur_spla">
+      <p>
+        Née en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
+         vit aux États-Unis où elle mène une carrière de designer et d'écrivain. Après des études en journalisme, elle a, tour à tour, été reporter, présentatrice et rédactrice de nouvelles à la radio, à la télévision en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et dans quelques publications aux États-Unis. Elle a commencé à écrire des poèmes à l'âge de quatorze ans.Elle a gagné avec son poème A la foli, le premier prix Kalbas Lò Lakarayib 2006, un concours de poésie réunissant les poètes créoles des 
+        <placeName ana="Ameriques">Amériques</placeName>
+        , d'
+        <placeName ana="Afrique">Afrique</placeName>
+         et de l'
+        <placeName ana="Ocean_Indien">Océan indien</placeName>
+        . Elle a participé en 2007 dans &quot;Plaisir des Mots&quot; et en 2008 &quot;Poésie du Monde, Monde de la Poésie&quot;, deux anthologies réunissant des auteurs de différentes régions de la Francophonie réalisées par Les Dossiers d'Aquitaine à 
+        <placeName ana="Bordeaux">Bordeaux</placeName>
+        , 
+        <placeName ana="France">France</placeName>
+        . En 2007, elle a participé dans Word Play, au Medicine Show Theatre (
+        <placeName ana="Ny">NY</placeName>
+        ), une activité littéraire supportée par The 
+        <placeName ana="New_York">New York</placeName>
+         State Council on the Arts. Elle a aussi présenté en 2007, 
+        <placeName ana="Haiti">Haiti</placeName>
+         Through Its Poets, une présentation annuelle des poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à The Ferguson Library à 
+        <placeName ana="Connecticut">Connecticut</placeName>
+        .  Elle a également participé en 2007 au collectif &quot;La Poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         Contemporaine&quot; de la 
+        <placeName ana="Maison">Maison</placeName>
+         de la Poésie (
+        <placeName ana="Belgique">Belgique</placeName>
+        ). Ses poèmes ont été publiés dans la Revue Littéraire Passerelle, 
+        <placeName ana="Montreal">Montréal</placeName>
+         2008, une anthologie sur la poésie francophone.  Lire la suite ici
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jeanie_Bogart_biblio">
+    <div ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Un jour… Tes pantoufles. Montréal: Paroles, 2008, 48 p.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Éloge de l’Interlocuteur : Esthetiques sur la psychologie des poetes et ecrivains: Dialogues avec Saint-John Kauss. Montreuil: Joseph Ouaknine, 2011, 140 p.</item>
+      </list>
+      <list subtype="poésie publiée dans des ouvrages collectifs">
+        <item>« A la foli », « Le temps du silence » et « Un jour… Tes pantoufles ». La Poésie Haïtienne Contemporaine. Bruxelles: La Maison de la Poésie, 2007.</item>
+      </list>
+      <list subtype="discographie">
+        <item> Lettres d’automne / Tanlapli. Montréal: Paroles, 2007. Textes de Franz Benjamin, avec les voix de Franz Benjamin, Jeanie Bogart et Emeline Michel, avec Oswald Durand Jr. (guitare et flûte) et Jean-Claude Julien (clavier et percussions). Disque compact.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jeanie_Bogart_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/jeanie-bogart-a-la-foli/">A la foli</item>
+      <item ref="http://ile-en-ile.org/jeanie-bogart-trois-poems/">Jeanie Bogart reads « Le cri » and other poems</item>
+      <item ref="http://fr.netlog.com/jeaniebj">Jeanie Bogart</item>
+      <item ref="http://www.potomitan.info/kauss/eloge.php">Éloge de l’interlocuteur</item>
+      <item ref="http://www.potomitan.info/ayiti/bogart/index.php">Jeanie Bogart Jourdain</item>
+      <item ref="http://lavilledescayes.com/index.php/component/content/article/48-ecrivain/166-jeanie-bogart?directory=138">Jeanie Bogart</item>
+      <item ref="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=448">Jeanie Bogart</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46758">John Steve Brunache se dit prêt à recommencer…</item>
+      <item ref="http://www.lulu.com/product/couverture-souple/paradoxe/16810499?showPreview">Paradoxe</item>
+      <item ref="http://www.csmsmagazine.org/">CSMS Magazine</item>
+      <item ref="http://csmsmagazine.org/?p=1912">Un hommage à Maurice Sixto</item>
+      <item ref="http://csmsmagazine.org/?p=1872">Le jeu de mots de Franz Benjamin</item>
+      <item ref="http://csmsmagazine.org/?p=1846">Plaies intérimaires</item>
+      <item ref="http://csmsmagazine.org/?p=1841">John Steve Brunache revient tout feu tout flamme</item>
+      <item ref="http://csmsmagazine.org/?p=1665">La première école publique franco-américaine bientôt à New York</item>
+      <item ref="http://csmsmagazine.org/?p=1622">Les ruminations de Lenous Suprice</item>
+      <item ref="http://csmsmagazine.org/?p=111">Yon Langay pou rakonte lanmou</item>
+      <item ref="http://csmsmagazine.org/?p=1440">Rencontre avec Jeanie Bogart</item>
+      <item ref="http://csmsmagazine.org/?p=314">Un Jour Tes Pantoufles: An intriguing collection of poetry</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=64043">L’amour et les mots</item>
+      <item ref="http://waybackmachine.org/*/http://www.lematinhaiti.com/Journal/34015.pdf">Un jour… Tes pantoufles</item>
+      <item ref="http://www.lenouvelliste.com/articles.print/1/65913">Une gerbe d’amour pour les opprimés</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=68769">Robenson Bernard écrit à la poétesse Jeanie Bogart</item>
+      <item ref="http://csmsmagazine.org/?p=296">Dènye Rèl: A holiday treat from Jeanie Bogart</item>
+    </list>
   </div>
 </TEI>

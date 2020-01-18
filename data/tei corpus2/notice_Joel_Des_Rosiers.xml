@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Joel_Des_Rosiers_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Joel_Des_Rosiers" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jo�l Des Rosiers</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Joël Des Rosiers</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Joel_Des_Rosiers_fiche_autorite">
+  <div n="1" xml:id="Joel_Des_Rosiers_fiche">
     <person ana="Joel_Des_Rosiers" sex="na">
-      <persName>Jo�l Des Rosiers</persName>
+      <persName>Joël Des Rosiers</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -28,7 +28,109 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">Po�te</occupation>
+      <occupation source="spla">Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Joel_Des_Rosiers_bio">
+    <text ref="http://ile-en-ile.org/desrosiers/" xml:id="Joel_Des_Rosiers_bio_auteur_ile_en_ile">
+      <p>
+        Né aux 
+        <placeName ana="Cayes">Cayes</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 26 octobre 1951, descendant d’un signataire de l’Acte d’indépendance, Joël 
+        <persName ana="Des_Rosiers">Des Rosiers</persName>
+         
+        <placeName ana="Passe">Passe</placeName>
+         son adolescence au 
+        <placeName ana="Canada">Canada</placeName>
+         quand sa famille gagne l’exil et partira faire des études à 
+        <placeName ana="Strasbourg">Strasbourg</placeName>
+         où il se lie à la mouvance situationniste au début des années 70.
+      </p>
+      <p>
+        Médecin, poète et essayiste, il parcourt le monde, en particulier un long voyage au 
+        <placeName ana="Sahel">Sahel</placeName>
+        , avant de publier aux éditions Triptyque divers recueils de poèmes dont Tribu, Savanes et un essai Théories 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        .
+      </p>
+      <p>Sa poésie qui procède de mystères et de sacrifices est en même temps travaillée par d’extrêmes tensions qui se mêlent étrangement à une érudition apparemment clinique où la mélancolie de la chair s’offre à se commuer en deuil, en cérémonie religieuse et sensuelle.</p>
+      <p>
+        Il reçoit en 1999 le Grand Prix du livre de 
+        <placeName ana="Montreal">Montréal</placeName>
+         pour Vétiver.
+      </p>
+      <p>
+        Depuis 1996, Joël 
+        <persName ana="Des_Rosiers">Des Rosiers</persName>
+         est vice-président de l’Union des écrivaines et écrivains québécois (UNEQ) où il est membre du Conseil d’administration depuis 1993. Il a aussi été vice-président de la Société Littéraire de 
+        <placeName ana="Laval">Laval</placeName>
+         de 1991 à 1995.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.joel-des-rosiers.15170.html" xml:id="Joel_Des_Rosiers_bio_auteur_spla">
+      <p>
+        Psychiatre, poète et essayiste québécois d'origine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , Joël 
+        <persName ana="Des_Rosiers">Des Rosiers</persName>
+         est l'auteur de plusieurs recueils de poésie, dont 
+        <persName ana="Metropolis_Opera">Métropolis Opéra</persName>
+         (1987), Tribu (1990), Savanes (1993) et Caïques (2007, Mention Casa de las Americas). Son œuvre littéraire comprend également une nouvelle Un autre soleil (2007) ainsi qu'un recueil de correspondances Lettres à l'Indigène (2009). Dans son important essai intitulé Théories 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+         : poétique du déracinement (1996, Prix de la Société des écrivains canadiens), réédité et augmenté (2009), il ouvre les espaces et les identités du sujet politique dans le contexte d'une littérature post-nationale. D'une écriture au phrasé raffiné, son dernier recueil Gaïac (2010) est habité de pulsations secrètes.En 1990, il était finaliste au Prix du Gouverneur général pour Tribu. Vétiver lui a valu le Grand Prix du livre de 
+        <placeName ana="Montreal">Montréal</placeName>
+         en 1999 et le 16e Grand prix du Festival International de la Poésie de Trois-Rivières (2000), et a été salué par le Prix du Gouverneur général (2006, traduction anglaise).Sa poésie est parcourue d'un amour de la langue qui est science, passion du langage et sensualité. En 2011, Joël 
+        <persName ana="Des_Rosiers">Des Rosiers</persName>
+         a reçu le prestigieux Prix du 
+        <placeName ana="Quebec">Québec</placeName>
+         - 
+        <persName ana="Athanase_David">Athanase David</persName>
+         pour l'ensemble de son oeuvre.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Joel_Des_Rosiers_biblio">
+    <div ref="http://ile-en-ile.org/desrosiers/" xml:id="Joel_Des_Rosiers_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« The Austerity of your Body » (« L’austerité de ton corps », poème extrait de Tribu). Trad. Carrol F. Coates. Callaloo 15.2 (Spring 1992): 407-20.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Métropolis Opéra. Montréal / La Tronche (France): Triptyque / Vague à l’âme, 1987.</item>
+      </list>
+      <list subtype="essais">
+        <item>Théories caraïbes: poétique du déracinement. Montréal: Triptyque, 1996; 2009.</item>
+      </list>
+      <list subtype="nouvelle">
+        <item>Un autre soleil (avec Patricia Léry). Montréal: Plume &amp; Encre, 2006; édition révisée, Montréal: Triptyque, 2007.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Les fruits piqués du réalisme merveilleux » (à propos des Possédés de la Pleine-Lune de Jean-Claude Fignolé). Conjonction 173 (2e trimestre 1987): 178-184.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Houyoux, Suzanne. « Joël Des Rosiers ». (Carrol F. Coates, trad.). Callaloo 15.2 (Spring 1992): 427-30.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1990     Finaliste du prix du Gouverneur général, pour Tribu</item>
+      </list>
+      <list subtype="sur l’oeuvre de joël des rosiers">
+        <item>Adamson, Ginette. « Espace géographique, espace scriptural dans l’oeuvre de Joël Des Rosiers ». TROIS 12.3 (automne 1997): 245-55.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Joel_Des_Rosiers_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/joel-des-rosiers-le-xxie-siecle-sera-tribal/">Joël Des Rosiers: le XXIe siècle sera tribal</item>
+      <item ref="http://ile-en-ile.org/joel-des-rosiers-hommage-a-emile-ollivier/">Hommage à Émile Ollivier</item>
+      <item ref="http://ile-en-ile.org/joel-des-rosiers-hommage-a-jean-claude-charles/">Dans la douce lumière de Paris</item>
+      <item ref="http://ile-en-ile.org/joel-des-rosiers-5-questions-pour-ile-en-ile/">Joël Des Rosiers, 5 Questions pour Île en île</item>
+      <item ref="http://www.africultures.com/index.asp?menu=affiche_article&amp;no=7601">Aimé Césaire, Adieu au Nègre Majuscule</item>
+      <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=57436&amp;PubDate=2008-05-16">Les mouvances de soi</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/des-rosiers-joel-162/">L’Ile</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/des-rosiers-joel-162/">L’Ile</item>
+      <item ref="http://www.groupenotabene.com/auteur/des-rosiers-joël">Triptyque</item>
+      <item ref="http://radiospirale.org/capsule/rencontre-avec-joel-des-rosiers">Rencontre avec Joël Des Rosiers</item>
+    </list>
   </div>
 </TEI>

@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Stanley_Pean_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Stanley_Pean" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Stanley P�an</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Stanley Péan</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Stanley_Pean_fiche_autorite">
+  <div n="1" xml:id="Stanley_Pean_fiche">
     <person ana="Stanley_Pean" sex="na">
-      <persName>
-        <surname source="bnf">Stanley</surname>
-        <forename source="bnf">P�an</forename>
-      </persName>
+      <persName>Stanley Péan</persName>
       <idno type="BNF">
         cb125656608#about
         <g ref="http://data.bnf.fr/ark:/12148/cb125656608#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/12423959"/>
       </idno>
       <idno type="VIAF">
-        Stanley_P�an
-        <g ref="http://fr.dbpedia.org/resource/Stanley_P�an"/>
+        Stanley_Péan
+        <g ref="http://fr.dbpedia.org/resource/Stanley_Péan"/>
       </idno>
       <birth source="viaf">
         <date>1966-03-31</date>
@@ -46,6 +43,163 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/xxc</country>
         </placeName>
       </residence>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Ladoo_Harold_Sonny">
+          <persName>Ladoo Harold Sonny</persName>
+        </person>
+        <person ana="Child_Lauren">
+          <persName>Child Lauren</persName>
+        </person>
+        <person ana="Lanctot_Mance">
+          <persName>Lanctôt Mance</persName>
+        </person>
+        <person ana="Saint_Eloi_Rodney">
+          <persName>Saint-Éloi Rodney</persName>
+        </person>
+        <person ana="Danticat_Edwidge">
+          <persName>Danticat Edwidge</persName>
+        </person>
+        <person ana="Poulin_Stephane">
+          <persName>Poulin Stéphane</persName>
+        </person>
+        <person ana="Flouriot_Marie">
+          <persName>Flouriot Marie</persName>
+        </person>
+        <person ana="Quebec_Province_Assemblee_Nationale">
+          <persName>Québec Province Assemblée nationale</persName>
+        </person>
+        <person ana="Lamontagne_Francois">
+          <persName>Lamontagne François</persName>
+        </person>
+        <person ana="Duroseau_Conrad">
+          <persName>Duroseau Conrad</persName>
+        </person>
+        <person ana="Michaud_Nando">
+          <persName>Michaud Nando</persName>
+        </person>
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Stanley_Pean_bio">
+    <text ref="http://ile-en-ile.org/pean/" xml:id="Stanley_Pean_bio_auteur_ile_en_ile">
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 31 
+        <placeName ana="Mars">Mars</placeName>
+         1966, 
+        <persName ana="Stanley_Pean">Stanley Péan</persName>
+         a grandi à 
+        <placeName ana="Jonquiere">Jonquière</placeName>
+        , au 
+        <placeName ana="Quebec">Québec</placeName>
+        , où sa famille s’est installée la même année. Après avoir tâté du théâtre et des variétés au sein du Groupe Sanguin (un groupe d’humoristes québécois très prisé dans les années 1980-90), il entreprend en 1984 des études en littérature à l’université 
+        <placeName ana="Laval">Laval</placeName>
+         et commence à publier ses premières nouvelles dans divers périodiques littéraires du 
+        <placeName ana="Quebec">Québec</placeName>
+         ou d’ailleurs, notamment la revue Stop (1985-1999), dont il deviendra l’un des animateurs. Son premier recueil, La plage des songes (1988), est suivi d’un roman, Le tumulte de mon sang (1991) favorablement accueilli par la critique. Vient ensuite un deuxième recueil de nouvelles, Sombres allées (1992), puis un autre roman, 
+        <persName ana="Zombi_Blues">Zombi Blues</persName>
+         (1996), qui remporte un grand succès populaire. 
+        <persName ana="Stanley_Pean">Stanley Péan</persName>
+         est également l’auteur de nombreuses œuvres de fiction destinées aux jeunes qui lui vaudront quelques prix littéraires.
+      </p>
+      <p>
+        Depuis 1998, il est rédacteur en chef du 
+        <placeName ana="Journal">Journal</placeName>
+         Le Libraire, le bimestriel des Librairies Indépendantes du 
+        <placeName ana="Quebec">Québec</placeName>
+        . Entre 1999 et 2002, il signe une chronique littéraire dans le quotidien 
+        <placeName ana="Montrealais">Montréalais</placeName>
+         
+        <placeName ana="La_Presse">La Presse</placeName>
+        . De 2001 à 2004, il anime le magazine littéraire « 
+        <placeName ana="Bouquinville">Bouquinville</placeName>
+         » à l’antenne de la chaîne culturelle de Radio-
+        <placeName ana="Canada">Canada</placeName>
+        . Mélomane et critique musical à ses heures, il anime et coréalise à l’occasion depuis 2004 des émissions sur le jazz sur la chaîne Espace Musique de Radio-
+        <placeName ana="Canada">Canada</placeName>
+        . À l’été 2007, il se joint à l’équipe de l’hebdomadaire culturel Voir à titre de commentateur musical.
+      </p>
+      <p>
+        À l’automne 2000, l’université 
+        <placeName ana="Laval">Laval</placeName>
+         lui décerne la médaille Raymond-
+        <placeName ana="Blais">Blais</placeName>
+        , destinée à souligner la réussite exceptionnelle d’un jeune diplômé. En décembre 2004, 
+        <persName ana="Stanley_Pean">Stanley Péan</persName>
+         est élu président de l’UNEQ, l’Union des écrivaines et écrivains du 
+        <placeName ana="Quebec">Québec</placeName>
+        , poste préstigieux du syndicat professionnel qui travaille à la promotion et à la diffusion de la littérature québécoise au 
+        <placeName ana="Canada">Canada</placeName>
+         et à l’étranger (en 2006, il est réélu pour un second mandat du poste qu’il occupe jusqu’en 2010).
+      </p>
+      <p>
+        À l’occasion des célébrations entourant ses 20 ans de carrière sur la scène littéraire en automne 2007, les éditions de La Courte Échelle publient simulantément son 21e titre – le recueil de nouvelles, Autochtones de la nuit – et rééditent en format de poche quatre œuvres antérieures (Le Tumulte de mon sang, 
+        <persName ana="Zombi_Blues">Zombi Blues</persName>
+        , La Nuit démasque et Le Cabinet du Docteur K).
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Stanley_Pean_biblio">
+    <div ref="http://ile-en-ile.org/pean/" xml:id="Stanley_Pean_biblio_auteur_ile_en_ile">
+      <list subtype="en español">
+        <item>La playa de los sueños y otros relatos de exilio. Trad. Magaly Muguercia. Montréal: CIDIHCA, 2001.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Tumulte de mon sang. Montréal: Québec/Amérique, 1991; Montréal: La Courte Échelle, 2001, 2007; Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>La Plage des songes et autres récits d’exil. Montréal: CIDIHCA, 1988; Montréal: BQ, 1998.</item>
+      </list>
+      <list subtype="récits">
+        <item>Toute la ville en jazz. Montréal: Trait d’union, 1999.</item>
+      </list>
+      <list subtype="romans et nouvelles pour la jeunesse">
+        <item>L’Emprise de la nuit. Montréal: La Courte Échelle, 1993, 2005.</item>
+      </list>
+      <list subtype="ouvrages collectifs et anthologies">
+        <item>« Ban mwen yon ti-bo ». Meilleur avant: 31/12/99. Québec: Le Palindrome, 1987.</item>
+      </list>
+      <list subtype="sélection d’articles et études">
+        <item>« La chose dans la cave : le fantastique maléfique dans la littérature québécoise ». Solaris 81 (hiver 1988).</item>
+      </list>
+      <list subtype="anthologie">
+        <item>Nul n’est une île: Solidarité Haïti  (avec Rodney Saint-Éloi). Montréal: Mémoire d’encrier, 2004.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Carnets d’un Black en Ayiti. Scénario, images et réalisation de Pierre Bastien; narration écrite et dite par Stanley Péan. Montréal: Cinéma libre, 1998, 52 minutes.</item>
+      </list>
+      <list subtype="traductions par stanley péan">
+        <item>« Tante Denise, tu n’es pas gendarme, alors pourquoi cette fusillade à tes funérailles? », par Edwidge Danticat. Trad. Stanley Péan. Nul n’est une île: Solidarité Haïti . Sous la direction de Stanley Péan et Rodney Saint-Éloi. Montréal: Mémoire d’encrier, 2004: 155-173.</item>
+      </list>
+      <list subtype="distinctions et prix littéraires">
+        <item>1992    Prix littéraire de la BCP du Saguenay – Lac Saint-Jean, pour Le Tumulte de mon sang.</item>
+      </list>
+      <list subtype="sur l’oeuvre de stanley péan">
+        <item>Beauquis, Corinne. « Stanley Péan: fantasmes et fictions de l’exil ». Horizons multiples de l’écriture haïtienne contemporaine, sous la direction de Joubert Satyre. Montréal: CIDIHCA, 2017: 87-114.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Stanley_Pean_web">
+    <list type="ile_en_ile">
+      <item ref="http://www.stanleypean.com/">Stanley Pean</item>
+      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      <item ref="http://revue.leslibraires.ca">Les Libraires</item>
+      <item ref="http://www.planeterebelle.qc.ca/auteurs/pean/spean2.html">La Nuit démasque</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/pean-stanley-365/">Stanley Péan</item>
+      <item ref="http://www.ulaval.ca/scom/contact/automne00/art_12.html">Stanley Péan, médaille Raymond-Blais</item>
+      <item ref="http://www.uneq.qc.ca/">L’UNEQ</item>
+      <item ref="http://www.noosfere.com/icarus/Livres/niourf.asp?numlivre=-327625">Zombi Blues</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=44339">Jazzman</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/50351/Le-Quebec-celebre-les-vingt-ans-decriture-de-Stanley-Pean">Le Québec célèbre les vingt ans d’écriture de Stanley Péan</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/138325/Le-jazz-et-Haiti-vus-par-Stanley-Pean">‘Le jazz et Haïti’ vus par Stanley Péan</item>
+    </list>
   </div>
 </TEI>

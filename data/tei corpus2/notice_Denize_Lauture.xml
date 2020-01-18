@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Denize_Lauture_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Denize_Lauture" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Deniz� Lauture</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Denizé Lauture</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Denize_Lauture_fiche_autorite">
+  <div n="1" xml:id="Denize_Lauture_fiche">
     <person ana="Denize_Lauture" sex="na">
-      <persName>Deniz� Lauture</persName>
+      <persName>Denizé Lauture</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -29,8 +29,180 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Professeur</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Denize_Lauture_bio">
+    <text ref="http://ile-en-ile.org/lauture/" xml:id="Denize_Lauture_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Denize_Lauture">
+          Denizé 
+          <placeName ana="Lauture">Lauture</placeName>
+        </persName>
+         (Denize Lotu) naît le 11 mai 1946 à la 
+        <placeName ana="Montagne_De_Jacmel">Montagne de Jacmel</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Fils aîné de petits paysans avec treize enfants, 
+        <persName ana="Denize_Lauture">
+          Denizé 
+          <placeName ana="Lauture">Lauture</placeName>
+        </persName>
+         quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1968. N’ayant pas encore terminé ses études secondaires, il travaille comme soudeur à 
+        <placeName ana="Harlem">Harlem</placeName>
+         tout en suivant des cours le soir au City College de 
+        <placeName ana="New_York">New York</placeName>
+         pour obtenir d’abord une licence (B.A.) en sociologie, ensuite une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         (M.S.) en pédagogie bilingue. Quelques années après, dans une autre faculté de CUNY (City University of 
+        <placeName ana="New_York">New York</placeName>
+        ), 
+        <persName ana="Lehman_College">Lehman College</persName>
+        , il fait une deuxième 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en lettres espagnoles.
+      </p>
+      <p>
+        Il écrit en créole, français et anglais. Ses poèmes ont paru dans de nombreuses revues dont Black American Literature Forum (African American Review), 
+        <placeName ana="Bomb">Bomb</placeName>
+        , 
+        <placeName ana="Callaloo">Callaloo</placeName>
+        , 
+        <persName ana="Drumvoices_Revue">Drumvoices Revue</persName>
+        , Litoral (
+        <placeName ana="Espagne">Espagne</placeName>
+        ), LittéRéalité, Présence Africaine et 
+        <placeName ana="Tanbou">Tanbou</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Denize_Lauture">
+          Denizé 
+          <placeName ana="Lauture">Lauture</placeName>
+        </persName>
+         réside dans 
+        <placeName ana="Le_Bronx">Le Bronx</placeName>
+         et enseigne le français et l’espagnol à 
+        <persName ana="Saint_Thomas_Aquinas_College">Saint Thomas Aquinas College</persName>
+        , à 
+        <placeName ana="Sparkill">Sparkill</placeName>
+        , 
+        <placeName ana="New_York">New York</placeName>
+        . Souvent invité à donner des lectures publiques de ses textes, le poète polyglotte anime avec passion de nombreuses salles dans les universités, écoles, musées et bibliothèques, et dans les festivals de poésie.
+      </p>
+      <p>
+        When the 
+        <persName ana="Denizen_Weeps">Denizen Weeps</persName>
+         est « une œuvre de souffrance – le poète pleure vraiment – des larmes multipliées mille et une fois, des larmes d’une multitude d’immigrants frustrés, déçus et bons travailleurs mais dont la vie ne mène nulle part » – 
+        <persName ana="Michael_Roberts">Michael Roberts</persName>
+         (Carib News, 18 April 1989).
+      </p>
+      <p>
+        « L’écriture de 
+        <placeName ana="Lauture">Lauture</placeName>
+         se balance de rythmes paisibles et sans hâte » – Publishers Weekly (28 décembre 1992).
+      </p>
+      <p>
+        « La poésie de 
+        <placeName ana="Lauture">Lauture</placeName>
+         est simple et éloquente, traduisant de façon superbe la joie et la satisfaction » – Multicultural Review 2.1 (1993).
+      </p>
+      <p>
+        <persName ana="Denize_Lauture">
+          Denizé 
+          <placeName ana="Lauture">Lauture</placeName>
+        </persName>
+         est un « jeune écrivain plein de talent, d’énergie et d’espoir, qui a du vague à l’âme et du style. La poésie au service de la créolité, seule version authentique de l’actualité et de la postérité. […]  C’est une poésie pleine de gouffres et de cieux, d’énigmes qu’il ne dévoile jamais. […] L’art de Denizé est donc anti-académique par excellence, vu son style extrêmement dépouillé, un style claquant. Un style varié, des thèmes recherchés, des sentiments à imiter, de quoi réveiller l’enfant qui est en nous, et rêver pendant toute une vie d’homme. […]  Il est ce qui m’attire le plus au monde: un indépendant ». – Pierre-
+        <persName ana="Raymond_Dumas">Raymond Dumas</persName>
+        , 
+        <placeName ana="Panorama">Panorama</placeName>
+         de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de la diaspora (Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        : L’Imprimeur II, 2000: 303-306).
+      </p>
+      <p>
+        « Sa poésie, d’un lyrisme simple et beau, s’imprègne souvent d’images qui parfois charment, parfois choquent ». – 
+        <persName ana="Sergio_Viliani">Sergio Viliani</persName>
+        , LittéRéalité 13.1 (printemps/été 2001).
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.denize-lauture.14134.html" xml:id="Denize_Lauture_bio_auteur_spla">
+      <p>
+        <persName ana="Denize_Lauture">
+          Denizé 
+          <placeName ana="Lauture">Lauture</placeName>
+        </persName>
+         (Denize Lotu) naît le 11 mai 1946 à la 
+        <placeName ana="Montagne_De_Jacmel">Montagne de Jacmel</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Fils aîné de petits paysans avec treize enfants, 
+        <persName ana="Denize_Lauture">
+          Denizé 
+          <placeName ana="Lauture">Lauture</placeName>
+        </persName>
+         quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1968. N'ayant pas encore terminé ses études secondaires, il travaille comme soudeur à 
+        <placeName ana="Harlem">Harlem</placeName>
+         tout en suivant des cours le soir au City College de 
+        <placeName ana="New_York">New York</placeName>
+         pour obtenir d'abord une licence (B.A.) en sociologie, ensuite une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         (M.S.) en pédagogie bilingue. Quelques années après, dans une autre faculté de CUNY (City University of 
+        <placeName ana="New_York">New York</placeName>
+        ), 
+        <persName ana="Lehman_College">Lehman College</persName>
+        , il fait une deuxième 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en lettres espagnoles. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Denize_Lauture_biblio">
+    <div ref="http://ile-en-ile.org/lauture/" xml:id="Denize_Lauture_biblio_auteur_ile_en_ile">
+      <list subtype="poésie en créole">
+        <item>Boula Pou Yon Metamòfoz Zèklè. New York: Bohyo Enterprises, 1987.</item>
+      </list>
+      <list subtype="poésie en français">
+        <item>Poèmes de feu et de soleil. ClicNet, 1998.</item>
+      </list>
+      <list subtype="poésie en anglais">
+        <item>When the Denizen Weeps. New York: Denizenism Editions, 1989.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Father and Son. Illustrations de Jonathan Green. New York: Putnam and Grosset, 1993; New York: Philomel Books (Penguin), 2009.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Stories from the Bottom of my Heart. Coconut Grove, Florida: EducaVision, 2011.</item>
+      </list>
+      <list subtype="poésie parue dans des ouvrages collectifs (sélections)">
+        <item>« A Green Star for the Bard », « The Gift of Creativity » et « Necropsying », Black American Literature Forum  20.3 (Autumn, 1986): 251-253.</item>
+      </list>
+      <list subtype="d’autres textes dans des ouvrages collectifs">
+        <item>« Franck Laraque, author ». Interview by Denizé Lauture (in English), May 26, 2008. Artist and Influence (New York) 28 (2009): 90-103.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1993    NAACP (National Association for the Advancement of Colored People) Image Awards, pour Father and Son.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Denize_Lauture_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/poetry-slam-celebrating-haitian-women/">Denizé Lauture reads reads selections from The Cactus Legend</item>
+      <item ref="http://ile-en-ile.org/denize-lauture-deux-poemes/">Deux poèmes</item>
+      <item ref="http://ile-en-ile.org/denize-lauture-deux-poemes/">Deux poèmes</item>
+      <item ref="http://ile-en-ile.org/denize-lauture-quatre-poemes/">Quatre poèmes</item>
+      <item ref="http://ile-en-ile.org/denize-lauture-quand-donc-verra-t-on-la-danse-des-colombes/">Quand donc verra-t-on la danse des colombes?</item>
+      <item ref="http://www.spdbooks.org/Details.asp?BookID=193006831X">The Black Warrior and Other Poems</item>
+      <item ref="http://www.tanbou.com/2003/summer/poesie.htm">Cet homme universel</item>
+      <item ref="http://clicnet.swarthmore.edu/litterature/moderne/lauture/presentation.html">Poèmes de feu et de soleil</item>
+      <item ref="http://www.tanbou.com/trilingualpress/index.htm">Trilingual Press</item>
+    </list>
   </div>
 </TEI>

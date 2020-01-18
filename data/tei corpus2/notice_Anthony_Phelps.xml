@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Anthony_Phelps_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Anthony_Phelps" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Anthony Phelps</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Anthony_Phelps_fiche_autorite">
+  <div n="1" xml:id="Anthony_Phelps_fiche">
     <person ana="Anthony_Phelps" sex="na">
-      <persName>
-        <surname source="bnf">Anthony</surname>
-        <forename source="bnf">Phelps</forename>
-      </persName>
+      <persName>Anthony Phelps</persName>
       <idno type="BNF">
         cb12029825k#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12029825k#about"/>
@@ -53,6 +50,206 @@
       <occupation source="viaf">divadelni producenti</occupation>
       <occupation source="viaf">basnici</occupation>
       <occupation source="viaf">authors black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Klang_Gary">
+          <persName>Klang Gary</persName>
+        </person>
+        <person ana="Rudman_Sean">
+          <persName>Rudman Sean</persName>
+        </person>
+        <person ana="Haas_Elsie">
+          <persName>Haas Elsie</persName>
+        </person>
+        <person ana="Roumain_Jacques">
+          <persName>Roumain Jacques</persName>
+        </person>
+        <person ana="Piazza_Francois">
+          <persName>Piazza François</persName>
+        </person>
+        <person ana="Phelps_Anthony">
+          <persName>Phelps Anthony</persName>
+        </person>
+        <person ana="Ollivier_Emile">
+          <persName>Ollivier Émile</persName>
+        </person>
+        <person ana="Martial_Jacques">
+          <persName>Martial Jacques</persName>
+        </person>
+        <person ana="Chemla_Yves">
+          <persName>Chemla Yves</persName>
+        </person>
+        <person ana="Litradukt_Literatureditionen">
+          <persName>litradukt Literatureditionen</persName>
+        </person>
+        <person ana="Schmutte_Ingeborg">
+          <persName>Schmutte Ingeborg</persName>
+        </person>
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Anthony_Phelps_bio">
+    <text ref="http://ile-en-ile.org/phelps/" xml:id="Anthony_Phelps_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+        , poète, romancier et diseur, est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , le 25 août 1928. Après des études de chimie et de céramique aux États-Unis et au 
+        <placeName ana="Canada">Canada</placeName>
+        , il se consacre surtout à la littérature.
+      </p>
+      <p>
+        En 1961 il fonde – avec les poètes Davertige, 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+        , 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+        , 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         et 
+        <persName ana="Auguste_Thenor">Auguste Thénor</persName>
+         – le groupe 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire et la revue Semences. Il met sur pied et anime la troupe de comédiens, Prisme, et réalise des émissions hebdomadaires de poésie et de théâtre à Radio Cacique, dont il est cofondateur.
+      </p>
+      <p>Il publie trois recueils de poèmes, et collabore à divers journaux et revues.</p>
+      <p>
+        Après un séjour dans les prisons du docteur-dictateur-à-vie, 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         est contraint de s’exiler.
+      </p>
+      <p>
+        Établi à 
+        <placeName ana="Montreal">Montréal</placeName>
+         en mai 1964, il y fait du théâtre – scène, radio et télé – puis du journalisme. Il participe à la narration de plusieurs films.
+      </p>
+      <p>
+        Il réalise et produit une dizaine de disques de poésie de poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et québécois.
+      </p>
+      <p>
+        Plusieurs fois boursier du Conseil des Arts du 
+        <placeName ana="Canada">Canada</placeName>
+         (bourse de création libre), il a obtenu, deux fois, le Prix de Poésie Casa de las Américas, 
+        <placeName ana="Cuba">Cuba</placeName>
+        .
+      </p>
+      <p>
+        Le 2 février 2001, 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         reçoit du Ministère des Relations avec les citoyens et de l’Immigration (
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         du 
+        <placeName ana="Quebec">Québec</placeName>
+        ) une plaque en hommage, à l’occasion du forum « Encre noire, littérature et communautés noires ».
+      </p>
+      <p>
+        Son œuvre, soit une vingtaine de titres, est traduite en espagnol, anglais, russe, ukrainien, allemand, italien, japonais et certains de ses livres figurent au programme des études françaises de plusieurs universités des États-Unis dont : Princeton, Saint Michael’s College (
+        <placeName ana="Vermont">Vermont</placeName>
+        ) et Iowa State University.
+      </p>
+      <p>
+        En 1985, après vingt ans de service à la Salle des nouvelles TV de Radio 
+        <placeName ana="Canada">Canada</placeName>
+        , il prend une retraite anticipée pour se consacrer entièrement à l’écriture.
+      </p>
+      <p>
+        Voir le texte, « Parcours d’
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         », par 
+        <persName ana="Helene_Maia">Hélène Maïa</persName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Anthony_Phelps_biblio">
+    <div ref="http://ile-en-ile.org/phelps/" xml:id="Anthony_Phelps_biblio_auteur_ile_en_ile">
+      <list subtype="poésie d’anthony phelps enregistrée par d’autres personnes">
+        <item>« Mon oxygène rêveur », « Je t’ai emprisonnée » et « À l’impromptu du couchant », poèmes d’Anthony Phelps dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="réalisation et interprétation par anthony phelps, sous les étiquettes les disques coumbite et les productions caliban">
+        <item>Mon Pays que voici, poème d’Anthony Phelps dit par l’auteur. Montréal, 1966; disque CD 2000, 2005.</item>
+      </list>
+      <list subtype="en català">
+        <item>« Enfant de déraison », « Visage », « Quand l’écriture devient fumée », « Il fait un temps de demoiselle » et « Magiciens ». Dans la gueule du renard / Dins la gola de la guineu. Éditions Anada i Tornada (Barcelona) 2 (septembre 2008).</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Denn wiederkehren wird Unendlichkeit. (Moins l’Infini)  Trad. Thomas Dobberkau. Berlin: Aufbau Verlag, 1976.</item>
+      </list>
+      <list subtype="in english">
+        <item>« Père caraïbe », poème. Trad. Janice Thomas. The New Voice (Trinidad-Tobago) 7.14 (1979).</item>
+      </list>
+      <list subtype="en español">
+        <item>Flores para los héroes. (Moins l’Infini, roman) Trad. Alcira Gonzalez Malleville. Grupo Editor de Buenos Aires, 1975.</item>
+      </list>
+      <list subtype="en italiano">
+        <item>Immobile Viaggiatrice di Picas. Trad. Antonella Emina. Torino: La Rosa Editrice, 2000.</item>
+      </list>
+      <list subtype="en japonais">
+        <item>« Hier, hier encore ». Anthologie de nouvelles haïtiennes. Tokyo: Kokusho-Kankokai, 2003.</item>
+      </list>
+      <list subtype="en russe et ukrainien">
+        <item>« Le Silence éclaté ». Nouvelle poésie haïtienne. (Anthologie) Moscou, 1968.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Été. Couverture et illustrations de Grace Phelps en collaboration avec l’auteur. Port-au-Prince: Impr. N. A. Théodore (Collection « Samba »), 1960.</item>
+      </list>
+      <list subtype="romans">
+        <item>Moins l’infini, roman haïtien. Paris: Les Éditeurs Français Réunis, 1973; Montréal: CIDIHCA, 2001; réédition sous le titre Des fleurs pour les héros. Paris: Le Temps des Cerises, 2013.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Le mannequin enchanté. Montréal: Leméac, 2009.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Le conditionnel. Montréal: Holt, Reinhart et Winston, 1968.</item>
+      </list>
+      <list subtype="contes pour enfants">
+        <item>Et moi, je suis une île. Montréal: Leméac, 1973; Montréal: Bibliothèque Québécoise, 2010. (Quatre nouvelles : « Moly, le petit poisson rouge »; « La poupée à la chevelure de soleil »; « Et moi, je suis une île »; « La roue vagabonde. »)</item>
+      </list>
+      <list subtype="autres publications">
+        <item>Image et verbe. (Trente collages de Irène Chiasson, accompagnés de poèmes de François Piazza, Anthony Phelps, Yves Leclerc, Raymond Charland. Préface de Robert Klein.). Longueil: Image et verbe éditions, 1966.</item>
+      </list>
+      <list subtype="films et vidéos">
+        <item>Aube noire. film, 20 min. Montréal: InformAction, 1980.</item>
+      </list>
+      <list subtype="collaboration à divers journaux et revues">
+        <item>Belgique : Marginales.</item>
+      </list>
+      <list subtype="participation à des congrès et rencontres">
+        <item>Festival Pouchkine : Moscou et Leningrad (Union Soviétique), juin 1971.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1980     Prix Casa de las Américas, pour La Bélière caraïbe.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’anthony phelps">
+        <item>Costantini, Alessandro. « Fantasmes de la violence et traumatismes de l’identité dans Mémoire en colin-maillard d’Anthony Phelps ».  La deriva delle francofonie 6.2 (Les Antilles, 1992): 129-156 (en trad. italienne : « Fantasmi della violenza e traumi dell’identità in Mémoire en colin-maillard ». Alessandro Costantini, Fantasmi narrativi e sovversione linguistica nel romanzo haitiano moderno e contemporaneo. Milano: Cisalpino–Ist. Ed. Universitario, 2002: 143-161.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Anthony_Phelps_web">
+    <list type="ile_en_ile">
+      <item ref="https://youtu.be/KA4Qa6d0vog?t=15m17s">Canapé</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://ile-en-ile.org/emile-ollivier-hommage-a-anthony-phelps/">Hommage à Anthony Phelps</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-hommage-a-emile-ollivier/">Hommage de Anthony Phelps à Émile Ollivier</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-mon-pays-que-voici/">Mon Pays Que Voici</item>
+      <item ref="http://ile-en-ile.org/parcours-danthony-phelps/">Parcours d’Anthony Phelps</item>
+      <item ref="http://ile-en-ile.org/jean-richard-laforest-emile-ollivier-anthony-phelps-pierrot-le-noir/">Pierrot le Noir</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-les-productions-caliban/">Les Productions Caliban</item>
+      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-ne-revele-pas-nos-mots-de-passe/">Ne révèle pas nos mots de passe</item>
+      <item ref="https://youtu.be/-lK0ECTzKLM">‘Des Livres et Vous’ avec Anthony Phelps</item>
+      <item ref="http://youtu.be/33Y72EIEtuM">Phelps, l’Haïtien Américain</item>
+      <item ref="http://www1.unive.it/nqcontent.cfm?a_id=44480">Fantasmes de la violence et traumatismes de l’identité dans Mémoire en colin-maillard d’Anthony Phelps</item>
+      <item ref="http://157.138.7.88/nqcontent.cfm?a_id=44479">Être/Paraître: le problème de la narration aliénée dans le romans d’Anthony Phelps</item>
+      <item ref="http://www.qim.com/nouvelles/archives_2009/20091029a.html">Musique et poésie en Amérique française</item>
+    </list>
   </div>
 </TEI>

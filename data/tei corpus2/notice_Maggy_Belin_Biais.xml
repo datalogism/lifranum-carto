@@ -1,25 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Maggy_Belin_Biais_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Maggy_Belin_Biais" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Maggy Belin Biais</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Maggy_Belin_Biais_fiche_autorite">
+  <div n="1" xml:id="Maggy_Belin_Biais_fiche">
     <person ana="Maggy_Belin_Biais" sex="na">
       <persName>Maggy Belin Biais</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Maggy_Belin_Biais_bio">
+    <text hand="Victor Chomentowski" ref="http://ile-en-ile.org/belin/" xml:id="Maggy_Belin_Biais_bio_auteur_ile_en_ile">
+      <p>
+        Née le 8 avril 1950 dans le quartier de 
+        <placeName ana="Bois_Patate">Bois Patate</placeName>
+         (Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        ), 
+        <persName ana="Maggy_Belin">Maggy Belin</persName>
+         perd son père à l’âge de 16 ans. Elle doit alors travailler pour aider sa mère et son frère. Elle poursuit néanmoins ses études au lycée puis à la faculté de Droit et de Sciences Économiques (de l’Université d’État d’
+        <placeName ana="Haiti">Haïti</placeName>
+        ). À 22 ans, elle épouse en 
+        <placeName ana="Haiti">Haiti</placeName>
+         un journaliste français. 
+        <persName ana="Maggy_Belin_Biais">Maggy Belin Biais</persName>
+         s’établit en 
+        <placeName ana="France">France</placeName>
+         où elle mène une carrière dans l’audit, mais elle garde un lien avec la 
+        <placeName ana="Terre">Terre</placeName>
+         natale grâce à sa famille et ses amis.
+      </p>
+      <p>
+        Pendant plusieurs décennies elle s’immerge dans l’univers des chiffres (expert-comptable, puis commissaire aux comptes, enfin responsable d’une grosse PME) et elle acquiert ainsi une large connaissance des entreprises, C’est avec ce bagage du monde réel que 
+        <persName ana="Maggy_Belin_Biais">Maggy Belin Biais</persName>
+         rejoint le monde des lettres qu’elle n’avait en fait jamais quitté, comme en témoigne sa bibliothèque.
+      </p>
+      <p>Ses premiers pas dans l’écriture, elle les fait grâce à ses petits-enfants qui lui réclament des « histoires venues de sa tête ». Pour eux, elle écrit des contes. Chez elle, les soirées se terminent toujours par des « cric-crac ».</p>
+      <p>
+        Elle se rend en 
+        <placeName ana="Haiti">Haïti</placeName>
+         pour constater, malheureusement comme pour beaucoup d’autres, que le séisme de 2010 a détruit sa 
+        <placeName ana="Maison">Maison</placeName>
+         natale. Elle en ressent un immense chagrin. Plus de passé. Plus de racines. De retour en 
+        <placeName ana="France">France</placeName>
+        , elle décide de combler ce vide en écrivant, pour ses enfants, une histoire ancrée en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Le projet prend de l’ampleur et donne naissance à un roman, Rose-Mercie, qui s’inspire de la vie tumultueuse de sa propre grand-mère. Cette fiction se déroule dans une période occultée de l’histoire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         : l’occupation étatsunienne (1915-1934). Son cadre : la région du 
+        <placeName ana="Cap_Haitien">Cap Haïtien</placeName>
+        , berceau de sa famille maternelle.
+      </p>
+      <p>
+        <persName ana="Maggy_Belin_Biais">Maggy Belin Biais</persName>
+         se revendique de la longue tradition des conteuses haïtiennes. Elle mêle l’histoire de son héroïne et celle d’
+        <placeName ana="Haiti">Haïti</placeName>
+         : une femme féministe avant l’heure et un pays meurtri par la présence d’un occupant. Dans son roman, elle aborde toutes les tensions qui traversent la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         : noirs et mulâtres, ville et « pays en dehors », vaudou et chrétienté, lettrés et illettrés…. Le tout dans une langue riche au goût épicé. Un mélange rythmé entre français et créole.
+      </p>
+      <p>L’auteure prépare la suite de Rose-Mercie (publié en 2017), saga qui s’achèvera au début de la dictature Duvalier.</p>
+      <p>
+        Résidente en 
+        <placeName ana="France">France</placeName>
+        , 
+        <persName ana="Maggy_Belin_Biais">Maggy Belin Biais</persName>
+         est impliquée dans le monde associatif franco-haïtien, orienté vers l’aide à l’éducation, la culture et l’entrepreneuriat.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Maggy_Belin_Biais_biblio">
+    <div ref="http://ile-en-ile.org/belin/" xml:id="Maggy_Belin_Biais_biblio_auteur_ile_en_ile">
+      <list subtype="roman">
+        <item>Rose-Mercie. Léchelle (France): Zellige, 2017.</item>
+      </list>
+      <list subtype="livres pour la jeunesse">
+        <item>Juyaga et le roi des serpents. Delmas: C3 Editions, 2017.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Maggy_Belin_Biais_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/belin-rose-mercie">Rose-Mercie</item>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://www.zellige.fr/collections/ayiti/ayiti/Maggy-BELIN-BIAIS-Rose-Mercie.html">Rose-Mercie</item>
+      <item ref="https://www.lesechos.fr/27/06/2017/LesEchos/22474-045-ECH_rose-mercie--pour-l-amour-d-haiti.htm">Rose-Mercie, pour l’amour d’Haïti</item>
+      <item ref="https://lenouvelliste.com/article/178603/rose-mercie-de-maggy-belin-biais-un-roman-feministe">Rose-Mercie’ de Maggy Belin Biais, un roman féministe</item>
+    </list>
   </div>
 </TEI>

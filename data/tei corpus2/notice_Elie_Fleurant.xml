@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Elie_Fleurant_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Elie_Fleurant" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Elie Fleurant</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Elie_Fleurant_fiche_autorite">
+  <div n="1" xml:id="Elie_Fleurant_fiche">
     <person ana="Elie_Fleurant" sex="na">
       <persName>Elie Fleurant</persName>
       <langKnowledge>
@@ -29,7 +29,24 @@
         </placeName>
       </residence>
       <occupation source="spla">Philosophe</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Elie_Fleurant_bio">
+    <text ref="http://www.spla.pro/fiche.personne.elie-fleurant.49633.html" xml:id="Elie_Fleurant_bio_auteur_spla">
+      <p>
+        &quot;Élie Fleurant est un poète-philosophe, éducateur, inventeur, historien d'origine haitienne. Né au Cap-Haitien, il a fait ses études primaires et secondaires au Collège Notre-Dame du Perpétuel Secours de sa ville natale. C'est en 1969 qu'il a émigré aux État-Unis. L'auteur est titulaire d'une license en psychologie et éducation de Oswego State University de 
+        <placeName ana="New_York">New York</placeName>
+         et d'une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en Philosophie et Administration Scolaire de St John's University. 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Elie_Fleurant_biblio"/>
+  <div n="4" xml:id="Elie_Fleurant_web">
+    <list type="spla">
+      <item ref="http://www.elifleurant.com">Website Elie Fleurant </item>
+    </list>
   </div>
 </TEI>

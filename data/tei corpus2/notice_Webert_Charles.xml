@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Webert_Charles_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Webert_Charles" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de W�bert CHARLES </title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Wébert CHARLES </title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Webert_Charles_fiche_autorite">
+  <div n="1" xml:id="Webert_Charles_fiche">
     <person ana="Webert_Charles" sex="na">
-      <persName>W�bert CHARLES </persName>
+      <persName>Wébert CHARLES </persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -29,8 +29,248 @@
         </placeName>
       </residence>
       <occupation source="spla">Editeur/trice</occupation>
-      <occupation source="spla"> Op�rateur/trice culturel/le</occupation>
-      <occupation source="spla"> Critique litt�raire</occupation>
+      <occupation source="spla"> Opérateur/trice culturel/le</occupation>
+      <occupation source="spla"> Critique littéraire</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Webert_Charles_bio">
+    <text ref="http://www.spla.pro/fiche.personne.webert-charles.39867.html" xml:id="Webert_Charles_bio_auteur_spla">
+      <p>
+        Wébert Charles est né le 24 octobre 1988 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Après des études de premier cycle en économie à l'Université de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il a décroché un diplôme de Master en Management culturel de l'Université de Ouagadougou 2 du 
+        <placeName ana="Burkina_Faso">Burkina Faso</placeName>
+        . Il détient également un Master I en Économie des organisations et Gouvernance à l'Université de Picardie Jules Verne (Amiens). Ancien auditeur en 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+         à l'Ecole Normale Supérieure de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il est chroniqueur littéraire au quotidien Le Nouvelliste et 
+        <placeName ana="Directeur">Directeur</placeName>
+         de la collection Classique de LEGS ÉDITION. 	Finaliste du 29ème prix du Jeune écrivain de langue française (PJEF) avec son titre La camionnette rouge, il est membre de l'Association des Etudes Haïtiennes (HSA, Haitian Studies Association), poète, et nouvelliste.	 	Co-fondateur de la revue Legs et Littérature, il a fondé avec Mirline Pierre et 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         LEGS ÉDITION, une 
+        <placeName ana="Maison">Maison</placeName>
+         d'édition 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et anime avec eux Livres 9, une émission sur le livre sur la radio 
+        <placeName ana="Magik">Magik</placeName>
+         9. Il est blogueur sur Mondoblog RFI.  	Œuvres  	 	Poésies :  	« Anthologie des Jeunes Poètes d'
+        <placeName ana="Haiti">Haïti </placeName>
+        », Poésies créations. Anthologie coordonnée par Jean Max Beauchamp, mai 2008.	 	« Pour que la 
+        <placeName ana="Terre">Terre</placeName>
+         s'en souvienne », éditions Bas de Page, avec 
+        <persName ana="Jean_Watson_Charles">Jean Watson Charles</persName>
+        , Juillet 2010, … pages ; Edilivre, Juillet 2012.	 	« Que l'espérance demeure », Le Vert Galant éditeur, avec 
+        <persName ana="Denise_Bernhardt">
+          Denise 
+          <placeName ana="Bernhardt">Bernhardt</placeName>
+        </persName>
+        , octobre 2012. 	« Marèl », éditions Ruptures, 2013.	  	Essais     « Insularité (s) », Legs et Littérature, revue de littérature contemporaine », # 1 avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , 
+        <persName ana="Jean_Watson_Charles">Jean Watson Charles</persName>
+        , LEGS ÉDITION, janvier-juin 2013, 115 pages. Sélection Prix du Livre insulaire Ouessant, 2013 ; Sélection Prix littéraire Fetkann, 2013.	   « Érotisme et tabou », Legs et Littérature, revue de littérature contemporaine, # 2, avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Mirline Pierre, LEGS ÉDITION, août 2013, 180 pages.	 	« Dictature, Révolte et Écritures féminines »,  Legs et Littérature, revue de littérature contemporaine # 3, avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Mirline Pierre, LEGS ÉDITION, février 2014, 222 pages.	 	« 50 livres 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         cultes qu'il faut avoir lus dans sa vie » avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         et Mirline Pierre, LEGS ÉDITIONS, mai 2014, 122 pages.  	 « Traduction, Réécriture et Plagiat », Legs et Littérature, revue de littérature contemporaine, # 4, avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Mirline Pierre et Carolyn Shread, LEGS ÉDITION, août 2014, 248 pages. 	« Migration et Littérature de la migration », »,  Legs et Littérature, revue de littérature contemporaine # 5, avec Wébert Charles, Mirline Pierre et Carolyn Shread, LEGS ÉDITION, avril 2015, 218 pages. 	« La littérature jeunesse »,  Legs et Littérature, revue de littérature contemporaine # 6, avec Wébert Charles, Mirline Pierre, LEGS ÉDITION, novembre 2015, 220 pages.   Récit :  	 « ...des maux et des rues », collectif, LEGS ÉDITION, août 2014, 126 pages.	  	Jeunesse:  .Je découvre... Martin Luther King, LEGS ÉDITION, octobre 2014, 52 pages.   Je découvre... 
+        <persName ana="Leopold_Sedar_Senghor">Léopold Sédar Senghor</persName>
+        , LEGS ÉDITION, 2016, 48 pages.  	Entretiens, émissions radiophoniques et télévisées 	 	Entretien avec 
+        <persName ana="Jean_Watson_Charles">Jean Watson Charles</persName>
+         (Vidéo), Télévisoin nationale d'
+        <placeName ana="Haiti">Haïti</placeName>
+         (TNH), 2011 	 Entretien avec Ghislaine Sathoud Juillet 2012 (
+        <placeName ana="Canada">Canada</placeName>
+        ), Tolérance.ca	 	À Haute voix (Chronique) sur Mélodie F.M, 103.3 (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) de 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour du premier numéro de la revue Legs et Littérature, mercredi 6 
+        <placeName ana="Mars">Mars</placeName>
+         2013.	 	Pluriel sur 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         Fm, 94.5 de Jacques Adler Jean-Pierre, avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour de la revue Legs et Littérature, dimanche 10 
+        <placeName ana="Mars">Mars</placeName>
+         2013.	 	 
+        <placeName ana="Kiskeya">Kiskeya</placeName>
+        , l'ile mystérieuse sur Canal bleu (chaine 38) de Marie 
+        <persName ana="Alice_Theard">Alice Théard</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour de la revue Legs et Littérature, dimanche 10 
+        <placeName ana="Mars">Mars</placeName>
+         2013.	 	Lecture et Compagnie sur Radio solidarité (107.3) de 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour du premier numéro de la revue Legs et Littérature, dimanche 14 avril 2013.	  	Pluriel sur 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         Fm, 94.5 de Jacques Adler Jean-Pierre, avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , 
+        <persName ana="Gary_Victor">Gary Victor</persName>
+         et 
+        <persName ana="Dany_Laferriere">
+          Dany 
+          <placeName ana="Laferriere">Laferrière</placeName>
+        </persName>
+         autour d'une réflexion sur la production littéraire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , dimanche 5 mai 2013.	 	Pluriel sur 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         Fm, 94.5 de Jacques Adler Jean-Pierre, avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour de la préparation du deuxième numéro de Legs et Littérature, dimanche 2 juin 2013.	 	Lecture et Compagnie sur Radio solidarité (107.3) de 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Mirline Pierre autour du deuxième numéro de la revue Legs et Littérature, dimanche 29 septembre 2013.	 	Lecture et Compagnie sur Radio solidarité (107.3) de 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour du deuxième numéro de la revue Legs et Littérature, dimanche 13 septembre 2013.	 	Pluriel sur 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         Fm, 94.5 de Jacques Adler Jean Pierre avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour du deuxième numéro de la revue Legs et Littérature, dimanche 13 septembre 2013.	 	À Haute voix (Chronique) sur Mélodie F.M, 103.3 (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) de 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour du deuxième numéro de la revue Legs et Littérature, mercredi 16 octobre 2013.	 	Lecture et Compagnie sur Radio solidarité (107.3) de 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         avec Mirline Pierre autour du troisième numéro de la revue Legs et Littérature et d'autres textes de LEGS ÉDITION, dimanche 13 septembre 2013.	 	À Haute voix (Chronique) sur Mélodie F.M, 103.3 (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) de 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         et Mirline Pierre autour de la réédition de Le sexe mythique de 
+        <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+         et de la représentation des femmes-écrivains dans la littérature, mercredi 12 
+        <placeName ana="Mars">Mars</placeName>
+         2014.	 	
+        <placeName ana="Kiskeya">Kiskeya</placeName>
+        , l'ile mystérieuse sur Canal bleu (chaine 38) de Marie 
+        <persName ana="Alice_Theard">Alice Théard</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         et Mirline Pierre autour de la revue Legs et Littérature et LEGS EDITION, dimanche 16 
+        <placeName ana="Mars">Mars</placeName>
+         2014.	 	À Haute voix (Chronique) sur Mélodie F.M, 103.3 (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) de 
+        <persName ana="Dominique_Batraville">Dominique Batraville</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+         autour de la publication de Poésies complètes de Coriolan Arduoin et Confidences et mélancolies de 
+        <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+        , mercredi 19 
+        <placeName ana="Mars">Mars</placeName>
+         2014.	  	Sur Wébert CHARLES  	LOUIS, Antoine Hubert, « 
+        <placeName ana="Bernhardt">Bernhardt</placeName>
+         et Charles, une Nacelle de rêves pour que l'espérance demeure », Le Matin, Octobre 2012.	 	PETIT FRERE, Dieulermesson, « Webert Charles joue à la marèl »,  Le Nouvelliste No 38997, jeudi 30 mai 2013.	  	PETIT FRERE, Dieulermesson, « Wébert Charles, finaliste du Prix du Jeune écrivain de langue française », Le Nouvelliste No 39038, du samedi 27 au mardi 30 juillet 2013.	 	BYRON, Lord Edwin, ''LEGS EDITION lance sa collection classique'', Le Nouvelliste No39172, lundi 17 et mardi 18 février 2014.	 	ADENET-LOUVET, Marjory, « Legs et littérature » : activistes littéraires en 
+        <placeName ana="Terre">Terre</placeName>
+         
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <placeName ana="France">France</placeName>
+        -
+        <placeName ana="Antilles">Antilles</placeName>
+        , mardi 25 février 2014.	 	ELBADAWI, Soeuf, ''Legs et littérature : Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en revue'', Africultures, 4 
+        <placeName ana="Mars">Mars</placeName>
+         2014.	 	BYRON, Lord Edwin, ''Les femmes et la dictature'', Le Nouvelliste, mercredi 20 
+        <placeName ana="Mars">Mars</placeName>
+         2014.  	Interventions publiques  	« Littérature Jeunesse. À quel âge devient-on lecteur », avec Marc-Endy Simon et Wébert Charles, Centre culturel Catherine Dunham, Parc de 
+        <placeName ana="Martissant">Martissant</placeName>
+        , jeudi 24 juillet 2014.    	« (Re)lire 
+        <persName ana="Marie_Vieux">Marie Vieux</persName>
+        -Chauvet aujourd'hui », avec 
+        <persName ana="Dieulermesson_Petit">Dieulermesson Petit</persName>
+        -Frère et Wébert Charles, Alliance française des 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+        , 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+        , 19 juillet 2014.    	« Littérature Jeunesse. À quel âge devient-on lecteur », avec 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+        , Wébert Charles, 
+        <persName ana="Bibliotheque_Araka">Bibliothèque Araka</persName>
+        , samedi 14 juin 2014.    	« L'espace rural dans les récits 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         contemporains », avec Wébert Charles, 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Bibliothèque Jean Valbrune 
+        <placeName ana="Bresil">Brésil</placeName>
+        , Fonds-Parisien, vendredi 6 juin 2014. 	  	« La place de la femme dans la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         », avec Mirline Pierre et Mirline Pierre, Institut français en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 24 avril 2014.  	 	 	« Littérature et Francophonie », avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Direction nationale du livre, Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 21 
+        <placeName ana="Mars">Mars</placeName>
+         2014.	 	 	« Les femmes et la dictature », autour du lancement du troisième numéro de la revue Legs et Littérature et du roman Le sexe mythique  de 
+        <persName ana="Nadine_Magloire">Nadine Magloire</persName>
+         avec 
+        <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
+        , Mirline Pierre, Evelyne Trouillot et 
+        <persName ana="Yanick_Lahens">
+          Yanick 
+          <placeName ana="Lahens">Lahens</placeName>
+        </persName>
+        , Direction nationale du livre, Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 15 
+        <placeName ana="Mars">Mars</placeName>
+         2014.	 	 	« Pour une géographie de la littérature : la mise en récit de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         », 25th annual Haitian Studies Conference, Karibe hôtel, Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 7-9 novembre 2013.	 	 	Animateur d'atelier d'écriture poétique moderne, ASSOC et Éditions Bas de Page, Collège des Cadres Evangéliques de la Route de Frère (
+        <placeName ana="Petion">Pétion</placeName>
+        -ville) Sept-Octobre 2012.	 	 	L'avenir du livre papier, avec les Éditions Bas de Page, Café-Philo 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 2012.	 	 	Livre en Folie 2010 (16ème édition), signature du livre Pour que la 
+        <placeName ana="Terre">Terre</placeName>
+         s'en souvienne, mai 2010. 	 	Organisateur de Rire en poésie : Printemps des Poètes, Institut Français d'
+        <placeName ana="Haiti">Haïti</placeName>
+        , 2009.  	Animateur d'atelier d'écriture poétique à la Bibliothèque 
+        <placeName ana="Maison">Maison</placeName>
+         de Grand 'Anse, avec James Fleurissaint, 2008.	 	Livres en Folie (14ème), signature de l'Anthologie des Jeunes Poètes d'
+        <placeName ana="Haiti">Haïti</placeName>
+        , mai 2008.  	Prix et distinctions littéraires :  	2013 : Finaliste du Prix du jeune écrivain de langue française, 29ème édition.  	2013: Mondoblogueur pour Radio 
+        <placeName ana="France">France</placeName>
+         Internationale (RFI) 	  Associations artistiques et littéraires	  	Actes de Présence, Membre. www.actesdepresence.free.fr	 	Littératures du Monde, Coordonnateur   www.litteratures.fr.ht	 	Legs et Littérature, Rédacteur  www.legsedition.net 	LEGS ÉDITION, PDG www.legsedition.com 	Association Legs et Littérature (ALEL), Secrétaire  www.alel.legsedition.net
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Webert_Charles_biblio"/>
+  <div n="4" xml:id="Webert_Charles_web">
+    <list type="spla">
+      <item ref="http://lelivre.mondoblog.org">Website WÃ©bert CHARLES  </item>
+    </list>
   </div>
 </TEI>

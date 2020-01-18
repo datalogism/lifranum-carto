@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jean_Durosier_Desrivieres_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jean_Durosier_Desrivieres" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jean Durosier Desrivi�res</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Jean-Durosier Desrivières</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jean_Durosier_Desrivieres_fiche_autorite">
+  <div n="1" xml:id="Jean_Durosier_Desrivieres_fiche">
     <person ana="Jean_Durosier_Desrivieres" sex="na">
-      <persName>Jean Durosier Desrivi�res</persName>
+      <persName>Jean-Durosier Desrivières</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -29,8 +29,202 @@
         </placeName>
       </residence>
       <occupation source="spla">Dramaturge</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Journaliste</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Jean_Durosier_Desrivieres_bio">
+    <text ref="http://ile-en-ile.org/desrivieres/" xml:id="Jean_Durosier_Desrivieres_bio_auteur_ile_en_ile">
+      <p>
+        Jean-
+        <persName ana="Durosier_Desrivieres">Durosier Desrivières</persName>
+         est né le 16 septembre 1972 en banlieue de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il détient un certificat en 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+         et classiques de l’École Normale Supérieure d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et est diplômé en littérature francophone et générale de l’Université des 
+        <placeName ana="Antilles">Antilles</placeName>
+         et de la 
+        <placeName ana="Guyane">Guyane</placeName>
+         (UAG), en 
+        <placeName ana="Martinique">Martinique</placeName>
+         ; il est également diplômé en études théâtrales de l’Université Lumière-
+        <placeName ana="Lyon">Lyon</placeName>
+         2. Il a consacré des travaux de recherche à la poésie d’expression française de 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+        , poète engagé dont il a rédigé la préface du recueil Le trou du souffleur (éditions Caractères). Cet ouvrage a été récompensé du prix Carbet en 2006.
+      </p>
+      <p>
+        Desrivières est l’auteur de poèmes en français et en créole, d’articles et de critiques littéraires publiés dans différents journaux, revues et magazines en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et à l’étranger, notamment Conjonction, 
+        <placeName ana="Orpheus">Orphéus</placeName>
+        , 
+        <placeName ana="Bacchanales">Bacchanales</placeName>
+         et 
+        <placeName ana="Riveneuve_Continents">Riveneuve Continents</placeName>
+        . Il a enseigné à la 
+        <placeName ana="Martinique">Martinique</placeName>
+         de 2001 à 2008, et s’est intéressé à l’art scénique en tant que comédien amateur et animateur d’atelier de théâtre éducatif (2004-2008). Il a conçu et animé deux émissions de poésie et de musique, intitulées « Mélodies et paroles » et « Caravane littéraire », pour deux stations de radio.
+      </p>
+      <p>
+        Son texte Paroles en crue, nominé au 4e concours d’Etc_Caraïbe (Écritures Théâtrales Contemporaines en 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        ) a été mis en lecture à la 18e édition des Soirées d’été en 
+        <placeName ana="Luberon">Luberon</placeName>
+         (où il était poète invité d’honneur en 2009), aux Premières rencontres dramaturgiques de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , à Fort-de-
+        <placeName ana="France">France</placeName>
+        , au Théâtre Komédie de 
+        <placeName ana="Prague">Prague</placeName>
+        , à l’Université Hradec Kralove, et au Théâtre du Rond-Point à 
+        <placeName ana="Paris">Paris</placeName>
+         en 2010. Ce drame absurde oppose deux personnages de classes sociales différentes qui se retrouvent en huis clos externe, face à la menace d’une innondation : il pose les questions de la relation à l’autre, à la vie, à la mort et à l’environnement. Cette pièce fait l’objet du dernier travail universitaire de Desrivières, détenteur d’un Master en études théâtrales à l’université Lumière, 
+        <placeName ana="Lyon">Lyon</placeName>
+         2 (2008-2010).
+      </p>
+      <p>
+        Après avoir vécu neuf ans à la 
+        <placeName ana="Martinique">Martinique</placeName>
+         (entre 1999 et 2008), Jean-
+        <persName ana="Durosier_Desrivieres">Durosier Desrivières</persName>
+         retourne en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 2009 ; il y a survécu de justesse au tremblement de 
+        <placeName ana="Terre">Terre</placeName>
+         du 12 janvier 2010.
+      </p>
+      <p>
+        En plus de participer à plusieurs rendez-vous culturels et universitaires – résidences d’écriture, salons littéraire, festivals, colloques et spectacles vivants – en Europe et dans la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , Jean-
+        <persName ana="Durosier_Desrivieres">Durosier Desrivières</persName>
+         a également été écrivain en résidence au sein de diverses institutions littéraires. Il est l’auteur de pièces de théâtre et coauteur des deux volumes du Dictionnaire des écrivains francophones classiques. Il alimente régulièrement des sites web, particulièrement 
+        <placeName ana="Potomitan">Potomitan</placeName>
+         et 
+        <persName ana="Montray_Kreyol">Montray Kréyol</persName>
+        , par des entretiens, des textes théoriques et littéraires. Attaché à l’Académie de 
+        <placeName ana="Martinique">Martinique</placeName>
+        , il continue à enseigner les lettres, à travailler sur des projets culturels et à écrire.
+      </p>
+      <p>
+        Le plaisir de ce passeur de poésie – membre fondateur de la revue L’incertain (Revue de 
+        <persName ana="Creation_Litteraire">Création Littéraire</persName>
+         et critique) – se décèle aussi à travers ses divers ateliers d’écriture, qui révèlent toujours de jeunes lecteurs et créateurs, apprentis poètes et écrivains en devenir.
+      </p>
+      <p>
+         – 
+        <persName ana="Mylene_Dorce">Mylène Dorcé</persName>
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.jean-durosier-desrivieres.24258.html" xml:id="Jean_Durosier_Desrivieres_bio_auteur_spla">
+      <p>
+        Né en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , Jean Durosier DESRIVIERES a vécu en 
+        <placeName ana="Martinique">Martinique</placeName>
+         de 1999 à 2008. Certifié ès 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+         et classiques de L'Ecole Normale Supérieure d'
+        <placeName ana="Haiti">Haïti</placeName>
+        , diplômé en Littérature francophone et générale à l'Université des 
+        <placeName ana="Antilles">Antilles</placeName>
+         et de la 
+        <placeName ana="Guyane">Guyane</placeName>
+        , il a consacré des travaux de recherches relatifs à la poésie d'expression française de 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+        , un poète haïtien engagé. Il est le préfacier du dernier recueil de celui-ci, Le trou du souffleur, prix carbet 2006.Auteur de poèmes en français et en créole, d'articles et critiques littéraires publiés dans différents journaux, revues et magazines 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et étrangers, vice-président de l'Atelier de Création, de Recherches et d'études en Littérature Comparée (ACRELC), il a enseigné les 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+         et classiques en 
+        <placeName ana="Martinique">Martinique</placeName>
+         (2001-2008) et s'est intéressé à l'art de la scène en tant que comédien amateur et animateur d'atelier de théâtre dans des collèges et lycées (2004-2008). Aussi, il a animé des émissions radiophoniques de poésie et de musique sur deux stations de radio de la 
+        <placeName ana="Martinique">Martinique</placeName>
+         - Campus FM et Radio Lévé Doubout Matinik (RLDM), une radio communautaire. Il prépare actuellement un Master en Arts et spectacle, spécialité études théâtrales, à l'Université Lumière, 
+        <placeName ana="Lyon">Lyon</placeName>
+         2.Poète invité d'honneur de Gargas Café (décembre 2008) et de la 18e édition des Soirées d'été en 
+        <placeName ana="Luberon">Luberon</placeName>
+         (26 juin-5 juillet 2009), il a été nominé au 4e concours d'etc_caraïbe avec &quot;Paroles en crue&quot;, mis en lecture aux Soirées d'été et aux 1ères Rencontres Dramaturgiques de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         à Fort-de-
+        <placeName ana="France">France</placeName>
+         (22-24 octobre 2009). Son dernier poème &quot;
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        , papa&quot; est publié dans le N°44 de 
+        <placeName ana="Bacchanales">Bacchanales</placeName>
+         - &quot;EnfanSillage&quot;, la revue de la 
+        <placeName ana="Maison">Maison</placeName>
+         de la poésie Rhône-Alpes. Il est co-auteur du Dictionnaire des cent auteurs francophones classiques que le Centre de Recherche Textes et Francophonies de l'Université 
+        <placeName ana="Cergy">Cergy</placeName>
+        -Pontoise doit bientôt éditer. Depuis son retour au pays natal en août 2009, il travaille avec le groupe des jeunes comédiens de &quot;L'atelier Soleil&quot;, issus du &quot;Petit Conservatoire&quot; dirigé par 
+        <persName ana="Daniel_Marcelin">Daniel Marcelin</persName>
+         ; il a animé &quot;Absolument livre&quot;, une émission de la Direction Nationale du Livre (DNL), diffusée par la Télévision Nationale d'
+        <placeName ana="Haiti">Haïti</placeName>
+         (TNH) ; il a intégré le Cabinet du Ministère de la Culture et de la Communication 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         haïtien, en tant qu'assistant de la Conseillère Spéciale auprès de la Ministre, Magali Comeau Denis, grande comédienne et figure militante. Mis en disponibilité, dans le contexte exceptionnel du post-séisme, il était invité à 
+        <placeName ana="Prague">Prague</placeName>
+         du 20 au 25 
+        <placeName ana="Mars">Mars</placeName>
+         2010 en tant que poète-dramaturge, dans le cadre du Festival &quot;Nous sommes tous africains&quot;.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Durosier_Desrivieres_biblio">
+    <div ref="http://ile-en-ile.org/desrivieres/" xml:id="Jean_Durosier_Desrivieres_biblio_auteur_ile_en_ile">
+      <list subtype="ailleurs sur le web">
+        <item>« Mise en orbite d’un beau conflit », janvier 2014.         
+</item>
+      </list>
+      <list subtype="poésie">
+        <item>Bouts de ville à vendre, Poésie d’urgence. Linotypes de Gérald Bloncourt. Paris: Caractères, 2010.</item>
+      </list>
+      <list subtype="poésie publiée dans des ouvrages collectifs">
+        <item>« Dissertation ». Orphéus (Revue internationale de poésie, 2001): 10-14.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Paroles en crue, texte théâtral finaliste au 4e Concours d’Etc_Caraïbe / Beaumarchais (2009), lu dans la Caraïbe, en Tchéquie et en France, notamment au Théâtre du Rond-Point à Paris, par François Marthouret et Jacques Martial, septembre 2010.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Critiquer et dépasser l’histoire de la littérature haïtienne de R. Berrou et de P. Pompilus ». Conjonction 209 (2003): 54-57.</item>
+      </list>
+      <list subtype="contributions diverses">
+        <item>« Sens de cette scène, obscène et bienheureuse » (préface). Le trou du souffleur de Georges Castera. Paris: Caractères, 2006: 9-15.</item>
+      </list>
+      <list subtype="performances et créations scéniques">
+        <item>Hamlet, d’après Shakespeare, avec Elie Pennont, Théâtre de la Soif Nouvelle, Nuits culturelles de Rivière-Pilote, Martinique, juillet 1999.</item>
+      </list>
+      <list subtype="résidences">
+        <item>Résidence d’écriture, La Maison des Auteurs, Les Francophonies en Limousin, Limoges, avril-mai 2010.</item>
+      </list>
+      <list subtype="distinctions, invitations et interventions publiques">
+        <item>Poète invité d’honneur de Gargas’Café, Apt, France, décembre 2008.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jean_Durosier_Desrivieres_web">
+    <list type="ile_en_ile">
+      <item ref="http://www.potomitan.info/ayiti/desrivieres">Jean-Durosier Desrivières</item>
+      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/amenagement3.php">La pratique écrite du créole haïtien, entre fiction et diction. Tèks envante, tèks lide ak tèks tradwi</item>
+      <item ref="http://www.potomitan.info/ayiti/desrivieres/litterature.php">Brève exploration de la littérature en langue créole en Haïti, de ses balbutiements à son affirmation</item>
+      <item ref="http://www.potomitan.info/ayiti/desrivieres/roussan.php">Topographie inventée, dans l’attente du jour », une lecture d’Assaut à la nuit de Roussan Camille</item>
+      <item ref="http://www.madinin-art.net/litterature/georges_castera.htm">Un langage à double canon, pour dire l’indifférence</item>
+      <item ref="http://www.lesfrancophonies.com/maison-des-auteurs/desrivieres-jean-durosier">Jean Durosier Desrivières</item>
+      <item ref="http://www.m-e-l.fr/jean-durosier-desrivieres,ec,901">Jean Durosier Desrivières</item>
+      <item ref="http://www.radio.cz/fr/rubrique/culture/haiti-la-litterature-pour-exorciser-la-catastrophe">Haïti : la littérature pour exorciser la catastrophe</item>
+      <item ref="http://www.radio.cz/fr/rubrique/culture/haiti-la-litterature-pour-exorciser-la-catastrophe">Haïti : la littérature pour exorciser la catastrophe</item>
+      <item ref="http://www.radioo.fr/podcasts/paris-sur-mer/le-cahier-dechire_39950.html">Le cahier déchiré</item>
+      <item ref="http://www.rfi.fr/emission/20110902-sapeurs-francais">Les sapeurs du français à Haïti</item>
+      <item ref="http://www.franceinter.fr/emission-ouvert-la-nuit-vincent-chaudel-amarco-et-elise-caron-en-live-eric-khoo-guy-regis-jr-et-jean">Ouvert la nuit</item>
+      <item ref="http://vimeo.com/82717654">Lycée Expérimental</item>
+      <item ref="http://vimeo.com/82717654">Lycée Expérimental</item>
+      <item ref="http://vimeo.com/84201028">Comme en 14</item>
+      <item ref="http://vimeo.com/82467552">Des mots et des mets</item>
+      <item ref="http://vimeo.com/82462620">Lecture de Jean-Durosier Desrivières</item>
+    </list>
   </div>
 </TEI>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Rhoddy_Attilus_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Rhoddy_Attilus" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Rhoddy Attilus</title>
-        <author>InËs Burri</author>
-        <author>AnaÔs Chambat</author>
-        <author>CÈlian Ringwald</author>
+        <author>In√®s Burri</author>
+        <author>Ana√Øs Chambat</author>
+        <author>C√©lian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>UniversitÈ Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>UniversitÈ Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Universit√© Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Universit√© Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>DonnÈes issues de sources d'autoritÈs et de rÈpÈtoire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorit√©s et de r√©p√©toire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Rhoddy_Attilus_fiche_autorite">
+  <div n="1" xml:id="Rhoddy_Attilus_fiche">
     <person ana="Rhoddy_Attilus" sex="na">
       <persName>Rhoddy Attilus</persName>
       <langKnowledge>
@@ -31,4 +31,17 @@
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Rhoddy_Attilus_bio">
+    <text ref="http://www.spla.pro/fiche.personne.rhoddy-attilus.43531.html" xml:id="Rhoddy_Attilus_bio_auteur_spla">
+      <p>
+        Rhoddy Attilus est √©crivain. Il est originaire du 
+        <placeName ana="Cap_Haitien">Cap Ha√Øtien</placeName>
+        . En 2014, il a re√ßu le Prix 
+        <placeName ana="Deschamps">Deschamps</placeName>
+         pour son roman K√®k√®t ak Janmari, √©crit en cr√©ole. &quot;Dans ce roman, Rhoddy Attilus, pr√©sente une tranche de vie capoise et un tableau des rapports entre vie urbaine et vie rurale dans un grand Nord qu'il offre aux lecteurs (trices) dans toute sa complexit√©, ses charmes et ses contradictions.&quot; rapporte HPN.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Rhoddy_Attilus_biblio"/>
+  <div n="4" xml:id="Rhoddy_Attilus_web"/>
 </TEI>

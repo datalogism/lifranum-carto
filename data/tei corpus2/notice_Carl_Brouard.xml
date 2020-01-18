@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Carl_Brouard_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Carl_Brouard" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Carl Brouard</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Carl_Brouard_fiche_autorite">
+  <div n="1" xml:id="Carl_Brouard_fiche">
     <person ana="Carl_Brouard" sex="na">
       <persName>Carl Brouard</persName>
       <death source="ile_en_ile_auto">
@@ -33,5 +33,246 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Carl_Brouard_bio">
+    <text ref="http://ile-en-ile.org/brouard/" xml:id="Carl_Brouard_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         naît le 5 décembre 1902 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         d’une famille bourgeoise. Son père, 
+        <persName ana="Rafael_Brouard">Rafaël Brouard</persName>
+        , est un négociant de la Place ; sa mère, 
+        <persName ana="Cleomie_Gaetjens">Cléomie Gaetjens</persName>
+        , une bourgeoise puritaine. Le couple a eu quatre enfants. Brouard vit une enfance heureuse dans les frais ombrages de 
+        <placeName ana="Bizoton">Bizoton</placeName>
+        . En octobre 1907, 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         est inscrit à l’école 
+        <persName ana="Erima_Guignard">Erima Guignard</persName>
+        . En 1912, il est accepté au Collège des Pères du Saint-Esprit en classe de huitième. Il est déjà un grand amateur du Moyen-Âge. L’année d’après, il quitte le Collège du Saint-Esprit pour étudier sous la supervision de Catts Pressoir, alors en deuxième année de médecine.
+      </p>
+      <p>
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         a seize ans quand les marines débarquent en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Le jeune Brouard en est meurtri : « 28 juillet 1915. L’Américain foulait notre sol. Bien qu’alors en pantalons courts […] la mélancolie dilata nos yeux ». En 1919, Brouard achève son cycle d’études scolaires chez Catts Pressoir. C’est un jeune homme curieux qui se nourrit de la vision nationaliste de 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , auteur de La vocation de l’élite.
+      </p>
+      <p>À vingt ans, Brouard se brouille avec son père. Alcoolique, le jeune Brouard mène une vie de bohème, qui effraie les gens de sa classe sociale et il commence à s’intéresser au vaudou.</p>
+      <p>
+        Les parents de 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         partent pour 
+        <placeName ana="La_France">la France</placeName>
+         où le jeune Brouard séjourne brièvement, fasciné par la vie parisienne. En 1922, il revient au pays où il suit de près les débats de son temps et considère 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         comme « le seul écrivain à avoir eu de l’influence sur sa génération ».
+      </p>
+      <p>
+        Amoureux d’
+        <persName ana="Anna_Lerebours">Anna Lerebours</persName>
+        , femme d’origine modeste, 
+        <persName ana="Brouard_L’">Brouard l’</persName>
+        épouse en 1936. De cette union, naîtront deux filles, Cléomie et Olga.
+      </p>
+      <p>
+        En 1927, Brouard fait paraître son unique recueil Écrit sur du Ruban rose. La même année, à la parution de La Revue indigène, on le retrouvera membre du comité de rédaction à côté des écrivains 
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+        , 
+        <persName ana="Normil_Sylvain">Normil Sylvain</persName>
+        , 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        , 
+        <persName ana="Antonio_Vieux">Antonio Vieux</persName>
+        , 
+        <persName ana="Philippe_Thoby">
+          Philippe 
+          <placeName ana="Thoby">Thoby</placeName>
+        </persName>
+        -Marcelin et 
+        <persName ana="Daniel_Heurtelou">Daniel Heurtelou</persName>
+        . Brouard collabore à 
+        <placeName ana="La_Trouee">La Trouée</placeName>
+        , revue éphémère fondée en 1927 par 
+        <persName ana="Richard_Salnave">Richard Salnave</persName>
+        , 
+        <persName ana="Daniel_Heurtelou">Daniel Heurtelou</persName>
+        , 
+        <persName ana="Max_Hudicourt">Max Hudicourt</persName>
+         et 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        .
+      </p>
+      <p>
+        En 1928, Brouard publie un article dans lequel il affirme : « Après tout, le vaudou est notre seule originalité » à la suite de la parution du monumental essai Ainsi parla l’oncle de 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        . Il s’initie au vaudou. En 1929, Brouard devient gérant-responsable du 
+        <placeName ana="Journal">Journal</placeName>
+         Le petit impartial. Comme ses précédents directeurs 
+        <persName ana="Georges_Petit">Georges Petit</persName>
+         et 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        , il sera emprisonné. La cause : une interférence de lignes dans le compte-rendu du procès de Roumain : « Louis Borno s’est hissé au rang de malfaiteurs » au lieu de « au pouvoir ».
+      </p>
+      <p>
+        Brouard prend une part active dans la vie culturelle 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , en publiant des articles critiques sur 
+        <persName ana="Stephen_Alexis">Stéphen Alexis</persName>
+        , 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+        , 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         entre autres.
+      </p>
+      <p>
+        En 1930, reprochant aux marxistes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         leur vision sociale étroite, Brouard évite le 
+        <placeName ana="Cenacle">Cénacle</placeName>
+         de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         et intègre le groupe 
+        <placeName ana="Les_Griots">Les Griots</placeName>
+        , composé des trois D : 
+        <persName ana="Louis_Diaquoi">Louis Diaquoi</persName>
+        , 
+        <persName ana="Lorimer_Denis">Lorimer Denis</persName>
+         et 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        . Chef de file des Griots, Brouard travaille à valoriser le folklore haïtien et écrit cette célèbre formule : « Nous remîmes en honneur l’assotor et l’açon ».
+      </p>
+      <p>
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         continue à écrire et à publier dans les journaux, mais son errance et sa vie de bohème ne lui permettent pas de poursuivre son œuvre.
+      </p>
+      <p>
+        En 1963, les amis de 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+        , à l’initiative de l’historien 
+        <persName ana="Roger_Gaillard">Roger Gaillard</persName>
+        , forment le « Comité Soixantième Anniversaire de 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         » qui publie une anthologie des œuvres de Brouard sous le titre de Pages retrouvées.
+      </p>
+      <p>
+        Affaibli et miné par l’alcool, 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         meurt à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en novembre 1965, seul, en pleine rue. Il aura des funérailles officielles. Chantées le 29 novembre, les funérailles, dit un 
+        <placeName ana="Journal">Journal</placeName>
+         de l’époque, étaient officielles et populaires.
+      </p>
+      <p>
+        La renommée de 
+        <persName ana="Carmen_Brouard">Carmen Brouard</persName>
+         (1909-2005), la sœur du poète, était fondée sur son talent musical de pianiste et de compositrice.
+      </p>
+      <p>
+        Parmi une intéressante contribution à la musique de chambre et aux formes concertantes, 
+        <persName ana="Carmen_Brouard">Carmen Brouard</persName>
+         a aussi consacré un intérêt à de nombreux poètes en créant des cycles de mélodies, empruntant à 
+        <persName ana="Michel_Garneau">Michel Garneau</persName>
+        , 
+        <persName ana="Omar_Khayyam">Omar Khayyam</persName>
+        , 
+        <persName ana="Gary_Klang">Gary Klang</persName>
+        , 
+        <persName ana="Marie_Laurencin">Marie Laurencin</persName>
+        , 
+        <persName ana="Emile_Nelligan">Émile Nelligan</persName>
+        , 
+        <persName ana="Sri_Aurobindo">Sri Aurobindo</persName>
+        , 
+        <persName ana="Rabindranath_Tagore">Rabindranath Tagore</persName>
+         et 
+        <persName ana="Walt_Whitman">Walt Whitman</persName>
+        .
+      </p>
+      <p>
+        Deux poèmes de son frère 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         – « Prière » et « Quand je serai mort » – se trouvent ainsi insérés dans son cycle Reflets d’âme.
+      </p>
+      <p>
+        En 2004, les Éditions Mémoire d’encrier à 
+        <placeName ana="Montreal">Montréal</placeName>
+         reprennnent les textes de 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         (poésie, prose) dans leur collection « Anthologie secrète » (lire la « Présentation » par 
+        <persName ana="Rodney_Saint">Rodney Saint</persName>
+        -Éloi).
+      </p>
+      <p>
+        La présentation biographique de 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         pour Île en île est adaptée, avec permission, de la « Chronologie » de l’Anthologie secrète de 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         (Mémoire d’encrier, 2004), pages 127-128.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.carl-brouard.14063.html" xml:id="Carl_Brouard_bio_auteur_spla">
+      <p>
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         naît le 5 décembre 1902 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         d'une famille bourgeoise. Son père, 
+        <persName ana="Rafael_Brouard">Rafaël Brouard</persName>
+        , est un négociant de la Place ; sa mère, 
+        <persName ana="Cleomie_Gaetjens">Cléomie Gaetjens</persName>
+        , une bourgeoise puritaine. Le couple a eu quatre enfants. Brouard vit une enfance heureuse dans les frais ombrages de 
+        <placeName ana="Bizoton">Bizoton</placeName>
+        . En octobre 1907, 
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+         est inscrit à l'école 
+        <persName ana="Erima_Guignard">Erima Guignard</persName>
+        . En 1912, il est accepté au Collège des Pères du Saint-Esprit en classe de huitième. Il est déjà un grand amateur du Moyen-Âge. L'année d'après, il quitte le Collège du Saint-Esprit pour étudier sous la supervision de Catts Pressoir, alors en deuxième année de médecine. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Carl_Brouard_biblio">
+    <div ref="http://ile-en-ile.org/brouard/" xml:id="Carl_Brouard_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« Nostalgia » and « Art in the Service of the People » (excerpt). Trans. J. Michael Dash. « The Poetic Renaissance: Five Poems Philippe Thoby-Marcelin, Carl Brouard, Leon Laleau, Emile Roumer ». (Trans. J. Michael Dash.) A Haiti Anthology: Libète. Charles Arthur and J. Michael Dash, eds. Princeton (New Jersey): Markus Wiener, 1999: 298, 301-302.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Écrit sur du Ruban rose. Port-au-Prince: à compte d’auteur, 1927.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Les aventures de Malice et de Bouqui. Illustrations de Robert Bigaud (Djoby). Port-au-Prince: Editions Christophe, 2000, 30p.</item>
+      </list>
+      <list subtype="sur l’oeuvre de carl brouard">
+        <item>Berrou, F. Raphaël et Pradel Pompilius. Deux poètes indigénistes: Carl Brouard et Émile Roumer.Extraits tirés de l’Histoire de la littérature haïtienne (de Berrou et Pompilus), Tome 3. Port-au-Prince: Editions Caraïbes, 1974.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Carl_Brouard_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/carl-brouard-presentation/">Présentation</item>
+      <item ref="http://ile-en-ile.org/carl-brouard-six-poemes/">Six poèmes</item>
+      <item ref="http://radiohaitilives.com/fr/enregistrements/celebration-de-carl-brouard-rassemblement-decrivains-et-poetes-15-novembre-1962/">Célébration de Carl Brouard : rassemblement d’écrivains et poètes, 15 novembre 1962</item>
+      <item ref="http://radiohaitilives.com/fr/enregistrements/hommage-de-roger-gaillard-a-carl-brouard-4-novembre-1965/">Hommage de Roger Gaillard à Carl Brouard</item>
+      <item ref="http://www.lib.ksu.edu/depts/spec/findaids/pc1993-05.html">Edna Worthley Underwood Papers</item>
+    </list>
   </div>
 </TEI>

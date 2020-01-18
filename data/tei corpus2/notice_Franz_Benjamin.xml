@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Franz_Benjamin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Franz_Benjamin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Franz Benjamin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Franz_Benjamin_fiche_autorite">
+  <div n="1" xml:id="Franz_Benjamin_fiche">
     <person ana="Franz_Benjamin" sex="na">
-      <persName>
-        <surname source="bnf">Franz</surname>
-        <forename source="bnf">Benjamin</forename>
-      </persName>
+      <persName>Franz Benjamin</persName>
       <idno type="BNF">
         cb156079947#about
         <g ref="http://data.bnf.fr/ark:/12148/cb156079947#about"/>
@@ -49,7 +46,141 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Saint_Eloi_Rodney">
+          <persName>Saint-Éloi Rodney</persName>
+        </person>
+        <person ana="Beha_Philippe">
+          <persName>Béha Philippe</persName>
+        </person>
+        <person ana="Volcy_Marie_Michele_Amedee">
+          <persName>Volcy Marie Michèle Amédée</persName>
+        </person>
+        <person ana="Societe_Paroles">
+          <persName>Société paroles</persName>
+        </person>
+        <person ana="Societe_Paroles_Firme">
+          <persName>Société Paroles Firme</persName>
+        </person>
+        <person ana="Younsi_Ouanessa">
+          <persName>Younsi Ouanessa</persName>
+        </person>
+        <person ana="VeZina_Michel">
+          <persName>Vézina Michel</persName>
+        </person>
+        <person ana="Soucy_Pierre_Yves">
+          <persName>Soucy Pierre-Yves</persName>
+        </person>
+        <person ana="Puana_Shan_Dak">
+          <persName>Puana Shan Dak</persName>
+        </person>
+        <person ana="PropheTe_Emmelie">
+          <persName>Prophète Emmelie</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Franz_Benjamin_bio">
+    <text ref="http://ile-en-ile.org/benjamin/" xml:id="Franz_Benjamin_bio_auteur_ile_en_ile">
+      <p>
+        Né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), 
+        <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+         vit à 
+        <placeName ana="Montreal">Montréal</placeName>
+         depuis 1986.
+      </p>
+      <p>
+        Poète et diseur, 
+        <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+         a choisi de célébrer la vie, d’en faire un festin à travers sa poésie. En créole ou en français, on retrouve cet attachement à l’essentiel : la liberté et l’amour.
+      </p>
+      <p>
+        Il a contribué à la réalisation de différents événements culturels (spectacles de musique, cabarets littéraires, mises en lecture, expositions). Il a co-dirigé en 2006 le projet 
+        <placeName ana="Montreal">Montréal</placeName>
+         vu par ses poètes (livre et livre-disque), initiative réunissant une cinquantaine d’artistes dans le cadre des festivités commémorant l’événement « 
+        <placeName ana="Montreal">Montréal</placeName>
+        , capitale mondiale du livre ».
+      </p>
+      <p>
+        Engagé sur la scène publique montréalaise, 
+        <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+         a été président du Conseil interculturel de 
+        <placeName ana="Montreal">Montréal</placeName>
+         (2006-2008) et du Groupe de travail sur le profilage racial à 
+        <placeName ana="Montreal">Montréal</placeName>
+         (2003-2005). Commissaire scolaire de la Pointe-de-l’Île de 1998 à 2008, il a été par la suite élu Conseiller de la Ville de 
+        <placeName ana="Montreal">Montréal</placeName>
+        , représentant du 
+        <placeName ana="District_Saint">district Saint</placeName>
+        -Michel de 2009 à 2018. Président du Conseil municipal de 
+        <placeName ana="Montreal">Montréal</placeName>
+         de novembre 2013 à 2017, il est élu député à l’Assemblée nationale du 
+        <placeName ana="Quebec">Québec</placeName>
+         en 2018. Il est porte-parole de l’Opposition officielle dans les dossiers suivants: Jeunesse, Tourisme et Langue française.
+      </p>
+      <p>
+        <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+         est membre de l’Union des écrivaines et des écrivains du 
+        <placeName ana="Quebec">Québec</placeName>
+         (UNEQ).
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.franz-benjamin.7348.html" xml:id="Franz_Benjamin_bio_auteur_spla">
+      <p>
+        <persName ana="Franz_Benjamin">Franz Benjamin</persName>
+         vit à 
+        <placeName ana="Montreal">Montréal</placeName>
+         (
+        <placeName ana="Quebec">Québec</placeName>
+        ) depuis de nombreuses années.Comme auteur, il a déjà publié trois recueils de poésie et une pièce de théâtre (Légitime défense). Membre de Société Paroles, un collectif de poètes 
+        <placeName ana="Montrealais">Montréalais</placeName>
+        , il co-anime avec le comédien Fayolle Jean la soirée de poésie Un air d'ailleurs. Voir aussi la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Franz_Benjamin_biblio">
+    <div ref="http://ile-en-ile.org/benjamin/" xml:id="Franz_Benjamin_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Valkanday. Montréal: Éditions Paroles, 2000.</item>
+      </list>
+      <list subtype="anthologies dirigées par franz benjamin">
+        <item>Montréal vu par ses poètes (avec Rodney Saint-Éloi). Montréal: Mémoire d’encrier, 2006.</item>
+      </list>
+      <list subtype="poésie et textes parus dans des anthologies et ouvrages collectifs">
+        <item>« Naufrage ». Kaléidoscope (collectif). Montréal: Presses de l’AGECR, 1992: 19-20.</item>
+      </list>
+      <list subtype="discographie">
+        <item>Chants de mémoire. Dits par Marie Michelle Amédée Volcy et al. Montréal: Éditions Paroles, 2003. Disque compact.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2008     Prix Kalbas Lo Lakarayib (Martinique) pour le poème « Se lanmè se dezè », traduit en français, anglais et espagnol.</item>
+      </list>
+      <list subtype="sur l’oeuvre de franz benjamin">
+        <item>Dumas, Pierre-Raymond. « Haïti : La nuit, la poésie, la vie ». Le Nouvelliste (29 avril 2011).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Franz_Benjamin_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      <item ref="http://ile-en-ile.org/franz-benjamin-nwit-la-denye-rel/">Nwit la</item>
+      <item ref="http://franzbenjamin.org/"> Franz Benjamin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=12456">Poésie: « Chants de mémoire », chants d’amour</item>
+      <item ref="http://www.tanbou.com/2006/summer/FrantzBenjaminOnALacheLesLoups.htm">On a lâché les loups</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=37466">Les jeux de mots de Frantz Benjamin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=37892">« Chants de mémoire » et « Dits d’errance » : vers un voyage initiatique</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=37970">Franz Benjamin, le poète des tornades d’arrière-saison…</item>
+      <item ref="http://csmsmagazine.org/?p=1872">Le jeu de mots de Frantz Benjamin</item>
+      <item ref="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=431">Franz Benjamin</item>
+      <item ref="http://www.csmsmagazine.org/news.php?pg=20071215I583">Tan Lapli</item>
+      <item ref="http://www.voir.ca/publishing/article.aspx?zone=1&amp;section=10&amp;article=74226">Vingt-quatre heures dans la vie d’une nuit</item>
+      <item ref="http://www.voir.ca/publishing/article.aspx?zone=1&amp;section=10&amp;article=74226">« 24 heures dans la vie d’une nuit », avec Franz Benjamin</item>
+    </list>
   </div>
 </TEI>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Haveson_Florvil_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Haveson_Florvil" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Haveson Florvil</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Haveson_Florvil_fiche_autorite">
+  <div n="1" xml:id="Haveson_Florvil_fiche">
     <person ana="Haveson_Florvil" sex="na">
       <persName>Haveson Florvil</persName>
       <langKnowledge>
@@ -29,8 +29,27 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
-      <occupation source="spla"> R�dacteur/trice en chef</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <occupation source="spla"> Rédacteur/trice en chef</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Haveson_Florvil_bio">
+    <text ref="http://www.spla.pro/fiche.personne.haveson-florvil.29254.html" xml:id="Haveson_Florvil_bio_auteur_spla">
+      <p>
+        Né le 31 mai 1989, Haveson B. FLORVIL, une lueur d'espoir nouveau est apparu dans la ville de Ouanaminthe, au Nord'Est d'
+        <placeName ana="Haiti">Haïti</placeName>
+        . Ses études primaires ont été confiées au Collège 
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         de sa ville natale. Si brillantes que soient celles-ci, elles ne faisaient qu'annoncer les études secondaires à poursuivre au Collège de l'Etoile de Ouanaminthe. Haveson a déjà fait, à maintes occasions, la fierté de sa ville natale et de son pays. Il a l'honneur de présenter son livre à l'appréciation des ses futurs lecteurs et au grand plaisir de la communauté de Ouanaminthe et de la jeunesse 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Haveson_Florvil_biblio"/>
+  <div n="4" xml:id="Haveson_Florvil_web">
+    <list type="spla">
+      <item ref="http://www.florvilhaveson.fr.gd">Website Haveson Florvil </item>
+    </list>
   </div>
 </TEI>

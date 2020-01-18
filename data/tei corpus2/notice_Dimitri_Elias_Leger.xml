@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Dimitri_Elias_Leger_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Dimitri_Elias_Leger" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Dimitri Elias Léger</title>
-        <author>Inès Burri</author>
-        <author>Anaïs Chambat</author>
-        <author>Célian Ringwald</author>
+        <title>Notice de Dimitri Elias LÃ©ger</title>
+        <author>InÃ¨s Burri</author>
+        <author>AnaÃ¯s Chambat</author>
+        <author>CÃ©lian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Université Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Université Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>UniversitÃ© Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>UniversitÃ© Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Données issues de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autoritÃ©s et de rÃ©pÃ©toire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Dimitri_Elias_Leger_fiche_autorite">
+  <div n="1" xml:id="Dimitri_Elias_Leger_fiche">
     <person ana="Dimitri_Elias_Leger" sex="na">
-      <persName>Dimitri Elias Léger</persName>
+      <persName>Dimitri Elias LÃ©ger</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -31,4 +31,7 @@
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Dimitri_Elias_Leger_bio"/>
+  <div n="3" xml:id="Dimitri_Elias_Leger_biblio"/>
+  <div n="4" xml:id="Dimitri_Elias_Leger_web"/>
 </TEI>

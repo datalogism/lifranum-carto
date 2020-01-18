@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Rene_Philoctete_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Rene_Philoctete" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Ren� Philoct�te</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de René Philoctète</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Rene_Philoctete_fiche_autorite">
+  <div n="1" xml:id="Rene_Philoctete_fiche">
     <person ana="Rene_Philoctete" sex="na">
-      <persName>
-        <surname source="bnf">Ren�</surname>
-        <forename source="bnf">Philoct�te</forename>
-      </persName>
+      <persName>René Philoctète</persName>
       <idno type="BNF">
         cb12215753q#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12215753q#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/36967735"/>
       </idno>
       <idno type="VIAF">
-        Ren�_Philoct�te
-        <g ref="http://fr.dbpedia.org/resource/Ren�_Philoct�te"/>
+        René_Philoctète
+        <g ref="http://fr.dbpedia.org/resource/René_Philoctète"/>
       </idno>
       <birth source="viaf">
         <date>1932-11-16</date>
@@ -55,6 +52,154 @@
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">novelists</occupation>
       <occupation source="viaf">dramatists</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="Coverdale_Linda">
+          <persName>Coverdale Linda</persName>
+        </person>
+        <person ana="Morisseau_Roland">
+          <persName>Morisseau Roland</persName>
+        </person>
+        <person ana="Depestre_Rene">
+          <persName>Depestre René</persName>
+        </person>
+        <person ana="Trouillot_Evelyne">
+          <persName>Trouillot Evelyne</persName>
+        </person>
+        <person ana="Dorsinville_Roger">
+          <persName>Dorsinville Roger</persName>
+        </person>
+        <person ana="Danticat_Edwidge">
+          <persName>Danticat Edwidge</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Rene_Philoctete_bio">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/philoctete/" xml:id="Rene_Philoctete_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         est né le 16 novembre 1932 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Co-fondateur du mouvement Spiralisme avec Jean-
+        <persName ana="Claude_Fignole">
+          Claude 
+          <placeName ana="Fignole">Fignolé</placeName>
+        </persName>
+         et 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        , il est l’un de ceux qui a le plus marqué la poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         du 20ème siècle. Avec son frère Raymond, journaliste et critique, il s’est engagé à une relecture précise de tous les grands classiques de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Il est par-dessus tout un grand amateur de Rimbaud.
+      </p>
+      <p>
+        Membre fondateur du mouvement 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire du début des années 1960 avec 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+        , 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+        , 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+        , Davertige et 
+        <persName ana="Auguste_Tenor">Auguste Ténor</persName>
+        , 
+        <placeName ana="Philoctete">Philoctète</placeName>
+         fait de la poésie un espace de combat, d’amour et de solidarité.
+      </p>
+      <p>
+        <placeName ana="Philoctete">Philoctète</placeName>
+         quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         en deux fois: en 1966, pour le 
+        <placeName ana="Quebec">Québec</placeName>
+         où il retrouve ses amis de 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire. Il y reste six mois, le temps d’écrire Ces îles qui marchent. Il part une semaine en 
+        <placeName ana="Argentine">Argentine</placeName>
+         en 1992 afin de recevoir le Prix du parlement argentin.
+      </p>
+      <p>
+        Son œuvre est une promesse sur le temps, sur la femme et l’homme et un chant éternel à la beauté. Dans les années soixante, encouragé par son ami 
+        <persName ana="Gerard_Resil">Gérard Résil</persName>
+        , homme de théâtre, il se découvre une grande passion pour la scène et se met à écrire des pièces de théâtre, jouées à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il se lance également après les années 1980 dans le roman. Il initie une œuvre poétique créole, avec des textes publiés dans la revue Conjonction et dans le quotidien Le Nouvelliste.
+      </p>
+      <p>
+        La tentation politique est grande chez le poète. Il s’insurge contre les tentations totalitaires qui menacent la jeune démocratie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , à la chute des Duvalier, sa poésie devient plutôt un bréviaire politique. Une urgence de combattre la violence et la montée de la dictature. Dans le quotidien Le Nouvelliste, il tient chronique, avec une plume acide pour dénoncer la bêtise et la politicaillerie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         est décédé à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 17 juillet 1995. Sa poésie influence de nombreux jeunes poètes et d’écrivains. Mais cette œuvre, saluée par la critique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et si frémissante de fraternité et d’humanité, n’a pas bénéficié jusqu’ici de reconnaissance internationale. Pour refuser l’oubli, 
+        <persName ana="Lyonel_Trouillot">Lyonel Trouillot</persName>
+         rassemble quelques textes de 
+        <placeName ana="Philoctete">Philoctète</placeName>
+        , publiés aux 
+        <persName ana="Actes_Sud">Actes Sud</persName>
+         en 2003, Anthologie poétique.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Rene_Philoctete_biblio">
+    <div ref="http://ile-en-ile.org/philoctete/" xml:id="Rene_Philoctete_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Massacre River (Le Peuple des terres mêlées). Trad. with Note by Linda Coverdale; Preface by Edwidge Danticat; Introduction by Lyonel Trouillot. New York: New Directions, 2005.</item>
+      </list>
+      <list subtype="en español">
+        <item>Perejil (Le Peuple des terres mêlées). Trad. Mireia Porta.Barcelona: Barataria, 2004.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le huitième jour. Port-au-Prince: Éditions de l’an 2000, 1973.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Saison des hommes. Port-au-Prince: s.n., 1960.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Il faut dès fois que les dieux meurent (nouvelles et récits). (« La petite sœur aux cheveux corbeaux », « Les fiancés du Maquis de Château », « Les alouettes du miroir », « Fleurs de quénepiers et mariage d’enfants », « Le Président et les ballons stupides », « Il faut dès fois que les dieux meurent »). Port-au-Prince: s.n., 1992.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Rose morte. Port-au-Prince: 1962, texte miméographié.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Margha » et « Psaume », poèmes de René Philoctète dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1970     Premier prix du concours des Éditions de l’an 2000, pour Le huitième jour.</item>
+      </list>
+      <list subtype="sur l’oeuvre de rené philoctète">
+        <item>Glover, Kaiama. « Écrire la schizophrénie. La configuration du personnage dans les œuvres « spiralistes » de Frankétienne, Jean-Claude Fignolé et René Philoctète ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 83-96.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Rene_Philoctete_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://ile-en-ile.org/rene-philoctete-psom-psaume/">« Psom » / « Psaume »</item>
+      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+      <item ref="http://ile-en-ile.org/rene-philoctete-textes-lus/">René Philoctète, textes lus par l’auteur</item>
+      <item ref="http://web.archive.org/web/20030417185538/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=614">tous les mots fous</item>
+      <item ref="https://careofpublishing.com/fr/publication/le-peuple-des-terres-melees">Le peuple des terres mêlées</item>
+    </list>
   </div>
 </TEI>

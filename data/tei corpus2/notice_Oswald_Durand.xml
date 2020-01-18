@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Oswald_Durand" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Oswald Durand</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Oswald_Durand_fiche">
+    <person ana="Oswald_Durand" sex="na">
+      <persName>Oswald Durand</persName>
+      <idno type="BNF">
+        cb119907835#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb119907835#about"/>
+      </idno>
+      <idno type="VIAF">
+        17232428
+        <g ref="http://viaf.org/viaf/17232428"/>
+      </idno>
+      <idno type="VIAF">
+        Oswald_Durand
+        <g ref="http://fr.dbpedia.org/resource/Oswald_Durand"/>
+      </idno>
+      <birth source="viaf">
+        <date>1840-09-17</date>
+      </birth>
+      <death source="viaf">
+        <date>1906-09-17</date>
+      </death>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
+        </placeName>
+      </residence>
+      <occupation source="viaf">politicians</occupation>
+      <occupation source="viaf">authors black</occupation>
+      <occupation source="spla">Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Sauray_ERic">
+          <persName>Sauray Éric</persName>
+        </person>
+        <person ana="Pompilus_Pradel_1913?_2000">
+          <persName>Pompilus Pradel 1913?-2000</persName>
+        </person>
+        <person ana="Sauray_Ketty">
+          <persName>Sauray Ketty</persName>
+        </person>
+        <person ana="Demaison_Andre">
+          <persName>Demaison André</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Oswald_Durand_bio">
+    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/durand/" xml:id="Oswald_Durand_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         est le premier grand poète de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . On peut considérer qu’il a réussi un doublé significatif puisqu’il a su s’imposer d’abord comme le premier des poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et qu’il est aussi le premier à avoir écrit un poème en langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dont la célébrité dé
+        <placeName ana="Passe">Passe</placeName>
+         les frontières d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Né au Cap-Haïtien, le 17 septembre 1840, 
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         est mort à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , le 22 avril 1906. Comme la plupart des écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , hier et aujourd’hui, qui ne peuvent vivre de leur plume, Durand a exercé différentes professions, allant de celle de ferblantier à celle de haut fonctionnaire, il a été secrétaire du Conseil des Ministres en 1868. Il a bien sûr été professeur et même 
+        <placeName ana="Directeur">Directeur</placeName>
+         de lycée. Il a été aussi journaliste mais avant tout il fut poète. Dès l’âge de 16 ans, il avait commencé à se faire connaître comme tel.
+      </p>
+      <p>
+        Si 
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+        , homme de plume, a touché au journalisme, c’est plutôt par le biais de la littérature puisque le 
+        <placeName ana="Journal">Journal</placeName>
+         qu’il fonda, Les Bigailles, était une publication satirique et humoristique. Le mot bigailles, soit dit en passant, en langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , désigne une sorte de moustique. Ce n’est jamais sans risque qu’on se hasarde à brocarder en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , surtout quand la cible est un personnage politique. Et quel personnage haïtien d’importance n’est pas politique ?
+      </p>
+      <p>
+        Il faut croire que les opinions d’
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+        , le poète, le journaliste, l’homme de plume en somme, ne furent pas du goût des autorités, en cette année 1883 qui vit le pays traverser une de ses pires crises politiques. Il connut la prison. C’est dans sa cellule, dit-on, qu’il composa les paroles de « Choucoune », le plus célèbre de ses poèmes.
+      </p>
+      <p>Parmi les thèmes qu’il aborde dans sa poésie, on peut distinguer les thèmes obligatoires des autres thèmes plus personnels. Comme on pouvait s’y attendre, ce sont ces derniers qui se sont révélés les plus universels.</p>
+      <p>
+        Tout au long du XlXe siècle, 
+        <placeName ana="Haiti">Haïti</placeName>
+         s’est trouvée à la fois obligée de consolider son indépendance et de la défendre à plusieurs reprises contre les agressions extérieures. Le poème de Durand, « Ces Allemands », est resté dans toutes les 
+        <placeName ana="Memoires">Mémoires</placeName>
+         comme une protestation contre ces violations de la souveraineté nationale dont les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         se sentaient victimes ouvertement ou sournoisement. La patrie à défendre était un de ces thèmes obligatoires que Durand sut développer avec cette ouverture d’esprit qui le rendait solidaire de la lutte des autres, des Cubains, par exemple, qui se battaient alors pour conquérir leur indépendance ou encore lui faisait comprendre que si nous avions des droits à défendre, nous avions aussi des devoirs ou responsabilités que nous ne pouvions ignorer. Son poème intitulé « Chant national » a ainsi mérité de devenir les paroles de l’hymne présidentiel d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Autre thème tout aussi obligatoire : la race à défendre et surtout à illustrer. Dans les 
+        <placeName ana="Ameriques">Amériques</placeName>
+        , l’abolition de l’esclavage, ne l’oublions pas, n’a eu lieu que très tard, vers la fin du XlXe siècle qui fut, non seulement par cet aspect mais aussi à cause des théories racistes qui fleurirent alors, le siècle du racisme puisque celui-ci eut même la prétention de se constituer en science avec des idéologues comme Gobineau. Contre les idées de ce dernier les essayistes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , 
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+        , Louis-
+        <persName ana="Joseph_Janvier">Joseph Janvier</persName>
+         et 
+        <persName ana="Hannibal_Price">
+          Hannibal 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        , s’élevèrent avec force. Durand ne resta pas en dehors de ce débat, comme l’atteste son poème « Le Fils du Noir ».
+      </p>
+      <p>Jusque dans un thème plus personnel comme celui de l’évocation de la femme aimée, nous retrouvons l’écho de ces combats collectifs. Mais tout comme nous l’avons dit pour le thème de la patrie, Durand trouva l’art de traiter à sa manière ses thèmes personnels. « Choucoune » en est un bon exemple. Le fils du noir, même amoureux d’une noire, Durand nous montre qu’il subit les contrecoups de la situation de son pays et de sa race. Mais il sait aussi s’élever au-dessus des considérations épidermiques ou érotiques pour parler en amoureux sincère et généreux.</p>
+      <p>
+        Enfin il y a la langue, comme outil, qui peut être considérée indirectement comme thème, comme sujet même de l’inspiration du poète. Si incontestablement Durand est marqué par sa pratique de la langue française, il ne porte pas moins un amour tout aussi fervent à la langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Dans son recueil Rires et 
+        <persName ana="Pleurs">Pleurs  </persName>
+        (1896) où il réunit les principales œuvres écrites au long de sa vie, après il ne publiera qu’une mince plaquette, Quatre nouveaux poèmes  (1900), Durand fait une place à trois de ses poèmes en haïtien, dont l’un est précisément « Choucoune » qui est passé à l’histoire.
+      </p>
+      <p>
+        Cette attention portée aux deux langues nationales d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , le français et l’haïtien, témoigne donc de son intérêt pour les langues et de son travail sur elles. Attention qui témoigne aussi de son souci pour les formes de son écriture et pour l’art qui donne à l’œuvre son caractère original. De même qu’il a su éviter de s’enfermer dans un chauvinisme patriotard ou dans un misérabilisme racial, il a réussi à ne pas s’emmurer dans un érotisme qui ne serait finalement qu’une forme d’exotisme pour s’élever à l’expression d’un sentiment profond et réfléchi dans « Choucoune » qui démontre aussi jusqu’à quel point la langue peut coller au plus près de l’inspiration.
+      </p>
+      <p>
+        « Choucoune » se présente comme une simple fable qui fait le point, de manière émouvante, sur la complexité des rapports amoureux quand l’alié
+        <placeName ana="Nation">Nation</placeName>
+         collective s’en mêle. Longtemps avant que 
+        <persName ana="Francis_Bebey">Francis Bebey</persName>
+        , dans Le fis d’Agatha Moudio, ne vienne reprendre le même thème, Durand aura su apporter au traitement de ce thème complexe la largeur de vue qui fait prendre de l’altitude à son texte.
+      </p>
+      <p>
+        Premier grand poète de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         a su dans ses poèmes transgresser les barrières des genres, élever son discours lyrique à la dimension d’une véritable représentation dramatique. 
+        <persName ana="Eric_Sauray">Éric Sauray</persName>
+         en a donné la preuve en transposant la simple fable de Choucoune en une œuvre théâtrale tout à fait convaincante.
+      </p>
+      <p>
+        Si les poèmes d’
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         résonnent aux oreilles des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         avec la justesse de son de la réalité, c’est que le poète a su leur insuffler le rythme qui convient et leur donner l’ambiance sensuelle ou concrète qui fait retrouver aussi bien la forme du corps de la femme aimée que le détail des paysages de notre pays. Et il nous fait reconnaître tout cela par la magie du son et les images des mots dont il se sert. On peut de ce point de vue retracer, de 
+        <placeName ana="Lizet">Lizèt</placeName>
+         kite laplenn  de 
+        <persName ana="Duvivier_De_La_Mahautiere">Duvivier de la Mahautière</persName>
+         (1749) à 
+        <persName ana="Choucoune">Choucoune  </persName>
+        (1884) et de Marabout de mon cœur  d’
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         (1925) à 
+        <placeName ana="Mariana">Mariana</placeName>
+          de 
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         (1974), à travers des visages de femme, une évolution qui fait de l’oeuvre d’
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         un point de rupture et de recommencement, un véritable tournant de la poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.oswald-durand.14092.html" xml:id="Oswald_Durand_bio_auteur_spla">
+      <p>
+        <persName ana="Oswald_Durand">Oswald Durand</persName>
+         est le premier grand poète de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . On peut considérer qu'il a réussi un doublé significatif puisqu'il a su s'imposer d'abord comme le premier des poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et qu'il est aussi le premier à avoir écrit un poème en langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dont la célébrité dé
+        <placeName ana="Passe">Passe</placeName>
+         les frontières d'
+        <placeName ana="Haiti">Haïti</placeName>
+        . voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Oswald_Durand_biblio">
+    <div ref="http://ile-en-ile.org/durand/" xml:id="Oswald_Durand_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Rires et Pleurs (1ère partie : Poèmes, Élégies, Satires, Odelettes). Paris: Éditions Crété, 1896; Port-au-Prince: Éditions Panorama, 1967; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’oswald durand">
+        <item>Fleischmann, Ulrich. « El ambiguo amor por Choucoune ». Anales del Caribe 7/8 (1987-1988): 240-256.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Oswald_Durand_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/oswald-durand-le-fils-du-noir/">Le Fils du Noir</item>
+      <item ref="http://creoles.free.fr/Cours/choucoune.htm">Choucoune</item>
+    </list>
+  </div>
+</TEI>

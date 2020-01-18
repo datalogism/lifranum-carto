@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Emmelie_Prophete_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Emmelie_Prophete" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Emmelie Proph�te</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Emmelie Prophète</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Emmelie_Prophete_fiche_autorite">
+  <div n="1" xml:id="Emmelie_Prophete_fiche">
     <person ana="Emmelie_Prophete" sex="na">
-      <persName>
-        <surname source="bnf">Emmelie</surname>
-        <forename source="bnf">Proph�te</forename>
-      </persName>
+      <persName>Emmelie Prophète</persName>
       <idno type="BNF">
         cb16267107z#about
         <g ref="http://data.bnf.fr/ark:/12148/cb16267107z#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/47904412"/>
       </idno>
       <idno type="VIAF">
-        Emmelie_Proph�te
-        <g ref="http://fr.dbpedia.org/resource/Emmelie_Proph�te"/>
+        Emmelie_Prophète
+        <g ref="http://fr.dbpedia.org/resource/Emmelie_Prophète"/>
       </idno>
       <birth source="viaf">
         <date>1971-06-15</date>
@@ -51,6 +48,136 @@
       <occupation source="viaf">romancieres</occupation>
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">journalists</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Wiener_Jacqueline">
+          <persName>Wiener Jacqueline</persName>
+        </person>
+        <person ana="Voltaire_Marcelin_Michele">
+          <persName>Voltaire Marcelin Michèle</persName>
+        </person>
+        <person ana="Vincent_Nedjmhartine">
+          <persName>Vincent Nedjmhartine</persName>
+        </person>
+        <person ana="Valcin_Cleante">
+          <persName>Valcin Cléante</persName>
+        </person>
+        <person ana="Trouillot_Evelyne">
+          <persName>Trouillot Évelyne</persName>
+        </person>
+        <person ana="Theard_Marie_Alice">
+          <persName>Théard Marie-Alice</persName>
+        </person>
+        <person ana="Tennstedt_Antje">
+          <persName>Tennstedt Antje</persName>
+        </person>
+        <person ana="Tavernier_Janine">
+          <persName>Tavernier Janine</persName>
+        </person>
+        <person ana="Younsi_Ouanessa">
+          <persName>Younsi Ouanessa</persName>
+        </person>
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="Chauvet_Marie">
+          <persName>Chauvet Marie</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Emmelie_Prophete_bio">
+    <text ref="http://ile-en-ile.org/prophete_emmelie/" xml:id="Emmelie_Prophete_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Emmelie_Prophete">Emmelie Prophète</persName>
+         naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 15 juin 1971 où elle fait des études de droit et de 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+        . Elle suit des cours de communication à Jackson State University dans le 
+        <placeName ana="Mississippi">Mississippi</placeName>
+        , 
+        <placeName ana="Usa">USA</placeName>
+        . Elle anime pendant huit ans une émission de jazz à Radio-
+        <placeName ana="Haiti">Haïti</placeName>
+        , travaille dans l’enseignement et dans la diplomatie comme attachée culturelle d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à 
+        <placeName ana="Geneve">Genève</placeName>
+        . Elle collabore à diverses revues, telles Chemins Critiques, 
+        <placeName ana="Boutures">Boutures</placeName>
+        , Casa de las Americas, Cultura, La Nouvelle Revue Française.
+      </p>
+      <p>
+        <persName ana="Emmelie_Prophete">Emmelie Prophète</persName>
+         est l’auteure de deux recueils de poèmes, Des 
+        <placeName ana="Marges">Marges</placeName>
+         à remplir (2000) et Sur parure d’ombre (2004). En 2007, paraît son premier récit, Le Testament des solitudes  à 
+        <placeName ana="Montreal">Montréal</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Emmelie_Prophete">Emmelie Prophète</persName>
+         écrit pour sauver sa peau. Son écriture est simple, fluide et 
+        <placeName ana="Argentine">Argentine</placeName>
+        . Elle nous promène de hasard en hasard et nous accroche au détour de cette parole généreuse, souvent intimiste, qui dit qu’elle est belle même dans le mauvais temps.
+      </p>
+      <p>Son œuvre est comme ce miroir qui ricoche sur des saisons connues, des lieux explorés et accessibles. La mélancolie, la solitude, la brisure, le chant du pays perdu et retrouvé, le désir à ciel ouvert, les blessures marchent dans toutes ses pages comme des secrets chuchotés.</p>
+      <p>
+        <persName ana="Emmelie_Prophete">Emmelie Prophète</persName>
+        , c’est une voix qui nous raconte dans des mots simples. C’est une voix qui se dévoile et nous dévoile.
+      </p>
+      <p>
+        De 2006 à 2011, 
+        <persName ana="Emmelie_Prophete">Emmelie Prophète</persName>
+         est responsable de la Direction Nationale du Livre, attachée au Ministère de la culture en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Entre 2014 et 2017, elle est directrice générale de la Bibliothèque Nationale d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Depuis décembre 2011, elle est responsable de la section culturelle du quotidien haïtien, Le Nouvelliste. Elle est directrice du Bureau haïtien du droit d’auteur.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Emmelie_Prophete_biblio">
+    <div ref="http://ile-en-ile.org/prophete_emmelie/" xml:id="Emmelie_Prophete_biblio_auteur_ile_en_ile">
+      <list subtype="auf deutsch">
+        <item>Das Testament der Einsamen. Trad. Antje Tennstedt. Trier: Litradukt, 2010.</item>
+      </list>
+      <list subtype="in english">
+        <item>« Remember One Day ». Trans. George Lang. Haiti Noir 2: The Classics. Ed. Edwidge Danticat. New York: Akashic, 2014: 113-114.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Des marges à remplir. Port-au-Prince: Mémoire, 2000.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Testament des solitudes. Montréal: Mémoire d’encrier, 2007.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Sol et si. Delmas: C3 Éditions, 2018.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>Extraits. Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 306-308.</item>
+      </list>
+      <list subtype="poésie enregistrée et mise en musique">
+        <item>« On rêve tous de trottoirs » et« Comme la dernière parole », poèmes d’Emmelie Prophète dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2006     Nommée directrice de la nouvelle Direction Nationale du Livre en Haïti.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Emmelie_Prophete_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/emmelie-prophete-5-questions-pour-ile-en-ile/">Emmelie Prophète, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/emmelie-prophete-un-jour-rappelle-toi/">Un jour rappelle-toi</item>
+      <item ref="http://ile-en-ile.org/kiskeya-prophete-gabriel-et-cave/">Kiskeya, l’île mystérieuse</item>
+      <item ref="http://ile-en-ile.org/emmelie-prophete-le-temps-qui-reste/">Le temps qui reste</item>
+      <item ref="http://memoiredencrier.com/emmelie-prophete/">Mémoire d’encrier</item>
+      <item ref="https://youtu.be/ZNGlcMhB0ZM">‘Des Livres et Vous’ avec Emmelie Prophète</item>
+      <item ref="http://laventana.casa.cult.cu/modules.php?name=News&amp;file=print&amp;sid=3564">Haití se levanta desde su cultura</item>
+      <item ref="http://www.antoniomiranda.com.br/Iberoamerica/haiti/emmelie_prophete.html">Un jour rappelle-toi</item>
+      <item ref="http://www.africultures.com/index.asp?menu=affiche_article&amp;no=7621">Une blessure en forme d’île</item>
+      <item ref="http://www.culturessud.com/contenu.php?id=369">Éloge de la sobriété</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+    </list>
   </div>
 </TEI>

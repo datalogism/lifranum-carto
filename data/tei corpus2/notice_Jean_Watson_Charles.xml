@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jean_Watson_Charles_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jean_Watson_Charles" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Jean Watson Charles</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jean_Watson_Charles_fiche_autorite">
+  <div n="1" xml:id="Jean_Watson_Charles_fiche">
     <person ana="Jean_Watson_Charles" sex="na">
       <persName>Jean Watson Charles</persName>
       <langKnowledge>
@@ -29,8 +29,47 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Chercheur/se</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Jean_Watson_Charles_bio">
+    <text ref="http://www.spla.pro/fiche.personne.jean-watson-charles.29801.html" xml:id="Jean_Watson_Charles_bio_auteur_spla">
+      <p>
+        Né en 
+        <placeName ana="Haiti">Haiti</placeName>
+        , 
+        <persName ana="Jean_Watson_Charles">Jean Watson Charles</persName>
+        , poète et écrivain, a fait des études de 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+        . Il est l'un des coordonnateurs de la revue Legs et Littérature. Il a publié trois recueils de poésie et participé à plusieurs revues et ouvrages collectifs.ThèmesMémoire, Exil, Histoire.BibliographiePoésie- Le chant des marées, préfacé par Arnaud Delcorte, Ed. Unicité, 
+        <placeName ana="Paris">Paris</placeName>
+        , 2018.-Lenglensou, préfacé par Josaphat-
+        <persName ana="Robert_Large">Robert Large</persName>
+        , Ed. Perles des 
+        <placeName ana="Antilles">Antilles</placeName>
+        , 
+        <placeName ana="Usa">USA</placeName>
+        , 2012.-Pour que la 
+        <placeName ana="Terre">Terre</placeName>
+         s'en souvienne, préfacé, par 
+        <persName ana="James_Pubien">James Pubien</persName>
+        , Ed. Bas de Page, 
+        <placeName ana="Haiti">Haiti</placeName>
+        , 2010.Ouvrages Collectifs- Des maux et des rues, Ed. Legs et Littérature, 
+        <placeName ana="Haiti">Haiti</placeName>
+        , 2014.Athologies-Le Cahier du sens, Ed. Le nouvel Athanor, 
+        <placeName ana="Paris">Paris</placeName>
+        , 2017.-Anthologie des Jeunes poètes Haitiens et Dominicains, 
+        <placeName ana="Haiti">Haiti</placeName>
+        , 2016.Revues-Si loin, Revue DO. KRE.I.S, 
+        <placeName ana="Haiti">Haiti</placeName>
+        , 2017.-Littérature et plagiat, Revue Legs et Littérature, 
+        <placeName ana="Haiti">Haiti</placeName>
+        ,Juillet 2014.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Watson_Charles_biblio"/>
+  <div n="4" xml:id="Jean_Watson_Charles_web"/>
 </TEI>

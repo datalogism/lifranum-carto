@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Edgard_Gousse_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Edgard_Gousse" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Edgard Gousse</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Edgard_Gousse_fiche_autorite">
+  <div n="1" xml:id="Edgard_Gousse_fiche">
     <person ana="Edgard_Gousse" sex="na">
       <persName>Edgard Gousse</persName>
       <langKnowledge>
@@ -31,5 +31,95 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Professeur</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Edgard_Gousse_bio">
+    <text ref="http://www.spla.pro/fiche.personne.edgard-gousse.40411.html" xml:id="Edgard_Gousse_bio_auteur_spla">
+      <p>
+        <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+         est un écrivain haïtien né à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        . Ses dernières publication en date sont:-Ne dites pas à ma mère que je suis une salope, Roman, 2014.-Le pouvoir du sexe, Récit, 2014.----Né à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Professeur universitaire, chercheur, écrivain. Diplômé en information et journalisme (Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+        ), études supérieures (niveau doctorat) de linguistique et de didactique (Université du 
+        <placeName ana="Quebec">Québec</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+         et Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+        ), puis de littérature hispanique (Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+        ), son expérience professionnelle couvre les domaines de l'écriture, de la critique littéraire, de l'édition et de la recherche portant sur les questions relatives à la didactique des langues. 
+        <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+         a vécu une vingtaine d'années à 
+        <placeName ana="Montreal">Montréal</placeName>
+         et travaillé dans le domaine de l'éducation et de la recherche, pendant plusieurs années. Ses recherches en éducation ont été publiées dans des revues spécialisées, du 
+        <placeName ana="Canada">Canada</placeName>
+         et d'ailleurs. Il a été répertorié dans Interface, « Le Bottin de la recherche » au 
+        <placeName ana="Canada">Canada</placeName>
+        , parmi les 10 000 scientifiques de ce pays. Récipiendaire, en 1995, de la Médaille José María Heredia (section littérature), décernée par l'Union des Écrivains et Artistes de 
+        <placeName ana="Cuba">Cuba</placeName>
+         (UNEAC) [Unión de Escritores y Artistas de 
+        <placeName ana="Cuba">Cuba</placeName>
+        ] ; couronné « Meilleur conférencier », au Congrès international de Monterrey portant sur « La ville et l'écrivain » (Encuentro internacional de Escritores : La Ciudad y el Escritor), par les 113 autres écrivains des 
+        <placeName ana="Ameriques">Amériques</placeName>
+         et d'Europe invités à ce congrès, à l'occasion du 400e anniversaire de la fondation de la ville de Monterrey (Monterrey, 
+        <placeName ana="Mexique">Mexique</placeName>
+        , mai 1996), 
+        <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+         a coordonné, à titre de vice-président, le Congrès mondial de la Poésie tenu à 
+        <placeName ana="Cuba">Cuba</placeName>
+         en 1999, avec des invités venus des cinq continents. Il a été, de 1993 à 2000, vice-président du Festival international de Poésie tenu chaque année à Santiago de 
+        <placeName ana="Cuba">Cuba</placeName>
+        . Plusieurs fois membre de jurys littéraires : président du jury au Concours national de Poésie « Pedro Correa Vásquez », géré conjointement par la Casa del Caribe et l'Union des Écrivains et Artistes de 
+        <placeName ana="Cuba">Cuba</placeName>
+        , Santiago de 
+        <placeName ana="Cuba">Cuba</placeName>
+         (juillet 2000) ; président du jury au Prix de théâtre intégrateur, géré par l'Alliance théâtrale de 
+        <placeName ana="Montreal">Montréal</placeName>
+         (1998) ; juré au Grand Prix du livre de 
+        <placeName ana="Montreal">Montréal</placeName>
+         (catégories poésie, nouvelle, roman, essai, théâtre), géré par la Ville de 
+        <placeName ana="Montreal">Montréal</placeName>
+         (1994, 1995 et 1996) ; juré auPrix littéraire de la Ville de 
+        <placeName ana="Laval">Laval</placeName>
+         (catégories poésie, nouvelle), géré par la Société littéraire de 
+        <placeName ana="Laval">Laval</placeName>
+        , Ville de 
+        <placeName ana="Laval">Laval</placeName>
+         (1995), 
+        <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+         a également été, à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , de 1992 à 1998, éditeur et 
+        <placeName ana="Directeur">Directeur</placeName>
+         de Ruptures, revue littéraire en plusieurs langues (français, anglais, espagnol et portugais) diffusée dans pas moins de 30 pays des 
+        <placeName ana="Ameriques">Amériques</placeName>
+         et du reste du monde ; cette copieuse revue, atteignant parfois les 600 pages, a publié des auteurs de 44 pays et utilisé les services de 80 traducteurs de 23 pays différents. Consultant, en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , dans le cadre d'un projet en éducation financé par la Banque interaméricaine de Développement (BID), 
+        <persName ana="Edgard_Gousse">Edgard Gousse</persName>
+         a mené, pour le compte du ministère de l'Éducation nationale, une importante analyse des manuels de langues en usage dans les écoles fondamentales en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il a par ailleurs assuré la coordination générale du Colloque international sur l'enseignement bilingue en 
+        <placeName ana="Haiti">Haïti </placeName>
+        (
+        <placeName ana="Mars">Mars</placeName>
+         2003), organisé conjointement par l'Agence universitaire de la Francophonie (AUF), le ministère de l'Éducation nationale (MÉNJS) et l'Université Quisqueya (UniQ). Il a de plus coordonné, pour le compte de l'Organisation internationale de la Francophonie (OIF), une enquête nationale portant sur un « programme conjoint d'appui à la justice en 
+        <placeName ana="Haiti">Haïti</placeName>
+         », OIF, Union européenne, 
+        <placeName ana="Canada">Canada</placeName>
+         (mai-juillet/septembre 2006). (...)
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Edgard_Gousse_biblio"/>
+  <div n="4" xml:id="Edgard_Gousse_web">
+    <list type="spla">
+      <item ref="http://edgardgousseecrivain.unblog.fr/">Website Edgard Gousse </item>
+    </list>
   </div>
 </TEI>

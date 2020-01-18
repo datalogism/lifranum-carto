@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Gary_Klang_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Gary_Klang" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Gary Klang</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Gary_Klang_fiche_autorite">
+  <div n="1" xml:id="Gary_Klang_fiche">
     <person ana="Gary_Klang" sex="na">
-      <persName>
-        <surname source="bnf">Gary</surname>
-        <forename source="bnf">Klang</forename>
-      </persName>
+      <persName>Gary Klang</persName>
       <idno type="BNF">
         cb12723297j#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12723297j#about"/>
@@ -53,6 +50,164 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Phelps_Anthony">
+          <persName>Phelps Anthony</persName>
+        </person>
+        <person ana="Roumain_Jacques">
+          <persName>Roumain Jacques</persName>
+        </person>
+        <person ana="Martial_Jacques">
+          <persName>Martial Jacques</persName>
+        </person>
+        <person ana="Haas_Elsie">
+          <persName>Haas Elsie</persName>
+        </person>
+        <person ana="Klang_Gary">
+          <persName>Klang Gary</persName>
+        </person>
+        <person ana="Pomeau_Rene">
+          <persName>Pomeau René</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Gary_Klang_bio">
+    <text ref="http://ile-en-ile.org/klang/" xml:id="Gary_Klang_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Gary_Klang">Gary Klang</persName>
+         est né le 28 décembre 1941 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Après ses cours primaires et secondaires, il se rend à 
+        <placeName ana="Paris">Paris</placeName>
+         où il fait ses études de lettres à la Sorbonne, de la propédeutique au doctorat. Son mémoire de 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         et sa thèse de doctorat sont consacrés tous deux à 
+        <persName ana="Marcel_Proust">Marcel Proust</persName>
+        .
+      </p>
+      <p>
+        Klang émigre en 1973 à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . Il est engagé aux Éditions 
+        <placeName ana="La_Presse">La Presse</placeName>
+         comme correcteur-réviseur, responsable de la qualité du français en général ; il enseigne en même temps la stylistique à l’Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+        , puis devient traducteur dans une société d’ingénieurs. Il travaille aujourd’hui chez SNC-Lavalin, la plus grande firme d’ingénieurs-conseils du 
+        <placeName ana="Canada">Canada</placeName>
+        , qui a des bureaux dans le monde entier.
+      </p>
+      <p>
+        Son œuvre est très variée : romans, essais, poèmes, théâtre, sans compter de nombreux articles sur la littérature ou des questions linguistiques et culturelles. Ses livres sont publiés au 
+        <placeName ana="Quebec">Québec</placeName>
+        , à l’exception de son premier recueil de poésie, Ex-île, qui a paru en 
+        <placeName ana="France">France</placeName>
+        , en 1988, et lui a valu le premier prix de la Vague à l’âme sur plus de 400 concurrents.
+      </p>
+      <p>
+        Il est membre titulaire de l’Union des écrivains québécois (UNEQ) et membre du PEN Club. Il a été président de la Société des écrivains canadiens, section de 
+        <placeName ana="Montreal">Montréal</placeName>
+        , de 1990 à 1993.
+      </p>
+      <p>
+        Le 14 juillet 2000, 
+        <persName ana="Gary_Klang">Gary Klang</persName>
+         a été choisi par l’Union Française à 
+        <placeName ana="Montreal">Montréal</placeName>
+         pour être le parrain de la Fête nationale. Le même soir, 
+        <placeName ana="La_France">la France</placeName>
+         organisait le lancement de son recueil de poèmes, La 
+        <placeName ana="Terre">Terre</placeName>
+         est vide comme une étoile.
+      </p>
+      <p>
+        Il a été invité en octobre 2002 au Festival International de Poésie de Trois-Rivières (
+        <placeName ana="Quebec">Québec</placeName>
+        ). En 2005, il est nommé président de section de 
+        <placeName ana="Montreal">Montréal</placeName>
+         (pour deux ans) au Conseil des Écrivains francophones d’
+        <placeName ana="Amerique">Amérique</placeName>
+        .
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.gary-klang.7412.html" xml:id="Gary_Klang_bio_auteur_spla">
+      <p>
+        Né en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Gary_Klang">Gary Klang</persName>
+         est docteur ès lettres de la Sorbonne avec une thèse sur Proust. Auteur de poèmes, de romans, de nouvelles, d'essais et d'une pièce de théâtre. Membre du PEN Club international et de l'Union des écrivains québécois, et président de la société des Écrivains francophones d'
+        <placeName ana="Amerique">Amérique</placeName>
+        , section de 
+        <placeName ana="Montreal">Montréal</placeName>
+        . 
+        <persName ana="Gary_Klang">Gary Klang</persName>
+         vit à 
+        <placeName ana="Montreal">Montréal</placeName>
+         depuis 1973. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot;
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Gary_Klang_biblio">
+    <div ref="http://ile-en-ile.org/klang/" xml:id="Gary_Klang_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Ex-île. Grenoble: Éditions de la Vague à l’âme, 1988, 55 pp.; Longueuil: Humanitas, 2003; Montréal: Mémoire d’encrier, 2012.
+Un des poèmes de ce recueil a donné lieu à une trilogie de musique classique de la compositrice Carmen Brouard, inspirée également par Whitman et Tagore. Le morceau a été joué par l’orchestre international I Musici de Montréal et chanté par un baryton, le 27 juin 1998.</item>
+      </list>
+      <list subtype="romans">
+        <item>Haïti! Haïti! écrit en collaboration avec Anthony Phelps. Montréal: Libre Expression, 1985, 160 pp. ; réédition sous le titre Le massacre de Jérémie : opération vengeance. Montréal: Éditions Dialogue Nord-Sud, 2014.
+C’est l’histoire de la vengeance de Philippe Rivière, un jeune Français qui rentre en Haïti pour tuer les assassins de sa famille à Jérémie, petite ville du sud où eut lieu un massacre perpétré par les tontons macoutes de Duvalier.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Kafka m’a dit. Longueuil: Humanitas, 2004.
+Il s’agit de 9 nouvelles qui se déroulent dans plusieurs pays et traitent de différents thèmes: Mai 68, l’exil, la dictature (Duvalier et Trujillo), la fraternité, la solitude, etc.</item>
+      </list>
+      <list subtype="essais">
+        <item>La méditation transcendantale. Montréal: Stanké, 1976, 168 pp.
+Best-seller pendant plusieurs semaines et premier livre écrit en français dans le monde sur le sujet.</item>
+      </list>
+      <list subtype="travaux universitaires">
+        <item>Le personnage de Bergotte dans l’œuvre de Proust. Mémoire de maîtrise présenté à la Sorbonne, Paris, 1968, 130 pp.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>L’immigrant, pièce télévisée jouée à la télévision de Radio-Québec à Montréal en 1979.
+Il s’agit d’un jeune Français qui vient d’arriver à Montréal.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Henry Miller ou le modèle par excellence ». La Presse (Montréal) (27 juin 1980).</item>
+      </list>
+      <list subtype="gary klang dans des anthologies">
+        <item>Anthologies québécoises:
+
+La Moisson littéraire. Montréal: Proteau, 1993: 1-9.
+101 Poètes en Québec. Montréal: Guérin, 1995: 223-225.
+Vingt ans d’Estuaire. Montréal: Estuaire, 1996: 146.
+Le dernier poème du millénaire. Montréal: Estuaire, 1999: 105.
+Dictionnaire des poètes d’ici de 1606 à nos jours. Montréal: Guérin, 2001: 552.
+ Le 11 septembre des poètes du Québec. Montréal: Trait-d’Union, 2002: 124.
+
+</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1988     Premier Prix de la Vague à l’âme, pour Ex-île.</item>
+      </list>
+      <list subtype="sur gary klang">
+        <item>« La bataille de Jérémie ».  Jeune Afrique 1345 (15 octobre 1986).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Gary_Klang_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/gary-klang-ex-ile/">Ex-île</item>
+      <item ref="http://ile-en-ile.org/gary-klang-extraits-choisis-de-loeuvre-de-gary-klang/">Extraits choisis de l’œuvre de Gary Klang</item>
+      <item ref="http://ile-en-ile.org/gary-klang-5-questions-pour-ile-en-ile/">Gary Klang, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/gary-klang-hommage-a-emile-ollivier/">Hommage à Émile Ollivier, ou Les rencontres de la Brûlerie</item>
+      <item ref="http://ile-en-ile.org/gary-klang-lettre-manuscrite-de-rene-pomeau/">Lettre manuscrite de René Pomeau </item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/klang-gary-644/">Gary Klang</item>
+      <item ref="http://www.alterpresse.org/spip.php?article1405">Souvenirs de mai 68</item>
+      <item ref="http://www.vigile.net/pol/culture/klanglarue.html">Trop c’est trop</item>
+    </list>
   </div>
 </TEI>

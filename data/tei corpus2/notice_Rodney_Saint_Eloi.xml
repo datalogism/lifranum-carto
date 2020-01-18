@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Rodney_Saint_Eloi" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Rodney Saint-Éloi</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Rodney_Saint_Eloi_fiche">
+    <person ana="Rodney_Saint_Eloi" sex="na">
+      <persName>Rodney Saint-Éloi</persName>
+      <birth source="viaf">
+        <date>1963-08-27</date>
+      </birth>
+      <occupation source="viaf">editors</occupation>
+      <occupation source="viaf">college teachers</occupation>
+      <occupation source="viaf">authors</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Castera_Georges">
+          <persName>Castera Georges</persName>
+        </person>
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="PeAn_Stanley">
+          <persName>Péan Stanley</persName>
+        </person>
+        <person ana="Magloire_Saint_Aude_Clement">
+          <persName>Magloire-Saint-Aude Clément</persName>
+        </person>
+        <person ana="Buteau_Pierre">
+          <persName>Buteau Pierre</persName>
+        </person>
+        <person ana="Benjamin_Franz">
+          <persName>Benjamin Franz</persName>
+        </person>
+        <person ana="Morali_Laure">
+          <persName>Morali Laure</persName>
+        </person>
+        <person ana="Agnant_Marie_Celie">
+          <persName>Agnant Marie-Célie</persName>
+        </person>
+        <person ana="Franketienne">
+          <persName>Frankétienne</persName>
+        </person>
+        <person ana="加古_里子">
+          <persName>加古 里子</persName>
+        </person>
+        <person ana="Clermont_PeAn_Paula">
+          <persName>Clermont Péan Paula</persName>
+        </person>
+        <person ana="Price_Mars_Jean">
+          <persName>Price-Mars Jean</persName>
+        </person>
+        <person ana="Pierre_Claude">
+          <persName>Pierre Claude</persName>
+        </person>
+        <person ana="Memoire_D_Encrier_Montreal">
+          <persName>Mémoire d'encrier Montreal</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Rodney_Saint_Eloi_bio">
+    <text ref="http://ile-en-ile.org/saint-eloi/" xml:id="Rodney_Saint_Eloi_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Rodney_Saint">Rodney Saint</persName>
+        -Éloi naît le 27 août 1963 à 
+        <placeName ana="Cavaillon">Cavaillon</placeName>
+        , au sud d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il est écrivain, éditeur et universitaire. En 1991, il fonde à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         les Éditions Mémoire, entreprise d’édition et de publication publiant les écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         vivant tant à l’intérieur qu’à l’extérieur du pays. La 
+        <placeName ana="Maison">Maison</placeName>
+         insiste sur l’œuvre de jeunes auteurs qu’elle fait connaître.
+      </p>
+      <p>
+        Le poète 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+         rejoint l’équipe des Éditions Mémoire en 1999 où il est 
+        <placeName ana="Directeur">Directeur</placeName>
+         littéraire. Avec Castera, Saint-Éloi fonde la revue semestrielle d’art et de littérature 
+        <placeName ana="Boutures">Boutures</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Rodney_Saint">Rodney Saint</persName>
+        -Éloi commence à écrire dès l’âge de 13 ans. Il publie une dizaine de recueils de poèmes, des essais sur la littérature et la peinture. Certains de ses ouvrages sont traduits en anglais, en espagnol et en japonais. Son œuvre est une lente traversée des villes, des fleuves et des visages.
+      </p>
+      <p>
+        Saint-Éloi vit depuis 2001 à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . En 
+        <placeName ana="Mars">Mars</placeName>
+         2003, il fonde et dirige la 
+        <placeName ana="Maison">Maison</placeName>
+         d’édition Mémoire d’encrier, qui accueille l’œuvre des auteurs de diverses communautés culturelles : 
+        <placeName ana="Afrique">Afrique</placeName>
+        , 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+         et 
+        <placeName ana="Ocean_Indien">Océan indien</placeName>
+        .
+      </p>
+      <p>
+        Considérées comme l’un des atouts des communautés culturelles du 
+        <placeName ana="Canada">Canada</placeName>
+        , les Éditions Mémoire d’encrier reprennent des œuvres du patrimoine haïtien à travers la collection « Anthologie secrète » (
+        <persName ana="Carl_Brouard">Carl Brouard</persName>
+        , Davertige, 
+        <placeName ana="Franketienne">Franketienne</placeName>
+        ) et la collection « Poésie » (
+        <persName ana="Roussan_Camille">Roussan Camille</persName>
+        , 
+        <persName ana="Roger_Dorsinville">
+          Roger 
+          <placeName ana="Dorsinville">Dorsinville</placeName>
+        </persName>
+        , 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+        , 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+        , 
+        <persName ana="Anthony_Lespes">Anthony Lespès</persName>
+        …).
+      </p>
+      <p>
+        Chez 
+        <persName ana="Rodney_Saint">Rodney Saint</persName>
+        -Éloi, tout est engagement : écriture et édition. Engagement envers le social, engagement envers la littérature, engagement enfin vers tout ce qui libère. « Ce qui nourrit mon écriture, soutient-il, c’est la colère contre la bêtise, contre tout ce qui empêche de grandir et de rassembler l’humain en nous. Contre tout ce qui ressemble à la ségrégation et au racisme. Enfin contre tout ce qui empêche à l’homme de jouir pleinement de son statut d’homme. Ma passion est l’humain et le livre, cet objet serein qui témoigne de la présence lucide des femmes et des hommes sur 
+        <placeName ana="Terre">Terre</placeName>
+         ».
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Rodney_Saint_Eloi_biblio">
+    <div ref="http://ile-en-ile.org/saint-eloi/" xml:id="Rodney_Saint_Eloi_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« The Blue Hill ». Nicole Ball, trad. Haiti Noir. Edwidge Danticat, éd. New York: Akashic, 2011: 302-309.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Graffitis pour l’aurore. Port-au-Prince: Imprimeur II, 1989.</item>
+      </list>
+      <list subtype="récit">
+        <item>Haïti, Kenbe la. Neuilly-sur-Seine: Michel Lafon, 2010.</item>
+      </list>
+      <list subtype="littérature pour la jeunesse">
+        <item>Miracle Bananier (avec Georges Castera et Louisiane Saint Fleurant). Tokyo: Gakken, 2001.</item>
+      </list>
+      <list subtype="anthologies">
+        <item>Dits des fous d’amour: anthologie secrète / Lovers’ Sweet Nothings: Secret Anthology, choisis par / selected by Paula Clermont Péan &amp; Rodney Saint-Éloi. Montréal: Mémoire d’encrier, 2003.</item>
+      </list>
+      <list subtype="poésie et essais publiés dans des ouvrages collectifs (sélection)">
+        <item>« Peinture et discours en Haïti ». Conjonction 201 (1996): 101-104.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Les villes sont d’étranges bateaux ». Montréal vu par ses poètes. Textes dits par Gabriel Gascon et al. Montréal: Société Paroles, 2006. Disque compact.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1997    Mention spéciale de la revue Vwa, Chaux de fond, Suisse.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Rodney_Saint_Eloi_web">
+    <list type="ile_en_ile">
+      <item ref="http://www.memoiredencrier.com/">Éditions Mémoire d’encrier</item>
+      <item ref="http://ile-en-ile.org/boutures/">Boutures</item>
+      <item ref="http://ile-en-ile.org/saint-eloi-francophonie/">Problématique de l’ex-centricité</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-bonjour-cayenne/">Bonjour Cayenne</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/">Blues au tombeau de Dennery Ménélas</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/">Blues au tombeau de Dennery Ménélas</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-faire-lire-aujourdhui-en-haiti/">Faire lire aujourd’hui en Haïti</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-haiti-theatre-de-recuperation/">Haïti: Théâtre de récupération</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-quels-livres-pour-quels-lecteurs/">Quels livres pour quels lecteurs?</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-lecture-de-poesie/">Lecture de poésie</item>
+      <item ref="http://ile-en-ile.org/rodney-saint-eloi-5-questions-pour-ile-en-ile/">Rodney Saint-Éloi, 5 Questions pour Île en île</item>
+      <item ref="https://youtu.be/40fx3Smb1lQ?t=5m35s">Canapé</item>
+      <item ref="http://youtu.be/3Kh5-luFuBc">Récitatif au pays des ombres</item>
+      <item ref="http://www.voixdecrivains.net/ha_steloi.html">Rodney Saint-Éloi</item>
+      <item ref="http://www.rfi.fr/fichiers/MFI/CultureSociete/1455.asp">Rodney Saint-Éloi, activiste poétique</item>
+      <item ref="http://radiospirale.org/capsule/rencontre-avec-rodney-saint-eloi">Rencontre avec Rodnet Saint-Éloi</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+    </list>
+  </div>
+</TEI>

@@ -1,25 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jean_Andre_Constant_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jean_Andre_Constant" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jean Andr� Constant</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Jean André Constant</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jean_Andre_Constant_fiche_autorite">
+  <div n="1" xml:id="Jean_Andre_Constant_fiche">
     <person ana="Jean_Andre_Constant" sex="na">
-      <persName>Jean Andr� Constant</persName>
+      <persName>Jean André Constant</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Jean_Andre_Constant_bio">
+    <text hand="Maguy Métellus" ref="http://ile-en-ile.org/constant/" xml:id="Jean_Andre_Constant_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Jean_Andre_Constant">Jean André Constant</persName>
+         naît le 30 juin 1968 dans la ville des 
+        <placeName ana="Cayes">Cayes</placeName>
+        , au Sud d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il fait ses études primaires et secondaires à l’école 
+        <placeName ana="Sainte">Sainte</placeName>
+        -Famille et au collège Saint-
+        <persName ana="Jean_Des_Cayes">
+          Jean des 
+          <placeName ana="Cayes">Cayes</placeName>
+        </persName>
+         respectivement. Après ses études en sciences linguistiques et en travail social à l’Université d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , il poursuit au deuxième cycle en travail social à la Universidad de 
+        <placeName ana="Puerto_Rico">Puerto Rico</placeName>
+         et la University of 
+        <placeName ana="Connecticut">Connecticut</placeName>
+         School of Social Work. Il vit actuellement à 
+        <placeName ana="Hartford">Hartford</placeName>
+         au 
+        <placeName ana="Connecticut">Connecticut</placeName>
+        , 
+        <placeName ana="Usa">USA</placeName>
+        , partageant sa vie entre l’écriture, l’enseignement et le travail social. Polyglotte, il est interprète-traducteur pigiste (créole, français, espagnol et anglais). Très attaché à sa 
+        <placeName ana="Terre">Terre</placeName>
+         natale et tout aussi engagé dans sa communauté d’accueil, on lui doit entre autres la célébration, à titre de coordonnateur, du Bicentenaire de l’indépendance d’
+        <placeName ana="Haiti">Haïti</placeName>
+         au Institute for Community Research de 
+        <placeName ana="Hartford">Hartford</placeName>
+        . Il est également secrétaire à la rédaction et chroniqueur pour le mensuel trilingue The 
+        <placeName ana="Connecticut">Connecticut</placeName>
+         Haitian Voice.
+      </p>
+      <p>Sa passion pour la littérature l’a poussé vers plusieurs fronts : il est poète, nouvelliste, critique littéraire, éditeur. Connecté au social, il est membre de plusieurs forums littéraires et intellectuels sur le Net, dont La page blanche, Forum littéraire  et Haitian Politics.</p>
+      <p>Pourquoi l’écriture ? Constant écrit pour dire au monde qui il est, en plus d’exister. Pour see dire et se parler, se questionner, pour se plaire. Il écrit aussi pour aménager son espace de rêve, de folie et de solitude. Pour commettre ses crimes et purger ses peines, pour se connecter à l’autre (le monde), et par moments pour s’en détacher. Bref par amour pour les mots avec lesquels il entretien un rapport privilégié et intime : il les dorlote, les caresse, les sable et les fourbit. Enfin il écrit pour exercer sa liberté et contrer tous les écueils à la liberté de vivre pleinement sa vie.</p>
+      <p>
+        <persName ana="Jean_Andre_Constant">Jean André Constant</persName>
+         est fondateur et co-
+        <placeName ana="Directeur">Directeur</placeName>
+        , avec le poète de 
+        <placeName ana="Montreal">Montréal</placeName>
+         Saint-
+        <persName ana="John_Kauss">John Kauss</persName>
+        , de la 
+        <placeName ana="Maison">Maison</placeName>
+         d’édition Pages Folles. Ensemble ils se sont donné pour tâche de canaliser une partie de leur énergie, de leur sensibilité poétique et humaine vers une activité pour aider d’autres écrivains à atteindre leur objectif de publier des œuvres.
+      </p>
+      <p>
+        Constant est un homme ouvert sur le monde et on le sent particulièrement dans son recueil bilingue Pwezi san Aksan / Poetry with a 
+        <persName ana="French_Accent">French Accent</persName>
+        , dans lequel il revisite les rapports entre identité et langage, en particulier l’expérience de l’immigration et le fait de parler anglais avec un accent étranger. Loin de décrire ou de déchiffrer les nationalités ou les cultures, on a l’impression que le propos est plutôt de toucher le cœur humain par des sentiments, sans étendard ni faux discours : l’amour, la haine, la paix, l’illusion, la frustration, la douleur. Émotion, mélodie, saveur de la vie avec tous ses accents.
+      </p>
+      <p>
+        Humaniste, il a toujours maintenu un vif engagement social et politique – qui déjà s’était exprimé dès son adolescence à travers les émissions Konbit peyizan  et Micro-jeunesse  qu’il animait à 
+        <persName ana="Radyo_Men_Kontre_Des_Cayes">
+          Radyo Men Kontre des 
+          <placeName ana="Cayes">Cayes</placeName>
+        </persName>
+        . La plus récente expression de cette conscience prend la forme de la nouvelle expérience qu’il se prépare à vivre : la coopération, en 
+        <placeName ana="Republique_Democratique_Du_Congo">République démocratique du Congo</placeName>
+        .
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.jean-andre-constant.14085.html" xml:id="Jean_Andre_Constant_bio_auteur_spla">
+      <p>
+        <persName ana="Jean_Andre_Constant">Jean André Constant</persName>
+         naît le 30 juin 1968 dans la ville des 
+        <placeName ana="Cayes">Cayes</placeName>
+        , au Sud d'
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il fait ses études primaires et secondaires à l'école 
+        <placeName ana="Sainte">Sainte</placeName>
+        -Famille et au collège Saint-
+        <persName ana="Jean_Des_Cayes">
+          Jean des 
+          <placeName ana="Cayes">Cayes</placeName>
+        </persName>
+         respectivement. Après ses études en sciences linguistiques et en travail social à l'Université d'
+        <placeName ana="Haiti">Haïti</placeName>
+        , il poursuit au deuxième cycle en travail social à la Universidad de 
+        <placeName ana="Puerto_Rico">Puerto Rico</placeName>
+         et la University of 
+        <placeName ana="Connecticut">Connecticut</placeName>
+         School of Social Work. Il vit actuellement à 
+        <placeName ana="Hartford">Hartford</placeName>
+         au 
+        <placeName ana="Connecticut">Connecticut</placeName>
+        , 
+        <placeName ana="Usa">USA</placeName>
+        , partageant sa vie entre l'écriture, l'enseignement et le travail social. Polyglotte, il est interprète-traducteur pigiste (créole, français, espagnol et anglais). Très attaché à sa 
+        <placeName ana="Terre">Terre</placeName>
+         natale et tout aussi engagé dans sa communauté d'accueil, on lui doit entre autres la célébration, à titre de coordonnateur, du Bicentenaire de l'indépendance d'
+        <placeName ana="Haiti">Haïti</placeName>
+         au Institute for Community Research de 
+        <placeName ana="Hartford">Hartford</placeName>
+        . Il est également secrétaire à la rédaction et chroniqueur pour le mensuel trilingue The 
+        <placeName ana="Connecticut">Connecticut</placeName>
+         Haitian Voice. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Andre_Constant_biblio">
+    <div ref="http://ile-en-ile.org/constant/" xml:id="Jean_Andre_Constant_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Folitude. Montréal: Pages Folles, 2005.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Les Masques amoureux, recueil de nouvelles (à paraître).</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Où le maquisard Ligondé s’est-il réfugié ? ». Le Rouleau Magazine 34 (1991).</item>
+      </list>
+      <list subtype="publications scientifiques et académiques">
+        <item>Les mutations du système éducatif haïtien à l’heure de l’ajustement structurel. Mémoire de Licence en travail social, 1995.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jean_Andre_Constant_web">
+    <list type="ile_en_ile">
+      <item ref="http://www.tanbou.com/2005/SemiologiedUneCrise.htm">Haïti : Sémiologie d’une crise virtuelle</item>
+      <item ref="http://www.tanbou.com/2006/summer/pwezi.htm">Bri sapat</item>
+      <item ref="http://www.alterpresse.org/spip.php?article5017">Paul Farmer on Haiti and Global Health Issues</item>
+      <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=2577">Une lecture de « À l’angle des rues parallèles » ; L’écriture linéaire de Gary Victor</item>
+      <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=7538">Saint-John Kauss : deux recueils pour dire le cœur battant du poème</item>
+      <item ref="http://ecrits-vains.com/thematique/transatlantique/constant.htm">comme une vague…</item>
+      <item ref="http://www.tanbou.com/2007/Spring/HommageAPaulLaraque.htm">Hommage à Paul Laraque » / « Ochan pou Paul Laraque</item>
+      <item ref="http://www.francopolis.net/librairie/vostextesarchiveABC.htm#Constant">Textes 2, 4 et 5</item>
+      <item ref="http://www.terranovamagazine.ca/24/pages/livres/livres.html">Folitude de Jean André Constant</item>
+      <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=1190">Folitude, en absence de soi-même</item>
+      <item ref="http://www.csmsmagazine.org/news.php?pg=20060804I205">La Folitude de Jean-André Constant</item>
+      <item ref="http://www.potomitan.info/constant/">Jean André Constant</item>
+      <item ref="http://lenouvelliste.com/article.php?PubID=&amp;ArticleID=33905">Une voix ardente et prophétique</item>
+      <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46329">Un fauteuil-standard pour deux éditeurs</item>
+    </list>
   </div>
 </TEI>

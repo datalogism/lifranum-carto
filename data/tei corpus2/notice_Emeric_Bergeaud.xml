@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Emeric_Bergeaud_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Emeric_Bergeaud" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de �meric Bergeaud</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Émeric Bergeaud</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Emeric_Bergeaud_fiche_autorite">
+  <div n="1" xml:id="Emeric_Bergeaud_fiche">
     <person ana="Emeric_Bergeaud" sex="na">
-      <persName>
-        <surname source="bnf">�meric</surname>
-        <forename source="bnf">Bergeaud</forename>
-      </persName>
+      <persName>Émeric Bergeaud</persName>
       <idno type="BNF">
         cb13014654b#about
         <g ref="http://data.bnf.fr/ark:/12148/cb13014654b#about"/>
@@ -58,6 +55,92 @@
       <occupation source="viaf">politicians</occupation>
       <occupation source="viaf">novelists</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Umana_Hossman_Adriana">
+          <persName>Umaña Hossman Adriana</persName>
+        </person>
+        <person ana="Mucher_Christen">
+          <persName>Mucher Christen</persName>
+        </person>
+        <person ana="Curtis Lesley_S">
+          <persName>Curtis Lesley S</persName>
+        </person>
+        <person ana="Duno_Gottberg_Luis">
+          <persName>Duno Gottberg Luis</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Emeric_Bergeaud_bio">
+    <text hand="Anne Marty" ref="http://ile-en-ile.org/bergeaud/" xml:id="Emeric_Bergeaud_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
+         est né aux 
+        <placeName ana="Cayes">Cayes</placeName>
+         en 1818. À trente ans, il s’exile sur l’île de Saint-Thomas lors de l’insurrection en 1848 contre 
+        <persName ana="Faustin_Souloque">Faustin Souloque</persName>
+         (qui deviendra l’empereur 
+        <persName ana="Faustin_Ier">Faustin Ier</persName>
+        ). Bergeaud meurt à Saint-Thomas le 23 février 1858, non sans avoir terminé Stella, le premier roman haïtien.
+      </p>
+      <p>
+        C’est en exil qu’
+        <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
+         écrit Stella. Son engagement politique le contraint, pour rester en vie, à quitter son pays pour l’île de Saint-Thomas. Après son décès, un de ses amis, 
+        <persName ana="Beaubrun_Adouin">Beaubrun Adouin</persName>
+        , se chargera de la première publication du roman en 1859, et sa veuve veillera à la réédition de 1887, cette fois-ci sans préface ni notice biographique.
+      </p>
+      <p>Stella, récit entre apologue et roman d’apprentissage</p>
+      <p>
+        Même si cette oeuvre comporte ici ou là des expressions créoles ou fait allusion à un conte, à la fable créole du Figuier maudit, à des traductions de proverbes traditionnels, elle ne porte pas témoignages des contradictions linguistiques qui jalonneront, par la suite, la quête d’identité littéraire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>
+        En revanche, véritable récit fondateur, Stella véhicule la quête des repères aptes à structurer une conscience collective, à fixer le sentiment d’appartenir à une même 
+        <placeName ana="Nation">Nation</placeName>
+        . Admirable « récit des origines », il se double d’une dimension « d’apprentissage ». C’est l’histoire de deux frères utérins, Romulus, l’aîné, est orphelin de père africain, le cadet Rémus n’a pas été reconnu par le colon son père chez qui sert Marie leur mère africaine. Un jour, pour une broutille, celle-ci est assassinée par le colon. Depuis lors, les deux frères n’auront de cesse de vouloir venger la mort de leur mère en tuant le colon blanc. Leur combat avec les autres esclaves comportera deux grandes étapes : la conquête de la liberté (la dignité par l’abolition de l’esclavage), puis la conquête de l’indépendance nationale. On les voit se tromper, se décourager, tirer les leçons de leurs erreurs, affronter les divers obstacles avec tantôt des réussites, tantôt des échecs ; sont évoquées les questions de tactiques et de stratégies militaires. L’auteur s’est appuyé sur le pastiche d’une précédente épopée fondatrice, celle de L’Énéide du poète romain, Virgile. Et il parvient à faire du récit de la libération des esclaves et du pays une merveilleuse épopée 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>Tout au long de leur vie, Romulus et Rémus sont véritablement portés par deux images de femmes à dominante maternelle : la mère noire biologique qui les hante représente les passions et alimente leur désir de vengeance ; réussir dans la vie c’est venger la mère. Quant à Stella, la jeune femme blanche, elle est otage et donc victime du colon blanc ; d’origine modeste, mais instruite, elle incarnera Dieu, la morale, l’idéal du combat pour la liberté, en un mot la Loi. C’est une allégorie dont la fonction pratique et symbolique est fondamentale pour le succès de l’action.</p>
+      <p>
+        L’histoire de ces deux héros se termine sur la déclaration de l’indépendance, correspondant au 1er janvier 1804. On a suivi l’évolution de ces personnages jusqu’au sacre final, passage de Saint-Domingue à 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Ils ont réussi leurs objectifs : liberté et indépendance pour leur peuple. Mais la loi ne semble pas avoir été personnellement intériorisée par les deux garçons, puisque jusqu’au dernier moment, elle est incarnée et proférée par Stella qui aussitôt disparaît dans les airs. L’interprétation de la fable permet de dire que les chefs du pays demeurent encore des fils sous l’emprise de la loi maternelle, et non des adultes véritablement affranchis de cette autorité féminine. Mais ce qui importait à l’auteur, semble-t-il, c’était plutôt l’apprentissage collectif du peuple qui a abouti à sa libération et à son indépendance.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.emeric-bergeaud.32105.html" xml:id="Emeric_Bergeaud_bio_auteur_spla">
+      <p>
+        <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
+         est né aux 
+        <placeName ana="Cayes">Cayes</placeName>
+         en 1818. À trente ans, il s'exile sur l'île de Saint-Thomas lors de l'insurrection en 1848 contre 
+        <persName ana="Faustin_Souloque">Faustin Souloque</persName>
+         (qui deviendra l'empereur 
+        <persName ana="Faustin_Ier">Faustin Ier</persName>
+        ). Bergeaud meurt à Saint-Thomas le 23 février 1858, non sans avoir terminé Stella, le premier roman haïtien.C'est en exil qu'
+        <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
+         écrit Stella. Son engagement politique le contraint, pour rester en vie, à quitter son pays pour l'île de Saint-Thomas. Après son décès, un de ses amis, 
+        <persName ana="Beaubrun_Adouin">Beaubrun Adouin</persName>
+        , se chargera de la première publication du roman en 1859, et sa veuve veillera à la réédition de 1887, cette fois-ci sans préface ni notice biographique. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Emeric_Bergeaud_biblio">
+    <div ref="http://ile-en-ile.org/bergeaud/" xml:id="Emeric_Bergeaud_biblio_auteur_ile_en_ile">
+      <list subtype="roman">
+        <item>Stella. Beaubrun Adouin, préface. Paris: E. Dentu, 1859; 1887. Nouvelle édition avec une préface d’Anne Marty: Carouge-Genève: Zoé, 2009.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’émeric bergeaud">
+        <item>Hoffmann, Léon-François. Essays on Haitian Literature. Washington, DC: Three Continents, 1984.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Emeric_Bergeaud_web">
+    <list type="ile_en_ile">
+      <item ref="http://www.dloc.com/?b=UF00089373">Stella</item>
+      <item ref="http://editionszoe.ch/pagesGenerales/dos/4stella.htm">Stella, par Émeric Bergeaud</item>
+    </list>
   </div>
 </TEI>

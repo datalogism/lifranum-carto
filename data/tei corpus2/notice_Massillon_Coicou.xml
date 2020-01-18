@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Massillon_Coicou_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Massillon_Coicou" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Massillon Coicou</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Massillon_Coicou_fiche_autorite">
+  <div n="1" xml:id="Massillon_Coicou_fiche">
     <person ana="Massillon_Coicou" sex="na">
       <persName>Massillon Coicou</persName>
       <death source="ile_en_ile_auto">
@@ -33,7 +33,281 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Dramaturge</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Massillon_Coicou_bio">
+    <text hand="Tontongi" ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         est né le 9 octobre 1867 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il fait ses études primaires chez les Frères de l’Instruction Chrétienne, et secondaires au Lycée National. Sous la présidence de 
+        <persName ana="Florvil_Hyppolite">Florvil Hyppolite</persName>
+        , il effectue son service militaire (obligatoire à l’époque, les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         voulant être préparés pour défendre le pays contre toute invasion étrangère). Après son service militaire, 
+        <placeName ana="Coicou">Coicou</placeName>
+         entre dans l’enseignement, d’abord comme professeur suppléant, puis comme titulaire au Lycée National.
+      </p>
+      <p>
+        Poète, dramaturge, essayiste, diplomate et humaniste, 
+        <placeName ana="Coicou">Coicou</placeName>
+         est aussi un militant politique. Il prend les armes contre la dictature de 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         qui arrive au pouvoir grâce à ses manigances avec les États-Unis, qui l’aident à réprimer l’opposition d’
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+        , avec pour contrepartie le renforcement de la 
+        <persName ana="Doctrine_Monroe">Doctrine Monroe</persName>
+         dans les 
+        <placeName ana="Ameriques">Amériques</placeName>
+        . La militance politique de 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         contre le colonialisme européen et l’impérialisme étatsunien commence dès son enrôlement dans l’armée, mais elle continue avec plus d’intensité durant son professorat au Lycée National.
+      </p>
+      <p>Il publie en 1892 le recueil de poèmes Poésies nationales, où il étale son grand souffle poétique comme un militant nationaliste de premier ordre. En témoigne le poème « Yankisme » où il s’en prend aux États-Unis pour avoir sacrifié leurs propres idéaux :</p>
+      <p>« Il faut de l’or, – ou rien, – pour être, – ou ne pas être,
+Time is money. Le crime aussi.
+[…] 
+Et toujours de l’argent ! toujours de grosses sommes !
+Beaucoup d’or pour l’Américain !
+All right ! droit vers le but, quel qu’il soit ! nous sommes
+Attirés par l’espoir d’un gain !
+Cotton is king !…  » </p>
+      <p>
+        En 1893 il présente sa pièce de théâtre L’Oracle,  qui a un grand succès. En 1990, le président 
+        <persName ana="Tiresias_Simon_Sam">Tirésias Simon Sam</persName>
+         le nomme secrétaire à la légation d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+        , puis chargé d’affaires. En 
+        <placeName ana="France">France</placeName>
+        , il se joint à la vie littéraire de 
+        <placeName ana="Paris">Paris</placeName>
+        , fréquentant les milieux politiques, les intellectuels, dont le poète 
+        <persName ana="Auguste_Dorchain">Auguste Dorchain</persName>
+         sous la présidence duquel il prononce un discours sur le génie français et l’âme 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . À 
+        <placeName ana="Paris">Paris</placeName>
+        , il publie en 1903 deux recueils de poésie, Passions et Impressions. Une année plus tard, il fait jouer Liberté au théâtre de Cluny, un drame en vers en quatre actes, en l’honneur du centenaire de l’anniversaire de l’assassinat de 
+        <placeName ana="Dessalines">Dessalines</placeName>
+         (17 octobre 1804).
+      </p>
+      <p>
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         prend position corps et âme pour la candidature d’
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+         dans l’élection présidentielle de 1902, et pour le camp firministe dans le conflit qui oppose celui-ci avec 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+        . (À noter que 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         et 
+        <placeName ana="Firmin">Firmin</placeName>
+         sont d’abord alliés dans la tentative de renversement 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         provisoire d’
+        <persName ana="Adolphe_Boisrond">
+          Adolphe 
+          <placeName ana="Boisrond">Boisrond</placeName>
+        </persName>
+        -Canal, mais Alexis, aidé par les Étatsuniens, prendra le pouvoir par la force, en envahissant le parlement, armes aux poings.)
+      </p>
+      <p>
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         retourne en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1905, en plein milieu du régime de terreur institué par 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+        . Il exprime publiquement son soutien à 
+        <placeName ana="Firmin">Firmin</placeName>
+         et sa volonté de renverser Alexis. Suite à l’écrasement de l’insurrection firministe en janvier 1908, 
+        <placeName ana="Coicou">Coicou</placeName>
+         prend le maquis, continuant la rébellion armée contre Alexis. Capturé avec deux de ses frères, Horace et Pierre-Louis, tous les trois, plus une vingtaines d’autres insurgés, sont sommairement exécutés dans nuit du 14 au 15 
+        <placeName ana="Mars">Mars</placeName>
+         1908 devant les murs extérieurs du cimetière de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+      </p>
+      <p>
+        On dit que l’exécution de 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         a inspiré à 
+        <persName ana="Guillaume_Apollinaire">Guillaume Apollinaire</persName>
+         dans le recueil de nouvelles et de contes Poète assassiné (1916).
+      </p>
+      <p>
+        Dans une lettre écrite de son exil à 
+        <persName ana="Saint_Thomas">Saint Thomas</persName>
+        , datée du 29 mai 1908, adressée aux enfants des frères 
+        <placeName ana="Coicou">Coicou</placeName>
+         – Camille, Emmanuel, Christian et Clément – en passage à 
+        <placeName ana="Kingston">Kingston</placeName>
+        , 
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+         exprime le « profond chagrin et les vifs regrets que m’a causé l’assassinat de mes trois affectionnés amis : Massillon, Horace et Pierre-
+        <persName ana="Louis_Coicou">
+          Louis 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+        , vos biens aimés parents… Ils sont tombés victimes de leur dévouement à notre 
+        <placeName ana="Sainte">Sainte</placeName>
+         cause et de leur affection personnelle pour moi. Ils n’ont point mesuré leur zèle et leurs nobles efforts dans le but d’essayer de m’arracher des mains de ceux qui avaient une si grande soif de mon sang. Hélas ! Combien n’aurais-je pas préféré verser ce sang que j’étais allé offrir en holocauste à notre pays, au lieu du leur si plein de sève et de généreuse ardeur ! Car je descends déjà l’échelle de la vie et ils étaient jeunes et forts, nourrissant toutes les nobles aspirations qui m’inspirent dans la lutte pour la génération de notre race. Quelle chose amère et triste que la souffrance et le deuil triplement et si brutalement infligés à notre malheureuse famille. »
+      </p>
+      <p>
+        La commémoration du centenaire de la mort de 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         en 
+        <placeName ana="Mars">Mars</placeName>
+         2008, marquée à la fois en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et dans la diaspora, prouve que l’esprit de résistance et la volonté de sacrifice de ce grand poète pour la génération du pays sont encore honorés par les nouvelles générations.
+      </p>
+      <p>
+        Le centenaire de l’exécution de 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         (2008)
+      </p>
+      <p>
+        Au moment du centenaire de l’exécution de 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+        , on constate avec regret une minceur d’informations disponibles à son sujet. Éparpillés et raréfiés, les détails sur sa vie, sur sa formation, ses actions politiques, ses œuvres littéraires et dramatiques, sont comme des pièces d’or obtenues au prix d’un long labeur et d’une grande patience. Il n’est pas une seule étude qui lui soit entièrement consacrée sur l’Internet, à part quelques courts articles de commémoration dans Le Nouvelliste. Un article de 
+        <persName ana="Henock_Trouillot">Henock Trouillot</persName>
+         qui le mentionne semble plutôt intéressé à célébrer son « noirisme », qu’à apporter des éclairages sur sa vie. Il va sans dire qu’il est temps qu’une telle lacune soit comblée.
+      </p>
+      <p>
+        Pourtant 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         est monumental. Par l’orientation qu’il a donnée à sa vie, par son engagement dans la politique, par le souci de poursuivre la vérité, en tout cas le questionnement, qui émane tout au long de ses oeuvres littéraires et dramatiques, 
+        <placeName ana="Coicou">Coicou</placeName>
+         personnifie, avec son contemporain 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+        , l’expression poétique de la littérature engagée  avant la lettre en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , à l’image de 
+        <persName ana="Victor_Hugo">Victor Hugo</persName>
+         en 
+        <placeName ana="France">France</placeName>
+        .
+      </p>
+      <p>
+        On peut regretter – à l’instar des littérateurs pour qui le domaine symbolique est plus important que celui de la vie réelle – qu’il se soit laissé engluer dans la rivalité entre 
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+         et 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+        , mais cela n’amoindrit pas pour autant l’admiration qu’il mérite en tant qu’écrivain, poète et militant politique qui accepte de consacrer – et de sacrifier – sa vie à la cause de l’égalité politique et à la mise sur pied d’un État de droit en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Dans la bibliographie ci-dessous, vous trouverez des liens vers quelques sites qui ont été utiles pour l’élaboration de ce profil. L’absence d’études approfondies sur une si grande figure de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         est bien malheureuse. Mise en ligne pour le centenaire de l’exécution du poète en 1908, on espère que ce portrait de 
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         pour Île en île contribue à mieux le faire connaître.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.massillon-coicou.32107.html" xml:id="Massillon_Coicou_bio_auteur_spla">
+      <p>
+        <persName ana="Massillon_Coicou">
+          Massillon 
+          <placeName ana="Coicou">Coicou</placeName>
+        </persName>
+         est né le 9 octobre 1867 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il fait ses études primaires chez les Frères de l'Instruction Chrétienne, et secondaires au Lycée National. Sous la présidence de 
+        <persName ana="Florvil_Hyppolite">Florvil Hyppolite</persName>
+        , il effectue son service militaire (obligatoire à l'époque, les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         voulant être préparés pour défendre le pays contre toute invasion étrangère). Après son service militaire, 
+        <placeName ana="Coicou">Coicou</placeName>
+         entre dans l'enseignement, d'abord comme professeur suppléant, puis comme titulaire au Lycée National. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Massillon_Coicou_biblio">
+    <div ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Poésies nationales (première série). Paris: V. Goupy et Jourdan, 1892; Port-au-Prince: Impr. Panorama, 197-?; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="essais">
+        <item>Le genie français et l’âme haïtienne. Paris: Librairie de la Renaissance Latine, 1904.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Toussaint au Fort de Joux.* 1896.</item>
+      </list>
+      <list subtype="roman">
+        <item>La Noire.* 1905.</item>
+      </list>
+      <list subtype="autres éditions">
+        <item>Poésies choisies. Port-au-Prince: Editions Christophe, 1994.</item>
+      </list>
+      <list subtype="sur massillon coicou">
+        <item>Gaillard, Roger. La République exterminatrice, Vol V: Le Grand fauve (1902-1908), Massillon Coicou, le poète assassiné. Port-au-Prince: Le Natal, 1995.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Massillon_Coicou_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
+      <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
+      <item ref="http://ile-en-ile.org/massillon-coicou-le-supplice-du-noir/">Le supplice du noir</item>
+      <item ref="http://ile-en-ile.org/massillon-coicou-vertieres/">Vertières</item>
+      <item ref="http://ile-en-ile.org/massillon-coicou-yankisme/">Yankisme</item>
+      <item ref="http://ile-en-ile.org/massillon-coicou-heros/">Trois sonnets</item>
+      <item ref="http://ile-en-ile.org/firmin/">Anténor Firmin</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55537">L’exécution du poète</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55153&amp;PubDate=2008-03-08">Une lettre de Massillon Coicou</item>
+      <item ref="http://www.erudit.org/revue/etudlitt/1980/v13/n2/500517ar.pdf">Les États-Unis et les Américains dans les lettres haïtiennes</item>
+      <item ref="http://hometown.aol.com/mit2haiti/MasiyonKwakou.htm">Massillon Coicou / Masiyon Kwakou (1867-1908)</item>
+      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=626">Haïti ou la négritude avant la lettre</item>
+    </list>
   </div>
 </TEI>

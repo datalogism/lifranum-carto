@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Guy_Regis_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Guy_Regis" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Guy R�gis</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Guy Régis</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Guy_Regis_fiche_autorite">
+  <div n="1" xml:id="Guy_Regis_fiche">
     <person ana="Guy_Regis" sex="na">
-      <persName>
-        <surname source="bnf">Guy</surname>
-        <forename source="bnf">R�gis</forename>
-      </persName>
+      <persName>Guy Régis</persName>
       <idno type="BNF">
         cb162782159#about
         <g ref="http://data.bnf.fr/ark:/12148/cb162782159#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/170304147"/>
       </idno>
       <idno type="VIAF">
-        Guy_Junior_R�gis
-        <g ref="http://fr.dbpedia.org/resource/Guy_Junior_R�gis"/>
+        Guy_Junior_Régis
+        <g ref="http://fr.dbpedia.org/resource/Guy_Junior_Régis"/>
       </idno>
       <birth source="viaf">
         <date>1974</date>
@@ -46,6 +43,153 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Woods_Paolo">
+          <persName>Woods Paolo</persName>
+        </person>
+        <person ana="Robert_Arnaud">
+          <persName>Robert Arnaud</persName>
+        </person>
+        <person ana="Hamadi">
+          <persName>Hamadi</persName>
+        </person>
+        <person ana="Gallimard">
+          <persName>Gallimard</persName>
+        </person>
+        <person ana="Dumont Luc 19_">
+          <persName>Dumont Luc 19-</persName>
+        </person>
+        <person ana="Camus_Albert">
+          <persName>Camus Albert</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Guy_Regis_bio">
+    <text ref="http://ile-en-ile.org/regis/" xml:id="Guy_Regis_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Guy_Junior_Regis">Guy Junior Régis</persName>
+         est né à la capitale 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        .
+
+Après des études en anthropologie et en psychologie, depuis 1995 il se consacre au théâtre. Il est à la fois dramaturge, metteur en scène, poète et comédien.
+      </p>
+      <p>
+        <persName ana="Guy_Regis">Guy Régis</persName>
+         fonde en 2001, avec d’autres artistes, le collectif « NOUS Théâtre », mouvement novateur par l’audace de ses formes et langages. Dès la première mise en scène de 
+        <persName ana="Baka_Roklo">Baka Ròklò</persName>
+        , le talent du « petit diable rebelle » (qui lui sert de nom d’emprunt) se fait remarquer. Sa technique particulière de mise en mouvement du corps, son jeu qui fait place à la « dérision cruelle » et ses textes crus et incisifs sont autant de propositions nouvelles pour le théâtre haïtien.
+      </p>
+      <p>
+        <persName ana="Guy_Regis">Guy Régis</persName>
+         crée en 2003, à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         Service 
+        <persName ana="Violence_Serie">Violence Série</persName>
+        , sketches sur les tractations politiques haïtiennes récentes. Repris sous forme de spectacle, il est joué à 
+        <placeName ana="Bruxelles">Bruxelles</placeName>
+        , à 
+        <placeName ana="Liege">Liège</placeName>
+         et à 
+        <placeName ana="Limoges">Limoges</placeName>
+        .
+      </p>
+      <p>
+        Lauréat du Prix 
+        <persName ana="Jean_Brierre">Jean Brierre</persName>
+         en 2000, prix international de poésie (Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et 
+        <placeName ana="Dakar">Dakar</placeName>
+        ), pour son long poème Le Temps des carnassiers, 
+        <persName ana="Guy_Junior_Regis">Guy Junior Régis</persName>
+         a également réalisé deux courts métrages expérimentaux, Blackout et Pays sauve qui peut (2002).
+      </p>
+      <p>
+        <persName ana="Guy_Regis">Guy Régis</persName>
+         est également l’auteur d’une traduction en créole du roman d’Albert Camus Etranje! paru aux Presses Nationales d’
+        <placeName ana="Haiti">Haïti</placeName>
+         en 2008.
+      </p>
+      <p>
+        En 2006, paraît Ida, un « monologue déchet », chez Rivarticollection à 
+        <placeName ana="New_York">New York</placeName>
+        . 
+        <persName ana="Guy_Junior_Regis">Guy Junior Régis</persName>
+         présente ce texte en 2007 sur la scène du 
+        <placeName ana="Tarmac">Tarmac</placeName>
+         de la Villette à 
+        <placeName ana="Paris">Paris</placeName>
+        , dans une mise en scène de 
+        <persName ana="Ruddy_Sylaire">Ruddy Sylaire</persName>
+        . La présentation de la pièce dans La Terrasse souligne qu’« 
+        <placeName ana="Haiti">Haïti</placeName>
+         apparaît dans toute sa complexité, ses « dérives », ses « ivresses » et sa « démesure » à travers la poésie de 
+        <persName ana="Baka_Roklo">Baka Ròklò</persName>
+        , un des créateurs les plus originaux de son pays par ses textes incisifs et sa technique corporelle si particulière ».
+      </p>
+      <p>
+        N.B. Junior est le deuxième prénom de 
+        <persName ana="Guy_Junior_Regis">Guy Junior Régis</persName>
+         – alias 
+        <persName ana="Guy_Regis">Guy Régis</persName>
+         Jr – et non pas une marque patronymique.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Guy_Regis_biblio">
+    <div ref="http://ile-en-ile.org/regis/" xml:id="Guy_Regis_biblio_auteur_ile_en_ile">
+      <list subtype="théâtre">
+        <item> Service Violence Série (2003).</item>
+      </list>
+      <list subtype="poésie">
+        <item>Le Temps des carnassiers (2000).</item>
+      </list>
+      <list subtype="fiction">
+        <item>Moi, fardeau inhérent (théâtre) suivi par Incessants (récit). Besançon: Les Solitaires Intempestifs, 2011.</item>
+      </list>
+      <list subtype="direction d’ouvrage">
+        <item>Une enfance haïtienne. Textes recueillis par Guy Régis Jr. Paris: Gallimard: 2017.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Eleventh Bridge ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 143-146.</item>
+      </list>
+      <list subtype="interprétations et mises en scène">
+        <item>Délire à deux, d’Eugène Ionesco. Interprétation et mise en scène d’Antoine Peugeot, Port-au-Prince, 1997.</item>
+      </list>
+      <list subtype="filmographie">
+        <item> Blackout, réalisation et scénario de Guy Junior Régis, 2002, 3 min.</item>
+      </list>
+      <list subtype="textes de guy régis mis en musique">
+        <item>« Eta’n Sinik », poème de Guy Junior Régis interprété par Wooly Saint Louis Jean sur son disque éponyme (Eta’n Sinik), 2011.</item>
+      </list>
+      <list subtype="traductions par guy junior régis">
+        <item>Dezafi, de Frankétienne, adapté au théâtre, écrit en résidence d’écriture au Tarmac de la Villette, 2006, inédit.</item>
+      </list>
+      <list subtype="bourses, résidences et distinctions">
+        <item>2000     Lauréat au Prix de poésie, Jean Brierre (Port-au-Prince-Dakar), pour Le Temps des carnassiers.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Guy_Regis_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/guy-regis-atteint/">Atteint</item>
+      <item ref="http://ile-en-ile.org/guy-regis-5-questions-pour-ile-en-ile/">Guy Régis, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/guy-regis-ida/">Ida, monologue déchet</item>
+      <item ref="http://www.theatre-video.net/video/Entretien-avec-Guy-Regis-Junior-pour-Mourir-tendre-30e-Francophonies-en-Limousin?autostart"/>
+      <item ref="http://www.theatre-video.net/video/Entretien-avec-Guy-Regis-Junior-pour-Mourir-tendre-30e-Francophonies-en-Limousin?autostart"> Entretien avec Guy Régis Junior</item>
+      <item ref="http://www.solitairesintempestifs.com/396-regis-jr-guy">Guy Jr Régis</item>
+      <item ref="http://www.theatre-contemporain.net/met-guy-junior-ragis-1671.html">Guy Junior Régis</item>
+      <item ref="http://www.africultures.com/php/index.php?nav=personne&amp;no=7261">Guy Régis Jr</item>
+      <item ref="http://www.lematinhaiti.com/PageArticle.asp?ArticleID=6511">Guy Régis Junior raconte sa passion</item>
+      <item ref="http://www.humanite.fr/2007-06-18_Cultures_Haiti-douleur">Haïti douleur</item>
+      <item ref="http://www.journal-laterrasse.com/papier.asp?numero=28&amp;Genre=Agenda&amp;Rubrique=Th%E9%E2tre">Ida</item>
+      <item ref="http://youtu.be/JM6azIv42v0">NOUS Théâtre, Service Violence Série</item>
+      <item ref="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=458">« Poétique » et « La ville soumise »</item>
+      <item ref="http://web.archive.org/web/20110713043951/http://www.institutfrancais.com/librairie/derniers/pdf/nl162_2.pdf">La Parole à Guy Régis Junior : Aux toilettes comme au théâtre</item>
+    </list>
   </div>
 </TEI>

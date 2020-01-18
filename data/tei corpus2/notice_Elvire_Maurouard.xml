@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Elvire_Maurouard_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Elvire_Maurouard" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Elvire Maurouard</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Elvire_Maurouard_fiche_autorite">
+  <div n="1" xml:id="Elvire_Maurouard_fiche">
     <person ana="Elvire_Maurouard" sex="na">
-      <persName>
-        <surname source="bnf">Elvire</surname>
-        <forename source="bnf">Maurouard</forename>
-      </persName>
+      <persName>Elvire Maurouard</persName>
       <idno type="BNF">
         cb13762676d#about
         <g ref="http://data.bnf.fr/ark:/12148/cb13762676d#about"/>
@@ -37,5 +34,133 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Elvire_Maurouard_bio">
+    <text ref="http://ile-en-ile.org/maurouard/" xml:id="Elvire_Maurouard_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+         est née Marie-
+        <persName ana="Elvie_Jean">Elvie Jean</persName>
+        -Jacques le 5 janvier 1971 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ).
+      </p>
+      <p>
+        Docteur ès Lettres de l’Université de 
+        <placeName ana="Paris">Paris</placeName>
+        -8 en 2003, 
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+         obtient en 2007 son Master en Études diplomatiques au CEDS (Centre d’Études Diplomatiques et Stratégiques, établissement agréé par l’ONU). Elle est Sociétaire à la Société des Poètes français.
+      </p>
+      <p>Parmi ses études critiques figurent Les beautés noires de Baudelaire.</p>
+      <p>
+        Selon 
+        <persName ana="Michel_Lequenne">Michel Lequenne</persName>
+        , « Ambiguïté de sens du mot « noir » en tant que beauté. Celle des nuits et celle de la peau ! Il aura fallu plus d’un siècle et demi pour que leur unité nous apparaisse en Baudelaire. Il y aura fallu la sensibilité et la finesse d’analyse d’
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+        , elle-même beauté noire, pour nous en découvrir et montrer la fusion dans l’œuvre et dans la vie amoureuse du poète : passion déchirée-déchirante pour de belles Îliennes, vécue dans les contradictions de son être social, résolue et sublimée dans sa géniale et bouleversante poésie nocturne. Au-delà, cette synthèse vivante oriente Baudelaire dans sa saisie du nouvel art, celui qui ouvre le romantisme à la découverte de l’Orient et de l’
+        <placeName ana="Afrique">Afrique</placeName>
+         où le noir s’épanouit en couleurs luxuriantes et se fait sur-réalisme. La vue extralucide d’une jeune sœur de 
+        <persName ana="Jeanne_Duval">Jeanne Duval</persName>
+         a su mettre à nu le cœur pantelant, faire vibrer le cristal des vers et nous rendre l’ivresse d’un regard. Grâce à elle, nous relirons plus profondément le poète ».
+      </p>
+      <p>
+        Dans 
+        <placeName ana="Haiti">Haïti</placeName>
+        , le pays hanté, 
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+         brosse une perception hallucinée et fascinante de son île natale à travers une analyse des écrits 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        . Elle s’attache à mettre en évidence le tragique qui, selon elle, imprègne dans ses profondeurs la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Les ouvrages étudiés dans cet essai racontent l’aventure des chefs 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et de ceux qui les subissent. L’auteure entreprend à sa manière une tâche de réhabilitation de la culture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>
+        Ses recueils ont été traduits en huit langues dont le finois et l’italien. Son dernier recueil de poèmes s’intitule Coquillages africains en 
+        <placeName ana="Terre">Terre</placeName>
+         d’Europe. La première nouvelle d’
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+        , « Le Jardin de Baudelaire », a reçu en 
+        <placeName ana="Sicile">Sicile</placeName>
+         le premier prix de l’Académie Internationale Il convivio en 2006.
+      </p>
+      <p>
+        Son travail se situe à l’interface de la création poétique et littéraire, et une pensée etho-psychologique. « Très tôt, dit-elle, je me suis investie dans l’étude des cultures composites issues de contacts culturels formés entre l’
+        <placeName ana="Occident">Occident</placeName>
+         et plusieurs sociétés qui lui sont familières, celle de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , de l’
+        <placeName ana="Amerique">Amérique</placeName>
+         et de l’
+        <placeName ana="Afrique">Afrique</placeName>
+        . Il y a là un effort qui pourrait aboutir presque à une nouvelle discipline partant de l’étude de la critique littéraire et aboutissant à une méta-analyse visant à l’interprétation ethnologique ».
+      </p>
+      <p>
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+         s’engage à la fois dans la création proprement littéraire et dans l’analyse de la création des autres auteurs avec, dit-elle, « toute la prudence que cette démarche inspire ».
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.elvire-maurouard.5772.html" xml:id="Elvire_Maurouard_bio_auteur_spla">
+      <p>
+        Enseignante, 
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+         est Docteur ès Lettres, Master en Etudes Diplomatiques et Sociétaire à la Société des Poètes français. Née à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , elle a publié de nombreux ouvrages dont Les beautés noires de Baudelaire aux 
+        <persName ana="Editions_Karthala">Editions Karthala</persName>
+        , (Prix Louis Marin, Mention spéciale, Prix littéraire des 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        ), 
+        <placeName ana="Haiti">Haïti</placeName>
+        , le pays hanté aux Editions Ibis rouge, et L'Alchimie des rêves aux Editions l'
+        <placeName ana="Harmattan">Harmattan</placeName>
+        , (Prix Présence des Arts). Ses recueils ont été traduits en six langues dont le bulgare et l'italien. La première nouvelle d'
+        <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
+         &quot;Le Jardin de Baudelaire&quot; a reçu en 
+        <placeName ana="Sicile">Sicile</placeName>
+         le premier prix de l'Académie Internationale Il convivio.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Elvire_Maurouard_biblio">
+    <div ref="http://ile-en-ile.org/maurouard/" xml:id="Elvire_Maurouard_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item>La Joconde noire. Paris: Éditions du Cygne, 2007.</item>
+      </list>
+      <list subtype="essais">
+        <item>La femme noire dans le roman haïtien: Noires, Métisses, (presque) Blanches: penser la discrimination intra-communautaire. Paris: Éditions des écrivains, 2001.</item>
+      </list>
+      <list subtype="histoire">
+        <item>Les Juifs de Saint-Domingue. Paris: Éditions du Cygne, 2008.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Contes des îles savoureuses; L’hymne des héros. Préface de Gérard Barthélemy, illustrations par Tiga.
+Paris: Édition des Écrivains, 2004.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Une Haïtienne pour Baudelaire, 2010, inédit. Joué à Prague (15 avril 2010) et à Suresnes (13 novembre 2010).</item>
+      </list>
+      <list subtype="article sélectionné">
+        <item>« L’Amérique de Dany Laferrière ». Présence Africaine 169 (2004): 221-225.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2004     Médaille d’or de l’Académie de Lutèce, pour sa thèse de doctorat, « Le Théâtre tragique haïtien ».</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Elvire_Maurouard_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/elvire-maurouard-deux-poemes/">Prière pour l’Homme Sépharade</item>
+      <item ref="http://www.editionsducygne.com/editions-du-cygne-elvire-maurouard.html">Elvire Maurouard</item>
+      <item ref="http://lewebpedagogique.com/litterature_negre/">L’esthétique nègre</item>
+    </list>
   </div>
 </TEI>

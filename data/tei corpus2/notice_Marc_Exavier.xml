@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Marc_Exavier" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Marc Exavier</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Marc_Exavier_fiche">
+    <person ana="Marc_Exavier" sex="na">
+      <persName>Marc Exavier</persName>
+      <idno type="BNF">
+        cb13607280b#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb13607280b#about"/>
+      </idno>
+      <idno type="VIAF">
+        14946444
+        <g ref="http://viaf.org/viaf/14946444"/>
+      </idno>
+      <birth source="viaf">
+        <date>1950</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <occupation source="spla"> Journaliste</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Hippolite_GeRard">
+          <persName>Hippolite Gérard</persName>
+        </person>
+        <person ana="Hipppolite_GeRard">
+          <persName>Hipppolite Gérard</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Marc_Exavier_bio">
+    <text ref="http://ile-en-ile.org/exavier/" xml:id="Marc_Exavier_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Marc Exavier_K">Marc K. Exavier</persName>
+         naît le 27 novembre 1962 à Saint-
+        <persName ana="Louis_Du_Nord">Louis du Nord</persName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il arrive à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1974 pour ses études secondaires. Après son baccalauréat, il débute des études en médecine et en linguistique. Il étudie en 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+         à l’École Normale Supérieure dont il est sorti diplomé en 1984.
+      </p>
+      <p>
+        De 1987 à 1994, 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         est professeur de littérature au Lycée 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+        , au Lycée de la Croix des Bouquets et dans d’autres écoles secondaires privées. Il étudie au 
+        <placeName ana="Quebec">Québec</placeName>
+         en automne 1993 et termine une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en Éducation à l’Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+         en 1994. De retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , il devient chargé de cours (en français et en littérature) à l’Université Quisqueya (1994-2001) et, depuis 1994, il est professeur de littérature et de français à l’École Normale Supérieure de l’Université d’État d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Journaliste culturel, 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         écrit dans 
+        <placeName ana="La_Presse">La Presse</placeName>
+         
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         sur les arts et la peinture, et surtout sur la littérature et le cinéma pour la revue Cultura, et pour le quotidien Le Nouvelliste.
+      </p>
+      <p>
+        Il anime une première chronique culturelle sur la Radio Nationale d’
+        <placeName ana="Haiti">Haïti</placeName>
+         de 1986 à 1990. De 1991 à 1993, son public retrouve ses chroniques sur les ondes de Radio Tropic FM. Après son retour du 
+        <placeName ana="Canada">Canada</placeName>
+        , 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         devient responsable de la section culturelle de la Radio Nationale d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , poste qu’il occupe jusqu’en octobre 1998. Il est ensuite 
+        <placeName ana="Directeur">Directeur</placeName>
+         de programmation à Radio Solidarité pendant cinq ans, jusqu’à ce qu’il soit nommé, en mai 2003, 
+        <placeName ana="Directeur">Directeur</placeName>
+         du développement culturel et responsable national des Centres de Lectures et d’Animation Culturelle (CLAC) par le Ministère de la Culture et de la Communication. De 2004 à 2006, il est 
+        <persName ana="Directeur_General_De_La_Radio_Nationale">
+          <placeName ana="Directeur">Directeur</placeName>
+           Général de la Radio Nationale
+        </persName>
+         d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         commence à publier au début des années 1980, et dès ses premiers écrits, les critiques font remarquer l’exigence de sa poésie, son grand sens des images. Son œuvre explore un univers de sang et de soleil blessé dans une langue belle et précise, qui rappelle souvent la rigueur d’un Magloire-Saint-
+        <placeName ana="Aude">Aude</placeName>
+        .
+      </p>
+      <p>
+        Il est également animateur d’ateliers de lecture et d’écriture, et des ciné-clubs de quartier. En 2000, il fonde l’Atelier du manège, un atelier de lecture et d’écriture pour la promotion des lettres et des arts de la représentation. Il préside l’Association Action pour la Lecture (APOLECT) depuis 2006, dont l’objectif est de sensibiliser, partager et donner le goût de la lecture aux jeunes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        . Depuis 2006, 
+        <persName ana="Marc_Exavier">Marc Exavier</persName>
+         dirige également une association écologique, « Ver(t) de 
+        <placeName ana="Terre">Terre</placeName>
+         ».
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.marc-exavier.32110.html" xml:id="Marc_Exavier_bio_auteur_spla">
+      <p>
+        <persName ana="Marc Exavier_K">Marc K. Exavier</persName>
+         naît le 27 novembre 1962 à Saint-
+        <persName ana="Louis_Du_Nord">Louis du Nord</persName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il arrive à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1974 pour ses études secondaires. Après son baccalauréat, il débute des études en médecine et en linguistique. Il étudie en 
+        <placeName ana="Lettres_Modernes">Lettres Modernes</placeName>
+         à l'École Normale Supérieure dont il est sorti diplomé en 1984. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Marc_Exavier_biblio">
+    <div ref="http://ile-en-ile.org/exavier/" xml:id="Marc_Exavier_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Les sept couleurs du sang, textes poétiques. Port-au-Prince: Choucoune, 1983.</item>
+      </list>
+      <list subtype="récit">
+        <item>Numéro… effacé. Port-au-Prince: Mémoire, 2001.</item>
+      </list>
+      <list subtype="poésie dans des ouvrages collectifs">
+        <item>« Le cœur inachevé » (sélection). Conjonction 180 (1988): 150-152.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Il y a tant de fous », poème de Marc Exavier dit par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Marc_Exavier_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/marc-exavier-quatre-poemes/">Quatre poèmes</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+    </list>
+  </div>
+</TEI>

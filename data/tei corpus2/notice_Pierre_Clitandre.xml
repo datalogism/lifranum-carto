@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Pierre_Clitandre" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Pierre Clitandre</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Pierre_Clitandre_fiche">
+    <person ana="Pierre_Clitandre" sex="na">
+      <persName>Pierre Clitandre</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Peintre</occupation>
+      <occupation source="spla"> Ecrivain/ne</occupation>
+      <occupation source="spla"> Journaliste</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Pierre_Clitandre_bio">
+    <text ref="http://ile-en-ile.org/clitandre/" xml:id="Pierre_Clitandre_bio_auteur_ile_en_ile">
+      <p>
+        Journaliste, peintre et romancier, 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         naît le 20 
+        <placeName ana="Mars">Mars</placeName>
+         1954 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il étudie la peinture à l’Académie de Beaux-Arts de 1974 à 1977 et poursuit ses études à la Faculté d’Ethnologie jusqu’en 1979. Journaliste culturel, il collabore dans les principaux journaux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         : Le Nouvelliste, Le Matin et Le Petit Samedi Soir. Il est également chroniqueur pour Radio 
+        <placeName ana="Haiti">Haïti</placeName>
+         Inter, et pendant deux ans il collabore à Radio Plus pour des émissions de culture et archéologie, ethnologie et urbanisme.
+      </p>
+      <p>
+        Le premier juillet 1976, son ami journaliste au Petit Samedi Soir, 
+        <persName ana="Gasner_Raymond">Gasner Raymond</persName>
+        , est assassiné. Clitandre continue pourtant à collaborer à l’hebdomadaire indépendant, dont il devient rédacteur en chef en 1979. Pour Le Petit Samedi Soir, il rédige des éditoriaux et une série de reportages sur les provinces haïtiennes. Suite aux mouvements de démocratisation, il est arrêté en novembre 1980 et 
+        <placeName ana="Passe">Passe</placeName>
+         cinq jours en prison avant de se faire expluser d’
+        <placeName ana="Haiti">Haïti</placeName>
+         le 5 décembre 1980, avec des confrères journalistes : 
+        <persName ana="Marcus_Garcia">Marcus Garcia</persName>
+        , 
+        <persName ana="Elsie_Etheart">Elsie Ethéart</persName>
+        , 
+        <persName ana="Gregoire_Eugene">Grégoire Eugène</persName>
+         et 
+        <persName ana="Jean_Dominique">Jean Dominique</persName>
+        .
+      </p>
+      <p>
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         se retrouve ainsi à 
+        <placeName ana="New_York">New York</placeName>
+        . Sa famille le rejoint. De ce premier séjour à 
+        <placeName ana="New_York">New York</placeName>
+        , il garde le souvenir positif des visites aux musées, malgré les affres de l’exil non choisi. En 1982, il apprend la disparition de son père ; fils unique, Clitandre n’aura jamais de traces de sa mort.
+      </p>
+      <p>
+        Entre 1984 et 1986, 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         et le docteur et critique littéraire 
+        <persName ana="Eddy_Arnold">Eddy Arnold</persName>
+         Jean dirigent 
+        <placeName ana="Haiti">Haïti</placeName>
+         
+        <persName ana="Demain_Hebdo">
+          <placeName ana="Demain">Demain</placeName>
+           Hebdo
+        </persName>
+        , 
+        <placeName ana="Journal">Journal</placeName>
+         antiduvaliériste très lu dans la diaspora newyorkaise. L’hebdomadaire contient des informations de première main sur la réalité répressive en 
+        <placeName ana="Haiti">Haïti</placeName>
+         tout en couvrant les actualités culturelles et incorporant des interviews avec les écrivains et artistes exilés. La publication est interrompue en 1986, remplacée par 
+        <placeName ana="Haiti">Haïti</placeName>
+         
+        <placeName ana="Demain">Demain</placeName>
+         Magazine, avec une présentation plus modernisée et au contenu plus analytique.
+      </p>
+      <p>
+        Peu après la chute des Duvalier, 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         rentre au pays, le 20 
+        <placeName ana="Mars">Mars</placeName>
+         1986. En 1999, il est appelé à diriger le 
+        <placeName ana="Journal">Journal</placeName>
+         d’État L’Union. Cette expérience de journalisme officiel ne durera que sept mois, jusqu’au coup d’état du 30 septembre 1991 qui renverse le gouvernement de Jean-
+        <persName ana="Bertrand_Aristide">Bertrand Aristide</persName>
+        . Clitandre vit en clandestinité pendant près d’une année. Il arrive à quitter le pays en 1992 et vivra de nouveau à 
+        <placeName ana="New_York">New York</placeName>
+         avec sa famille, se consacrant principalement à l’écriture et à la peinture. Il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1996.
+      </p>
+      <p>
+        Publié d’abord en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1979, le premier roman de 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+        , Cathédrale du mois d’août, est repris en 1982 à 
+        <placeName ana="Paris">Paris</placeName>
+         (et traduit en anglais en 1987). Dans Cathédrale du mois d’août, l’auteur évoque l’errance des provinces vers la capitale, l’éclatement et les métamorphoses de la ville et de l’individu.
+      </p>
+      <p>
+        L’univers de son deuxième roman Vin de Soleil – plus féminin, fermé, intériorisé – est plus sobre, intérieur. Quant au roman La 
+        <placeName ana="Maison">Maison</placeName>
+         des surprises, il s’agit d’une archéologie personnelle de l’auteur. « C’est aussi l’effort de se lessiver à grandes eaux de toutes les impuretés qui le pèsent dans la réalité, dit-il. Dans cette 
+        <placeName ana="Maison">Maison</placeName>
+        , le temps est mobile au recto comme au verso. Le virtuel et le réel cheminent ensemble ».
+      </p>
+      <p>
+        L’un des projets ambitieux qui occupe l’auteur, La Révolution Esthétique réunira ses textes publiés sur les arts en 
+        <placeName ana="Haiti">Haiti</placeName>
+         – la peinture, la sculpture, la musique et la littérature – pour trouver une articulation théorique qui présente 
+        <placeName ana="Haiti">Haiti</placeName>
+         sous l’éclairage d’un réalisme merveilleux adapté aux nouvelles découvertes sur les symboles du vodou et leur signification « scientifique ». Par les temps qui courent, dit-il, « il faut retrouver notre identité culturelle. Une telle approche sur l’imaginaire peut être une lumière sur notre parcours historique mouvementé ».
+      </p>
+      <p>
+        Ayant repris possession de la 
+        <placeName ana="Maison">Maison</placeName>
+         familiale, 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         la transforme en bibliothèque de communauté. La Bibliothèque du Soleil s’ouvre le 29 juillet 2005. 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         crée ainsi un espace public avec des rayons de livres et une galerie d’art, pour donner une nouvelle vie culturelle au quartier populaire de 
+        <placeName ana="Carrefour">Carrefour</placeName>
+        -Feuilles à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , anciennement connu pour les nombreuses résidences d’écrivains et de peintres.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.pierre-clitandre.14078.html" xml:id="Pierre_Clitandre_bio_auteur_spla">
+      <p>
+        Journaliste, peintre et romancier, 
+        <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
+         naît le 20 
+        <placeName ana="Mars">Mars</placeName>
+         1954 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il étudie la peinture à l'Académie de Beaux-Arts de 1974 à 1977 et poursuit ses études à la Faculté d'Ethnologie jusqu'en 1979. Journaliste culturel, il collabore dans les principaux journaux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         : Le Nouvelliste, Le Matin et Le Petit Samedi Soir. Il est également chroniqueur pour Radio 
+        <placeName ana="Haiti">Haïti</placeName>
+         Inter, et pendant deux ans il collabore à Radio Plus pour des émissions de culture et archéologie, ethnologie et urbanisme. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Pierre_Clitandre_biblio">
+    <div ref="http://ile-en-ile.org/clitandre/" xml:id="Pierre_Clitandre_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Cathedral of the August Heat. Bridget Jones, trad. New York: Readers International, 1987.</item>
+      </list>
+      <list subtype="romans">
+        <item>Cathédrale du mois d’août. Port-au-Prince: Fardin, 1979; Paris: Syros, 1982.</item>
+      </list>
+      <list subtype="récit">
+        <item>Le récit du disparu. Port-au-Prince: C3 Éditions, 2017.</item>
+      </list>
+      <list subtype="essais">
+        <item>Qui sont nos candidats? suivi de La Lettre aux hommes noirs de Pierre Clitandre (avec Marcus Garcia et Jean Robert Hérard). New York: Clitandre, 1986.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Gouverneurs de la rosée : extase et faille géologique ». Mon Roumain à moi. Port-au-Prince: Presses Nationales d’Haïti, 2007: 295-98.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2015     Bourse Barbancourt.</item>
+      </list>
+      <list subtype="sur l’oeuvre de pierre clitandre">
+        <item>Fowler, Carolyn. « The Haitian Peasant/Proletarian Novel Revisited: The Case of Pierre Clitandre and Cathédrale du mois d’août ». Eds. Will Wright et Steven Kaplan. The Image of Class in Literature, Media, and Society. Pueblo, Colorado: Society for the Interdisciplinary Study of Social Imagery, University of Southern Colorado, 1998: 145-50.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Pierre_Clitandre_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/pierre-clitandre-vin-de-soleil/">Vin de Soleil</item>
+      <item ref="http://ile-en-ile.org/pierre-clitandre-5-questions-pour-ile-en-ile/">Pierre Clitandre, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/clitandre-cathedrale/">Cathédrale du mois d’août</item>
+      <item ref="http://www.haitisoleil.org/">Haiti Soleil</item>
+      <item ref="https://youtu.be/atMQi5SOHbI">‘Des Livres et Vous’ avec Pierre Clitandre</item>
+      <item ref="http://ile-en-ile.org/lectures-boutures-1-3/">Deuil et extase !</item>
+      <item ref="http://web.archive.org/web/20070304043309/http://www.haitipressnetwork.com/news.cfm?articleID=4041">Pierre Clitandre et la bibliothèque du Soleil</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+    </list>
+  </div>
+</TEI>

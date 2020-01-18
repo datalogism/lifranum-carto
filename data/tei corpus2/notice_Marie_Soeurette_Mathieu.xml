@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Marie_Soeurette_Mathieu" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Marie Soeurette Mathieu</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Marie_Soeurette_Mathieu_fiche">
+    <person ana="Marie_Soeurette_Mathieu" sex="na">
+      <persName>Marie Soeurette Mathieu</persName>
+      <birth source="viaf">
+        <date>1949-08-10</date>
+      </birth>
+      <occupation source="viaf">journalistes</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Nyari_Corinne">
+          <persName>Nyari Corinne</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Marie_Soeurette_Mathieu_bio">
+    <text ref="http://ile-en-ile.org/mathieu/" xml:id="Marie_Soeurette_Mathieu_bio_auteur_ile_en_ile">
+      <p>
+        Née le 10 août 1949 à Port-au 
+        <placeName ana="Prince">Prince</placeName>
+         en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , Marie-
+        <persName ana="Soeurette_Mathieu">Soeurette Mathieu</persName>
+         quitte son pays natal pour les États-Unis en 1970, avant de s’installer au 
+        <placeName ana="Quebec">Québec</placeName>
+         où elle vit depuis 1973. Licenciée en sociologie et en éducation de l’Université du 
+        <placeName ana="Quebec">Québec</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+         (B.A 1983), elle est également certifiée comme professeure d’anglais (TESOL, l’Université Concordia, 1990).
+      </p>
+      <p>
+        Romancière et poète, elle publie son premier recueil de poèmes : Lueurs, dans sa jeune vingtaine. Dans cet ouvrage on retrouve l’essence de son état d’âme d’adolescente en quête d’évasion. Elle est connue pour ses deux romans L’amour en exil (2000) et Un pas vers la matrice (2009) et pour ses nombreux recueils de poèmes. Marie-
+        <persName ana="Soeurette_Mathieu">Soeurette Mathieu</persName>
+         est également artiste peintre. Elle peint les paysages qui lui transmettent des émotions.
+      </p>
+      <p>
+        Elle s’implique dans plusieurs conseils d’administration pour l’avancement de sa communauté. Avec le Comité lavallois des rencontres interculturelles de 
+        <placeName ana="Laval">Laval</placeName>
+         et le Centre communautaire le Combite de 
+        <placeName ana="Laval">Laval</placeName>
+         elle collabore depuis de nombreuses années à faire de l’animation culturelle et à organiser des ateliers d’écriture. En 2013, Marie-
+        <persName ana="Soeurette_Mathieu">Soeurette Mathieu</persName>
+         est candidate – sans être élue – aux élections municipales de la ville de 
+        <placeName ana="Laval">Laval</placeName>
+         avec la formation Option 
+        <placeName ana="Laval">Laval</placeName>
+        .
+      </p>
+      <p>
+        Marie-
+        <persName ana="Soeurette_Mathieu">Soeurette Mathieu</persName>
+         est membre de l’UNÉQ (Union des écrivains et écrivaines du 
+        <placeName ana="Quebec">Québec</placeName>
+        ), de la Société littéraire de 
+        <placeName ana="Laval">Laval</placeName>
+         et de RAPPEL (Regroupement des auteurs professionnels publics et émergents de 
+        <placeName ana="Laval">Laval</placeName>
+        ).
+      </p>
+      <p>
+        Elle est mère de trois enfants : 
+        <persName ana="Richard_Resilard_Mathieu">Richard Résilard Mathieu</persName>
+        , 
+        <persName ana="Sandra_Mathieu_Rosalva">Sandra Mathieu Rosalva</persName>
+         et 
+        <persName ana="David_Mathieu">David Mathieu</persName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Marie_Soeurette_Mathieu_biblio">
+    <div ref="http://ile-en-ile.org/mathieu/" xml:id="Marie_Soeurette_Mathieu_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Lueurs. Port-au-Prince: Serge Gaston, 1971.</item>
+      </list>
+      <list subtype="romans">
+        <item>Pagaille dans la ville. Montréal: Humanitas, 1995.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>Sélection de poèmes. Tolérance : hymne à la tolérance. Collectif. Montréal: Teichtner, 1996,</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Marie_Soeurette_Mathieu_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/mathieu-le-temps-et-toussaint/">Deux poèmes</item>
+      <item ref="http://www.litterature.org/recherche/ecrivains/mathieu-marie-soeurette-941/">Marie-Soeurette Mathieu</item>
+      <item ref="http://leseditionsgrenier.ca/un-pas-vers-la-matrice/">Un pas vers la matrice</item>
+    </list>
+  </div>
+</TEI>

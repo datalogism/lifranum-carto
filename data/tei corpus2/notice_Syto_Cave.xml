@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Syto_Cave_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Syto_Cave" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Syto Cav�</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Syto Cavé</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Syto_Cave_fiche_autorite">
+  <div n="1" xml:id="Syto_Cave_fiche">
     <person ana="Syto_Cave" sex="na">
-      <persName>
-        <surname source="bnf">Syto</surname>
-        <forename source="bnf">Cav�</forename>
-      </persName>
+      <persName>Syto Cavé</persName>
       <idno type="BNF">
         cb14672650w#about
         <g ref="http://data.bnf.fr/ark:/12148/cb14672650w#about"/>
@@ -38,5 +35,183 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Dramaturge</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Syto_Cave_bio">
+    <text ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         est né le 7 août 1944 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Après les études au Petit Séminaire-Collège Saint-
+        <placeName ana="Martial">Martial</placeName>
+         et au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il hésite entre des études de droit et de sciences économiques. Influencé par 
+        <persName ana="Gabriel_Imbert">Gabriel Imbert</persName>
+        , Cavé s’inscrit de préférence au Conservatoire d’Arts dramatiques à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il y reste quatre ans où il fait ses premiers pas dans les arts dramatiques. Avec Charles-
+        <persName ana="Alexandre_Abellard">Alexandre Abellard</persName>
+         et 
+        <persName ana="Francois_Latour">François Latour</persName>
+        , Cavé fonde la Société des Messagers de l’Art, un groupe qui fait des lectures de poésie et du théâtre (français et 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        ), sur scène et à la radio.
+      </p>
+      <p>
+        En 1968, 
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         s’exile aux États-Unis avec sa femme, l’écrivaine et peintre 
+        <persName ana="Yanick_Jean">Yanick Jean</persName>
+        , et s’installe à 
+        <placeName ana="New_York">New York</placeName>
+         où il reste jusqu’en 1982. Les années newyorkaises sont marquées par plusieurs activités professionnelles. Il occupe, parmi d’autres, un poste dans le programme d’éducation bilingue de la ville. Avec d’autres 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         en exil – 
+        <persName ana="Georges_Castera">Georges Castera</persName>
+        , 
+        <persName ana="Jacques_Charlier">Jacques Charlier</persName>
+        , 
+        <persName ana="Herve_Denis">Hervé Denis</persName>
+        , 
+        <persName ana="Daniel_Huttinot">Daniel Huttinot</persName>
+        , Josaphat-
+        <persName ana="Robert_Large">Robert Large</persName>
+         et Jean-
+        <persName ana="Marie_Roumer">Marie Roumer</persName>
+         – il fonde la troupe de théâtre 
+        <placeName ana="Kouidor">Kouidor</placeName>
+        . Pendant une dizaine d’années, cette troupe expérimentale et politisée fera des mises en scène dans diverses universités et salles (e.g., Columbia University, 
+        <placeName ana="Brooklyn">Brooklyn</placeName>
+         Academy of Music), jouant un répertoire allant de Brecht à 
+        <persName ana="Kateb_Yacine">Kateb Yacine</persName>
+        , d’Ionesco à Césaire. 
+        <placeName ana="Kouidor">Kouidor</placeName>
+         est présente à de nombreux festivals, en 
+        <placeName ana="Martinique">Martinique</placeName>
+        , 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        , 
+        <placeName ana="France">France</placeName>
+        , au 
+        <placeName ana="Canada">Canada</placeName>
+         et au Festival Latino-américain – participant avec, parmi d’autres, le Living Theatre, 
+        <persName ana="Augusto_Boal">Augusto Boal</persName>
+         et 
+        <persName ana="Gato_Barbieri">Gato Barbieri</persName>
+        . La troupe explore de nouvelles formes de théâtre.
+      </p>
+      <p>
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         est de retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1982, rejoignant sa deuxième épouse, 
+        <persName ana="Regine_Charlier">Régine Charlier</persName>
+        . Avec 
+        <persName ana="Cayotte_Bissainthe">Cayotte Bissainthe</persName>
+        , 
+        <persName ana="Herve_Denis">Hervé Denis</persName>
+        , 
+        <persName ana="Lyonel_Trouillot">Lyonel Trouillot</persName>
+         et Pierre-
+        <persName ana="Richard_Narcisse">Richard Narcisse</persName>
+        , Cavé fonde l’Atelier des Arts et Spectacles (ADASA) à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en 1983. En 1989, il fonde la compagnie théâtrale 
+        <placeName ana="Vigie">Vigie</placeName>
+        , avec 
+        <persName ana="Toto_Bissainthe">Toto Bissainthe</persName>
+        .
+      </p>
+      <p>
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         a en son nom plus d’une douzaine de pièces pour la scène, en créole et en français. Elles continuent à être jouées en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , aux États-Unis, en 
+        <placeName ana="France">France</placeName>
+        , en 
+        <placeName ana="Martinique">Martinique</placeName>
+         et en 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        . En plus d’écrire et de mettre en scène ses propres pièces, il réalise des mises en scènes des œuvres d’autres auteurs, tels que 
+        <persName ana="Simone_Schwarz">Simone Schwarz</persName>
+        -Bart (Ton beau capitaine, 1985-86), Ina Césaire (
+        <placeName ana="Rosanie">Rosanie</placeName>
+        -Soleil, 1987-88) et 
+        <persName ana="Claude_Innocent">Claude Innocent</persName>
+         (Ce fou d’empereur, 2000). Il vit à 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville, où il continue à se consacrer au théâtre et à l’écriture.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.syto-cave.14124.html" xml:id="Syto_Cave_bio_auteur_spla">
+      <p>
+        <persName ana="Syto_Cave">Syto Cavé</persName>
+         est né le 7 août 1944 à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Après les études au Petit Séminaire-Collège Saint-
+        <placeName ana="Martial">Martial</placeName>
+         et au lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il hésite entre des études de droit et de sciences économiques. Influencé par 
+        <persName ana="Gabriel_Imbert">Gabriel Imbert</persName>
+        , Cavé s'inscrit de préférence au Conservatoire d'Arts dramatiques à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il y reste quatre ans où il fait ses premiers pas dans les arts dramatiques. Avec Charles-
+        <persName ana="Alexandre_Abellard">Alexandre Abellard</persName>
+         et 
+        <persName ana="Francois_Latour">François Latour</persName>
+        , Cavé fonde la Société des Messagers de l'Art, un groupe qui fait des lectures de poésie et du théâtre (français et 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        ), sur scène et à la radio. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Syto_Cave_biblio">
+    <div ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_biblio_auteur_ile_en_ile">
+      <list subtype="nouvelles">
+        <item>Le singe du dormeur, récits. Port-au-Prince / Montréal: Editions Regain / Éditions du CIDIHCA, 1999.</item>
+      </list>
+      <list subtype="théâtre en français">
+        <item>Mémoires d’un balai, 1971. Mise en scène par Hervé Denis.</item>
+      </list>
+      <list subtype="théâtre en créole">
+        <item>Kavalye polka, 1984.</item>
+      </list>
+      <list subtype="poésie">
+        <item>« Laisser-Passer » / «Lesepase»; « Point final » / « Pwen final ». Conjonction 195 (juillet-août-septembre 1992): 42-43; 62-63.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Lapèsòn de Syto Cavé: poèmes, chansons et récits créoles composés et interprétés par l’auteur. Montréal: Les Productions Batofou, 1994; disque audio, PB101.</item>
+      </list>
+      <list subtype="articles et contributions diverses">
+        <item>Cavé, Syto avec Sandy Noble Yates et Anthony Phelps. (photos de Carl Hiebert). Paroles et Lumières. Where Light Speaks. Port-au-Prince / Mississauga (Ontario) / Colombus, OH: International Child Care, 1999.</item>
+      </list>
+      <list subtype="textes de syto cavé mis en musique">
+        <item>« Chak jès », sur le disque Ki sa nou ye ? de Réginald Policard. Nouvel Jenerasyon, 2000.</item>
+      </list>
+      <list subtype="sur l’oeuvre de syto cavé">
+        <item>Bellefleur, Pierre Maxwell. « La nouvelle haïtienne – témoin d’une époque ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 259-269.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Syto_Cave_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/syto-cave-chien-familier/">Chien familier</item>
+      <item ref="http://ile-en-ile.org/syto-cave-madame-leon-et-tel-quau-miroir/">Madame Léon</item>
+      <item ref="https://youtu.be/LSrY6JvOVe0">‘Des Livres et Vous’ avec Syto Cavé</item>
+      <item ref="https://www.fokal.org/index.php/archives/374-theatre-representation-de-kavalye-polka-a-fokal">Livres en folie 2015: représentations de Kavalye Polka à FOKAL</item>
+      <item ref="http://www.madinin-art.net/syto-cave-notre-ami-est-en-martinique/">Syto Cavé, notre ami, est en Martinique</item>
+      <item ref="http://www.madinin-art.net/voisins-complices-une-performance-originale-en-gestation-permanente/">« Voisins complices » : Une performance originale en gestation permanente</item>
+      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+    </list>
   </div>
 </TEI>

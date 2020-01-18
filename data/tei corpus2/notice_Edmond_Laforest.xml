@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Edmond_Laforest_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Edmond_Laforest" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Edmond Laforest</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Edmond_Laforest_fiche_autorite">
+  <div n="1" xml:id="Edmond_Laforest_fiche">
     <person ana="Edmond_Laforest" sex="na">
       <persName>Edmond Laforest</persName>
       <langKnowledge>
@@ -29,7 +29,124 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Edmond_Laforest_bio">
+    <text hand="Max Dominique" ref="http://ile-en-ile.org/laforest_edmond/" xml:id="Edmond_Laforest_bio_auteur_ile_en_ile">
+      <p>
+        Né à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         le 20 juin 1876, 
+        <persName ana="Edmond_Laforest">Edmond Laforest</persName>
+        , « Rêveur qu’effaroucha la cavale du rêve », conteur, critique, 
+        <placeName ana="Directeur">Directeur</placeName>
+         de journaux (
+        <placeName ana="Haiti">Haïti</placeName>
+         littéraire et scientifique, La Patrie), se tue dans sa piscine, le 17 octobre 1915, en s’attachant au cou un dictionnaire français ! Il joignait le geste symbolique à la parole, après sa vibrante protestation dans La Patrie contre l’occupation étrangère. Il en dénonçait aussi bien les causes intérieures, la crise généralisée du pays, la débâcle de l’ancienne 
+        <placeName ana="Haiti">Haïti</placeName>
+        . À ce titre, le roman de 
+        <persName ana="Jean_Brierre">Jean Brierre</persName>
+        , Province, fait de l’écrivain une figure emblématique, quoique fugitive, et 
+        <persName ana="Normil Sylvain_G">Normil G. Sylvain</persName>
+         écrit simplement : « Il est mort de la lente agonie de son pays » (La Revue Indigène, 1927).
+      </p>
+      <p>
+        Oeuvre désabusée
+Comme celui de Nerval, ce suicide marque l’accomplissement non point tant d’une vie consacrée surtout à l’enseignement et à l’écriture (avec une brève incursion dans l’administration de 
+        <persName ana="Cincinnatus_Leconte">Cincinnatus Leconte</persName>
+         comme chef de division au département de l’Intérieur), que de l’œuvre poétique elle-même : Poèmes mélancoliques, L’Évolution, Sonnets-Médaillons du XIXe siècle, Cendres et flammes. À sa manière, cette œuvre, comme celles d’autres poètes de sa génération, qui porte le nom de la revue autour de laquelle ils se regroupent, La Ronde, s’insurge contre la sombre réalité de son époque, que peignent avec une cruelle et féroce ironie les romanciers Hibbert, Marcelin et Lhérisson. Après la fin tragique de l’aventure libérale et l’échec du firminisme, l’heure du désenchantement, du détachement désabusé, du spleen et du désespoir instaure le temps du refus, et de la quête d’un salut par la littérature – nouvel absolu. Était-il permis de rêver, là où s’écroulaient les anciens espoirs et les nouvelles certitudes, une gloire littéraire nationale, qui prouverait au monde « la péréquation des facultés esthétiques du nègre et du blanc » ? En même temps, comme le montre le dictionnaire Larousse au cou, l’œuvre révèle ses frontières et sa limite, celles précisément de l’idéologie libérale qui réclamait « le pouvoir aux plus capables » – idéologie élitiste, dépendante, nationaliste et religieuse. Il suffirait, pour s’en convaincre, de relire le poème « À la médiocrité égalitaire », ou les onze sonnets consacrés à un Christ de gloire, bien loin en vérité du Jésus historique des Évangiles.
+      </p>
+      <p>Ombre et lumière
+Aussi bien l’œuvre poétique offre-t-elle une méditation sur le génie, sur « les grandes âmes », ce qui ne va pas sans rappeler le splendide poème final des Illuminations de Rimbaud, « Génie ». Dans les Sonnets-Médaillons comme dans les différents « profils » qu’il trace ailleurs, à travers la galerie des écrivains, musiciens, savants, penseurs, artistes et hommes d’État qu’il parcourt, Laforest exalte l’essor vers la lumière, la radieuse participation à l’efflorescence lumineuse, le déploiement chatoyant de couleurs irisées qui se marient dans une « symphonie des rêves ». Avec quelle joie le poète danse-t-il ce ballet de la lumière et de l’ombre, car celle-ci joue aussi de ses sombres feux, de ses silhouettes errantes et vaporeuses, au coeur du paysage de lumière ; la fascination qu’exerce sur lui « la belle mort » ne le lancerait-elle pas en « pleine lumière » ? Assurément, le poème laforestien glisse vers les cendres plutôt qu’il ne s’élève dans les flammes, la lumière se diffracte en pluie de cendres, Thanatos l’emporte sur Éros. Ou encore, impuissant à « s’enfermer dans une tour d’ivoire hérissée d’hiéroglyphes à la manière des symbolistes farouches, princes des ténèbres », son poème se réfugie parfois dans la mièvrerie ou le maniérisme, refuse « la cavale du rêve » ; il aura préféré se livrer à la mort.</p>
+      <p>
+        Écriture poétique
+On situe souvent l’écriture poétique d’
+        <persName ana="Edmond_Laforest">Edmond Laforest</persName>
+         au confluent d’influences parnasiennes et symbolistes. Cependant, plus que Hérédia, c’est bien le souffle profond de Novalis, Baudelaire et Poe qui irrigue I’œuvre. Et s’il demeure un maître du sonnet pour les Poèmes quisqueyens d’un Burr-Reynaud par exemple, l’admiration que lui voue la génération de la Revue Indigène (un 
+        <persName ana="Normil Sylvain_G">Normil G. Sylvain</persName>
+        , un 
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+         surtout dans divers entretiens), souligne davantage sa modernité. Le lecteur appréciera sans doute la musicalité poignante, très personnelle, dans cet extrait d’un poème intitulé « Musique du silence » :
+      </p>
+      <p>J’ai soufflé de mon faible souffle
+La lampe d’or.
+Mon âme dort
+Et sur mon amour la mort souffle.
+………………………..
+J’avais l’amour de la lumière
+Et la lumière de l’amour
+Dans la chaumière
+De mon corps, la bûche d’humour
+Et d’amour est pleine de cendres.</p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.edmond-laforest.32112.html" xml:id="Edmond_Laforest_bio_auteur_spla">
+      <p>
+        Né à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         le 20 juin 1876, 
+        <persName ana="Edmond_Laforest">Edmond Laforest</persName>
+        , &quot;Rêveur qu'effaroucha la cavale du rêve&quot;, conteur, critique, 
+        <placeName ana="Directeur">Directeur</placeName>
+         de journaux (
+        <placeName ana="Haiti">Haïti</placeName>
+         littéraire et scientifique, La Patrie), se tue dans sa piscine, le 17 octobre 1915, en s'attachant au cou un dictionnaire français ! Il joignait le geste symbolique à la parole, après sa vibrante protestation dans La Patrie contre l'occupation étrangère. Il en dénonçait aussi bien les causes intérieures, la crise généralisée du pays, la débâcle de l'ancienne 
+        <placeName ana="Haiti">Haïti</placeName>
+        . À ce titre, le roman de 
+        <persName ana="Jean_Brierre">Jean Brierre</persName>
+        , Province, fait de l'écrivain une figure emblématique, quoique fugitive, et 
+        <persName ana="Normil Sylvain_G">Normil G. Sylvain</persName>
+         écrit simplement : &quot;Il est mort de la lente agonie de son pays&quot; (La Revue Indigène, 1927). voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Edmond_Laforest_biblio">
+    <div ref="http://ile-en-ile.org/laforest_edmond/" xml:id="Edmond_Laforest_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>L’Évolution. Port-au-Prince: Imprimerie Mme F. Smith, 1901, 29p.</item>
+      </list>
+      <list subtype="essais et conférences">
+        <item>L’Oeuvre poétique d’Etzer Vilaire. Conférence prononcée le 30 janvier 1907, à la soirée donnée au profit des élèves du Lycée Nord Alexis de Jérémie; suivie des discours de MM. Auguste Garoute et Etzer Vilaire, et d’une poesie de M.J.B. Jn. Vilaire. Jérémie: Imprimerie Du Centenaire, 1907, 40p.</item>
+      </list>
+      <list subtype="dans les revues">
+        <item>En plus des revues dont il était directeur, comme Haïti littéraire et scientifique (1912), Edmond Laforest a collaboré à des publications telles La Ronde, La Petite Revue et Haïti littéraire et sociale.</item>
+      </list>
+      <list subtype="inédits">
+        <item>Documents à la Bibliothèque Haïtienne des Pères du Saint-Esprit (Port-au-Prince):
+
+Edda, simple histoire (repris dans Cendres et flammes).
+Correspondance multiple, dont:
+
+Correspondance avec Clément Magloire, directeur du Nouvelliste.
+Correspondance avec Jean Ribier.
+
+
+Dédicaces.
+Journal, 1898-1901.
+Nouvelles (huit, dont certaines déjà publiées dans des revues): « Le Bienfaiteur », « La lettre et le bout de papier », « Où l’amour va se nicher », « Larmes pures », « Tendresse tardive », « Un droit de la femme », « Abîmé » et « En tout cherchez la femme ».
+La Rage de rimer (comédie).
+Romans (canevas):
+
+Chère adoptée (1894).
+L’engrenage.
+ Les deux fables.
+
+
+Souvenirs de mes relations littéraires, réflexions et pensées.
+Le Vent, comédie en un acte, en vers. Jérémie, mars 1908.
+Deux études sur les premiers recueils de Laforest.
+
+</item>
+      </list>
+      <list subtype="sur edmond laforest *">
+        <item>J.S. « Deuil : Edmond Forest ». Le Nouvelliste (18 octobre 1915).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Edmond_Laforest_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/edmond-laforest-par-charles-moravia-1915/">Edmond Laforest</item>
+      <item ref="http://poesie.webnet.fr/poemes/Haiti/laforest/1.html">Baiser du jour </item>
+    </list>
   </div>
 </TEI>

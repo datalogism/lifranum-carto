@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Paul_Laraque_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Paul_Laraque" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Paul Laraque</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Paul_Laraque_fiche_autorite">
+  <div n="1" xml:id="Paul_Laraque_fiche">
     <person ana="Paul_Laraque" sex="na">
-      <persName>
-        <surname source="bnf">Paul</surname>
-        <forename source="bnf">Laraque</forename>
-      </persName>
+      <persName>Paul Laraque</persName>
       <idno type="BNF">
         cb119110845#about
         <g ref="http://data.bnf.fr/ark:/12148/cb119110845#about"/>
@@ -59,7 +56,221 @@
         </placeName>
       </residence>
       <occupation source="viaf">poetes</occupation>
-      <occupation source="spla">Po�te</occupation>
+      <occupation source="spla">Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Laraque_Franck">
+          <persName>Laraque Franck</persName>
+        </person>
+        <person ana="Hirschman_Jack">
+          <persName>Hirschman Jack</persName>
+        </person>
+        <person ana="Morejon_Nancy">
+          <persName>Morejón Nancy</persName>
+        </person>
+        <person ana="Delince_Kern">
+          <persName>Delince Kern</persName>
+        </person>
+        <person ana="Manno_Rosemary">
+          <persName>Manno Rosemary</persName>
+        </person>
+        <person ana="Sauer_Ronald">
+          <persName>Sauer Ronald</persName>
+        </person>
+        <person ana="Sarriere_Beltran">
+          <persName>Sarriere Beltran</persName>
+        </person>
+        <person ana="Roumain_Jacques">
+          <persName>Roumain Jacques</persName>
+        </person>
+        <person ana="Boadiba">
+          <persName>Boadiba</persName>
+        </person>
+        <person ana="Laraque Guy_F">
+          <persName>Laraque Guy F</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Paul_Laraque_bio">
+    <text ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         (
+        <persName ana="Pol_Larak">Pòl Larak</persName>
+        ) est né à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 21 septembre 1920. Après des études à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         et à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il entre à l’Académie Militaire en 1939 ; il en sort officier de l’armée en 1941. 
+        <placeName ana="Laraque">Laraque</placeName>
+         fait partie de ceux qui accueillent 
+        <persName ana="Andre_Breton">André Breton</persName>
+         à l’aéroport en décembre 1945. En 1951, il se marie avec 
+        <persName ana="Marcelle_Pierre">Marcelle Pierre</persName>
+        -Louis. Pendant sa carrière militaire, il parcourt tout le pays où il connaîtra les conditions intolérables de la vie des paysans pauvres. Avec Morisseau-Leroy, 
+        <persName ana="Emile_Roumer">Émile Roumer</persName>
+        , 
+        <persName ana="Franck_Fouche">Franck Fouché</persName>
+         et 
+        <persName ana="Claude_Innocent">Claude Innocent</persName>
+        , 
+        <placeName ana="Laraque">Laraque</placeName>
+         est de la première génération des écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         d’expression créole. Poète dans l’armée, il nourrit l’ambition d’en être la conscience. En 1960, il garde la neutralité dans les événements politiques du 25 mai, mais sera mis à la « retraite » en novembre pendant la grève des étudiants et après l’arrestation de l’oncle de sa femme. 
+        <placeName ana="Laraque">Laraque</placeName>
+         s’exile en 1961, vers 
+        <placeName ana="New_York">New York</placeName>
+        , 
+        <placeName ana="L’Espagne">l’Espagne</placeName>
+         puis de nouveau à 
+        <placeName ana="New_York">New York</placeName>
+         où vit déjà son frère Franck et la famille de celui-ci. L’épouse de 
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         l’y rejoint en 1961, et leurs trois enfants en 1962. 
+        <placeName ana="Laraque">Laraque</placeName>
+         obtient une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en langues romanes (Fordham University) et devient professeur de français. Parallèlement, il lutte dans le cadre d’organisations progressistes, perdant sa nationalité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         en 1964.
+      </p>
+      <p>
+        Son double recueil de poésie, Les armes quotidiennes / Poésie quotidienne, obtient le prix Casa de las Américas en 1979, ce qui fait de 
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         le premier lauréat de langue française de ce prix. 
+        <placeName ana="Laraque">Laraque</placeName>
+         est également co-fondateur de l’Association des Écrivains 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à l’Étranger, association qui organise, à titre d’exemples, le Festival Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         en 1982 et la commémoration du centenaire de 
+        <persName ana="Charlemagne_Peralte">Charlemagne Péralte</persName>
+         en 1985. Ses activités l’amènent à rencontrer – à 
+        <placeName ana="La_Havane">La Havane</placeName>
+        , à 
+        <placeName ana="New_York">New York</placeName>
+         et à 
+        <placeName ana="Washington">Washington</placeName>
+        , D.C. – d’autres figures littéraires et politiques, tels 
+        <persName ana="Fidel_Castro">Fidel Castro</persName>
+        , 
+        <persName ana="Nicolas_Guillen">Nicolas Guillén</persName>
+        , 
+        <persName ana="Langston_Hughes">Langston Hughes</persName>
+        , 
+        <persName ana="Ramsey_Clark">Ramsey Clark</persName>
+         et C.L.R. James.
+      </p>
+      <p>
+        Après vingt-cinq ans d’exil, 
+        <placeName ana="Laraque">Laraque</placeName>
+         retourne au pays après la chute de la dynastie duvaliériste en 1986 ; sa nationalité lui est alors restituée. Lorsque son épouse prend la retraite de sa carrière aux Nations Unies en 1989, la famille s’établit dans la proximité de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il prépare ensuite deux numéros de la revue Rencontre, consacrés à Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         (1992) et à 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         (1993). En 1991, après le renversement du président Aristide et l’assassinat de son « frère de soleil », 
+        <persName ana="Guy Laraque_F">
+          Guy F. 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+        , 
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         est soumis à un second exil. Il s’installe à 
+        <placeName ana="New_York">New York</placeName>
+         où il meurt le 8 
+        <placeName ana="Mars">Mars</placeName>
+         2007. Une série d’hommages lui est offerte sur le site Île en île.
+      </p>
+      <p>
+        Selon ses dires, son œuvre « exhorte les peuples à se libérer et vise, par dessus tout, à apporter une nouvelle contribution 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , en français et en créole, à la poésie universelle ».
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.paul-laraque.14131.html" xml:id="Paul_Laraque_bio_auteur_spla">
+      <p>
+        <persName ana="Paul_Laraque">
+          Paul 
+          <placeName ana="Laraque">Laraque</placeName>
+        </persName>
+         (
+        <persName ana="Pol_Larak">Pòl Larak</persName>
+        ) est né à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 21 septembre 1920. Après des études à 
+        <placeName ana="Jeremie">Jérémie</placeName>
+         et à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il entre à l'Académie Militaire en 1939 ; il en sort officier de l'armée en 1941. 
+        <placeName ana="Laraque">Laraque</placeName>
+         fait partie de ceux qui accueillent 
+        <persName ana="Andre_Breton">André Breton</persName>
+         à l'aéroport en décembre 1945. En 1951, il se marie avec 
+        <persName ana="Marcelle_Pierre">Marcelle Pierre</persName>
+        -Louis. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Paul_Laraque_biblio">
+    <div ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Camourade, Selected Poems. Trad. Rosemary Manno. Willimantic, Connecticut: Curbstone Press, 1988.</item>
+      </list>
+      <list subtype="en español">
+        <item> Poesía cotidiana / Las armas cotidianas. Trad. Nancy Morejón. La Habana: Casa de las Américas, 1981.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>La sabbia dell’esilio / Le sable de l’exil (choix de poèmes du Vieux nègre et l’exil). Trad. Giancarlo Cavallo. Salerno: Multimedia Edizioni, 1994.</item>
+      </list>
+      <list subtype="poésie en français">
+        <item>Ce qui demeure. (avec une lettre-postface d’André Breton, illustrations de Davertige). Montréal: Nouvelle Optique, 1973.</item>
+      </list>
+      <list subtype="poésie en créole">
+        <item>Fistibal. Montréal: Nouvelle Optique, 1974.</item>
+      </list>
+      <list subtype="contributions diverses">
+        <item>« Carnaval haïtien », « les réserves » et « Chassé-croisé ». LittéRéalité 10.1 (Printemps/Été 1998): 157-158.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« Sous la tonnelle de la peur », extraits du poème de Paul Laraque dits par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="distinction littéraire">
+        <item>1979     Prix Casa de las Américas pour Les armes quotidiennes / Poésie quotidienne.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Paul_Laraque_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/paul-laraque-extraits-de-poesies-lus-par-lauteur/">Lecture de poésie</item>
+      <item ref="http://ile-en-ile.org/paul-laraque-les-deux-rives/">Les deux rives</item>
+      <item ref="http://ile-en-ile.org/paul-laraque-1920-2007-hommages-a-paul-laraque/">Paul Laraque (1920-2007)</item>
+      <item ref="http://www.curbstone.org/authdetail.cfm?AuthID=118">Paul Laraque</item>
+      <item ref="http://www.potomitan.info/ayiti/laraque.php">Paul Laraque</item>
+      <item ref="http://www.tanbou.com/1994/Spring/Larak.htm">Paul Laraque: Powèt e militan pye nan dlo</item>
+      <item ref="http://www.tanbou.com/2007/Spring/index.htm">Pour célébrer la mémoire de Paul Laraque</item>
+      <item ref="http://www.caribenet.info/oltre_05_laraque_tanbou_libete.asp">« Tanbou libète » et « La saison des comptes »</item>
+      <item ref="http://www.tanbou.com/1199Larak.htm">Yon powèt nan Nouyòk</item>
+    </list>
   </div>
 </TEI>

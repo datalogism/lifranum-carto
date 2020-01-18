@@ -1,25 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Marie_Vieux_Chauvet_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Marie_Vieux_Chauvet" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Marie Vieux Chauvet</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Marie_Vieux_Chauvet_fiche_autorite">
+  <div n="1" xml:id="Marie_Vieux_Chauvet_fiche">
     <person ana="Marie_Vieux_Chauvet" sex="na">
       <persName>Marie Vieux Chauvet</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Marie_Vieux_Chauvet_bio">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/chauvet/" xml:id="Marie_Vieux_Chauvet_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Marie_Vieux_Chauvet">Marie Vieux Chauvet</persName>
+         est née à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ) le 16 septembre 1916, fille de 
+        <persName ana="Constant_Vieux">Constant Vieux</persName>
+        , homme politique (sénateur et ambassadeur), et de sa femme 
+        <persName ana="Delia_Nones">Delia Nones</persName>
+        , juive originaire de l’île de Saint-Thomas (
+        <placeName ana="Iles_Vierges">Îles Vierges</placeName>
+        ). 
+        <persName ana="Marie_Vieux">Marie Vieux</persName>
+         fait ses études à l’Annexe de l’École Normale d’Institutrices. Elle obtient son brevet élémentaire en 1933. Elle épouse le médecin 
+        <persName ana="Aymon_Charlier">Aymon Charlier</persName>
+        , puis à la suite de son divorce, se marie avec l’agent de voyages, 
+        <persName ana="Pierre_Chauvet">Pierre Chauvet</persName>
+        .
+      </p>
+      <p>
+        Nourrie des grands principes égalitaires qui ont marqué des auteurs tels 
+        <persName ana="Brun_Ricot">Brun Ricot</persName>
+        , 
+        <persName ana="Seymour_Pradel">Seymour Pradel</persName>
+         et Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         s’insurge, comme Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+        , contre les abus de tous genres dont sont victimes les femmes, les malheureux, les déshérités et tous les faibles. Déjà, dans sa première œuvre, La Légende des fleurs (publiée sous le pseudonyme de Colibri), 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         explore à travers un conte allégorique le rêve de fraternité et de solidarité qui motive son écriture. Elle publie plusieurs romans, tous dominés par la question de l’égalité et de la justice.
+      </p>
+      <p>
+        Tout au long de sa vie, 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         a mené une lutte ouverte contre la misère dans laquelle vit un grand nombre de ses compatriotes. Le vaudou, l’esclavage, le colonialisme (externe et interne) et l’érotisme font d’ailleurs partie de ses thèmes privilégiés. Empreinte d’un idéalisme certain, son œuvre est toutefois marquée par un existentialisme qui, déployé dans des structures textuelles de plus en plus complexes, lui donne une voix politique puissante. Fille d’
+        <placeName ana="Haiti">Haïti</placeName>
+         évoquait en arrière-plan un mouvement révolutionnaire pouvant préfigurer ce qui allait se passer après l’avènement au pouvoir de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        . La Danse sur le volcan (1957) est l’un des rares romans 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         sur la période révolutionnaire, roman dans lequel on retrouve les figures historiques telles que 
+        <persName ana="Vincent_Oge">Vincent Ogé</persName>
+        . Dans Fonds des Nègres, roman paru en 1960, 
+        <persName ana="Marie_Vieux_Chauvet">Marie Vieux Chauvet</persName>
+         démontre les corruptions de la classe paysanne par le pouvoir. Amour, colère et folie va plus loin dans sa critique très poussée des milieux bourgeois 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        .
+      </p>
+      <p>
+        Au début des années 1960, 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         fait figure de proue au sein d’
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire. Seule femme dans le groupe d’écrivains – en compagnie d’auteurs tels que Davertige, 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+        , 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+        , 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+         et 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         – elle ouvre sa 
+        <placeName ana="Maison">Maison</placeName>
+         de Bourdon au groupe le dimanche pour des réunions sociales et littéraires très animées.
+      </p>
+      <p>
+        Avec le durcissement du régime de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         se retire chez elle pour écrire ; en six mois, elle rédige une première version d’Amour, colère et folie. Quand elle le termine, elle envoie le manuscrit à 
+        <persName ana="Simone_De_Beauvoir">Simone de Beauvoir</persName>
+         qui, en reconnaissant la valeur, soutient sa publication aux Éditions Gallimard en 1968. Jugeant le risque que peuvent encourir les proches de 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+        , sa famille intervient auprès des éditions Gallimard pour en racheter tout le stock et en interdire la vente. Pendant plus d’une génération, le triptyque ne circulera qu’en quelques rares copies qui se vendent très cher ; il sortira même dans une édition clandestine et non autorisée en 2003.
+      </p>
+      <p>
+        Suite au retrait d’Amour, colère et folie des librairies, 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         décide de s’exiler à 
+        <placeName ana="New_York">New York</placeName>
+         et de se divorcer. En troisièmes noces, elle épouse à 
+        <placeName ana="New_York">New York</placeName>
+         un américain, 
+        <persName ana="Ted_Proudfoot">Ted Proudfoot</persName>
+        . Son dernier livre, Les Rapaces – écrit entre 1971, date de la mort de 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+        , et 1973, date de la mort de 
+        <persName ana="Marie_Vieux_Chauvet">Marie Vieux Chauvet</persName>
+         – est une fable magnifique sur le rôle de l’écrivain, engagé jusqu’au sacrifice de sa vie, ainsi qu’un commentaire sobre mais décapant sur les classes sociales haïtiennes, et sur les relations de dépendances entre le pouvoir haïtien et les puissances étrangères. Le livre est édité à titre posthume en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1986 sous le nom de 
+        <persName ana="Marie_Vieux">Marie Vieux</persName>
+        , aux éditions 
+        <persName ana="Henri_Deschamps">
+          Henri 
+          <placeName ana="Deschamps">Deschamps</placeName>
+        </persName>
+        , après le départ de Jean-
+        <persName ana="Claude_Duvalier">Claude Duvalier</persName>
+        . 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         meurt à 
+        <placeName ana="New_York">New York</placeName>
+         le 19 juin 1973.
+      </p>
+      <p>
+        À partir de 2004, les Éditions Maisonneuve &amp; Larose / 
+        <persName ana="Emina_Soleil">Emina Soleil</persName>
+         (par la suite, Zellige) rééditent l’œuvre de 
+        <persName ana="Marie_Chauvet">Marie Chauvet</persName>
+         sous le nom 
+        <persName ana="Marie_Vieux">Marie Vieux</persName>
+        -Chauvet. Ainsi paraîtra la nouvelle édition de son deuxième roman, La Danse sur le volcan en 2004 et, trente-sept ans après sa première publication, Amour, colère et folie en 2005. Fille d’
+        <placeName ana="Haiti">Haïti</placeName>
+         sortira chez Zellige en 2014 et Fonds des Nègres en 2015. Les Éditions 
+        <placeName ana="Zulma">Zulma</placeName>
+         publient la première édition de la trilogie en format de poche en 2015.
+      </p>
+      <p>
+        De nombreuses activités sont organisées pour célébrer le centenaire de la naissance de l’auteure en 2016, dont à 
+        <placeName ana="New_York">New York</placeName>
+        , 
+        <placeName ana="Montreal">Montréal</placeName>
+         et à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         lors de la Quinzaine du Livre et Livres en Folie (mai 2016), où 
+        <persName ana="Marie_Vieux">Marie Vieux</persName>
+        -Chauvet est l’invitée d’honneur. Pour l’occasion, quatre de ses romans sont publiés dans de nouvelles éditions (en plus de la trilogie, disponible dans l’édition 
+        <placeName ana="Zulma">Zulma</placeName>
+        ), donnant accès à son oeuvre, pour la première fois, à un grand public haïtien.
+      </p>
+      <p>
+        Références: Elles écrivent des 
+        <placeName ana="Antilles">Antilles</placeName>
+        , sous la direction de 
+        <persName ana="Suzanne_Rinne">Suzanne Rinne</persName>
+         et 
+        <persName ana="Joelle_Vitiello">Joëlle Vitiello</persName>
+         (
+        <placeName ana="Paris">Paris</placeName>
+        : l’
+        <placeName ana="Harmattan">Harmattan</placeName>
+        , 1997: 37-38) et le chapitre « Fictions of 
+        <placeName ana="Haiti">Haiti</placeName>
+         » par 
+        <persName ana="Joan_Dayan">Joan Dayan</persName>
+         (référence ci-dessous).
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Marie_Vieux_Chauvet_biblio">
+    <div ref="http://ile-en-ile.org/chauvet/" xml:id="Marie_Vieux_Chauvet_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrages collectifs">
+        <item> Revisiting Marie Vieux-Chauvet: Paradoxes of the Postcolonial Feminine. Special volume of Yale French Studies 128 (2016). Alessandra Benedicty and Kaiama L. Glover, eds. Essays by: Andrew Asibong, Alessandra Benedicty, Colin Dayan, Kaiama L. Glover, Régine Joseph, Martin Munro, Lizabeth Paravisini-Gebert, Thomas C. Spear, and Omise’eke Natasha Tinsley.</item>
+      </list>
+      <list subtype="livres, articles, essais">
+        <item>Araujo, Nara. « The Contribution of women’s writing to the literature and intellectual achievements of the Caribbean: Moi, Tituba Sorciere and Amour, Colere et Folie ». Journal of Black Studies 25.2 (December 1994): 217-230.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Liebe – Wut – Wahnsinn. Trad.Claudia Steinitz. Berlin: Claassen, 2006; Berlin: List, 2007.</item>
+      </list>
+      <list subtype="in english">
+        <item>Dance on the Volcano. Trans. Salvator Attanasio. New York: W. Sloan Associates, 1959.</item>
+      </list>
+      <list subtype="en español">
+        <item>« Ira, una traducción de Colère, by Marie Vieux Chauvet ». Thèse de traduction de Jacqueline Féquière Décatrel, Universidad de Puerto Rico, Ríos Piedras, 1999.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>Amore rabbia follia. Trad. Marina Rotondo. Milano: Bompiani, 2007.</item>
+      </list>
+      <list subtype="romans">
+        <item>Fille d’Haïti. Paris: Fasquelle, 1954; Paris: Zellige, 2014; Port-au-Prince: L’Imprimeur, 2016 (avec une préface de Jean-Euphèle Milcé).</item>
+      </list>
+      <list subtype="théâtre">
+        <item>La Légende des fleurs. Port-au-Prince: Henri Deschamps, 1947; Port-au-Prince: Éditions Marie Vieux, 2009.</item>
+      </list>
+      <list subtype="nouvelle">
+        <item>« Ti-Moune nan bois ». Optique 7 (septembre 1954): 57-60.</item>
+      </list>
+      <list subtype="distinctions littéraires">
+        <item>1954     Prix de l’Alliance Française, pour Fille d’Haïti.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Marie_Vieux_Chauvet_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://ile-en-ile.org/chauvet_gallimard/">Marie Chauvet – lettre à Gaston Gallimard</item>
+      <item ref="http://ile-en-ile.org/marie-vieux-chauvet-temoignages/">Marie Vieux Chauvet, témoignages (The Person and the Writer</item>
+      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+      <item ref="http://homepage.mac.com/chemla/fic_doc/chauvet01.html">Féminin, masculin et registre animalier dans Colère, de Marie Chauvet</item>
+      <item ref="http://www.uneq.qc.ca/activites-litteraires/commemoration-haiti/marie-chauvet-1916-1973/">Marie Chauvet, 1916-1973</item>
+      <item ref="http://www.culturesfrance.com/librairie/derniers/pdf/nl150_3.pdf">Naturelles correspondances entre l’univers haïtien et le « moi » universel chez Marie Chauvet</item>
+      <item ref="http://www.jasminenarcisse.com/memoire/11_litterature/02_marie.html">Marie Chauvet</item>
+      <item ref="http://cuhwww.upr.clu.edu/exegesis/39-40/sandinfremaint.pdf">En pos de una teodicea haitiana: Amor, Ira y Locura de Marie Vieux Chauvet</item>
+    </list>
   </div>
 </TEI>

@@ -1,25 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Fabienne_Pasquet_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Fabienne_Pasquet" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Fabienne Pasquet</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Fabienne_Pasquet_fiche_autorite">
+  <div n="1" xml:id="Fabienne_Pasquet_fiche">
     <person ana="Fabienne_Pasquet" sex="na">
       <persName>Fabienne Pasquet</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Fabienne_Pasquet_bio">
+    <text hand="Sarah Davies Cordova" ref="http://ile-en-ile.org/pasquet_fabienne/" xml:id="Fabienne_Pasquet_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Fabienne_Pasquet">Fabienne Pasquet</persName>
+         est née le 22 décembre 1954, à 
+        <placeName ana="Geneve">Genève</placeName>
+        , de mère franco-
+        <placeName ana="Suisse">Suisse</placeName>
+         d’origine russe et de père haïtien.
+      </p>
+      <p>
+        Après son bac, en 1973, elle obtient un diplôme de perfectionnement d’anglais pour étrangers à l’Université Columbia, à 
+        <placeName ana="New_York">New York</placeName>
+        , avant de s’installer en 
+        <placeName ana="Italie">Italie</placeName>
+        .
+      </p>
+      <p>De 1973 à 1989, elle exerce la profession de comédienne se consacrant essentiellement au théâtre. Très vite elle commence par collaborer à la dramaturgie de certains textes avant d’écrire et interpréter ses propres monologues.</p>
+      <p>
+        Entre-temps, de 1974 à 1975, elle fait une équivalence de DEUG en disciplines du spectacle à 
+        <placeName ana="L’Universite_De_Bologne">l’Université de Bologne</placeName>
+        , et en 1977-1978, au terme d’un séjour de 10 mois à l’Institut Pouchkine de 
+        <placeName ana="Moscou">Moscou</placeName>
+        , elle obtient un diplôme de russe.
+      </p>
+      <p>
+        En 1990, 
+        <persName ana="Fabienne_Pasquet">Fabienne Pasquet</persName>
+         quitte l’
+        <placeName ana="Italie">Italie</placeName>
+         et s’installe en Haute-
+        <placeName ana="Provence">Provence</placeName>
+         pour se consacrer à l’écriture. Elle effectue toutes sortes de travaux, dont maintes traductions, pour subvenir à ses besoins.
+      </p>
+      <p>
+        En 1996, elle publie son premier roman L’Ombre de Baudelaire chez 
+        <persName ana="Actes_Sud">Actes Sud</persName>
+        , sélectionné en 1997 par le Festival du premier roman de Chambéry. À la suite de cette publication, elle reçoit des bourses d’aide à l’écriture du Centre National du Livre (
+        <placeName ana="France">France</placeName>
+        ), et de la Fondation Pro-Helvetia (
+        <placeName ana="Suisse">Suisse</placeName>
+        ).
+      </p>
+      <p>
+        En 2001, elle publie son deuxième roman, toujours chez 
+        <persName ana="Actes_Sud">Actes Sud</persName>
+        , La Deuxième mort de 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+        , pour lequel elle est lauréate du Prix Schiller (
+        <placeName ana="Suisse">Suisse</placeName>
+        ) en 2002 et du Prix Marcel Aymé en 2003. En novembre 2002, elle aborde un autre genre en rédigeant Tous un, le livret de l’opéra électroacoustique de 
+        <persName ana="Patrick_Defossez">Patrick Défossez</persName>
+         et 
+        <persName ana="Anne_De_Baecker">Anne de Baecker</persName>
+         pour le Bicentenaire de la mort de 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+         à 
+        <placeName ana="Pontarlier">Pontarlier</placeName>
+         (
+        <placeName ana="Doubs">Doubs</placeName>
+        ).
+      </p>
+      <p>
+        L’Ombre de Baudelaire met en scène une période tourmentée (1855-1859) de la relation qui unit, pendant vingt ans, le poète 
+        <persName ana="Charles_Baudelaire">Charles Baudelaire</persName>
+         à 
+        <persName ana="Jeanne_Duval">Jeanne Duval</persName>
+        , mulâtresse d’origine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . C’est pour s’élever contre l’occultation dont la figure de Jeanne a trop longtemps été l’objet dans la critique littéraire que 
+        <persName ana="Fabienne_Pasquet">Fabienne Pasquet</persName>
+         entreprend son premier livre. Dans un 
+        <placeName ana="Paris">Paris</placeName>
+         qui perd la mémoire (Haussmann rase le cœur de la capitale), l’auteure raconte l’histoire d’une femme éprise de vertige qui, devant la difficulté d’assumer sa différence, choisit de se perdre dans l’écriture de son homme.
+      </p>
+      <p>
+        Dès ce premier roman, 
+        <persName ana="Fabienne_Pasquet">Fabienne Pasquet</persName>
+         interpelle l’histoire pour nous livrer à travers des personnages 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         (/de Saint-Domingue) une problématique de l’identitaire et on y trouve les thèmes chers à l’auteure: la confrontation entre deux cultures, jeux de masques et de miroirs, le rapport à la mémoire, à l’écriture, au corps et à la création.
+      </p>
+      <p>
+        La Deuxième mort de 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+         met en scène deux personnages historiques connus, l’écrivain romantique allemand, 
+        <persName ana="Heinrich_Von_Kleist">Heinrich von Kleist</persName>
+         et le précurseur de la révolution 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+        . Ils se retrouvent dans la cellule de prison du 
+        <placeName ana="Fort_De_Joux">Fort de Joux</placeName>
+        , où ce dernier mourut quatre ans avant que le poète y soit emprisonné.
+      </p>
+      <p>Le roman est l’histoire d’un héros qui, ayant raté sa mort et désirant enfin accéder au monde des ancêtres, doit se dépouiller de ses masques afin de cerner l’homme qu’il est dans ses qualités comme dans ses faiblesses.</p>
+      <p>
+        Si on retrouve dans ce roman certains thèmes abordés dans le premier, 
+        <persName ana="Fabienne_Pasquet">Fabienne Pasquet</persName>
+        , dans une mise en abyme de la réalité et de l’imaginaire, y développe aussi ceux du rapport à la liberté, au pouvoir et à la mort.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Fabienne_Pasquet_biblio">
+    <div ref="http://ile-en-ile.org/pasquet_fabienne/" xml:id="Fabienne_Pasquet_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item> L’Ombre de Baudelaire. Arles: Actes Sud, 1996.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Partition pour une extase. En italien, 1995</item>
+      </list>
+      <list subtype="opéra">
+        <item>Tous un, musique de Patrick Defossez et Anne de Baecker, 2002.</item>
+      </list>
+      <list subtype="traductions par fabienne pasquet">
+        <item>Maïakovski, Vladimir. La Cimice. Trad. pour la scène, du russe en italien, avec Carlo Cecchi et Nicola Piovani. Administrazione Provinciale di Reggio Emilia, 1975.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1997     Bourse d’aide à l’écriture du Centre National du Livre (France).</item>
+      </list>
+      <list subtype="sur l’oeuvre de fabienne pasquet">
+        <item>François, Cyrille.« Fabienne Pasquet et l’écriture contre les silences et les mensonges de l’Histoire ». Nouvelles Francographies 1.1 (septembre 2007): 139-150.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Fabienne_Pasquet_web">
+    <list type="ile_en_ile">
+      <item ref="http://ppcritique.free.fr/pasquet.html">Des élèves de M. Perrin lisent La Deuxième mort de Toussaint Louverture de Fabienne Pasquet</item>
+      <item ref="http://www.swissinfo.org/sfr/Swissinfo.html?siteSect=105&amp;sid=1715929">Fabienne Pasquet et le roman, « travail de mémoire »</item>
+      <item ref="http://www.actes-sud.fr/">Actes Sud</item>
+    </list>
   </div>
 </TEI>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Louis_Joseph_Janvier_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Louis_Joseph_Janvier" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Louis Joseph Janvier</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Louis_Joseph_Janvier_fiche_autorite">
+  <div n="1" xml:id="Louis_Joseph_Janvier_fiche">
     <person ana="Louis_Joseph_Janvier" sex="na">
       <persName>Louis Joseph Janvier</persName>
       <death source="ile_en_ile_auto">
@@ -33,5 +33,487 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Louis_Joseph_Janvier_bio">
+    <text ref="http://ile-en-ile.org/janvier/" xml:id="Louis_Joseph_Janvier_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Louis_Joseph_Janvier">Louis Joseph Janvier</persName>
+         est né le 7 mai 1855 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Issu d’une famille protestante du Morne-à-Tuf, il revendique ses racines haïtiennes : son grand-père est proche de 
+        <placeName ana="Petion">Pétion </placeName>
+        ; son père, de Soulouque et de 
+        <placeName ana="Geffrard">Geffrard</placeName>
+        . Il se réclame aussi dans Les Antinationaux d’une ascendance amérindienne : « mon aïeule du côté paternel a du sang indien dans les veines ».
+      </p>
+      <p>
+        Janvier 
+        <placeName ana="Passe">Passe</placeName>
+         la majeure partie de sa vie à l’étranger. Il quitte 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1877, et entreprend à 
+        <placeName ana="Paris">Paris</placeName>
+         des études de médecine, et de sciences politiques (économie, administration et diplomatie) et de droit à 
+        <placeName ana="Lille">Lille</placeName>
+        . Membre de la Société d’Anthropologie de 
+        <placeName ana="Paris">Paris</placeName>
+         en 1882, il publie en un temps record des essais importants, notamment 
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+         et ses visiteurs ; 
+        <placeName ana="Haiti">Haïti</placeName>
+         aux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         ; L’Égalité des races ; Le Vieux Piquet ; Les Antinationaux, actes et principes ; Les Affaires d’
+        <placeName ana="Haiti">Haïti</placeName>
+         (1883-1884) ; Les Constitutions d’
+        <placeName ana="Haiti">Haïti </placeName>
+        ; Une Chercheuse et, peu après, 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         civil en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Personnalité reconnue, 
+        <persName ana="Louis_Joseph_Janvier">Louis Joseph Janvier</persName>
+         mène de nombreuses activités pendant ces années européennes. Pour l’inauguration du tombeau de Michelet en 1882, son discours, vibrant hommage à l’historien, est remarqué par 
+        <placeName ana="La_Presse">La Presse</placeName>
+        . C’est un habitué du salon du poète 
+        <persName ana="Charles_Leconte_De_Lisle">Charles Leconte de Lisle</persName>
+         qui fréquente également 
+        <persName ana="Judith_Gautier">Judith Gautier</persName>
+        , 
+        <persName ana="Francois_Coppee">François Coppée</persName>
+        , 
+        <persName ana="Stephane_Mallarme">Stéphane Mallarmé</persName>
+        , José-
+        <persName ana="Maria_De_Heredia">Maria de Hérédia</persName>
+        , 
+        <persName ana="Maurice_Barres">Maurice Barrès</persName>
+        , 
+        <persName ana="Elisee_Reclus">Élisée Reclus</persName>
+        …
+      </p>
+      <p>
+        À partir de 1884, Janvier est chargé de diverses fonctions diplomatiques haïtiennes. De 1889 à 1904, il est en poste à 
+        <placeName ana="Londres">Londres</placeName>
+        , d’abord comme secrétaire de légation, puis comme chargé d’affaires avant d’être nommé ministre résident à la cour de Saint-James. Il se marie en 1902, avec une 
+        <placeName ana="Britannique">Britannique</placeName>
+        , Jeanne-
+        <persName ana="Maria_Windsor">Maria Windsor</persName>
+        .
+      </p>
+      <p>
+        Il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1905, après 28 ans d’absence. Il tente une carrière politique, mais son discours reçoit peu d’échos favorables : il prône le retour à un gouvernement civil, alors que le pays est le théâtre de conflits multiples. Son épouse meurt en donnant naissance à une fille (qui sera la mère du poète français 
+        <persName ana="Ludovic_Janvier">Ludovic Janvier</persName>
+        ). Il échoue dans ses tentatives de renouveau politique et s’exile. Bien que nommé ministre conseiller à 
+        <placeName ana="Londres">Londres</placeName>
+        , il s’installe à 
+        <placeName ana="Paris">Paris</placeName>
+         à la suite d’un différent avec 
+        <persName ana="Duracine_Vaval">Duraciné Vaval</persName>
+        , ministre attitré. Il meurt à 
+        <placeName ana="Paris">Paris</placeName>
+         le 24 
+        <placeName ana="Mars">Mars</placeName>
+         1911, laissant à la postérité une œuvre immense qui mérite largement d’être connue.
+      </p>
+      <p>* * *</p>
+      <p>
+        L’œuvre de Janvier est paradoxale. Quand il évoque 
+        <placeName ana="Haiti">Haïti</placeName>
+        , c’est depuis 
+        <placeName ana="L’Europe">l’Europe</placeName>
+         et souvent pour s’opposer à des appréciations négatives portées sur son pays. Dès la publication de son premier ouvrage en 1881, Phtisie pulmonaire, il s’attaque aux idées reçues sur le racisme. Bien que Janvier n’exercera jamais la profession de médecin, une grande partie de son argumentaire médical consiste à montrer que la tuberculose est le résultat d’un épuisement dû à la débauche et à une vie malsaine. Cependant les paysans 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         sont peu victimes de cette maladie. Ils mènent une vie saine, fondée sur une hygiène sûre : « Au point de vue purement ethnique, au point de vue d’anthropologie pathologique, la race noire n’est pas plus prédisposée que les autres à la tuberculose ». Ce discours aux présupposés hygiénistes est avant tout un discours de combat contre le racisme scientifique de l’époque, y compris celui des membres de la Société d’Anthropologie de 
+        <placeName ana="Paris">Paris</placeName>
+        . Il paraît alors essentiel pour Janvier de constituer une représentation d’
+        <placeName ana="Haiti">Haïti</placeName>
+         qui soit positive et poétique, comme si dans les mornes où se sont réfugiés les paysans, il demeurait quelques traces du Paradis transformé en enfer par Colomb et sa suite :
+      </p>
+      <p>
+        Toutes ces jolies villes que la brise du matin parfume des senteurs des montagnes d’alentour et où le vent du soir, qu’il vienne de la haute 
+        <placeName ana="Mer">Mer</placeName>
+         ou de la colline, tellement frais et chargé de délicieuses fragrances qu’il enivre, tous ces bienheureux séjours, où l’on se sent si joyeux de respirer et où la vie est une jouissance infinie, ne connaissent que peu ou plutôt ne connaissent point les atteintes du mal cruel. (Phtisie pulmonaire)
+      </p>
+      <p>
+        Ce mal qui rôde toujours, est avant tout la misère ; ce sont bien les Européens qui le transmettent. Tous les ouvrages de Janvier vont résonner de ce questionnement, et mettront peu à peu en relief la diabolisation dans les discours sur les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , qu’ils soient l’œuvre d’écrivains français ou 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        .
+      </p>
+      <p>
+        En 1882, il participe à un ouvrage collectif, Les détracteurs de la race noire et de 
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+          (avec 
+        <persName ana="Jules_Auguste">Jules Auguste</persName>
+        , 
+        <persName ana="Arthur_Bowler">Arthur Bowler</persName>
+        , 
+        <persName ana="Clement_Denis">Clément Denis</persName>
+        , 
+        <persName ana="Justin_Prevost">Justin Prévost</persName>
+        , précédé de lettres de 
+        <persName ana="Victor_Schœlcher">Victor Schœlcher</persName>
+         et de
+      </p>
+      <p>
+        <persName ana="Ramon_Emeterio_Betances">Ramón Emeterio Betances</persName>
+        , hautes figures de la lutte contre le préjugé et l’esclavage). Dans cette œuvre, les auteurs s’en prennent à des déclarations racistes parues dans certaines revues. Janvier reprend les arguments discriminatoires, tant sur le plan moral que physiologique. Il déploie une argumentation appuyée sur l’exemplarité 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et la perfectibilité des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , malgré les privations imposées par les puissances coloniales. Ainsi, récuse-t-il l’accusation de paresse par l’argument de l’appétit de connaissances : « Un peuple qui s’impose de dures privations pour faire élever ses enfants à l’étranger ou qui consent à se séparer d’eux pendant plusieurs années consécutives prouve, par là, qu’il n’est point paresseux et qu’il ne se complaît pas dans l’ignorance ». Il prend acte, depuis le racisme scientifique des anthropologues de son époque, des transformations qui affectent les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         en raison de leur engagement dans la civilisation.
+      </p>
+      <p>
+        Il prend aussi acte du poids de la Dette dans son argument ; si 
+        <placeName ana="Haiti">Haïti</placeName>
+         est ravagée par les guerres civiles, c’est suite aux soulèvements paysans :
+      </p>
+      <p>
+        Les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         avaient vécu pauvres, se saignaient à blanc, pour tenir leurs engagements. Les révoltes qui ont eu lieu en 
+        <placeName ana="Haiti">Haïti</placeName>
+         depuis 1843, et dont d’ailleurs l’importance est toujours singulièrement exagérée en Europe, ont presque toutes été occasionnées par les souffrances d’un peuple surchargé d’impôts et ne pouvant parfaire pourtant son outillage économique.
+      </p>
+      <p>
+        En 1883, il publie un ouvrage volumineux, 
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+         et ses visiteurs, dans lequel il s’en prend aux visiteurs qui assimilent 
+        <placeName ana="Haiti">Haïti</placeName>
+         à un « îlot de sauvagerie » (pour reprendre le mot de Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         dans L’Espace d’un Cillement). 
+        <persName ana="Victor_Cochinat">Victor Cochinat</persName>
+        , journaliste originaire des 
+        <placeName ana="Antilles">Antilles</placeName>
+        , avait fait paraître une série d’articles dans lesquels il présente un tableau critique et négatif de la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , notamment des formes vides (généraux sans armée, amiraux sans navire, conseil de l’instruction publique sans lycée, par exemple). Janvier répond violemment, point par point, en retournant l’ironie contre les détracteurs de son pays. Il rappelle ainsi les origines violentes d’
+        <placeName ana="Haiti">Haïti </placeName>
+        : « nous ne sommes pas très loin de 1804 et nous savons tous d’où nous sortons ». Il n’hésite pas à reprendre l’argument de la Dette – qui n’est que le nom pudique de la Rançon que doit payer le peuple haïtien :Ce lopin de 
+        <placeName ana="Terre">Terre</placeName>
+         où nous sommes les maîtres, et que nous gardons avec un soin tant jaloux à nos arrières neveux, nous l’avons payé trois fois. Nous l’avons d’abord acheté dans la personne de nos ancêtres, et payé de deux siècles de larmes et de sueur ; puis nous l’avons payé d’une immense quantité de sang, et puis nous l’avons payé de 120 millions en argent.
+Cent vingt millions d’argent ! de 1825 à 1880 ! C’est un joli denier ! Sans compter les cent mille francs par ci, les cent mille francs par là, que vous nous avez soutirés – après chaque révolution inutile que vous aviez faite – vous tous, qui mangiez avec nous la veille, et qui vous disiez nôtres, et qui le lendemain, veniez nous menacer de Bismarck, de Disraëli ou de Fish, ou qui disiez que vous étiez nés à la 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        , à la 
+        <placeName ana="Martinique">Martinique</placeName>
+         ou… ailleurs.
+      </p>
+      <p>Ce qui est en jeu, c’est l’exemplarité de l’être haïtien au monde et, comme souvent dans la pensée paradoxale de Janvier, celle-ci doit être interprétée à la lueur de l’exemplarité française :</p>
+      <p>
+        <placeName ana="La_France">la France</placeName>
+         est la capitale des peuples. 
+        <placeName ana="Haiti">Haïti</placeName>
+         est 
+        <placeName ana="La_France">la France</placeName>
+         noire.
+C’est la fille aînée de la race aimante qui selon la parole de Michelet, cet apôtre, doit renouveler le monde en l’inondant de l’océan d’amour et d’éternelle jeunesse qu’elle tient en réserve dans son sein, ce sein bistré, trésor de sympathie, d’affection et de reconnaissance.
+Pour la race noire, 
+        <placeName ana="Haiti">Haïti</placeName>
+         c’est le soleil se levant à l’horizon.
+      </p>
+      <p>
+        Et c’est précisément en raison de cette représentativité des héros de l’indépendance – et de cette responsabilité d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à l’égard d’une 
+        <placeName ana="Negritude">Négritude</placeName>
+         avant la lettre – que Janvier donne une leçon à Cochinat et à tous ceux qui se gaussent, en rappelant les noms occultés par l’Histoire racontée par les Blancs :
+      </p>
+      <p>
+        Héros et vaillants de 1803 dont je veux bien remettre les noms sous tes yeux de nègre, car tu leur dois en grande partie la faculté dont tu jouis d’insulter aujourd’hui leurs fils, et cela – chose très grande ! – chez eux, pendant que tu es chez eux et que tu manges les miettes de leurs tables.
+Ils s’appelaient 
+        <placeName ana="Dessalines">Dessalines</placeName>
+         et 
+        <placeName ana="Petion">Pétion</placeName>
+        , 
+        <placeName ana="Geffrard">Geffrard</placeName>
+         et 
+        <placeName ana="Capois">Capois</placeName>
+        , 
+        <placeName ana="Ferou">Férou</placeName>
+         et 
+        <placeName ana="Toussaint">Toussaint</placeName>
+        -
+        <placeName ana="Brave">Brave</placeName>
+        , Christophe et 
+        <placeName ana="Cange">Cangé</placeName>
+        , 
+        <placeName ana="Vernet">Vernet</placeName>
+         et 
+        <placeName ana="Gerin">Gérin</placeName>
+        , Jean-
+        <persName ana="Louis_Francois">Louis François</persName>
+        , Magny, 
+        <persName ana="Louise_Gabart">Louise Gabart</persName>
+         et 
+        <placeName ana="Boisrond">Boisrond</placeName>
+        -
+        <placeName ana="Tonnerre">Tonnerre</placeName>
+        .
+Si tu t’étais rappelé ces noms au lieu de faire rire des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         actuels, tu eusses voulu que toute la race noire adorât à deux genoux la mémoire de leurs aïeux. […]
+Et je dis à 
+        <persName ana="M_Cochinat">M. Cochinat </persName>
+        : Manant, apprends à vivre et parle avec respect des petits-fils de 
+        <placeName ana="Toussaint">Toussaint</placeName>
+        -Louverture auquel tu dois tant et auquel vous devez tant, vous tous, enfants de l’
+        <placeName ana="Afrique">Afrique</placeName>
+         qui habitez l’
+        <placeName ana="Amerique">Amérique</placeName>
+        .  (
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+         et ses visiteurs)
+      </p>
+      <p>
+        En 1884, Janvier publie 
+        <placeName ana="Haiti">Haïti</placeName>
+         aux 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , dans lequel il revendique l’interdiction de céder quelque partie d’
+        <placeName ana="Haiti">Haïti</placeName>
+         aux étrangers. Les États-Unis tentent de prendre possession du Morne Saint-Nicolas et, en Europe, l’impérialisme trouve ses justifications dans un racisme scientifique désormais installé : « on a colporté partout la nouvelle que nous étions des sauvages, afin de nous mieux intimider et de nous mieux rançonner ; ceux qui nous léchaient la main chez nous nous appelaient singes en Europe ». Dans ce texte paraît pour la première fois une tentative de programme à la fois social et religieux : redistribuer les terres des grandes propriétés aux paysans et « protestantiser » 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Le catholicisme concordataire est, selon Janvier, un facteur de régression sociale et économique. Ces deux axes seront par la suite maintes fois repris.
+      </p>
+      <p>
+        Également en 1884, Janvier fait paraître Le Vieux Piquet où il rend compte de la situation paysanne par la fiction. Dans ce court roman – sans doute l’une des premières 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         (audiences) de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         – il rassemble l’état de servitude d’avant l’Indépendance et la condition des paysans au moment des guerres civiles. Il pose comme un fait accompli la séparation des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         entre, d’une part, le pays en dehors et, d’autre part, les villes de la côte. Entre les deux, les rancœurs se sont accumulées et les tensions ont culminé dans des guerres civiles fréquentes. Le texte se termine par une charge contre les écrivains qui occultent, en la rendant illégitime, la parole des exclus : « Notre sang fut 
+        <placeName ana="Verse">Versé</placeName>
+         à flots. Encore une fois nous fûmes vaincus, écharpés, écrasés. C’est depuis lors surtout que, dans les livres qu’ils sont seuls à écrire ou qu’ils ont fait écrire, les fils des fusilleurs nous traitent de misérables, d’infâmes, de pillards et d’insolents ! Quelle menteuse canaille et quels bandits ! ». Ainsi Janvier pose la question essentielle de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         : pourquoi le roman haïtien représente-t-il des êtres qui sont dans l’incapacité de répondre à et de critiquer cette représentation négative ? Les écrivains du XXème siècle sauront se souvenir de cette charge qui questionne l’origine du récit.
+      </p>
+      <p>Il publie la même année L’égalité des races, réponse à une affirmation de Renan qui avait posé leur inégalité. Janvier attaque le penseur, figure majeure de l’intelligentsia française sur le triple plan de la morale, de l’histoire et de la raison scientifique. Il reproche à Renan d’avoir failli à ses propres engagements d’homme de culture. Janvier critique l’aveuglement du savant devant la condition réelle des esclaves noirs : Renan considère l’inégalité sociale comme une inégalité de nature. La marche de l’histoire et la diffusion des idées des Lumières montrent, au contraire, que les esclaves sont sortis de l’état inhumain dans lequel ils étaient confinés :</p>
+      <p>
+        Partout donc, la race noire exécute une véritable escalade de la lumière. Cette ascension morale, c’est surtout à 
+        <placeName ana="La_France">la France</placeName>
+         philosophique du XVIIIe siècle, à 
+        <placeName ana="La_France">la France</placeName>
+         resplendissante et vaillante des Diderot, des d’Alembert et des 
+        <placeName ana="Raynal">Raynal</placeName>
+         qu’elle le doit, soit directement, soit par rayonnement indirect. Ainsi, dans les siècles futurs, et dès maintenant, elle saura ne jamais marchander sa reconnaissance à la 
+        <placeName ana="Nation">Nation</placeName>
+         généreuse entre toutes, à l’universelle émancipatrice.
+      </p>
+      <p>
+        Enfin, Janvier reprend l’argument de l’évolution vers une perfectibilité de l’espèce humaine. À ce titre 
+        <placeName ana="Haiti">Haïti</placeName>
+         redevient exemplaire, là où les esclaves se sont libérés les premiers :
+      </p>
+      <p>
+        En 
+        <placeName ana="Haiti">Haïti</placeName>
+        , ou [sic] l’homme noir est libre, se gouverne lui-même et est propriétaire du sol depuis seulement le commencement de ce siècle, il s’est produit chez lui une amélioration puis une véritable transformation intellectuelle, et de plus une très notable sélection physique.
+La progression de la grande république antiléenne a triplé depuis une soixante d’années et l’évolution de la 
+        <placeName ana="Nation">Nation</placeName>
+         
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         a été des plus rapides, malgré les inutiles et déplorables révoltes qui ont trop souvent ensanglanté ce beau pays. (L’égalité des races)
+      </p>
+      <p>
+        Janvier publie et commente toutes les constitutions dans son ouvrage essentiel, Les Constitutions d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , qui paraît en 1886. Il rappelle dans quelles conditions les textes ont été conçus, et montre comment ces lois fondamentales témoignent progressivement du déclin d’
+        <placeName ana="Haiti">Haïti</placeName>
+         dans la représentation des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         eux-mêmes, ainsi que pour le reste du monde. Il prend parti pour un pouvoir exécutif fort en vue d’installer et de pérenniser un état fragilisé dès son origine. 
+        <placeName ana="Dessalines">Dessalines</placeName>
+         et Christophe, à l’inverse de 
+        <placeName ana="Petion">Pétion</placeName>
+        , sont, après 
+        <persName ana="Toussaint_Louverture">
+          <placeName ana="Toussaint">Toussaint</placeName>
+           Louverture
+        </persName>
+        , les véritables génies politiques d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , les seuls capables d’avoir pu assurer, momentanément, une économie viable et reposant sur des bases solides. À partir de 
+        <placeName ana="Boyer">Boyer</placeName>
+        , le désastre commence, notamment par l’irruption de la « question de couleur » dans le champ politique, l’acceptation du règlement de la compensation des anciens planteurs (la Dette), la promulgation du Code rural de 1826 (qui marginalise les masses paysannes) et par la mainmise de l’église catholique sur le pays.
+      </p>
+      <p>
+        Pour Janvier, c’est à partir de cette date que les questions sociales ne sont plus traitées que sous l’angle du droit ; dans le jeu du pouvoir en place, le droit est forcément partisan, puisque jamais un contre pouvoir n’a pu trouver place. Ainsi, les paysans exclus ne peuvent disposer des terres. Ils sont alors confinés dans les 
+        <placeName ana="Marges">Marges</placeName>
+         sociales, alors que le véritable enjeu politique, toujours selon Janvier, est la mise en œuvre de la citoyenneté, de la communauté de projet. Janvier reproche aux différents pouvoirs d’avoir ignoré « que la petite propriété n’est ni une cause d’appauvrissement, ni un danger ; qu’elle offre au contraire toutes sortes d’avantages ; qu’elle utilise le sol là où la grande propriété qui ne fait que des prolétaires agricoles aurait tout laissé en friches ; que la petite propriété rend les paysans indépendants, prévoyants, patriotes ; en un mot, qu’elle forme des citoyens ». La « question de couleur » est aussi envisagée comme un fourvoiement, puisqu’elle masque la véritable question, qui est d’ordre social et économique avant tout.
+      </p>
+      <p>
+        Selon Janvier, cette question de couleur a fini par modeler des postures sociales ridicules : « Les platitudes des mulâtres qui cherchaient à passer pour blancs, sont incroyables ; les bassesses des noirs qui flattaient les hommes de couleur pour vivre en leur compagnie sont inénarrables ». Ce singulier décentrement de la pensée est également à l’œuvre dans la critique sévère qu’il fait du catholicisme, qualifié de « fétichisme européen », rangé dans le même opprobre que le « fétichisme africain ». Sa vision de l’histoire de l’église catholique est très négative, car l’église menace les fondations d’
+        <placeName ana="Haiti">Haïti </placeName>
+        :
+      </p>
+      <p>
+        Le catholicisme, après avoir fait l’esclavage des noirs, en reste encore complice : il est responsable de l’abjection dans laquelle la race noire a croupi pendant des siècles ; il a aidé au développement du préjugé de couleur des blancs contre les noirs ; étant centralisé à 
+        <placeName ana="Rome">Rome</placeName>
+        , il ne peut jamais devenir une religion de politique nationale ; enfin, à un moment donné, il peut compromettre, l’œuvre de 1804 : l’indépendance.
+      </p>
+      <p>
+        La dernière partie du livre est consacrée à un tableau terrible des guerres civiles après la chute de 
+        <placeName ana="Geffrard">Geffrard</placeName>
+        . La succession des présidents va voir l’opposition quasi systématique d’intérêts particuliers, les alliances temporaires, et l’effondrement de toute pensée politique construite et cohérente :
+      </p>
+      <p>
+        Les présidences à court terme, mauvaises pour un pays neuf où la vie politique n’est pas intense parce que les cerveaux ont été laissés trop longtemps sans culture et que les intérêts matériels sont concentrés entre les mains d’un petit nombre de personnes, vont se succéder. Avec elles, se manifesteront des recrudescences de la colère du peuple, naîtront des guerres intestines. Les unes et les autres seront précédées, accompagnées ou suivies de luttes parlementaires absolument sans grandeur. (Les Constitutions d’
+        <placeName ana="Haiti">Haïti</placeName>
+        )
+      </p>
+      <p>
+        La seule personnalité de 
+        <persName ana="Demesvar_Delorme">
+          Démesvar 
+          <placeName ana="Delorme">Delorme</placeName>
+        </persName>
+         émerge de ces guerres civiles, notamment des luttes entre 
+        <placeName ana="Piquets">Piquets</placeName>
+         et 
+        <placeName ana="Cacos">Cacos</placeName>
+        , paysans en armes, dont les révoltes et les rivalités sont incessantes. 
+        <placeName ana="Haiti">Haïti</placeName>
+        , dans la perception qu’en a désormais Janvier, se réduit à un objet de convoitise pour les puissances colonisatrices, et ne peut plus rien produire, sur le double plan économique et culturel. Le pessimisme de Janvier s’affirme alors de façon particulièrement sensible : 
+        <placeName ana="Haiti">Haïti</placeName>
+         est devenue une 
+        <placeName ana="Terre">Terre</placeName>
+         d’où la culture s’absente, mais où prolifèrent les seigneurs de la guerre. Il ne peut que prendre ses distances vis-à-vis de cet état de fait :
+      </p>
+      <p>
+        La guerre civile est la chose la plus exécrable, la plus ignoble, la plus misérable qu’il soit. Ici, on ne fera gloire à personne d’avoir montré de la bravoure dans le cours des luttes fratricides qui ensanglantèrent le pays de 1868 à 1870.
+Si 
+        <placeName ana="Brave">Brave</placeName>
+         que l’on se croit être, on ne le reste plus quand, le pouvant, au lieu d’éclairer son pays sur ses véritables intérêts, on prend un fusil pour tuer son compatriote sous prétexte de lui donner des libertés illusoires. Chez un peuple sentimental, affamé de justice, comme l’est le peuple haïtien, toute question peut se vider par la discussion. (Les Constitutions d’
+        <placeName ana="Haiti">Haïti</placeName>
+        )
+      </p>
+      <p>La toute dernière partie de l’essai est consacrée à une proposition de nouvelle constitution pour le pays. Janvier place en son centre la nécessité de la négociation comme mode de résolution des conflits. Car le véritable enjeu que définit Janvier est celui de la nécessaire modernisation du pays. Vivant en Europe, voyageant, il voit de toutes parts monter les impérialismes.</p>
+      <p>
+        Si certains aspects de la pensée politique de Janvier semblent désormais inactuels, si parfois l’outrance de certaines déclarations suscite l’interrogation, le lecteur est néanmoins frappé par la volonté de l’auteur de tenter une véritable fondation du discours politique. Janvier constate le délabrement dans lequel se trouve l’État et ses quelques institutions. Il explique que si le discours politique se dégrade en diabolisation et en invectives, la seule voie de protestation devient celle de la guerre civile, qui paupérise ceux qui sont déjà les plus pauvres. L’ouvrage ne semble pas avoir eu le retentissement qu’il méritait en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        En 1888, il fait paraître un roman étonnant, Une Chercheuse. Il y raconte la vie et les déceptions de 
+        <persName ana="Mimose_Carminier">
+          <placeName ana="Mimose">Mimose</placeName>
+           Carminier
+        </persName>
+         (devenue de Foncine), de 
+        <placeName ana="Bordeaux">Bordeaux</placeName>
+        , qui construit sa vie dans la recherche d’un amour entier, délivré des illusions de la bienséance sociale et de l’attente platonique. Elle le trouve en la personne d’un jeune médecin égyptien, Edriss, qui rentrera 
+        <placeName ana="Mourir">Mourir</placeName>
+         à 
+        <placeName ana="Alexandrie">Alexandrie</placeName>
+         lors du bombardement de la ville par la marine 
+        <placeName ana="Britannique">Britannique</placeName>
+        . Sans cesse transparaissent dans ce texte les critiques adressées par Janvier contre l’impérialisme des puissances occidentales – qui maltraitent leurs pauvres comme elles maltraitent et détruisent les autres cultures et les autres nations en arguant de l’infériorité de races – et contre les forces de répression qui gouvernent les États voués à la colonisation, forces à la fois rétrogrades et corrompues par les États impérialistes. Le roman tire sa force étrange par l’articulation entre ces différentes thématiques dans le corps de 
+        <placeName ana="Mimose">Mimose</placeName>
+        , femme libérée qui jette un regard hautain et désabusé sur ses contemporains. Janvier décrit subtilement la crise de la pensée occidentale, en totale contradiction avec la pensée des Lumières. Le constat est plutôt désabusé : « Ils appellent cela de la civilisation ! C’est de la barbarie retournée ».
+      </p>
+      <p>
+        Malgré ce pessimisme grandissant, Janvier rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         pour participer à la vie politique de son pays. En 1905 il publie l’un de ses derniers ouvrages, 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         civil en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , où il critique la succession des gouvernements militaires depuis 1804. En deçà du programme politique, l’ouvrage décrit une île « veuve de sa population autochtone », dont le nom même a été dévoyé en 
+        <placeName ana="Petite_Espagne">Petite Espagne</placeName>
+         (
+        <placeName ana="Hispanola">Hispañola</placeName>
+        ), alors qu’il s’agit bien d’une 
+        <placeName ana="Grande_Terre">Grande Terre</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        . L’ouvrage égrène des listes de noms de lieux, comme s’il fallait les arrimer définitivement. Janvier n’est pas le seul à le pressentir, une autre occupation se profile.
+      </p>
+      <p>
+        L’œuvre de Janvier semble avoir eu, à son époque, une réception mesurée. Certains, tel 
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+        , reconnaissent à Janvier une capacité à changer les représentations négatives et dégradantes accolées à 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Plusieurs ouvrages seront mal interprétés par 
+        <placeName ana="La_Presse">La Presse</placeName>
+         
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Si, plus tard (1933), Vaval écrit d’Une Chercheuse que « c’est un roman à lire et à relire et qu’on doit faire relier pour sa bibliothèque, en cramoisi avec des tranches dorées, comme le demandait un personnage de Shakespeare », ce roman a souvent été évacué des lettres haïtiennes, parce que, comme pour les romans de
+      </p>
+      <p>
+        <persName ana="Demesvar_Delorme">
+          Démesvar 
+          <placeName ana="Delorme">Delorme</placeName>
+        </persName>
+        , son action ne se déroule pas en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Le critique 
+        <persName ana="Ghislain_Gouraige">Ghislain Gouraige</persName>
+         éreintera le roman dans son Histoire de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         : « La pauvreté du style de Janvier (ailleurs si dense) s’ajoute aux défauts de ce roman privé d’observations psychologiques, et dont la valeur émotionnelle est à peu près nulle ». On est en droit de critiquer ce jugement sommaire.
+      </p>
+      <p>
+        <persName ana="Louis_Joseph_Janvier">Louis Joseph Janvier</persName>
+         a été croqué en personnage de roman, dans une œuvre de nature raciste, publiée à 
+        <placeName ana="Paris">Paris</placeName>
+         par l’un de ses contemporains – autrefois l’un des voyageurs français en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , militant reconnu, officiel et décoré de la cause de la colonisation – Edgar La 
+        <placeName ana="Selve">Selve</placeName>
+        . Il est représenté sous le nom transparent de Januarius dans une fiction particulièrement dégradante pour les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         : Le 
+        <persName ana="General_Cocoyo">Général Cocoyo</persName>
+        , mœurs haïtiennes (
+        <placeName ana="Paris">Paris</placeName>
+        , 
+        <persName ana="E_Dentu">E. Dentu</persName>
+        , 1888). La 
+        <placeName ana="Selve">Selve</placeName>
+         y reprend, en les ridiculisant, les thèses historiques et anthropologistes de Janvier. C’est de ce contexte infâmant, si prégnant et si courant dans les cultures impériales, que l’œuvre magistrale de Janvier se dégage et qu’elle remet en jeu. C’est pourquoi il est nécessaire de reconnaître à Janvier cette force particulière – qui lui a permis de décentrer progressivement la clôture idéologique occidentale – et de relire son œuvre à la mesure de cette dynamique.
+      </p>
+      <p>
+        Note: 
+        <persName ana="Louis_Joseph_Janvier">Louis Joseph Janvier</persName>
+         est parfois cité, avec un trait d’union, Louis-
+        <persName ana="Joseph_Janvier">Joseph Janvier</persName>
+        . Il faut noter que lui-même a signé certains de ses ouvrages de la manière suivante : LIS-JOS-JVER, suivi de son adresse parisienne au temps de ses études : 4, rue de l’Ecole-de-Médecine. Certains catalogues de bibliothèques utilisent Louis-
+        <persName ana="Joseph_Janvier">Joseph Janvier</persName>
+        . Pourtant, Une Chercheuse  est signé 
+        <persName ana="Louis_Janvier">Louis Janvier</persName>
+        . Il est donc tout à fait vraisemblable que Janvier avait deux prénoms, et pas un double prénom.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.louis-joseph-janvier.14122.html" xml:id="Louis_Joseph_Janvier_bio_auteur_spla">
+      <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Louis_Joseph_Janvier_biblio">
+    <div ref="http://ile-en-ile.org/janvier/" xml:id="Louis_Joseph_Janvier_biblio_auteur_ile_en_ile">
+      <list subtype="essais">
+        <item>Phtisie pulmonaire; causes, traitement préventif. Paris: A. Parent, 1881.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Vieux Piquet ; scène de la vie haïtienne. Paris: A. Parent, 1884.</item>
+      </list>
+      <list subtype="sur louis joseph janvier">
+        <item>Charles, Christophe Philippe. « Autobiographie de Louis Joseph Janvier (1885-1911) » (sélection d’extraits). Autobiographie des écrivains d’Haïti. Tome 1. Des Histoires passionnantes. réunies, présentées, éditées par Christophe Philippe Charles. Port-au-Prince: Choucoune, 1995: 59-80.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Louis_Joseph_Janvier_web">
+    <list type="ile_en_ile">
+      <item ref="http://lafayette.org.uk/jan2552.html">Photo de Louis Joseph Janvier</item>
+    </list>
   </div>
 </TEI>

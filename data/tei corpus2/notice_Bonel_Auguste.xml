@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Bonel_Auguste_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Bonel_Auguste" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Bonel Auguste</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Bonel, Auguste</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Bonel_Auguste_fiche_autorite">
+  <div n="1" xml:id="Bonel_Auguste_fiche">
     <person ana="Bonel_Auguste" sex="na">
-      <persName>
-        <surname source="bnf">Bonel</surname>
-        <forename source="bnf">Auguste</forename>
-      </persName>
+      <persName>Bonel, Auguste</persName>
       <idno type="BNF">
         cb166880985#about
         <g ref="http://data.bnf.fr/ark:/12148/cb166880985#about"/>
@@ -49,7 +46,112 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Bonel_Auguste_bio">
+    <text ref="http://ile-en-ile.org/auguste/" xml:id="Bonel_Auguste_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Bonel_Auguste">Bonel Auguste</persName>
+        , né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+         le 6 
+        <placeName ana="Mars">Mars</placeName>
+         1973, est poète, bibliothécaire et animateur culturel. Il a étudié la linguistique à l’Université d’État d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et a reçu une formation en histoire de l’art à l’Institut français d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Fondateur de l’atelier de poésie « Dimanche en poésie » à la bibliothèque Étoile filante, et animateur des « Vendredis littéraires » de l’université 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , il écrit en français et en créole.
+      </p>
+      <p>
+        Il anime une émission littéraire sur la Radio Nationale d’
+        <placeName ana="Haiti">Haïti</placeName>
+         « 
+        <placeName ana="Tournez">Tournez</placeName>
+         la page » et il a publié plusieurs articles dans les quotidiens Le Nouvelliste et Le Matin.
+      </p>
+      <p>
+        Le célèbre écrivain haïtien 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         a salué son premier livre de poésie Fas doub lanmò ainsi : « 
+        <persName ana="Bonel_Auguste">Bonel Auguste</persName>
+         est l’un des premiers écrivains philosophes de la littérature créole ».
+      </p>
+      <p>
+        Le poète tunisien 
+        <persName ana="Tahar_Bekri">Tahar Bekri</persName>
+         a écrit à propos de son deuxième livre Fulgurance, que ce sont des « pages empreintes de sensualité et de métaphores ramenant les réflexions et les médiations à leur juste place… ».
+      </p>
+      <p>Sa poésie se veut une forme-sens. Elle dit l’angoisse existentielle, questionne l’espace, le temps, la mort, l’éternité, évoque aussi la mémoire, la blessure de l’histoire, le sens du monde, la sensualité des corps amoureux, dans de subtiles métaphores.</p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.bonel-auguste.14053.html" xml:id="Bonel_Auguste_bio_auteur_spla">
+      <p>
+        <persName ana="Bonel_Auguste">Bonel Auguste</persName>
+        , né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+         le 6 
+        <placeName ana="Mars">Mars</placeName>
+         1973, est poète, bibliothécaire et animateur culturel. Il a étudié la linguistique à l'Université d'État d'
+        <placeName ana="Haiti">Haïti</placeName>
+         et a reçu une formation en histoire de l'art à l'Institut français d'
+        <placeName ana="Haiti">Haïti</placeName>
+        . Fondateur de l'atelier de poésie &quot;Dimanche en poésie&quot; à la bibliothèque Étoile filante, et animateur des &quot;Vendredis littéraires&quot; de l'université 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+        , il écrit en français et en créole. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Bonel_Auguste_biblio">
+    <div ref="http://ile-en-ile.org/auguste/" xml:id="Bonel_Auguste_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Fas doub lanmò. Port-au-Prince: Éditions Mémoire, 2000.</item>
+      </list>
+      <list subtype="roman">
+        <item>Un cri Lola. La Roque d’Anthéron: Vents d’ailleurs, 2013.</item>
+      </list>
+      <list subtype="contes">
+        <item>Lizamèvèy, conte en créole, inédit.</item>
+      </list>
+      <list subtype="essais et récits">
+        <item>« (S)’écrire en Haïti ». Riveneuve Continents 2 (juillet 2005): 133-134.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>Fas doub lanmò (extrait) et un poème inédit. Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 310-311.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Rodney Saint-Eloi sur la poésie au Nouvelliste 2000.</item>
+      </list>
+      <list subtype="adaptations de poèmes de bonel auguste">
+        <item>Mis en scène de Fas doub lanmò par la troupe « Soleil masqué » à la bibliothèque du Centre Culturel Pyepoudre (Port-au-Prince), 2002.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1997     Lauréat au concours de conte pour adultes de l’UNICEF, pour Lizamèvèy.</item>
+      </list>
+      <list subtype="sur l’œuvre de bonel auguste">
+        <item>Augustin, Gary. « Fulgurance de Bonel Auguste ». Le Matin 32357 (12-13 avril 2005).</item>
+      </list>
+      <list subtype="traductions">
+        <item>Fulgurance, sept poèmes du recueil ont été traduits et publiés en allemand.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Bonel_Auguste_web">
+    <list type="lifranum_db">
+      <item ref="https://armorpassion.com/poesie/poesie%20virtuelle/Auguste%20Bonel/Auguste%20Bonel.htm">Poèmes </item>
+    </list>
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/bonel-auguste-deve-lumineuse/">Dève lumineuse</item>
+      <item ref="http://ile-en-ile.org/bonel-auguste-fulgurance/">Fulgurance</item>
+      <item ref="http://ile-en-ile.org/3022-2/">Poème</item>
+      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      <item ref="http://lenouvelliste.com/article4.php?newsid=111762">Bonel Auguste</item>
+      <item ref="http://lenouvelliste.com/article4.php?newsid=115233">Bonel Auguste, un roman tout en musique</item>
+    </list>
   </div>
 </TEI>

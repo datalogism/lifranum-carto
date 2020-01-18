@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Michel_Monnin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Michel_Monnin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Michel Monnin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Michel_Monnin_fiche_autorite">
+  <div n="1" xml:id="Michel_Monnin_fiche">
     <person ana="Michel_Monnin" sex="na">
       <persName>Michel Monnin</persName>
       <langKnowledge>
@@ -30,5 +30,105 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Michel_Monnin_bio">
+    <text ref="http://ile-en-ile.org/monnin/" xml:id="Michel_Monnin_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Michel_Monnin">Michel Monnin</persName>
+         est né à 
+        <placeName ana="Bienne">Bienne</placeName>
+        , dans le 
+        <placeName ana="Canton_Du_Jura">canton du Jura</placeName>
+         (
+        <placeName ana="Suisse">Suisse</placeName>
+        ), en 1940. En 1948, sa famille s’établit en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il fait ses études à l’Institution Saint-Louis-de Gonzague. En 1956, ses parents inaugurent la 
+        <placeName ana="Galerie_Monnin">Galerie Monnin</placeName>
+        , à 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville et c’est en 1965 que dans le cadre d’un projet touristique, 
+        <persName ana="Michel_Monnin">Michel Monnin</persName>
+         séjourne à Port-Salut, milieu rural où il ancre ses racines définitivement haïtiennes. À partir de 1968, il se consacre entièrement à la promotion de l’art haïtien.
+      </p>
+      <p>
+        À la suggestion des peintres – 
+        <persName ana="Calixte_Henri">Calixte Henri</persName>
+        , Manès, 
+        <persName ana="Carlo_Jean">Carlo Jean</persName>
+        -Jacques, qui partagent un atelier à la 
+        <placeName ana="Galerie_Monnin">Galerie Monnin</placeName>
+         – il prend en main un groupe de très jeunes artistes qui deviendront célèbres sous le nom de « peintres de l’espace haïtien » (Jean-
+        <persName ana="Marie_Drot">Marie Drot</persName>
+        ) dont les plus connus sont Saint-
+        <persName ana="Louis_Blaise">Louis Blaise</persName>
+        , 
+        <persName ana="Roosevelt_Sanon">Roosevelt Sanon</persName>
+        , Sénatus et 
+        <placeName ana="Lamour">Lamour</placeName>
+        .
+      </p>
+      <p>
+        <persName ana="Michel_Monnin">Michel Monnin</persName>
+         est l’auteur de plusieurs biographies de peintres et de textes sur la peinture publiés dans les catalogues d’expositions (au 
+        <placeName ana="Grand_Palais_De_Paris">Grand Palais de Paris</placeName>
+        ) et dans les journaux.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.michel-monnin.34864.html" xml:id="Michel_Monnin_bio_auteur_spla">
+      <p>
+        <persName ana="Michel_Monnin">Michel Monnin</persName>
+         est né à 
+        <placeName ana="Bienne">Bienne</placeName>
+        , dans le 
+        <placeName ana="Canton_Du_Jura">canton du Jura</placeName>
+         (
+        <placeName ana="Suisse">Suisse</placeName>
+        ), en 1940. En 1948, sa famille s'établit en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il fait ses études à l'Institution Saint-Louis-de Gonzague. En 1956, ses parents inaugurent la 
+        <placeName ana="Galerie_Monnin">Galerie Monnin</placeName>
+        , à 
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville et c'est en 1965 que dans le cadre d'un projet touristique, 
+        <persName ana="Michel_Monnin">Michel Monnin</persName>
+         séjourne à Port-Salut, milieu rural où il ancre ses racines définitivement haïtiennes. À partir de 1968, il se consacre entièrement à la promotion de l'art haïtien (...)[Lire l'intégralité de sa biographie ici ] 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Michel_Monnin_biblio">
+    <div ref="http://ile-en-ile.org/monnin/" xml:id="Michel_Monnin_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item>Manès Descollines. Port-au-Prince: Deschamps, 1985, 209 p.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Café-Amer et autres histoires de coqs et d’amour. Port-au-Prince/Montréal: Éditions Regain/Éditions du CIDIHCA, 1997, 187 p.</item>
+      </list>
+      <list subtype="textes parus dans des ouvrages collectifs">
+        <item>« Jeunes peintres 1997 » (avec Michel-Philippe Lerebours). Conjonction 203 (1998): 105-107.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1985     Prix Henri Deschamps, pour Manès Descollines.</item>
+      </list>
+      <list subtype="sur michel monnin">
+        <item>Caye, Sylvie. « Le parcours figuratif du naufrage dans Manès Descollines, roman haïtien de Michel Monnin ». Mémoire de maîtrise, dirigé par Christiane Ndiaye, Université de Montréal, 2000, 109 p.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Michel_Monnin_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/michel-monnin-cafe-amer/">Café-Amer</item>
+      <item ref="http://ile-en-ile.org/michel-monnin-cafe-amer/">Café-Amer</item>
+      <item ref="http://ile-en-ile.org/michel-monnin-manes-descollines/">Manès Descollines</item>
+      <item ref="http://ile-en-ile.org/michel-monnin-5-questions-pour-ile-en-ile/">Michel Monnin, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/galerie-monnin-2/">Galerie Monnin</item>
+      <item ref="http://ile-en-ile.org/michel-monnin-le-parcours-figuratif-du-naufrage/">Le parcours figuratif du naufrage</item>
+      <item ref="http://ile-en-ile.org/michel-monnin-le-parcours-figuratif-du-naufrage/">Le parcours figuratif du naufrage</item>
+      <item ref="http://ile-en-ile.org/chassagne-postface-de-manes-descollines-de-michel-monnin/">Postface de Manès Descollines</item>
+      <item ref="http://www.galeriemonnin.com/">Galerie Monnin</item>
+    </list>
+    <list type="spla">
+      <item ref="http://www.galeriemonnin.com">Website Michel Monnin </item>
+    </list>
   </div>
 </TEI>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Marie_Therese_Colimon_Hall" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Marie-Thérèse Colimon Hall</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Marie_Therese_Colimon_Hall_fiche">
+    <person ana="Marie_Therese_Colimon_Hall" sex="na">
+      <persName>Marie-Thérèse Colimon Hall</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Marie_Therese_Colimon_Hall_bio">
+    <text hand="Paulette Poujol Oriol" ref="http://ile-en-ile.org/colimon-hall/" xml:id="Marie_Therese_Colimon_Hall_bio_auteur_ile_en_ile">
+      <p>
+        Le 11 avril 1918, naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , au foyer de 
+        <placeName ana="Ana_Bayard">Ana Bayard</placeName>
+         et de 
+        <persName ana="Joseph_Colimon">Joseph Colimon</persName>
+        , une fillette qui reçoit les prénoms de Marie-Thérèse. Cette enfant a la chance de grandir et de s’épanouir avec les trois frères et les deux sœurs qui la suivront dans un milieu d’amants de l’étude et de passionnés de lecture.
+      </p>
+      <p>Ses études se déroulent avec succès dans l’établissement laïque des demoiselles Dubé. Marie-Thérèse gardera de ses premières maîtresses le souvenir d’éducatrices hors pair qui lui donneront, en plus des connaissances académiques essentielles, une solide éducation civique et morale, un sens du devoir et de l’éthique professionnelle qui allaient marquer toute sa carrière d’enseignante. Plus que le savoir, plus que l’accumulation des connaissances livresques, c’est cette rectitude morale et cette probité professionnelle qui marqueront toute la trajectoire de cette femme exceptionnelle dont la vocation a tenu dans un seul mot, servir.</p>
+      <p>
+        Mais revenons à la fillette. Dans Mémoire de femmes, elle avoue à 
+        <persName ana="Jasmine_Narcisse">Jasmine Narcisse</persName>
+         Claude : « J’ai commencé à produire très jeune, […] toute ma vie a été remplie de littérature. Ce fut pour moi une passion dévorante dès ma plus tendre enfance, plus précisément dès l’âge de dix ans. Je publiais même à cette époque une petite revue que j’écrivais en entier, que j’illustrais moi-même en couleur, dont je cousais les pages et que je distribuais à mes frères, sœurs, amies et camarades. Il faut avouer que mes parents me soutenaient dans ma vocation, j’étais très bien entourée et je lisais énormément. »
+      </p>
+      <p>
+        Grande dévoreuse de livres, Marie-Thérèse, tout comme ses plus jeunes sœurs Raymonde et 
+        <placeName ana="Mignonne">Mignonne</placeName>
+        , vit dans une atmosphère d’études et de soif d’apprendre qui vont aller en s’amplifiant, encouragée par ses parents et sa tante 
+        <persName ana="Margot_Colimon">
+          <placeName ana="Margot">Margot</placeName>
+           Colimon
+        </persName>
+         (qui, nonagénaire, continuera d’enseigner). Ses études primaires et supérieures terminées, elle se dirige vers l’École Normale d’Institutrices dirigée depuis 1913 par 
+        <persName ana="Marguerite_Marodon">Marguerite Marodon</persName>
+        , elle-même diplômée de l’École Normale Supérieure de Sèvres de 
+        <placeName ana="France">France</placeName>
+        . Cette jeune française, vite devenue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         par son mariage avec 
+        <persName ana="Rene_Lerebours">René Lerebours</persName>
+        , allait, avec un inlassable dévouement, former une quarantaine de promotions d’éducatrices. Nous n’évoquerons ici que quelques condisciples de Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+         mais nous signalerons aussi qu’à côté de 
+        <persName ana="Madame_Lerebours">Madame Lerebours</persName>
+         un corps de professeures haïtiennes aidèrent à former des femmes de cœur, de tête et d’esprit : 
+        <persName ana="Victorine_Latortue">Victorine Latortue</persName>
+        , 
+        <persName ana="Fortuna_Guery">Fortuna Guéry</persName>
+        , 
+        <persName ana="Camille_Munier">Camille Munier</persName>
+        , 
+        <persName ana="Raymonde_Colimon">Raymonde Colimon</persName>
+        , les deux sœurs 
+        <placeName ana="Mayard">Mayard</placeName>
+        , Odette et 
+        <persName ana="Denise_Roy">Denise Roy</persName>
+        , 
+        <persName ana="Paulette_Milfort_Jumelle">Paulette Milfort Jumelle</persName>
+        , 
+        <persName ana="Circe_Douyon">Circé Douyon</persName>
+        , 
+        <persName ana="Lucienne_Douge">Lucienne Dougé</persName>
+         et combien d’autres.
+      </p>
+      <p>
+        À cette époque où les jeunes filles n’étaient pas encore admises aux examens du baccalauréat, les études primaires supérieures débouchaient sur le Brevet Supérieur qui donnait accès aux grandes écoles : 
+        <persName ana="Elie_Dubois">Élie Dubois</persName>
+        , École Normale, même la Faculté de Droit et nous en passons.
+      </p>
+      <p>
+        Voilà donc Marie-Thérèse consacrée éducatrice. Va-t-elle se contenter d’une carrière banale de maîtresse d’école et sombrer dans la routine d’un quotidien grisâtre et monotone ? Que non ! D’abord et surtout elle écrit, en dépit des préjugés de l’époque ou la crainte d’un regard sévère du père Colimon qui pourrait se formaliser que sa fille, une jeune fille « comme il faut », qui ne connaît encore l’amour qu’à travers ces poètes romantiques qu’elle chérit (Hugo, Musset, Vigny, Baudelaire, Verlaine ou Rimbaud), puisse écrire et publier dans les journaux des poèmes lyriques parlant des joies et des souffrances de l’amour. Douée d’une mémoire phénoménale et d’une diction parfaite, elle est invitée dans toutes les réunions culturelles, alors très fréquentes dans les familles, à se produire dans quelques beaux poèmes qu’elle interprète avec sentiment. Et puisqu’une jeune fille « bien » n’écrit pas dans les journaux, elle prendra le pseudonyme de 
+        <persName ana="Marie_Bec">Marie Bec</persName>
+         qui sera d’ailleurs vite dévoilé par des amies curieuses, à la fois jalouses de ce talent naissant et fières d’être parmi les amies d’un écrivain au talent si précoce. Bientôt ce n’est plus un secret pour personne qu’un poète talentueux nous est né.
+      </p>
+      <p>
+        Cependant, l’oiseau doit quitter le nid pour étendre ses ailes. Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+         étudie successivement à 
+        <placeName ana="Bruxelles">Bruxelles</placeName>
+        , à 
+        <placeName ana="Londres">Londres</placeName>
+        , à 
+        <placeName ana="Hambourg">Hambourg</placeName>
+         et surtout au 
+        <persName ana="Centre_De_Formation">Centre de Formation</persName>
+         Pédagogique de 
+        <placeName ana="France">France</placeName>
+         où naît cette vocation qui l’orientera plus tard vers le créneau de l’Éducation Pré-Scolaire. Après deux séjours en 
+        <placeName ana="France">France</placeName>
+        , Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+         est prête à concrétiser son rêve en créant, avec sa parente 
+        <persName ana="Lucienne_Rameau_Leroy">Lucienne Rameau Leroy</persName>
+        , le premier 
+        <persName ana="Centre_De_Formation">Centre de Formation</persName>
+         en Éducation Préscolaire, le CFEP. Entre temps, elle a aussi fondé en 1940 avec sa sœur Raymonde, devenue 
+        <persName ana="Madame_Jean_Boisson">Madame Jean Boisson</persName>
+        , pareillement normalienne, le Collège Colimon-Boisson, une école primaire et secondaire dont 
+        <persName ana="Raymonde_Colimon">Raymonde Colimon</persName>
+         Boisson assumera la direction. Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+         y assure avec brio des cours de français, de littérature française, de dissertation et d’histoire, matières qu’elle a toujours privilégiées jusqu’à la fin de sa carrière. Ses matinées sont pleines, ses soirées et ses nuits aussi puisqu’il faut sans cesse corriger, reprendre les copies des jeunes filles qui leur sont confiées pour leur enseigner cette écriture et ce parler de 
+        <placeName ana="France">France</placeName>
+         qui est alors de rigueur dans toutes les familles, tant soit peu éduquées. Les après-midi aussi sont bien remplies. Elle doit, dès midi, assurer la co-direction et l’administration du CFEP et y dispenser ses cours de 
+        <persName ana="Pedagogie_Prescolaire">Pédagogie Préscolaire</persName>
+         et de Méthodologie, à Bourdon dans un modeste local situé dans l’arrière-cour de son domicile privé.
+      </p>
+      <p>
+        Première promotion, 1966-1968 : 5 élèves. Mais ces dames tiennent bon et les jeunes filles qui se découvrent une vocation d’enseignante et un grand amour de l’enfance, commencent à remplir les modestes salles de classes. En 1966, lorsque Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+         se sépare de son associée 
+        <persName ana="Lucienne_Leroy">Lucienne Leroy</persName>
+         pour assumer seule la direction de cette institution d’enseignement supérieur, le CFEP change de nom et prend celui, plus approprié, d’École Normale de Jardinières d’Enfants (ENJE). Les éducatrices préparées par cette institution atteindront en 2006 le chiffre impressionnant de 40 promotions de diplômées ; pratiquement tous les 300 ou 400 Jardins d’Enfants (écoles préscolaires) qui fonctionnent actuellement en 
+        <placeName ana="Haiti">Haïti</placeName>
+         sont issus de l’ENJE. Nul ne peut contester à Marie-
+        <persName ana="Therese_Colimon">Thérèse Colimon</persName>
+        , devenue entre temps l’épouse du poète et éducateur 
+        <persName ana="Louis Hall_D">Louis D. Hall</persName>
+        , d’être la vraie pionnière de l’éducation préscolaire en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Elle a aussi instauré chez nous en 
+        <placeName ana="Haiti">Haïti</placeName>
+         la section 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de l’OMEP (l’Organisation Mondiale pour l’Éducation Préscolaire). Organisant rencontres, congrès et séminaires, souvent invitée à prononcer des conférences à l’étranger, Marie-
+        <persName ana="Therese_Colimon_Hall">Thérèse Colimon Hall</persName>
+         a porté haut le nom d’
+        <placeName ana="Haiti">Haïti</placeName>
+         dans le domaine de l’éducation en général et de celle de la petite enfance en particulier. Militante sociale, membre actif de notre première association féministe la  Ligue Féminine d’Action Sociale  qu’elle a présidée avec dynamisme pendant plus de dix années, fondant, dans le quartier suburbain de 
+        <placeName ana="Bolosse">Bolosse</placeName>
+        , le Foyer de la Ligue pour jeunes filles de la campagne. Grâce à ses relations, elle obtient de l’association allemande Misereor des fonds qui fournissent à la Ligue Féminine d’Action Sociale  les moyens d’acquérir à 
+        <placeName ana="Cazeau">Cazeau</placeName>
+        , sur la route de Tabarre, un terrain où elle parvient à édifier l’imposant immeuble qui loge encore le Foyer 
+        <persName ana="Alice_Garoute">Alice Garoute</persName>
+         et le Dispensaire 
+        <persName ana="Madeleine_Sylvain">Madeleine Sylvain</persName>
+        , foyer d’accueil et de formation pour jeunes filles rurales et pour les mères, et le Centre de Santé très important pour tous les habitants de cette zone. Soucieuse de l’avenir de son pays, Marie-Thérèse prêtait son secours à tous les mouvements destinés à promouvoir l’éducation des enfants.
+      </p>
+      <p>
+        Cette éducatrice avait par ailleurs un cœur innombrable. Elle saisissait même les souffrances muettes et comprenait avec beaucoup de délicatesse le souci de ses élèves et leurs problèmes même non révélés. Une jeune fille était-elle triste, se cachait-elle pour occulter une rondeur un peu gênante, que 
+        <persName ana="Madame_Hall">Madame Hall</persName>
+         l’appelait à son bureau et la confessait habilement. L’autre avouait son « malheur ». « Malheur, allons donc ! Avoir en enfant c’est un grand 
+        <placeName ana="Bonheur">Bonheur</placeName>
+         et emmenez-moi donc ce jeune homme ». Penaud, les oreilles basses et la queue sous le ventre, le « coupable » venait au bureau de 
+        <persName ana="Madame_Hall">Madame Hall</persName>
+         et en sortait radieux. Tous les professeurs et les amis de l’institution étaient mis à contribution, qui pour la batterie de cuisine, qui pour le linge de 
+        <placeName ana="Maison">Maison</placeName>
+        , qui pour les vêtements, bref, le mariage avait lieu et une gentille réception à l’ENJE avec tout le cérémonial requis, couronnait le 
+        <placeName ana="Bonheur">Bonheur</placeName>
+         du jeune couple. Si un voyou récalcitrant refusait de prendre ses responsabilités de père d’un enfant non désiré, la date des examens officiels publics approchant et la jeune future mère s’alourdissant de plus en plus, 
+        <persName ana="Madame_Marie">Madame Marie</persName>
+        -
+        <persName ana="Therese_Colimon_Hall">Thérèse Colimon Hall</persName>
+        , avant ou après la session officielle, faisait comparaître seule la jeune femme embarrassée, devant un jury ad hoc, composé spécialement pour elle. L’étudiante pouvait alors présenter mémoire, albums et projets de sortie à l’abri des quolibets et des curiosités méchantes et à la graduation, bien emmitouflée dans la grande toge cérémoniale, elle recevait son diplôme avec toutes ses compagnes.
+      </p>
+      <p>
+        Il faudrait faire relire à toutes les postulantes en éducation un des plus beaux poèmes de Marie-
+        <persName ana="Therese_Colimon_Hall">Thérèse Colimon Hall</persName>
+        , « Où sont les enfants ». Ce texte émouvant peint mieux que tout autre la superbe figure d’une femme exceptionnelle qui servit la jeunesse de son pays avec les plus belles qualités qu’une éducatrice puisse espérer avoir : dévouement, probité intellectuelle et surtout amour. Et que dire encore sinon parler de ses gestes, cette aide pécuniaire qu’elle accordait à plus d’une avec tant de discrète générosité dans le cœur. Et le secret ponctué de ce sourire retenu qui n’appartenait qu’à cette femme au cœur d’or et à la main consolante ? Amour inconditionnel de notre 
+        <placeName ana="Terre">Terre</placeName>
+         d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Amour du savoir. Amour de l’enfance 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , amour de la vie.
+      </p>
+      <p>
+        La maladie cruelle nous a repris 
+        <persName ana="Madame_Marie">Madame Marie</persName>
+        -
+        <persName ana="Therese_Colimon_Hall">Thérèse Colimon Hall</persName>
+         en avril 1997 quelques jours après son 79e anniversaire mais elle vivra éternellement dans nos 
+        <placeName ana="Memoires">Mémoires</placeName>
+         tant qu’il restera sur notre 
+        <placeName ana="Terre">Terre</placeName>
+         d’
+        <placeName ana="Haiti">Haïti</placeName>
+         de ces éducatrices auxquelles elle a inculqué le sens profond du mot servir.
+      </p>
+      <p>L’auteur de ces lignes qui eut le privilège d’être pendant 25 ans sa plus proche collaboratrice est heureuse de rendre à cette femme exceptionnelle, à cette étoile de première grandeur de notre firmament littéraire, ce profond hommage d’admiration et de gratitude.*</p>
+      <p>
+        <persName ana="Merci_Marie">
+          <placeName ana="Merci">Merci</placeName>
+           Marie
+        </persName>
+        -
+        <persName ana="Therese_Colimon_Hall">Thérèse Colimon Hall</persName>
+         d’avoir été ce phare, ce guide, ce modèle et puisse les générations futures suivre votre lumineux sillage dans la voie royale de l’éducation des enfants d’
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        * hommage rédigé pour Île en île à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , novembre 2005.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.marie-therese-colimon-hall.14080.html" xml:id="Marie_Therese_Colimon_Hall_bio_auteur_spla">
+      <p>
+        Le 11 avril 1918, naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <placeName ana="Haiti">Haïti</placeName>
+        , au foyer de 
+        <placeName ana="Ana_Bayard">Ana Bayard</placeName>
+         et de 
+        <persName ana="Joseph_Colimon">Joseph Colimon</persName>
+        , une fillette qui reçoit les prénoms de Marie-Thérèse. Cette enfant a la chance de grandir et de s'épanouir avec les trois frères et les deux sœurs qui la suivront dans un milieu d'amants de l'étude et de passionnés de lecture. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Marie_Therese_Colimon_Hall_biblio">
+    <div ref="http://ile-en-ile.org/colimon-hall/" xml:id="Marie_Therese_Colimon_Hall_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>« A Pottage of Lentils ». Trad. Lizabeth Paravisini-Gebert. Green Cane and Juicy Flotsam; Short Stories by Caribbean Women, Lizabeth Paravisini-Gebert and Carmen Esteves, eds. New Brunswick: Rutgers University Press, 1992: 41-55.</item>
+      </list>
+      <list subtype="en español">
+        <item>« Un potaje de lentejas ». Trad. Lizabeth Paravisini-Gebert et Carmen Esteves. Los Fantabulosos Vuelos; Antología de relatos de autoras caribeñas. Eds. Lizabeth Paravisini-Gebert y Carmen Esteves. Barcelona: Verdecielo Ediciones, 2005: 135-149.</item>
+      </list>
+      <list subtype="roman">
+        <item>Fils de misère. Port-au-Prince: Éditions Caraïbes, 1974, 200 pages.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>Le Chant des Sirènes. Port-au-Prince: Éditions du Soleil, 1979, 149 pages.
+Du recueil, la nouvelle « Le plat de lentilles » est republiée dans Conjonction 177-178-179 (1988) et « Bonjour, Maman, Bonne fête, Maman ! » dans Diversité:  La nouvelle francophone. Eds. James Gaasch and Valérie Budig-Markin. Boston: Houghton Mifflin, 1995, 22-29; 2nd edition, 2000: 11-21.
+</item>
+      </list>
+      <list subtype="poésie">
+        <item>Mon cahier d’écritures; choix de poèmes. Port-au-Prince: Ateliers Fardin, 1973, 27 pages.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>La Fille de l’esclave, pièce « patriotique » en trois actes pour jeunes filles. Port-au-Prince: Dandin Frères, 1949.
+Mise en scène par Raymonde Colimon Boisson, reprise régulièrement par les établissements d’Études Secondaires pour jeunes filles. Mises en scène par Paulette Poujol Oriol : Collège St François d’Assise, 1974; Collège la Charité de Saint-Louis, 1980, reprise au théâtre « Sanité et Charles Bel Air » à l’hôtel Moulin Sur Mer à l’occasion de l’inauguration de l’auditorium « 1804 ». Mise en scène par Marie-Claude Laforêt : Institution Sainte-Rose de Lima, 1996. Mise en scene par Emmanuelle Eugène Sainvil : Ti Moun Art, l’école d’art dramatique, 2005.
+</item>
+      </list>
+      <list subtype="essais, articles sélectionnés">
+        <item>L’émancipation de la jeune fille (êtes-vous pour ou contre?). Communication présentée au Congrès national des femmes haïtiennes le 11 avril 1950, livret de 17 pages.</item>
+      </list>
+      <list subtype="enregistrement sonore">
+        <item>« Haitian poet Marie-Thérèse Colimon Hall reading from her work ». Lecture de poésie (en français), enregistrée le 4 janvier 1980 à Port-au-Prince. 2 bobines (enregistrement analogue). Archive of Hispanic Literature on Tape, Library of Congress, Washington, D.C.</item>
+      </list>
+      <list subtype="ouvrages didactiques">
+        <item>Mon premier livre de morale et d’hygiène  en 18 leçons (approuvé par le département de l’Éducation Nationale le 31 octobre 1956 pour les cours préparatoire et élémentaire, de 6 à 10 ans). Port-au-Prince: Deschamps, 1956- , 117 pages.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1975     Prix littéraire France-Haïti, pour Fils de misère.</item>
+      </list>
+      <list subtype="sur l’oeuvre de marie-thérèse colimon-hall">
+        <item>Berrou, F. Raphaël et Pradel Pompilus. Histoire de la littérature haïtienne, illustrée par les textes. Paris: Caraïbes, 1974: Tome 3, 613-617.
+Notice biographique et extrait de Fils de misère.
+</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Marie_Therese_Colimon_Hall_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/marie-therese-colimon-hall-bonjour-maman-bonne-fete-maman/">Bonjour, Maman, Bonne fête, Maman !</item>
+      <item ref="http://ile-en-ile.org/colimon-hall-poesie/">Mon pays</item>
+      <item ref="http://ile-en-ile.org/marie-therese-colimon-hall-temoignage-stephane-martelly/">Témoignage</item>
+      <item ref="http://english.chass.ncsu.edu/jouvert/v7is1/con71.htm">Haitians in the City: Two Modern-Day Trickster Tales</item>
+      <item ref="http://www.jasminenarcisse.com/memoire/11_litterature/03_marie-therese.html">Marie-Thérèse Colimon-Hall</item>
+    </list>
+  </div>
+</TEI>

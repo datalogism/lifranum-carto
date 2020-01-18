@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Maurice_Casseus_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Maurice_Casseus" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Maurice Cass�us</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Maurice Casséus</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Maurice_Casseus_fiche_autorite">
+  <div n="1" xml:id="Maurice_Casseus_fiche">
     <person ana="Maurice_Casseus" sex="na">
-      <persName>Maurice Cass�us</persName>
+      <persName>Maurice Casséus</persName>
       <death source="ile_en_ile_auto">
         <date>1963-01-01 00:00:00+00:00</date>
       </death>
@@ -33,5 +33,207 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Maurice_Casseus_bio">
+    <text hand="Valérie Kaussen" ref="http://ile-en-ile.org/casseus/" xml:id="Maurice_Casseus_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Maurice Casseus_A">Maurice A. Casséus</persName>
+         est né en 1909 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il a fait ses études à l’Institution Saint-
+        <persName ana="Louis_De_Gonzague">Louis de Gonzague</persName>
+        , au Petit Séminaire Collège Saint 
+        <placeName ana="Martial">Martial</placeName>
+         et au Lycée 
+        <placeName ana="Petion">Pétion</placeName>
+        , lycée dans lequel il a passé quelques années à enseigner. Casséus a habité pendant plusieurs années à 
+        <placeName ana="New_York">New York</placeName>
+         avant de s’installer à 
+        <placeName ana="Londres">Londres</placeName>
+         où il était chargé d’affaires pour l’ambassade 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et où il est mort en 1963.
+      </p>
+      <p>
+        Poète et romancier, Casséus a publié trois ouvrages: un roman intitulé Viejo (1935), un recueil de poèmes, Entre les lignes (1933), et un roman paysan, Mambo (1949). Viejo est son œuvre la plus connue, souvent l’objet de références dans les ouvrages d’histoire littéraire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et les critiques de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>
+        Le célèbre ethnologue et politicien haïtien 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         a écrit l’introduction à Viejo, dans laquelle il a dit à propos du talent de Casséus: «le VIEJO qu’il présente à notre délectation est un long et troublant poème où se reflète comme en un miroir fidèle l’existence dramatique des parias qui grouillent dans les quartiers interlopes de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        » [1]. L’action du récit se déroule pendant l’occupation américaine (1915-1934), et ainsi Viejo fait partie de cette catégorie de fiction dite «roman de l’occupation» qui inclut Le Choc (1932) de 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+        , Le Nègre masqué (1933) de 
+        <persName ana="Stephen_Alexis">Stéphen Alexis</persName>
+         et Le Joug (1934) d’
+        <persName ana="Annie_Desroy">Annie Desroy</persName>
+         (entre autres). Mais Viejo se distingue de ces derniers par son intérêt pour le milieu ouvrier, et pour cette raison François-
+        <persName ana="Leon_Hoffmann">
+          Léon 
+          <placeName ana="Hoffmann">Hoffmann</placeName>
+        </persName>
+        , pour reprendre 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , le classe en tant que roman prolétaire [2]. Le personnage principal est un «viejo» ou coupeur de canne à sucre récemment de retour de 
+        <placeName ana="Cuba">Cuba</placeName>
+         où il a passé plusieurs années à travailler dans des conditions rappelant l’esclavage d’une époque révolue. Viejo est donc autant un récit de l’occupation qu’un roman précurseur tels que Gouverneurs de la rosée (1944) de 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         et 
+        <persName ana="Compere_General_Soleil">Compère Général Soleil</persName>
+         (1955) de Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+         qui tous les deux représentent de la même façon le milieu des ouvriers 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à la recherche de travail dans les plantations de canne à sucre des pays hispanophones voisins. Véritables creusets d’impérialisme américain aux 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        , les plantations sont en même temps des endroits quasi-cosmopolites où l’identité de l’ouvrier haïtien se créolise à force de contacts avec une main-d’œuvre venant d’autres pays antillais.
+      </p>
+      <p>
+        En dépit de ce contexte régional, la plupart du récit de Viejo se déroule à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         où le personnage principal, un coupeur de canne qui s’appelle Mario, fait la connaissance de 
+        <persName ana="Claude_Servin">Claude Servin</persName>
+        , jeune homme instruit et petit bourgeois dont les horizons sont limités à cause de sa peau noire trop foncée. Claude présente son nouvel ami à un groupe d’étudiants qui participent aux manifestations de l’école d’agriculture de 
+        <placeName ana="Damiens">Damiens</placeName>
+        . La fiction ici s’inspire d’un événement historique réel, ces manifestations de 1928 étant le moment qui a marqué le début de la fin de l’occupation. Mario se rallie à leur cause et la grève se répand à travers le pays. Mais tout finit mal pour les personnages de Viejo bien que, comme nous le savons bien, l’occupation finisse quelques années après la grève nationale organisée et déclenchée par les étudiants de 
+        <placeName ana="Damiens">Damiens</placeName>
+        : Claude moisit en prison, pendant que Mario devient ivrogne, descente rapide qui aboutit au meurtre de l’amant blanc américain de sa fiancée, Olive.
+      </p>
+      <p>
+        Dans Viejo, Casséus, en représentant les basses couches de la société 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , s’appuie fortement sur les éléments africains d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , célébrés à l’époque grâce aux efforts du mouvement indigéniste et de leur «maître», le docteur 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , qui a dénoncé la tendance chez les 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         à dénigrer leur culture nationale en faveur des modèles d’origine européenne. Cette célébration de la culture africaine se trouve également dans plusieurs poèmes de Casséus, surtout dans le «
+        <persName ana="Tambour_Racial">Tambour Racial</persName>
+        », où il écrit, «c’est toi, pauvre nègre et ta déchéance millénaire,/ que tu traînes sur cette 
+        <placeName ana="Terre">Terre</placeName>
+         inconnue/À travers des siècles d’amertume» [3]. À propos de ce dernier, 
+        <persName ana="Michael Dash_J">J. Michael Dash</persName>
+         maintient qu’il nous renvoie à l’esthétique africaniste extrême du noirisme, mouvement cultural et politique mené par 
+        <persName ana="Francois_Duvalier">François Duvalier</persName>
+         et 
+        <persName ana="Lorimer_Denis">Lorimer Denis</persName>
+         et qui a fait suite à l’indigénisme au moment où les intellectuels qui y étaient associés se sont dispersés [4].
+      </p>
+      <p>Quoi qu’il en soit, dans son œuvre peu fournie mais riche en significations historiques, Casséus réunit plusieurs questions et revendications culturelles et politiques de l’époque, ce qui fait de lui un écrivain méritant une attention critique plus importante.</p>
+      <p>
+        1. 
+        <persName ana="Jean_Price">
+          Jean 
+          <placeName ana="Price">Price</placeName>
+        </persName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        . Introduction. Viejo par 
+        <persName ana="Maurice_Casseus">Maurice Casséus</persName>
+        . Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        : Éditions 
+        <placeName ana="La_Presse">La Presse</placeName>
+        , 1935.
+2. Voir 
+        <placeName ana="Hoffmann">Hoffmann</placeName>
+        , Léon-François. Le Roman haïtien: Idéologie et Structure. 
+        <placeName ana="Sherbrooke">Sherbrooke</placeName>
+        , 
+        <placeName ana="Canada">Canada</placeName>
+        : 
+        <placeName ana="Naaman">Naaman</placeName>
+        , 1982, p. 119.
+3. « 
+        <persName ana="Tambour_Racial">Tambour Racial</persName>
+         », publié dans 
+        <placeName ana="Les_Griots">Les Griots</placeName>
+         en 1939, réimprimé dans 
+        <placeName ana="Panorama">Panorama</placeName>
+         de la Poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , éd. 
+        <persName ana="Carlos_St_Louis">Carlos St. Louis</persName>
+         et 
+        <persName ana="Maurice Lubin_A">Maurice A. Lubin</persName>
+         (Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        : 
+        <placeName ana="Deschamps">Deschamps</placeName>
+        , 1950, pp. 402-3).
+4. Voir 
+        <persName ana="Michael Dash_J">J. Michael Dash</persName>
+        . Literature and Ideology in 
+        <placeName ana="Haiti">Haiti</placeName>
+        , 1915-61. London: The Macmillan Press, 1981, p. 99.
+      </p>
+      <p>
+        Bibliographie adaptée de celle de Léon-
+        <persName ana="Francois_Hoffmann">
+          François 
+          <placeName ana="Hoffmann">Hoffmann</placeName>
+        </persName>
+        . Bibliographie des études littéraires haïtiennes, 1804-1984. 
+        <placeName ana="Vanves">Vanves</placeName>
+        : EDICEF, 1992.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.maurice-casseus.14070.html" xml:id="Maurice_Casseus_bio_auteur_spla">
+      <p>
+        <persName ana="Maurice Casseus_A">Maurice A. Casséus</persName>
+         est né en 1909 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Il a fait ses études à l'Institution Saint-
+        <persName ana="Louis_De_Gonzague">Louis de Gonzague</persName>
+        , au Petit Séminaire Collège Saint 
+        <placeName ana="Martial">Martial</placeName>
+         et au Lycée 
+        <placeName ana="Petion">Pétion</placeName>
+        , lycée dans lequel il a passé quelques années à enseigner. Casséus a habité pendant plusieurs années à 
+        <placeName ana="New_York">New York</placeName>
+         avant de s'installer à 
+        <placeName ana="Londres">Londres</placeName>
+         où il était chargé d'affaires pour l'ambassade 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et où il est mort en 1963. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Maurice_Casseus_biblio">
+    <div ref="http://ile-en-ile.org/casseus/" xml:id="Maurice_Casseus_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item>Viejo. Port-au-Prince: Éditions la Presse, 1935.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Entre les lignes, proses. Port-au-Prince: Éditions La Presse, 1933.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Maurice_Casseus_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/maurice-casseus-viejo/">Viejo</item>
+    </list>
   </div>
 </TEI>

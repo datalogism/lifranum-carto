@@ -1,25 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Justin_Lherisson_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Justin_Lherisson" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Justin Lh�risson</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Justin Lhérisson</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Justin_Lherisson_fiche_autorite">
+  <div n="1" xml:id="Justin_Lherisson_fiche">
     <person ana="Justin_Lherisson" sex="na">
-      <persName>Justin Lh�risson</persName>
+      <persName>Justin Lhérisson</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Justin_Lherisson_bio">
+    <text ref="http://ile-en-ile.org/lherisson/" xml:id="Justin_Lherisson_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , le 10 février 1873, et est mort dans la même ville, le 15 novembre 1907. Dans sa très courte vie, 34 ans, il n’a donc pas eu le temps de publier de nombreux ouvrages. Par contre il eut le temps de s’illustrer dans le journalisme, à une époque, ce temps des baïonnettes, où il ne faisait pas bon pour ceux qui écrivaient de toucher à la politique. Pourtant c’est dans le journalisme politique qu’il fit sa marque.
+      </p>
+      <p>
+        <persName ana="Dantes_Bellegarde">
+          Dantès 
+          <placeName ana="Bellegarde">Bellegarde</placeName>
+        </persName>
+         – qui fut de la même génération que Lhérisson et le connut bien – a décrit le style de journalisme qu’il pratiquait : « En 1899, il fonda le quotidien Le Soir. C’est là qu’il faut chercher l’homme, l’écrivain, l’ironiste… Il avait inventé un genre d’article, qui n’appartenait qu’à lui : chaque lundi il écrivait une “petite revue”, dans laquelle il était censé résumer tous les faits importants de la semaine écoulée. Cela n’avait pas plus de quinze lignes, mais c’était de la critique quintessenciée, concentrée, sublimée. Il n’y disait rien, et cependant on y lisait tout, et quelque chose encore. La phrase la plus anodine était hérissée d’intentions malignes. Dans les milieux gouvernementaux, on disséquait ces articles du lundi pour essayer d’y découvrir la parole imprudente qui pût justifier quelque mesure violente contre le 
+        <placeName ana="Directeur">Directeur</placeName>
+         du Soir. Mais Lhérisson restait insaisissable. »
+      </p>
+      <p>
+        Cette analyse de style nous indique bien ce qui caractérise l’homme et son œuvre. Parler par parabole et user de la litote pour ironiser sont les traits de l’art d’écrire de 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         qui expliquent sa fortune littéraire et la place importante qu’il occupe dans la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+      <p>
+        Cette fortune littéraire tient paradoxalement à deux minces romans, « deux audiences » plus exactement, La Famille  des Pitite-Caille  (1905) et 
+        <placeName ana="Zoune">Zoune</placeName>
+         chez sa ninnaine  (1906). Si l’on ne fait pas rentrer dans le cadre de la littérature ses écrits journalistiques, Lhérisson a d’abord été un poète, auteur de trois recueils de poésie : 
+        <persName ana="Myrtha">Myrtha  </persName>
+        (1892), Les chants de l’aurore (1893) et 
+        <placeName ana="Passe">Passe</placeName>
+        -Temps  (1893). La poésie de Lhérisson, écrite dans le goût parnassien qui avait les faveurs des poètes 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         de la fin du XlXè siècle, n’aurait sans doute laissé aucune trace, n’était-ce le fait que Lhérisson est l’auteur des paroles de La Dessalinienne  (1903). À l’approche du Centenaire de l’indépendance, on avait ouvert un grand concours pour la composition des paroles et de la musique de ce qui allait devenir l’hymne national d’
+        <placeName ana="Haiti">Haïti</placeName>
+        . Lhérisson remporta la palme, pour les paroles, et 
+        <persName ana="Nicolas_Geffrard">
+          Nicolas 
+          <placeName ana="Geffrard">Geffrard</placeName>
+        </persName>
+        , pour la musique.
+      </p>
+      <p>
+        Mais si nous gardons mémoire de Lhérisson comme écrivain, c’est avant tout pour ses deux récits publiés en 1905 et en 1906. Grâce à eux, il fait figure d’innovateur, préfigurant même, et par l’exemple, les prescriptions théoriques que 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+         édictera en 1928, dans son essai, Ainsi parla l’oncle. Par son art de la narration, son esthétique savante et populaire à la fois, ses audaces linguistiques, ses positions politiques traduites dans sa thématique, il a fait naître à l’écrit un genre populaire oral, les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        , ou en français, « l’audience », et donné de la sorte une couleur et une perspective propres à la littérature romanesque 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Ses deux audiences, La famille des Pitite-Caille  et 
+        <placeName ana="Zoune">Zoune</placeName>
+         chez sa ninnaine  marquent un tournant de la littérature narrative en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Au début de sa préface de La Famille  des Pitite-Caille, 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         affirme sans ambages son intention de créer un genre narratif nouveau dans l’écriture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de langue française. « Allez-y carrément ; ce genre nouveau plaira » fut, selon ce qu’il nous rapporte, la réaction de ses premiers lecteurs. « Cette  audience, poursuit-il, a eu la vertu de dérider les fronts les plus graves ». Ce qu’il appelait genre nouveau, pour les récits écrits en langue française, était un genre de récit, bien connu dans l’oraliture populaire 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         : les 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        .
+      </p>
+      <p>
+        Le fait qu’il s’adresse, dans sa préface, à 
+        <persName ana="Fernand_Hibbert">Fernand Hibbert</persName>
+        , un ami et romancier comme lui, et qu’il le cite comme reconnaissant en lui l’auteur de ce genre nouveau de l’audience dans la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de langue française serait déjà un argument en faveur de l’idée d’attribuer à Lhérisson la paternité du genre de l’audience. Mais il suffit de comparer Sena, le roman que 
+        <persName ana="Fernand_Hibbert">Fernand Hibbert</persName>
+         publie en 1905, la même année de la parution de La Famille  des Pitite-Caille, avec ce dernier récit pour faire la différence entre la manière de chacun des deux auteurs.
+      </p>
+      <p>
+        Dans la brève introduction qu’il place au début de 
+        <placeName ana="Sena">Séna</placeName>
+        ,  appelé d’ailleurs roman, Hibbert ne revendique aucunement la paternité d’un genre nouveau de récit. Il fait plutôt une affirmation qui laisserait entendre qu’il s’est laissé aller à suivre la tradition romanesque sans chercher à innover forcément : « On le croira difficilement, mais j’ai écrit ces « Scènes de la vie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         » malgré moi. Je les publie, malgré moi ». Coquetterie d’écrivain ? Cette spontanéité qu’Hibbert revendique fait contraste en tout cas avec la claire conscience de ses intentions et de ses moyens dont Lhérisson fait montre.
+      </p>
+      <p>
+        En effet, il ne se contente pas d’avoir des prétentions. Il les justifie par les procédés d’écriture qu’il met au service de ce genre nouveau qu’il crée. Dès les premières lignes de La Famille  des Pitite-Caille, Lhérisson met en place la structure de narration que l’on retrouve dans les kont et 
+        <placeName ana="Lodyans">Lodyans</placeName>
+         de l’oraliture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . On y retrouve l’étagement des voix narratives qui fait du récit une narration à emboîtement. Ce qui permet au narrateur extradiégétique, à la fin du récit, par une sorte de remontée de la mise en abyme, de nous renvoyer au narrateur supra-diégétique qui constitue celui qui lui avait délégué la parole. Nous avons donc un récit où la narration est encadrée par deux références à sa source. « 
+        <placeName ana="Golimin">Golimin</placeName>
+         est un de mes vieux amis. Il sait tout… ». Voici comment la narration commence dans La Famille  des Pitite-Caille. Et à la dernière ligne, nous lisons : « Sur ce, je pris congé de 
+        <placeName ana="Golimin">Golimin</placeName>
+        … ». Le je qui raconte renvoie, au début et à la fin de son récit au même il qui sait tout et qui lui fait d’ailleurs la promesse suivante : « Il m’a formellement promis de me conter encore des histoires aussi instructives… ». Le narrateur extradiégétique, une fois 
+        <placeName ana="Golimin">Golimin</placeName>
+         parti, se dépêche de venir nous raconter ce qu’il a entendu comme dans les contes populaires où le narrateur, lui aussi, est dépêché pour venir nous conter son histoire.
+      </p>
+      <p>
+        Cette finale annonce par ailleurs une relance du récit. Il met donc en place un cycle de récits qui s’enchaîneront moins par la présence des mêmes personnages que par la fonction qu’ils sont censés remplir dans : « ces histoires aussi instructives », comme il est précisé. De fait 
+        <placeName ana="Zoune">Zoune</placeName>
+         chez sa ninnaine  commence de la façon suivante :
+      </p>
+      <p>
+        Nous parlions des mœurs d’autrefois et des mœurs d’aujourd’hui…
+– Tu veux en faire la comparaison, me dit 
+        <placeName ana="Golimin">Golimin</placeName>
+         ?
+      </p>
+      <p>
+        Et puis on sait que Lhérisson devait faire suivre 
+        <placeName ana="Zoune">Zoune</placeName>
+         chez sa ninnaine  de 
+        <placeName ana="Zoune">Zoune</placeName>
+         dans la vie  mais que la mort l’en empêcha.
+      </p>
+      <p>
+        Cette dimension cyclique d’une histoire à épisodes est importante quand nous comparons la taille des deux romans. Sans être de la dimension d’une nouvelle, La Famille  des Pitite-Caille  n’a pas la longueur de 
+        <placeName ana="Sena">Séna</placeName>
+        . Celui-ci s’apparente davantage à un roman traditionnel bien étoffé et d’une longueur suffisante pour épuiser la trame de l’histoire individuelle que l’on veut raconter. Ainsi la longueur du récit chez Lhérisson n’a pas pour but de faire court mais de permettre de relancer le cycle des « histoires instructives ». Par là, l’audience de Lhérisson s’apparente bien aux 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . (Je préfère utiliser ce mot au pluriel au lieu de lui accoler un genre masculin ou féminin qu’il n’a pas en langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .)
+      </p>
+      <p>
+        Là où l’audience chez Lhérisson en même temps qu’il s’appuie sur la tradition populaire s’en sert pour innover, c’est par son usage de la diglossie franco-
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Plus poussé chez Lhérisson que chez Hibbert, l’usage de l’haïtien, comme mode d’expression des personnages mais aussi comme outil de représentation de leur comportement, de leur psychologie et de leur idiosyncrasie est systématique. Autrement dit, il ne s’agit pas d’une simple parure de la phrase française mais d’un moyen de raconter à l’
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         un récit mettant en scène la vie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Cela est intentionnellement organisé à des fins esthétiques : faire rire en instruisant, castigat ridendo mores, aurait-on dit en d’autres temps. Et c’est ainsi que Lhérisson réussit à faire passer la dynamique de l’oralité dans le statique de l’écriture.
+      </p>
+      <p>
+        Ces différences de structures narratives et de styles dans leurs écrits ne doivent pas nous faire perdre de vue que Lhérisson et Hibbert, avec plusieurs de leurs contemporains, 
+        <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+         et 
+        <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+         notamment, participaient d’une même mouvance. En 1901, quelque temps avant que Lhérisson et Hibbert ne publient leurs récits, 
+        <persName ana="Georges_Sylvain">Georges Sylvain</persName>
+         avait fait paraître Cric? Crac!, « recueil de 
+        <persName ana="Fables_De_La_Fontaine">Fables de La Fontaine</persName>
+         racontées par un Montagnard haïtien et transcrites en vers créole » et 
+        <persName ana="Antoine_Innocent">Antoine Innocent</persName>
+        , avec Mimola (1906), sera le premier à faire du vodoun le thème central d’un roman haïtien.
+      </p>
+      <p>
+        Parmi les écrivains de sa génération qui ont été des pionniers en ouvrant, au début du XXe siècle, de nouvelles voies à la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         fait figure de précurseur. Moins d’un demi siècle après la parution de La Famille  des Pitite-Caille, le genre de « l’audience » faisait école et servait de modèle. En 1948, Jean-
+        <persName ana="Baptiste_Cineas">
+          <placeName ana="Baptiste">Baptiste</placeName>
+           
+          <placeName ana="Cineas">Cinéas</placeName>
+        </persName>
+        , qui avait été un des premiers à faire paraître des romans paysans, dans la foulée des recommandations de 
+        <placeName ana="Price">Price</placeName>
+        -
+        <placeName ana="Mars">Mars</placeName>
+        , publiait Le choc en retour, récit qu’il appelait roman mais qu’il aurait voulu qu’on considérât comme une « audience » selon ce qu’il confesse dans sa préface :
+      </p>
+      <p>
+             
+        <placeName ana="Pathologie">Pathologie</placeName>
+         également, ma passion de « l’audience ». Ah ! L’audience 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Notre seule originalité, notre plus belle invention, notre plus douce consolation, notre principale raison de vivre ! J’ai essayé, et à plus d’une reprise, de définir, d’analyser ce genre qui a pris naissance et s’est développé en notre milieu, avec une vigueur prodigieuse… Si l’audience est séduisante et embrasse tous les genres, ai-je proclamé en substance, les ausienciers sont toujours sympathiques et se révèlent poètes et combien humains ! J’en atteste 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         et sa merveilleuse audience : LA FAMILLE DES PITITE-CAILLE.
+Ce mince volume est un grand livre, et, sans conteste, le chef-d’œuvre de l’audience que les auteurs dédaignent presque toujours de recueillir par écrit. Il sera lu – et avec quelle volupté ! – alors que des livres plus prétentieux seront, depuis longtemps, effacés de la mémoire de l’homme haïtien. Sans honte, j’avoue en avoir fait mon livre de chevet : depuis quarante ans près, je garde jalousement – par quel miracle ! – mon exemplaire de la première édition et je le relis, une fois par trimestre – quand il me plait de revenir sur le passé – et avec un plaisir toujours vierge.
+La grande ambition de ma vie serait de réaliser une pâle copie du maître-audiencier. Mais n’est pas 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         qui veut !
+      </p>
+      <p>
+        La figure de Lhérisson comme précurseur était donc reconnue et proclamée. En 1950, 
+        <persName ana="Andre Chevallier_F">André F. Chevallier</persName>
+         et 
+        <persName ana="Luc_Grimard">Luc Grimard</persName>
+         emboitaient le pas à 
+        <placeName ana="Cineas">Cinéas</placeName>
+         en publiant 
+        <placeName ana="Bakoulou">Bakoulou</placeName>
+        , une « audience folklorique ». Et depuis on a vu aussi bien en haïtien, avec 
+        <persName ana="Maurice_Sixto">
+          Maurice 
+          <placeName ana="Sixto">Sixto</placeName>
+        </persName>
+        , vers 1980 que tout récemment, en 2000, en français, avec 
+        <persName ana="Georges_Anglade">Georges Anglade</persName>
+        , se poursuivre l’illustration et la défense de ce genre nouveau que lançait 
+        <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
+         en 1905.
+      </p>
+      <p>
+        Mais l’influence de Lhérisson ne se circonscrit pas aux seuls auteurs d’audiences ou de 
+        <placeName ana="Lodyans">Lodyans</placeName>
+        . Le récit de type diglottique auquel Lhérisson a donné se lettres de créances a préparé la voie à la manière dont 
+        <persName ana="Jacques_Roumain">Jacques Roumain</persName>
+         a su écrire l’haïtien en français. Dans Gouverneurs de la rosée, Roumain a porté ce style d’écriture à sa perfection en le rendant capable de traduire non plus seulement le rire et la caricature mais l’émotion et l’admiration aussi bien que l’indignation et la détresse. Il l’a fait passer au haut de gamme des sentiments après l’ironie et la raillerie des récits de Lhérisson. Ce style nouveau, accompagnant un genre nouveau, n’était plus seulement une voie qui s’ouvrait mais un sillon qui sera depuis largement labouré par les écrivains antillais de la créolité.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Justin_Lherisson_biblio">
+    <div ref="http://ile-en-ile.org/lherisson/" xml:id="Justin_Lherisson_biblio_auteur_ile_en_ile">
+      <list subtype="romans">
+        <item> La famille des Pitite-Caille. (Les fortunes de chez nous) Port-au-Prince: Héraux, 1905; Paris: Firmin-Didot, 1929; Port-au-Prince: Imprimerie des Antilles, 1963; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
+      </list>
+      <list subtype="sur justin lhérisson">
+        <item>Anglade, Georges. « Fiction et subversion dans la lodyans ». Leurs jupons dépassent. Montréal: Lanctôt, 2004: 129-131.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Justin_Lherisson_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/justin-lherisson-les-parents-de-zoune/">Les Parents de Zoune</item>
+      <item ref="http://homepage.mac.com/chemla/fic_doc/pititecaille.html">La Famille des Pitite-Caille</item>
+    </list>
   </div>
 </TEI>

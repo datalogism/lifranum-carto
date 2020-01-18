@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Jean_Euphele_Milce" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Jean Euphèle Milcé</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Jean_Euphele_Milce_fiche">
+    <person ana="Jean_Euphele_Milce" sex="na">
+      <persName>Jean Euphèle Milcé</persName>
+      <birth source="viaf">
+        <date>1969-01-14</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="viaf">authors black</occupation>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="PropheTe_Emmelie">
+          <persName>Prophète Emmelie</persName>
+        </person>
+        <person ana="Orcel_Makenzy">
+          <persName>Orcel Makenzy</persName>
+        </person>
+        <person ana="Moncrieff_Christopher">
+          <persName>Moncrieff Christopher</persName>
+        </person>
+        <person ana="JourneE_De_ReFlexion_Sur_&quot;Un_Leadership_GonaiVien_Pour_Un_DePartement_En_ProgreS&quot;_2011_:_GonaiVes_Haiti">
+          <persName>Journée de réflexion sur &quot;Un leadership Gonaïvien pour un département en progrès&quot; 2011 : Gonaïves Haiti</persName>
+        </person>
+        <person ana="Amisial_Jean_Osner">
+          <persName>Amisial Jean Osner</persName>
+        </person>
+        <person ana="Douge_Patrice">
+          <persName>Dougé Patrice</persName>
+        </person>
+        <person ana="Corsini_Silvio">
+          <persName>Corsini Silvio</persName>
+        </person>
+        <person ana="Bibliotheque_Cantonale_Et_Universitaire_Lausanne">
+          <persName>Bibliothèque cantonale et universitaire Lausanne</persName>
+        </person>
+        <person ana="Bernard_Campiche_Editeur">
+          <persName>Bernard Campiche Éditeur</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Jean_Euphele_Milce_bio">
+    <text ref="http://ile-en-ile.org/milce/" xml:id="Jean_Euphele_Milce_bio_auteur_ile_en_ile">
+      <p>
+        Jean-
+        <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+         naît à 
+        <placeName ana="Passe">Passe</placeName>
+        -Reine, 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         le 14 janvier 1969. Il fait des études de linguistique appliquée et de gestion de l’information à l’Université d’État d’
+        <placeName ana="Haiti">Haïti</placeName>
+         et à l’Université de Fribourg en 
+        <placeName ana="Suisse">Suisse</placeName>
+        .
+      </p>
+      <p>
+        Il dirige la Bibliothèque 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         des Pères du Saint-Esprit de 1996 à 2000 et la Bibliothèque interculturelle de Fribourg, en 
+        <placeName ana="Suisse">Suisse</placeName>
+        , de 2004 à 2006. Il collabore également au Département de manuscrit et de la Bibliothèque centrale de l’Université de Lausanne.
+      </p>
+      <p>
+        Son roman, l’Alphabet des nuits, paru en 2004, obtient le Prix Georges Nicole en 
+        <placeName ana="Suisse">Suisse</placeName>
+         et est finaliste du Prix 
+        <placeName ana="Prince">Prince</placeName>
+         Pierre de Monaco entre autres. L’univers de Jean-
+        <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+         est construit autour des drames de l’exil et des incertitudes de la traversée.
+      </p>
+      <p>
+        Jean-
+        <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+         vit en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et travaille sur des projets de mise en place d’infrastructures culturelles publiques. Il est président du 
+        <placeName ana="Pen_Haiti">PEN Haïti</placeName>
+         et, depuis 2016, il est 
+        <placeName ana="Directeur">Directeur</placeName>
+         de la publication du quotidien Le National.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.jean-euphele-milce.14143.html" xml:id="Jean_Euphele_Milce_bio_auteur_spla">
+      <p>
+        Jean-
+        <persName ana="Euphele_Milce">Euphèle Milcé</persName>
+         naît à 
+        <placeName ana="Passe">Passe</placeName>
+        -Reine, 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+         le 14 janvier 1969. Il fait des études de linguistique appliquée et de gestion de l'information à l'Université d'État d'
+        <placeName ana="Haiti">Haïti</placeName>
+         et à l'Université de Fribourg en 
+        <placeName ana="Suisse">Suisse</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Euphele_Milce_biblio">
+    <div ref="http://ile-en-ile.org/milce/" xml:id="Jean_Euphele_Milce_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>Alphabet of the Night. Trans. Christopher Moncrieff. London: Pushkin, 2006.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>L’alfabeto delle notti. Trad. Andrea Ughetto Monticiano (Italia): Gorée, 2010.</item>
+      </list>
+      <list subtype="ailleurs sur le web">
+        <item> Les jardins naissent, présentation du roman (extrait, extrait vidéo) aux Éditions Coups de tête.</item>
+      </list>
+      <list subtype="romans">
+        <item>L’Alphabet des nuits.Orbe (Suisse): Campiche, 2004.</item>
+      </list>
+      <list subtype="recueil de nouvelles">
+        <item>L’envers des rives. Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+      </list>
+      <list subtype="nouvelles parues dans des ouvrages collectifs">
+        <item>« Il pleut l’ailleurs ». Nouvelle de Jean-Euphèle Milcé, avec 60 photographies de Jean-Pierre Grandjean.  Magic Haïti. Jouxtens-sur-Mezery: Éditions Parole d’image, 2004.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Jiwèt Van. Port-au-Prince: Pageailée, 1999.</item>
+      </list>
+      <list subtype="essais">
+        <item> Préservation et diffusion : deux mondes incompatibles ? : proposition pour la gestion de fonds patrimoniaux en Haïti. Fribourg: Presses de l’Université de Fribourg, 2003.</item>
+      </list>
+      <list subtype="beaux-livres">
+        <item>Ailleurs ici. Port-au-Prince: C3 Éditions, 2013.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Pòtre » et « Kote apre kote ». Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 303-304.</item>
+      </list>
+      <list subtype="anthologie dirigée par jean-euphèle milcé">
+        <item> Hommage aux lettres d’Haïti, numéro spécial de La Nouvelle Revue Française 576 (janvier 2006) préparé par Jean-Euphèle Milcé avec la collaboration d’Emmelie Prophète.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2004     Prix Georges-Nicole, pourL’Alphabet des nuits.</item>
+      </list>
+      <list subtype="sur l’oeuvre de jean-euphèle milcé">
+        <item>Magniez, Michel. « Le héros homosexuel dans les récits en Haïti ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 213-228.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jean_Euphele_Milce_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/jean-euphele-milce-5-questions-pour-ile-en-ile/">Jean-Euphèle Milcé, 5 Questions pour Île en île</item>
+      <item ref="http://www.lenational.org/?s=milce">La chronique de Milcé</item>
+      <item ref="http://jacbayle.club.fr/livres/Haiti/Milce.html">L’Alphabet des nuits</item>
+      <item ref="http://www.independent.co.uk/arts-entertainment/books/reviews/alphabet-of-the-night-by-jeaneuphegravele-milc-trans-christopher-moncrieff-460026.html">Alphabet of the Night</item>
+      <item ref="http://creativetimereports.org/2014/05/09/jean-euphele-milce-to-drink-my-sweet-body/#french">Boire mon doux corps</item>
+      <item ref="https://youtu.be/38-g-4BvISY">‘Des Livres et Vous’ avec Jean-Euphèle Milcé</item>
+      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=93663&amp;PubDate=2011-06-15">« Les jardins naissent » ou la vocation de la littérature</item>
+      <item ref="http://www.culturactif.ch/ecrivains/milce.htm"> Jean-Euphèle Milcé</item>
+      <item ref="http://www.lecourrier.ch/modules.php?op=modload&amp;name=NewsPaper&amp;file=article&amp;sid=41839">Jean-Euphèle Milcé. Mutin calme</item>
+      <item ref="http://www.pen.ht">PEN Haïti</item>
+      <item ref="http://www.lagruyere.ch/culture/articles/articles%202004/04.05.13-culture.htm">Un premier roman primé</item>
+    </list>
+  </div>
+</TEI>

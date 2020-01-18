@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Anderson_Dovilas" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Anderson Dovilas</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Anderson_Dovilas_fiche">
+    <person ana="Anderson_Dovilas" sex="na">
+      <persName>Anderson Dovilas</persName>
+      <idno type="BNF">
+        cb16165586j#about
+        <g ref="http://data.bnf.fr/ark:/12148/cb16165586j#about"/>
+      </idno>
+      <idno type="VIAF">
+        103240820
+        <g ref="http://viaf.org/viaf/103240820"/>
+      </idno>
+      <birth source="viaf">
+        <date>1985-07-02</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <residence>
+        <placeName>
+          <country source="bnf">http://id.loc.gov/vocabulary/countries/fr</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Auteur-compositeur/trice</occupation>
+      <occupation source="spla"> Dramaturge</occupation>
+      <occupation source="spla"> Poète</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Anderson_Dovilas_bio">
+    <text hand="Denise Bernhardt" ref="http://ile-en-ile.org/dovilas/" xml:id="Anderson_Dovilas_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+         est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 2 juillet 1985, un an avant la chute de la dictature des Duvalier qui persécutait sa famille. Quand il est élève au Lycée Antênor 
+        <placeName ana="Firmin">Firmin</placeName>
+        , il rencontre la poésie comme punition à ses turbulences pendant les heures de cours. Depuis lors, il trouve son plaisir dans le devenir des mots. Il est membre de l’Atelier Création 
+        <persName ana="Marcel_Gilbert">Marcel Gilbert</persName>
+         de la 
+        <persName ana="Bibliotheque_Justin">Bibliothèque Justin</persName>
+         Lhérisson de 
+        <placeName ana="Carrefour">Carrefour</placeName>
+         où la poésie dé
+        <placeName ana="Passe">Passe</placeName>
+         les barrières institutionnelles. 
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+         est sans doute l’un des plus grands poètes de sa génération avec des métaphores infinies.
+      </p>
+      <p>
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+         illustre avec 
+        <placeName ana="Bonheur">Bonheur</placeName>
+         le renouveau de la littérature 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Il possède la force et la tendresse de son âge. Le courage et la volonté sont ses armes, auxquelles s’ajoute le charme pimenté d’un goût de vivre qui lui attire toutes les sympathies.
+      </p>
+      <p>C’est un poète qui distille ses émotions au fil des métaphores, mais il est aussi homme d’action, engagé politiquement. Intégré dans le milieu associatif, il est celui qui va de l’avant et ne renonce jamais, surmontant ses nostalgies et ses déchirements.</p>
+      <p>
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+         appartient à cette génération qui relève les défis majeurs d’un siècle où la nature devient démente non moins que les hommes. En réponse au désarroi où se trouve plongé son pays, il crée en 2010 Sosyete Powèt Kreyolofòn (la Société des Poètes Créolophones) qui est à elle seule toute une philosophie. Elle a pour but de donner au public haïtien, dès le plus jeune âge, l’amour de l’écriture et de la lecture, à partir de la langue maternelle, pérennisant l’histoire et les croyances qui cimentent un peuple, et faisant rayonner le créole dans le cadre de diverses activités culturelles.
+      </p>
+      <p>
+        Les mots d’
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+         sont sculptés dans le marbre de l’idéal, et modelés par les mouvances du cœur :
+      </p>
+      <p>
+        Il fait le temps de reprendre
+Ton nom sous mes draps
+Parce qu’il fait un temps de brise à modeler
+Sur les toits d’une chanson en 
+        <placeName ana="Terre">Terre</placeName>
+         cuite
+      </p>
+      <p>(extrait de Mon Pays, rien de luxe)</p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.anderson-dovilas.22813.html" xml:id="Anderson_Dovilas_bio_auteur_spla">
+      <p>
+        <persName ana="Anderson_Dovilas">Anderson Dovilas</persName>
+        , Etudiant en Psychologie et en LinguistiqueA l'Université d'Etat d'
+        <placeName ana="Haiti">Haïti</placeName>
+         (UEH) Faculté d'Ethnologie (FE)Et Faculté de Linguistique Appliquée (FLA). Poète, comédien,Haikiste.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Anderson_Dovilas_biblio">
+    <div ref="http://ile-en-ile.org/dovilas/" xml:id="Anderson_Dovilas_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Pwèl nan Zo. Montréal: Lagomatik, 2009.</item>
+      </list>
+      <list subtype="poésie parue dans des ouvrages collectifs">
+        <item>Trois poèmes. Anthologie de la poésie haïtienne (Cahier Haiti). Mazères: Le Chasseur abstrait, 2009: 557-562.</item>
+      </list>
+      <list subtype="préfaces">
+        <item>Tesson de vers, par Illeus Papillon. Port-au-Prince: Imprimerie Vilcin, 2010.</item>
+      </list>
+      <list subtype="inédits">
+        <item>Monologue de la chanson qui bouge.</item>
+      </list>
+      <list subtype="interventions publiques">
+        <item>Le Printemps des poètes. L’Institut Français d’Haïti. 21 mars 2009.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Anderson_Dovilas_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/anderson-dovilas-pwezi-pefomans/"> Anderson Dovilas, Pwezi pèfòmans</item>
+      <item ref="http://ile-en-ile.org/anderson-dovilas-la-nuit-nest-pas-le-premier-secret-des-baisers-bleus/">La nuit n’est pas le premier secret des baisers bleus</item>
+      <item ref="http://ile-en-ile.org/anderson-dovilas-trois-poemes/">Trois poèmes</item>
+      <item ref="http://dovanderson.over-blog.com/">Le blog de Dovilas Anderson</item>
+      <item ref="http://www.harmattan.fr/index.asp?navig=catalogue&amp;obj=livre&amp;no=43605">Mémoire d’Outre-Monde</item>
+      <item ref="http://www.francopolis.net/revues/Dovilas-mai2012.html">Notes sur « Vingt poèmes pour traverser la nuit »</item>
+      <item ref="http://spcreolophone.blogvie.com/">Sosyete Powèt Kreyolofòn</item>
+      <item ref="http://www.lemanoirdespoetes.fr/poemes-anderson-dovilas.php">« Je vole », « Je voyage » et « Point »</item>
+      <item ref="http://www.paroleenarchipel.org/">Parole en Archipel</item>
+      <item ref="http://www.paroleenarchipel.com/article-vingt-poemes-pour-traverser-la-nuit-104458858.html">Vingt poèmes pour traverser la nuit</item>
+      <item ref="http://www.paroleenarchipel.com/article-en-hollande-la-france-devient-fran-oise-104871758.html">En Hollande, la France devient Françoise</item>
+      <item ref="http://www.paroleenarchipel.com/article-les-iles-en-accent-aigu-105328874.html">Les îles en accent aigu</item>
+      <item ref="http://www.paroleenarchipel.com/article-le-sang-de-l-oubli-le-sang-de-l-avenir-105976958.html">Le sang de l’oubli, le sang de l’avenir</item>
+      <item ref="http://www.paroleenarchipel.com/article-liminasyon-parcours-d-un-voyageur-106118692.html">Liminasyon: Parcours d’un voyageur</item>
+      <item ref="http://issuu.com/pallaikaroly/docs/vents_aliz_s_-_komansman?mode=window&amp;backgroundColor=#222222">Trois poèmes</item>
+      <item ref="http://www.potomitan.info/ayiti/dovilas.php">Pour en finir avec dérogation littéraire en Haïti</item>
+      <item ref="http://www.francopolis.net/salon/Dovilas-mars2012.html">Extraits de Mon pays rien de luxe</item>
+    </list>
+    <list type="spla">
+      <item ref="http://www.dovanderson.over-blog.com">Website Anderson Dovilas </item>
+    </list>
+  </div>
+</TEI>

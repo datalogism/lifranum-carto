@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Gerald_Bloncourt_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Gerald_Bloncourt" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de G�rald Bloncourt</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Gérald Bloncourt</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Gerald_Bloncourt_fiche_autorite">
+  <div n="1" xml:id="Gerald_Bloncourt_fiche">
     <person ana="Gerald_Bloncourt" sex="na">
-      <persName>
-        <surname source="bnf">G�rald</surname>
-        <forename source="bnf">Bloncourt</forename>
-      </persName>
+      <persName>Gérald Bloncourt</persName>
       <idno type="BNF">
         cb14553548q#about
         <g ref="http://data.bnf.fr/ark:/12148/cb14553548q#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/2710821"/>
       </idno>
       <idno type="VIAF">
-        G�rald_Bloncourt
-        <g ref="http://fr.dbpedia.org/resource/G�rald_Bloncourt"/>
+        Gérald_Bloncourt
+        <g ref="http://fr.dbpedia.org/resource/Gérald_Bloncourt"/>
       </idno>
       <birth source="viaf">
         <date>1926-11-04</date>
@@ -67,7 +64,414 @@
       <occupation source="spla"> Photographe</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Bastos_Daniel">
+          <persName>Bastos Daniel</persName>
+        </person>
+        <person ana="Teixeira_Joaquim_Paulo_Lopes">
+          <persName>Teixeira Joaquim Paulo Lopes</persName>
+        </person>
+        <person ana="LoWy_Michael">
+          <persName>Löwy Michael</persName>
+        </person>
+        <person ana="Vigee_Claude">
+          <persName>Vigée Claude</persName>
+        </person>
+        <person ana="Vallotton_Jean_Pierre">
+          <persName>Vallotton Jean-Pierre</persName>
+        </person>
+        <person ana="Teixeira_Paulo">
+          <persName>Teixeira Paulo</persName>
+        </person>
+        <person ana="Nadal_Gardere_Marie_Jose">
+          <persName>Nadal-Gardère Marie-José</persName>
+        </person>
+        <person ana="Mouraux_Lionel">
+          <persName>Mouraux Lionel</persName>
+        </person>
+        <person ana="Morin_Edgar">
+          <persName>Morin Edgar</persName>
+        </person>
+        <person ana="Esposito_Bernard">
+          <persName>Esposito Bernard</persName>
+        </person>
+        <person ana="Nadal_Marie_Jose">
+          <persName>Nadal Marie-José</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Gerald_Bloncourt_bio">
+    <text hand="Thomas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         naît le 4 novembre 1926 à 
+        <placeName ana="Bainet">Bainet</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), d’une mère française et d’un père guadeloupéen qui s’occupe d’une plantation de café. En 1927, la famille s’installe à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , puis, à la suite d’un cyclone qui fait des dégâts dans la région du Sud-Est, elle déménage pour Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , en 1936. 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         y fait la connaissance des amis et futurs compagnons de révolution, dont Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , 
+        <persName ana="Georges_Beaufils">Georges Beaufils</persName>
+        , 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         et 
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         qui venaient régulièrement chez lui.
+      </p>
+      <p>
+        Chez les 
+        <placeName ana="Bloncourt">Bloncourt</placeName>
+        , dans le salon que tient sa mère, Gérald fait la connaissance de 
+        <persName ana="Dewitt_Peters">Dewitt Peters</persName>
+        , qui, fasciné par la peinture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de gens ordinaires, sans formation, va fonder le Centre d’Art haïtien. Ayant quitté l’école pour apprendre le métier de linotypiste et se rapprocher ainsi des travailleurs, et rêvant toujours d’être peintre, 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         participe à la création du Centre en 1944. Il joue un rôle actif dans ce foyer de travail où viennent s’inscrire les peintres 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         du « merveilleux ». Les premiers grands « naïfs » exposent au Centre ; la richesse de cette œuvre étonne certains critiques, dont 
+        <persName ana="Andre_Malraux">André Malraux</persName>
+        .
+      </p>
+      <p>
+        Les activités d’artiste du jeune 
+        <placeName ana="Bloncourt">Bloncourt</placeName>
+         le disputent à celles liées à ses engagements révolutionnaires alors qu’il milite aux côtés de Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        . Ce sont deux des principaux leaders de la révolution 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de 1946, connue sous le nom des « Cinq Glorieuses ». Révolte d’étudiants et de jeunes intellectuels, le mouvement se répand dans la population de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         et des environs et aboutit au départ du 
+        <persName ana="President_Elie_Lescot">Président Elie Lescot</persName>
+        . Tandis que plusieurs de ses camarades sont arrêtés et éventuellement relâchés par l’armée qui a pris le pouvoir, 
+        <placeName ana="Bloncourt">Bloncourt</placeName>
+        , lui, est arrêté et expulsé immédiatement d’abord vers la 
+        <placeName ana="Martinique">Martinique</placeName>
+         puis vers 
+        <placeName ana="La_France">la France</placeName>
+        .
+      </p>
+      <p>
+        À 
+        <placeName ana="Paris">Paris</placeName>
+        , le peintre installe son tabouret sur les berges de la Seine et vend ses aquarelles à une galerie de Saint-Germain. Il travaille à son art aux ateliers de la Grande Chaumière et du 80 Montparnasse et prépare le professorat de dessin de la Ville de 
+        <placeName ana="Paris">Paris</placeName>
+        .
+      </p>
+      <p>
+        Parallèlement, il se fait une réputation de reporter-photographe dans les milieux de 
+        <placeName ana="La_Presse">La Presse</placeName>
+         parisienne. L’impossibilité, dit-il, de plier son trait de peintre aux exigences du réalisme socialiste (comme lui dictent ses convictions politiques), il s’oriente vers un autre art de l’image, la photographie. Pour lui, c’est un « renoncement, mais aussi une formidable occasion d’aiguiser le regard, d’engranger des milliers de visages, de foules, de femmes, d’
+        <placeName ana="Ombres">Ombres</placeName>
+         et de lumières ». Il poursuit cette carrière de photographe dès 1949 au 
+        <placeName ana="Journal">Journal</placeName>
+         L’Humanité et à L’Avant-Garde puis en 1958 devient reporter indépendant jusqu’en 1986, date à laquelle il retourne en 
+        <placeName ana="Haiti">Haïti</placeName>
+         à la chute de Duvalier. Toujours actif depuis sa résidence à 
+        <placeName ana="Paris">Paris</placeName>
+        , il pratique ce métier durant plus d’un demi-siècle.
+      </p>
+      <p>
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         collabore à de nombreuses publications, dont CFDT-Magazine, Le Nouvel Économiste, Le Nouvel Observateur, Options, Le Peuple, Regard, Syndicalisme hebdo, Témoignage Chrétien, La Vie Catholique et La Vie Ouvrière de la C.G.T.
+      </p>
+      <p>
+        En 1963, il est créateur des « 
+        <persName ana="Editions_Murales">Éditions Murales</persName>
+         » (livres muraux itinérants) et d’autres expositions de 1963 à 1985 à travers 
+        <placeName ana="La_France">la France</placeName>
+        . Il donne des conférences dans près de cinq cents centres, associations culturelles ou comités d’entreprises sur le langage et l’écriture photographique.
+      </p>
+      <p>
+        La période dictatoriale que traverse 
+        <placeName ana="Haiti">Haïti</placeName>
+         le préoccupe. Depuis 
+        <placeName ana="Paris">Paris</placeName>
+        , il s’insurge contre la dictature des Duvalier ; les prises de position du militant ont du poids. Par la suite, en 1987, 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         est fondateur et secrétaire-général du Comité pour la Défense des droits de l’Homme et de la démocratie en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , co-présidé par Jean-
+        <persName ana="Pierre_Faye">Pierre Faye</persName>
+         (Président de l’Université Philosophique Européenne), 
+        <persName ana="Guy_De_Bosschere">Guy de Bosschère</persName>
+         (Président de l’Union des Écrivains de 
+        <placeName ana="France">France</placeName>
+         et de la Féderation Internationale des Écrivains de Langue Française) et 
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         (linguiste, écrivain et neurologue).
+      </p>
+      <p>Le reporter-photographe militant continue toujours à graver et à peindre.</p>
+      <p>
+        Dans la tête du peintre, « les formes s’épurent, naît l’euphorie des couleurs ». En 
+        <placeName ana="Haiti">Haïti</placeName>
+        , 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         expose ses gravures et ses tableaux à la Galerie Jean-
+        <persName ana="Rene_Jerome">René Jérôme</persName>
+        . Aux États-Unis, il expose à 
+        <placeName ana="Miami">Miami</placeName>
+         et à l’Université de la Nouvelle-Orléans. Ses œuvres figurent au 
+        <placeName ana="Musee_National">Musée national</placeName>
+         d’Art Haïtien et dans de nombreuses collections internationales. En juin 1994, pour l’ensemble de son œuvre, le peintre obtient le premier prix au deuxième Salon d’Art Contemporain de Le Mée. Il est actuellement artiste-permanent à la Galerie 
+        <persName ana="Antoinette_Jean">Antoinette Jean</persName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+        .
+      </p>
+      <p>
+        En 1986, l’année de son premier retour en 
+        <placeName ana="Haiti">Haïti</placeName>
+         après la chute de « Baby Doc », 
+        <placeName ana="Bloncourt">Bloncourt</placeName>
+         publie chez Nathan La Peinture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , en collaboration avec Marie-
+        <persName ana="Jose_Nadal">José Nadal</persName>
+        -Gardère. Avec des notices biographiques, le livre compose un fond d’informations incontournable sur l’art haïtien. Spécialiste, 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         donne de nombreuses conférences sur la peinture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , notamment en 
+        <placeName ana="France">France</placeName>
+         (à l’Unesco) et aux États-Unis (à l’université de la Nouvelle-Orléans).
+      </p>
+      <p>
+        En 1986, il est Président du Comité des Livres pour 
+        <placeName ana="Haiti">Haïti</placeName>
+         qui récolte plus d’un million de livres pour le pays. Depuis lors, 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         a effectué une dizaine de voyages au pays natal.
+      </p>
+      <p>
+        Présent sur l’internet dès ses débuts graphiques, le site web de 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         présente des clichés du photographe, certaines de ses œuvres peintes, des témoignages sur les événements de janvier 1946 en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , sur la dictature des Duvalier et sur le bicentenaire de la révolution 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . 
+        <placeName ana="Bloncourt">Bloncourt</placeName>
+         s’explique dans Le Regard engagé, « L’Internet me permet de faire ce que j’ai toujours fait : diffuser moi-même mes images, mais désormais sans sortir de chez moi, et les découvrir publiées. Elles sont aujourd’hui plus souvent couvertures de livres, illustrations de livres d’histoire que photos de presse ». Le photographe procède au classement numérique complet de ses archives (200.000 clichés) qui représentent un demi-siècle de mémoire photographique. L’appareil photo, numérique depuis 2002, offre des joies nouvelles et retrouvées : « Entre la prise de vue et son développement à l’écran de mon ordinateur, il n’existe même plus de chambre noire, j’ai perdu l’odeur de l’hyposulfite de soude : la révélation de la lumière est immédiate. Je retrouve la même jubilation et le même émerveillement devant ces fractions de vie que j’ai captées » (Le Regard engagé).
+      </p>
+      <p>
+        En 2004, il publie Les Prolos,  un livre-album de 140 de ses photographies, accompagnées par des textes de 
+        <persName ana="Mehdi_Lallaoui">Mehdi Lallaoui</persName>
+        . La même année aux éditions 
+        <placeName ana="Bourin">Bourin</placeName>
+         à 
+        <placeName ana="Paris">Paris</placeName>
+        , 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         est l’auteur d’un récit traçant le parcours du militant-photographe, Le regard engagé, parcours d’un franc-tireur de l’image. En 2006, il signe, avec 
+        <persName ana="Michael_Lowy">Michael Löwy</persName>
+        , Messagers de la tempête; 
+        <persName ana="Andre_Breton">André Breton</persName>
+         et la Révolution de janvier 1946 en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , publié aux Éditions Le Temps des Cerises.
+      </p>
+      <p>
+        Il témoigne de ses combats dans son 
+        <placeName ana="Journal">Journal</placeName>
+         d’un révolutionnaire, publié aux Éditions Mémoire d’encrier en 2013.
+      </p>
+      <p>
+        Peintre, poète, photographe, écrivain, 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         poursuit sa création qu’il qualifie lui-même de « créneaux ».
+      </p>
+      <p>
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         est décédé à 
+        <placeName ana="Paris">Paris</placeName>
+         le 29 octobre 2018, à moins d’une semaine d’avoir 92 ans.
+Le dernier hommage à Gérald aura lieu le lundi 5 novembre au 
+        <placeName ana="Cimetiere_Du_Pere_Lachaise">cimetière du Père Lachaise</placeName>
+        . Sa famille, qui ne souhaite ni fleurs ni couronnes, vous invite à faire un don au nom de 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         à l’association 
+        <placeName ana="Haiti">Haïti</placeName>
+         Futur qui oeuvre pour l’éducation en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et pour la culture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Le dernier récit de 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         – Un homme peau noire peau rouge : un homme de toutes les saisons – paraîtra fin novembre aux Éditions Mémoire d’encrier et sera présenté au Salon du livre haïtien organisé par 
+        <placeName ana="Haiti">Haïti</placeName>
+         Futur les 1er et 2 décembre à 
+        <placeName ana="Paris">Paris</placeName>
+        .
+      </p>
+      <p>
+        La présentation de l’oeuvre de 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         ci-dessous sera mise à jour sous peu, 
+        <persName ana="Joelle_Vitiello">Joëlle Vitiello</persName>
+         l’ayant vu en septembre 2018. En attendant, en bas de page, vous trouverez des liens vers des textes écrits en hommage à 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+        .  
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.gerald-bloncourt.5362.html" xml:id="Gerald_Bloncourt_bio_auteur_spla">
+      <p>
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         naît le 4 novembre 1926 à 
+        <placeName ana="Bainet">Bainet</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ), d'une mère française et d'un père guadeloupéen qui s'occupe d'une plantation de café. En 1927, la famille s'installe à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , puis, à la suite d'un cyclone qui fait des dégâts dans la région du Sud-Est, elle déménage pour Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , en 1936. 
+        <persName ana="Gerald_Bloncourt">
+          Gérald 
+          <placeName ana="Bloncourt">Bloncourt</placeName>
+        </persName>
+         y fait la connaissance des amis et futurs compagnons de révolution, dont Jacques-
+        <persName ana="Stephen_Alexis">Stephen Alexis</persName>
+        , 
+        <persName ana="Georges_Beaufils">Georges Beaufils</persName>
+        , 
+        <persName ana="Rene_Depestre">René Depestre</persName>
+         et 
+        <persName ana="Gerard_Chenet">Gérard Chenet</persName>
+         qui venaient régulièrement chez lui. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Gerald_Bloncourt_biblio">
+    <div ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_biblio_auteur_ile_en_ile">
+      <list subtype="récits">
+        <item>Yeto, le palmier des neiges. Port-au-Prince: Deschamps, 1991; Paris: Arcantère, 1991, 296 p.
+De nombreuses plaquettes dont Dialogue au bout des vagues, J’ai rompu le silence, Poèmes sahariens, Retour d’exil… et J’ai coupé la gorge au temps (voir poésie, ci-dessous).</item>
+      </list>
+      <list subtype="essais">
+        <item>La Peinture haïtienne (texte de Gérald Bloncourt; documentation de Marie-José Nadal-Gardère). Paris: Nathan, 1986; 1989.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Poèmes sahariens. Paris: La Machette, 1976.</item>
+      </list>
+      <list subtype="contes">
+        <item>Cric crac. Texte et illustrations de Gérald Bloncourt (édition à tirage limité de 1500 exemplaires numérotés). Port-au-Prince: Deschamps, 1990, 105 p.</item>
+      </list>
+      <list subtype="articles divers">
+        <item>« Monologue au bout des vagues ». Une journée haïtienne, textes réunis par Thomas C. Spear. Montréal: Mémoire d’encrier / Paris: Présence africaine, 2007: 147-150.</item>
+      </list>
+      <list subtype="photographie de gérald bloncourt (albums)">
+        <item>Les Prolos,  140 photographies avec des textes de Mehdi Lallaoui. Bezons: Au Nom de la Mémoire, 2004.</item>
+      </list>
+      <list subtype="photographie de gérald bloncourt (illustrations)">
+        <item>Bloncourt-Herselin, Jacqueline. Derrière la colline.Paris: Académie poétique de Montmartre, 1978.</item>
+      </list>
+      <list subtype="expositions de photographie et de peinture">
+        <item>au Chateau de St-Ouen (photographie), 1967.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>« Gérald Bloncourt ». Film documentaire Medhi Lallaoui consacré à Gérald Bloncourt. France 3 et Éditions de la Mémoire, 2004.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>De nombreuses émissions radiophoniques et télévisuelles, en France et en Haïti, tant sur l’art haïtien que sur les luttes anti-duvaliéristes, 1981-1992, et sur son travail de reporter-photographe, 1981-2006.</item>
+      </list>
+      <list subtype="lectures publiques de poésie (sélectionnées)">
+        <item>Participation au Festival de Poésie-Murale au Château des Stuarts à Aubigny-sur-Nère, avril 1986.</item>
+      </list>
+      <list subtype="prix et distinctions">
+        <item>1988     Citoyen d’Honneur de la ville de la Nouvelle-Orléans (USA).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Gerald_Bloncourt_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/">Les « Cinq Glorieuses » de janvier 1946</item>
+      <item ref="http://ile-en-ile.org/gerald-bloncourt-5-questions-pour-ile-en-ile/">Gérald Bloncourt, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/gerald-bloncourt-je-me-souviens/">Gérald Bloncourt, « Je me souviens… »</item>
+      <item ref="http://www.bloncourt.net/">Gérald Bloncourt</item>
+      <item ref="http://bloncourtblog.net/">Le blog de Gérald Bloncourt</item>
+      <item ref="http://www.radiotelevisioncaraibes.com/nouvelles/haiti/bloncourt_rtvc_une_personalit_dit_tout.html">Bloncourt, RTVC, Une Personnalité dit tout</item>
+      <item ref="https://repository.duke.edu/dc/radiohaiti/RL10059-CS-1247_01">Entre Nous: Gérald Bloncourt, ‘Cric crac’</item>
+      <item ref="http://www.csmsmagazine.org/news.php?pg=20080410I654">Gérald Bloncourt is back</item>
+      <item ref="http://www.youtube.com/watch?v=TOgi8_7RdcY"> Gérald Bloncourt on Breton, Mabille and Haiti in 1944-46</item>
+      <item ref="http://web.archive.org/web/20080228142104/http://www.rfo.fr/article259.html">Gérald Bloncourt</item>
+      <item ref="http://emmila.canalblog.com/archives/poesie____gerald_bloncourt/index.html">Poésie de Gérald Bloncourt</item>
+      <item ref="http://www.lemieux-editeur.fr/Gerald-Bloncourt.html">Lemieux</item>
+      <item ref="http://www.rfi.fr/culture/20181107-dernier-adieu-gerald-bloncourt-franc-tireur-image">Dernier adieu à Gérald Bloncourt, franc-tireur de l’image</item>
+      <item ref="http://www.alterpresse.org/spip.php?article23728#.W-fIUS2ZPMI">Haïti-Culture : Aux champs pour Gérald Bloncourt</item>
+      <item ref="http://www.lenational.org/le-camarade-et-grand-frere-gerald-bloncourt-est-mort/">Le camarade et grand frère Gérald Bloncourt est mort</item>
+      <item ref="https://la1ere.francetvinfo.fr/martinique/deces-du-photographe-dessinateur-ecrivain-haitien-gerald-bloncourt-644028.html">Décès du photographe, dessinateur et écrivain haïtien Gérald Bloncourt</item>
+      <item ref="http://www.lefigaro.fr/culture/2018/11/02/03004-20181102ARTFIG00128-disparition-de-gerald-bloncourt-photographe-au-regard-engage.php">Disparition de Gérald Bloncourt, photographe au regard engagé</item>
+      <item ref="https://www.humanite.fr/disparition-gerald-bloncourt-un-oeil-fraternel-en-colere-et-en-joie-662990">Disparition. Gérald Bloncourt, un œil fraternel en colère et en joie</item>
+      <item ref="https://www.lemonde.fr/disparitions/article/2018/10/31/le-photographe-franco-haitien-gerald-bloncourt-est-mort_5377322_3382.html">Le photographe franco-haïtien Gérald Bloncourt est mort</item>
+      <item ref="http://www.aps.dz/monde/80098-mort-de-gerald-bloncourt-reporter-ayant-couvert-la-guerre-de-liberation-des-sahraouis">Mort de Gérald Bloncourt, reporter ayant couvert la guerre de libération des Sahraouis</item>
+      <item ref="https://ferreiradiasenoites.blogspot.com/2018/10/gerald-bloncourt-jai-mal-au-monde.html">Morreu Gérald Bloncourt: O fotógrafo que fotografou os emigrantes portugueses dos anos 60</item>
+      <item ref="https://blogs.mediapart.fr/arthur-porto/blog/041118/gerald-bloncourt-le-photographe-de-mon-enfance">Gérald Bloncourt: ‘le photographe de mon enfance’</item>
+      <item ref="https://www.nytimes.com/2018/11/09/obituaries/grald-bloncourt-dead.html">Gérald Bloncourt, Haitian Photographer and Activist, Dies at 91</item>
+      <item ref="https://lenouvelliste.com/article/194451/gerald-bloncourt-ou-quand-meurent-les-jeunes">Gérald Bloncourt, ou quand meurent les jeunes</item>
+    </list>
+    <list type="spla">
+      <item ref="http://www.bloncourt.net/">Website GÃ©rald Bloncourt </item>
+    </list>
   </div>
 </TEI>

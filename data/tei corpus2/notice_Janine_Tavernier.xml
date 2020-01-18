@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Janine_Tavernier_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Janine_Tavernier" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Janine Tavernier</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Janine_Tavernier_fiche_autorite">
+  <div n="1" xml:id="Janine_Tavernier_fiche">
     <person ana="Janine_Tavernier" sex="na">
-      <persName>
-        <surname source="bnf">Janine</surname>
-        <forename source="bnf">Tavernier</forename>
-      </persName>
+      <persName>Janine Tavernier</persName>
       <idno type="BNF">
         cb14471140m#about
         <g ref="http://data.bnf.fr/ark:/12148/cb14471140m#about"/>
@@ -46,6 +43,151 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/fr</country>
         </placeName>
       </residence>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Fillaire_Bernard">
+          <persName>Fillaire Bernard</persName>
+        </person>
+        <person ana="Sojka_Leszczynska_Anna">
+          <persName>Sójka-Leszczyńska Anna</persName>
+        </person>
+        <person ana="Delporte_Charline">
+          <persName>Delporte Charline</persName>
+        </person>
+        <person ana="Wydawnictwo_Ksiezy_Marianow">
+          <persName>Wydawnictwo Księży Marianów</persName>
+        </person>
+        <person ana="Wydawnictwo Ksiezy Marianow_Mic">
+          <persName>Wydawnictwo Księży Marianów MIC</persName>
+        </person>
+        <person ana="Association_De_Defense_Des_Familles_Et_De_L_Individu_Nord">
+          <persName>Association de défense des familles et de l'individu Nord</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Janine_Tavernier_bio">
+    <text ref="http://ile-en-ile.org/tavernier/" xml:id="Janine_Tavernier_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Janine_Tavernier">Janine Tavernier</persName>
+         est née le 23 
+        <placeName ana="Mars">Mars</placeName>
+         1935 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Elle fait ses études primaires et secondaires à l’école du Sacré-
+        <persName ana="Coeur_De_Turgeau">
+          Coeur de 
+          <placeName ana="Turgeau">Turgeau</placeName>
+        </persName>
+         en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Mariée très jeune à 
+        <placeName ana="Gervais">Gervais</placeName>
+         
+        <persName ana="A_Louis">A. Louis</persName>
+        , elle a de lui ses cinq enfants. En 1967, au début du régime duvaliériste, 
+        <persName ana="Janine_Tavernier">Janine Tavernier</persName>
+        -Louis quitte le pays avec sa famille pour l’exil aux États-Unis.
+      </p>
+      <p>
+        Elle achève ses études universitaires d’abord à 
+        <placeName ana="San_Francisco">San Francisco</placeName>
+         State University en 
+        <placeName ana="Californie">Californie</placeName>
+         où elle obtient son B.A. (licence) en lettres françaises (cum laude), à 
+        <placeName ana="New_York">New York</placeName>
+         University où elle obtient une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en langue française et en civilisation française, et à l’université de 
+        <placeName ana="Californie">Californie</placeName>
+         à 
+        <placeName ana="Davis">Davis</placeName>
+         où elle obtient un doctorat en littéraire française avec une spécialité en francophonie. Elle se fait une carrière dans l’enseignement de 1984 a 2002. Depuis 2007, elle est retraitée et vit en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Dans toutes ses œuvres – prose ou poésie – il y a chez 
+        <persName ana="Janine_Tavernier">Janine Tavernier</persName>
+         une passion presque violente à la recherche d’un monde social ou régnerait l’amour vrai entre humains, un monde de justice et de respect mutuel. Cet amour qu’elle réclame, elle le voudrait pour tous et surtout pour toutes les femmes qui souffrent leur vie au lieu de la vivre. La poésie de cette « poétesse aux accents indigénistes modernes » (Saint-
+        <persName ana="John_Kauss">John Kauss</persName>
+        ) est donc une poésie dure, intense, déchirée mais aussi émouvante dans sa quête inassouvie :
+      </p>
+      <p>
+        … Le sommeil dans mon verre me guette
+je suis entre ses doigts une proie bien facile
+o mes songes azurés qui refoulent ma colère
+quand au-delà des nuits le soleil vit encore…
+
+        <placeName ana="Demain">Demain</placeName>
+         jaillira de mon ivresse
+comme un poignard déchirant les brumes
+
+        <placeName ana="Demain">Demain</placeName>
+         ce sera toi
+
+        <placeName ana="Demain">Demain</placeName>
+         ce seront eux…
+(
+        <placeName ana="Naima">Naima</placeName>
+         fille des dieux)
+      </p>
+      <p>
+        On retrouve cette colère latente dans ses romans. Ti Sia, le personnage principal de La Gravitante, dira : « J’entendais mon cri percuter le ciel, effilocher le silence solennel des lieux, désarrimer la paix alentour… Et mon cri ne s’arrêtait pas, je ne savais pas l’arrêter… C’était un cri étranger à moi-même, venant d’une femme que je ne connaissais pas, une femme qui s’insurgeait… ». Ce cri traverse toute l’œuvre de 
+        <persName ana="Janine_Tavernier">Janine Tavernier</persName>
+         qu’il soit cri de désespoir ou de guerre :
+      </p>
+      <p>Et je tourbillonne ma vie en dehors… et dans mes nuits sans lune
+je flambe et je rougeoie j’enflamme amis
+levez les yeux voyez ma dernière étincelle
+qui fait la guerre au soleil.
+(Sphinx du laurier rose)</p>
+      <p>
+        Poétesse et romancière 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , 
+        <persName ana="Janine_Tavernier">Janine Tavernier</persName>
+         est décédée à 
+        <placeName ana="Tampa">Tampa</placeName>
+         (
+        <placeName ana="Floride">Floride</placeName>
+        ) le 27 février 2019.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Janine_Tavernier_biblio">
+    <div ref="http://ile-en-ile.org/tavernier/" xml:id="Janine_Tavernier_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>Ombres ensoleillées. Port-au-Prince: Gervais A. Louis, 1961.</item>
+      </list>
+      <list subtype="romans">
+        <item>Fleurs de muraille. Montréal: CIDIHCA, 2000.</item>
+      </list>
+      <list subtype="essai">
+        <item>Une Tentative de morphologie du conte haïtien suivie d’une analyse psychologique. Thèse de doctorat, University of California, Davis, 2002.</item>
+      </list>
+      <list subtype="textes publiés dans des ouvrages collectifs">
+        <item>« Causerie paysanne » (poème). Conjonction 103 (1966).</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>« Le cadre vide », mise en musique du poème de Janine Tavernier par Sacha Alexandre sur le disque Alexandre, 1992.</item>
+      </list>
+      <list subtype="sur l’oeuvre de janine tavernier">
+        <item>Brierre, Jean Fernand. Article dans Rond Point 12 (décembre 1963).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Janine_Tavernier_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/anthony-phelps-rupture-et-nouvel-espace-poetique/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://ile-en-ile.org/janine-tavernier-par-dela-nos-murailles/">Par-delà nos murailles</item>
+      <item ref="http://www.lematinhaiti.com/Article.asp?ID=9861">Entre tradition et modernité, un roman attachant</item>
+      <item ref="http://www.lematinhaiti.com/Article.asp?ID=14229">« La Gravitante » » ou la non-existence et la vie à venir </item>
+      <item ref="http://www.etonnants-voyageurs.com/spip.php?article4725">Janine Tavernier</item>
+      <item ref="https://lenouvelliste.com/article/199837/le-laurier-rose-de-janine-tavernier">Le laurier rose de Janine Tavernier</item>
+      <item ref="http://web.archive.org/web/20030602170508/http://elvir.univ-poitiers.fr/article.php3?id_article=626">Mal comme misère</item>
+      <item ref="http://www.caraibeexpress.com/spip.php?article547&amp;nidspip.php?article547&amp;nid=1">La poésie féminine haïtienne</item>
+    </list>
   </div>
 </TEI>

@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Jean_Metellus_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Jean_Metellus" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jean M�tellus</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Jean Métellus</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Jean_Metellus_fiche_autorite">
+  <div n="1" xml:id="Jean_Metellus_fiche">
     <person ana="Jean_Metellus" sex="na">
-      <persName>
-        <surname source="bnf">Jean</surname>
-        <forename source="bnf">M�tellus</forename>
-      </persName>
+      <persName>Jean Métellus</persName>
       <idno type="BNF">
         cb11915777s#about
         <g ref="http://data.bnf.fr/ark:/12148/cb11915777s#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/12312423"/>
       </idno>
       <idno type="VIAF">
-        Jean_M�tellus
-        <g ref="http://fr.dbpedia.org/resource/Jean_M�tellus"/>
+        Jean_Métellus
+        <g ref="http://fr.dbpedia.org/resource/Jean_Métellus"/>
       </idno>
       <birth source="viaf">
         <date>1937-04-30</date>
@@ -62,6 +59,217 @@
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors black</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Sauvageot_BeAtrice">
+          <persName>Sauvageot Béatrice</persName>
+        </person>
+        <person ana="Fleurimond_Wiener_Kerns">
+          <persName>Fleurimond Wiener Kerns</persName>
+        </person>
+        <person ana="Migeot_Alvarado_Judith">
+          <persName>Migeot-Alvarado Judith</persName>
+        </person>
+        <person ana="Naudillon_Francoise">
+          <persName>Naudillon Françoise</persName>
+        </person>
+        <person ana="RoseS_Annie">
+          <persName>Rosès Annie</persName>
+        </person>
+        <person ana="Noiret_GeRard">
+          <persName>Noiret Gérard</persName>
+        </person>
+        <person ana="Mouchard_Claude">
+          <persName>Mouchard Claude</persName>
+        </person>
+        <person ana="Firmin_AnteNor">
+          <persName>Firmin Anténor</persName>
+        </person>
+        <person ana="Couture_Ghislaine">
+          <persName>Couture Ghislaine</persName>
+        </person>
+        <person ana="Defives_Eyoum_Isabelle">
+          <persName>Defives-Eyoum Isabelle</persName>
+        </person>
+        <person ana="Saussy_Haun">
+          <persName>Saussy Haun</persName>
+        </person>
+        <person ana="Jacobs_Marjolijn">
+          <persName>Jacobs Marjolijn</persName>
+        </person>
+        <person ana="Grosjean_Jean">
+          <persName>Grosjean Jean</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Jean_Metellus_bio">
+    <text hand="Ginette Adamson" ref="http://ile-en-ile.org/metellus/" xml:id="Jean_Metellus_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         est né le 30 avril 1937 à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Installé en 
+        <placeName ana="France">France</placeName>
+         depuis 1959, il exerce la profession de neuro-linguiste, en même temps que ses multiples activités littéraires de romancier, poète, dramaturge et essayiste. Marié, père de trois enfants, il est actuellement 
+        <persName ana="Medecin_Des_Hopitaux">Médecin des Hôpitaux</persName>
+         de 
+        <placeName ana="Paris">Paris</placeName>
+         au Centre Hospitalier 
+        <persName ana="Emile_Roux">Émile Roux</persName>
+        , en tant que neurologue spécialiste dans les troubles de la parole.
+      </p>
+      <p>
+        Après des études secondaires au Lycée Pinchinat de 
+        <persName ana="Jacmel_Jean_Metellus">
+          <placeName ana="Jacmel">Jacmel</placeName>
+           Jean Métellus
+        </persName>
+         occupe le poste de professeur de mathématiques au Lycée Célie 
+        <placeName ana="Lamour">Lamour</placeName>
+         de sa ville natale de 1957 à 1959. Il poursuit ses études en 
+        <placeName ana="France">France</placeName>
+        : obtention du P.C.B. en 1960 à la Faculté des Sciences de 
+        <placeName ana="Paris">Paris</placeName>
+        , suivi d’études de Médecine à la Faculté de Médecine de 
+        <placeName ana="Paris">Paris</placeName>
+        . Docteur en Médecine en 1970 et Docteur en Linguistique en 1975, il conjugue harmonieusement ses deux spécialisations dans son quotidien médical et littéraire qui lui ont valu la reconnaissance de sociétés savantes: Il a été lauréat de l’Académie de Médecine en 1973, 1976, 1984 et de trois prix littéraires qui lui ont été décernés en 1982, 1984 et 1991. 
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         exerce, en outre, le métier de professeur au Collège de Médecine des Hôpitaux de 
+        <placeName ana="Paris">Paris</placeName>
+        .
+      </p>
+      <p>
+        À la liste de ses publications de romans, de poésies, de pièces de théâtre s’ajoutent des essais historiques et philosophiques sur 
+        <placeName ana="Haiti">Haïti</placeName>
+        , et tout particulièrement de nombreux écrits (près d’une centaine) sur les problèmes du langage.
+      </p>
+      <p>
+        Son premier recueil de poésie Au pipirite chantant a retenu l’attention d’
+        <persName ana="Andre_Malraux">André Malraux</persName>
+         et de 
+        <persName ana="Maurice_Nadeau">Maurice Nadeau</persName>
+        . 
+        <persName ana="Antoine_Vitez">Antoine Vitez</persName>
+         a remarqué la puissance dramatique et poétique de son théâtre en montant Anacaona au Théâtre de Chaillot.
+      </p>
+      <p>
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         meurt en région parisienne le 4 janvier 2014. Voir la sélection de textes écrits en hommage à l’auteur dans les liens ci-dessous.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.jean-metellus.5240.html" xml:id="Jean_Metellus_bio_auteur_spla">
+      <p>
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         est né à 
+        <placeName ana="Jacmel">Jacmel</placeName>
+        , il a émigré en 
+        <placeName ana="France">France</placeName>
+         en 1959 à l'époque de la dictature des Duvalier où il a poursuivi des études de médecine et commencé à écrire. Poussé par 
+        <persName ana="Maurice_Nadeau">Maurice Nadeau</persName>
+        , 
+        <persName ana="Andre_Malraux">André Malraux</persName>
+         et 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        , 
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         a conquis une reconnaissance générale pour son art premier, la poésie. Aujourd'hui répertorié dans l'Anthologie de la poésie française du XXe siècle, ses poèmes sont traduits en italien, en espagnol et cités par certains groupes de rap. Il est également romancier, dramaturge et essayiste. En parallèle de son activité principale de la médecine (neurologue spécialisé dans les troubles du langage), il a petit à petit créé une oeuvre importante. Il a été traduit en anglais, russe, néerlandais et italien, et est présent dans le dictionnaire de la littérature de l'Encyclopédia Universalis et le Robert des noms propres depuis 1998.Il est notamment l'auteur de Au pipirite chantant, 
+        <persName ana="Maurice_Nadeau">Maurice Nadeau</persName>
+         1978, Voyance et autres poèmes, Janus 2005, La Peau et autres poèmes, Seghers, 2006, Éléments, Janus 2008, Visages de Femmes, Le Temps des Cerises, 2008. 
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         a reçu en 2006 le Grand Prix International 
+        <persName ana="Leopold_Sedar_Senghor">Léopold Sédar Senghor</persName>
+         de Poésie de Langue française et en 2007 Le Grand Prix de Poésie de La Société des Gens de Lettre. Il exerçait les professions de neurologue et de linguiste.
+        <persName ana="Jean_Metellus">Jean Métellus</persName>
+         est mort le 4 janvier 2014 à l'âge de 76 ans.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Jean_Metellus_biblio">
+    <div ref="http://ile-en-ile.org/metellus/" xml:id="Jean_Metellus_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrage collectif">
+        <item>Phœnix 6 (juin 2012). Numéro spécial consacré à Jean Métellus. Dossier rassemblé par Jeanine Baude: « Voix du passé et autres poèmes » de Jean Métellus, un entretien de Janine Baude, des articles de Claude Mouchard, Ginette Adamson, Patrizia Oppici, Joëlle Gardes, Haun Saussy et une lettre-poème de Bruno Doucey à Jean Métellus.</item>
+      </list>
+      <list subtype="études">
+        <item>Adamson, Ginette. « L’engagement dans le théâtre haïtien: l’oeuvre dramatique de Jean Métellus ». Theatre Research International 21.3 (Autumn 1996): 245-255.</item>
+      </list>
+      <list subtype="in english">
+        <item>Anacaona (excerpts). Trad. Carrol F. Coates (Acte I, sc. iii; Acte II, sc. i; Acte III, sc. ii). Callaloo 15.2 (Spring 1992): 328-337, followed by: « Jean Métellus », interview with Carrol F. Coates. Trad. Mohamed B. Taleb-Khyar. Callaloo 15.2 (1992): 340-41.</item>
+      </list>
+      <list subtype="en español">
+        <item>Jacmel, édition bilingue, français-espagnol. Trad. Judith Alvarado-Migeot.  Paris: Orénoques, 1991; Jacmel, toujours. Paris: Janus, 2007.</item>
+      </list>
+      <list subtype="en italiano">
+        <item>Filtro Amaro (Philtre amer), édition bilingue, français-italien. Trad. Anna Paola Mossetto et Marilena Pronesti. Torino: La Rosa, 1996.</item>
+      </list>
+      <list subtype="in het nederlands">
+        <item>Duisternis over Jacmel (Jacmel au crépuscule). Trad. Marjolijn Jacobs et Jolijn Tevel. La Haye: Het Wereldvenster Weesp Novib; Bruxelles: NCOS, 1984.</item>
+      </list>
+      <list subtype="на русском">
+        <item>Семья Вортексов. (La famille Vortex). Trad. Nicolas Komine. Moscou: Radouga, 1989.</item>
+      </list>
+      <list subtype="romans">
+        <item>Jacmel au crépuscule. Paris: Gallimard, 1981; 2015.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Au Pipirite chantant. Paris: Maurice Nadeau, 1978; Au Pipirite chantant et autres poèmes. Paris: Maurice Nadeau (Lettres Nouvelles), 1995.</item>
+      </list>
+      <list subtype="poésie en tirage limité">
+        <item>Empreintes, poèmes de Jean Métellus; conception et réalisation artistique d’après des eaux-fortes originales de Annie Rosès. Paris: Les Océanîles, 2005.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Anacaona. Paris: Hatier, 1986, 2002; rééd. en français avec traductions (kreyòl, English et español) et une présenation de Ginette Adamson. Paris: Éditions de l’Amandier, 2015.
+Lecture au Théâtre National de Chaillot en 1985; représentée au Théâtre National de Chaillot en 1988; représentée à la Maison du Théâtre et de la Danse à Epinay-sur-Seine en 1995.
+</item>
+      </list>
+      <list subtype="essais">
+        <item>Haïti, une nation pathétique. Paris: Denoël, 1987; rééd. Paris: Maisonneuve et Larose, 2003.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« Pour une juive. » Les Lettres Modernes (juin-juillet 1969): 140-142.</item>
+      </list>
+      <list subtype="sélection de poésie parue dans des revues">
+        <item>« Comme deux fantômes », poèmes. Les Lettres Nouvelles (juin-juillet 1969).</item>
+      </list>
+      <list subtype="autres publications">
+        <item>Sapriphage, Revue de Création littéraire, numéro spécial sur Haïti sous la direction de Jean Métellus. (Nantes) 1994.</item>
+      </list>
+      <list subtype="discographie">
+        <item> Jean Metellus lit la Peau et autres poèmes. Conférence filmée de la soirée du 7 janvier 2007 au Théâtre du Lucenaire (Paris), avec la participation de l’auteur et les interventions de Ginette Adamson, Jean-Claude Charles, Louis-Philippe Dalembert, Raymond Delerme, Mariann Mathéus, Claude Mouchard, Antoine Fritz Pierre et Lionel Ray. Paris: L’Harmattan, 2007, DVD, 111 minutes.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>« Ayti: l’île oubliée », Propos recueillis par Laure Lasfargues. Différences 76 (Mars 1988).</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1982     Prix André Barré de l’Académie française.</item>
+      </list>
+      <list subtype="dictionnaires">
+        <item>Dumas, Pierre-Raymond. « Métellus: Mémoire et incarnation ». Panorama de la littérature haïtienne de la Diaspora. Paris: Collection haïtienne, 2000: 343-353.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Jean_Metellus_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/jean-metellus-la-peur-du-sommeil-mhypnotise/">La peur du sommeil m’hypnotise…</item>
+      <item ref="http://ile-en-ile.org/jean-metellus-a-propos-de-la-dette-lexceptionnel-devoir-de-la-france/">À propos de la dette ou l’exceptionnel devoir de la France</item>
+      <item ref="http://ile-en-ile.org/jean-metellus-voyance/">Voyance</item>
+      <item ref="http://ile-en-ile.org/jean-metellus-1937-2014-hommages/">Jean Métellus (1937-2014) – Hommages</item>
+      <item ref="http://www.lemonde.fr/disparitions/article/2014/01/15/jean-metellus-1937-2014-figure-de-la-scene-intellectuelle-haitienne_4348714_3382.html">Jean Metellus (1937-2014), figure de la scène intellectuelle haïtienne</item>
+      <item ref="http://lenouvelliste.com/lenouvelliste/article/125967">En guise d’hommage à Jean Métellus</item>
+      <item ref="http://www.fokal.org/fr/index.php?option=com_content&amp;view=article&amp;id=1052%3Ajean-metellus">Jean Métellus</item>
+      <item ref="http://bibliobs.nouvelobs.com/actualites/20140106.OBS1462/jean-metellus-est-mort.html">Jean Métellus est mort</item>
+      <item ref="http://youtu.be/wtc8U8yAPy4">Hommage au Dr. Jean Métellus</item>
+      <item ref="http://www.humanite.fr/culture/le-poete-et-neuro-linguiste-haitien-jean-metellus-556353">Le poète et neuro-linguiste haïtien Jean Métellus est mort</item>
+      <item ref="http://www.jeanmetellus.com/">À la mémoire de Jean Métellus</item>
+      <item ref="http://www.medi1.com/archives/archives_sonores.php">archives sonores de Medi1</item>
+      <item ref="http://orees.concordia.ca/numero2/essai/Poememetellus.html">Pour Sarah, Rachida, Leïla (pour une Juive, une Palestinienne, une Afghane)</item>
+      <item ref="http://www.webster.edu/%7Ecorbetre/haiti/bookreviews/metellus.htm">The Vortex Family:  A Family Saga Set in Haiti</item>
+      <item ref="http://www.tanbou.com/1994/Spring/Metallus.htm">Hommage à Jean Métellus</item>
+      <item ref="http://www.arts.uwa.edu.au/MotsPluriels/MP1300metellus.html">Autour du roman Les Cacos. Un entretien avec Jean Métellus</item>
+    </list>
+    <list type="spla">
+      <item ref="http://www.jeanmetellus.com">Website Jean MÃ©tellus </item>
+    </list>
   </div>
 </TEI>

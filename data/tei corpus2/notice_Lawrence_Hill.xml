@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Lawrence_Hill_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Lawrence_Hill" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notice de Lawrence Hill</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Lawrence_Hill_fiche_autorite">
+  <div n="1" xml:id="Lawrence_Hill_fiche">
     <person ana="Lawrence_Hill" sex="na">
       <persName>Lawrence Hill</persName>
       <langKnowledge>
@@ -30,5 +30,42 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Lawrence_Hill_bio">
+    <text ref="http://www.spla.pro/fiche.personne.lawrence-hill.31014.html" xml:id="Lawrence_Hill_bio_auteur_spla">
+      <p>
+        Fils d'un Noir et d'une Blanche qui ont quitté les États-Unis pour venir s'établir au 
+        <placeName ana="Canada">Canada</placeName>
+         le lendemain même de leur mariage, Lawrence Hill a grandi au cours des années soixante dans une banlieue de Toronto à prédominance blanche. Le travail de ses parents qui militaient dans des organismes de défense des droits humains l'a profondément influencé. L'identité et l'appartenance sont en effet des thèmes qu'on retrouve dans la plupart de ses écrits.Sa passion particulière pour la langue française a incité Lawrence Hill à poursuivre ses études à l'Université 
+        <placeName ana="Laval">Laval</placeName>
+        , à 
+        <placeName ana="Quebec">Québec</placeName>
+        , où il a obtenu un baccalauréat en économique. Son volontariat au bureau 
+        <placeName ana="Montrealais">Montréalais</placeName>
+         de l'organisme caritatif 
+        <placeName ana="Carrefour">Carrefour</placeName>
+         Canadien International (CCI) l'a conduit à œuvrer en 
+        <placeName ana="Afrique">Afrique</placeName>
+         de l'Ouest (Niger, Cameroun et Mali). Hill continue de soutenir l'action du CCI en tant que &quot;patron d'honneur&quot;.Lawrence Hill a été journaliste au quotidien The Globe and Mail et à la Winnipeg Free Press. Il a vécu et travaillé en 
+        <placeName ana="Espagne">Espagne</placeName>
+         et en 
+        <placeName ana="France">France</placeName>
+         avant de fréquenter la Johns Hopkins University à 
+        <placeName ana="Baltimore">Baltimore</placeName>
+        , où il a obtenu une 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         en 
+        <persName ana="Creation_Litteraire">Création Littéraire</persName>
+        . La University of Toronto et la Wilfrid Laurier University lui ont décerné des doctorats honorifiques.Lawrence Hill vit à Hamilton, en 
+        <placeName ana="Ontario">Ontario</placeName>
+        , avec sa femme et ses cinq enfants
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Lawrence_Hill_biblio"/>
+  <div n="4" xml:id="Lawrence_Hill_web">
+    <list type="spla">
+      <item ref="http://www.lawrencehill.com/">Website Lawrence Hill </item>
+    </list>
   </div>
 </TEI>

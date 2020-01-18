@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Franck_Fouche_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Franck_Fouche" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Franck Fouch�</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Franck Fouché</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Franck_Fouche_fiche_autorite">
+  <div n="1" xml:id="Franck_Fouche_fiche">
     <person ana="Franck_Fouche" sex="na">
-      <persName>Franck Fouch�</persName>
+      <persName>Franck Fouché</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -29,8 +29,23 @@
         </placeName>
       </residence>
       <occupation source="spla">Dramaturge</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Journaliste</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Franck_Fouche_bio">
+    <text ref="http://www.spla.pro/fiche.personne.franck-fouche.49712.html" xml:id="Franck_Fouche_bio_auteur_spla">
+      <p>
+        &quot;Frank Fouché est né à Saint-Marc, 
+        <placeName ana="Haiti">Haïti</placeName>
+        , le 27 novembre 1915. Diplômé de la Faculté de Droit en 1939, il a été professeur, journaliste, poète, dramaturge, essayiste, metteur en scène. Après l'accession de Duvalier au pouvoir, il s'exile au 
+        <placeName ana="Quebec">Québec</placeName>
+         en 1965 où il enseigne le français. Il est décédé le 3 janvier 1978 à 
+        <placeName ana="Montreal">Montréal</placeName>
+         des suites d'un accident de la route.&quot;(Mémoire d'Encrier)
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Franck_Fouche_biblio"/>
+  <div n="4" xml:id="Franck_Fouche_web"/>
 </TEI>

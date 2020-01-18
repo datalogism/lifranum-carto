@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Leon_Laleau_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Leon_Laleau" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de L�on Laleau</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Léon Laleau</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Leon_Laleau_fiche_autorite">
+  <div n="1" xml:id="Leon_Laleau_fiche">
     <person ana="Leon_Laleau" sex="na">
-      <persName>
-        <surname source="bnf">L�on</surname>
-        <forename source="bnf">Laleau</forename>
-      </persName>
+      <persName>Léon Laleau</persName>
       <idno type="BNF">
         cb12138437m#about
         <g ref="http://data.bnf.fr/ark:/12148/cb12138437m#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/27101960"/>
       </idno>
       <idno type="VIAF">
-        L�on_Laleau
-        <g ref="http://fr.dbpedia.org/resource/L�on_Laleau"/>
+        Léon_Laleau
+        <g ref="http://fr.dbpedia.org/resource/Léon_Laleau"/>
       </idno>
       <birth source="viaf">
         <date>1892-08-03</date>
@@ -56,6 +53,212 @@
       <occupation source="viaf">ecrivains$hommes politiques</occupation>
       <occupation source="viaf">diplomats</occupation>
       <occupation source="viaf">authors</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Vincent Stenio Pres Haiti_">
+          <persName>Vincent Sténio  pres Haiti</persName>
+        </person>
+        <person ana="Chauvigny_Louis_De">
+          <persName>Chauvigny Louis de</persName>
+        </person>
+        <person ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress">
+          <persName>Archive of Hispanic Literature on Tape Library of Congress</persName>
+        </person>
+        <person ana="Fouchard_Jean">
+          <persName>Fouchard Jean</persName>
+        </person>
+        <person ana="Fabry_Claude">
+          <persName>Fabry Claude</persName>
+        </person>
+        <person ana="Etienne_GeRard">
+          <persName>Etienne Gérard</persName>
+        </person>
+        <person ana="Carrie_Pierre">
+          <persName>Carrié Pierre</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Leon_Laleau_bio">
+    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/laleau/" xml:id="Leon_Laleau_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+         naît à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 3 août 1892 ; il y meurt le 7 septembre 1979. Il fait ses études classiques au Lycée 
+        <placeName ana="Petion">Pétion</placeName>
+         et compte parmi ses professeurs 
+        <persName ana="Fernand_Hibbert">Fernand Hibbert</persName>
+         et 
+        <persName ana="Damocles_Vieux">Damoclès Vieux</persName>
+        . Il reçoit sa licence de l’École de droit en 1912. Mais au lieu de travailler comme avocat, il se lance dans une carrière d’écrivain et de diplomate. 
+        <placeName ana="Laleau">Laleau</placeName>
+         est à la fois poète, romancier, dramaturge, essayiste, journaliste et homme politique.
+      </p>
+      <p>
+        En tant qu’homme politique, 
+        <placeName ana="Laleau">Laleau</placeName>
+         a occupé plusieurs fonctions : « il a été trois fois ministre des Affaires étrangères, ministre de l’Éducation nationale, de l’Agriculture, des Travaux publics » (
+        <placeName ana="Berrou">Berrou</placeName>
+         et Pompilus 480). Il a aussi été chef de mission diplomatique à 
+        <placeName ana="Rome">Rome</placeName>
+        , 
+        <placeName ana="Londres">Londres</placeName>
+        , 
+        <placeName ana="Paris">Paris</placeName>
+        , 
+        <placeName ana="Santiago_Du_Chili">Santiago du Chili</placeName>
+        , 
+        <placeName ana="Lima">Lima</placeName>
+         et ambassadeur en mission spéciale à 
+        <placeName ana="Ciudad_Trujillo">Ciudad Trujillo</placeName>
+        , 
+        <placeName ana="Panama">Panama</placeName>
+        , 
+        <placeName ana="La_Havane">La Havane</placeName>
+        , à l’ONU et à l’UNESCO. 
+        <placeName ana="Laleau">Laleau</placeName>
+         était le premier président de la commission 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de l’UNESCO, poste qu’il a occupé de 1950 à 1960. En 1950 il fait des interventions à l’ONU contre l’injustice raciale en 
+        <placeName ana="Afrique_Du_Sud">Afrique du Sud</placeName>
+        . Mais 
+        <placeName ana="Laleau">Laleau</placeName>
+         est surtout connu dans le domaine politique pour avoir signé l’accord qui met fin à l’occupation américaine : « le 24 juillet [1934], au siège de son département, 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+        , ministre des Relations Extérieures, signait, au nom du Président de la République [
+        <persName ana="Stenio_Vincent">Sténio Vincent</persName>
+        ], avec 
+        <persName ana="Norman_Armour">Norman Armour</persName>
+        , ministre des États-Unis à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , l’accord fixant les nouvelles dispositions intervenues à la suite de l’entrevue du 5 juillet, ainsi que le protocole de l’évacuation définitive du territoire haïtien par les forces américaines » (
+        <placeName ana="Corvington">Corvington</placeName>
+         94).
+      </p>
+      <p>
+        Très jeune, 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+         entreprend également une carrière littéraire. Sa première nouvelle « Comment mademoiselle a passé sa mi-carême » est publiée en 1912 dans Le Matin  alors qu’il est âgé de 20 ans. Dès 1916, il fait partie de l’équipe de la revue La Ligue de la jeunesse 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+          « dont le but était d’opposer à l’occupant et à sa mentalité anglo-saxonne la culture 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de langue française et la religion catholique » (
+        <placeName ana="Berrou">Berrou</placeName>
+         et Pompilus 482). Comme journaliste, 
+        <placeName ana="Laleau">Laleau</placeName>
+         a été rédacteur en chef du Matin. Il a aussi dirigé Le Nouvelliste  et 
+        <placeName ana="Haiti">Haïti</placeName>
+        -
+        <placeName ana="Journal">Journal</placeName>
+        . À 
+        <placeName ana="Paris">Paris</placeName>
+        , il a collaboré entre autres au Figaro  et au Mercure de 
+        <placeName ana="France">France</placeName>
+        .
+      </p>
+      <p>
+        Si aujourd’hui 
+        <placeName ana="Laleau">Laleau</placeName>
+         est connu à travers le monde pour sa poésie, celle-ci ne constitue pas la totalité de son œuvre littéraire. Entre 1916 et 1920, il écrit une dizaine de pièces de théâtre (quelques-unes en collaboration avec 
+        <persName ana="Georges Leger_N">Georges N. Léger</persName>
+        ) ; la plupart restent inédites. Les pièces de 
+        <placeName ana="Laleau">Laleau</placeName>
+        , dont le thème principal est l’amour, ont été jouées au Parisiana  et Ciné-Variété.
+      </p>
+      <p>
+        L’œuvre en prose de 
+        <placeName ana="Laleau">Laleau</placeName>
+         est abondante, mais difficile à cerner parce qu’elle se trouve principalement dans les revues et journaux de son époque.
+      </p>
+      <p>De la même façon, il a préfacé de nombreux textes écrits par ses contemporains. Ses contes et nouvelles sont au nombre d’une quarantaine. Le mariage et le divorce, l’amour en général, sont les thèmes dominants de ce corpus ainsi que de son œuvre théâtrale.</p>
+      <p>
+        Le Choc, le roman le plus connu de 
+        <placeName ana="Laleau">Laleau</placeName>
+        , contient aussi une histoire d’amour, mais c’est surtout un roman de l’occupation américaine : « Tout dans ce livre évoque 
+        <placeName ana="Haiti">Haïti</placeName>
+         sous la botte américaine, ou plus précisément l’âme 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         et sa culture en conflit avec l’étranger, différent et incompréhensif » (
+        <placeName ana="Berrou">Berrou</placeName>
+         et Pompilus 681). D’ailleurs, comme plusieurs autres auteurs écrivant durant l’occupation américaine, 
+        <placeName ana="Laleau">Laleau</placeName>
+         fait appel à des faits réels pour construire son roman. Dans son avertissement, il déclare que « ceci n’est pas un roman. Ni un acte d’accusation. Encore moins un plaidoyer. Rien que des faits notés comme ils furent vécus ». Ce récit témoigne du penchant de 
+        <placeName ana="Laleau">Laleau</placeName>
+         pour 
+        <placeName ana="La_France">la France</placeName>
+         ou plutôt d’une francophilie commune aux jeunes de la classe moyenne de son époque. Cependant, en plus des critiques adressées aux occupants, 
+        <placeName ana="Laleau">Laleau</placeName>
+         peint l’effet néfaste du paternalisme français à l’égard des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         dans ce roman. À la fin du Choc, le héros, 
+        <persName ana="Maurice_Desroches">Maurice Desroches</persName>
+        , suivra le conseil du prêtre français Le Ganet et laissera son pays à la 
+        <placeName ana="Merci">Merci</placeName>
+         des Américains pour aller se battre aux côtés des Français dans le cadre de la première guerre mondiale.
+      </p>
+      <p>
+        Les premiers poèmes de 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+         apparaissent dans Le Matin  et l’Humanité. 
+        <persName ana="Raphael_Berrou">
+          Raphaël 
+          <placeName ana="Berrou">Berrou</placeName>
+        </persName>
+         et 
+        <persName ana="Pradel_Pompilus">Pradel Pompilus</persName>
+         décernent à 
+        <persName ana="Leon_Laleau">
+          Léon 
+          <placeName ana="Laleau">Laleau</placeName>
+        </persName>
+         la distinction « d’avoir introduit le vers libre dans la poésie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         en 1917 ». Si au début, le poète garde ses distances par rapport au mouvement indigéniste, il écrit des poèmes comprenant des thèmes qu’on peut qualifier d’indigénistes par la suite. Son poème « Trahison » en est l’exemple le plus célèbre.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Leon_Laleau_biblio">
+    <div ref="http://ile-en-ile.org/laleau/" xml:id="Leon_Laleau_biblio_auteur_ile_en_ile">
+      <list subtype="poésie">
+        <item>À voix basse. 1919.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Une cause sans effet, comédie en deux actes (avec Georges N. Léger). Port-au-Prince: Imprimerie de L’Abeille, 1916.</item>
+      </list>
+      <list subtype="romans">
+        <item>La Danse des vagues, roman haïtien. Port-au-Prince: Imprimerie A.A. Heureaux, 1919.</item>
+      </list>
+      <list subtype="nouvelles sélectionnées">
+        <item>« Comment mademoiselle a passé sa mi-carème ». Le Matin (1912).</item>
+      </list>
+      <list subtype="essais">
+        <item>Maurice Rostand intime. Paris: Éditions du Monde moderne, 1926.</item>
+      </list>
+      <list subtype="prix et distinctions">
+        <item>1935     L’ordre mexicain de l’aigle Aztec decerné à Laleau, Ministre des Affaires Étrangères d’Haïti</item>
+      </list>
+      <list subtype="sur l’oeuvre de léon laleau">
+        <item>Berrou, F. Raphaël et Pradel Pompilus. Histoire de la littérature haïtienne illustrée par les textes. Tome II.  Port-au-Prince: Éditions Caraïbes, 1975.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Leon_Laleau_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/laleau-cesaire/">Je présente Aimé Césaire</item>
+      <item ref="http://ile-en-ile.org/leon-laleau-musique-negre/">Musique nègre</item>
+      <item ref="http://ile-en-ile.org/rene-philoctete-textes-lus-par-rene-philoctete/">René Philoctète, textes lus par l’auteur</item>
+    </list>
   </div>
 </TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Louis_Philippe_Dalembert" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Louis Philippe Dalembert</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Louis_Philippe_Dalembert_fiche">
+    <person ana="Louis_Philippe_Dalembert" sex="na">
+      <persName>Louis Philippe Dalembert</persName>
+      <birth source="viaf">
+        <date>1962-12-08</date>
+      </birth>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="viaf">spisovatele</occupation>
+      <occupation source="viaf">journalists</occupation>
+      <occupation source="viaf">basnici</occupation>
+      <occupation source="viaf">authors</occupation>
+      <occupation source="viaf">actors</occupation>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="Trouillot_Lyonel">
+          <persName>Trouillot Lyonel</persName>
+        </person>
+        <person ana="Damoison_David">
+          <persName>Damoison David</persName>
+        </person>
+        <person ana="Chemla_Yves">
+          <persName>Chemla Yves</persName>
+        </person>
+        <person ana="Trier_Peter">
+          <persName>Trier Peter</persName>
+        </person>
+        <person ana="Mccormick Robert_H">
+          <persName>McCormick Robert H</persName>
+        </person>
+        <person ana="Editions_Du_Rocher">
+          <persName>Éditions du Rocher</persName>
+        </person>
+        <person ana="Telemaque_Herve">
+          <persName>Télémaque Hervé</persName>
+        </person>
+        <person ana="Trouillot_Evelyne">
+          <persName>Trouillot Evelyne</persName>
+        </person>
+        <person ana="LaferrieRe_Dany">
+          <persName>Laferrière Dany</persName>
+        </person>
+        <person ana="Gary_Romain">
+          <persName>Gary Romain</persName>
+        </person>
+      </listPerson>
+    </person>
+  </div>
+  <div n="2" xml:id="Louis_Philippe_Dalembert_bio">
+    <text ref="http://ile-en-ile.org/dalembert/" xml:id="Louis_Philippe_Dalembert_bio_auteur_ile_en_ile">
+      <p>
+        Louis-
+        <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+         est né le 8 décembre 1962 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Grand voyageur (les 
+        <placeName ana="Ameriques_Du_Nord">Amériques du Nord</placeName>
+         et du Sud, les 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        , l’
+        <placeName ana="Afrique">Afrique</placeName>
+         du Nord et l’
+        <placeName ana="Afrique">Afrique</placeName>
+         noire, le Moyen-Orient, 
+        <placeName ana="L’Europe">l’Europe</placeName>
+        ), ses adresses se suivent et ne se ressemblent pas. Cet homme-tortue, ce vagabond comme il se définit lui-même, a vécu une dizaine d’années à 
+        <placeName ana="Paris">Paris</placeName>
+        , où il a réalisé ses études universitaires et exercé la profession de journaliste. Séjourne une première fois à 
+        <placeName ana="Rome">Rome</placeName>
+         en 1994/95, en tant que pensionnaire de la très convoitée Villa Médicis, ville où il aura vécu en tout six ans. Après un bref retour au pays natal (1996), un voyage de plusieurs mois dans les 
+        <placeName ana="Andes">Andes</placeName>
+         l’aide à s’éloigner de la politique. Détenteur d’une bourse de résidence UNESCO-Aschberg, il séjourne longuement à 
+        <placeName ana="Jerusalem">Jérusalem</placeName>
+        , d’où il visite pour la seconde fois 
+        <placeName ana="Israel">Israël</placeName>
+        , la 
+        <placeName ana="Palestine">Palestine</placeName>
+        , l’
+        <placeName ana="Egypte">Egypte</placeName>
+        , la 
+        <placeName ana="Jordanie">Jordanie</placeName>
+        , une partie du monde qui influence beaucoup sa poésie.
+      </p>
+      <p>
+        Dalembert élabore, aussi bien en poésie qu’en prose, une œuvre fortement marquée par les thématiques du vagabondage, concept qu’il préfère à celui de l’errance, et de l’enfance. Les deux thématiques semblent liées dans l’esprit de l’auteur pour qui on 
+        <placeName ana="Passe">Passe</placeName>
+         de l’enfance à l’âge adulte comme on émigre d’un pays à un autre. La thématique du vagabondage surtout est ainsi présente dès ses tout premiers livres; même si l’enfance n’est pas de reste. Une troisième thématique récurrente chez Dalembert: la Bible, mieux l’Ancien Testament, trace d’une éducation familiale très religieuse placée sous le signe du shabbat.
+      </p>
+      <p>
+        Louis-
+        <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+         est par ailleurs diplômé de l’Ecole normale supérieure de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , diplômé de l’Ecole supérieure de journalisme de 
+        <placeName ana="Paris">Paris</placeName>
+         et auteur d’une thèse de doctorat en littérature comparée sur l’écrivain cubain 
+        <persName ana="Alejo_Carpentier">Alejo Carpentier</persName>
+         (université de 
+        <placeName ana="Paris">Paris</placeName>
+         III-
+        <persName ana="Sorbonne_Nouvelle">Sorbonne Nouvelle</persName>
+        ).
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.louis-philippe-dalembert.5052.html" xml:id="Louis_Philippe_Dalembert_bio_auteur_spla">
+      <p>
+        Né en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1962, Louis-
+        <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+         est romancier, nouvelliste et poète. Il a publié chez Stock un premier roman intitulé Le crayon du bon Dieu n'a pas de gomme, ainsi qu'un grand nombre de nouvelles et poésies. Dans son roman, L'autre face de la 
+        <placeName ana="Mer">Mer</placeName>
+         (Stock - 1998), il décrit, au travers des récits croisés d'une grand-mère et de son petit-fils, l'une des expériences humaines les plus importantes de notre siècle, la migration. Une expérience vécue et racontée à partir de la 
+        <placeName ana="Terre">Terre</placeName>
+         de départ et des terres d'arrivée. Dans sa dernière parution, Vaudou! Vodou! Tambour pour les anges (Editions Autrement - 2003), Louis-
+        <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
+         choisit la littérature pour nous dire les mots et les choses du &quot;vodou&quot;. Cet ouvrage comprend aussi 70 photos de 
+        <persName ana="David_Damoison">David Damoison</persName>
+         et une postface de 
+        <persName ana="Laennec_Hurbon">Laënnec Hurbon</persName>
+        , anthropologue. voir aussi la fiche de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Louis_Philippe_Dalembert_biblio">
+    <div ref="http://ile-en-ile.org/dalembert/" xml:id="Louis_Philippe_Dalembert_biblio_auteur_ile_en_ile">
+      <list subtype="ouvrage collectif">
+        <item>Louis-Philippe Dalembert; entre vagabondage et humanisme. Sous la direction de Daniel-Henri Pageaux. Paris: L’Harmattan, 2018. Essais par : Étienne Achille, Emanuela Cacchioli, Yves Chemla, Gaëlle Cooreman, Odile Gannier, Marcelo Marinho, Daniel-Henri Pageaux, Alba Pessini, Stève Puig, Hugues Saint-Fort, Jean-Marie Théodat et Alessa Vignoli.</item>
+      </list>
+      <list subtype="essais">
+        <item>Blondi, Monica. « Le Songe d’une photo d’enfance di Louis-Philippe Dalembert, traduzione e commento. » Mémoire de maîtrise sous la direction de Françoise Bonali Fiquet et Alba Pessini. Università degli Studi di Parma, Facoltà di Letteratura e Filosofia, Année Académique 2001-2002.</item>
+      </list>
+      <list subtype="på dansk">
+        <item>« Macaronade. »  Rosita. Noveller og digte fra Haiti. Trad. Ingegerd Nissen Petersen. Copenhagen: Udkommer, 2002.</item>
+      </list>
+      <list subtype="auf deutsch">
+        <item>Die Insel am Ende der Träume. Trad. Peter Trier. Trier (Trèves, Allemagne): Litradukt, 2007.</item>
+      </list>
+      <list subtype="in english">
+        <item>« The Story of Dance and Rain ». (« Histoire de danse et de pluie »). Trad. Anne M. François. Calabash (New York) 1.1 (Septembre 2000): 1-10.</item>
+      </list>
+      <list subtype="en español">
+        <item>El lápiz del buen Dios no tiene goma. Trad. Manuel Serrat Crespo. Madrid: Ediciones del Bronce, 2002.</item>
+      </list>
+      <list subtype="in italiano">
+        <item>La matita del Buon Dio non ha la gomma. Trad. Maurizio Ferrara. Roma: Edizioni Lavoro, 1997.</item>
+      </list>
+      <list subtype="em português">
+        <item>O Lápis do bom Deus não tem borracha. Trad. Marcelo Marinho e Fernanda Giglio. Campo Grande-MS: Letra Livre Editora, 2010.</item>
+      </list>
+      <list subtype="in serbo">
+        <item>« Macaronade ». Trad. Vesna Cakeljic. Od Haitija do Madagaskara: Antologija frankofone prie (collectif). Belgrade: Clio, 1997: 7-19.</item>
+      </list>
+      <list subtype="romans">
+        <item>Le Crayon du bon Dieu n’a pas de gomme. Paris: Stock, 1996; Paris: Le Serpent à Plumes (Motifs), 2004; Port-au-Prince: Presses Nationales d’Haïti, 2006.</item>
+      </list>
+      <list subtype="récit">
+        <item> Vodou! Un tambour pour les anges, récit. Photos de David Damoison, Préface de Laënnec Hurbon. Paris: Autrement, 2003.</item>
+      </list>
+      <list subtype="document">
+        <item>Le roman de Cuba. Paris: Du Rocher, 2009.</item>
+      </list>
+      <list subtype="recueils de nouvelles">
+        <item>Le Songe d’une photo d’enfance. Paris: Le Serpent à Plumes, 1993; Paris: Le Serpent à Plumes (Motifs), 2005.</item>
+      </list>
+      <list subtype="nouvelles dans des ouvrages collectifs">
+        <item>« Macaronade ».  Le Serpent à Plumes 15 (printemps 1992): 23-26. Également publié dans: Le Grand Cri caraïbe (collectif).  Paris: Serpent à Plumes, 1995: 91-110.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Evangile pour les miens. Port-au-Prince: Choucoune, 1982.</item>
+      </list>
+      <list subtype="poésie dans des ouvrages collectifs">
+        <item>Du temps et d’autres nostalgies. Les Cahiers de la Villa Médicis 9.1 (1995): 24-38.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>« Caraïblues ». RFI, août 1991.</item>
+      </list>
+      <list subtype="articles sélectionnés">
+        <item>« René Depestre opine sur la situation en Haïti ».  Le Courrier, Port-au-Prince (16-23 mai 1986): 6-9.</item>
+      </list>
+      <list subtype="direction d’ouvrages">
+        <item>I Caraibi prima di Cristoforo Colombo: la Cultura del popolo Taíno (in collaborazione con Carlo Nobili e Daniela Zanin). Rome: Istituto Italo-Latino Americano, 1998.</item>
+      </list>
+      <list subtype="travaux universitaires">
+        <item>« La Représentation du vaudou dans l’oeuvre de René Depestre ». Mémoire de maîtrise en Littérature Générale et Comparée sous la direction du Prof. Daniel-Henri Pageaux; Université Paris III – Sorbonne Nouvelle: 1988.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1987     Grand prix de poésie de la Ville d’Angers pour le recueil Et le soleil se souvient (sur manuscrit).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Louis_Philippe_Dalembert_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/louis-philippe-dalembert-les-intouchables/">Les intouchables</item>
+      <item ref="http://ile-en-ile.org/louis-philippe-dalembert-le-jour-ou-jai-pleure/">Le jour où j’ai pleuré </item>
+      <item ref="http://ile-en-ile.org/kiskeya-dalembert/">Kiskeya, l’île mystérieuse</item>
+      <item ref="http://ile-en-ile.org/louis-philippe-dalembert-5-questions-pour-ile-en-ile/"> Louis-Philippe Dalembert, 5 Questions pour Île en île</item>
+      <item ref="http://perso.wanadoo.fr/office.du.livre/Pages/extraits.html">L’Étoile de Santiago</item>
+      <item ref="http://www.fl.ulaval.ca/cuentos/dalembert.htm">La Frontière</item>
+      <item ref="http://www.fucine.com/archivio/fm08/dalembert.htm">Trois poèmes des Pages cendres et palmes d’aube</item>
+      <item ref="https://www.editionsdurocher.fr/auteur/fiche/47868-louis-philippe-dalembert">Du Rocher</item>
+      <item ref="http://www.lehman.cuny.edu/ile.en.ile/boutures/0103/chemla.html">Comprendre depuis l’autre bord de l’eau</item>
+      <item ref="http://homepage.mac.com/chemla/fic_doc/dalemb_faub01.html">Rue du Faubourg Saint-Denis</item>
+      <item ref="http://www.sitartmag.com/dalembert.htm">Quand l’humour l’emporte</item>
+      <item ref="http://www.congopage.com/article.php3?id_article=2848">Faites donc un tour rue du Faubourg Saint-Denis</item>
+      <item ref="http://www.monde-diplomatique.fr/1996/12/WABERI/7463.html">Haïti chérie: Le temps et l’exil</item>
+    </list>
+  </div>
+</TEI>

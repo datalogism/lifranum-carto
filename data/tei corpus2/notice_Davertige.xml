@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Davertige" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Davertige</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Davertige_fiche">
+    <person ana="Davertige" sex="na">
+      <persName>Davertige</persName>
+      <death source="ile_en_ile_auto">
+        <date>2004-01-25 00:00:00+00:00</date>
+      </death>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+      <occupation source="spla"> Poète</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Davertige_bio">
+    <text ref="http://ile-en-ile.org/davertige/" xml:id="Davertige_bio_auteur_ile_en_ile">
+      <p>
+        Le poète Davertige naît 
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 2 décembre 1940. Son père 
+        <persName ana="Aristhene_Denis">Aristhène Denis</persName>
+        , maître d’hôtel, et sa mère 
+        <persName ana="Jeanne_Fequiere">Jeanne Féquière</persName>
+        , originaire de 
+        <placeName ana="Cavaillon">Cavaillon</placeName>
+        , se sont 
+        <placeName ana="Maries">Mariés</placeName>
+         en 1933. Ils ont eu quatre enfants: William, Raymonde, Daniel et Villard.
+      </p>
+      <p>
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         vit avec ses parents dont la propriété est limitée par la plantation Laforesterie, domaine situé à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         au bas du quartier Morne L’Hôpital. Sa mère lui fait croire qu’il est d’origine bourgeoise. Devenu adulte, il garde l’impression d’avoir vécu, enfant, dans un château.
+      </p>
+      <p>
+        Très tôt, il apprend le français et le parle couramment grâce à une 
+        <placeName ana="Guadeloupeenne">Guadeloupéenne</placeName>
+        , Alice, dame âgée hébergée par ses parents de 1939 à 1945 et qu’il appelle affectueusement Grand-mère Alice. À cinq ans, 
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         tombe de l’escalier extérieur de la 
+        <placeName ana="Maison">Maison</placeName>
+        . Depuis, il est considéré comme un gamin de santé délicate. À six ans, il entre aux Cours privés 
+        <persName ana="Colbert_Bonhomme">Colbert Bonhomme</persName>
+         où il fait ses études primaires.
+      </p>
+      <p>
+        À neuf ans, sa famille remarque son intérêt pour le dessin et les arts plastiques. Ses parents l’encouragent à condition que cela ne nuise à ses études. Comme il ne peut jouer avec ses camarades à cause de son état maladif, il lit des manuels de littérature française, du Moyen-âge jusqu’à la Révolution française. Ainsi, il fréquente l’œuvre de Villon, de 
+        <persName ana="Du_Bellay">Du Bellay</persName>
+         et d’autres classiques.
+      </p>
+      <p>
+        À douze ans, parallèlement à ses études secondaires aux Cours privés 
+        <persName ana="Simon_Bolivar">
+          Simon 
+          <placeName ana="Bolivar">Bolivar</placeName>
+        </persName>
+        , il entre au Centre de céramique de l’Éducation nationale où il travaille avec le peintre et céramiste Tiga. Il y rencontre également d’autres artistes. Au fil de ses lectures, il acquiert une autonomie de pensée et prend conscience des mensonges sociaux et familiaux.
+      </p>
+      <p>
+        Il commence à fréquenter le Foyer des Arts plastiques en 1954. Il entreprend son apprentissage sous la direction du peintre Dieudonné Cédor qu’il considère comme son maître. Il dévore la bibliothèque du Foyer et découvre l’ouvrage La vie de 
+        <persName ana="Van_Gogh">Van Gogh</persName>
+         (Hachette, 1959) qui l’attriste profondément. Il se dit: «Je serai comme 
+        <persName ana="Van_Gogh">Van Gogh</persName>
+         qui de son vivant n’a pas vendu un seul tableau». Très sombres, ses premières toiles n’intéressent personne. La vie intellectuelle du Foyer lui permet pourtant d’être au fait de l’actualité culturelle parisienne et mondiale.
+      </p>
+      <p>Il écrit ses premiers poèmes à dix-sept ans. Communiste, il participe activement à la lutte des étudiants.</p>
+      <p>
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         expose en février 1958 ses premières toiles à la Société nationale d’art dramatique (S.N.A.D.). Il présente, entre autres, la toile «Christ nègre». Marquée par le réalisme socialiste, son œuvre rend compte de l’injustice du monde. L’exposition est saluée par l’historien Michel-
+        <persName ana="Philippe_Lerebours">Philippe Lerebours</persName>
+         dans la revue Coumbite.
+      </p>
+      <p>
+        En 1959, il présente ses premiers poèmes sous le pseudonyme de Davertige, le nom de 
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         étant trop rattaché à ses activités de peintre. Il rencontre 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+        , le premier poète à qui il montre ses poèmes. Il se lie d’amitié avec le poète 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         à la suite d’une séance du groupe littéraire Samba. Ce groupe de poètes – 
+        <persName ana="Roland_Morisseau">Roland Morisseau</persName>
+        , 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+        , Davertige, 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+        , 
+        <persName ana="Anthony_Phelps">Anthony Phelps</persName>
+        , 
+        <persName ana="Auguste_Thenor">Auguste Thénor</persName>
+         – deviendra par la suite 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire.
+      </p>
+      <p>
+        En 1960, il achète la bibliothèque du peintre 
+        <persName ana="Jacques_Gabriel">Jacques Gabriel</persName>
+        . Il apprend par la suite que la bibliothèque avait d’abord appartenu au peintre et intellectuel 
+        <persName ana="Roland_Dorcely">Roland Dorcély</persName>
+        . Les ouvrages avaient été soigneusement choisis par les écrivains français 
+        <persName ana="Maurice_Nadeau">Maurice Nadeau</persName>
+         et 
+        <persName ana="Michel_Leiris">Michel Leiris</persName>
+        .
+      </p>
+      <p>
+        Pour mieux incarner la modernité, 
+        <placeName ana="Philoctete">Philoctète</placeName>
+         et Davertige veulent rompre avec la tradition poétique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , parnassienne et romantique. Ils suivent les traces du poète Magloire-Saint-
+        <placeName ana="Aude">Aude</placeName>
+        . Les grandes amitiés développées au sein d’
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire – Davertige et Legagneur; Morisseau et 
+        <placeName ana="Philoctete">Philoctète</placeName>
+         – enrichissent énormément leurs créations.
+      </p>
+      <p>
+        Suite à l’arrestation de son ami, l’étudiant 
+        <persName ana="Jacques_Duvieulla">Jacques Duvieulla</persName>
+        , Davertige se réfugie chez une dame lavandière de profession, amie de son mentor Cédor, en banlieue de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        . Il écrit alors son recueil Idem de septembre 1960 à février 1961. Il 
+        <placeName ana="Passe">Passe</placeName>
+         son temps à lire ses poèmes à haute voix, à la Lautréamont.
+      </p>
+      <p>
+        À Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , le 7 janvier 1962, Idem paraît, publié sous les presses de l’Imprimerie Théodore à compte d’auteur, et préfacé par le poète 
+        <persName ana="Serge_Legagneur">Serge Legagneur</persName>
+         dans la collection 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire. Pour payer le tirage des 300 copies, Davertige vend sa voiture, une Jeep Willis. Comme la somme n’est pas suffisante, il supprime – sous la pression de Théodore – le quart du texte qu’il balance dans un égoût. Les poèmes jetés sont des textes engagés, influencés par le réalisme socialiste.
+      </p>
+      <p>
+        Le poème «
+        <placeName ana="Petion">Pétion</placeName>
+        -Ville en blanc et noir», le dernier du recueil, est un témoignage de son séjour forcé chez la lavandière. Ce poème, écrit le 9 février 1961, facile d’accès, est une concession à la gauche 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , fervente de réalisme socialiste, qui l’accuse d’être hermétique.
+      </p>
+      <p>
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         vit de sa peinture de 1960 à 1962, ce qui permet à Davertige d’écrire. Il travaille pour 
+        <persName ana="Issa_El_Saieh">Issa El Saieh</persName>
+        , galeriste, gagnant près de quatre cents dollars par mois.
+      </p>
+      <p>
+        En 1962, il troque sa peinture contre des livres à la Librairie Select où il rencontre le libraire Noisy et l’un des grands lecteurs de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , 
+        <persName ana="Guy_Dallemand">Guy Dallemand</persName>
+        . Il fréquente également la librairie La Pléïade. Ses lectures lui sont fructueuses; plus tard, à 
+        <placeName ana="Paris">Paris</placeName>
+        , rien ne lui sera étranger. Il lit Saint-
+        <persName ana="John_Perse">John Perse</persName>
+        , les poètes afro-américains et les voix de la 
+        <placeName ana="Negritude">Négritude</placeName>
+        : 
+        <persName ana="Aime_Cesaire">Aimé Césaire</persName>
+        , Léon-
+        <persName ana="Gontran_Damas">Gontran Damas</persName>
+        , 
+        <persName ana="Leopold_Sedar_Senghor">Léopold Sedar Senghor</persName>
+        …
+      </p>
+      <p>Au début des années 1960, malgré sa renommée de peintre et de poète, il n’a pas de fiancée. Bohème, il fréquente de temps à autre les prostituées.</p>
+      <p>
+        En 1962, le critique littéraire 
+        <persName ana="Maurice_Lubin">Maurice Lubin</persName>
+        , à l’occasion d’un séjour à 
+        <placeName ana="Paris">Paris</placeName>
+        , fait circuler les œuvres du groupe 
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire et adresse une copie d’Idem au poète 
+        <persName ana="Alain_Bosquet">
+          Alain 
+          <placeName ana="Bosquet">Bosquet</placeName>
+        </persName>
+        . En 1963, celui-ci salue le génie de l’auteur d’Idem dans le 
+        <placeName ana="Journal">Journal</placeName>
+         Le Monde.
+      </p>
+      <p>
+        En 1963, les poètes d’
+        <placeName ana="Haiti">Haïti</placeName>
+         Littéraire – Morisseau, 
+        <placeName ana="Philoctete">Philoctète</placeName>
+        , Phelps et Thénor – sont applaudis par 
+        <persName ana="Eugenie_Galperina">Eugénie Galpérina</persName>
+        , critique littéraire soviétique. Dans son article, repris en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , le nom de Davertige est malencontreusement omis. Afin de réparer l’injustice, 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         écrit un article élogieux sur Idem dans la revue Semences.
+      </p>
+      <p>
+        Dans un entretien accordé à la revue franco-
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         Conjonction, en 1964, Davertige déclare: «Je n’ai aucune honte, moi, à dire qu’un jeune écrivain qui nourrit beaucoup d’ambitions doit s’expatrier. Par besoin d’oxygène». Quelques mois plus tard, avec l’intention d’explorer 
+        <placeName ana="L_Europe">l’Europe</placeName>
+        , Davertige s’arrête quelques jours à 
+        <placeName ana="New_York">New York</placeName>
+        ; il y demeure un an. Il travaille alors à 
+        <persName ana="Art_D_Haiti">
+          Art d’
+          <placeName ana="Haiti">Haïti</placeName>
+        </persName>
+        , petite boutique de peinture tenue par 
+        <persName ana="Leon_Chalom">Léon Chalom</persName>
+         où il fait de l’art commercial pour le compte de la 
+        <placeName ana="Maison">Maison</placeName>
+         Carlman.
+      </p>
+      <p>
+        La même année, par l’entremise d’un ami commun, il fait la connaissance d’
+        <persName ana="Alain_Bosquet">
+          Alain 
+          <placeName ana="Bosquet">Bosquet</placeName>
+        </persName>
+         au Carnegie Hall. La rencontre est chaleureuse. 
+        <placeName ana="Bosquet">Bosquet</placeName>
+         écrit un élogieux article sur Idem dans Combat en 1965. Avec une préface de 
+        <placeName ana="Bosquet">Bosquet</placeName>
+        , Idem est réédité à 
+        <placeName ana="Paris">Paris</placeName>
+         à 650 exemplaires chez Seghers. Davertige vit toujours aux États-Unis. Une note parue dans L’Express dit, à tort: «poursuivi par les tonton-macoutes de Duvalier, il ne pouvait plus retourner en 
+        <placeName ana="Haiti">Haïti</placeName>
+        ».
+      </p>
+      <p>
+        En octobre 1965, Davertige arrive à 
+        <placeName ana="Paris">Paris</placeName>
+         où il vit dans un petit hôtel du Quartier Latin. Davertige est assez heureux de sa rencontre avec le milieu parisien. Il fréquente les poètes 
+        <persName ana="Alain_Bosquet">
+          Alain 
+          <placeName ana="Bosquet">Bosquet</placeName>
+        </persName>
+        , 
+        <persName ana="Pierre_Emmanuel">Pierre Emmanuel</persName>
+        , 
+        <persName ana="Andre_Laude">André Laude</persName>
+        … Les écrivains français lui rendent hommage dans une mise en espace d’Idem.
+      </p>
+      <p>
+        En 1967, toujours à 
+        <placeName ana="Paris">Paris</placeName>
+        , il s’installe avec une jeune Française, Chantale, rencontrée dans le cadre de ses activités politiques avec le groupe gauchiste F.A.R.H. Leur fille Éléonore naît en 1968.
+      </p>
+      <p>Au début des années 70: la désillusion. Le poète considère avoir tout perdu en Europe: le sens de la langue française, son prestige et son génie.</p>
+      <p>
+        De 1967 à 1973, il voit quotidiennement le poète 
+        <persName ana="Gary_Klang">Gary Klang</persName>
+        , rue Gay-
+        <placeName ana="Lussac">Lussac</placeName>
+        , 5ème arrondissement. Il fréquente également des intellectuels 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         de 
+        <placeName ana="Paris">Paris</placeName>
+         comme 
+        <persName ana="Gerard_Aubourg">Gérard Aubourg</persName>
+        , 
+        <persName ana="Daniel_Arty">Daniel Arty</persName>
+        , Jean-
+        <persName ana="Claude Garo_O">Claude O’Garo</persName>
+        .
+      </p>
+      <p>
+        En 1968, avec les dirigeants du 
+        <persName ana="Farh_Fred">F.A.R.H. Fred</persName>
+         et 
+        <persName ana="Reneld_Baptiste">
+          Reneld 
+          <placeName ana="Baptiste">Baptiste</placeName>
+        </persName>
+        , Davertige part pour 
+        <placeName ana="La_Chine">la Chine</placeName>
+         où ils entreprennent des démarches auprès 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         pour obtenir de l’argent et des munitions, mais 
+        <placeName ana="La_Chine">la Chine</placeName>
+         ne manifeste aucun intérêt pour les luttes révolutionnaires en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>Au début des années 70, Davertige commence la rédaction d’un roman qu’il espère l’œuvre de sa vie. Il cumule plus de 2000 pages d’une calligraphie menue, sans marge ni espacement. Plus tard, il met tout au feu.</p>
+      <p>
+        En 1970, à 
+        <placeName ana="Paris">Paris</placeName>
+        , il rencontre 
+        <persName ana="Herard_Jadotte">Hérard Jadotte</persName>
+        , éditeur de la 
+        <placeName ana="Maison">Maison</placeName>
+         d’édition Nouvelle Optique, qui l’invite à venir vivre à 
+        <placeName ana="Montreal">Montréal</placeName>
+        . En 1976, il rompt avec Chantale et quitte 
+        <placeName ana="Paris">Paris</placeName>
+         pour 
+        <placeName ana="Montreal">Montréal</placeName>
+        .
+      </p>
+      <p>
+        De 1976 à 2002, il se replie sur lui-même. Il peint et récrit Racine et Lafontaine. Il entame une voie mystique. «Les ténèbres: la vie s’achève. Plus de 
+        <persName ana="Villard_Denis">Villard Denis</persName>
+        . Davertige est au passé. Son représentant 
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         est mort.»
+      </p>
+      <p>
+        En 1987, il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il séjourne pendant six mois chez son ami 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+        . En 1999, invité à exposer ses œuvres, il retourne à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         à l’occasion de la Rencontre des ministres latino-américains.
+      </p>
+      <p>
+        En 2003, il récrit la plupart des poèmes d’Idem, dessine et participe activement à la publication de ses œuvres chez Mémoire d’encrier à 
+        <placeName ana="Montreal">Montréal</placeName>
+        , parues sous le titre Davertige, Anthologie secrète. L’ouvrage a été lancé au Salon du Livre de 
+        <placeName ana="Montreal">Montréal</placeName>
+         en novembre 2003.
+      </p>
+      <p>
+        Davertige (
+        <persName ana="Villard_Denis">Villard Denis</persName>
+        ) est mort à 
+        <placeName ana="Montreal">Montréal</placeName>
+         le 25 juillet 2004. Une série de textes-hommages avec des encres de Davertige – de la série «Aluminium fantôme» – seront prochainement mis en ligne sur Île en île.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.davertige.14086.html" xml:id="Davertige_bio_auteur_spla">
+      <p>
+        Le poète Davertige naît 
+        <persName ana="Villard_Denis">Villard Denis</persName>
+         à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 2 décembre 1940. Son père 
+        <persName ana="Aristhene_Denis">Aristhène Denis</persName>
+        , maître d'hôtel, et sa mère 
+        <persName ana="Jeanne_Fequiere">Jeanne Féquière</persName>
+        , originaire de 
+        <placeName ana="Cavaillon">Cavaillon</placeName>
+        , se sont 
+        <placeName ana="Maries">Mariés</placeName>
+         en 1933. Ils ont eu quatre enfants: William, Raymonde, Daniel et Villard. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Davertige_biblio">
+    <div ref="http://ile-en-ile.org/davertige/" xml:id="Davertige_biblio_auteur_ile_en_ile">
+      <list subtype="poèmes">
+        <item>Bientôt en ligne : « Pétion-Ville en Blanc et noir », « Prologue », « À la recherche de ma croyance ».</item>
+      </list>
+      <list subtype="poésie">
+        <item>Idem. Port-au-Prince: Imprimerie Théodore, 1962.</item>
+      </list>
+      <list subtype="poésie parue dans des revues">
+        <item>« En ton honneur » (extraits). Semences 2 (1962).
+</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>Quatre Poètes d’Haïti: Davertige, Legagneur, Morisseau, Phelps. Poésie dite par Anthony Phelps. (Poèmes de Davertige dits par Émile Ollivier). Montréal: Les Disques Coumbite et Les Productions Caliban, 1982.</item>
+      </list>
+      <list subtype="sur l’oeuvre de davertige">
+        <item>Adolphe, Armand. « Entrevue avec Davertige ». Le Nouvelliste (17 février 1962).</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Davertige_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/davertige-anacaona/">Anacaona</item>
+      <item ref="http://ile-en-ile.org/davertige-la-beaute-et-lamour-comme-inquietude/">La beauté et l’amour comme inquiétude</item>
+      <item ref="http://ile-en-ile.org/davertige-lile-dechainee/">L’île déchaînée</item>
+      <item ref="http://ile-en-ile.org/davertige-la-legende-de-villard-denis/">La légende de Villard Denis</item>
+      <item ref="http://ile-en-ile.org/davertige-omabarigore/">Omabarigore</item>
+      <item ref="http://ile-en-ile.org/davertige-aluminium-fantome/">Aluminium fantôme</item>
+      <item ref="http://ile-en-ile.org/davertige-preface-a-la-premiere-edition-didem/">Préface à la première édition d’Idem</item>
+      <item ref="http://ile-en-ile.org/davertige-un-seisme-davertige/">Un séisme : Davertige</item>
+      <item ref="http://ile-en-ile.org/davertige-note-de-lediteur/">Note de l’éditeur</item>
+      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
+      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
+      <item ref="http://www.radio-canada.ca/url.asp?/refuge/reportages.asp?id=1169">Davertige: la destinée vertigineuse d’un poète en exil</item>
+      <item ref="http://www.dailymotion.com/video/xhb7s3_davertige_creation">Davertige</item>
+    </list>
+  </div>
+</TEI>

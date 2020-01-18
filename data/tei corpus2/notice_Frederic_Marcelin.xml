@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Frederic_Marcelin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Frederic_Marcelin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Fr�d�ric Marcelin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Frederic Marcelin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Frederic_Marcelin_fiche_autorite">
+  <div n="1" xml:id="Frederic_Marcelin_fiche">
     <person ana="Frederic_Marcelin" sex="na">
-      <persName>
-        <surname source="bnf">Fr�d�ric</surname>
-        <forename source="bnf">Marcelin</forename>
-      </persName>
-      <idno type="BNF">
-        cb104775231#about
-        <g ref="http://data.bnf.fr/ark:/12148/cb104775231#about"/>
-      </idno>
-      <idno type="VIAF">
-        61534940
-        <g ref="http://viaf.org/viaf/61534940"/>
-      </idno>
-      <idno type="VIAF">
-        Fr�d�ric_Marcelin
-        <g ref="http://fr.dbpedia.org/resource/Fr�d�ric_Marcelin"/>
-      </idno>
-      <birth source="viaf">
-        <date>1848-01-14</date>
-      </birth>
-      <death source="viaf">
-        <date>1917-01-10</date>
-      </death>
-      <death source="ile_en_ile_auto">
-        <date>1917-01-01 00:00:00+00:00</date>
-      </death>
+      <persName>Frederic Marcelin</persName>
       <langKnowledge>
-        <langKnown source="bnf">http://id.loc.gov/vocabulary/iso639-2/fre</langKnown>
+        <langKnown source="spla">French</langKnown>
       </langKnowledge>
       <residence>
         <placeName>
-          <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
+          <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="viaf">public officers</occupation>
-      <occupation source="viaf">financial executives</occupation>
-      <occupation source="viaf">diplomats</occupation>
-      <occupation source="viaf">authors</occupation>
+      <occupation source="spla">Ecrivain/ne</occupation>
     </person>
   </div>
+  <div n="2" xml:id="Frederic_Marcelin_bio">
+    <text ref="http://www.spla.pro/fiche.personne.frederic-marcelin.35109.html" xml:id="Frederic_Marcelin_bio_auteur_spla">
+      <p>
+        <persName ana="Frederic_Marcelin">Frédéric Marcelin</persName>
+         est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         le 11 janvier 1848.* Il appartient à une famille de commerçants et grandit dans un quartier d'affaires de la capitale. Ses études classiques se font de façon irrégulière. À l'âge de 12 ans, ses parents l'envoient à 
+        <placeName ana="Paris">Paris</placeName>
+        . Marcelin rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         après quatre mois et reprend ses classes à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , toujours de façon intermittente. Il suit aussi des cours de droit, mais ne s'adonne pas au métier d'avocat.Marcelin entre dans la vie politique en 1867 comme secrétaire à la Légation d'
+        <placeName ana="Haiti">Haïti</placeName>
+         à 
+        <placeName ana="Washington">Washington</placeName>
+        . Il occupe ce poste durant deux ans. À son retour à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , il épouse Elisabeth Pamela Pouille le 13 mai 1872. En 1874, il est élu à la Chambre des députés. Mais à la chute 
+        <persName ana="Du_Gouvernement">Du Gouvernement</persName>
+         Domingue, il prend refuge à 
+        <placeName ana="Kingston">Kingston</placeName>
+         pour quelques mois. Ensuite, il vit entre 
+        <placeName ana="Haiti">Haïti</placeName>
+         et 
+        <placeName ana="La_France">la France</placeName>
+         durant quelque temps. Son premier ouvrage, 
+        <persName ana="Ducasse_Hippolyte">Ducasse Hippolyte</persName>
+        , son époque, ses œuvres, est publié au 
+        <placeName ana="Havre">Havre</placeName>
+         en 1878. C'est l'un des premiers ouvrages 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         de critique littéraire (...)Lire l'intégralité de la biographie sur [http://www.lehman.cuny.edu/ile.en.ile] 
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Frederic_Marcelin_biblio"/>
+  <div n="4" xml:id="Frederic_Marcelin_web"/>
 </TEI>

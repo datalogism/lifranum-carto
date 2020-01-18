@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Franketienne_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Franketienne" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Frank�tienne</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Frankétienne</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Franketienne_fiche_autorite">
+  <div n="1" xml:id="Franketienne_fiche">
     <person ana="Franketienne" sex="na">
-      <persName>Frank�tienne</persName>
+      <persName>Frankétienne</persName>
       <langKnowledge>
         <langKnown source="spla">French</langKnown>
       </langKnowledge>
@@ -28,12 +28,357 @@
           <country source="spla">Haiti</country>
         </placeName>
       </residence>
-      <occupation source="spla">Metteur/se en sc�ne</occupation>
+      <occupation source="spla">Metteur/se en scène</occupation>
       <occupation source="spla"> Peintre</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Dramaturge</occupation>
-      <occupation source="spla"> Po�te</occupation>
+      <occupation source="spla"> Poète</occupation>
     </person>
+  </div>
+  <div n="2" xml:id="Franketienne_bio">
+    <text hand="Jean Jonassaint" ref="http://ile-en-ile.org/franketienne/" xml:id="Franketienne_bio_auteur_ile_en_ile">
+      <p>
+        Enseignant, chanteur, comédien, dramaturge, écrivain et peintre, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         (alias 
+        <placeName ana="Franketienne">Franketienne</placeName>
+         ou 
+        <placeName ana="Franketyen">Franketyèn</placeName>
+        ), de son vrai nom 
+        <persName ana="Franck_Etienne">Franck Étienne</persName>
+        , est né le 12 avril 1936 dans une section rurale de l’
+        <placeName ana="Artibonite">Artibonite</placeName>
+         (à 
+        <persName ana="Ravine_Seche">Ravine Sèche</persName>
+        ) suite, dit-il, au « viol d’une paysanne 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de treize ans par un vieil industriel américain ». Cette scène primitive, qui est d’abord récit pour l’enfant presque blanc élevé sans connaître son père dans un milieu populaire noir, deviendra le motif principal d’un de ses livres les plus achevés, H’Éros-Chimères  (Prix Carbet 2002), un énorme « roman familial » de 350 pages de format 8,5 x 11 pouces. Complètement éclaté dans sa forme – où images (peintures, copy art), jeux de caractères (typo-poésie) et calligraphies se combinent pour faire de chaque page un objet d’art que 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         nomme « spirale » comme la plupart de ses textes non dramatiques depuis Ultravocal  (1972) –, cette œuvre limite est aussi le récit des déchirures d’une société minée par une gangrène populiste autoritaire et obscurantiste qui a conduit, en l’année de son bicentenaire, le pays haïtien au fond d’un gouffre que préfiguraient déjà, jusqu’à un certain point, L’oiseau schizophone  (1993) et la série picturale des « Têtes » (1999-2000).
+      </p>
+      <p>
+        Accroché obstinément à son bout d’île qu’il a refusé de quitter même pour un court séjour durant les années Duvalier, et qu’il refuse encore de quitter trop longtemps, malgré les sollicitations nombreuses et la furie des exodes, publiant régulièrement (depuis quarante ans) dans les deux langues des traditions littéraires haïtiennes, jouissant d’une large audience nationale, plus qu’aucun autre, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         est écrivain haïtien. Créateur nocturne (écrivant et peignant la nuit) : sismographe de la trop longue nuit duvaliérienne, et de l’interminable décente aux enfers lavalassiens, chacune de ses grandes œuvres est profondément ancrée dans l’histoire contemporaine 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . Chacune témoignant, malgré l’homme ou l’écrivain qui se veut avant tout créateur, d’un moment de la « conscience nationale ».
+      </p>
+      <p>
+        Ultravocal  (1972) : le vertige de l’errance sans fin ni finalité, le pays habité par « le mal majeur » forçant ses enfants à l’exode massif sans espoir ni désir de retour. Qu’on se rappelle cette scène tragique de Mûr à crever  (1968) : chassés des 
+        <placeName ana="Bahamas">Bahamas</placeName>
+        , quatre 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+        , sur le bateau du retour, se jettent à l’eau, se livrant aux requins de la 
+        <placeName ana="Mer">Mer</placeName>
+         
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         plutôt que de revoir l’enfer duvaliériste. Mais Ultravocal, c’est d’abord l’aventure du langage, un travail inouï sur la langue française qui fait de ce livre, de 415 pages, un monument de littérature d’expression française dont la réédition en 2004 (par Hoëbeke à 
+        <placeName ana="Paris">Paris</placeName>
+        ) est acclamée par 
+        <placeName ana="La_Presse">La Presse</placeName>
+         française toute tendance confondue, du Monde  au Figaro  en passant par Lire  et L’Humanité.
+      </p>
+      <p>
+        Tourmenté comme il l’est, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         ne pouvait se dérober à l’urgence d’une aventure au cœur de la langue 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , sa maternelle. En 1975, il publie le premier roman haïtien, au sens fort du terme : 
+        <placeName ana="Dezafi">Dézafi</placeName>
+          (réédité en 
+        <placeName ana="France">France</placeName>
+         par 
+        <persName ana="Vents_D’Ailleurs">Vents d’Ailleurs</persName>
+         en 2002). Plus qu’une révélation : au-delà des mots, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        , caisse de résonance des maux de la 
+        <placeName ana="Nation">Nation</placeName>
+        , visionnaire (il se dit plutôt « miraculé », faisant allusion à sa traversée sans prison ni tortures de la dictature duvaliériste, expression qui lui inspire également en 2004 le titre de la spirale, 
+        <placeName ana="Miraculeuse">Miraculeuse</placeName>
+        ), écrivait, dix ans avant, la chute du régime jean-claudiste en 1986 : la résurrection par le sel de la bande des zombis.
+      </p>
+      <p>
+        Mais entre le désespoir sans borne d’Ultravocal  et le réveil brutal de 
+        <placeName ana="Dezafi">Dézafi</placeName>
+        , il y a le passage obligé par l’insoutenable exil : 
+        <placeName ana="Pelin">Pèlin</placeName>
+        -Tèt  (1978). Cette exemplaire adaptation, en mémoire de 
+        <persName ana="Franck_Fouche">Franck Fouché</persName>
+        , de Les Émigrés  de Mrožëk, qui a connu un succès sans précédent dans l’histoire du théâtre contemporain haïtien, tant en 
+        <placeName ana="Haiti">Haïti</placeName>
+         qu’à l’étranger, consacra définitivement 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        , écrivain national. Ce premier contact réel avec les diverses couches des populations haïtiennes du dedans et du dehors porte 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         à investir de plus en plus le mode dramatique. Ainsi, après une fructueuses collaboration avec Jean-
+        <persName ana="Pierre_Bernay">Pierre Bernay</persName>
+        , pour la mise en scène de Bobomasouri (1984), 
+        <placeName ana="Kaselezo">Kaselezo</placeName>
+         (1985) et 
+        <placeName ana="Totolomanwel">Totolomanwèl</placeName>
+         (1987), 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         
+        <placeName ana="Passe">Passe</placeName>
+         sur la scène pour diriger et jouer 
+        <placeName ana="Totolomanwel">Totolomanwèl</placeName>
+         – dans une version à un comédien (1990) et dont il fait un vidéo (1996) – puis Kalibofobo  (1988, 1997), 
+        <persName ana="Pelentet">Pèlentèt  </persName>
+        – d’où il tire également un vidéo (2000) –, jusqu’à 
+        <placeName ana="Foukifoura">Foukifoura  </placeName>
+        (2000), œuvre pour un comédien qui lui assure une entrée remarquée au off d’
+        <placeName ana="Avignon">Avignon</placeName>
+         en 2004.
+      </p>
+      <p>
+        À partir de 
+        <placeName ana="Kaselezo">Kaselezo</placeName>
+        , cette attente interminable de deux femmes d’un enfant qui n’arrive pas à naître depuis trop longtemps, son théâtre, fortement influencé par celui de Beckett, notamment son Godot, est avant tout une synthèse de réflexion de l’artiste face l’absurdité du monde et les misères haïtiennes. Ce théâtre auto-réflexif, plutôt monologique – même dans les pièces à plus d’un personnage – bien que novateur sur les plans langagier et thématique, s’inscrit (notamment par la mise en scène) dans une tradition dramatique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         qui remonte au-delà des années 1960 avec la légendaire figure de Languichatte de 
+        <persName ana="Theodore_Beaubrun">Théodore Beaubrun</persName>
+         (1919-1998), lui assurant ainsi un immense succès national.
+      </p>
+      <p>
+        Depuis, cette large audience populaire, tant au pays que dans la diaspora, s’est doublée d’une encore plus grande dans les milieux intellectuels 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         et étrangers. C’est ainsi qu’en 1979, le magazine français 
+        <placeName ana="Demain">Demain</placeName>
+         l’
+        <placeName ana="Afrique">Afrique</placeName>
+          lui consacre quatre pages ; en 1982, Marie-
+        <persName ana="Michele_Amedee">Michèle Amédée</persName>
+         présente un mémoire de 
+        <placeName ana="Maitrise">Maîtrise</placeName>
+         à l’Université de 
+        <placeName ana="Montreal">Montréal</placeName>
+         sur 
+        <placeName ana="Dezafi">Dézafi </placeName>
+        ; 
+        <placeName ana="Kaselezo">Kaselezo</placeName>
+          est présentée à 
+        <placeName ana="Beaubourg">Beaubourg</placeName>
+         (
+        <placeName ana="Paris">Paris</placeName>
+        ) en 1986 et, en 1987, au Festival de théâtre des 
+        <placeName ana="Ameriques">Amériques</placeName>
+         à 
+        <placeName ana="Montreal">Montréal</placeName>
+         ; cette même année la revue Dérives (
+        <placeName ana="Montreal">Montréal</placeName>
+        ) consacre un numéro spécial à 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        . 
+        <placeName ana="Dezafi">Dézafi</placeName>
+         occupe une place fondatrice pour la nouvelle génération de la « créolité » martiniquaise (voir Lettres créoles, 1991) ; en 1997, 
+        <placeName ana="Pelin">Pèlin</placeName>
+        -Tèt  est jouée dans une traduction anglaise, The Noose, au New Immigrant Theatre Festival de 
+        <placeName ana="New_York">New York</placeName>
+        , puis elle est rééditée en 2002 dans la nouvelle orthographe 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         par The Institute of Haitian Studies (University of Kansas) ; en 1998, un premier livre, L’Oiseau schizophone, est réédité à 
+        <placeName ana="Paris">Paris</placeName>
+         par Jean-
+        <persName ana="Michel_Place">Michel Place</persName>
+         qui reprendra en 2000 Les Affres d’un défi ; et enfin les éditions 
+        <persName ana="Vents_D’Ailleurs">Vents d’Ailleurs</persName>
+         reprennent en huit volumes Les Métamorphoses de l’Oiseau schizophone (2004-2005). Avec le XXIe siècle l’œuvre de 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         fait son entrée dans le discours académique anglo-américain, avec des 
+        <placeName ana="Memoires">Mémoires</placeName>
+         et thèses
+      </p>
+      <p>
+        qui lui sont entièrement ou partiellement consacrés ; on trouve une entrée importante sur la vie et l’œuvre de 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         dans l’encyclopédie, 
+        <placeName ana="France">France</placeName>
+         and the Americas: Culture, Politics, 
+        <persName ana="History">History  </persName>
+        (2005) et un numéro spécial de la revue 
+        <placeName ana="Journal">Journal</placeName>
+         of Haitian Studies (2008).
+      </p>
+      <p>
+        Voilà grossièrement le portrait de l’écrivain et de l’artiste, non de l’homme, auquel le 
+        <placeName ana="Musee_D’Art_Haitien_Du">Musée d’art haïtien du</placeName>
+         Collège Saint-Pierre rend hommage en 2004 avec une grande exposition – 
+        <placeName ana="Franketienne">Franketienne</placeName>
+        : Entre ténèbres et lumière – de ses vingt fresques sur la révolution 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        . ÉTIENNE, Franck devenu 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        , avec la publication de Ultravocal, puis 
+        <placeName ana="Franketienne">Franketienne</placeName>
+         avec 
+        <persName ana="Bobomasouri">Bobomasouri  </persName>
+        (1984), ou 
+        <placeName ana="Franketyen">Franketyèn</placeName>
+         avec la réédition américaine de son  
+        <persName ana="Pelentet">Pèlentèt  </persName>
+        (2002): haïtianisant encore plus son nom – l’orthographiant selon la nouvelle graphie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        , tout en renouant avec l’écriture française, donc conservant également l’orthographe première, ou tout simplement oscillant sans cesse dans le tumulte de ses pulsions, comme en témoigne sa spirale bilingue dite « francréolophonique », Voix marassas (1998), en quête d’un nom (propre) lui permettant d’accéder à la signature.
+      </p>
+      <p>
+        Quoi qu’il en soit, ÉTIENNE, Franck, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        , 
+        <placeName ana="Franketienne">Franketienne</placeName>
+         ou 
+        <placeName ana="Franketyen">Franketyèn</placeName>
+         – co-fondateur à la fin des années 1960 avec 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+         et Jean-
+        <persName ana="Claude_Fignole">
+          Claude 
+          <placeName ana="Fignole">Fignolé</placeName>
+        </persName>
+         du mouvement spiraliste, largement inspiré, entre autres, du nouveau roman français et de l’expérience joycienne – pour plusieurs critiques, aujourd’hui, à l’égal des Dos Passos, des Césaire, des Carpentier, des Naipaul, est un de ces géants qui ont marqué et marqueront les littératures américaines. Polygraphe, l’un des rares à écrire avec force et 
+        <placeName ana="Bonheur">Bonheur</placeName>
+         dans deux grandes langues littéraires caribéennes: le français et l’haïtien. Il a su trouver dans différentes formes d’expressions populaires haïtiennes la source vive de nouvelles esthétiques, tout à fait modernes et actuelles, dont Ultravocal  (1972), 
+        <placeName ana="Dezafi">Dézafi</placeName>
+          (1975), 
+        <placeName ana="Kaselezo">Kaselezo</placeName>
+          (1985 / 1987), L’Oiseau schizophone  (1993) et H’Éros-Chimères  (2002) sont exemplaires.
+      </p>
+      <p>
+        [Écrit spécialement pour Île en île, ce texte reprend en partie mon introduction au numéro de Dérives, « 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+        , écrivain haïtien » (1987). JJ.]
+      </p>
+      <p>
+        Bibliographie adaptée de celle de 
+        <persName ana="Jean_Jonassaint">Jean Jonassaint</persName>
+         dans: Dérives, 53/54 (1987):  8-12, utilisée avec permission.
+      </p>
+    </text>
+    <text ref="http://www.spla.pro/fiche.personne.franketienne.4348.html" xml:id="Franketienne_bio_auteur_spla">
+      <p>
+        Auteur de plus d'une quarantaine d'ouvrages en tous genres : roman, poésie, théâtre, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         est aujourd'hui une des plus grandes figures de la littérature des 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+        . Pour l'écrivain 
+        <persName ana="Dany_Laferriere">
+          Dany 
+          <placeName ana="Laferriere">Laferrière</placeName>
+        </persName>
+        , 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         se présente de plus en plus comme un auteur &quot;nobélisable&quot;.Né en 1936 dans l'
+        <placeName ana="Artibonite">Artibonite</placeName>
+        , en 
+        <placeName ana="Haiti">Haïti</placeName>
+        , suite au &quot;viol d'une paysanne 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         de treize ans par un vieil industriel américain&quot;, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         aime se définir comme un génial mégalomane. Il a fondé au début des années 70, avec ses amis écrivains Jean-
+        <persName ana="Claude_Fignole">
+          Claude 
+          <placeName ana="Fignole">Fignolé</placeName>
+        </persName>
+         et 
+        <persName ana="Rene_Philoctete">
+          René 
+          <placeName ana="Philoctete">Philoctète</placeName>
+        </persName>
+        , le mouvement Spiralisme, qui propose l'éclatement des formes, des genres et des imaginaires.Également comédien, metteur en scène et peintre, 
+        <placeName ana="Franketienne">Frankétienne</placeName>
+         partage son temps entre l'écriture, le théâtre, la peinture et les voyages.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Franketienne_biblio">
+    <div ref="http://ile-en-ile.org/franketienne/" xml:id="Franketienne_biblio_auteur_ile_en_ile">
+      <list subtype="pyèsteyat">
+        <item>Pèlin-Tèt. Port-au-Prince: Éditions du Soleil, 1978; Pelentet (pyesteyat), nouvo vesyon. Lawrence, KS / Port-au-Prince: Enstiti Etid Ayisyen Inivesite Kannzas / Edisyon Espiral, 2002.</item>
+      </list>
+      <list subtype="roman">
+        <item>Dézafi. Port-au-Prince: Édision Fardin, 1975; Châteauneuf-le-Rouge: Vents d’ailleurs, 2002.</item>
+      </list>
+      <list subtype="in english">
+        <item>The Noose (Pèlin-Tèt). Trans. Asselin Charles. Metamorphoses, a journal of literary translation 11.1 (Spring 2003): 135ff.
+Mise en scène par Jaye Austin-Williams au 4e New Immigrant Theatre Festival, 1997.</item>
+      </list>
+      <list subtype="en español">
+        <item>A punto de reventar. (Mûr à crever) Trad. Mercedes Bustamante. Isla Negra (Chile): Ambos Editores, 2008, 2012.</item>
+      </list>
+      <list subtype="ouvrages collectifs">
+        <item>Jonassaint, Jean [sous la direction de]. « Frankétienne, Écrivain haïtien ». Numéro spécial de Dérives, 53/54 (1987).</item>
+      </list>
+      <list subtype="études sur frankétienne">
+        <item>Amédée, Marie-Michèle. « Les Proverbes en créole et dans le roman Dézafi. Étude linguistique, sociologique et stylistique ». Thèse de maîtrise, Université de Montréal, 1980.</item>
+      </list>
+      <list subtype="entretiens">
+        <item>Batraville, Dominique. « Frankétienne : dramaturge et comédien ». Conjonction 207 (2002): 89-91.</item>
+      </list>
+      <list subtype="dans la presse (sélections)">
+        <item>Aissaoui, Mohammed. « Haïti: les écrivains sortent de l’ombre ». Le Figaro (25 mai 2004): 27.</item>
+      </list>
+      <list subtype="en français">
+        <item>Au Fil du temps (poèmes). Port-au-Prince: Imprimerie des Antilles, 1964.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>« Tout jeu. Tout vice. Mort raide. Point de faire part ». Le Petit Samedi Soir 78-79 (1974-1975): 11-13.</item>
+      </list>
+      <list subtype="enregistrements sonores">
+        <item>« Zago Loray. Senfoni an « zodomajè » ». Premye Deboulaw (poésie). s.é.n.l.n.d. (microsillon), 1983.</item>
+      </list>
+      <list subtype="filmographie">
+        <item>Une étrange cathédrale dans la graisse des ténèbres, avec Frankétienne. Réalisation: Charles Najman; Production: Gilles Le Mao, La Huit, 2011, 78 minutes.</item>
+      </list>
+      <list subtype="textes de frankétienne enregistrés et mis en musique">
+        <item>« Si », poème de Frankétienne mis en musique et interprété par Wooly Saint Louis Jean sur son disque Quand la parole se fait chanson, Port-au-Prince: Productions Batofou, 2005.</item>
+      </list>
+      <list subtype="sélection de textes publiés dans des ouvrages collectifs">
+        <item>« Le creuset de l’obscène » (extrait d’H’Éros-Chimères) et un extrait de Miraculeuse. Anthologie de la littérature haïtienne: Un siècle de poésie, 1901-2001. Georges Castera, Claude Pierre, Rodney Saint-Éloi et Lyonel Trouillot, éds. Montréal: Mémoire d’encrier, 2003: 148-151.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>1992     Session spéciale en hommage à Frankétienne, avec la présence de l’auteur, Congrès du CIEF, Strasbourg.</item>
+      </list>
+      <list subtype="principales expositions">
+        <item>1974     Salle Dante Alighieri, Ambassade d’Italie, Port-au-Prince.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Franketienne_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/franketienne-dezafi-et-fleurs-dinsomnie/">Dezafi</item>
+      <item ref="http://ile-en-ile.org/franketienne-lenergie-linguistique-dans-loeuvre-de-franketienne/">L’énergie linguistique dans l’œuvre de Frankétienne</item>
+      <item ref="http://ile-en-ile.org/franketienne-foukifoura/"> Foukifoura</item>
+      <item ref="http://ile-en-ile.org/franketienne-5-questions-pour-ile-en-ile/">Frankétienne, 5 Questions pour Île en île</item>
+      <item ref="http://ile-en-ile.org/franketienne-a-la-journee-du-livre-haitien/">Frankétienne à la journée du livre haïtien</item>
+      <item ref="http://ile-en-ile.org/kiskeya-franketienne/">Kiskeya, l’île mystérieuse</item>
+      <item ref="http://ile-en-ile.org/franketienne-la-marquise/">La marquise sort à cinq heures</item>
+      <item ref="http://ile-en-ile.org/franketienne-rapjazz/"> Rapjazz</item>
+      <item ref="http://memoiredencrier.com/franketienne/">Mémoire d’encrier</item>
+      <item ref="http://wayback.archive.org/web/*/http://www.franketienne.com">ancien site officiel</item>
+      <item ref="http://www.lenational.org/">Le National</item>
+      <item ref="http://jacbayle.club.fr/livres/Haiti/Franketienne_8.html">Anthologie secrète</item>
+      <item ref="http://www.carleton.ca/califa/lecture.htm">Lecture critique comparée de Dézafi et de Les Affres d’un défi de Frankétienne: réécriture ou traduction?</item>
+      <item ref="http://www.lire.fr/critique.asp/idC=46891/idR=218/idG=3">L’esthétique des ruines</item>
+      <item ref="http://www.rfi.fr/emission/20130605-1-le-poete-haitien-franketienne/">Le poète haïtien Frankétienne</item>
+      <item ref="http://homepage.mac.com/chemla/fic_doc/Frank_sorb.html">Iconographie, schizophonie et autobiographie dans H’éros-chimères de Frankétienne</item>
+      <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=57387&amp;PubDate=2008-05-13">Frankétienne persiste et signe</item>
+      <item ref="http://pierre.campion2.free.fr/douaire.htm">Ultravocal, de Frankétienne</item>
+      <item ref="http://casadelasamericas.org/publicaciones/revistacasa/233/frank.htm">Entre el sueño y la pesadilla</item>
+      <item ref="http://perso.infonie.be/easy/conf%20franketienne.htm">L’Identité culturelle haïtienne</item>
+      <item ref="http://moloss.us/fall1/franketienne">Ripe to Burst</item>
+      <item ref="http://www.potomitan.info/kauss/spiralisme.php">Le spiralisme de Frankétienne</item>
+      <item ref="http://www.msh-m.fr/article.php3?id_article=497">Les langues totalitaires à l’épreuve de la schizophonie; Étude de L’Oiseau schizophone de Frankétienne</item>
+      <item ref="http://trans.univ-paris3.fr/spip.php?article279">Frankétienne, maître du Chaos</item>
+      <item ref="https://youtu.be/9VI4CdJJLNU">Des Livres &amp; vous</item>
+      <item ref="http://www.liberation.fr/livres/2013/06/05/des-mots-sales-des-mots-sucres-des-aigres-doux_908576">« Des mots salés, des mots sucrés, des aigres-doux »</item>
+      <item ref="http://www.lenational.org/prophetie-predetermination-catharsis-psychose-extravagance-lextase-creatrice-de-franketienne/">Prophétie, prédétermination, catharsis, psychose et extravagance dans l’extase créatrice de Frankétienne</item>
+    </list>
+    <list type="spla">
+      <item ref="http://www.franketienne.com">Website FrankÃ©tienne </item>
+    </list>
   </div>
 </TEI>

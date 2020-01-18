@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Evelyne_Trouillot_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Evelyne_Trouillot" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de �velyne Trouillot</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Évelyne Trouillot</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Evelyne_Trouillot_fiche_autorite">
+  <div n="1" xml:id="Evelyne_Trouillot_fiche">
     <person ana="Evelyne_Trouillot" sex="na">
-      <persName>
-        <surname source="bnf">�velyne</surname>
-        <forename source="bnf">Trouillot</forename>
-      </persName>
+      <persName>Évelyne Trouillot</persName>
       <idno type="BNF">
         cb13083631w#about
         <g ref="http://data.bnf.fr/ark:/12148/cb13083631w#about"/>
@@ -32,8 +29,8 @@
         <g ref="http://viaf.org/viaf/59220009"/>
       </idno>
       <idno type="VIAF">
-        �velyne_Trouillot
-        <g ref="http://fr.dbpedia.org/resource/�velyne_Trouillot"/>
+        Évelyne_Trouillot
+        <g ref="http://fr.dbpedia.org/resource/Évelyne_Trouillot"/>
       </idno>
       <birth source="viaf">
         <date>1954-01-02</date>
@@ -47,6 +44,188 @@
         </placeName>
       </residence>
       <occupation source="viaf">women authors black</occupation>
+      <listPerson source="viaf" type="co_authors">
+        <person ana="MatheUs_Mariann">
+          <persName>Mathéus Mariann</persName>
+        </person>
+        <person ana="Ulysse_Gina_Athena">
+          <persName>Ulysse Gina Athena</persName>
+        </person>
+        <person ana="MondeSir_Sophie">
+          <persName>Mondésir Sophie</persName>
+        </person>
+        <person ana="Henzell_Perry">
+          <persName>Henzell Perry</persName>
+        </person>
+        <person ana="Menard_Nadeve">
+          <persName>Ménard Nadève</persName>
+        </person>
+        <person ana="Mars_Kettly">
+          <persName>Mars Kettly</persName>
+        </person>
+        <person ana="TeLeMaque_Herve">
+          <persName>Télémaque Hervé</persName>
+        </person>
+        <person ana="Herbeck_Jason">
+          <persName>Herbeck Jason</persName>
+        </person>
+        <person ana="Dapper_Editions">
+          <persName>Dapper Editions</persName>
+        </person>
+        <person ana="Vincent_Nedjmhartine">
+          <persName>Vincent Nedjmhartine</persName>
+        </person>
+      </listPerson>
     </person>
+  </div>
+  <div n="2" xml:id="Evelyne_Trouillot_bio">
+    <text ref="http://ile-en-ile.org/trouillot_evelyne/" xml:id="Evelyne_Trouillot_bio_auteur_ile_en_ile">
+      <p>
+        <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
+         est née le 2 janvier 1954 à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         (
+        <placeName ana="Haiti">Haïti</placeName>
+        ). Après les études secondaires, elle part pour les États-Unis d’
+        <placeName ana="Amerique">Amérique</placeName>
+         où elle fait des études universitaires en langues et en éducation. Depuis son retour dans son pays en 1987 elle vit « à petits pas et à grandes foulées, avec beaucoup d’humilité et de détermination face à une situation souvent chaotique ».
+      </p>
+      <p>
+        <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
+         publie son premier recueil de nouvelles La chambre interdite en 1996. Depuis, elle a publié deux autres recueils de nouvelles, 
+        <placeName ana="Islande">Islande</placeName>
+         suivi de La 
+        <placeName ana="Mer">Mer</placeName>
+         entre lait et sang et Parlez-moi d’amour ; également, deux recueils de poèmes, 
+        <persName ana="Sans_Parapluie">Sans Parapluie</persName>
+         de retour (en français) et 
+        <placeName ana="Plidetwal">Plidetwal</placeName>
+         (en créole). Pour les jeunes lecteurs, elle a écrit des contes et des récits de jeunesse. En 2002, elle publie une étude qui présente à la fois un constat et une plaidoirie sur l’enfance et l’état de droit en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+        Son premier roman, 
+        <persName ana="Rosalie_L’Infame">Rosalie l’infâme</persName>
+         (Dapper, 2003) se situe à Saint-Domingue dans les années 1750 et présente les esclaves comme des individus avec leurs passions, leurs faiblesses, leur détermination et leur détresse. 
+        <persName ana="Rosalie_L’Infame">Rosalie l’infâme</persName>
+         est l’histoire de la résistance au quotidien, racontée du point de vue des femmes, hommes et enfants qui ont lutté contre l’esclavage de manière individuelle et collective, reflétant dans leurs combats le courage et la dignité de l’être humain faisant face à une situation inhumaine.
+      </p>
+      <p>
+        L’Œil-Totem, le deuxième roman d’
+        <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
+        , est dédié à sa mère, à sa grand-mère et « à toutes ces figures de femmes, porteuses d’histoires, qui ont nourri [son] enfance et posé sur [elle] leur œil-totem ». Le roman met en scène une vieille peintre de 88 ans, Marie-
+        <persName ana="Jeanne_Thevenot_Dorcil">Jeanne Thévenot Dorcil</persName>
+        , porteuse de l’œil-totem, et son petit-fils Dimitri, revenu de la diaspora. Par ses conversations hebdomadaires avec elle, Dimitri construit la généalogie de la famille Thévenot, la mystérieuse légende d’une jarre enfouie et l’histoire de sa grand-mère, dit 
+        <persName ana="Madame_Karolis">Madame Karolis</persName>
+        .
+      </p>
+      <p>
+        Le mirador aux étoiles (2007) est un roman qui aborde les thèmes des préjugés de couleur et de classe qui perturbent les relations entre les êtres et se cachent sous des tabous et secrets familiaux. Dans ce roman, on trouve des clins d’œil à l’histoire : des références à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         sous l’occupation américaine et à certains actes de résistance des citoyens 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         face à l’occupant.
+      </p>
+      <p>
+        Le premier texte théâtral d’
+        <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
+        , Le Bleu de l’ile, est primé par ETC 
+        <placeName ana="Caraibes">Caraïbes</placeName>
+         et reçoit le prix Beaumarchais de la 
+        <placeName ana="Caraibe">Caraïbe</placeName>
+         ex aequo en 2005. Il est mis en lecture à 
+        <placeName ana="Paris">Paris</placeName>
+        , à la 
+        <placeName ana="Martinique">Martinique</placeName>
+         et la 
+        <placeName ana="Guadeloupe">Guadeloupe</placeName>
+        . Le Bleu de l’ile est joué à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         en septembre 2009 par la troupe Dram’Art dans le cadre du festival théâtral Quatre chemins. Le 
+        <placeName ana="Bleu_De_L’Ile">Bleu de l’île</placeName>
+         se base sur une tragédie survenue en juin 2000 lorsque des gardes dominicains tirent sur une camionnette transportant des 
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         voulant traverser la frontière haitiano-dominicaine ; plus d’une dizaine d’
+        <placeName ana="Haitiens">Haïtiens</placeName>
+         sont tués.
+      </p>
+      <p>
+        <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
+         partage son temps entre la littérature et l’éducation et dirige depuis 2002 pré-Texte, un bureau de production de textes.
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Evelyne_Trouillot_biblio">
+    <div ref="http://ile-en-ile.org/trouillot_evelyne/" xml:id="Evelyne_Trouillot_biblio_auteur_ile_en_ile">
+      <list subtype="auf deutsch">
+        <item>Hallo… New York. Erzählungen aus Haiti. (« La Chambre interdite »). Trad. Cornelia Panzacchi. Göttingen: Lamuv Taschenbuch, 1999.</item>
+      </list>
+      <list subtype="in english">
+        <item>« The Chareron Inheritance » (« L’héritage des Chareron », extrait de Parlez-moi d’amour…). Trans. Ariel Goldberger. Introduced by Edwidge Danticat. Words Without Borders; The World Through the Eyes of Writers. Anchor Books, 2007: 311-322.</item>
+      </list>
+      <list subtype="en español">
+        <item>La memoria acorralada. Trad. Lourdes Aencibia Rodriguez. La Habana: Casa de las Americas, 2012. </item>
+      </list>
+      <list subtype="in italiano">
+        <item>Rosalie l’infame.Trad. Patrizia d’Antonio.Monticiano (Italia): Edizioni Gorée, 2005.</item>
+      </list>
+      <list subtype="ailleurs sur le web">
+        <item>Poetry Parnassus à Londres, du 26 juin au 1er juillet 2012:</item>
+      </list>
+      <list subtype="romans">
+        <item>Rosalie l’infâme. Paris: Dapper, 2003; Port-au-Prince: Presses Nationales d’Haïti, 2007.</item>
+      </list>
+      <list subtype="nouvelles">
+        <item>La chambre interdite. Paris: L’Harmattan, 1996.</item>
+      </list>
+      <list subtype="contes et récits pour enfants">
+        <item>L’oiseau mirage. Port-au-Prince: Éditions Haïti Solidarité Internationale, 1997.</item>
+      </list>
+      <list subtype="poésie">
+        <item>Sans parapluie de retour. Port-au-Prince: s.m., 2001.</item>
+      </list>
+      <list subtype="théâtre">
+        <item>Le Bleu de l’île, 2005, inédit.
+Mise en lecture au Théâtre du Rond-Point à Paris (2005), à la Martinique et en Guadeloupe ; mise en scène par la troupe Dram’Art à Port-au-Prince en septembre 2009.</item>
+      </list>
+      <list subtype="essai">
+        <item>Restituer l’enfance: Enfance et état de droit en Haïti. Port-au-Prince: Éditions Haïti Solidarité Internationale, 2002.</item>
+      </list>
+      <list subtype="articles et textes sélectionnés">
+        <item>« Ni ange ni bête : Du devenir de la langue française en Haïti » (essai). Conjonction 212 (2005): 131-135.</item>
+      </list>
+      <list subtype="discographie">
+        <item>« La Clarté nouvelle des choses », poème d’Évelyne Trouillot dit par Pierre Brisson sur son disque À voix basse (volume 1). Port-au-Prince: Productions Batofou, 2004.</item>
+      </list>
+      <list subtype="prix et distinctions littéraires">
+        <item>2004     Prix Soroptimist de la Romancière Francophone (Grenoble), pour Rosalie l’infâme.</item>
+      </list>
+      <list subtype="sur l’oeuvre d’évelyne trouillot">
+        <item>Bellefleur, Pierre Maxwell. « La nouvelle haïtienne – témoin d’une époque ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 259-269.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Evelyne_Trouillot_web">
+    <list type="ile_en_ile">
+      <item ref="http://ile-en-ile.org/evelyne-trouillot-dayiva/">Dayiva</item>
+      <item ref="http://ile-en-ile.org/evelyne-trouillot-rosalie-linfame/">Rosalie l’infâme</item>
+      <item ref="http://ile-en-ile.org/evelyne-trouillot-5-questions-pour-ile-en-ile/">Évelyne Trouillot, 5 Questions pour Île en île</item>
+      <item ref="http://www.editions-brunodoucey.com/?s=trouillot">Évelyne Trouillot</item>
+      <item ref="http://www.bombsite.com/issues/90/articles/2708">Evelyne Trouillot by Edwidge Danticat</item>
+      <item ref="http://www.lenouvelliste.com/articleforprint.php?PubID=1&amp;ArticleID=53271">Évelyne Trouillot signe son nouveau roman</item>
+      <item ref="https://www.pbs.org/newshour/show/in-chaos-of-post-earthquake-haiti-artists-create-poetry-amid-rubble">In Chaos of Post-Earthquake Haiti, Artists Create Poetry Amid Rubble</item>
+      <item ref="http://www.wordswithoutborders.org/article.php?lab=Intheshadeof">In the Shade of the Almond Tree</item>
+      <item ref="http://www.hoebeke.fr/ouvrages/288/">La mémoire aux abois</item>
+      <item ref="http://etonnants-voyageurs.com/spip.php?article4800">La mer, entre lait et sang</item>
+      <item ref="http://www.ft.com/intl/cms/s/2/68f16da8-b4f2-11e1-aa06-00144feabdc0.html">Poetry in Motion</item>
+      <item ref="http://www.granta.com/New-Writing/Poetry-Parnassus">Poetry Parnassus</item>
+      <item ref="http://www.guardian.co.uk/books/interactive/2012/jun/26/poetry-parnassus-interactive-map">Please</item>
+      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      <item ref="http://www.fl.ulaval.ca/cuentos/trouillot.htm">Raz-de-marée</item>
+      <item ref="http://www.medialternatif.org/alterpresse/article.php3?id_article=517">Rosalie L’Infâme: un roman sur le marronnage avant l’Indépendance d’Haiti </item>
+      <item ref="https://www.erudit.org/fr/revues/etudfr/2016-v52-n1-etudfr02402/1035544ar/">Paternités sans frontières dans quelques romans haïtiens contemporains</item>
+    </list>
   </div>
 </TEI>

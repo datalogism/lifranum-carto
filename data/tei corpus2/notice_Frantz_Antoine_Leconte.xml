@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Frantz_Antoine_Leconte" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notice de Frantz-Antoine Leconte</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
+      </titleStmt>
+      <publicationStmt>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
+      </publicationStmt>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <div n="1" xml:id="Frantz_Antoine_Leconte_fiche">
+    <person ana="Frantz_Antoine_Leconte" sex="na">
+      <persName>Frantz-Antoine Leconte</persName>
+      <langKnowledge>
+        <langKnown source="spla">French</langKnown>
+      </langKnowledge>
+      <residence>
+        <placeName>
+          <country source="spla">Haiti</country>
+        </placeName>
+      </residence>
+      <occupation source="spla">Ecrivain/ne</occupation>
+    </person>
+  </div>
+  <div n="2" xml:id="Frantz_Antoine_Leconte_bio">
+    <text ref="http://www.spla.pro/fiche.personne.frantz-antoine-leconte.20387.html" xml:id="Frantz_Antoine_Leconte_bio_auteur_spla">
+      <p>
+        Frantz-Antoine Leconte est né à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1948. Brillant attaquant du Violette Atletic Club, il s'est expatrié en 1970 pour entamer aux U.S.A des études universitaires qu'il termine en 1989. Il donne des conférences sur la culture et la littérature aux Etats-Unis et ailleurs.Frantz-Antoine Leconte est titulaire d'un doctorat en littérature française, a gravi au cours de trente années d'enseignement tous les échelons du professorat - Chargé de cours, Maitre de Conférence, Associé - Maitre - Professeur - pour parvenir au poste de Coordonnateur des études françaises de l'Université Kingsborough. Il a exercé une grande influence sur le curriculum universitaire en créant des cours qui répondent aux besoins spécifiques de certains groupes et communautés de l'Etat de 
+        <placeName ana="New_York">New York</placeName>
+        : Littérature française, francophone, africaine, américaine noire (
+        <persName ana="Harlem_Renaissance">
+          <placeName ana="Harlem">Harlem</placeName>
+           Renaissance
+        </persName>
+        ) et 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+        .
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Frantz_Antoine_Leconte_biblio"/>
+  <div n="4" xml:id="Frantz_Antoine_Leconte_web"/>
+</TEI>

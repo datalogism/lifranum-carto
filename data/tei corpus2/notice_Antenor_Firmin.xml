@@ -1,25 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="Antenor_Firmin_notice" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xml:id="Antenor_Firmin" xml:lang="fr" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Ant�nor Firmin</title>
-        <author>In�s Burri</author>
-        <author>Ana�s Chambat</author>
-        <author>C�lian Ringwald</author>
+        <title>Notice de Anténor Firmin</title>
+        <author>Inès Burri</author>
+        <author>Anaïs Chambat</author>
+        <author>Célian Ringwald</author>
       </titleStmt>
       <publicationStmt>
-        <org_name>Universit� Jean Moulin Lyon 3</org_name>
-        <org_name>ENS Lyon</org_name>
-        <org_name>Universit� Lyon 2</org_name>
-        <date>2020-01-16</date>
+        <orgName>Université Jean Moulin Lyon 3</orgName>
+        <orgName>ENS Lyon</orgName>
+        <orgName>Université Lyon 2</orgName>
+        <date>2020-01-18</date>
       </publicationStmt>
-      <sourceDesc>Donn�es issues de sources d'autorit�s et de r�p�toire web</sourceDesc>
+      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
     </fileDesc>
   </teiHeader>
-  <div n="1" xml:id="Antenor_Firmin_fiche_autorite">
+  <div n="1" xml:id="Antenor_Firmin_fiche">
     <person ana="Antenor_Firmin" sex="na">
-      <persName>Ant�nor Firmin</persName>
+      <persName>Anténor Firmin</persName>
     </person>
+  </div>
+  <div n="2" xml:id="Antenor_Firmin_bio">
+    <text ref="http://ile-en-ile.org/firmin/" xml:id="Antenor_Firmin_bio_auteur_ile_en_ile">
+      <p>
+        Joseph-
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+         est né au 
+        <placeName ana="Cap_Haitien">Cap Haïtien</placeName>
+         en 1850. D’origine modeste, élève assidu et dur à la tâche, il entre dans l’enseignement à 17 ans avant de faire de la comptabilité pour le service des douanes, puis pour une 
+        <placeName ana="Maison">Maison</placeName>
+         de commerce. En 1875, il est agent percepteur de la commune du Cap, tout en donnant des cours de grec, de latin et de français dans un établissement privé.
+      </p>
+      <p>
+        Il s’intéresse à la politique et particulièrement au parti libéral. C’est dans ce cadre qu’il fonde un 
+        <placeName ana="Journal">Journal</placeName>
+         au Cap, 
+        <placeName ana="Le_Messager_Du_Nord">Le Messager du Nord</placeName>
+        , où il se montre déjà sensible à «la question de couleur».
+      </p>
+      <p>
+        Il échoue à la députation en 1879 (d’après certains témoignages, ses adversaires font croire aux électeurs qu’il est blanc). En juin 1883, il est envoyé à 
+        <placeName ana="Caracas">Caracas</placeName>
+         par le président Salomon pour les fêtes du centenaire de 
+        <placeName ana="Bolivar">Bolivar</placeName>
+        . Il refuse d’entrer dans un ministère et s’exile à 
+        <persName ana="Saint_Thomas">Saint Thomas</persName>
+        , puis à 
+        <placeName ana="Paris">Paris</placeName>
+         où, soutenu par Louis-
+        <persName ana="Joseph_Janvier">Joseph Janvier</persName>
+        , il est reçu membre de la Société d’Anthropologie.
+      </p>
+      <p>
+        En 1885, 
+        <placeName ana="Firmin">Firmin</placeName>
+         publie De l’égalité des races humaines. Pour comprendre ce projet monumental, il est nécessaire d’en resituer le contexte. Entre 1853 et 1855, Gobineau a publié son tout aussi monumental Essai sur l’inégalité des races humaines, ouvrage illustrant un pessimisme romantique radical et une métaphysique raciale de l’histoire. Gobineau ne traite pas de ce qui doit être mais bien de ce qui a été, un âge d’or de l’«arianisme» et son déclin irréversible par la disparition progressive des «éléments créateurs de civilisation». Les colonisations se déchaîneront en s’appuyant sur l’alibi de la civilisation. Or, dans ce contexte, la position d’
+        <placeName ana="Haiti">Haïti</placeName>
+         est stratégique: l’Indépendance puis l’instauration de différents types de gouvernements montrent précisément que l’inégalité supposée des races est battue en brèche par l’existence même, dans le concert des Nations, d’une République d’anciens esclaves devenus citoyens.
+      </p>
+      <p>
+        L’ouvrage de 
+        <placeName ana="Firmin">Firmin</placeName>
+         est une compilation. En épuisant un à un les arguments du racisme scientifique, en montrant combien ils sont peu opératoires, tant sur un plan mythique que sur un plan scientifique, 
+        <placeName ana="Firmin">Firmin</placeName>
+         tente de ruiner les systèmes de compartimentage et de hiérarchisation des races humaines, fondées sur le volume de la boîte crânienne, la texture de la chevelure, les caractérisations phénotypiques, les répartitions linguistiques et cetera. Ce faisant, il réduit le discours scientifique de l’inégalité à un ensemble de superstitions, et met en crise la validité de ce discours. Il assigne à 
+        <placeName ana="Haiti">Haïti</placeName>
+         une place éminente dans le combat contre le préjugé et l’idéologie de la discrimination et de la hiérarchisation. Plus qu’un travail scientifique, il s’agit d’un ouvrage métacritique dans lequel 
+        <placeName ana="Firmin">Firmin</placeName>
+         prend en compte le lieu d’où il parle et d’où il écrit.
+      </p>
+      <p>
+        En 1888, il est en 
+        <placeName ana="Haiti">Haïti</placeName>
+         et prend part politiquement aux événements qui précipitent le départ de Salomon en 1888 (président depuis 1879) puis l’élimination du président Légitime (1888-1889) l’année suivante. Après la défense contre la raillerie raciste de l’étranger, il s’agit pour lui de dénoncer les insuffisances haïtiennes, et servir un État de telle sorte qu’il ne soit plus fondé sur les prébendes et la rapine. En 1889, 
+        <placeName ana="Firmin">Firmin</placeName>
+         est nommé par le président Hyppolite (1889-1896) ministre des Finances et des Relations extérieures. Il se distingue par ses compétences, ses pratiques et son honorabilité. Gestionnaire avisé, 
+        <placeName ana="Firmin">Firmin</placeName>
+         réorganise les administrations qu’il dirige, notamment celles des douanes et de la Banque Nationale, en diminuant les taux d’intérêt, ce qui facilite la reprise rapide des affaires, permettant notamment la régularisation du paiement mensuel des salariés de l’État. Les recettes plus abondantes grâce à ce climat de confiance entraînent la reprise du paiement de la Dette, dont le résultat financier fut la hausse de la cote des obligations à la bourse de 
+        <placeName ana="Paris">Paris</placeName>
+        . 
+        <placeName ana="Firmin">Firmin</placeName>
+         réussit même ce tour de force en 
+        <placeName ana="Haiti">Haïti</placeName>
+         d’obtenir une trésorerie bénéficiaire. Jamais les finances de l’État n’auront été plus prospères. Fort de ses ressources, le pays verra un développement inégalé des travaux publics sous la présidence d’Hyppolite: ponts, éclairage public, arrivée du câble transatlantique à Port-au-
+        <placeName ana="Prince">Prince</placeName>
+        , téléphone dans les grandes villes, marchés. Pendant les deux années de son ministère, 
+        <placeName ana="Firmin">Firmin</placeName>
+         parvient à mener de façon subtile les négociations concernant la location du Môle Saint Nicolas avec les représentants politique et militaire des États-Unis en 
+        <placeName ana="Haiti">Haïti</placeName>
+        : 
+        <persName ana="Frederick_Douglass">Frederick Douglass</persName>
+        , ambassadeur, figure emblématique de la lutte contre le préjugé de couleur et partisan de l’annexion d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , ainsi que l’amiral Gherardi. 
+        <placeName ana="Firmin">Firmin</placeName>
+         quitte le cabinet en 1891 et se retire en 
+        <placeName ana="France">France</placeName>
+        , pendant qu’en 
+        <placeName ana="Haiti">Haïti</placeName>
+         on assiste à un durcissement du régime. Ce ministère laisse le souvenir d’une intelligence politique, faite de civisme exceptionnel et de probité administrative, un ensemble de pratiques qui constituent le firminisme.
+      </p>
+      <p>
+        <persName ana="Antenor_Firmin">
+          Anténor 
+          <placeName ana="Firmin">Firmin</placeName>
+        </persName>
+         publie à 
+        <placeName ana="Paris">Paris</placeName>
+         en 1891 
+        <placeName ana="Haiti">Haïti</placeName>
+         au point de vue politique, administratif et économique, texte d’une conférence et, en 1892, Une défense, plaquette qui est une réfutation des critiques émises par son successeur aux finances.
+      </p>
+      <p>
+        Il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1893, et, lors de sa rencontre avec le cubain en exil, 
+        <persName ana="Jose_Marti">José Martí</persName>
+        , évoque le projet de «confédération antilléenne». À 
+        <placeName ana="Paris">Paris</placeName>
+         peu après, 
+        <placeName ana="Firmin">Firmin</placeName>
+         multiplie les contacts avec les milieux latino-américains, et s’intéresse de près à la question du panafricanisme. À l’avènement du président Sam en 1896, 
+        <placeName ana="Firmin">Firmin</placeName>
+         redevient ministre des Finances et des Relations extérieures, mais le Cabinet est renversé après un vote de la Chambre. C’est un nouveau départ pour l’exil.
+      </p>
+      <p>
+        <placeName ana="Firmin">Firmin</placeName>
+         publie en 1898 Diplomate et diplomatie, qui concerne le traitement de l’affaire Lüders, qu’il compare à celui de l’affaire du Môle: alors que 
+        <placeName ana="Firmin">Firmin</placeName>
+         est parvenu à préserver l’intégrité du territoire national, le gouvernement de Sam cède face l’ultimatum de deux canonnières allemandes qui exigent une indemnité de 2000$ et une lettre d’excuse, alors que Lüders, commerçant allemand condamné pour avoir brutalisé un policier haïtien, avait été gracié et autorisé à quitter le territoire. Cette affaire eut un retentissement considérable sur le plan international: elle témoigne de la faiblesse de l’État haïtien dans un contexte où les menées impérialistes des puissances européennes sont particulièrement vives.
+      </p>
+      <p>
+        En 1900, il est nommé ministre plénipotentiaire à 
+        <placeName ana="Paris">Paris</placeName>
+        . Il rentre en 
+        <placeName ana="Haiti">Haïti</placeName>
+         en 1902, au moment de la chute du président Sam. Ses partisans, appuyés par le général 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         et l’amiral Killick, entrent dans le gouvernement provisoire dirigé par 
+        <persName ana="Adolphe_Boisrond">
+          Adolphe 
+          <placeName ana="Boisrond">Boisrond</placeName>
+        </persName>
+        -Canal. 
+        <placeName ana="Firmin">Firmin</placeName>
+         se prépare alors à l’élection présidentielle. Mais les propres ambitions de 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         le poussent à se retourner brutalement contre les firministes et à déclencher une sanglante guerre civile. 
+        <placeName ana="Boisrond">Boisrond</placeName>
+        -Canal se range au côté de Nord-Alexis, dénonce Killick au gouvernement des États-Unis comme insurgé et son navire, le Crête-à-Pierrot comme «pirate». Après l’incendie de Petit-
+        <placeName ana="Goave">Goâve</placeName>
+        , les navires américains empêchent Killick d’appuyer les firministes. 
+        <placeName ana="Firmin">Firmin</placeName>
+         lui-même est l’objet de pressions internationales – notamment de l’association pan-africaine – pour se retirer de ce processus révolutionnaire, en faveur d’une intervention américaine. Enfin, le soutien allemand au gouvernement provisoire, résolument opposé à 
+        <placeName ana="Firmin">Firmin</placeName>
+         depuis l’affaire Lüders, se marque par la tentative de se saisir de Killick, qui choisit de saborder le Crête-à-Pierrot et de couler avec lui. Cette perte porte un coup fatal aux partisans de 
+        <placeName ana="Firmin">Firmin</placeName>
+        , qui est forcé de négocier. Il repart en exil en octobre 1902.
+      </p>
+      <p>
+        La situation économique se dégrade dangereusement: pour masquer les insuffisances de gestion, le président 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         (1902-1908) entraîne l’économie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dans une inflation importante et prône un discours ouvertement xénophobe, attribuant tous les malheurs d’
+        <placeName ana="Haiti">Haïti</placeName>
+         à la présence étrangère. En 1904, année du Centenaire de l’Indépendance, la gourde n’a quasiment plus aucune valeur. Cette situation laisse percevoir le danger imminent d’une invasion états-unienne: en 1898, 
+        <placeName ana="Hawai">Hawaï</placeName>
+         est annexée; 
+        <placeName ana="Cuba">Cuba</placeName>
+         et 
+        <placeName ana="Porto_Rico">Porto Rico</placeName>
+         sont mis sous tutelle à la fin de la guerre hispano-américaine. Les pressions française et allemande sur 
+        <placeName ana="Haiti">Haïti</placeName>
+         s’accentuent notablement et font régulièrement perdre la face au gouvernement haïtien : à plusieurs reprises et à la suite d’incidents diplomatiques, leurs navires de guerre menacent directement la ville de Port-au-
+        <placeName ana="Prince">Prince</placeName>
+         d’un bombardement. Pour contrer d’éventuelles insurrections, 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         instaure un régime de terreur, particulièrement sur les populations les plus pauvres.
+      </p>
+      <p>
+        <placeName ana="Firmin">Firmin</placeName>
+         publie un programme politique en 1905, 
+        <persName ana="Monsieur_Roosevelt">Monsieur Roosevelt</persName>
+        , président des États-Unis, et 
+        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        . Il y pose «les conditions pratiques qui doivent permettre à 
+        <placeName ana="Haiti">Haïti</placeName>
+         de faire preuve de l’aptitude de la race noire à constituer une société politique harmonieuse» (647). Il préconise un rapprochement entre 
+        <placeName ana="Haiti">Haïti</placeName>
+         et les États-Unis, brosse des tableaux comparés de l’histoire des deux pays, et insiste sur certains aspects du mal haïtien: le fonctionnement despotique des institutions, le manque de formation politique des élites, la gestion calamiteuse des finances publiques qui confine à l’économie de rapine. Il propose des réformes administratives en vue d’assurer le développement économique et surtout social du pays: il y exprime la doctrine d’un libéralisme résolument démocratique. On extrait souvent une phrase célèbre de ce livre: «Dans tous les pays, dans toutes les races, le progrès ne s’effectue, ne devient tangible que lorsque les couches sociales inférieures, qui forment toujours la majorité, tendent à monter en intelligence, en puissance, en dignité et en bien-être. Là où la politique, dite éclairée, ne consiste qu’à perpétuer l’infériorité de ces couches, formant l’assise même de la 
+        <placeName ana="Nation">Nation</placeName>
+        , en exploitant leur ignorance, il n’y a point de progrès possible…».
+      </p>
+      <p>
+        En janvier 1908, ses partisans pensant qu’ils seraient appuyés par les États-Unis, tentent un coup de force aux 
+        <placeName ana="Gonaives">Gonaïves</placeName>
+        , qui est rapidement écrasé, faute de l’aide américaine. Le gouvernement américain redoute en effet une extension de cette insurrection à la 
+        <placeName ana="Republique_Dominicaine">République Dominicaine</placeName>
+         et à 
+        <placeName ana="Cuba">Cuba</placeName>
+        . Les chefs de l’insurrection sont fusillés. Parmi eux, les frères 
+        <placeName ana="Coicou">Coicou</placeName>
+        . La décision américaine s’accompagne d’une mise en garde aux représentations européennes. Désormais, l’État américain est nettement plus impliqué dans la politique 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         que n’importe quelle autre puissance. Mais en même temps, il n’intervient absolument pas lors du durcissement du régime, notamment lorsque celui-ci fait donner la troupe contre les paysans souffrant de famine (1908).
+      </p>
+      <p>
+        La chute de 
+        <persName ana="Nord_Alexis">Nord Alexis</persName>
+         puis l’élection à la présidence d’
+        <persName ana="Antoine_Simon">Antoine Simon</persName>
+         (1908-1911) ne permettent pas à 
+        <placeName ana="Firmin">Firmin</placeName>
+         de reprendre une carrière politique. Il est envoyé ministre à 
+        <placeName ana="La_Havane">La Havane</placeName>
+        , puis à 
+        <placeName ana="Londres">Londres</placeName>
+        , tant le président Simon craint que cet intellectuel et rival potentiel ne soit trop près. 
+        <placeName ana="Firmin">Firmin</placeName>
+         ne rentrera plus en 
+        <placeName ana="Haiti">Haïti</placeName>
+        . Il s’installe à 
+        <persName ana="Saint_Thomas">Saint Thomas</persName>
+        , d’où il publie Les lettres de 
+        <persName ana="Saint_Thomas">Saint Thomas</persName>
+         dans lesquelles il met en perspective la construction toujours à réaliser de la démocratie 
+        <placeName ana="Haitienne">Haïtienne</placeName>
+         dans un ensemble plus vaste, une confédération des 
+        <placeName ana="Antilles">Antilles</placeName>
+        . En 1911, il publie une réflexion testamentaire et prophétique sur l’état d’
+        <placeName ana="Haiti">Haïti</placeName>
+        , au titre évocateur: L’Effort dans le mal: «Homme, je puis disparaître, sans voir poindre à l’horizon national l’aurore d’un jour meilleur. Cependant, même après ma mort, il faudra de deux choses l’une: ou 
+        <placeName ana="Haiti">Haïti</placeName>
+         
+        <placeName ana="Passe">Passe</placeName>
+         sous une domination étrangère, ou elle adopte résolument les principes au nom desquels j’ai toujours lutté et combattu. Car, au XXe siècle, et dans l’hémisphère occidental, aucun peuple ne peut vivre indéfiniment sous la tyrannie, dans l’injustice, l’ignorance et la misère». 
+        <placeName ana="Firmin">Firmin</placeName>
+         meurt la même année (1911). En 1915, les troupes états-uniennes débarquent en 
+        <placeName ana="Haiti">Haïti</placeName>
+        .
+      </p>
+      <p>
+         – 
+        <persName ana="Yves_Chemla">Yves Chemla</persName>
+      </p>
+    </text>
+  </div>
+  <div n="3" xml:id="Antenor_Firmin_biblio">
+    <div ref="http://ile-en-ile.org/firmin/" xml:id="Antenor_Firmin_biblio_auteur_ile_en_ile">
+      <list subtype="in english">
+        <item>The Equality of the Human Races. Trad. Asselin Charles. Intro. Carolyn Fluehr-Lobban. New York: Garland, 2000. Urbana: University of Illinois Press, 2002.</item>
+      </list>
+      <list subtype="essais">
+        <item>De l’égalité des races humaines (anthropologie positive). Paris: F. Pichon, 1885; Paris: L’Harmattan, 2003; Montréal: Mémoire d’encrier, 2005.</item>
+      </list>
+      <list subtype="sur anténor firmin">
+        <item>Dash, J. Michael. « Nineteenth-Century Haiti and the Archipelago of the Americas: Antenor Firmin’s Letters from St. Thomas ». Research in African Literatures 35.2 (Summer 2004): 44-53.</item>
+      </list>
+    </div>
+  </div>
+  <div n="4" xml:id="Antenor_Firmin_web">
+    <list type="ile_en_ile">
+      <item ref="http://gallica.bnf.fr/ark:/12148/bpt6k84229v.r=firmin.langFR">De l’égalité des races humaines, anthropologie positive</item>
+    </list>
   </div>
 </TEI>
