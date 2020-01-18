@@ -384,3 +384,6 @@ for (dirpath, dirnames, filenames) in walk("C:/Users/Celian/Desktop/M2 HUMANUM/P
 result=getMaster(f)
 str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')
 
+myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/master_auteurs.xml", "w", "utf-8")
+myfile.write(str_res)
+myfile.close()

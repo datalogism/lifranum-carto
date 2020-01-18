@@ -398,5 +398,5 @@ def getMaster(list_file):
     root.set('xml:id','master_auteurs') ###################
     for file in list_file:
         ref=SubElement(root,"xi:include")
-        ref.set("ref",file)
+        ref.set("href",file)
     return root
