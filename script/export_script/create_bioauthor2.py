@@ -301,10 +301,10 @@ for auth in list_authors:
                         data_notices["data_auth"]["ile_en_ile_auto"]["death_date"]=dates_auth["death_date"]
             
             for component in data_ile_en_ile_ok[auth]["productions"]:
-                
+                print("=========>",component)
                 if(component!="Retour"):
                     for current_content in data_ile_en_ile_ok[auth]["productions"][component]:
-    
+                            print(current_content)
                             if("link" in current_content.keys()):
                                 if("ile_en_ile" not in data_notices["web_data"].keys()):
                                     data_notices["web_data"]["ile_en_ile"]=[]
@@ -312,9 +312,10 @@ for auth in list_authors:
                                 data_notices["web_data"]["ile_en_ile"].append({"title":current_content["link"]["text"],"url":current_content["link"]["url"]})
                             
                             if("text" in current_content.keys()):
+                                
                                 if component not in data_notices["biblio_data"]["ile_en_ile"]["content"].keys():
                                     data_notices["biblio_data"]["ile_en_ile"]["content"][component]=[]
-                                    data_notices["biblio_data"]["ile_en_ile"]["content"][component].append(current_content["text"])
+                                data_notices["biblio_data"]["ile_en_ile"]["content"][component].append(current_content["text"])
                                
             annoteted_bio=[]
             for content in bio_content:
@@ -389,12 +390,8 @@ for auth in list_authors:
                         data_notices["data_auth"]["spla"]["country"]=data_spla_ok[auth]["country"]
                         
                     if("lang" in data_spla_ok[auth]["desc"].keys()):
-                        
                         data_notices["data_auth"]["spla"]["lang"]=data_spla_ok[auth]["desc"]["lang"]
-                        
-        print("-------------------------")
-    #    try:
-    
+                     
         if(len(data_notices["biblio_data"].keys())>0 or len(data_notices["bio_data"].keys())>0 or len(data_notices["data_auth"].keys())>0 ):
             result=get_CompleteNotice(data_notices)
             str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')

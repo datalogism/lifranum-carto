@@ -73,7 +73,15 @@ def prettify(elem):
     """
     rough_string = ElementTree.tostring(elem, encoding= 'utf-8', method='xml')
     reparsed = minidom.parseString(rough_string)
-    txt= reparsed.toprettyxml(indent="  ")
+    txt= reparsed.toprettyxml(indent="")
+    txt2=txt.replace('<?xml version="1.0" ?>','<?xml version="1.0" encoding="UTF-8"?>').replace("\n","").replace("\t","")
+    return txt2
+
+def to_text(elem):
+    """Return a pretty-printed XML string for the Element.
+    """
+    elem=result
+    txt = ElementTree.tostring(elem, encoding= 'utf-8', method='xml')
     txt2=txt.replace('<?xml version="1.0" ?>','<?xml version="1.0" encoding="UTF-8"?>')
     return txt2
 
@@ -130,6 +138,7 @@ def AnnotateText(txt):
 
 def get_CompleteNotice(datas):
 #    datas=data_notices
+
     id_auth= strip_accents('_'.join(normalize_names(datas["author_name"])))
     generated_on = str(datetime.datetime.now())[0:10]
     root = Element('TEI')
@@ -178,7 +187,7 @@ def get_CompleteNotice(datas):
 #                if(persName is None):
 #                    persName=SubElement(person,"persName")
 #                surname=SubElement(persName,"surname")
-#                surname.set("source","bnf")
+#                surname.set("source","BNF")
 #                surname.text=data["bnf"]["name"]
 #
 #        ## FAMILY NAME
@@ -187,7 +196,7 @@ def get_CompleteNotice(datas):
 #                if(persName is None):
 #                    persName=SubElement(person,"persName")
 #                surname=SubElement(persName,"forename")
-#                surname.set("source","bnf")
+#                surname.set("source","BNF")
 #                surname.text=data["bnf"]["family_name"]
                 
         ### IF no distinctions
@@ -228,7 +237,7 @@ def get_CompleteNotice(datas):
         if("viaf" in data.keys() and "birth_date" in data["viaf"].keys()):
             if(data["viaf"]["birth_date"]):
                 birth=SubElement(person,"birth")
-                birth.set("source","viaf")
+                birth.set("source","VIAF")
                 birth_date=SubElement(birth,"date")
                 birth_date.text=data["viaf"]["birth_date"]
         if("spla_auto" in data.keys() and "birth_date" in data["spla_auto"].keys()):
@@ -248,7 +257,7 @@ def get_CompleteNotice(datas):
         if("viaf" in data.keys() and "death_date" in data["viaf"].keys()):
             if(data["viaf"]["death_date"]):
                 death=SubElement(person,"death")
-                death.set("source","viaf")
+                death.set("source","VIAF")
                 death_date=SubElement(death,"date")
                 death_date.text=data["viaf"]["death_date"]
         
@@ -274,7 +283,7 @@ def get_CompleteNotice(datas):
                     langKnowledge=SubElement(person,"langKnowledge")
 
                 lang=SubElement(langKnowledge,"langKnown")
-                lang.set("source","bnf")
+                lang.set("source","BNF")
                 lang.text=data["bnf"]["lang"]
                 list_lang.append(data["bnf"]["lang"])
         if("spla" in data.keys() and "lang" in data["spla"].keys()):
@@ -299,7 +308,7 @@ def get_CompleteNotice(datas):
                 residence=SubElement(person,"residence")
                 placeName=SubElement(residence,"placeName")
                 country=SubElement(placeName,"country")
-                country.set("source","bnf")
+                country.set("source","BNF")
                 country.text=data["bnf"]["country"]
 
         ## OCCUPATION
@@ -309,7 +318,7 @@ def get_CompleteNotice(datas):
                 for occ in data["viaf"]["occupations"]:
                     if( occ not in list_occup):
                         occupation=SubElement(person,"occupation")
-                        occupation.set("source","viaf")
+                        occupation.set("source","VIAF")
                         occupation.text=occ
                         list_occup.append(occ)
         if("spla" in data.keys() and "activity" in data["spla"].keys()):
@@ -337,7 +346,7 @@ def get_CompleteNotice(datas):
                     if("name" in co.keys() and co["id_lifranum"] not in list_p):
                         list_p.append(co["id_lifranum"])
                         person2=SubElement(listPerson,"relation")
-                        person2.set("source","viaf")
+                        person2.set("source","VIAF")
                         person2.set("ana",co["id_lifranum"])
                         person2.text=co["name"]
                         
@@ -371,11 +380,11 @@ def get_CompleteNotice(datas):
         Div_Bio.set("xml:id",id_auth+"_bio")
         Div_Bio.set("n",str(n))
         for bio_k in data["bio_data"].keys():
-            print(bio_k)
             if "bio_content" in data["bio_data"][bio_k].keys():
                 text=SubElement(Div_Bio,"text")
-                text.set("ana",id_auth+"_bio_"+bio_k)
+                text.set("ana",id_auth)
                 text.set('ref', data["bio_data"][bio_k]["ref"]) ################### URL ILE EN ILE
+                text.set("source",bio_k)
                 if "hand" in data["bio_data"][bio_k].keys() and data["bio_data"][bio_k]["hand"]!="":
                     text.set('hand',data["bio_data"][bio_k]["hand"] ) ################### WRITEN BY
                 for row in data["bio_data"][bio_k]["bio_content"]:
@@ -386,16 +395,22 @@ def get_CompleteNotice(datas):
         Div_Biblio=SubElement(root,"div")
         Div_Biblio.set("xml:id",id_auth+"_biblio")
         Div_Biblio.set("n",str(n))
+        n_2=1
         for biblio_k in data["biblio_data"].keys():
-            text=SubElement(Div_Biblio,"list")
-            text.set('xml:id', id_auth+'_biblio_auteur_'+biblio_k) ################### ID AUTEUR
+            text=SubElement(Div_Biblio,"div")
+            text.set('ana', id_auth) ################### ID AUTEUR
             text.set('ref', data["biblio_data"][biblio_k]["ref"])
+            text.set('source', biblio_k)
+            text.set("n",str(n)+"."+str(n_2))
             for list_name in data["biblio_data"][biblio_k]["content"].keys():
                 new_list=SubElement(text,"list")
                 new_list.set("subtype",list_name.lower())
                 for prod_k in data["biblio_data"][biblio_k]["content"][list_name]:
+ 
                     item = SubElement(new_list,"item")    
                     item.text=prod_k
+                
+            n_2=n_2+1
         n=n+1
     if("web_data" in datas.keys()):
         data=datas["web_data"]
@@ -404,13 +419,15 @@ def get_CompleteNotice(datas):
         Div_Web.set("n",str(n))
         for web_k in datas["web_data"].keys():
             new_list=SubElement(Div_Web,"list")
-            new_list.set("type",web_k.lower())
+            new_list.set("ana",id_auth)
+            new_list.set("subtype","liens")
+            new_list.set("source",web_k.lower())
             for element in datas["web_data"][web_k]:
                 item = SubElement(new_list,"item")
                 item.text=element["title"]
                 ref = SubElement(item,"ref")
                 ref.set("target",element["url"])
-
+            
 
                            
     return root
