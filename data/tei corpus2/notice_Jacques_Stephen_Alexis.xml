@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacques_Stephen_Alexis_fiche">
-    <person ana="Jacques_Stephen_Alexis" sex="na">
+    <person ana="Jacques_Stephen_Alexis" sex="m">
       <persName>Jacques Stephen Alexis</persName>
       <birth source="viaf">
         <date>1922-04-22</date>
@@ -63,7 +63,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jacques_Stephen_Alexis_bio">
-    <text hand="Yves Chemla" ref="http://ile-en-ile.org/alexis_jacques-stephen/">
+    <text ana="Jacques_Stephen_Alexis_bio_ile_en_ile" hand="Yves Chemla" ref="http://ile-en-ile.org/alexis_jacques-stephen/">
       <p>
         Jacques-
         <persName ana="Stephen_Alexis">Stephen Alexis</persName>
@@ -137,7 +137,7 @@
         : Humanitas, 1992, pp. 127-133. Utilisée avec permission.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jacques-stephen-alexis.5849.html">
+    <text ana="Jacques_Stephen_Alexis_bio_spla" ref="http://www.spla.pro/fiche.personne.jacques-stephen-alexis.5849.html">
       <p>
         <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
          est né en 1922 aux 
@@ -194,7 +194,7 @@
     </text>
   </div>
   <div n="3" xml:id="Jacques_Stephen_Alexis_biblio">
-    <div ref="http://ile-en-ile.org/alexis_jacques-stephen/" xml:id="Jacques_Stephen_Alexis_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/alexis_jacques-stephen/" xml:id="Jacques_Stephen_Alexis_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>General Sun, My Brother. Carrol F. Coates, translation and introduction. Charlottesville: University Press of Virginia, 1999.</item>
       </list>
@@ -213,14 +213,26 @@
       <list subtype="filmographie">
         <item>Jacques Stephen Alexis, mort sans sépulture. Documentaire par Arnold Antonin, 2015, 95 minutes.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Jacques_Stephen_Alexis_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#alexis">Adieu à un camarade</item>
-      <item ref="http://ile-en-ile.org/jacques-stephen-alexis-ou-va-le-roman/">Où va le roman ?</item>
-      <item ref="http://ile-en-ile.org/lavaud/">Jacques Roumain et Jacques-Stephen Alexis; Le « réalisme merveilleux » de deux écrivains haïtiens métamorphosé par leurs artistes peintres, « boss metal » et sculpteurs</item>
-      <item ref="http://www.cyberie.qc.ca/jpc/haiti/jsa.html">Jacques Stephen Alexis Remembered</item>
+      <item>
+        Adieu à un camarade
+        <ref target="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#alexis"/>
+      </item>
+      <item>
+        Où va le roman ?
+        <ref target="http://ile-en-ile.org/jacques-stephen-alexis-ou-va-le-roman/"/>
+      </item>
+      <item>
+        Jacques Roumain et Jacques-Stephen Alexis; Le « réalisme merveilleux » de deux écrivains haïtiens métamorphosé par leurs artistes peintres, « boss metal » et sculpteurs
+        <ref target="http://ile-en-ile.org/lavaud/"/>
+      </item>
+      <item>
+        Jacques Stephen Alexis Remembered
+        <ref target="http://www.cyberie.qc.ca/jpc/haiti/jsa.html"/>
+      </item>
     </list>
   </div>
 </TEI>

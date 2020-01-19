@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Alix_Renaud_bio">
-    <text ref="http://ile-en-ile.org/renaud/">
+    <text ana="Alix_Renaud_bio_ile_en_ile" ref="http://ile-en-ile.org/renaud/">
       <p>
         <persName ana="Alix_Renaud">Alix Renaud</persName>
          naît à Port-au-
@@ -142,7 +142,7 @@
     </text>
   </div>
   <div n="3" xml:id="Alix_Renaud_biblio">
-    <div ref="http://ile-en-ile.org/renaud/" xml:id="Alix_Renaud_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/renaud/" xml:id="Alix_Renaud_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« Memories » (« Souvenir »).Suzanne Brichaux-Houyoux, trad. Callaloo 15.2 (Spring 1992): 522-523.</item>
       </list>
@@ -179,26 +179,74 @@
       <list subtype="prix et distinctions littéraires">
         <item>2007     Prix Charles-Biddle, pour son apport exceptionnel à la société québécoise.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Alix_Renaud_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/alix-renaud-poemes/">Ménage à trois</item>
-      <item ref="http://www3.sympatico.ca/alix.renaud/">Alix Renaud, ou le plaisir du texte</item>
-      <item ref="https://youtu.be/j00ZarXgz5g">« Le Mot et la chose », poème de Lattaignant</item>
-      <item ref="https://youtu.be/C1P65X3rhZU">Des genoux au vertige</item>
-      <item ref="http://www3.sympatico.ca/diamantbleu/accueil.html">À la recherche du Petit Prince</item>
-      <item ref="http://www.litterature.org/recherche/ecrivains/renaud-alix-389/">Présentation sur L’île</item>
-      <item ref="http://www.litterature.org/recherche/ecrivains/renaud-alix-389/">Présentation sur L’île</item>
-      <item ref="http://www.potomitan.info/ayiti/renaud.php">Présentation sur Potomitan</item>
-      <item ref="http://www.uefs.br/sitientibus/sitientibus_9/entrevista.pdf">Entrevista</item>
-      <item ref="http://newsgroups.derkeiler.com/Archive/Soc/soc.culture.haiti/2005-11/msg00159.html">Le don de jouer avec les mots</item>
-      <item ref="http://www.mondokarnaval.com/alix_chronique_2016.html">Les Chroniques d’Alix Renaud</item>
-      <item ref="http://www3.sympatico.ca/alix.renaud/grac_esp.html">Ofrenda de Gracias</item>
-      <item ref="http://fr.wiktionary.org/wiki/pompion">Pompion</item>
-      <item ref="https://www.thecaribbeancurrent.com/quebec-awards-alix-renaud-for-excellence-in-arts-and-culture/">Quebec Awards Alix Renaud for Excellence in Arts and Culture</item>
-      <item ref="http://www.voir.ca/">Voir</item>
-      <item ref="https://voir.ca/livres/2000/02/10/alix-renaud-ovation/">Ovation</item>
+      <item>
+        Ménage à trois
+        <ref target="http://ile-en-ile.org/alix-renaud-poemes/"/>
+      </item>
+      <item>
+        Alix Renaud, ou le plaisir du texte
+        <ref target="http://www3.sympatico.ca/alix.renaud/"/>
+      </item>
+      <item>
+        « Le Mot et la chose », poème de Lattaignant
+        <ref target="https://youtu.be/j00ZarXgz5g"/>
+      </item>
+      <item>
+        Des genoux au vertige
+        <ref target="https://youtu.be/C1P65X3rhZU"/>
+      </item>
+      <item>
+        À la recherche du Petit Prince
+        <ref target="http://www3.sympatico.ca/diamantbleu/accueil.html"/>
+      </item>
+      <item>
+        Présentation sur L’île
+        <ref target="http://www.litterature.org/recherche/ecrivains/renaud-alix-389/"/>
+      </item>
+      <item>
+        Présentation sur L’île
+        <ref target="http://www.litterature.org/recherche/ecrivains/renaud-alix-389/"/>
+      </item>
+      <item>
+        Présentation sur Potomitan
+        <ref target="http://www.potomitan.info/ayiti/renaud.php"/>
+      </item>
+      <item>
+        Entrevista
+        <ref target="http://www.uefs.br/sitientibus/sitientibus_9/entrevista.pdf"/>
+      </item>
+      <item>
+        Le don de jouer avec les mots
+        <ref target="http://newsgroups.derkeiler.com/Archive/Soc/soc.culture.haiti/2005-11/msg00159.html"/>
+      </item>
+      <item>
+        Les Chroniques d’Alix Renaud
+        <ref target="http://www.mondokarnaval.com/alix_chronique_2016.html"/>
+      </item>
+      <item>
+        Ofrenda de Gracias
+        <ref target="http://www3.sympatico.ca/alix.renaud/grac_esp.html"/>
+      </item>
+      <item>
+        Pompion
+        <ref target="http://fr.wiktionary.org/wiki/pompion"/>
+      </item>
+      <item>
+        Quebec Awards Alix Renaud for Excellence in Arts and Culture
+        <ref target="https://www.thecaribbeancurrent.com/quebec-awards-alix-renaud-for-excellence-in-arts-and-culture/"/>
+      </item>
+      <item>
+        Voir
+        <ref target="http://www.voir.ca/"/>
+      </item>
+      <item>
+        Ovation
+        <ref target="https://voir.ca/livres/2000/02/10/alix-renaud-ovation/"/>
+      </item>
     </list>
   </div>
 </TEI>

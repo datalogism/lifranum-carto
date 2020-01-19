@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emile_Ollivier_fiche">
-    <person ana="Emile_Ollivier" sex="na">
+    <person ana="Emile_Ollivier" sex="m">
       <persName>Émile Ollivier</persName>
       <idno type="BNF">
         cb12004517h#about
@@ -68,7 +68,7 @@
     </person>
   </div>
   <div n="2" xml:id="Emile_Ollivier_bio">
-    <text ref="http://ile-en-ile.org/ollivier/">
+    <text ana="Emile_Ollivier_bio_ile_en_ile" ref="http://ile-en-ile.org/ollivier/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -247,7 +247,7 @@
     </text>
   </div>
   <div n="3" xml:id="Emile_Ollivier_biblio">
-    <div ref="http://ile-en-ile.org/ollivier/" xml:id="Emile_Ollivier_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/ollivier/" xml:id="Emile_Ollivier_biblio_auteur_ile_en_ile">
       <list subtype="ouvrages collectifs">
         <item>« Émile Ollivier », numéro spécial d’Études littéraires 34.3 (été 2002). Sous la direction de Christiane NDiaye. Études d’Éloïse A. Brière, Yves Chemla, Christiane Ndiaye, Joubert Satyre, Thomas C. Spear et Joëlle Vitiello, et un essai inédit de l’auteur (publication posthume, ce numéro étant sorti en octobre 2003). (disponible en ligne, voir liens ci-dessous)</item>
       </list>
@@ -284,22 +284,57 @@
       <list subtype="direction de recueils">
         <item>Sociologie de la formation des adultes. Matériaux pour un enseignement. Montréal: Librairie de l’U. de Montréal, 1981-1982.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Emile_Ollivier_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/emile-ollivier-hommage-a-anthony-phelps/">Hommage à Anthony Phelps</item>
-      <item ref="http://ile-en-ile.org/emile-ollivier-la-supplique-delie-magnan/">La supplique d’Élie Magnan</item>
-      <item ref="http://ile-en-ile.org/emile-ollivier-et-me-voila-otage-et-protagoniste/">Et me voilà otage et protagoniste</item>
-      <item ref="http://ile-en-ile.org/emile-ollivier-hommages-a-lauteur/">La mémoire d’une île</item>
-      <item ref="http://ile-en-ile.org/emile-ollivier-hommages-a-lauteur/">Émile Ollivier (1940-2002); Hommages à l’auteur</item>
-      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
-      <item ref="http://www.erudit.org/revue/etudlitt/2002/v34/n3/">Émile Ollivier</item>
-      <item ref="http://www.mce.gouv.qc.ca/g/html/onq/93/93_35.htm">Émile Ollivier</item>
-      <item ref="http://www.litterature.org/ile32000.asp?numero=351">Émile Ollivier</item>
-      <item ref="http://www.ledevoir.com/2002/11/15/13424.html">Émile Ollivier (1940-2002) – À l’épreuve de l’avenir)</item>
-      <item ref="http://www.medi1.com/archives/archives_sonores.php">archives sonores de Medi1</item>
-      <item ref="http://www.vehiculepress.com/montreal/writers/ollivier.html">Émile Ollivier</item>
+      <item>
+        Hommage à Anthony Phelps
+        <ref target="http://ile-en-ile.org/emile-ollivier-hommage-a-anthony-phelps/"/>
+      </item>
+      <item>
+        La supplique d’Élie Magnan
+        <ref target="http://ile-en-ile.org/emile-ollivier-la-supplique-delie-magnan/"/>
+      </item>
+      <item>
+        Et me voilà otage et protagoniste
+        <ref target="http://ile-en-ile.org/emile-ollivier-et-me-voila-otage-et-protagoniste/"/>
+      </item>
+      <item>
+        La mémoire d’une île
+        <ref target="http://ile-en-ile.org/emile-ollivier-hommages-a-lauteur/"/>
+      </item>
+      <item>
+        Émile Ollivier (1940-2002); Hommages à l’auteur
+        <ref target="http://ile-en-ile.org/emile-ollivier-hommages-a-lauteur/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      </item>
+      <item>
+        Émile Ollivier
+        <ref target="http://www.erudit.org/revue/etudlitt/2002/v34/n3/"/>
+      </item>
+      <item>
+        Émile Ollivier
+        <ref target="http://www.mce.gouv.qc.ca/g/html/onq/93/93_35.htm"/>
+      </item>
+      <item>
+        Émile Ollivier
+        <ref target="http://www.litterature.org/ile32000.asp?numero=351"/>
+      </item>
+      <item>
+        Émile Ollivier (1940-2002) – À l’épreuve de l’avenir)
+        <ref target="http://www.ledevoir.com/2002/11/15/13424.html"/>
+      </item>
+      <item>
+        archives sonores de Medi1
+        <ref target="http://www.medi1.com/archives/archives_sonores.php"/>
+      </item>
+      <item>
+        Émile Ollivier
+        <ref target="http://www.vehiculepress.com/montreal/writers/ollivier.html"/>
+      </item>
     </list>
   </div>
 </TEI>

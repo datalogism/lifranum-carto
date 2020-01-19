@@ -33,12 +33,11 @@
       <listRelation>
         <relation ana="Jean_Brierre" source="ile_en_ile_auto">Jean Brièrre</relation>
         <relation ana="Victor_Hugo" source="ile_en_ile_auto">Victor Hugo</relation>
-        <relation ana="Jean_Brierre" source="ile_en_ile_auto">Jean Brièrre</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Fernand_Brierre_bio">
-    <text ref="http://www.spla.pro/fiche.personne.jean-fernand-brierre.14062.html">
+    <text ana="Jean_Fernand_Brierre_bio_spla" ref="http://www.spla.pro/fiche.personne.jean-fernand-brierre.14062.html">
       <p>
         <persName ana="Jean_Fernand_Brierre">Jean Fernand Brierre</persName>
          naît le 28 septembre 1909 à 

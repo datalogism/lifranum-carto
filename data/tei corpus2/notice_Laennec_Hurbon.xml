@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Laennec_Hurbon_bio">
-    <text ref="http://www.spla.pro/fiche.personne.laennec-hurbon.5247.html">
+    <text ana="Laennec_Hurbon_bio_spla" ref="http://www.spla.pro/fiche.personne.laennec-hurbon.5247.html">
       <p>Laennec Hurbon est anthropologue, philosophe, sociologue des religions, théologien, spécialiste du vodou</p>
     </text>
   </div>

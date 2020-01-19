@@ -30,7 +30,7 @@
     </person>
   </div>
   <div n="2" xml:id="Coutecheve_Lavoie_Aupont_bio">
-    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/aupont/">
+    <text ana="Coutecheve_Lavoie_Aupont_bio_ile_en_ile" hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/aupont/">
       <p>
         La parole de 
         <persName ana="Coutecheve_Lavoie_Aupont">
@@ -130,7 +130,7 @@ comme une orange morte
     </text>
   </div>
   <div n="3" xml:id="Coutecheve_Lavoie_Aupont_biblio">
-    <div ref="http://ile-en-ile.org/aupont/" xml:id="Coutecheve_Lavoie_Aupont_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/aupont/" xml:id="Coutecheve_Lavoie_Aupont_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Partances. Préface de Josaphat-Robert Large. New York: Rivarticollection, 2009.</item>
       </list>
@@ -140,15 +140,30 @@ comme une orange morte
       <list subtype="distinction littéraire">
         <item>2016     Prix René Philoctète, pour Le doute de la main.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Coutecheve_Lavoie_Aupont_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/pour-edgar-allan-poe/">Pour Edgar Allan Poe, </item>
-      <item ref="https://500px.com/partances">Coutechève Lavoie Aupont</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/article/52240/A-dyeux-de-Coutecheve-Lavoie-Aupont">‘A d\’yeux’ de Coutechève Lavoie Aupont</item>
-      <item ref="https://youtu.be/iAXvEHHbbgE">‘Des Livres et Vous’ avec Coutechève Lavoie Aupont</item>
-      <item ref="http://poesie.webnet.fr/vospoemes/poemes/lavoie_coutecheve_aupont/sur_la_rosee.html">Sur la rosée</item>
+      <item>
+        Pour Edgar Allan Poe, 
+        <ref target="http://ile-en-ile.org/pour-edgar-allan-poe/"/>
+      </item>
+      <item>
+        Coutechève Lavoie Aupont
+        <ref target="https://500px.com/partances"/>
+      </item>
+      <item>
+        ‘A d\’yeux’ de Coutechève Lavoie Aupont
+        <ref target="http://lenouvelliste.com/lenouvelliste/article/52240/A-dyeux-de-Coutecheve-Lavoie-Aupont"/>
+      </item>
+      <item>
+        ‘Des Livres et Vous’ avec Coutechève Lavoie Aupont
+        <ref target="https://youtu.be/iAXvEHHbbgE"/>
+      </item>
+      <item>
+        Sur la rosée
+        <ref target="http://poesie.webnet.fr/vospoemes/poemes/lavoie_coutecheve_aupont/sur_la_rosee.html"/>
+      </item>
     </list>
   </div>
 </TEI>

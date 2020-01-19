@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Georges_Castera_fiche">
-    <person ana="Georges_Castera" sex="na">
+    <person ana="Georges_Castera" sex="m">
       <persName>Georges Castera</persName>
       <idno type="BNF">
         cb12304276q#about
@@ -76,7 +76,7 @@
     </person>
   </div>
   <div n="2" xml:id="Georges_Castera_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/castera/">
+    <text ana="Georges_Castera_bio_ile_en_ile" hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/castera/">
       <p>
         <persName ana="Georges_Castera">Georges Castera</persName>
          fils est né le 27 décembre 1936 à Port-au-
@@ -185,7 +185,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.georges-castera.8063.html">
+    <text ana="Georges_Castera_bio_spla" ref="http://www.spla.pro/fiche.personne.georges-castera.8063.html">
       <p>
         <persName ana="Georges_Castera">Georges Castera</persName>
          est né le 26 décembre 1936. Il a quitté 
@@ -209,7 +209,7 @@
     </text>
   </div>
   <div n="3" xml:id="Georges_Castera_biblio">
-    <div ref="http://ile-en-ile.org/castera/" xml:id="Georges_Castera_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/castera/" xml:id="Georges_Castera_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« Notice / Mise en demeure ». Poème de Georges Castera publié avec une traduction en anglais de Carrol F. Coates, précédé d’un entretien avec l’auteur (propos recueillis par Charles H. Rowell, traduits par Mohamed B. Taleb-Kyar). Callaloo 15.2 (Spring 1992): 528-532.</item>
       </list>
@@ -255,38 +255,122 @@
       <list subtype="sur l’oeuvre de georges castera">
         <item>Auguste, Bonel. « La modernité de la poésie créole de Georges Castera ». Relire l’histoire littéraire et le littéraire haïtiens. Port-au-Prince: Presses Nationales d’Haïti, 2007: 73-84.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Georges_Castera_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/boutures/">Boutures</item>
-      <item ref="http://ile-en-ile.org/georges-castera-lire-a-fonds-perdu/">Lire À fonds perdu</item>
-      <item ref="http://ile-en-ile.org/georges-castera-poetes-contemporains-de-la-roumanie/">Poètes roumains contemporains</item>
-      <item ref="http://ile-en-ile.org/georges-castera-xie-festival-international-de-poesie-de-medellin/">XIe festival international de poésie de Medellin</item>
-      <item ref="http://ile-en-ile.org/castera-sept-poemes/">Georges Castera lisant une sélection de poésie</item>
-      <item ref="http://ile-en-ile.org/georges-castera-5-questions-pour-ile-en-ile/">Georges Castera, 5 Questions pour Île en île</item>
-      <item ref="http://ile-en-ile.org/georges-castera-pitit-malere/">Poto</item>
-      <item ref="http://ile-en-ile.org/georges-castera-tanbou-kreyol/">Tanbou kreyol</item>
-      <item ref="https://c3editions.com/auteur_detail.php?aut_id=2893">C3 Éditions</item>
-      <item ref="http://creativetimereports.org/2013/01/12/the-end-point/">« Le Point d’arrivée » / « The End Point »</item>
-      <item ref="http://barricadejournal.org/vol1issue1/creole-drum/">Creole Drum</item>
-      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=50790">Sur Georges Castera</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=51980">Bow! Un grand bruit de tonnerre de Georges Castera</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=65614">L’écrivain de la culture populaire</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=73735">Le culte de la poésie</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=101075">« L’influence de Georges Castera est évidente sur au moins deux générations »</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=101073">L’héritage vivant, merveilleux de Georges Castera</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=102270">Georges Castera est tout un système</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=102283">Le symbolisme de l’encre et de la demeuree</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=102509">Le recueil « Les cinq lettres » de Georges Castera réédité</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=104913">Le Poète Georges Castera est l’invité d’honneur de la 18ème édition de Livres en folie</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=104692">Pwenba de Georges Castera</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=105200">Georges Castera livre ses pensées</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=105680">Georges Castera : Pwemba !</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=105936">La poétique de Georges Castera</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=106510">PST !: le livre de dessins de Georges Castera</item>
-      <item ref="http://www.lenouvelliste.com/article4.php?newsid=113006">Castera chez les détenus</item>
+      <item>
+        Boutures
+        <ref target="http://ile-en-ile.org/boutures/"/>
+      </item>
+      <item>
+        Lire À fonds perdu
+        <ref target="http://ile-en-ile.org/georges-castera-lire-a-fonds-perdu/"/>
+      </item>
+      <item>
+        Poètes roumains contemporains
+        <ref target="http://ile-en-ile.org/georges-castera-poetes-contemporains-de-la-roumanie/"/>
+      </item>
+      <item>
+        XIe festival international de poésie de Medellin
+        <ref target="http://ile-en-ile.org/georges-castera-xie-festival-international-de-poesie-de-medellin/"/>
+      </item>
+      <item>
+        Georges Castera lisant une sélection de poésie
+        <ref target="http://ile-en-ile.org/castera-sept-poemes/"/>
+      </item>
+      <item>
+        Georges Castera, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/georges-castera-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        Poto
+        <ref target="http://ile-en-ile.org/georges-castera-pitit-malere/"/>
+      </item>
+      <item>
+        Tanbou kreyol
+        <ref target="http://ile-en-ile.org/georges-castera-tanbou-kreyol/"/>
+      </item>
+      <item>
+        C3 Éditions
+        <ref target="https://c3editions.com/auteur_detail.php?aut_id=2893"/>
+      </item>
+      <item>
+        « Le Point d’arrivée » / « The End Point »
+        <ref target="http://creativetimereports.org/2013/01/12/the-end-point/"/>
+      </item>
+      <item>
+        Creole Drum
+        <ref target="http://barricadejournal.org/vol1issue1/creole-drum/"/>
+      </item>
+      <item>
+        Le Nouvelliste
+        <ref target="http://www.lenouvelliste.com/"/>
+      </item>
+      <item>
+        Sur Georges Castera
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=50790"/>
+      </item>
+      <item>
+        Bow! Un grand bruit de tonnerre de Georges Castera
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=51980"/>
+      </item>
+      <item>
+        L’écrivain de la culture populaire
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=65614"/>
+      </item>
+      <item>
+        Le culte de la poésie
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=73735"/>
+      </item>
+      <item>
+        « L’influence de Georges Castera est évidente sur au moins deux générations »
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=101075"/>
+      </item>
+      <item>
+        L’héritage vivant, merveilleux de Georges Castera
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=101073"/>
+      </item>
+      <item>
+        Georges Castera est tout un système
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=102270"/>
+      </item>
+      <item>
+        Le symbolisme de l’encre et de la demeuree
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=102283"/>
+      </item>
+      <item>
+        Le recueil « Les cinq lettres » de Georges Castera réédité
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=102509"/>
+      </item>
+      <item>
+        Le Poète Georges Castera est l’invité d’honneur de la 18ème édition de Livres en folie
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=104913"/>
+      </item>
+      <item>
+        Pwenba de Georges Castera
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=104692"/>
+      </item>
+      <item>
+        Georges Castera livre ses pensées
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=105200"/>
+      </item>
+      <item>
+        Georges Castera : Pwemba !
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=105680"/>
+      </item>
+      <item>
+        La poétique de Georges Castera
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=105936"/>
+      </item>
+      <item>
+        PST !: le livre de dessins de Georges Castera
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=106510"/>
+      </item>
+      <item>
+        Castera chez les détenus
+        <ref target="http://www.lenouvelliste.com/article4.php?newsid=113006"/>
+      </item>
     </list>
   </div>
 </TEI>

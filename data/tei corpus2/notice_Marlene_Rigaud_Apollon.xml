@@ -34,7 +34,7 @@
     </person>
   </div>
   <div n="2" xml:id="Marlene_Rigaud_Apollon_bio">
-    <text ref="http://ile-en-ile.org/apollon/">
+    <text ana="Marlene_Rigaud_Apollon_bio_ile_en_ile" ref="http://ile-en-ile.org/apollon/">
       <p>
         <persName ana="Marlene_Rigaud_Apollon">Marlène Rigaud Apollon</persName>
          est née le 23 mai 1945 au Cap-Haïtien.
@@ -108,7 +108,7 @@
          pour les jeunes et ceux de tout âge qui veulent se renseigner sur ce sujet.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.marlene-rigaud-apollon.32103.html">
+    <text ana="Marlene_Rigaud_Apollon_bio_spla" ref="http://www.spla.pro/fiche.personne.marlene-rigaud-apollon.32103.html">
       <p>
         <persName ana="Marlene_Rigaud_Apollon">Marlène Rigaud Apollon</persName>
          est née le 23 mai 1945 au Cap-Haïtien. Elle a fait ses études primaires et secondaires à l'Institution du Sacré-Cœur de 
@@ -126,7 +126,7 @@
     </text>
   </div>
   <div n="3" xml:id="Marlene_Rigaud_Apollon_biblio">
-    <div ref="http://ile-en-ile.org/apollon/" xml:id="Marlene_Rigaud_Apollon_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/apollon/" xml:id="Marlene_Rigaud_Apollon_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Cris de Colère, Chants d’espoir. Montréal: CIDHICA, 1992; Boca Raton: Marlène Rigaud Apollon, 2007.</item>
       </list>
@@ -145,27 +145,75 @@
       <list subtype="lectures et présentations">
         <item>First and Second Annual Authors’ Luncheon, Institute for Haitian Cultural and Scientific Affairs, Bethesda (Maryland), juillet 1995 et novembre 1996.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Marlene_Rigaud_Apollon_web">
     <list type="ile_en_ile">
-      <item ref="http://www.philosophiehaiti.org/institution/moun3_textes/moun3_265.pdf">Au pays des songes et des mensonges</item>
-      <item ref="http://www.haiti-science.com/adiha/amhe_conv-rep.htm">Being Haitian in America, a question of identity</item>
-      <item ref="http://www.amhe.org/amhe/home/news.asp?dismode=article&amp;apage=7&amp;artid=97">A deferred dream comes true</item>
-      <item ref="http://fransk.acnord.dk/undervis/haitiweb/todigte.htm">Deux poèmes de Marlène Rigaud Apollon</item>
-      <item ref="http://www.philosophiehaiti.org/institution/moun4_textes/moun4_124_146.pdf">Discours de Frederick Douglass sur Haïti</item>
-      <item ref="http://www.potomitan.info/ayiti/seisme_2010q.php">Manman, pa kite yo koupe janm mwen !</item>
-      <item ref="http://www.haitiandiaspora.com/viewpoint/editorials/RFLewismuseum.htm">The Reginald Lewis Museum of Maryland African-American History and Culture;
-An Invaluable Learning Experience</item>
-      <item ref="http://www.amhe.org/amhe/home/news.asp?apage=7&amp;foobar=97&amp;dismode=article&amp;artid=106">Dr. Rodrigue Mortel, un fils de St. Marc revient à ses sources</item>
-      <item ref="http://www.irsp.org/poetry-18fr.htm">Si nous plantions un arbre…</item>
-      <item ref="http://www.webster.edu/%7Ecorbetre/personal/reading/apollon-trivia.html">Haiti Trivia et Haitian Art Trivia</item>
-      <item ref="http://www.echodhaiti.com/books/index.htm">Louis Mercier, À la Reconquête de l’Idéal haïtien</item>
-      <item ref="http://www.umbc.edu/NewsEvents/publications/Mag/1978.html"> Marlene Rigaud Apollon</item>
-      <item ref="http://www.motherlange.org/revolution.html">The Haitian Connection</item>
-      <item ref="http://www.motherlange.org/revolution.html">The Haitian Connection</item>
-      <item ref="http://www.archbalt.org/our-history/notable-people-detail.cfm?customel_datapageid_999=2243">Mother Mary Elizabeth Lange</item>
-      <item ref="http://www.oblatesisters.com/MotherLange.html">Mother Mary Lange</item>
+      <item>
+        Au pays des songes et des mensonges
+        <ref target="http://www.philosophiehaiti.org/institution/moun3_textes/moun3_265.pdf"/>
+      </item>
+      <item>
+        Being Haitian in America, a question of identity
+        <ref target="http://www.haiti-science.com/adiha/amhe_conv-rep.htm"/>
+      </item>
+      <item>
+        A deferred dream comes true
+        <ref target="http://www.amhe.org/amhe/home/news.asp?dismode=article&amp;apage=7&amp;artid=97"/>
+      </item>
+      <item>
+        Deux poèmes de Marlène Rigaud Apollon
+        <ref target="http://fransk.acnord.dk/undervis/haitiweb/todigte.htm"/>
+      </item>
+      <item>
+        Discours de Frederick Douglass sur Haïti
+        <ref target="http://www.philosophiehaiti.org/institution/moun4_textes/moun4_124_146.pdf"/>
+      </item>
+      <item>
+        Manman, pa kite yo koupe janm mwen !
+        <ref target="http://www.potomitan.info/ayiti/seisme_2010q.php"/>
+      </item>
+      <item>
+        The Reginald Lewis Museum of Maryland African-American History and Culture;
+An Invaluable Learning Experience
+        <ref target="http://www.haitiandiaspora.com/viewpoint/editorials/RFLewismuseum.htm"/>
+      </item>
+      <item>
+        Dr. Rodrigue Mortel, un fils de St. Marc revient à ses sources
+        <ref target="http://www.amhe.org/amhe/home/news.asp?apage=7&amp;foobar=97&amp;dismode=article&amp;artid=106"/>
+      </item>
+      <item>
+        Si nous plantions un arbre…
+        <ref target="http://www.irsp.org/poetry-18fr.htm"/>
+      </item>
+      <item>
+        Haiti Trivia et Haitian Art Trivia
+        <ref target="http://www.webster.edu/%7Ecorbetre/personal/reading/apollon-trivia.html"/>
+      </item>
+      <item>
+        Louis Mercier, À la Reconquête de l’Idéal haïtien
+        <ref target="http://www.echodhaiti.com/books/index.htm"/>
+      </item>
+      <item>
+         Marlene Rigaud Apollon
+        <ref target="http://www.umbc.edu/NewsEvents/publications/Mag/1978.html"/>
+      </item>
+      <item>
+        The Haitian Connection
+        <ref target="http://www.motherlange.org/revolution.html"/>
+      </item>
+      <item>
+        The Haitian Connection
+        <ref target="http://www.motherlange.org/revolution.html"/>
+      </item>
+      <item>
+        Mother Mary Elizabeth Lange
+        <ref target="http://www.archbalt.org/our-history/notable-people-detail.cfm?customel_datapageid_999=2243"/>
+      </item>
+      <item>
+        Mother Mary Lange
+        <ref target="http://www.oblatesisters.com/MotherLange.html"/>
+      </item>
     </list>
   </div>
 </TEI>

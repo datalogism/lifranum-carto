@@ -35,55 +35,23 @@
         <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Jean_Watson_Charles" source="ile_en_ile_auto">Jean Watson Charles</relation>
         <relation ana="Denise_Bernhardt" source="ile_en_ile_auto">Denise Bernhardt</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Jean_Watson_Charles" source="ile_en_ile_auto">Jean Watson Charles</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Leopold_Sedar_Senghor" source="ile_en_ile_auto">Léopold Sédar Senghor</relation>
-        <relation ana="Jean_Watson_Charles" source="ile_en_ile_auto">Jean Watson Charles</relation>
         <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Alice_Theard" source="ile_en_ile_auto">Alice Théard</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Gary_Victor" source="ile_en_ile_auto">Gary Victor</relation>
         <relation ana="Dany_Laferriere" source="ile_en_ile_auto">Dany Laferrière</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
-        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Nadine_Magloire" source="ile_en_ile_auto">Nadine Magloire</relation>
-        <relation ana="Alice_Theard" source="ile_en_ile_auto">Alice Théard</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Georges_Sylvain" source="ile_en_ile_auto">Georges Sylvain</relation>
         <relation ana="Marie_Vieux" source="ile_en_ile_auto">Marie Vieux</relation>
         <relation ana="Dieulermesson_Petit" source="ile_en_ile_auto">Dieulermesson Petit</relation>
-        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
         <relation ana="Bibliotheque_Araka" source="ile_en_ile_auto">Bibliothèque Araka</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
-        <relation ana="Nadine_Magloire" source="ile_en_ile_auto">Nadine Magloire</relation>
-        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
         <relation ana="Yanick_Lahens" source="ile_en_ile_auto">Yanick Lahens</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Webert_Charles_bio">
-    <text ref="http://www.spla.pro/fiche.personne.webert-charles.39867.html">
+    <text ana="Webert_Charles_bio_spla" ref="http://www.spla.pro/fiche.personne.webert-charles.39867.html">
       <p>
         Wébert Charles est né le 24 octobre 1988 à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -319,7 +287,10 @@
   <div n="3" xml:id="Webert_Charles_biblio"/>
   <div n="4" xml:id="Webert_Charles_web">
     <list type="spla">
-      <item ref="http://lelivre.mondoblog.org">Website WÃ©bert CHARLES  </item>
+      <item>
+        Website WÃ©bert CHARLES  
+        <ref target="http://lelivre.mondoblog.org"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Evelyne_Trouillot_fiche">
-    <person ana="Evelyne_Trouillot" sex="na">
+    <person ana="Evelyne_Trouillot" sex="f">
       <persName>Évelyne Trouillot</persName>
       <idno type="BNF">
         cb13083631w#about
@@ -59,7 +59,7 @@
     </person>
   </div>
   <div n="2" xml:id="Evelyne_Trouillot_bio">
-    <text ref="http://ile-en-ile.org/trouillot_evelyne/">
+    <text ana="Evelyne_Trouillot_bio_ile_en_ile" ref="http://ile-en-ile.org/trouillot_evelyne/">
       <p>
         <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
          est née le 2 janvier 1954 à Port-au-
@@ -137,7 +137,7 @@
     </text>
   </div>
   <div n="3" xml:id="Evelyne_Trouillot_biblio">
-    <div ref="http://ile-en-ile.org/trouillot_evelyne/" xml:id="Evelyne_Trouillot_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/trouillot_evelyne/" xml:id="Evelyne_Trouillot_biblio_auteur_ile_en_ile">
       <list subtype="auf deutsch">
         <item>Hallo… New York. Erzählungen aus Haiti. (« La Chambre interdite »). Trad. Cornelia Panzacchi. Göttingen: Lamuv Taschenbuch, 1999.</item>
       </list>
@@ -184,28 +184,80 @@ Mise en lecture au Théâtre du Rond-Point à Paris (2005), à la Martinique et 
       <list subtype="sur l’oeuvre d’évelyne trouillot">
         <item>Bellefleur, Pierre Maxwell. « La nouvelle haïtienne – témoin d’une époque ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 259-269.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Evelyne_Trouillot_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/evelyne-trouillot-dayiva/">Dayiva</item>
-      <item ref="http://ile-en-ile.org/evelyne-trouillot-rosalie-linfame/">Rosalie l’infâme</item>
-      <item ref="http://ile-en-ile.org/evelyne-trouillot-5-questions-pour-ile-en-ile/">Évelyne Trouillot, 5 Questions pour Île en île</item>
-      <item ref="http://www.editions-brunodoucey.com/?s=trouillot">Évelyne Trouillot</item>
-      <item ref="http://www.bombsite.com/issues/90/articles/2708">Evelyne Trouillot by Edwidge Danticat</item>
-      <item ref="http://www.lenouvelliste.com/articleforprint.php?PubID=1&amp;ArticleID=53271">Évelyne Trouillot signe son nouveau roman</item>
-      <item ref="https://www.pbs.org/newshour/show/in-chaos-of-post-earthquake-haiti-artists-create-poetry-amid-rubble">In Chaos of Post-Earthquake Haiti, Artists Create Poetry Amid Rubble</item>
-      <item ref="http://www.wordswithoutborders.org/article.php?lab=Intheshadeof">In the Shade of the Almond Tree</item>
-      <item ref="http://www.hoebeke.fr/ouvrages/288/">La mémoire aux abois</item>
-      <item ref="http://etonnants-voyageurs.com/spip.php?article4800">La mer, entre lait et sang</item>
-      <item ref="http://www.ft.com/intl/cms/s/2/68f16da8-b4f2-11e1-aa06-00144feabdc0.html">Poetry in Motion</item>
-      <item ref="http://www.granta.com/New-Writing/Poetry-Parnassus">Poetry Parnassus</item>
-      <item ref="http://www.guardian.co.uk/books/interactive/2012/jun/26/poetry-parnassus-interactive-map">Please</item>
-      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
-      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
-      <item ref="http://www.fl.ulaval.ca/cuentos/trouillot.htm">Raz-de-marée</item>
-      <item ref="http://www.medialternatif.org/alterpresse/article.php3?id_article=517">Rosalie L’Infâme: un roman sur le marronnage avant l’Indépendance d’Haiti </item>
-      <item ref="https://www.erudit.org/fr/revues/etudfr/2016-v52-n1-etudfr02402/1035544ar/">Paternités sans frontières dans quelques romans haïtiens contemporains</item>
+      <item>
+        Dayiva
+        <ref target="http://ile-en-ile.org/evelyne-trouillot-dayiva/"/>
+      </item>
+      <item>
+        Rosalie l’infâme
+        <ref target="http://ile-en-ile.org/evelyne-trouillot-rosalie-linfame/"/>
+      </item>
+      <item>
+        Évelyne Trouillot, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/evelyne-trouillot-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        Évelyne Trouillot
+        <ref target="http://www.editions-brunodoucey.com/?s=trouillot"/>
+      </item>
+      <item>
+        Evelyne Trouillot by Edwidge Danticat
+        <ref target="http://www.bombsite.com/issues/90/articles/2708"/>
+      </item>
+      <item>
+        Évelyne Trouillot signe son nouveau roman
+        <ref target="http://www.lenouvelliste.com/articleforprint.php?PubID=1&amp;ArticleID=53271"/>
+      </item>
+      <item>
+        In Chaos of Post-Earthquake Haiti, Artists Create Poetry Amid Rubble
+        <ref target="https://www.pbs.org/newshour/show/in-chaos-of-post-earthquake-haiti-artists-create-poetry-amid-rubble"/>
+      </item>
+      <item>
+        In the Shade of the Almond Tree
+        <ref target="http://www.wordswithoutborders.org/article.php?lab=Intheshadeof"/>
+      </item>
+      <item>
+        La mémoire aux abois
+        <ref target="http://www.hoebeke.fr/ouvrages/288/"/>
+      </item>
+      <item>
+        La mer, entre lait et sang
+        <ref target="http://etonnants-voyageurs.com/spip.php?article4800"/>
+      </item>
+      <item>
+        Poetry in Motion
+        <ref target="http://www.ft.com/intl/cms/s/2/68f16da8-b4f2-11e1-aa06-00144feabdc0.html"/>
+      </item>
+      <item>
+        Poetry Parnassus
+        <ref target="http://www.granta.com/New-Writing/Poetry-Parnassus"/>
+      </item>
+      <item>
+        Please
+        <ref target="http://www.guardian.co.uk/books/interactive/2012/jun/26/poetry-parnassus-interactive-map"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      </item>
+      <item>
+        Raz-de-marée
+        <ref target="http://www.fl.ulaval.ca/cuentos/trouillot.htm"/>
+      </item>
+      <item>
+        Rosalie L’Infâme: un roman sur le marronnage avant l’Indépendance d’Haiti 
+        <ref target="http://www.medialternatif.org/alterpresse/article.php3?id_article=517"/>
+      </item>
+      <item>
+        Paternités sans frontières dans quelques romans haïtiens contemporains
+        <ref target="https://www.erudit.org/fr/revues/etudfr/2016-v52-n1-etudfr02402/1035544ar/"/>
+      </item>
     </list>
   </div>
 </TEI>

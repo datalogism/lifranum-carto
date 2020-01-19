@@ -34,32 +34,19 @@
       <listRelation>
         <relation ana="Brown_University" source="ile_en_ile_auto">Brown University</relation>
         <relation ana="Jonathan_Demme" source="ile_en_ile_auto">Jonathan Demme</relation>
-        <relation ana="Jonathan_Demme" source="ile_en_ile_auto">Jonathan Demme</relation>
         <relation ana="Jean_Dominique" source="ile_en_ile_auto">Jean Dominique</relation>
         <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
         <relation ana="Barnard_College" source="ile_en_ile_auto">Barnard College</relation>
-        <relation ana="Brown_University" source="ile_en_ile_auto">Brown University</relation>
         <relation ana="Maxine_Hong_Kingston" source="ile_en_ile_auto">Maxine Hong Kingston</relation>
         <relation ana="Toni_Morrison" source="ile_en_ile_auto">Toni Morrison</relation>
         <relation ana="Oprah_Winfrey" source="ile_en_ile_auto">Oprah Winfrey</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
         <relation ana="Patricia_Benoit" source="ile_en_ile_auto">Patricia Benoit</relation>
-        <relation ana="Jonathan_Demme" source="ile_en_ile_auto">Jonathan Demme</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
         <relation ana="Stephen_Alexis" source="ile_en_ile_auto">Stephen Alexis</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
-        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Edwige_Danticat_bio">
-    <text ref="http://www.spla.pro/fiche.personne.edwige-danticat.4217.html">
+    <text ana="Edwige_Danticat_bio_spla" ref="http://www.spla.pro/fiche.personne.edwige-danticat.4217.html">
       <p>
         Auteure américano-
         <placeName ana="Haitienne">Haïtienne</placeName>

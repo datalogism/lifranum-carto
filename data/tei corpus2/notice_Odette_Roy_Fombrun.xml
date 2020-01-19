@@ -27,7 +27,7 @@
     </person>
   </div>
   <div n="2" xml:id="Odette_Roy_Fombrun_bio">
-    <text ref="http://ile-en-ile.org/fombrun/">
+    <text ana="Odette_Roy_Fombrun_bio_ile_en_ile" ref="http://ile-en-ile.org/fombrun/">
       <p>
         <placeName ana="Haitienne">Haïtienne</placeName>
         , née à Port-au-
@@ -160,7 +160,7 @@
     </text>
   </div>
   <div n="3" xml:id="Odette_Roy_Fombrun_biblio">
-    <div ref="http://ile-en-ile.org/fombrun/" xml:id="Odette_Roy_Fombrun_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/fombrun/" xml:id="Odette_Roy_Fombrun_biblio_auteur_ile_en_ile">
       <list subtype="albums de coloriage">
         <item>Jours importants. Port-au-Prince: Deschamps, 1997, 24 pp.</item>
       </list>
@@ -206,29 +206,82 @@
       <list subtype="sur l’oeuvre d’odette roy fombrun">
         <item>« Odette Roy Fombun, Chita pale » (interview). L’Éducateur (Port-au-Prince) 9 (mai 1987).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Odette_Roy_Fombrun_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
-      <item ref="http://ile-en-ile.org/odette-roy-fombrun-renommons-lile-quisqueya-non-pas-hispaniola/">Renommons l’île: Quisqueya, non pas Hispaniola</item>
-      <item ref="http://www.forfhaiti.org/">La Fondation Odette Roy Fombrun</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://www.un.org/rights/micivih/rapports/part3.htm">La Constitution de 1987 et les Droits de l’Homme</item>
-      <item ref="http://www.alterpresse.org/article.php3?id_article=1811">Le désastre des Gonaïves et le konbitisme d’Odette Roy Fombrun</item>
-      <item ref="http://www.alterpresse.org/imprimer.php3?id_article=6098">Haïti : Des femmes rendent hommage à une nonagénaire</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=16914">Hommage à une femme exceptionnelle</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=31890">Conflits et banqueroute</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=34326">Appel au ministre de la Culture et aux Chambres législatives</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=36236">Le rapport La Touche Tréville</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=43717">À propos du drapeau – précisions</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=50912">Odette Roy-Fombrun, 90 ans, continue encore à écrire</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=58672">Discours de Odette Roy Fombrun</item>
-      <item ref="http://lenouvelliste.com/article/171617/les-publications-prix-et-distinctions-dodette-roy-fombrun">Les publications, prix et distinctions d’Odette Roy Fombrun</item>
-      <item ref="http://lenouvelliste.com/article/171551/odette-roy-fombrun-nous-sommes-aussi-des-amerindiens">Odette Roy Fombrun: Nous sommes aussi des Amérindiens</item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      </item>
+      <item>
+        Renommons l’île: Quisqueya, non pas Hispaniola
+        <ref target="http://ile-en-ile.org/odette-roy-fombrun-renommons-lile-quisqueya-non-pas-hispaniola/"/>
+      </item>
+      <item>
+        La Fondation Odette Roy Fombrun
+        <ref target="http://www.forfhaiti.org/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        La Constitution de 1987 et les Droits de l’Homme
+        <ref target="http://www.un.org/rights/micivih/rapports/part3.htm"/>
+      </item>
+      <item>
+        Le désastre des Gonaïves et le konbitisme d’Odette Roy Fombrun
+        <ref target="http://www.alterpresse.org/article.php3?id_article=1811"/>
+      </item>
+      <item>
+        Haïti : Des femmes rendent hommage à une nonagénaire
+        <ref target="http://www.alterpresse.org/imprimer.php3?id_article=6098"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        Le Nouvelliste
+        <ref target="http://www.lenouvelliste.com/"/>
+      </item>
+      <item>
+        Hommage à une femme exceptionnelle
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=16914"/>
+      </item>
+      <item>
+        Conflits et banqueroute
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=31890"/>
+      </item>
+      <item>
+        Appel au ministre de la Culture et aux Chambres législatives
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=34326"/>
+      </item>
+      <item>
+        Le rapport La Touche Tréville
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=36236"/>
+      </item>
+      <item>
+        À propos du drapeau – précisions
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=43717"/>
+      </item>
+      <item>
+        Odette Roy-Fombrun, 90 ans, continue encore à écrire
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=50912"/>
+      </item>
+      <item>
+        Discours de Odette Roy Fombrun
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=58672"/>
+      </item>
+      <item>
+        Les publications, prix et distinctions d’Odette Roy Fombrun
+        <ref target="http://lenouvelliste.com/article/171617/les-publications-prix-et-distinctions-dodette-roy-fombrun"/>
+      </item>
+      <item>
+        Odette Roy Fombrun: Nous sommes aussi des Amérindiens
+        <ref target="http://lenouvelliste.com/article/171551/odette-roy-fombrun-nous-sommes-aussi-des-amerindiens"/>
+      </item>
     </list>
   </div>
 </TEI>

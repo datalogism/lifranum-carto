@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Elodie_Barthelemy_bio">
-    <text ref="http://www.spla.pro/fiche.personne.elodie-barthelemy.4122.html">
+    <text ana="Elodie_Barthelemy_bio_spla" ref="http://www.spla.pro/fiche.personne.elodie-barthelemy.4122.html">
       <p>
         Élodie Barthélemy est née en 1965 en Colombie, d'origine franco-
         <placeName ana="Haitienne">Haïtienne</placeName>

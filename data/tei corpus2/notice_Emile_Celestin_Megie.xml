@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Emile_Celestin_Megie_bio">
-    <text ref="http://www.spla.pro/fiche.personne.emile-celestin-megie.35088.html">
+    <text ana="Emile_Celestin_Megie_bio_spla" ref="http://www.spla.pro/fiche.personne.emile-celestin-megie.35088.html">
       <p>
         Ecrivain haïtien, né à Marigot. Il s'est intéressé tout particulièrement au créole dont il fut le défenseur. Il a fondé la &quot;
         <persName ana="Sosyete_Koukouy">Sosyete Koukouy</persName>

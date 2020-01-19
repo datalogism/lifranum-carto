@@ -39,7 +39,7 @@
     </person>
   </div>
   <div n="2" xml:id="Soeuf_Elbadawi_bio">
-    <text ref="http://www.spla.pro/fiche.personne.soeuf-elbadawi.2778.html">
+    <text ana="Soeuf_Elbadawi_bio_spla" ref="http://www.spla.pro/fiche.personne.soeuf-elbadawi.2778.html">
       <p>
         BIOGRAPHIEComédien et metteur en scène. Rencontre son premier succès public aux Comores au tout début des années 90, avec La secrétaire Particulière de Jean Pliya, sous la direction de Michel Charles, un ancien de la Rue blanche. Fonde et anime en 2007 le &quot;Laboresvik&quot;, laboratoire de recherche en spectacle vivant, à l'Université des Comores, avant de l'intégrer à sa propre compagnie, O Mcezo*, créée en novembre 2008.Auteur et journaliste. Publie dans des revues et journaux francophones. Ancien membre de l'équipe Kashkazi aux Comores, il écrit pour la revue Africultures en 
         <placeName ana="France">France</placeName>
@@ -112,7 +112,10 @@
   <div n="3" xml:id="Soeuf_Elbadawi_biblio"/>
   <div n="4" xml:id="Soeuf_Elbadawi_web">
     <list type="spla">
-      <item ref="http://www.washko-ink.net">Website Soeuf Elbadawi </item>
+      <item>
+        Website Soeuf Elbadawi 
+        <ref target="http://www.washko-ink.net"/>
+      </item>
     </list>
   </div>
 </TEI>

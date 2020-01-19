@@ -37,7 +37,7 @@
     </person>
   </div>
   <div n="2" xml:id="Haveson_Florvil_bio">
-    <text ref="http://www.spla.pro/fiche.personne.haveson-florvil.29254.html">
+    <text ana="Haveson_Florvil_bio_spla" ref="http://www.spla.pro/fiche.personne.haveson-florvil.29254.html">
       <p>
         Né le 31 mai 1989, Haveson B. FLORVIL, une lueur d'espoir nouveau est apparu dans la ville de Ouanaminthe, au Nord'Est d'
         <placeName ana="Haiti">Haïti</placeName>
@@ -52,7 +52,10 @@
   <div n="3" xml:id="Haveson_Florvil_biblio"/>
   <div n="4" xml:id="Haveson_Florvil_web">
     <list type="spla">
-      <item ref="http://www.florvilhaveson.fr.gd">Website Haveson Florvil </item>
+      <item>
+        Website Haveson Florvil 
+        <ref target="http://www.florvilhaveson.fr.gd"/>
+      </item>
     </list>
   </div>
 </TEI>

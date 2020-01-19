@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jules_Emmanuel_Bellerice_bio">
-    <text ref="http://www.spla.pro/fiche.personne.jules-emmanuel-bellerice.40586.html">
+    <text ana="Jules_Emmanuel_Bellerice_bio_spla" ref="http://www.spla.pro/fiche.personne.jules-emmanuel-bellerice.40586.html">
       <p>
         Jules Bellerice est né à Port-au-
         <placeName ana="Prince">Prince</placeName>

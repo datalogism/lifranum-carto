@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gerald_Bloncourt_fiche">
-    <person ana="Gerald_Bloncourt" sex="na">
+    <person ana="Gerald_Bloncourt" sex="m">
       <persName>Gérald Bloncourt</persName>
       <idno type="BNF">
         cb14553548q#about
@@ -86,7 +86,7 @@
     </person>
   </div>
   <div n="2" xml:id="Gerald_Bloncourt_bio">
-    <text hand="Thomas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/">
+    <text ana="Gerald_Bloncourt_bio_ile_en_ile" hand="Thomas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/">
       <p>
         <persName ana="Gerald_Bloncourt">
           Gérald 
@@ -354,7 +354,7 @@ Le dernier hommage à Gérald aura lieu le lundi 5 novembre au
         .  
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gerald-bloncourt.5362.html">
+    <text ana="Gerald_Bloncourt_bio_spla" ref="http://www.spla.pro/fiche.personne.gerald-bloncourt.5362.html">
       <p>
         <persName ana="Gerald_Bloncourt">
           Gérald 
@@ -386,7 +386,7 @@ Le dernier hommage à Gérald aura lieu le lundi 5 novembre au
     </text>
   </div>
   <div n="3" xml:id="Gerald_Bloncourt_biblio">
-    <div ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_biblio_auteur_ile_en_ile">
       <list subtype="récits">
         <item>Yeto, le palmier des neiges. Port-au-Prince: Deschamps, 1991; Paris: Arcantère, 1991, 296 p.
 De nombreuses plaquettes dont Dialogue au bout des vagues, J’ai rompu le silence, Poèmes sahariens, Retour d’exil… et J’ai coupé la gorge au temps (voir poésie, ci-dessous).</item>
@@ -424,37 +424,112 @@ De nombreuses plaquettes dont Dialogue au bout des vagues, J’ai rompu le silen
       <list subtype="prix et distinctions">
         <item>1988     Citoyen d’Honneur de la ville de la Nouvelle-Orléans (USA).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Gerald_Bloncourt_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/">Les « Cinq Glorieuses » de janvier 1946</item>
-      <item ref="http://ile-en-ile.org/gerald-bloncourt-5-questions-pour-ile-en-ile/">Gérald Bloncourt, 5 Questions pour Île en île</item>
-      <item ref="http://ile-en-ile.org/gerald-bloncourt-je-me-souviens/">Gérald Bloncourt, « Je me souviens… »</item>
-      <item ref="http://www.bloncourt.net/">Gérald Bloncourt</item>
-      <item ref="http://bloncourtblog.net/">Le blog de Gérald Bloncourt</item>
-      <item ref="http://www.radiotelevisioncaraibes.com/nouvelles/haiti/bloncourt_rtvc_une_personalit_dit_tout.html">Bloncourt, RTVC, Une Personnalité dit tout</item>
-      <item ref="https://repository.duke.edu/dc/radiohaiti/RL10059-CS-1247_01">Entre Nous: Gérald Bloncourt, ‘Cric crac’</item>
-      <item ref="http://www.csmsmagazine.org/news.php?pg=20080410I654">Gérald Bloncourt is back</item>
-      <item ref="http://www.youtube.com/watch?v=TOgi8_7RdcY"> Gérald Bloncourt on Breton, Mabille and Haiti in 1944-46</item>
-      <item ref="http://web.archive.org/web/20080228142104/http://www.rfo.fr/article259.html">Gérald Bloncourt</item>
-      <item ref="http://emmila.canalblog.com/archives/poesie____gerald_bloncourt/index.html">Poésie de Gérald Bloncourt</item>
-      <item ref="http://www.lemieux-editeur.fr/Gerald-Bloncourt.html">Lemieux</item>
-      <item ref="http://www.rfi.fr/culture/20181107-dernier-adieu-gerald-bloncourt-franc-tireur-image">Dernier adieu à Gérald Bloncourt, franc-tireur de l’image</item>
-      <item ref="http://www.alterpresse.org/spip.php?article23728#.W-fIUS2ZPMI">Haïti-Culture : Aux champs pour Gérald Bloncourt</item>
-      <item ref="http://www.lenational.org/le-camarade-et-grand-frere-gerald-bloncourt-est-mort/">Le camarade et grand frère Gérald Bloncourt est mort</item>
-      <item ref="https://la1ere.francetvinfo.fr/martinique/deces-du-photographe-dessinateur-ecrivain-haitien-gerald-bloncourt-644028.html">Décès du photographe, dessinateur et écrivain haïtien Gérald Bloncourt</item>
-      <item ref="http://www.lefigaro.fr/culture/2018/11/02/03004-20181102ARTFIG00128-disparition-de-gerald-bloncourt-photographe-au-regard-engage.php">Disparition de Gérald Bloncourt, photographe au regard engagé</item>
-      <item ref="https://www.humanite.fr/disparition-gerald-bloncourt-un-oeil-fraternel-en-colere-et-en-joie-662990">Disparition. Gérald Bloncourt, un œil fraternel en colère et en joie</item>
-      <item ref="https://www.lemonde.fr/disparitions/article/2018/10/31/le-photographe-franco-haitien-gerald-bloncourt-est-mort_5377322_3382.html">Le photographe franco-haïtien Gérald Bloncourt est mort</item>
-      <item ref="http://www.aps.dz/monde/80098-mort-de-gerald-bloncourt-reporter-ayant-couvert-la-guerre-de-liberation-des-sahraouis">Mort de Gérald Bloncourt, reporter ayant couvert la guerre de libération des Sahraouis</item>
-      <item ref="https://ferreiradiasenoites.blogspot.com/2018/10/gerald-bloncourt-jai-mal-au-monde.html">Morreu Gérald Bloncourt: O fotógrafo que fotografou os emigrantes portugueses dos anos 60</item>
-      <item ref="https://blogs.mediapart.fr/arthur-porto/blog/041118/gerald-bloncourt-le-photographe-de-mon-enfance">Gérald Bloncourt: ‘le photographe de mon enfance’</item>
-      <item ref="https://www.nytimes.com/2018/11/09/obituaries/grald-bloncourt-dead.html">Gérald Bloncourt, Haitian Photographer and Activist, Dies at 91</item>
-      <item ref="https://lenouvelliste.com/article/194451/gerald-bloncourt-ou-quand-meurent-les-jeunes">Gérald Bloncourt, ou quand meurent les jeunes</item>
+      <item>
+        Les « Cinq Glorieuses » de janvier 1946
+        <ref target="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/"/>
+      </item>
+      <item>
+        Gérald Bloncourt, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/gerald-bloncourt-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        Gérald Bloncourt, « Je me souviens… »
+        <ref target="http://ile-en-ile.org/gerald-bloncourt-je-me-souviens/"/>
+      </item>
+      <item>
+        Gérald Bloncourt
+        <ref target="http://www.bloncourt.net/"/>
+      </item>
+      <item>
+        Le blog de Gérald Bloncourt
+        <ref target="http://bloncourtblog.net/"/>
+      </item>
+      <item>
+        Bloncourt, RTVC, Une Personnalité dit tout
+        <ref target="http://www.radiotelevisioncaraibes.com/nouvelles/haiti/bloncourt_rtvc_une_personalit_dit_tout.html"/>
+      </item>
+      <item>
+        Entre Nous: Gérald Bloncourt, ‘Cric crac’
+        <ref target="https://repository.duke.edu/dc/radiohaiti/RL10059-CS-1247_01"/>
+      </item>
+      <item>
+        Gérald Bloncourt is back
+        <ref target="http://www.csmsmagazine.org/news.php?pg=20080410I654"/>
+      </item>
+      <item>
+         Gérald Bloncourt on Breton, Mabille and Haiti in 1944-46
+        <ref target="http://www.youtube.com/watch?v=TOgi8_7RdcY"/>
+      </item>
+      <item>
+        Gérald Bloncourt
+        <ref target="http://web.archive.org/web/20080228142104/http://www.rfo.fr/article259.html"/>
+      </item>
+      <item>
+        Poésie de Gérald Bloncourt
+        <ref target="http://emmila.canalblog.com/archives/poesie____gerald_bloncourt/index.html"/>
+      </item>
+      <item>
+        Lemieux
+        <ref target="http://www.lemieux-editeur.fr/Gerald-Bloncourt.html"/>
+      </item>
+      <item>
+        Dernier adieu à Gérald Bloncourt, franc-tireur de l’image
+        <ref target="http://www.rfi.fr/culture/20181107-dernier-adieu-gerald-bloncourt-franc-tireur-image"/>
+      </item>
+      <item>
+        Haïti-Culture : Aux champs pour Gérald Bloncourt
+        <ref target="http://www.alterpresse.org/spip.php?article23728#.W-fIUS2ZPMI"/>
+      </item>
+      <item>
+        Le camarade et grand frère Gérald Bloncourt est mort
+        <ref target="http://www.lenational.org/le-camarade-et-grand-frere-gerald-bloncourt-est-mort/"/>
+      </item>
+      <item>
+        Décès du photographe, dessinateur et écrivain haïtien Gérald Bloncourt
+        <ref target="https://la1ere.francetvinfo.fr/martinique/deces-du-photographe-dessinateur-ecrivain-haitien-gerald-bloncourt-644028.html"/>
+      </item>
+      <item>
+        Disparition de Gérald Bloncourt, photographe au regard engagé
+        <ref target="http://www.lefigaro.fr/culture/2018/11/02/03004-20181102ARTFIG00128-disparition-de-gerald-bloncourt-photographe-au-regard-engage.php"/>
+      </item>
+      <item>
+        Disparition. Gérald Bloncourt, un œil fraternel en colère et en joie
+        <ref target="https://www.humanite.fr/disparition-gerald-bloncourt-un-oeil-fraternel-en-colere-et-en-joie-662990"/>
+      </item>
+      <item>
+        Le photographe franco-haïtien Gérald Bloncourt est mort
+        <ref target="https://www.lemonde.fr/disparitions/article/2018/10/31/le-photographe-franco-haitien-gerald-bloncourt-est-mort_5377322_3382.html"/>
+      </item>
+      <item>
+        Mort de Gérald Bloncourt, reporter ayant couvert la guerre de libération des Sahraouis
+        <ref target="http://www.aps.dz/monde/80098-mort-de-gerald-bloncourt-reporter-ayant-couvert-la-guerre-de-liberation-des-sahraouis"/>
+      </item>
+      <item>
+        Morreu Gérald Bloncourt: O fotógrafo que fotografou os emigrantes portugueses dos anos 60
+        <ref target="https://ferreiradiasenoites.blogspot.com/2018/10/gerald-bloncourt-jai-mal-au-monde.html"/>
+      </item>
+      <item>
+        Gérald Bloncourt: ‘le photographe de mon enfance’
+        <ref target="https://blogs.mediapart.fr/arthur-porto/blog/041118/gerald-bloncourt-le-photographe-de-mon-enfance"/>
+      </item>
+      <item>
+        Gérald Bloncourt, Haitian Photographer and Activist, Dies at 91
+        <ref target="https://www.nytimes.com/2018/11/09/obituaries/grald-bloncourt-dead.html"/>
+      </item>
+      <item>
+        Gérald Bloncourt, ou quand meurent les jeunes
+        <ref target="https://lenouvelliste.com/article/194451/gerald-bloncourt-ou-quand-meurent-les-jeunes"/>
+      </item>
     </list>
     <list type="spla">
-      <item ref="http://www.bloncourt.net/">Website GÃ©rald Bloncourt </item>
+      <item>
+        Website GÃ©rald Bloncourt 
+        <ref target="http://www.bloncourt.net/"/>
+      </item>
     </list>
   </div>
 </TEI>

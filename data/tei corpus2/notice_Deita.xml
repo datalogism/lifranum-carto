@@ -29,7 +29,7 @@
     </person>
   </div>
   <div n="2" xml:id="Deita_bio">
-    <text ref="http://ile-en-ile.org/deita/">
+    <text ana="Deita_bio_ile_en_ile" ref="http://ile-en-ile.org/deita/">
       <p>
         <persName ana="Mercedes_Foucard_Guignard">Mercedes Foucard Guignard</persName>
         , connue par son nom d’artiste Déita (ou Deyita), est née le 21 septembre 1935 à Port-de-Paix dans le nord-ouest d’
@@ -56,7 +56,7 @@
     </text>
   </div>
   <div n="3" xml:id="Deita_biblio">
-    <div ref="http://ile-en-ile.org/deita/" xml:id="Deita_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/deita/" xml:id="Deita_biblio_auteur_ile_en_ile">
       <list subtype="romans">
         <item>Les désespérés. Port-au-Prince, à compte d’auteur, 1964.</item>
       </list>
@@ -78,14 +78,26 @@
       <list subtype="filmographie">
         <item>« Danse haïtienne: histoire et tradition », conférence du 1er avril 1997 par Mercedes Guignard, « Déïta », filmé à Port-au-Prince par Timothy Lindop. 1998, 37 minutes.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Deita_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/deita-retour-a-lile-heureuse/">Retour à l’île heureuse : hommage posthume à Déita</item>
-      <item ref="http://ile-en-ile.org/deita-legende-des-loa/"> Déita, La légende des loa du vodou haïtien</item>
-      <item ref="http://ile-en-ile.org/kiskeya-deita/">Kiskeya, l’île mystérieuse</item>
-      <item ref="http://kreyol.org/ekriven/deyita/deyita.php">Mercedes Foucard Guignard [Deyita]</item>
+      <item>
+        Retour à l’île heureuse : hommage posthume à Déita
+        <ref target="http://ile-en-ile.org/deita-retour-a-lile-heureuse/"/>
+      </item>
+      <item>
+         Déita, La légende des loa du vodou haïtien
+        <ref target="http://ile-en-ile.org/deita-legende-des-loa/"/>
+      </item>
+      <item>
+        Kiskeya, l’île mystérieuse
+        <ref target="http://ile-en-ile.org/kiskeya-deita/"/>
+      </item>
+      <item>
+        Mercedes Foucard Guignard [Deyita]
+        <ref target="http://kreyol.org/ekriven/deyita/deyita.php"/>
+      </item>
     </list>
   </div>
 </TEI>

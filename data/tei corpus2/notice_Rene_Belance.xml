@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rene_Belance_fiche">
-    <person ana="Rene_Belance" sex="na">
+    <person ana="Rene_Belance" sex="m">
       <persName>René Bélance</persName>
       <idno type="BNF">
         cb126727637#about
@@ -60,7 +60,7 @@
     </person>
   </div>
   <div n="2" xml:id="Rene_Belance_bio">
-    <text ref="http://ile-en-ile.org/belance/">
+    <text ana="Rene_Belance_bio_ile_en_ile" ref="http://ile-en-ile.org/belance/">
       <p>
         <persName ana="Rene_Belance">
           René 
@@ -195,7 +195,7 @@
         , 1915-2004, Hommages au poète.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.rene-belance.14058.html">
+    <text ana="Rene_Belance_bio_spla" ref="http://www.spla.pro/fiche.personne.rene-belance.14058.html">
       <p>
         <persName ana="Rene_Belance">
           René 
@@ -210,7 +210,7 @@
     </text>
   </div>
   <div n="3" xml:id="Rene_Belance_biblio">
-    <div ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« In Celebration of Absence ». Trad. Marcia Sterling. Portfolio 5 (Washington, D.C.), 1945.</item>
       </list>
@@ -226,18 +226,42 @@
       <list subtype="poésie enregistrée">
         <item>« Allure » (extrait), dit par Pierre Brisson sur son disque À voix basse (volume 2). Port-au-Prince: Pierre J. Brisson, 2006.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Rene_Belance_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/rene-belance-quatre-poemes-de-rene-belance/">Quatre poèmes de René Bélance</item>
-      <item ref="http://ile-en-ile.org/belance-quatre-poemes/">Sélection de poèmes </item>
-      <item ref="http://ile-en-ile.org/entretien-avec-rene-belance-par-paul-farmer/">Entretien avec René Bélance</item>
-      <item ref="http://ile-en-ile.org/rene-belance-geole/">Geôle</item>
-      <item ref="http://ile-en-ile.org/rene-belance-mains-libres/">Mains libres</item>
-      <item ref="http://ile-en-ile.org/rene-belance-1915-2004-hommages-au-poete/">René Bélance, 1915-2004, Hommages au poète</item>
-      <item ref="http://ile-en-ile.org/jimmy-ly-rene-belance-walla-walla-washington/">Surréalisme haïtien et littérature tahitienne à Walla Walla, Washington (septembre 1965)</item>
-      <item ref="http://web.archive.org/web/20031114020638/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=563">Fuite </item>
+      <item>
+        Quatre poèmes de René Bélance
+        <ref target="http://ile-en-ile.org/rene-belance-quatre-poemes-de-rene-belance/"/>
+      </item>
+      <item>
+        Sélection de poèmes 
+        <ref target="http://ile-en-ile.org/belance-quatre-poemes/"/>
+      </item>
+      <item>
+        Entretien avec René Bélance
+        <ref target="http://ile-en-ile.org/entretien-avec-rene-belance-par-paul-farmer/"/>
+      </item>
+      <item>
+        Geôle
+        <ref target="http://ile-en-ile.org/rene-belance-geole/"/>
+      </item>
+      <item>
+        Mains libres
+        <ref target="http://ile-en-ile.org/rene-belance-mains-libres/"/>
+      </item>
+      <item>
+        René Bélance, 1915-2004, Hommages au poète
+        <ref target="http://ile-en-ile.org/rene-belance-1915-2004-hommages-au-poete/"/>
+      </item>
+      <item>
+        Surréalisme haïtien et littérature tahitienne à Walla Walla, Washington (septembre 1965)
+        <ref target="http://ile-en-ile.org/jimmy-ly-rene-belance-walla-walla-washington/"/>
+      </item>
+      <item>
+        Fuite 
+        <ref target="http://web.archive.org/web/20031114020638/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=563"/>
+      </item>
     </list>
   </div>
 </TEI>

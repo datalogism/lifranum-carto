@@ -38,7 +38,10 @@
   <div n="3" xml:id="Accilien_Selmy_biblio"/>
   <div n="4" xml:id="Accilien_Selmy_web">
     <list type="lifranum_db">
-      <item ref="https://www.facebook.com/www.revedemuse.livre/">Selmy Accilien poète</item>
+      <item>
+        Selmy Accilien poète
+        <ref target="https://www.facebook.com/www.revedemuse.livre/"/>
+      </item>
     </list>
   </div>
 </TEI>

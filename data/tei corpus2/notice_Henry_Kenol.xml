@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Henry_Kenol_bio">
-    <text ref="http://www.spla.pro/fiche.personne.henry-kenol.38446.html">
+    <text ana="Henry_Kenol_bio_spla" ref="http://www.spla.pro/fiche.personne.henry-kenol.38446.html">
       <p>
         Né le 29 avril 1973 à Les Saras, un village ferroviaire en pleine foret équatoriale dans le Mayombe au 
         <placeName ana="Congo">Congo</placeName>
@@ -43,7 +43,10 @@
   <div n="3" xml:id="Henry_Kenol_biblio"/>
   <div n="4" xml:id="Henry_Kenol_web">
     <list type="spla">
-      <item ref="http://www.actes-sud.fr/node/44344">Website Henry Kenol </item>
+      <item>
+        Website Henry Kenol 
+        <ref target="http://www.actes-sud.fr/node/44344"/>
+      </item>
     </list>
   </div>
 </TEI>

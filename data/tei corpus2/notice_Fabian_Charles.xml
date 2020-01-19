@@ -40,7 +40,7 @@
     </person>
   </div>
   <div n="2" xml:id="Fabian_Charles_bio">
-    <text ref="http://www.spla.pro/fiche.personne.fabian-charles.31432.html">
+    <text ana="Fabian_Charles_bio_spla" ref="http://www.spla.pro/fiche.personne.fabian-charles.31432.html">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -85,7 +85,10 @@
   <div n="3" xml:id="Fabian_Charles_biblio"/>
   <div n="4" xml:id="Fabian_Charles_web">
     <list type="spla">
-      <item ref="http://fabiancharles.blogspot.fr">Website Fabian Charles </item>
+      <item>
+        Website Fabian Charles 
+        <ref target="http://fabiancharles.blogspot.fr"/>
+      </item>
     </list>
   </div>
 </TEI>

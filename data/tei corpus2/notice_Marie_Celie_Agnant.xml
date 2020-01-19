@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Marie_Celie_Agnant_fiche">
-    <person ana="Marie_Celie_Agnant" sex="na">
+    <person ana="Marie_Celie_Agnant" sex="f">
       <persName>Marie Célie Agnant</persName>
       <birth source="viaf">
         <date>1953-07-31</date>
@@ -41,22 +41,19 @@
         <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
         <relation ana="Zekina_Daniela" source="viaf">Zekina Daniela</relation>
         <relation ana="Tiga" source="viaf">Tiga</relation>
-        <relation ana="Tiga" source="viaf">Tiga</relation>
         <relation ana="Pean_Stanley" source="viaf">Péan Stanley</relation>
         <relation ana="Cousineau_Normand" source="viaf">Cousineau Normand</relation>
         <relation ana="Mata_Barreiro_Carmen" source="viaf">Mata Barreiro Carmen</relation>
         <relation ana="Barroux" source="viaf">Barroux</relation>
-        <relation ana="Barroux" source="viaf">Barroux</relation>
         <relation ana="Wiener_Jacqueline" source="viaf">Wiener Jacqueline</relation>
         <relation ana="Ellis_Zilpha" source="viaf">Ellis Zilpha</relation>
-        <relation ana="Celie_Agnant" source="ile_en_ile_auto">Célie Agnant</relation>
         <relation ana="Celie_Agnant" source="ile_en_ile_auto">Célie Agnant</relation>
         <relation ana="Alexis_D_Haiti" source="ile_en_ile_auto">Alexis d'Haïti</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Marie_Celie_Agnant_bio">
-    <text hand="Lucie Lequin" ref="http://ile-en-ile.org/agnant/">
+    <text ana="Marie_Celie_Agnant_bio_ile_en_ile" hand="Lucie Lequin" ref="http://ile-en-ile.org/agnant/">
       <p>
         Poète, nouvelliste, romancière, Marie-
         <persName ana="Celie_Agnant">Célie Agnant</persName>
@@ -108,7 +105,7 @@
          se pose tout au long de ses différents textes, des questions essentielles sur le comment vivre comme sur le vivre ensemble et les raconte. Tout en déplorant l’absence de mots justes pour dire ce qui arrive à l’un et l’une à cause de l’autre, pour ajouter à l’Histoire des pans d’histoires personnelles, Agnant trouve néanmoins les mots pour dire l’indicible, du moins une partie, et nous les donne à lire.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.marie-celie-agnant.5619.html">
+    <text ana="Marie_Celie_Agnant_bio_spla" ref="http://www.spla.pro/fiche.personne.marie-celie-agnant.5619.html">
       <p>
         Romancière, poète, nouvelliste et conteuse, Marie-
         <persName ana="Celie_Agnant">Célie Agnant</persName>
@@ -126,7 +123,7 @@
     </text>
   </div>
   <div n="3" xml:id="Marie_Celie_Agnant_biblio">
-    <div ref="http://ile-en-ile.org/agnant/" xml:id="Marie_Celie_Agnant_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/agnant/" xml:id="Marie_Celie_Agnant_biblio_auteur_ile_en_ile">
       <list subtype="en català">
         <item>El libre d’Emma. València: Edicions Tres i Quatre, 2014.</item>
       </list>
@@ -172,31 +169,91 @@
       <list subtype="entretiens">
         <item>Ghinelli, Paola. Archipels littéraires. Entretiens avec Chamoiseau, Condé, Confiant, Brival, Maximin, Laferrière, Pineau, Dalembert, Agnant. Montréal: Mémoire d’encrier, 2005: 141-149.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Marie_Celie_Agnant_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://ile-en-ile.org/marie-celie-agnant-noel/">Noël</item>
-      <item ref="http://www.editionshurtubise.com/auteur/112.html">Éditions Hurtubise</item>
-      <item ref="http://pages.infinit.net/douyon/">Entre éclipses et lueurs : femme poto-mitan</item>
-      <item ref="http://pages.infinit.net/douyon/">Entre éclipses et lueurs : femme poto-mitan</item>
-      <item ref="http://www.lesvoixdelapoesie.com/poemes/poeme-de-ma-mere-0">Poème de ma mère</item>
-      <item ref="http://tusaaji.journals.yorku.ca/index.php/tusaaji/article/view/35296/31996">Un Regard assassin</item>
-      <item ref="http://sodep-blogue.equisoft.com/files/2014/03/Relations_Sofialorene.pdf">Sofialorène, si loin de la délivrance</item>
-      <item ref="http://www.haiti-progres.com/">Haïti-Progrès</item>
-      <item ref="http://www.haiti-progres.com/2000/sm000308/Xactuali.htm">8 Mars 2000: Date symbole et témoin</item>
-      <item ref="http://www.haiti-progres.com/2000/sm000229/actual.htm">1991-2000: Un coup d’État en progression</item>
-      <item ref="http://dx.doi.org/10.1080/00397709.2010.502487">Le trauma et le témoignage dans Le Livre d’Emma de Marie-Célie Agnant</item>
-      <item ref="http://www.erudit.org/revue/ethno/2005/v27/n1/014027ar.html">Québec-Haïti. Littérature transculturelle et souffle d’oralité; Une entrevue avec Marie-Célie Agnant</item>
-      <item ref="http://www.ediq.ulaval.ca/fileadmin/ediq/fichiers/Publication/Ediqscope/Ediqscope_2012/Ediscope__2012__No_4__Colette_Boucher__VF_web.pdf">Médiation culturelle et interculturalité. Des lectrices de Marie-Célie Agnant se racontent</item>
-      <item ref="http://www.ediq.ulaval.ca/fileadmin/ediq/fichiers/Publication/CE_2014_Vol_2_No_1/15._Boucher.pdf">Médiation culturelle et transmission intergénérationnelle. Des lectrices de Marie-Célie Agnant se racontent</item>
-      <item ref="http://id.erudit.org/revue/etudfr/2005/v41/n2/011379ar.html">Le continent noir des corps: Représentation du corps féminin chez Marie-Célie Agnant et Gisèle Pineau</item>
-      <item ref="http://www.erudit.org/revue/etudfr/2004/v40/n1/008475ar.html">Récits des origines chez quelques écrivaines de la francophonie</item>
-      <item ref="http://franc-parler.jp/spip.php?article609">Marie-Célie Agnant, écrivaine des deux Amériques</item>
-      <item ref="http://www.grioo.com/pinfo14635.html">Rencontre avec Marie-Célie Agnant</item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        Noël
+        <ref target="http://ile-en-ile.org/marie-celie-agnant-noel/"/>
+      </item>
+      <item>
+        Éditions Hurtubise
+        <ref target="http://www.editionshurtubise.com/auteur/112.html"/>
+      </item>
+      <item>
+        Entre éclipses et lueurs : femme poto-mitan
+        <ref target="http://pages.infinit.net/douyon/"/>
+      </item>
+      <item>
+        Entre éclipses et lueurs : femme poto-mitan
+        <ref target="http://pages.infinit.net/douyon/"/>
+      </item>
+      <item>
+        Poème de ma mère
+        <ref target="http://www.lesvoixdelapoesie.com/poemes/poeme-de-ma-mere-0"/>
+      </item>
+      <item>
+        Un Regard assassin
+        <ref target="http://tusaaji.journals.yorku.ca/index.php/tusaaji/article/view/35296/31996"/>
+      </item>
+      <item>
+        Sofialorène, si loin de la délivrance
+        <ref target="http://sodep-blogue.equisoft.com/files/2014/03/Relations_Sofialorene.pdf"/>
+      </item>
+      <item>
+        Haïti-Progrès
+        <ref target="http://www.haiti-progres.com/"/>
+      </item>
+      <item>
+        8 Mars 2000: Date symbole et témoin
+        <ref target="http://www.haiti-progres.com/2000/sm000308/Xactuali.htm"/>
+      </item>
+      <item>
+        1991-2000: Un coup d’État en progression
+        <ref target="http://www.haiti-progres.com/2000/sm000229/actual.htm"/>
+      </item>
+      <item>
+        Le trauma et le témoignage dans Le Livre d’Emma de Marie-Célie Agnant
+        <ref target="http://dx.doi.org/10.1080/00397709.2010.502487"/>
+      </item>
+      <item>
+        Québec-Haïti. Littérature transculturelle et souffle d’oralité; Une entrevue avec Marie-Célie Agnant
+        <ref target="http://www.erudit.org/revue/ethno/2005/v27/n1/014027ar.html"/>
+      </item>
+      <item>
+        Médiation culturelle et interculturalité. Des lectrices de Marie-Célie Agnant se racontent
+        <ref target="http://www.ediq.ulaval.ca/fileadmin/ediq/fichiers/Publication/Ediqscope/Ediqscope_2012/Ediscope__2012__No_4__Colette_Boucher__VF_web.pdf"/>
+      </item>
+      <item>
+        Médiation culturelle et transmission intergénérationnelle. Des lectrices de Marie-Célie Agnant se racontent
+        <ref target="http://www.ediq.ulaval.ca/fileadmin/ediq/fichiers/Publication/CE_2014_Vol_2_No_1/15._Boucher.pdf"/>
+      </item>
+      <item>
+        Le continent noir des corps: Représentation du corps féminin chez Marie-Célie Agnant et Gisèle Pineau
+        <ref target="http://id.erudit.org/revue/etudfr/2005/v41/n2/011379ar.html"/>
+      </item>
+      <item>
+        Récits des origines chez quelques écrivaines de la francophonie
+        <ref target="http://www.erudit.org/revue/etudfr/2004/v40/n1/008475ar.html"/>
+      </item>
+      <item>
+        Marie-Célie Agnant, écrivaine des deux Amériques
+        <ref target="http://franc-parler.jp/spip.php?article609"/>
+      </item>
+      <item>
+        Rencontre avec Marie-Célie Agnant
+        <ref target="http://www.grioo.com/pinfo14635.html"/>
+      </item>
     </list>
   </div>
 </TEI>

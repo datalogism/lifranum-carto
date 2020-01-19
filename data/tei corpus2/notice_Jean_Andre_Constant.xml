@@ -37,7 +37,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jean_Andre_Constant_bio">
-    <text hand="Maguy Métellus" ref="http://ile-en-ile.org/constant/">
+    <text ana="Jean_Andre_Constant_bio_ile_en_ile" hand="Maguy Métellus" ref="http://ile-en-ile.org/constant/">
       <p>
         <persName ana="Jean_Andre_Constant">Jean André Constant</persName>
          naît le 30 juin 1968 dans la ville des 
@@ -103,7 +103,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-andre-constant.14085.html">
+    <text ana="Jean_Andre_Constant_bio_spla" ref="http://www.spla.pro/fiche.personne.jean-andre-constant.14085.html">
       <p>
         <persName ana="Jean_Andre_Constant">Jean André Constant</persName>
          naît le 30 juin 1968 dans la ville des 
@@ -142,7 +142,7 @@
     </text>
   </div>
   <div n="3" xml:id="Jean_Andre_Constant_biblio">
-    <div ref="http://ile-en-ile.org/constant/" xml:id="Jean_Andre_Constant_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/constant/" xml:id="Jean_Andre_Constant_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Folitude. Montréal: Pages Folles, 2005.</item>
       </list>
@@ -155,24 +155,66 @@
       <list subtype="publications scientifiques et académiques">
         <item>Les mutations du système éducatif haïtien à l’heure de l’ajustement structurel. Mémoire de Licence en travail social, 1995.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Jean_Andre_Constant_web">
     <list type="ile_en_ile">
-      <item ref="http://www.tanbou.com/2005/SemiologiedUneCrise.htm">Haïti : Sémiologie d’une crise virtuelle</item>
-      <item ref="http://www.tanbou.com/2006/summer/pwezi.htm">Bri sapat</item>
-      <item ref="http://www.alterpresse.org/spip.php?article5017">Paul Farmer on Haiti and Global Health Issues</item>
-      <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=2577">Une lecture de « À l’angle des rues parallèles » ; L’écriture linéaire de Gary Victor</item>
-      <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=7538">Saint-John Kauss : deux recueils pour dire le cœur battant du poème</item>
-      <item ref="http://ecrits-vains.com/thematique/transatlantique/constant.htm">comme une vague…</item>
-      <item ref="http://www.tanbou.com/2007/Spring/HommageAPaulLaraque.htm">Hommage à Paul Laraque » / « Ochan pou Paul Laraque</item>
-      <item ref="http://www.francopolis.net/librairie/vostextesarchiveABC.htm#Constant">Textes 2, 4 et 5</item>
-      <item ref="http://www.terranovamagazine.ca/24/pages/livres/livres.html">Folitude de Jean André Constant</item>
-      <item ref="http://lematinhaiti.com/PageArticle.asp?ArticleID=1190">Folitude, en absence de soi-même</item>
-      <item ref="http://www.csmsmagazine.org/news.php?pg=20060804I205">La Folitude de Jean-André Constant</item>
-      <item ref="http://www.potomitan.info/constant/">Jean André Constant</item>
-      <item ref="http://lenouvelliste.com/article.php?PubID=&amp;ArticleID=33905">Une voix ardente et prophétique</item>
-      <item ref="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46329">Un fauteuil-standard pour deux éditeurs</item>
+      <item>
+        Haïti : Sémiologie d’une crise virtuelle
+        <ref target="http://www.tanbou.com/2005/SemiologiedUneCrise.htm"/>
+      </item>
+      <item>
+        Bri sapat
+        <ref target="http://www.tanbou.com/2006/summer/pwezi.htm"/>
+      </item>
+      <item>
+        Paul Farmer on Haiti and Global Health Issues
+        <ref target="http://www.alterpresse.org/spip.php?article5017"/>
+      </item>
+      <item>
+        Une lecture de « À l’angle des rues parallèles » ; L’écriture linéaire de Gary Victor
+        <ref target="http://lematinhaiti.com/PageArticle.asp?ArticleID=2577"/>
+      </item>
+      <item>
+        Saint-John Kauss : deux recueils pour dire le cœur battant du poème
+        <ref target="http://lematinhaiti.com/PageArticle.asp?ArticleID=7538"/>
+      </item>
+      <item>
+        comme une vague…
+        <ref target="http://ecrits-vains.com/thematique/transatlantique/constant.htm"/>
+      </item>
+      <item>
+        Hommage à Paul Laraque » / « Ochan pou Paul Laraque
+        <ref target="http://www.tanbou.com/2007/Spring/HommageAPaulLaraque.htm"/>
+      </item>
+      <item>
+        Textes 2, 4 et 5
+        <ref target="http://www.francopolis.net/librairie/vostextesarchiveABC.htm#Constant"/>
+      </item>
+      <item>
+        Folitude de Jean André Constant
+        <ref target="http://www.terranovamagazine.ca/24/pages/livres/livres.html"/>
+      </item>
+      <item>
+        Folitude, en absence de soi-même
+        <ref target="http://lematinhaiti.com/PageArticle.asp?ArticleID=1190"/>
+      </item>
+      <item>
+        La Folitude de Jean-André Constant
+        <ref target="http://www.csmsmagazine.org/news.php?pg=20060804I205"/>
+      </item>
+      <item>
+        Jean André Constant
+        <ref target="http://www.potomitan.info/constant/"/>
+      </item>
+      <item>
+        Une voix ardente et prophétique
+        <ref target="http://lenouvelliste.com/article.php?PubID=&amp;ArticleID=33905"/>
+      </item>
+      <item>
+        Un fauteuil-standard pour deux éditeurs
+        <ref target="http://lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46329"/>
+      </item>
     </list>
   </div>
 </TEI>

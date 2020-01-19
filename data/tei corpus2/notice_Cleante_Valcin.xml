@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Cleante_Valcin_fiche">
-    <person ana="Cleante_Valcin" sex="na">
+    <person ana="Cleante_Valcin" sex="f">
       <persName>Cléante Valcin</persName>
       <idno type="BNF">
         cb12758634k#about
@@ -61,7 +61,7 @@
     </person>
   </div>
   <div n="2" xml:id="Cleante_Valcin_bio">
-    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/valcin/">
+    <text ana="Cleante_Valcin_bio_ile_en_ile" hand="Nadève Ménard" ref="http://ile-en-ile.org/valcin/">
       <p>
         <persName ana="Cleante_Desgraves">
           Cléante 
@@ -162,7 +162,7 @@
     </text>
   </div>
   <div n="3" xml:id="Cleante_Valcin_biblio">
-    <div ref="http://ile-en-ile.org/valcin/" xml:id="Cleante_Valcin_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/valcin/" xml:id="Cleante_Valcin_biblio_auteur_ile_en_ile">
       <list subtype="romans">
         <item>Cruelle Destinée. Port-au-Prince: Jouve et Cie, 1929; Port-au-Prince: Fardin, 1985, 2003. 212 p.; Port-au-Prince: Presses Nationales d’Haïti, 2007, 196 p.</item>
       </list>
@@ -178,11 +178,14 @@
       <list subtype="sur cléante valcin">
         <item>Chancy, Myriam. Framing Silence. Revolutionary Novels by Haitian Women. New Brunswick: Rutgers University Press, 1997.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Cleante_Valcin_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/cleante-valcin-le-voleur/">Le Voleur</item>
+      <item>
+        Le Voleur
+        <ref target="http://ile-en-ile.org/cleante-valcin-le-voleur/"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -34,7 +34,7 @@
     </person>
   </div>
   <div n="2" xml:id="Franck_Fouche_bio">
-    <text ref="http://www.spla.pro/fiche.personne.franck-fouche.49712.html">
+    <text ana="Franck_Fouche_bio_spla" ref="http://www.spla.pro/fiche.personne.franck-fouche.49712.html">
       <p>
         &quot;Frank Fouché est né à Saint-Marc, 
         <placeName ana="Haiti">Haïti</placeName>

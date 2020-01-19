@@ -34,13 +34,12 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <listRelation>
         <relation ana="Joseph_Janvier" source="ile_en_ile_auto">Joseph Janvier</relation>
-        <relation ana="Joseph_Janvier" source="ile_en_ile_auto">Joseph Janvier</relation>
         <relation ana="Louis_Janvier" source="ile_en_ile_auto">Louis Janvier</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Louis_Joseph_Janvier_bio">
-    <text ref="http://ile-en-ile.org/janvier/">
+    <text ana="Louis_Joseph_Janvier_bio_ile_en_ile" ref="http://ile-en-ile.org/janvier/">
       <p>
         <persName ana="Louis_Joseph_Janvier">Louis Joseph Janvier</persName>
          est né le 7 mai 1855 à Port-au-
@@ -499,12 +498,12 @@ Si
         . Il est donc tout à fait vraisemblable que Janvier avait deux prénoms, et pas un double prénom.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.louis-joseph-janvier.14122.html">
+    <text ana="Louis_Joseph_Janvier_bio_spla" ref="http://www.spla.pro/fiche.personne.louis-joseph-janvier.14122.html">
       <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
     </text>
   </div>
   <div n="3" xml:id="Louis_Joseph_Janvier_biblio">
-    <div ref="http://ile-en-ile.org/janvier/" xml:id="Louis_Joseph_Janvier_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/janvier/" xml:id="Louis_Joseph_Janvier_biblio_auteur_ile_en_ile">
       <list subtype="essais">
         <item>Phtisie pulmonaire; causes, traitement préventif. Paris: A. Parent, 1881.</item>
       </list>
@@ -514,11 +513,14 @@ Si
       <list subtype="sur louis joseph janvier">
         <item>Charles, Christophe Philippe. « Autobiographie de Louis Joseph Janvier (1885-1911) » (sélection d’extraits). Autobiographie des écrivains d’Haïti. Tome 1. Des Histoires passionnantes. réunies, présentées, éditées par Christophe Philippe Charles. Port-au-Prince: Choucoune, 1995: 59-80.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Louis_Joseph_Janvier_web">
     <list type="ile_en_ile">
-      <item ref="http://lafayette.org.uk/jan2552.html">Photo de Louis Joseph Janvier</item>
+      <item>
+        Photo de Louis Joseph Janvier
+        <ref target="http://lafayette.org.uk/jan2552.html"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -40,7 +40,7 @@
     </person>
   </div>
   <div n="2" xml:id="Carl_Brouard_bio">
-    <text ref="http://ile-en-ile.org/brouard/">
+    <text ana="Carl_Brouard_bio_ile_en_ile" ref="http://ile-en-ile.org/brouard/">
       <p>
         <persName ana="Carl_Brouard">Carl Brouard</persName>
          naît le 5 décembre 1902 à Port-au-
@@ -236,7 +236,7 @@
          (Mémoire d’encrier, 2004), pages 127-128.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.carl-brouard.14063.html">
+    <text ana="Carl_Brouard_bio_spla" ref="http://www.spla.pro/fiche.personne.carl-brouard.14063.html">
       <p>
         <persName ana="Carl_Brouard">Carl Brouard</persName>
          naît le 5 décembre 1902 à Port-au-
@@ -256,7 +256,7 @@
     </text>
   </div>
   <div n="3" xml:id="Carl_Brouard_biblio">
-    <div ref="http://ile-en-ile.org/brouard/" xml:id="Carl_Brouard_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/brouard/" xml:id="Carl_Brouard_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« Nostalgia » and « Art in the Service of the People » (excerpt). Trans. J. Michael Dash. « The Poetic Renaissance: Five Poems Philippe Thoby-Marcelin, Carl Brouard, Leon Laleau, Emile Roumer ». (Trans. J. Michael Dash.) A Haiti Anthology: Libète. Charles Arthur and J. Michael Dash, eds. Princeton (New Jersey): Markus Wiener, 1999: 298, 301-302.</item>
       </list>
@@ -269,15 +269,30 @@
       <list subtype="sur l’oeuvre de carl brouard">
         <item>Berrou, F. Raphaël et Pradel Pompilius. Deux poètes indigénistes: Carl Brouard et Émile Roumer.Extraits tirés de l’Histoire de la littérature haïtienne (de Berrou et Pompilus), Tome 3. Port-au-Prince: Editions Caraïbes, 1974.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Carl_Brouard_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/carl-brouard-presentation/">Présentation</item>
-      <item ref="http://ile-en-ile.org/carl-brouard-six-poemes/">Six poèmes</item>
-      <item ref="http://radiohaitilives.com/fr/enregistrements/celebration-de-carl-brouard-rassemblement-decrivains-et-poetes-15-novembre-1962/">Célébration de Carl Brouard : rassemblement d’écrivains et poètes, 15 novembre 1962</item>
-      <item ref="http://radiohaitilives.com/fr/enregistrements/hommage-de-roger-gaillard-a-carl-brouard-4-novembre-1965/">Hommage de Roger Gaillard à Carl Brouard</item>
-      <item ref="http://www.lib.ksu.edu/depts/spec/findaids/pc1993-05.html">Edna Worthley Underwood Papers</item>
+      <item>
+        Présentation
+        <ref target="http://ile-en-ile.org/carl-brouard-presentation/"/>
+      </item>
+      <item>
+        Six poèmes
+        <ref target="http://ile-en-ile.org/carl-brouard-six-poemes/"/>
+      </item>
+      <item>
+        Célébration de Carl Brouard : rassemblement d’écrivains et poètes, 15 novembre 1962
+        <ref target="http://radiohaitilives.com/fr/enregistrements/celebration-de-carl-brouard-rassemblement-decrivains-et-poetes-15-novembre-1962/"/>
+      </item>
+      <item>
+        Hommage de Roger Gaillard à Carl Brouard
+        <ref target="http://radiohaitilives.com/fr/enregistrements/hommage-de-roger-gaillard-a-carl-brouard-4-novembre-1965/"/>
+      </item>
+      <item>
+        Edna Worthley Underwood Papers
+        <ref target="http://www.lib.ksu.edu/depts/spec/findaids/pc1993-05.html"/>
+      </item>
     </list>
   </div>
 </TEI>

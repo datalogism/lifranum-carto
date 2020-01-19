@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Joanne_Hyppolite_bio">
-    <text ref="http://www.spla.pro/fiche.personne.joanne-hyppolite.42230.html">
+    <text ana="Joanne_Hyppolite_bio_spla" ref="http://www.spla.pro/fiche.personne.joanne-hyppolite.42230.html">
       <p>
         Joanne Hyppolite est née en 
         <placeName ana="Haiti">Haïti</placeName>

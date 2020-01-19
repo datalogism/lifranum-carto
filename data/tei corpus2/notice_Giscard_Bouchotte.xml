@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Giscard_Bouchotte_bio">
-    <text ref="http://www.spla.pro/fiche.personne.giscard-bouchotte.6939.html">
+    <text ana="Giscard_Bouchotte_bio_spla" ref="http://www.spla.pro/fiche.personne.giscard-bouchotte.6939.html">
       <p>
         <persName ana="Giscard_Bouchotte">Giscard Bouchotte</persName>
          s'est d'abord fait connaître comme critique en 

@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jean_Marie_Bourjolly_bio">
-    <text ref="http://ile-en-ile.org/bourjolly/">
+    <text ana="Jean_Marie_Bourjolly_bio_ile_en_ile" ref="http://ile-en-ile.org/bourjolly/">
       <p>
         Jean-
         <persName ana="Marie_Bourjolly">
@@ -98,7 +98,7 @@
     </text>
   </div>
   <div n="3" xml:id="Jean_Marie_Bourjolly_biblio">
-    <div ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean_Marie_Bourjolly_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/bourjolly/" xml:id="Jean_Marie_Bourjolly_biblio_auteur_ile_en_ile">
       <list subtype="romans">
         <item>Dernier appel. Montréal: Éditions du CIDIHCA, 2004.</item>
       </list>
@@ -111,15 +111,30 @@
       <list subtype="sur jean-marie bourjolly">
         <item>Bance, Adrien. « Récit pour une génération ». Le Matin (20 mai 2004): 18-19.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Jean_Marie_Bourjolly_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/jean-marie-bourjolly-dernier-appel/">Dernier appel</item>
-      <item ref="http://ile-en-ile.org/les-je-de-la-memoire-par-robert-berrouet-oriol/">Les je de la mémoire</item>
-      <item ref="http://www.er.uqam.ca/nobel/r14677/">Jean-Marie Bourjolly</item>
-      <item ref="http://ctr.concordia.ca/2003-04/may_6/13/">Coming-of-age novel took 12 years</item>
-      <item ref="http://www.mantech.uqam.ca/enseignants/fiche.php?id=39">Jean-Marie Bourjolly</item>
+      <item>
+        Dernier appel
+        <ref target="http://ile-en-ile.org/jean-marie-bourjolly-dernier-appel/"/>
+      </item>
+      <item>
+        Les je de la mémoire
+        <ref target="http://ile-en-ile.org/les-je-de-la-memoire-par-robert-berrouet-oriol/"/>
+      </item>
+      <item>
+        Jean-Marie Bourjolly
+        <ref target="http://www.er.uqam.ca/nobel/r14677/"/>
+      </item>
+      <item>
+        Coming-of-age novel took 12 years
+        <ref target="http://ctr.concordia.ca/2003-04/may_6/13/"/>
+      </item>
+      <item>
+        Jean-Marie Bourjolly
+        <ref target="http://www.mantech.uqam.ca/enseignants/fiche.php?id=39"/>
+      </item>
     </list>
   </div>
 </TEI>

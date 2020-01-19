@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rene_Philoctete_fiche">
-    <person ana="Rene_Philoctete" sex="na">
+    <person ana="Rene_Philoctete" sex="m">
       <persName>René Philoctète</persName>
       <idno type="BNF">
         cb12215753q#about
@@ -66,7 +66,7 @@
     </person>
   </div>
   <div n="2" xml:id="Rene_Philoctete_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/philoctete/">
+    <text ana="Rene_Philoctete_bio_ile_en_ile" hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/philoctete/">
       <p>
         <persName ana="Rene_Philoctete">
           René 
@@ -150,7 +150,7 @@
     </text>
   </div>
   <div n="3" xml:id="Rene_Philoctete_biblio">
-    <div ref="http://ile-en-ile.org/philoctete/" xml:id="Rene_Philoctete_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/philoctete/" xml:id="Rene_Philoctete_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>Massacre River (Le Peuple des terres mêlées). Trad. with Note by Linda Coverdale; Preface by Edwidge Danticat; Introduction by Lyonel Trouillot. New York: New Directions, 2005.</item>
       </list>
@@ -178,16 +178,34 @@
       <list subtype="sur l’oeuvre de rené philoctète">
         <item>Glover, Kaiama. « Écrire la schizophrénie. La configuration du personnage dans les œuvres « spiralistes » de Frankétienne, Jean-Claude Fignolé et René Philoctète ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 83-96.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Rene_Philoctete_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
-      <item ref="http://ile-en-ile.org/rene-philoctete-psom-psaume/">« Psom » / « Psaume »</item>
-      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
-      <item ref="http://ile-en-ile.org/rene-philoctete-textes-lus/">René Philoctète, textes lus par l’auteur</item>
-      <item ref="http://web.archive.org/web/20030417185538/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=614">tous les mots fous</item>
-      <item ref="https://careofpublishing.com/fr/publication/le-peuple-des-terres-melees">Le peuple des terres mêlées</item>
+      <item>
+        Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité
+        <ref target="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/"/>
+      </item>
+      <item>
+        « Psom » / « Psaume »
+        <ref target="http://ile-en-ile.org/rene-philoctete-psom-psaume/"/>
+      </item>
+      <item>
+        Que meure la chanson de la mort
+        <ref target="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/"/>
+      </item>
+      <item>
+        René Philoctète, textes lus par l’auteur
+        <ref target="http://ile-en-ile.org/rene-philoctete-textes-lus/"/>
+      </item>
+      <item>
+        tous les mots fous
+        <ref target="http://web.archive.org/web/20030417185538/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=614"/>
+      </item>
+      <item>
+        Le peuple des terres mêlées
+        <ref target="https://careofpublishing.com/fr/publication/le-peuple-des-terres-melees"/>
+      </item>
     </list>
   </div>
 </TEI>

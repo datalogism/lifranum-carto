@@ -29,7 +29,7 @@
     </person>
   </div>
   <div n="2" xml:id="Maurice_Sixto_bio">
-    <text hand="Frenand Léger" ref="http://ile-en-ile.org/sixto/">
+    <text ana="Maurice_Sixto_bio_ile_en_ile" hand="Frenand Léger" ref="http://ile-en-ile.org/sixto/">
       <p>
         Né aux 
         <placeName ana="Gonaives">Gonaïves</placeName>
@@ -451,7 +451,7 @@
     </text>
   </div>
   <div n="3" xml:id="Maurice_Sixto_biblio">
-    <div ref="http://ile-en-ile.org/sixto/" xml:id="Maurice_Sixto_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/sixto/" xml:id="Maurice_Sixto_biblio_auteur_ile_en_ile">
       <list subtype="volume i (1974)">
         <item>Lea Kokoyé</item>
       </list>
@@ -482,21 +482,54 @@
       <list subtype="sur maurice sixto">
         <item>Anglade, Georges. « Les lodyanseurs du soir, il y a 100 ans, le passage à l’écrit ». Écrire en pays assiégé, Amsterdam / New York: Rodopi, 2004: 61-87.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Maurice_Sixto_web">
     <list type="ile_en_ile">
-      <item ref="http://www.fondationmauricesixto.org/">La Fondation Maurice A. Sixto</item>
-      <item ref="http://www.fondationmauricesixto.org/NewOldSite/index.php?option=com_content&amp;view=article&amp;id=11:auteur-de-ti-sentaniz-est-mort-dune-crise-cardiaque&amp;catid=4:presse&amp;Itemid=35">« L’auteur de Ti Sentaniz est mort d’une crise cardiaque »</item>
-      <item ref="http://www.potomitan.info/ayiti/sixto.php">La révolution tranquille de Maurice Sixto</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/articleprint/28552.html">Maurice Sixto sur support écrit</item>
-      <item ref="https://web.archive.org/web/20070104002033/http://www.roroli.com/flexnews/news.php?newsid=9">Maurice Alfredo Sixto (23 mai 1919-12 mai 1984), conteur, humoriste, enseignant</item>
-      <item ref="http://radionouveaumonde.com/2012/05/24/maurice-sixto-vivant-et-present-a-travers-ses-objets/">Maurice Sixto, vivant et présent à travers ses objets</item>
-      <item ref="http://www.alterpresse.org/spip.php?article4665#.U5MveV5X9g0">Maurice Sixto : Un modèle toujours vivant</item>
-      <item ref="http://youtu.be/oyciBxBbSxY">Léa Kokoyé</item>
-      <item ref="http://youtu.be/oyciBxBbSxY">Léa Kokoyé</item>
-      <item ref="http://youtu.be/MQOQY3kq0Lg">Ti Sentaniz</item>
-      <item ref="http://youtu.be/iETOZbHhVv8">J’ai vengé la race</item>
+      <item>
+        La Fondation Maurice A. Sixto
+        <ref target="http://www.fondationmauricesixto.org/"/>
+      </item>
+      <item>
+        « L’auteur de Ti Sentaniz est mort d’une crise cardiaque »
+        <ref target="http://www.fondationmauricesixto.org/NewOldSite/index.php?option=com_content&amp;view=article&amp;id=11:auteur-de-ti-sentaniz-est-mort-dune-crise-cardiaque&amp;catid=4:presse&amp;Itemid=35"/>
+      </item>
+      <item>
+        La révolution tranquille de Maurice Sixto
+        <ref target="http://www.potomitan.info/ayiti/sixto.php"/>
+      </item>
+      <item>
+        Maurice Sixto sur support écrit
+        <ref target="http://lenouvelliste.com/lenouvelliste/articleprint/28552.html"/>
+      </item>
+      <item>
+        Maurice Alfredo Sixto (23 mai 1919-12 mai 1984), conteur, humoriste, enseignant
+        <ref target="https://web.archive.org/web/20070104002033/http://www.roroli.com/flexnews/news.php?newsid=9"/>
+      </item>
+      <item>
+        Maurice Sixto, vivant et présent à travers ses objets
+        <ref target="http://radionouveaumonde.com/2012/05/24/maurice-sixto-vivant-et-present-a-travers-ses-objets/"/>
+      </item>
+      <item>
+        Maurice Sixto : Un modèle toujours vivant
+        <ref target="http://www.alterpresse.org/spip.php?article4665#.U5MveV5X9g0"/>
+      </item>
+      <item>
+        Léa Kokoyé
+        <ref target="http://youtu.be/oyciBxBbSxY"/>
+      </item>
+      <item>
+        Léa Kokoyé
+        <ref target="http://youtu.be/oyciBxBbSxY"/>
+      </item>
+      <item>
+        Ti Sentaniz
+        <ref target="http://youtu.be/MQOQY3kq0Lg"/>
+      </item>
+      <item>
+        J’ai vengé la race
+        <ref target="http://youtu.be/iETOZbHhVv8"/>
+      </item>
     </list>
   </div>
 </TEI>

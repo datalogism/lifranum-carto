@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Joubert_Joseph_fiche">
-    <person ana="Joubert_Joseph" sex="na">
+    <person ana="Joubert_Joseph" sex="m">
       <persName>Joubert Joseph</persName>
       <idno type="BNF">
         cb16658721w#about
@@ -52,7 +52,10 @@
   <div n="3" xml:id="Joubert_Joseph_biblio"/>
   <div n="4" xml:id="Joubert_Joseph_web">
     <list type="lifranum_db">
-      <item ref="http://joubertjoseph.blogspot.com/">blog de poète </item>
+      <item>
+        blog de poète 
+        <ref target="http://joubertjoseph.blogspot.com/"/>
+      </item>
     </list>
   </div>
 </TEI>

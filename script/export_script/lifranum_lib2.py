@@ -329,11 +329,13 @@ def get_CompleteNotice(datas):
                         occupation.text=data["spla"]["activity"]
                         list_occup.append(data["spla"]["activity"])
         listPerson=None
+        list_p=[]
         if("viaf" in data.keys() and "coauthors" in data["viaf"].keys()):
             if(data["viaf"]["coauthors"] and len(data["viaf"]["coauthors"])>0):
                 listPerson=SubElement(person,"listRelation")
                 for co in data["viaf"]["coauthors"]:
-                    if("name" in co.keys()):
+                    if("name" in co.keys() and co["id_lifranum"] not in list_p):
+                        list_p.append(co["id_lifranum"])
                         person2=SubElement(listPerson,"relation")
                         person2.set("source","viaf")
                         person2.set("ana",co["id_lifranum"])
@@ -344,7 +346,8 @@ def get_CompleteNotice(datas):
                 if(listPerson is None):
                     listPerson=SubElement(person,"listRelation")
                 for co in data["ile_en_ile_auto"]["found_pers"]:
-                    if("name" in co.keys()):
+                    if("name" in co.keys() and co["id_lifranum"] not in list_p):
+                        list_p.append(co["id_lifranum"])
                         person2=SubElement(listPerson,"relation")
                         person2.set("source","ile_en_ile_auto")
                         person2.set("ana",co["id_lifranum"])
@@ -354,7 +357,8 @@ def get_CompleteNotice(datas):
                 if(listPerson is None):
                     listPerson=SubElement(person,"listRelation")
                 for co in data["spla_auto"]["found_pers"]:
-                    if("name" in co.keys()):
+                    if("name" in co.keys() and co["id_lifranum"] not in list_p):
+                        list_p.append(co["id_lifranum"])
                         person2=SubElement(listPerson,"relation")
                         person2.set("source","ile_en_ile_auto")
                         person2.set("ana",co["id_lifranum"])
@@ -370,6 +374,7 @@ def get_CompleteNotice(datas):
             print(bio_k)
             if "bio_content" in data["bio_data"][bio_k].keys():
                 text=SubElement(Div_Bio,"text")
+                text.set("ana",id_auth+"_bio_"+bio_k)
                 text.set('ref', data["bio_data"][bio_k]["ref"]) ################### URL ILE EN ILE
                 if "hand" in data["bio_data"][bio_k].keys() and data["bio_data"][bio_k]["hand"]!="":
                     text.set('hand',data["bio_data"][bio_k]["hand"] ) ################### WRITEN BY
@@ -382,7 +387,7 @@ def get_CompleteNotice(datas):
         Div_Biblio.set("xml:id",id_auth+"_biblio")
         Div_Biblio.set("n",str(n))
         for biblio_k in data["biblio_data"].keys():
-            text=SubElement(Div_Biblio,"div")
+            text=SubElement(Div_Biblio,"list")
             text.set('xml:id', id_auth+'_biblio_auteur_'+biblio_k) ################### ID AUTEUR
             text.set('ref', data["biblio_data"][biblio_k]["ref"])
             for list_name in data["biblio_data"][biblio_k]["content"].keys():
@@ -403,7 +408,8 @@ def get_CompleteNotice(datas):
             for element in datas["web_data"][web_k]:
                 item = SubElement(new_list,"item")
                 item.text=element["title"]
-                item.set("ref",element["url"])
+                ref = SubElement(item,"ref")
+                ref.set("target",element["url"])
 
 
                            

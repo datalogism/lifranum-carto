@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacqueline_Beauge_Rosier_fiche">
-    <person ana="Jacqueline_Beauge_Rosier" sex="na">
+    <person ana="Jacqueline_Beauge_Rosier" sex="f">
       <persName>Jacqueline Beaugé Rosier</persName>
       <birth source="viaf">
         <date>1932-02-07</date>
@@ -43,12 +43,11 @@
         <relation ana="Universite_D_Ottawa" source="viaf">Université d'Ottawa</relation>
         <relation ana="Mentor_Cassandre" source="viaf">Mentor Cassandre</relation>
         <relation ana="Jacqueline_Beauge" source="ile_en_ile_auto">Jacqueline Beaugé</relation>
-        <relation ana="Jacqueline_Beauge" source="ile_en_ile_auto">Jacqueline Beaugé</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jacqueline_Beauge_Rosier_bio">
-    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/beauge-rosier/">
+    <text ana="Jacqueline_Beauge_Rosier_bio_ile_en_ile" hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/beauge-rosier/">
       <p>
         <persName ana="Jacqueline_Beauge">Jacqueline Beaugé</persName>
         -Rosier naît le 7 février 1932 à 
@@ -155,7 +154,7 @@
          le 28 juillet 2016.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jacqueline-beauge-rosier.14056.html">
+    <text ana="Jacqueline_Beauge_Rosier_bio_spla" ref="http://www.spla.pro/fiche.personne.jacqueline-beauge-rosier.14056.html">
       <p>
         <persName ana="Jacqueline_Beauge">Jacqueline Beaugé</persName>
         -Rosier naît le 7 février 1932 à 
@@ -177,7 +176,7 @@
     </text>
   </div>
   <div n="3" xml:id="Jacqueline_Beauge_Rosier_biblio">
-    <div ref="http://ile-en-ile.org/beauge-rosier/" xml:id="Jacqueline_Beauge_Rosier_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/beauge-rosier/" xml:id="Jacqueline_Beauge_Rosier_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Climats en marche. Port-au-Prince: Imprimerie des Antilles, 1962.</item>
       </list>
@@ -199,16 +198,34 @@
       <list subtype="sur l’oeuvre de jacqueline beaugé-rosier">
         <item>Bernard, Robinson. « Un roman saisissant », compte-rendu des Yeux de l’anse du Clair. Le Nouvelliste (28 août 2001).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Jacqueline_Beauge_Rosier_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/jacqueline-beauge-rosier-conte-de-lenfance-aveugle/">Conte de l’enfance aveugle</item>
-      <item ref="http://litte.journals.yorku.ca/index.php/litte/article/view/26495/24489">Ailantes de ma libre expression</item>
-      <item ref="https://www.erudit.org/culture/liaison1076624/liaison1170951/42557ac.pdf">Jacqueline Beaugé-Rosier : l’écriture n’est jamais innocente</item>
-      <item ref="http://web.archive.org/web/20041223192757/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=562">Ville miroir</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/article/161539/La-poetesse-Jacqueline-Beauge-Rosier-nest-plus">La poétesse Jacqueline Beaugé Rosier n’est plus</item>
-      <item ref="http://kellyfhorleans.sharingmemories.ca/site/JacquelineBeauge-Rosier.html?s=40">Jacqueline Beaugé-Rosier, February 7, 1932-July 2[8], 2016</item>
+      <item>
+        Conte de l’enfance aveugle
+        <ref target="http://ile-en-ile.org/jacqueline-beauge-rosier-conte-de-lenfance-aveugle/"/>
+      </item>
+      <item>
+        Ailantes de ma libre expression
+        <ref target="http://litte.journals.yorku.ca/index.php/litte/article/view/26495/24489"/>
+      </item>
+      <item>
+        Jacqueline Beaugé-Rosier : l’écriture n’est jamais innocente
+        <ref target="https://www.erudit.org/culture/liaison1076624/liaison1170951/42557ac.pdf"/>
+      </item>
+      <item>
+        Ville miroir
+        <ref target="http://web.archive.org/web/20041223192757/http://elvir.univ-poitiers.fr/telecharger.php3?id_article=562"/>
+      </item>
+      <item>
+        La poétesse Jacqueline Beaugé Rosier n’est plus
+        <ref target="http://lenouvelliste.com/lenouvelliste/article/161539/La-poetesse-Jacqueline-Beauge-Rosier-nest-plus"/>
+      </item>
+      <item>
+        Jacqueline Beaugé-Rosier, February 7, 1932-July 2[8], 2016
+        <ref target="http://kellyfhorleans.sharingmemories.ca/site/JacquelineBeauge-Rosier.html?s=40"/>
+      </item>
     </list>
   </div>
 </TEI>

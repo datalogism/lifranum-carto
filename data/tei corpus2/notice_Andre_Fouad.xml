@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Andre_Fouad_bio">
-    <text ref="http://www.spla.pro/fiche.personne.andre-fouad.39579.html">
+    <text ana="Andre_Fouad_bio_spla" ref="http://www.spla.pro/fiche.personne.andre-fouad.39579.html">
       <p>
         Né le 2 mai 1972 à Port-au-
         <placeName ana="Prince">Prince</placeName>

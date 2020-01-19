@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Mimi_Barthelemy_fiche">
-    <person ana="Mimi_Barthelemy" sex="na">
+    <person ana="Mimi_Barthelemy" sex="f">
       <persName>Mimi Barthélémy</persName>
       <idno type="BNF">
         cb121353306#about
@@ -94,7 +94,7 @@
     </person>
   </div>
   <div n="2" xml:id="Mimi_Barthelemy_bio">
-    <text ref="http://ile-en-ile.org/barthelemy/">
+    <text ana="Mimi_Barthelemy_bio_ile_en_ile" ref="http://ile-en-ile.org/barthelemy/">
       <p>
         <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
          est née à Port-au-
@@ -154,7 +154,7 @@ Nous vous invitons également à revoir la présentation de l’auteure par
         , 5 Questions pour Île en île (2010) et la vidéo du conte « La chenille, la chrysalide et le papillon ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.mimi-barthelemy.3880.html">
+    <text ana="Mimi_Barthelemy_bio_spla" ref="http://www.spla.pro/fiche.personne.mimi-barthelemy.3880.html">
       <p>
         <persName ana="Michele_Armand">Michèle Armand</persName>
          dont le pseudonyme est 
@@ -226,7 +226,7 @@ Nous vous invitons également à revoir la présentation de l’auteure par
     </text>
   </div>
   <div n="3" xml:id="Mimi_Barthelemy_biblio">
-    <div ref="http://ile-en-ile.org/barthelemy/" xml:id="Mimi_Barthelemy_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/barthelemy/" xml:id="Mimi_Barthelemy_biblio_auteur_ile_en_ile">
       <list subtype="contes">
         <item>Le monstre Bagay. Paris: l’Harmattan, 1989.</item>
       </list>
@@ -248,30 +248,87 @@ Nous vous invitons également à revoir la présentation de l’auteure par
       <list subtype="sur l’oeuvre de mimi barthélémy">
         <item>Edwards, Carole. « Histoire, Mémoire et Réalisme Merveilleux chez Mimi Barthélémy ». Horizons multiples de l’écriture haïtienne contemporaine, sous la direction de Joubert Satyre. Montréal: CIDIHCA, 2017: 61-85.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Mimi_Barthelemy_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://ile-en-ile.org/malice-mimi-barthelemy-ou-lart-du-conte/">Malice!, Mimi Barthélémy ou l’art du conte</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
-      <item ref="http://ile-en-ile.org/mimi-barthelemy-naissance-dune-vocation/">Naissance d’une vocation</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
-      <item ref="http://www.mimibarthelemy.com/"> Mimi Barthélémy</item>
-      <item ref="http://www.temoignagechretien.fr/ARTICLES/Culture/Le-cri-de-Mimi-pour-Haiti/Default-54-1250.xhtml">Le Cri de Mimi pour Haïti</item>
-      <item ref="http://www.canalmarches.org/article.php3?id_article=156">Le Fulgurant</item>
-      <item ref="http://www.africultures.com/index.asp?menu=affiche_artiste&amp;no=3880">Mimi Barthélémy</item>
-      <item ref="http://www.ychemla.net/fic_doc/mimi_1.html">Mimi Barthélémy, conteuse haïtienne</item>
-      <item ref="http://www.franceguyane.fr/hexagone/interview-mimi-barthelemy-haiti-a-continuellement-un-pied-dans-le-tragique-un-pied-dans-le-merveilleux-146061.php">Mimi Barthélémy: « Haïti a continuellement un pied dans le tragique, un pied dans le merveilleux »</item>
-      <item ref="http://www.contes-et-conteurs.com/Afro-Caraibes-2008.html">Rumeurs urbaines</item>
-      <item ref="http://www.radiokiskeya.com/spip.php?article9548">La célèbre conteuse haïtienne Mimi Barthélémy est morte</item>
-      <item ref="http://www.collectif2004images.org/27-avril-2013-Mimi-Barthelemy-s-en-est-allee-au-pays-sans-chapeau_a941.html">27 avril 2013 &gt; Mimi Barthélémy s’en est allée au pays sans chapeau…</item>
-      <item ref="http://www.montraykreyol.org/spip.php?article6344">Mimi pati nan peyi san chapo…</item>
-      <item ref="http://www.humanite.fr/culture/mimi-barthelemy-l-espoir-toujours-vivant-du-peuple-530834">Mimi Barthélémy, l’espoir toujours vivant du peuple haïtien</item>
-      <item ref="http://www.lemonde.fr/disparitions/article/2013/04/30/mimi-barthelemy-1939-2013-conteuse-haitienne_3168976_3382.html">Mimi Barthélémy (1939-2013), conteuse haïtienne</item>
-      <item ref="http://blogs.mediapart.fr/blog/watayaga/030513/honneur-et-respect-messieurs-dames-la-societe-la-conteuse-mimi-barthelemy-est-decedee-le-27-avril">« Honneur et Respect, Messieurs Dames la Société! » La conteuse Mimi Barthélémy est décédée le 27 avril</item>
-      <item ref="http://www.francetv.fr/culturebox/la-veillee-funebre-extravagante-de-mimi-barthelemy-conteuse-haitienne-135637"> La veillée funèbre extravagante de Mimi Barthélémy, conteuse haïtienne</item>
-      <item ref="http://www.actualitte.com/international/dame-mimi-barthelemy-nous-a-quittes-42155.htm">Dame Mimi Barthélémy nous a quittés</item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        Malice!, Mimi Barthélémy ou l’art du conte
+        <ref target="http://ile-en-ile.org/malice-mimi-barthelemy-ou-lart-du-conte/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_video-e1443203337462.png"/>
+      </item>
+      <item>
+        Naissance d’une vocation
+        <ref target="http://ile-en-ile.org/mimi-barthelemy-naissance-dune-vocation/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      </item>
+      <item>
+         Mimi Barthélémy
+        <ref target="http://www.mimibarthelemy.com/"/>
+      </item>
+      <item>
+        Le Cri de Mimi pour Haïti
+        <ref target="http://www.temoignagechretien.fr/ARTICLES/Culture/Le-cri-de-Mimi-pour-Haiti/Default-54-1250.xhtml"/>
+      </item>
+      <item>
+        Le Fulgurant
+        <ref target="http://www.canalmarches.org/article.php3?id_article=156"/>
+      </item>
+      <item>
+        Mimi Barthélémy
+        <ref target="http://www.africultures.com/index.asp?menu=affiche_artiste&amp;no=3880"/>
+      </item>
+      <item>
+        Mimi Barthélémy, conteuse haïtienne
+        <ref target="http://www.ychemla.net/fic_doc/mimi_1.html"/>
+      </item>
+      <item>
+        Mimi Barthélémy: « Haïti a continuellement un pied dans le tragique, un pied dans le merveilleux »
+        <ref target="http://www.franceguyane.fr/hexagone/interview-mimi-barthelemy-haiti-a-continuellement-un-pied-dans-le-tragique-un-pied-dans-le-merveilleux-146061.php"/>
+      </item>
+      <item>
+        Rumeurs urbaines
+        <ref target="http://www.contes-et-conteurs.com/Afro-Caraibes-2008.html"/>
+      </item>
+      <item>
+        La célèbre conteuse haïtienne Mimi Barthélémy est morte
+        <ref target="http://www.radiokiskeya.com/spip.php?article9548"/>
+      </item>
+      <item>
+        27 avril 2013 &gt; Mimi Barthélémy s’en est allée au pays sans chapeau…
+        <ref target="http://www.collectif2004images.org/27-avril-2013-Mimi-Barthelemy-s-en-est-allee-au-pays-sans-chapeau_a941.html"/>
+      </item>
+      <item>
+        Mimi pati nan peyi san chapo…
+        <ref target="http://www.montraykreyol.org/spip.php?article6344"/>
+      </item>
+      <item>
+        Mimi Barthélémy, l’espoir toujours vivant du peuple haïtien
+        <ref target="http://www.humanite.fr/culture/mimi-barthelemy-l-espoir-toujours-vivant-du-peuple-530834"/>
+      </item>
+      <item>
+        Mimi Barthélémy (1939-2013), conteuse haïtienne
+        <ref target="http://www.lemonde.fr/disparitions/article/2013/04/30/mimi-barthelemy-1939-2013-conteuse-haitienne_3168976_3382.html"/>
+      </item>
+      <item>
+        « Honneur et Respect, Messieurs Dames la Société! » La conteuse Mimi Barthélémy est décédée le 27 avril
+        <ref target="http://blogs.mediapart.fr/blog/watayaga/030513/honneur-et-respect-messieurs-dames-la-societe-la-conteuse-mimi-barthelemy-est-decedee-le-27-avril"/>
+      </item>
+      <item>
+         La veillée funèbre extravagante de Mimi Barthélémy, conteuse haïtienne
+        <ref target="http://www.francetv.fr/culturebox/la-veillee-funebre-extravagante-de-mimi-barthelemy-conteuse-haitienne-135637"/>
+      </item>
+      <item>
+        Dame Mimi Barthélémy nous a quittés
+        <ref target="http://www.actualitte.com/international/dame-mimi-barthelemy-nous-a-quittes-42155.htm"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Voegeli_Juste_Constant_bio">
-    <text ref="http://www.spla.pro/fiche.personne.voegeli-juste-constant.44231.html">
+    <text ana="Voegeli_Juste_Constant_bio_spla" ref="http://www.spla.pro/fiche.personne.voegeli-juste-constant.44231.html">
       <p>
         Voegeli Juste-Constant prit naissance à Port-au-
         <placeName ana="Prince">Prince</placeName>

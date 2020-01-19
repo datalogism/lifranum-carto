@@ -41,7 +41,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jean_Durosier_Desrivieres_bio">
-    <text ref="http://ile-en-ile.org/desrivieres/">
+    <text ana="Jean_Durosier_Desrivieres_bio_ile_en_ile" ref="http://ile-en-ile.org/desrivieres/">
       <p>
         Jean-
         <persName ana="Durosier_Desrivieres">Durosier Desrivières</persName>
@@ -127,7 +127,7 @@
         <persName ana="Mylene_Dorce">Mylène Dorcé</persName>
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-durosier-desrivieres.24258.html">
+    <text ana="Jean_Durosier_Desrivieres_bio_spla" ref="http://www.spla.pro/fiche.personne.jean-durosier-desrivieres.24258.html">
       <p>
         Né en 
         <placeName ana="Haiti">Haïti</placeName>
@@ -182,7 +182,7 @@
     </text>
   </div>
   <div n="3" xml:id="Jean_Durosier_Desrivieres_biblio">
-    <div ref="http://ile-en-ile.org/desrivieres/" xml:id="Jean_Durosier_Desrivieres_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/desrivieres/" xml:id="Jean_Durosier_Desrivieres_biblio_auteur_ile_en_ile">
       <list subtype="ailleurs sur le web">
         <item>« Mise en orbite d’un beau conflit », janvier 2014.         
 </item>
@@ -211,27 +211,78 @@
       <list subtype="distinctions, invitations et interventions publiques">
         <item>Poète invité d’honneur de Gargas’Café, Apt, France, décembre 2008.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Jean_Durosier_Desrivieres_web">
     <list type="ile_en_ile">
-      <item ref="http://www.potomitan.info/ayiti/desrivieres">Jean-Durosier Desrivières</item>
-      <item ref="http://www.potomitan.info/ayiti/berrouet-oriol/amenagement3.php">La pratique écrite du créole haïtien, entre fiction et diction. Tèks envante, tèks lide ak tèks tradwi</item>
-      <item ref="http://www.potomitan.info/ayiti/desrivieres/litterature.php">Brève exploration de la littérature en langue créole en Haïti, de ses balbutiements à son affirmation</item>
-      <item ref="http://www.potomitan.info/ayiti/desrivieres/roussan.php">Topographie inventée, dans l’attente du jour », une lecture d’Assaut à la nuit de Roussan Camille</item>
-      <item ref="http://www.madinin-art.net/litterature/georges_castera.htm">Un langage à double canon, pour dire l’indifférence</item>
-      <item ref="http://www.lesfrancophonies.com/maison-des-auteurs/desrivieres-jean-durosier">Jean Durosier Desrivières</item>
-      <item ref="http://www.m-e-l.fr/jean-durosier-desrivieres,ec,901">Jean Durosier Desrivières</item>
-      <item ref="http://www.radio.cz/fr/rubrique/culture/haiti-la-litterature-pour-exorciser-la-catastrophe">Haïti : la littérature pour exorciser la catastrophe</item>
-      <item ref="http://www.radio.cz/fr/rubrique/culture/haiti-la-litterature-pour-exorciser-la-catastrophe">Haïti : la littérature pour exorciser la catastrophe</item>
-      <item ref="http://www.radioo.fr/podcasts/paris-sur-mer/le-cahier-dechire_39950.html">Le cahier déchiré</item>
-      <item ref="http://www.rfi.fr/emission/20110902-sapeurs-francais">Les sapeurs du français à Haïti</item>
-      <item ref="http://www.franceinter.fr/emission-ouvert-la-nuit-vincent-chaudel-amarco-et-elise-caron-en-live-eric-khoo-guy-regis-jr-et-jean">Ouvert la nuit</item>
-      <item ref="http://vimeo.com/82717654">Lycée Expérimental</item>
-      <item ref="http://vimeo.com/82717654">Lycée Expérimental</item>
-      <item ref="http://vimeo.com/84201028">Comme en 14</item>
-      <item ref="http://vimeo.com/82467552">Des mots et des mets</item>
-      <item ref="http://vimeo.com/82462620">Lecture de Jean-Durosier Desrivières</item>
+      <item>
+        Jean-Durosier Desrivières
+        <ref target="http://www.potomitan.info/ayiti/desrivieres"/>
+      </item>
+      <item>
+        La pratique écrite du créole haïtien, entre fiction et diction. Tèks envante, tèks lide ak tèks tradwi
+        <ref target="http://www.potomitan.info/ayiti/berrouet-oriol/amenagement3.php"/>
+      </item>
+      <item>
+        Brève exploration de la littérature en langue créole en Haïti, de ses balbutiements à son affirmation
+        <ref target="http://www.potomitan.info/ayiti/desrivieres/litterature.php"/>
+      </item>
+      <item>
+        Topographie inventée, dans l’attente du jour », une lecture d’Assaut à la nuit de Roussan Camille
+        <ref target="http://www.potomitan.info/ayiti/desrivieres/roussan.php"/>
+      </item>
+      <item>
+        Un langage à double canon, pour dire l’indifférence
+        <ref target="http://www.madinin-art.net/litterature/georges_castera.htm"/>
+      </item>
+      <item>
+        Jean Durosier Desrivières
+        <ref target="http://www.lesfrancophonies.com/maison-des-auteurs/desrivieres-jean-durosier"/>
+      </item>
+      <item>
+        Jean Durosier Desrivières
+        <ref target="http://www.m-e-l.fr/jean-durosier-desrivieres,ec,901"/>
+      </item>
+      <item>
+        Haïti : la littérature pour exorciser la catastrophe
+        <ref target="http://www.radio.cz/fr/rubrique/culture/haiti-la-litterature-pour-exorciser-la-catastrophe"/>
+      </item>
+      <item>
+        Haïti : la littérature pour exorciser la catastrophe
+        <ref target="http://www.radio.cz/fr/rubrique/culture/haiti-la-litterature-pour-exorciser-la-catastrophe"/>
+      </item>
+      <item>
+        Le cahier déchiré
+        <ref target="http://www.radioo.fr/podcasts/paris-sur-mer/le-cahier-dechire_39950.html"/>
+      </item>
+      <item>
+        Les sapeurs du français à Haïti
+        <ref target="http://www.rfi.fr/emission/20110902-sapeurs-francais"/>
+      </item>
+      <item>
+        Ouvert la nuit
+        <ref target="http://www.franceinter.fr/emission-ouvert-la-nuit-vincent-chaudel-amarco-et-elise-caron-en-live-eric-khoo-guy-regis-jr-et-jean"/>
+      </item>
+      <item>
+        Lycée Expérimental
+        <ref target="http://vimeo.com/82717654"/>
+      </item>
+      <item>
+        Lycée Expérimental
+        <ref target="http://vimeo.com/82717654"/>
+      </item>
+      <item>
+        Comme en 14
+        <ref target="http://vimeo.com/84201028"/>
+      </item>
+      <item>
+        Des mots et des mets
+        <ref target="http://vimeo.com/82467552"/>
+      </item>
+      <item>
+        Lecture de Jean-Durosier Desrivières
+        <ref target="http://vimeo.com/82462620"/>
+      </item>
     </list>
   </div>
 </TEI>

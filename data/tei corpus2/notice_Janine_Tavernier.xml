@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Janine_Tavernier_fiche">
-    <person ana="Janine_Tavernier" sex="na">
+    <person ana="Janine_Tavernier" sex="f">
       <persName>Janine Tavernier</persName>
       <idno type="BNF">
         cb14471140m#about
@@ -54,7 +54,7 @@
     </person>
   </div>
   <div n="2" xml:id="Janine_Tavernier_bio">
-    <text ref="http://ile-en-ile.org/tavernier/">
+    <text ana="Janine_Tavernier_bio_ile_en_ile" ref="http://ile-en-ile.org/tavernier/">
       <p>
         <persName ana="Janine_Tavernier">Janine Tavernier</persName>
          est née le 23 
@@ -145,7 +145,7 @@ qui fait la guerre au soleil.
     </text>
   </div>
   <div n="3" xml:id="Janine_Tavernier_biblio">
-    <div ref="http://ile-en-ile.org/tavernier/" xml:id="Janine_Tavernier_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/tavernier/" xml:id="Janine_Tavernier_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Ombres ensoleillées. Port-au-Prince: Gervais A. Louis, 1961.</item>
       </list>
@@ -164,18 +164,42 @@ qui fait la guerre au soleil.
       <list subtype="sur l’oeuvre de janine tavernier">
         <item>Brierre, Jean Fernand. Article dans Rond Point 12 (décembre 1963).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Janine_Tavernier_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/anthony-phelps-rupture-et-nouvel-espace-poetique/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
-      <item ref="http://ile-en-ile.org/janine-tavernier-par-dela-nos-murailles/">Par-delà nos murailles</item>
-      <item ref="http://www.lematinhaiti.com/Article.asp?ID=9861">Entre tradition et modernité, un roman attachant</item>
-      <item ref="http://www.lematinhaiti.com/Article.asp?ID=14229">« La Gravitante » » ou la non-existence et la vie à venir </item>
-      <item ref="http://www.etonnants-voyageurs.com/spip.php?article4725">Janine Tavernier</item>
-      <item ref="https://lenouvelliste.com/article/199837/le-laurier-rose-de-janine-tavernier">Le laurier rose de Janine Tavernier</item>
-      <item ref="http://web.archive.org/web/20030602170508/http://elvir.univ-poitiers.fr/article.php3?id_article=626">Mal comme misère</item>
-      <item ref="http://www.caraibeexpress.com/spip.php?article547&amp;nidspip.php?article547&amp;nid=1">La poésie féminine haïtienne</item>
+      <item>
+        Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité
+        <ref target="http://ile-en-ile.org/anthony-phelps-rupture-et-nouvel-espace-poetique/"/>
+      </item>
+      <item>
+        Par-delà nos murailles
+        <ref target="http://ile-en-ile.org/janine-tavernier-par-dela-nos-murailles/"/>
+      </item>
+      <item>
+        Entre tradition et modernité, un roman attachant
+        <ref target="http://www.lematinhaiti.com/Article.asp?ID=9861"/>
+      </item>
+      <item>
+        « La Gravitante » » ou la non-existence et la vie à venir 
+        <ref target="http://www.lematinhaiti.com/Article.asp?ID=14229"/>
+      </item>
+      <item>
+        Janine Tavernier
+        <ref target="http://www.etonnants-voyageurs.com/spip.php?article4725"/>
+      </item>
+      <item>
+        Le laurier rose de Janine Tavernier
+        <ref target="https://lenouvelliste.com/article/199837/le-laurier-rose-de-janine-tavernier"/>
+      </item>
+      <item>
+        Mal comme misère
+        <ref target="http://web.archive.org/web/20030602170508/http://elvir.univ-poitiers.fr/article.php3?id_article=626"/>
+      </item>
+      <item>
+        La poésie féminine haïtienne
+        <ref target="http://www.caraibeexpress.com/spip.php?article547&amp;nidspip.php?article547&amp;nid=1"/>
+      </item>
     </list>
   </div>
 </TEI>

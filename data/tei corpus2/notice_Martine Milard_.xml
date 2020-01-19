@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Martine Milard__bio">
-    <text ref="http://www.spla.pro/fiche.personne.martine-milard.39817.html">
+    <text ana="Martine Milard__bio_spla" ref="http://www.spla.pro/fiche.personne.martine-milard.39817.html">
       <p>
         &quot;Martine Milard est née en 
         <placeName ana="Haiti">Haïti</placeName>

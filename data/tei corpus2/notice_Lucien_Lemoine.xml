@@ -36,7 +36,7 @@
     </person>
   </div>
   <div n="2" xml:id="Lucien_Lemoine_bio">
-    <text ref="http://www.spla.pro/fiche.personne.lucien-lemoine.5737.html">
+    <text ana="Lucien_Lemoine_bio_spla" ref="http://www.spla.pro/fiche.personne.lucien-lemoine.5737.html">
       <p>
         Comédien, auteur et metteur en scène sénégalais d'origine 
         <placeName ana="Haitienne">Haïtienne</placeName>

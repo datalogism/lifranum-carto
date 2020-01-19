@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Anaise_Chavenet_bio">
-    <text ref="http://www.spla.pro/fiche.personne.anaise-chavenet.44780.html">
+    <text ana="Anaise_Chavenet_bio_spla" ref="http://www.spla.pro/fiche.personne.anaise-chavenet.44780.html">
       <p>
         &quot;Née à l'hôpital Saint-Antoine de 
         <placeName ana="Jeremie">Jérémie</placeName>

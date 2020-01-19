@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emeric_Bergeaud_fiche">
-    <person ana="Emeric_Bergeaud" sex="na">
+    <person ana="Emeric_Bergeaud" sex="m">
       <persName>Émeric Bergeaud</persName>
       <idno type="BNF">
         cb13014654b#about
@@ -63,12 +63,11 @@
         <relation ana="Beaubrun_Adouin" source="ile_en_ile_auto">Beaubrun Adouin</relation>
         <relation ana="Faustin_Souloque" source="ile_en_ile_auto">Faustin Souloque</relation>
         <relation ana="Faustin_Ier" source="ile_en_ile_auto">Faustin Ier</relation>
-        <relation ana="Beaubrun_Adouin" source="ile_en_ile_auto">Beaubrun Adouin</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Emeric_Bergeaud_bio">
-    <text hand="Anne Marty" ref="http://ile-en-ile.org/bergeaud/">
+    <text ana="Emeric_Bergeaud_bio_ile_en_ile" hand="Anne Marty" ref="http://ile-en-ile.org/bergeaud/">
       <p>
         <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
          est né aux 
@@ -106,7 +105,7 @@
         . Ils ont réussi leurs objectifs : liberté et indépendance pour leur peuple. Mais la loi ne semble pas avoir été personnellement intériorisée par les deux garçons, puisque jusqu’au dernier moment, elle est incarnée et proférée par Stella qui aussitôt disparaît dans les airs. L’interprétation de la fable permet de dire que les chefs du pays demeurent encore des fils sous l’emprise de la loi maternelle, et non des adultes véritablement affranchis de cette autorité féminine. Mais ce qui importait à l’auteur, semble-t-il, c’était plutôt l’apprentissage collectif du peuple qui a abouti à sa libération et à son indépendance.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.emeric-bergeaud.32105.html">
+    <text ana="Emeric_Bergeaud_bio_spla" ref="http://www.spla.pro/fiche.personne.emeric-bergeaud.32105.html">
       <p>
         <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
          est né aux 
@@ -124,19 +123,25 @@
     </text>
   </div>
   <div n="3" xml:id="Emeric_Bergeaud_biblio">
-    <div ref="http://ile-en-ile.org/bergeaud/" xml:id="Emeric_Bergeaud_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/bergeaud/" xml:id="Emeric_Bergeaud_biblio_auteur_ile_en_ile">
       <list subtype="roman">
         <item>Stella. Beaubrun Adouin, préface. Paris: E. Dentu, 1859; 1887. Nouvelle édition avec une préface d’Anne Marty: Carouge-Genève: Zoé, 2009.</item>
       </list>
       <list subtype="sur l’oeuvre d’émeric bergeaud">
         <item>Hoffmann, Léon-François. Essays on Haitian Literature. Washington, DC: Three Continents, 1984.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Emeric_Bergeaud_web">
     <list type="ile_en_ile">
-      <item ref="http://www.dloc.com/?b=UF00089373">Stella</item>
-      <item ref="http://editionszoe.ch/pagesGenerales/dos/4stella.htm">Stella, par Émeric Bergeaud</item>
+      <item>
+        Stella
+        <ref target="http://www.dloc.com/?b=UF00089373"/>
+      </item>
+      <item>
+        Stella, par Émeric Bergeaud
+        <ref target="http://editionszoe.ch/pagesGenerales/dos/4stella.htm"/>
+      </item>
     </list>
   </div>
 </TEI>

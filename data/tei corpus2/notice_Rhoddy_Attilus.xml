@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Rhoddy_Attilus_bio">
-    <text ref="http://www.spla.pro/fiche.personne.rhoddy-attilus.43531.html">
+    <text ana="Rhoddy_Attilus_bio_spla" ref="http://www.spla.pro/fiche.personne.rhoddy-attilus.43531.html">
       <p>
         Rhoddy Attilus est écrivain. Il est originaire du 
         <placeName ana="Cap_Haitien">Cap Haïtien</placeName>

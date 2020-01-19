@@ -38,7 +38,7 @@
     </person>
   </div>
   <div n="2" xml:id="Denize_Lauture_bio">
-    <text ref="http://ile-en-ile.org/lauture/">
+    <text ana="Denize_Lauture_bio_ile_en_ile" ref="http://ile-en-ile.org/lauture/">
       <p>
         <persName ana="Denize_Lauture">
           Denizé 
@@ -135,7 +135,7 @@
         , LittéRéalité 13.1 (printemps/été 2001).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.denize-lauture.14134.html">
+    <text ana="Denize_Lauture_bio_spla" ref="http://www.spla.pro/fiche.personne.denize-lauture.14134.html">
       <p>
         <persName ana="Denize_Lauture">
           Denizé 
@@ -169,7 +169,7 @@
     </text>
   </div>
   <div n="3" xml:id="Denize_Lauture_biblio">
-    <div ref="http://ile-en-ile.org/lauture/" xml:id="Denize_Lauture_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/lauture/" xml:id="Denize_Lauture_biblio_auteur_ile_en_ile">
       <list subtype="poésie en créole">
         <item>Boula Pou Yon Metamòfoz Zèklè. New York: Bohyo Enterprises, 1987.</item>
       </list>
@@ -194,19 +194,46 @@
       <list subtype="distinctions littéraires">
         <item>1993    NAACP (National Association for the Advancement of Colored People) Image Awards, pour Father and Son.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Denize_Lauture_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/poetry-slam-celebrating-haitian-women/">Denizé Lauture reads reads selections from The Cactus Legend</item>
-      <item ref="http://ile-en-ile.org/denize-lauture-deux-poemes/">Deux poèmes</item>
-      <item ref="http://ile-en-ile.org/denize-lauture-deux-poemes/">Deux poèmes</item>
-      <item ref="http://ile-en-ile.org/denize-lauture-quatre-poemes/">Quatre poèmes</item>
-      <item ref="http://ile-en-ile.org/denize-lauture-quand-donc-verra-t-on-la-danse-des-colombes/">Quand donc verra-t-on la danse des colombes?</item>
-      <item ref="http://www.spdbooks.org/Details.asp?BookID=193006831X">The Black Warrior and Other Poems</item>
-      <item ref="http://www.tanbou.com/2003/summer/poesie.htm">Cet homme universel</item>
-      <item ref="http://clicnet.swarthmore.edu/litterature/moderne/lauture/presentation.html">Poèmes de feu et de soleil</item>
-      <item ref="http://www.tanbou.com/trilingualpress/index.htm">Trilingual Press</item>
+      <item>
+        Denizé Lauture reads reads selections from The Cactus Legend
+        <ref target="http://ile-en-ile.org/poetry-slam-celebrating-haitian-women/"/>
+      </item>
+      <item>
+        Deux poèmes
+        <ref target="http://ile-en-ile.org/denize-lauture-deux-poemes/"/>
+      </item>
+      <item>
+        Deux poèmes
+        <ref target="http://ile-en-ile.org/denize-lauture-deux-poemes/"/>
+      </item>
+      <item>
+        Quatre poèmes
+        <ref target="http://ile-en-ile.org/denize-lauture-quatre-poemes/"/>
+      </item>
+      <item>
+        Quand donc verra-t-on la danse des colombes?
+        <ref target="http://ile-en-ile.org/denize-lauture-quand-donc-verra-t-on-la-danse-des-colombes/"/>
+      </item>
+      <item>
+        The Black Warrior and Other Poems
+        <ref target="http://www.spdbooks.org/Details.asp?BookID=193006831X"/>
+      </item>
+      <item>
+        Cet homme universel
+        <ref target="http://www.tanbou.com/2003/summer/poesie.htm"/>
+      </item>
+      <item>
+        Poèmes de feu et de soleil
+        <ref target="http://clicnet.swarthmore.edu/litterature/moderne/lauture/presentation.html"/>
+      </item>
+      <item>
+        Trilingual Press
+        <ref target="http://www.tanbou.com/trilingualpress/index.htm"/>
+      </item>
     </list>
   </div>
 </TEI>

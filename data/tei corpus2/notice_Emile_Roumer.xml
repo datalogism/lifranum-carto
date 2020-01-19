@@ -63,7 +63,7 @@
     </person>
   </div>
   <div n="2" xml:id="Emile_Roumer_bio">
-    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/roumer/">
+    <text ana="Emile_Roumer_bio_ile_en_ile" hand="Maximilien Laroche" ref="http://ile-en-ile.org/roumer/">
       <p>
         <persName ana="Emile_Roumer">Émile Roumer</persName>
          naît à 
@@ -234,7 +234,7 @@ Littérature tournin en décalcomanie.
     </text>
   </div>
   <div n="3" xml:id="Emile_Roumer_biblio">
-    <div ref="http://ile-en-ile.org/roumer/" xml:id="Emile_Roumer_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/roumer/" xml:id="Emile_Roumer_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Poèmes d’Haïti et de France. Paris: Éditions de La Revue Mondiale, 1925; Port-au-Prince: Panorama, 1972.</item>
       </list>
@@ -247,15 +247,30 @@ Littérature tournin en décalcomanie.
       <list subtype="sur l’oeuvre d’émile roumer">
         <item>Berrou, F. Raphaël et Pradel Pompilius. Deux poètes indigénistes: Carl Brouard et Émile Roumer. Port-au-Prince: Editions Caraïbes, 1974.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Emile_Roumer_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/josaphat-large-presentation-emile-roumer/">Émile Roumer</item>
-      <item ref="http://ile-en-ile.org/emile-roumer-marabout-de-mon-coeur-desespoir/">Marabout de mon cœur</item>
-      <item ref="https://repository.duke.edu/dc/radiohaiti/RL10059-CS-0004_01">Entèvyou Emile Roumer, ekriven</item>
-      <item ref="https://repository.duke.edu/dc/radiohaiti/RL10059-RR-0033_01">Émile Roumer sou lang kreyòl la</item>
-      <item ref="http://www.tanbou.com/2005/PolemiqueEmileRoumer.htm">Polémique sur Émile Roumer</item>
+      <item>
+        Émile Roumer
+        <ref target="http://ile-en-ile.org/josaphat-large-presentation-emile-roumer/"/>
+      </item>
+      <item>
+        Marabout de mon cœur
+        <ref target="http://ile-en-ile.org/emile-roumer-marabout-de-mon-coeur-desespoir/"/>
+      </item>
+      <item>
+        Entèvyou Emile Roumer, ekriven
+        <ref target="https://repository.duke.edu/dc/radiohaiti/RL10059-CS-0004_01"/>
+      </item>
+      <item>
+        Émile Roumer sou lang kreyòl la
+        <ref target="https://repository.duke.edu/dc/radiohaiti/RL10059-RR-0033_01"/>
+      </item>
+      <item>
+        Polémique sur Émile Roumer
+        <ref target="http://www.tanbou.com/2005/PolemiqueEmileRoumer.htm"/>
+      </item>
     </list>
   </div>
 </TEI>

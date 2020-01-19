@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Mario_Blaise_bio">
-    <text ref="http://www.spla.pro/fiche.personne.mario-blaise.3618.html">
+    <text ana="Mario_Blaise_bio_spla" ref="http://www.spla.pro/fiche.personne.mario-blaise.3618.html">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>

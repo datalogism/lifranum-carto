@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Edgard_Gousse_bio">
-    <text ref="http://www.spla.pro/fiche.personne.edgard-gousse.40411.html">
+    <text ana="Edgard_Gousse_bio_spla" ref="http://www.spla.pro/fiche.personne.edgard-gousse.40411.html">
       <p>
         <persName ana="Edgard_Gousse">Edgard Gousse</persName>
          est un écrivain haïtien né à 
@@ -119,7 +119,10 @@
   <div n="3" xml:id="Edgard_Gousse_biblio"/>
   <div n="4" xml:id="Edgard_Gousse_web">
     <list type="spla">
-      <item ref="http://edgardgousseecrivain.unblog.fr/">Website Edgard Gousse </item>
+      <item>
+        Website Edgard Gousse 
+        <ref target="http://edgardgousseecrivain.unblog.fr/"/>
+      </item>
     </list>
   </div>
 </TEI>

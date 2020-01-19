@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Constant_Jeanty_bio">
-    <text ref="http://www.spla.pro/fiche.personne.constant-jeanty.42531.html">
+    <text ana="Constant_Jeanty_bio_spla" ref="http://www.spla.pro/fiche.personne.constant-jeanty.42531.html">
       <p>
         Constant Jeanty est né à Port-au-
         <placeName ana="Prince">Prince</placeName>

@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Lawrence_Hill_bio">
-    <text ref="http://www.spla.pro/fiche.personne.lawrence-hill.31014.html">
+    <text ana="Lawrence_Hill_bio_spla" ref="http://www.spla.pro/fiche.personne.lawrence-hill.31014.html">
       <p>
         Fils d'un Noir et d'une Blanche qui ont quitté les États-Unis pour venir s'établir au 
         <placeName ana="Canada">Canada</placeName>
@@ -68,7 +68,10 @@
   <div n="3" xml:id="Lawrence_Hill_biblio"/>
   <div n="4" xml:id="Lawrence_Hill_web">
     <list type="spla">
-      <item ref="http://www.lawrencehill.com/">Website Lawrence Hill </item>
+      <item>
+        Website Lawrence Hill 
+        <ref target="http://www.lawrencehill.com/"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -38,7 +38,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jean James_Estepha_bio">
-    <text ref="http://www.spla.pro/fiche.personne.jean-james-estepha.45855.html">
+    <text ana="Jean James_Estepha_bio_spla" ref="http://www.spla.pro/fiche.personne.jean-james-estepha.45855.html">
       <p>
         Jean James ESTÉPHA est originaire des Abricots dans le Département de la Grand-Anse d'
         <placeName ana="Haiti">Haïti</placeName>

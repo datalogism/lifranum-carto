@@ -40,7 +40,7 @@
     </person>
   </div>
   <div n="2" xml:id="Massillon_Coicou_bio">
-    <text hand="Tontongi" ref="http://ile-en-ile.org/coicou/">
+    <text ana="Massillon_Coicou_bio_ile_en_ile" hand="Tontongi" ref="http://ile-en-ile.org/coicou/">
       <p>
         <persName ana="Massillon_Coicou">
           Massillon 
@@ -255,7 +255,7 @@ Cotton is king !…  » </p>
          pour Île en île contribue à mieux le faire connaître.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.massillon-coicou.32107.html">
+    <text ana="Massillon_Coicou_bio_spla" ref="http://www.spla.pro/fiche.personne.massillon-coicou.32107.html">
       <p>
         <persName ana="Massillon_Coicou">
           Massillon 
@@ -276,7 +276,7 @@ Cotton is king !…  » </p>
     </text>
   </div>
   <div n="3" xml:id="Massillon_Coicou_biblio">
-    <div ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Poésies nationales (première série). Paris: V. Goupy et Jourdan, 1892; Port-au-Prince: Impr. Panorama, 197-?; Port-au-Prince: Presses Nationales d’Haïti, 2005.</item>
       </list>
@@ -295,22 +295,58 @@ Cotton is king !…  » </p>
       <list subtype="sur massillon coicou">
         <item>Gaillard, Roger. La République exterminatrice, Vol V: Le Grand fauve (1902-1908), Massillon Coicou, le poète assassiné. Port-au-Prince: Le Natal, 1995.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Massillon_Coicou_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/">Complaintes d’esclave</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-le-supplice-du-noir/">Le supplice du noir</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-vertieres/">Vertières</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-yankisme/">Yankisme</item>
-      <item ref="http://ile-en-ile.org/massillon-coicou-heros/">Trois sonnets</item>
-      <item ref="http://ile-en-ile.org/firmin/">Anténor Firmin</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55537">L’exécution du poète</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55153&amp;PubDate=2008-03-08">Une lettre de Massillon Coicou</item>
-      <item ref="http://www.erudit.org/revue/etudlitt/1980/v13/n2/500517ar.pdf">Les États-Unis et les Américains dans les lettres haïtiennes</item>
-      <item ref="http://hometown.aol.com/mit2haiti/MasiyonKwakou.htm">Massillon Coicou / Masiyon Kwakou (1867-1908)</item>
-      <item ref="http://www.refer.sn/ethiopiques/article.php3?id_article=626">Haïti ou la négritude avant la lettre</item>
+      <item>
+        Complaintes d’esclave
+        <ref target="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/"/>
+      </item>
+      <item>
+        Complaintes d’esclave
+        <ref target="http://ile-en-ile.org/massillon-coicou-complaintes-desclave/"/>
+      </item>
+      <item>
+        Le supplice du noir
+        <ref target="http://ile-en-ile.org/massillon-coicou-le-supplice-du-noir/"/>
+      </item>
+      <item>
+        Vertières
+        <ref target="http://ile-en-ile.org/massillon-coicou-vertieres/"/>
+      </item>
+      <item>
+        Yankisme
+        <ref target="http://ile-en-ile.org/massillon-coicou-yankisme/"/>
+      </item>
+      <item>
+        Trois sonnets
+        <ref target="http://ile-en-ile.org/massillon-coicou-heros/"/>
+      </item>
+      <item>
+        Anténor Firmin
+        <ref target="http://ile-en-ile.org/firmin/"/>
+      </item>
+      <item>
+        L’exécution du poète
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55537"/>
+      </item>
+      <item>
+        Une lettre de Massillon Coicou
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=55153&amp;PubDate=2008-03-08"/>
+      </item>
+      <item>
+        Les États-Unis et les Américains dans les lettres haïtiennes
+        <ref target="http://www.erudit.org/revue/etudlitt/1980/v13/n2/500517ar.pdf"/>
+      </item>
+      <item>
+        Massillon Coicou / Masiyon Kwakou (1867-1908)
+        <ref target="http://hometown.aol.com/mit2haiti/MasiyonKwakou.htm"/>
+      </item>
+      <item>
+        Haïti ou la négritude avant la lettre
+        <ref target="http://www.refer.sn/ethiopiques/article.php3?id_article=626"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -26,7 +26,7 @@
     </person>
   </div>
   <div n="2" xml:id="Antenor_Firmin_bio">
-    <text ref="http://ile-en-ile.org/firmin/">
+    <text ana="Antenor_Firmin_bio_ile_en_ile" ref="http://ile-en-ile.org/firmin/">
       <p>
         Joseph-
         <persName ana="Antenor_Firmin">
@@ -256,7 +256,7 @@
     </text>
   </div>
   <div n="3" xml:id="Antenor_Firmin_biblio">
-    <div ref="http://ile-en-ile.org/firmin/" xml:id="Antenor_Firmin_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/firmin/" xml:id="Antenor_Firmin_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>The Equality of the Human Races. Trad. Asselin Charles. Intro. Carolyn Fluehr-Lobban. New York: Garland, 2000. Urbana: University of Illinois Press, 2002.</item>
       </list>
@@ -266,11 +266,14 @@
       <list subtype="sur anténor firmin">
         <item>Dash, J. Michael. « Nineteenth-Century Haiti and the Archipelago of the Americas: Antenor Firmin’s Letters from St. Thomas ». Research in African Literatures 35.2 (Summer 2004): 44-53.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Antenor_Firmin_web">
     <list type="ile_en_ile">
-      <item ref="http://gallica.bnf.fr/ark:/12148/bpt6k84229v.r=firmin.langFR">De l’égalité des races humaines, anthropologie positive</item>
+      <item>
+        De l’égalité des races humaines, anthropologie positive
+        <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k84229v.r=firmin.langFR"/>
+      </item>
     </list>
   </div>
 </TEI>

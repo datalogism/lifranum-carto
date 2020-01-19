@@ -31,15 +31,13 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <listRelation>
         <relation ana="John_Kauss" source="ile_en_ile_auto">John Kauss</relation>
-        <relation ana="John_Kauss" source="ile_en_ile_auto">John Kauss</relation>
         <relation ana="John_Nelson" source="ile_en_ile_auto">John Nelson</relation>
         <relation ana="Mathilde_Pierre" source="ile_en_ile_auto">Mathilde Pierre</relation>
-        <relation ana="John_Kauss" source="ile_en_ile_auto">John Kauss</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Saint_John_Kauss_bio">
-    <text hand="Joelle Constant et Mylène Dorcé" ref="http://ile-en-ile.org/kauss/">
+    <text ana="Saint_John_Kauss_bio_ile_en_ile" hand="Joelle Constant et Mylène Dorcé" ref="http://ile-en-ile.org/kauss/">
       <p>
         Saint-
         <persName ana="John_Kauss">John Kauss</persName>
@@ -122,7 +120,7 @@
          en Marche et Le Nouvelliste. Il travaille présentement à la publication de plusieurs anthologies, essais et dictionnaires littéraires. Son œuvre est marquée par l’exil, le pays, la famille, la tendresse et l’errance. Paroles de traversier dans le temps et l’espace, elle est enracinée dans la mémoire. Son œuvre lui a valu plusieurs distinctions et prix littéraires.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.saint-john-kauss.32111.html">
+    <text ana="Saint_John_Kauss_bio_spla" ref="http://www.spla.pro/fiche.personne.saint-john-kauss.32111.html">
       <p>
         Saint-
         <persName ana="John_Kauss">John Kauss</persName>
@@ -141,7 +139,7 @@
     </text>
   </div>
   <div n="3" xml:id="Saint_John_Kauss_biblio">
-    <div ref="http://ile-en-ile.org/kauss/" xml:id="Saint_John_Kauss_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/kauss/" xml:id="Saint_John_Kauss_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« My Wife With the Brocade Eyes ». Trad. Carrol F. Coates. Callaloo 15.3 (Summer 1992): 701-02.</item>
       </list>
@@ -175,13 +173,22 @@
       <list subtype="sélection de textes publiés sur l’oeuvre de saint-john kauss (en ordre chronologique)">
         <item>Batraville, Dominique. « Saint-John Kauss en kaléidoscope ». Revue des Écoliers 37 (juin 1979).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Saint_John_Kauss_web">
     <list type="ile_en_ile">
-      <item ref="http://www.potomitan.info/kauss/">Saint-John Kauss</item>
-      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
-      <item ref="http://www.fortliberte.tribalpages.com/">Anciennes Familles de Fort-Liberté, Haïti</item>
+      <item>
+        Saint-John Kauss
+        <ref target="http://www.potomitan.info/kauss/"/>
+      </item>
+      <item>
+        Le Nouvelliste
+        <ref target="http://www.lenouvelliste.com/"/>
+      </item>
+      <item>
+        Anciennes Familles de Fort-Liberté, Haïti
+        <ref target="http://www.fortliberte.tribalpages.com/"/>
+      </item>
     </list>
   </div>
 </TEI>

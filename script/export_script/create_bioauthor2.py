@@ -66,6 +66,7 @@ for auth_id in data_viaf.keys():
         auth_id=auth_id.replace("-","_")
         tree = ET.fromstring(xml_str)
         for elem in tree:
+#           print(elem.tag)
            if "viafID" in elem.tag and elem.text:
                current["viaf_id"]=elem.text
            if "birthDate" in elem.tag and elem.text and elem.text!="0":
@@ -92,10 +93,10 @@ for auth_id in data_viaf.keys():
                    if current_co_auth["name"]:
                        current["co_authors"].append(current_co_auth)
                        
-           if "fixed" in elem.tag:
+           if "fixed" in elem.tag :
                for subelem in elem:
-                   if("gender" in subelem.tag and elem.text):
-                       current["gender"]=elem.text
+                   if("gender" in subelem.tag and subelem.text):
+                       current["gender"]=subelem.text
            if "nationalityOfEntity"  in elem.tag:
                for subelem in elem:
                    for subsubelem in subelem:
@@ -235,7 +236,6 @@ for auth in list_authors:
                     data_notices["data_auth"]["viaf"]["gender"]="f"
                 if "b" in data_viaf2[auth]["gender"]:
                     data_notices["data_auth"]["viaf"]["gender"]="m"
-            
             data_notices["data_auth"]["viaf"]["birth_date"]=data_viaf2[auth]["birthDate"]
             data_notices["data_auth"]["viaf"]["death_date"]=data_viaf2[auth]["deathDate"]
             if(len(data_viaf2[auth]["co_authors"])>0):
@@ -259,7 +259,10 @@ for auth in list_authors:
                     if(k=="name"):
                         name_here["name"]=current_bnf[k]["value"]
                     if(k=="gender" and gender is None):
-                        data_notices["data_auth"]["bnf"]["gender"]=current_bnf[k]["value"]
+                        if(current_bnf[k]["value"]=="male"):
+                            data_notices["data_auth"]["bnf"]["gender"]="m"
+                        if(current_bnf[k]["value"]=="female"):
+                            data_notices["data_auth"]["bnf"]["gender"]="f"
                     if(k=="family"):
                         name_here["family"]=current_bnf[k]["value"]
                     if(k=="link" and "viaf" in current_bnf[k]["value"] and id_viaf is None):
@@ -320,7 +323,6 @@ for auth in list_authors:
                 content1=loc_processor.replace_keywords(content0)
                 found_pers = pers_processor2.extract_keywords(content)
                 if(len(found_pers)>0):
-                    print(found_pers)
                     data_notices["data_auth"]["ile_en_ile_auto"]["found_pers"]=[]
                     for pers in found_pers:
                         id_auth_temp=strip_accents("_".join(normalize_names(pers)))
@@ -358,7 +360,6 @@ for auth in list_authors:
                         found_pers = pers_processor2.extract_keywords(bio_content)
                         if(len(found_pers)>0):
                             data_notices["data_auth"]["spla_auto"]["found_pers"]=[]
-                            print(found_pers)
                             for pers in found_pers:
                                 id_auth_temp=strip_accents("_".join(normalize_names(pers)))
                                 if(id_auth_temp!=id_auth):
@@ -403,15 +404,15 @@ for auth in list_authors:
 #    except:
 #        print("PB DURING SAVING Notice")
 
-#from os import walk
-#
-#f = []
-#for (dirpath, dirnames, filenames) in walk("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/"):
-#    f.extend(filenames)
-#    break
-#result=getMaster(f)
-#str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')
-#
-#myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/master_auteurs.xml", "w", "utf-8")
-#myfile.write(str_res)
-#myfile.close()
+from os import walk
+
+f = []
+for (dirpath, dirnames, filenames) in walk("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/"):
+    f.extend(filenames)
+    break
+result=getMaster(f)
+str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')
+
+myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/master_auteurs.xml", "w", "utf-8")
+myfile.write(str_res)
+myfile.close()

@@ -31,12 +31,11 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <listRelation>
         <relation ana="Genevieve_Gaillard" source="ile_en_ile_auto">Geneviève Gaillard</relation>
-        <relation ana="Genevieve_Gaillard" source="ile_en_ile_auto">Geneviève Gaillard</relation>
       </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Genevieve_Gaillard_Vante_bio">
-    <text ref="http://ile-en-ile.org/gaillard-vante/">
+    <text ana="Genevieve_Gaillard_Vante_bio_ile_en_ile" ref="http://ile-en-ile.org/gaillard-vante/">
       <p>
         <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
         -Vanté est née à Port-au-
@@ -67,7 +66,7 @@
         , elle est actuellement spécialiste dans les conceptions de textes publicitaires ainsi que dans le talent de la voix avec plus de deux cents annonces diffusées dans les médias.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.genevieve-gaillard-vante.14110.html">
+    <text ana="Genevieve_Gaillard_Vante_bio_spla" ref="http://www.spla.pro/fiche.personne.genevieve-gaillard-vante.14110.html">
       <p>
         <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
         -Vanté est née à Port-au-
@@ -85,7 +84,7 @@
     </text>
   </div>
   <div n="3" xml:id="Genevieve_Gaillard_Vante_biblio">
-    <div ref="http://ile-en-ile.org/gaillard-vante/" xml:id="Genevieve_Gaillard_Vante_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/gaillard-vante/" xml:id="Genevieve_Gaillard_Vante_biblio_auteur_ile_en_ile">
       <list subtype="en español">
         <item>Sombras del tiempo. (Ombres du temps) Trad. Pierangela Vercesi Villagrán et Claudette Gaillard Cabrera (Guatemala). Inédit.</item>
       </list>
@@ -101,15 +100,30 @@
       <list subtype="prix et distinctions littéraires">
         <item>1997     Editor’s Choice Award, décerné par The National Library of Poetry (Maryland).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Genevieve_Gaillard_Vante_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/genevieve-gaillard-vante-heros-de-bagdad/">Héros de Bagdad </item>
-      <item ref="http://ile-en-ile.org/genevieve-gaillard-vante-ombres-du-temps/">Ombres du temps</item>
-      <item ref="http://ile-en-ile.org/genevieve-gaillard-vante-genevieve-gaillard-vante-une-ebauche-riche-en-emotions/">Geneviève Gaillard-Vanté, </item>
-      <item ref="http://ile-en-ile.org/kiskeya-gaillard-vante-duvalsaint#gaillard">Kiskeya, l’île mystérieuse</item>
-      <item ref="http://www.badosa.com/bin/obra.pl?id=n158">La nuit miraculeuse</item>
+      <item>
+        Héros de Bagdad 
+        <ref target="http://ile-en-ile.org/genevieve-gaillard-vante-heros-de-bagdad/"/>
+      </item>
+      <item>
+        Ombres du temps
+        <ref target="http://ile-en-ile.org/genevieve-gaillard-vante-ombres-du-temps/"/>
+      </item>
+      <item>
+        Geneviève Gaillard-Vanté, 
+        <ref target="http://ile-en-ile.org/genevieve-gaillard-vante-genevieve-gaillard-vante-une-ebauche-riche-en-emotions/"/>
+      </item>
+      <item>
+        Kiskeya, l’île mystérieuse
+        <ref target="http://ile-en-ile.org/kiskeya-gaillard-vante-duvalsaint#gaillard"/>
+      </item>
+      <item>
+        La nuit miraculeuse
+        <ref target="http://www.badosa.com/bin/obra.pl?id=n158"/>
+      </item>
     </list>
   </div>
 </TEI>

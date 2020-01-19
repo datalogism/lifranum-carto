@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rene_Depestre_fiche">
-    <person ana="Rene_Depestre" sex="na">
+    <person ana="Rene_Depestre" sex="m">
       <persName>René Depestre</persName>
       <idno type="BNF">
         cb11899641z#about
@@ -80,7 +80,7 @@
     </person>
   </div>
   <div n="2" xml:id="Rene_Depestre_bio">
-    <text ref="http://ile-en-ile.org/depestre/">
+    <text ana="Rene_Depestre_bio_ile_en_ile" ref="http://ile-en-ile.org/depestre/">
       <p>
         <persName ana="Rene_Depestre">René Depestre</persName>
          naît le 29 août 1926 à 
@@ -305,7 +305,7 @@
       </p>
       <p>Prose traduite également en bulgare et en grec.</p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.rene-depestre.5711.html">
+    <text ana="Rene_Depestre_bio_spla" ref="http://www.spla.pro/fiche.personne.rene-depestre.5711.html">
       <p>
         <persName ana="Rene_Depestre">René Depestre</persName>
          naît le 29 août 1926 à 
@@ -325,7 +325,7 @@
     </text>
   </div>
   <div n="3" xml:id="Rene_Depestre_biblio">
-    <div ref="http://ile-en-ile.org/depestre/" xml:id="Rene_Depestre_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/depestre/" xml:id="Rene_Depestre_biblio_auteur_ile_en_ile">
       <list subtype="ouvrages collectifs">
         <item>Joqueviel-Bourjea, Marie et Béatrice Bonhomme, sous la direction de. René Depestre, le soleil devant. Paris: Hermann, 2015. Textes de: Arnaud Beaujeu, Michael Bishop, Béatrice Bonhomme, Jean-Luc Bonniol, Serge Bourjea, Michael Brophy, Peter Collier, Louis-Philippe Dalembert, Éric Dazzan, Odile Gannier, Chantal de Grandpré, Joëlle Guatelli-Tedeschi, Rémi Guittet, Marie Joqueviel-Bourjea, Michael G. Kelly, Yanick Lahens, Régis Lefort, James Noël, Thierry Ozwald, Ronnie Scharfman, Jean-Luc Steinmetz, Ilda Tomas, André Velter et Arnaud Villani, avec deux textes de René Depestre.</item>
       </list>
@@ -380,30 +380,89 @@
       <list subtype="travaux universitaires sur rené depestre">
         <item>Benedicty, Alessandra. « Vodou, Ethics, and Aesthetics: Haiti and the Creole Poetics of Frankétienne, Jean-Claude Fignolé, and René Depestre ». Thèse de doctorat (Ph.D.), University of Wisconsin, Madison, 2004.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Rene_Depestre_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/depestre-cendres-de-toussaint-louverture/">Les cendres de Toussaint Louverture</item>
-      <item ref="http://ile-en-ile.org/chronologie-de-rene-depestre/">Chronologie de René Depestre</item>
-      <item ref="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#depestre">Hasta la vista</item>
-      <item ref="http://ile-en-ile.org/rene-depestre-le-multiple-ailleurs-dhaiti/">Le multiple ailleurs d’Haïti</item>
-      <item ref="http://ile-en-ile.org/rene-depestre-5-questions-pour-ile-en-ile/">René Depestre, 5 Questions pour Île en île</item>
-      <item ref="http://ile-en-ile.org/rene-depestre-haiti-dans-tous-nos-reves/">René Depestre: Haïti dans tous nos rêves</item>
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
-      <item ref="http://www.monde-diplomatique.fr/2004/04/DEPESTRE/11130">Adresse aux Haïtiens d’aujourd’hui</item>
-      <item ref="http://www.ufrgs.br/cdrom/depestre/">Bom dia e adeus à negritude</item>
-      <item ref="http://www.tanbou.com/2003/summer/GlissantEtDepestre.htm">Déconstruire Édouard Glissant et René Depestre: Questions sur la « créolisation »</item>
-      <item ref="http://www.gallimard.fr/">Éditions Gallimard</item>
-      <item ref="http://caraibe-baroque.over-blog.com/2016/01/Popa_Singer_-eloge-des-humanites-creoles.html">Éloge des humanités créoles</item>
-      <item ref="http://www.medi1.com/archives/archives_sonores.php">archives sonores de Medi1</item>
-      <item ref="http://gradhiva.revues.org/261">Entretien avec René Depestre</item>
-      <item ref="http://www.seattleu.edu/souffles/S09DRAF_/38h_9.HTM">L’intellectuel révolutionnaire et ses responsabilités envers le tiers-monde</item>
-      <item ref="http://www.republique-des-lettres.com/c1/cesaire.php">Petit matin d’Aimé Césaire</item>
-      <item ref="http://www.atelier-n89.com/html/depestre.htm">Photothèque de l’Atelier N89</item>
-      <item ref="http://conflits.revues.org/18265">René Depestre dans les décombres du carnaval</item>
-      <item ref="http://blogs.mediapart.fr/edition/haiti-apres-le-seisme/article/021111/tremblement-de-terre-tremblement-de-l-histoire-en-">Tremblement de terre, tremblement de l’histoire en Haïti</item>
-      <item ref="http://www.lire.fr/critique.asp?idC=34775&amp;idTC=3&amp;idR=218&amp;idG=3">Le Zombie et le haut tortionnaire</item>
+      <item>
+        Les cendres de Toussaint Louverture
+        <ref target="http://ile-en-ile.org/depestre-cendres-de-toussaint-louverture/"/>
+      </item>
+      <item>
+        Chronologie de René Depestre
+        <ref target="http://ile-en-ile.org/chronologie-de-rene-depestre/"/>
+      </item>
+      <item>
+        Hasta la vista
+        <ref target="http://ile-en-ile.org/gerald-bloncourt-les-cinq-glorieuses-de-janvier-1946/#depestre"/>
+      </item>
+      <item>
+        Le multiple ailleurs d’Haïti
+        <ref target="http://ile-en-ile.org/rene-depestre-le-multiple-ailleurs-dhaiti/"/>
+      </item>
+      <item>
+        René Depestre, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/rene-depestre-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        René Depestre: Haïti dans tous nos rêves
+        <ref target="http://ile-en-ile.org/rene-depestre-haiti-dans-tous-nos-reves/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      </item>
+      <item>
+        Adresse aux Haïtiens d’aujourd’hui
+        <ref target="http://www.monde-diplomatique.fr/2004/04/DEPESTRE/11130"/>
+      </item>
+      <item>
+        Bom dia e adeus à negritude
+        <ref target="http://www.ufrgs.br/cdrom/depestre/"/>
+      </item>
+      <item>
+        Déconstruire Édouard Glissant et René Depestre: Questions sur la « créolisation »
+        <ref target="http://www.tanbou.com/2003/summer/GlissantEtDepestre.htm"/>
+      </item>
+      <item>
+        Éditions Gallimard
+        <ref target="http://www.gallimard.fr/"/>
+      </item>
+      <item>
+        Éloge des humanités créoles
+        <ref target="http://caraibe-baroque.over-blog.com/2016/01/Popa_Singer_-eloge-des-humanites-creoles.html"/>
+      </item>
+      <item>
+        archives sonores de Medi1
+        <ref target="http://www.medi1.com/archives/archives_sonores.php"/>
+      </item>
+      <item>
+        Entretien avec René Depestre
+        <ref target="http://gradhiva.revues.org/261"/>
+      </item>
+      <item>
+        L’intellectuel révolutionnaire et ses responsabilités envers le tiers-monde
+        <ref target="http://www.seattleu.edu/souffles/S09DRAF_/38h_9.HTM"/>
+      </item>
+      <item>
+        Petit matin d’Aimé Césaire
+        <ref target="http://www.republique-des-lettres.com/c1/cesaire.php"/>
+      </item>
+      <item>
+        Photothèque de l’Atelier N89
+        <ref target="http://www.atelier-n89.com/html/depestre.htm"/>
+      </item>
+      <item>
+        René Depestre dans les décombres du carnaval
+        <ref target="http://conflits.revues.org/18265"/>
+      </item>
+      <item>
+        Tremblement de terre, tremblement de l’histoire en Haïti
+        <ref target="http://blogs.mediapart.fr/edition/haiti-apres-le-seisme/article/021111/tremblement-de-terre-tremblement-de-l-histoire-en-"/>
+      </item>
+      <item>
+        Le Zombie et le haut tortionnaire
+        <ref target="http://www.lire.fr/critique.asp?idC=34775&amp;idTC=3&amp;idR=218&amp;idG=3"/>
+      </item>
     </list>
   </div>
 </TEI>

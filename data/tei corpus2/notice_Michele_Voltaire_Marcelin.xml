@@ -23,7 +23,7 @@
     </person>
   </div>
   <div n="2" xml:id="Michele_Voltaire_Marcelin_bio">
-    <text ref="http://ile-en-ile.org/voltaire-marcelin/">
+    <text ana="Michele_Voltaire_Marcelin_bio_ile_en_ile" ref="http://ile-en-ile.org/voltaire-marcelin/">
       <p>
         Poète, peintre et comédienne, 
         <persName ana="Michele_Voltaire_Marcelin">Michèle Voltaire Marcelin</persName>
@@ -88,7 +88,7 @@
     </text>
   </div>
   <div n="3" xml:id="Michele_Voltaire_Marcelin_biblio">
-    <div ref="http://ile-en-ile.org/voltaire-marcelin/" xml:id="Michele_Voltaire_Marcelin_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/voltaire-marcelin/" xml:id="Michele_Voltaire_Marcelin_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« True Life ». Trans. Nicole Ball. Haiti Noir 2: The Classics. Ed. Edwidge Danticat. New York: Akashic, 2014: 176-186.</item>
       </list>
@@ -113,30 +113,90 @@
       <list subtype="sur michèle voltaire marcelin">
         <item>Divers articles critiques sur l’oeuvre de Michèle Voltaire Marcelin et des entretiens avec l’auteure ont été publiés dans divers journaux (Le Matin et Le Nouvelliste, quotidiens d’Haïti), et sur des sites web et blogues (par ex., Montray Kreyol, Oprah Radio, Red Keyz Media, La Ventana de la Casa de las Américas). Une sélection se trouve dans les liens ci-dessous.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Michele_Voltaire_Marcelin_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/michele-voltaire-marcelin-5-questions-pour-ile-en-ile/">Michèle Voltaire Marcelin, 5 Questions pour Île en île</item>
-      <item ref="http://www.lidous.net/">La dous ki vyen</item>
-      <item ref="http://www.lechasseurabstrait.com/revue/spip.php?page=sommairex&amp;num=60">Cahier Haïti</item>
-      <item ref="http://www.oprah.com/oprahradio/Haitian-Poet-Michele-Voltaire-Marcelin-Audio">Haitian Poet Michele Voltaire Marcelin</item>
-      <item ref="http://www.pbs.org/newshour/indepth_coverage/entertainment/poetry/profiles/poet_marcelin.html">Michèle Voltaire Marcelin</item>
-      <item ref="http://www.pen.org/author.php/prmAID/791">Michèle Voltaire Marcelin</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=76230">Amour ou bagatelle : selon l’humeur !</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=76230">Amour ou bagatelle : selon l’humeur !</item>
-      <item ref="http://www.redkeyzmedia.com/index.php/component/k2/item/248-haitian-poet-mich%C3%A8le-voltaire-marcelin">Haitian Poet Michèle Voltaire Marcelin</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74574">Vous avez dit « Poésie érotique » ?</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=24703">Un enchantement</item>
-      <item ref="http://www.gensdelacaraibe.org/index.php?option=com_content&amp;view=article&amp;id=4426:le-festival-de-gwoka-jazz-invite-une-conteuse-haitienne-residant-a-new-york&amp;catid=59&amp;Itemid=200006">Le festival de gwoka-jazz invite Michèle Voltaire Marcelin</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=25917">L’éveil du souvenir</item>
-      <item ref="http://laventana.casa.cult.cu/modules.php?name=News&amp;file=article&amp;sid=6265">Todas esas « cosas sin importancia »</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=19907">Vie et mort de l’enfance</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=19907">Ce que poésie veut dire</item>
-      <item ref="http://www.ecured.cu/index.php/Amores_y_cosas_sin_importancia">Amores y cosas sin importancia</item>
-      <item ref="http://www.ecured.cu/index.php/Amores_y_cosas_sin_importancia">Amores y cosas sin importancia</item>
-      <item ref="http://geoffreyphilp.blogspot.com/2010/11/in-my-own-wordsmichele-voltaire.html">In My Own Words… Michèle Voltaire Marcelin</item>
-      <item ref="http://www.granma.cu/ingles/culture-i/17feb-La-cabana.html">Special guests launch new books at La Cabaña</item>
+      <item>
+        Michèle Voltaire Marcelin, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/michele-voltaire-marcelin-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        La dous ki vyen
+        <ref target="http://www.lidous.net/"/>
+      </item>
+      <item>
+        Cahier Haïti
+        <ref target="http://www.lechasseurabstrait.com/revue/spip.php?page=sommairex&amp;num=60"/>
+      </item>
+      <item>
+        Haitian Poet Michele Voltaire Marcelin
+        <ref target="http://www.oprah.com/oprahradio/Haitian-Poet-Michele-Voltaire-Marcelin-Audio"/>
+      </item>
+      <item>
+        Michèle Voltaire Marcelin
+        <ref target="http://www.pbs.org/newshour/indepth_coverage/entertainment/poetry/profiles/poet_marcelin.html"/>
+      </item>
+      <item>
+        Michèle Voltaire Marcelin
+        <ref target="http://www.pen.org/author.php/prmAID/791"/>
+      </item>
+      <item>
+        Amour ou bagatelle : selon l’humeur !
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=76230"/>
+      </item>
+      <item>
+        Amour ou bagatelle : selon l’humeur !
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=76230"/>
+      </item>
+      <item>
+        Haitian Poet Michèle Voltaire Marcelin
+        <ref target="http://www.redkeyzmedia.com/index.php/component/k2/item/248-haitian-poet-mich%C3%A8le-voltaire-marcelin"/>
+      </item>
+      <item>
+        Vous avez dit « Poésie érotique » ?
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74574"/>
+      </item>
+      <item>
+        Un enchantement
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=24703"/>
+      </item>
+      <item>
+        Le festival de gwoka-jazz invite Michèle Voltaire Marcelin
+        <ref target="http://www.gensdelacaraibe.org/index.php?option=com_content&amp;view=article&amp;id=4426:le-festival-de-gwoka-jazz-invite-une-conteuse-haitienne-residant-a-new-york&amp;catid=59&amp;Itemid=200006"/>
+      </item>
+      <item>
+        L’éveil du souvenir
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=25917"/>
+      </item>
+      <item>
+        Todas esas « cosas sin importancia »
+        <ref target="http://laventana.casa.cult.cu/modules.php?name=News&amp;file=article&amp;sid=6265"/>
+      </item>
+      <item>
+        Vie et mort de l’enfance
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=19907"/>
+      </item>
+      <item>
+        Ce que poésie veut dire
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=19907"/>
+      </item>
+      <item>
+        Amores y cosas sin importancia
+        <ref target="http://www.ecured.cu/index.php/Amores_y_cosas_sin_importancia"/>
+      </item>
+      <item>
+        Amores y cosas sin importancia
+        <ref target="http://www.ecured.cu/index.php/Amores_y_cosas_sin_importancia"/>
+      </item>
+      <item>
+        In My Own Words… Michèle Voltaire Marcelin
+        <ref target="http://geoffreyphilp.blogspot.com/2010/11/in-my-own-wordsmichele-voltaire.html"/>
+      </item>
+      <item>
+        Special guests launch new books at La Cabaña
+        <ref target="http://www.granma.cu/ingles/culture-i/17feb-La-cabana.html"/>
+      </item>
     </list>
   </div>
 </TEI>

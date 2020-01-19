@@ -40,7 +40,7 @@
     </person>
   </div>
   <div n="2" xml:id="Fernand_Hibbert_bio">
-    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/hibbert/">
+    <text ana="Fernand_Hibbert_bio_ile_en_ile" hand="Nadève Ménard" ref="http://ile-en-ile.org/hibbert/">
       <p>
         <persName ana="Fernand_Hibbert">Fernand Hibbert</persName>
          est né le 30 octobre 1873 à 
@@ -125,7 +125,7 @@
         , 1975).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.fernand-hibbert.14115.html">
+    <text ana="Fernand_Hibbert_bio_spla" ref="http://www.spla.pro/fiche.personne.fernand-hibbert.14115.html">
       <p>
         <persName ana="Fernand_Hibbert">Fernand Hibbert</persName>
          est né le 30 octobre 1873 à 
@@ -145,7 +145,7 @@
     </text>
   </div>
   <div n="3" xml:id="Fernand_Hibbert_biblio">
-    <div ref="http://ile-en-ile.org/hibbert/" xml:id="Fernand_Hibbert_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/hibbert/" xml:id="Fernand_Hibbert_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>Romulus; A Novella from 19th Century Haiti. Trans. Matthew Robertshaw. Aylmer (Québec): Deux Voiliers, 2014.</item>
       </list>
@@ -164,12 +164,18 @@
       <list subtype="sur l’oeuvre de fernand hibbert">
         <item>Feldman, Yvette Tardieu. « De la colonie à l’occupation: les étrangers chez Fernand Hibbert ». Conjonction 122-123 (1974): 23-38.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Fernand_Hibbert_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/fernand-hibbert-la-confession-de-m-thazar/">La Confession de M. Thazar</item>
-      <item ref="https://www.deuxvoilierspublishing.com/romulus-vendors">Romulus</item>
+      <item>
+        La Confession de M. Thazar
+        <ref target="http://ile-en-ile.org/fernand-hibbert-la-confession-de-m-thazar/"/>
+      </item>
+      <item>
+        Romulus
+        <ref target="https://www.deuxvoilierspublishing.com/romulus-vendors"/>
+      </item>
     </list>
   </div>
 </TEI>

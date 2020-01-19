@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rodney_Saint_Eloi_fiche">
-    <person ana="Rodney_Saint_Eloi" sex="na">
+    <person ana="Rodney_Saint_Eloi" sex="m">
       <persName>Rodney Saint Éloi</persName>
       <birth source="viaf">
         <date>1963-08-27</date>
@@ -46,7 +46,7 @@
     </person>
   </div>
   <div n="2" xml:id="Rodney_Saint_Eloi_bio">
-    <text ref="http://ile-en-ile.org/saint-eloi/">
+    <text ana="Rodney_Saint_Eloi_bio_ile_en_ile" ref="http://ile-en-ile.org/saint-eloi/">
       <p>
         <persName ana="Rodney_Saint">Rodney Saint</persName>
         -Éloi naît le 27 août 1963 à 
@@ -124,7 +124,7 @@
     </text>
   </div>
   <div n="3" xml:id="Rodney_Saint_Eloi_biblio">
-    <div ref="http://ile-en-ile.org/saint-eloi/" xml:id="Rodney_Saint_Eloi_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/saint-eloi/" xml:id="Rodney_Saint_Eloi_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« The Blue Hill ». Nicole Ball, trad. Haiti Noir. Edwidge Danticat, éd. New York: Akashic, 2011: 302-309.</item>
       </list>
@@ -149,27 +149,78 @@
       <list subtype="distinctions littéraires">
         <item>1997    Mention spéciale de la revue Vwa, Chaux de fond, Suisse.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Rodney_Saint_Eloi_web">
     <list type="ile_en_ile">
-      <item ref="http://www.memoiredencrier.com/">Éditions Mémoire d’encrier</item>
-      <item ref="http://ile-en-ile.org/boutures/">Boutures</item>
-      <item ref="http://ile-en-ile.org/saint-eloi-francophonie/">Problématique de l’ex-centricité</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-bonjour-cayenne/">Bonjour Cayenne</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/">Blues au tombeau de Dennery Ménélas</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/">Blues au tombeau de Dennery Ménélas</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-faire-lire-aujourdhui-en-haiti/">Faire lire aujourd’hui en Haïti</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-haiti-theatre-de-recuperation/">Haïti: Théâtre de récupération</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-quels-livres-pour-quels-lecteurs/">Quels livres pour quels lecteurs?</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-lecture-de-poesie/">Lecture de poésie</item>
-      <item ref="http://ile-en-ile.org/rodney-saint-eloi-5-questions-pour-ile-en-ile/">Rodney Saint-Éloi, 5 Questions pour Île en île</item>
-      <item ref="https://youtu.be/40fx3Smb1lQ?t=5m35s">Canapé</item>
-      <item ref="http://youtu.be/3Kh5-luFuBc">Récitatif au pays des ombres</item>
-      <item ref="http://www.voixdecrivains.net/ha_steloi.html">Rodney Saint-Éloi</item>
-      <item ref="http://www.rfi.fr/fichiers/MFI/CultureSociete/1455.asp">Rodney Saint-Éloi, activiste poétique</item>
-      <item ref="http://radiospirale.org/capsule/rencontre-avec-rodney-saint-eloi">Rencontre avec Rodnet Saint-Éloi</item>
-      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item>
+        Éditions Mémoire d’encrier
+        <ref target="http://www.memoiredencrier.com/"/>
+      </item>
+      <item>
+        Boutures
+        <ref target="http://ile-en-ile.org/boutures/"/>
+      </item>
+      <item>
+        Problématique de l’ex-centricité
+        <ref target="http://ile-en-ile.org/saint-eloi-francophonie/"/>
+      </item>
+      <item>
+        Bonjour Cayenne
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-bonjour-cayenne/"/>
+      </item>
+      <item>
+        Blues au tombeau de Dennery Ménélas
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/"/>
+      </item>
+      <item>
+        Blues au tombeau de Dennery Ménélas
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-blues-au-tombeau-de-dennery-menelas/"/>
+      </item>
+      <item>
+        Faire lire aujourd’hui en Haïti
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-faire-lire-aujourdhui-en-haiti/"/>
+      </item>
+      <item>
+        Haïti: Théâtre de récupération
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-haiti-theatre-de-recuperation/"/>
+      </item>
+      <item>
+        Quels livres pour quels lecteurs?
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-quels-livres-pour-quels-lecteurs/"/>
+      </item>
+      <item>
+        Lecture de poésie
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-lecture-de-poesie/"/>
+      </item>
+      <item>
+        Rodney Saint-Éloi, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/rodney-saint-eloi-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        Canapé
+        <ref target="https://youtu.be/40fx3Smb1lQ?t=5m35s"/>
+      </item>
+      <item>
+        Récitatif au pays des ombres
+        <ref target="http://youtu.be/3Kh5-luFuBc"/>
+      </item>
+      <item>
+        Rodney Saint-Éloi
+        <ref target="http://www.voixdecrivains.net/ha_steloi.html"/>
+      </item>
+      <item>
+        Rodney Saint-Éloi, activiste poétique
+        <ref target="http://www.rfi.fr/fichiers/MFI/CultureSociete/1455.asp"/>
+      </item>
+      <item>
+        Rencontre avec Rodnet Saint-Éloi
+        <ref target="http://radiospirale.org/capsule/rencontre-avec-rodney-saint-eloi"/>
+      </item>
+      <item>
+        Le Nouvelliste
+        <ref target="http://www.lenouvelliste.com/"/>
+      </item>
     </list>
   </div>
 </TEI>

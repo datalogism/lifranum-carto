@@ -35,7 +35,10 @@
   <div n="3" xml:id="Margaret_Mitchell_Armand_biblio"/>
   <div n="4" xml:id="Margaret_Mitchell_Armand_web">
     <list type="spla">
-      <item ref="http://www.margaretmitchellarmand.com/">Website Margaret Mitchell Armand </item>
+      <item>
+        Website Margaret Mitchell Armand 
+        <ref target="http://www.margaretmitchellarmand.com/"/>
+      </item>
     </list>
   </div>
 </TEI>

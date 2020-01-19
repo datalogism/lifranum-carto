@@ -28,7 +28,7 @@
     </person>
   </div>
   <div n="2" xml:id="Nehemy_Pierre_Dahomey_bio">
-    <text ref="http://ile-en-ile.org/pierre-dahomey/">
+    <text ana="Nehemy_Pierre_Dahomey_bio_ile_en_ile" ref="http://ile-en-ile.org/pierre-dahomey/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -70,7 +70,7 @@
     </text>
   </div>
   <div n="3" xml:id="Nehemy_Pierre_Dahomey_biblio">
-    <div ref="http://ile-en-ile.org/pierre-dahomey/" xml:id="Nehemy_Pierre_Dahomey_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/pierre-dahomey/" xml:id="Nehemy_Pierre_Dahomey_biblio_auteur_ile_en_ile">
       <list subtype="auf deutsch">
         <item>Die Zurück gekehrten. Trad. Lena Müller. Hamburg: Nautilus, 2018.</item>
       </list>
@@ -80,19 +80,46 @@
       <list subtype="prix et distinctions littéraires">
         <item>2017     Prix Révélation de la Société des Gens de Lettres (SGDL), pour Rapatriés.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Nehemy_Pierre_Dahomey_web">
     <list type="ile_en_ile">
-      <item ref="https://youtu.be/JAxIYKyGvvo">Présentation de Rapatriés</item>
-      <item ref="https://youtu.be/JAxIYKyGvvo">Présentation de Rapatriés</item>
-      <item ref="https://youtu.be/l_x2s_dn0vs">En attendant Nadeau, avec Pierre Benetti</item>
-      <item ref="http://ici.radio-canada.ca/premiere/emissions/medium-large/segments/entrevue/34284/rapatrie-nehemy-pierre-dahomey">Rapatriés : le recul poétique de Néhémy Pierre-Dahomey</item>
-      <item ref="http://octaviana.fr/items/browse?collection=364">La Bibliothèque francophone reçoit Néhémy Pierre-Dahomey</item>
-      <item ref="https://www.noto-revue.fr/lire-noto/lire-noto-numero11/">Je n’ai pas tué Amandine</item>
-      <item ref="https://www.marianne.net/culture/pasionarias-haitiennes">Pasionarias haïtiennes</item>
-      <item ref="http://lenouvelliste.com/article/171779/rapatries-le-fantasme-dune-vie-renouvelee">Rapatriés, le fantasme d’une vie renouvelée</item>
-      <item ref="http://www.ledevoir.com/culture/livres/505652/nehemy-pierre-dahomey-les-frontieres-sont-nuisibles">Les frontières sont nuisibles dénonce Néhémy Pierre-Dahomey</item>
+      <item>
+        Présentation de Rapatriés
+        <ref target="https://youtu.be/JAxIYKyGvvo"/>
+      </item>
+      <item>
+        Présentation de Rapatriés
+        <ref target="https://youtu.be/JAxIYKyGvvo"/>
+      </item>
+      <item>
+        En attendant Nadeau, avec Pierre Benetti
+        <ref target="https://youtu.be/l_x2s_dn0vs"/>
+      </item>
+      <item>
+        Rapatriés : le recul poétique de Néhémy Pierre-Dahomey
+        <ref target="http://ici.radio-canada.ca/premiere/emissions/medium-large/segments/entrevue/34284/rapatrie-nehemy-pierre-dahomey"/>
+      </item>
+      <item>
+        La Bibliothèque francophone reçoit Néhémy Pierre-Dahomey
+        <ref target="http://octaviana.fr/items/browse?collection=364"/>
+      </item>
+      <item>
+        Je n’ai pas tué Amandine
+        <ref target="https://www.noto-revue.fr/lire-noto/lire-noto-numero11/"/>
+      </item>
+      <item>
+        Pasionarias haïtiennes
+        <ref target="https://www.marianne.net/culture/pasionarias-haitiennes"/>
+      </item>
+      <item>
+        Rapatriés, le fantasme d’une vie renouvelée
+        <ref target="http://lenouvelliste.com/article/171779/rapatries-le-fantasme-dune-vie-renouvelee"/>
+      </item>
+      <item>
+        Les frontières sont nuisibles dénonce Néhémy Pierre-Dahomey
+        <ref target="http://www.ledevoir.com/culture/livres/505652/nehemy-pierre-dahomey-les-frontieres-sont-nuisibles"/>
+      </item>
     </list>
   </div>
 </TEI>

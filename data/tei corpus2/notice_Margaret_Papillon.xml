@@ -23,7 +23,7 @@
     </person>
   </div>
   <div n="2" xml:id="Margaret_Papillon_bio">
-    <text hand="Margaret Papillon" ref="http://ile-en-ile.org/papillon_margaret/">
+    <text ana="Margaret_Papillon_bio_ile_en_ile" hand="Margaret Papillon" ref="http://ile-en-ile.org/papillon_margaret/">
       <p>
         <persName ana="Margaret_Papillon">Margaret Papillon</persName>
          est née le 14 novembre 1958 à Port-au-
@@ -77,7 +77,7 @@
     </text>
   </div>
   <div n="3" xml:id="Margaret_Papillon_biblio">
-    <div ref="http://ile-en-ile.org/papillon_margaret/" xml:id="Margaret_Papillon_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/papillon_margaret/" xml:id="Margaret_Papillon_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>The Legend of Quisqueya. Trans. Edith Jonsson-Devillers. Miami: Butterfly Publications, 2012. Pour d’autres traductions de nouvelles, voir les liens ci-dessous.</item>
       </list>
@@ -114,33 +114,100 @@
       <list subtype="expositions de peinture sélectionnées">
         <item>1993    Participation au concours Biennale de Peinture. Osaka, Japon.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Margaret_Papillon_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/margaret-papillon-5-questions-pour-ile-en-ile/">Margaret Papillon, 5 Questions pour Île en île</item>
-      <item ref="http://ile-en-ile.org/margaret-papillon-les-infideles/">Les Infidèles</item>
-      <item ref="http://ile-en-ile.org/margaret-papillon-les-infideles/">Les Infidèles</item>
-      <item ref="http://ile-en-ile.org/margaret-papillon-innocents-fantasmes-un-roman-ose/">Innocents fantasmes</item>
-      <item ref="http://ile-en-ile.org/margaret-papillon-la-legende-de-quisqueya/">La Légende de Quisqueya</item>
-      <item ref="http://ile-en-ile.org/margaret-papillon-la-legende-de-quisqueya-ii/">La Légende de Quisqueya II: Xaragua, la cité perdue</item>
-      <item ref="http://ile-en-ile.org/margaret-papillon-mathieu-et-le-vieux-mage-au-regard-denfant/">Mathieu et le vieux mage au regard d’enfant</item>
-      <item ref="http://ile-en-ile.org/sortileges-au-carnaval-de-jacmel/">Sortilèges au carnaval de Jacmel</item>
-      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
-      <item ref="http://ile-en-ile.org/monique-agenor-be-maho/"/>
-      <item ref="http://www.capsules.haitimonde.com/spip.php?article231&amp;lang=fr">Terre sauvage</item>
-      <item ref="http://www.capsules.haitimonde.com/spip.php?article231&amp;lang=fr">Terre sauvage</item>
-      <item ref="http://www.capsules.haitimonde.com/spip.php?article247&amp;lang=fr">Le Trésor de la Citadelle Laferrière</item>
-      <item ref="http://www.pikliz.com/">Pikliz.com</item>
-      <item ref="http://www.pikliz.com/angie.htm">Angie (ange et démons)</item>
-      <item ref="http://web.archive.org/web/20110715083913/http://www.pikliz.com/LaMalaim%E9e.htm">La Mal-Aimée</item>
-      <item ref="http://roroli.com/">Roroli.com</item>
-      <item ref="http://roroli.com/news/new_histoires.php?subaction=showfull&amp;id=1238193314&amp;archive=1341007860&amp;start_from=&amp;ucat=10&amp;">On a kidnappé la morte</item>
-      <item ref="http://www.wattpad.com/9053395-the-kidnapping">The kidnapping</item>
-      <item ref="http://www.wattpad.com/9053395-the-kidnapping">The kidnapping</item>
-      <item ref="http://www.wattpad.com/9040012-amen">Amen</item>
-      <item ref="http://writersofhaiti.com/papillon/">Méprisa Lamour</item>
-      <item ref="http://writersofhaiti.com/papillon/">Méprisa Lamour</item>
+      <item>
+        Margaret Papillon, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/margaret-papillon-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        Les Infidèles
+        <ref target="http://ile-en-ile.org/margaret-papillon-les-infideles/"/>
+      </item>
+      <item>
+        Les Infidèles
+        <ref target="http://ile-en-ile.org/margaret-papillon-les-infideles/"/>
+      </item>
+      <item>
+        Innocents fantasmes
+        <ref target="http://ile-en-ile.org/margaret-papillon-innocents-fantasmes-un-roman-ose/"/>
+      </item>
+      <item>
+        La Légende de Quisqueya
+        <ref target="http://ile-en-ile.org/margaret-papillon-la-legende-de-quisqueya/"/>
+      </item>
+      <item>
+        La Légende de Quisqueya II: Xaragua, la cité perdue
+        <ref target="http://ile-en-ile.org/margaret-papillon-la-legende-de-quisqueya-ii/"/>
+      </item>
+      <item>
+        Mathieu et le vieux mage au regard d’enfant
+        <ref target="http://ile-en-ile.org/margaret-papillon-mathieu-et-le-vieux-mage-au-regard-denfant/"/>
+      </item>
+      <item>
+        Sortilèges au carnaval de Jacmel
+        <ref target="http://ile-en-ile.org/sortileges-au-carnaval-de-jacmel/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      </item>
+      <item>
+        <ref target="http://ile-en-ile.org/monique-agenor-be-maho/"/>
+      </item>
+      <item>
+        Terre sauvage
+        <ref target="http://www.capsules.haitimonde.com/spip.php?article231&amp;lang=fr"/>
+      </item>
+      <item>
+        Terre sauvage
+        <ref target="http://www.capsules.haitimonde.com/spip.php?article231&amp;lang=fr"/>
+      </item>
+      <item>
+        Le Trésor de la Citadelle Laferrière
+        <ref target="http://www.capsules.haitimonde.com/spip.php?article247&amp;lang=fr"/>
+      </item>
+      <item>
+        Pikliz.com
+        <ref target="http://www.pikliz.com/"/>
+      </item>
+      <item>
+        Angie (ange et démons)
+        <ref target="http://www.pikliz.com/angie.htm"/>
+      </item>
+      <item>
+        La Mal-Aimée
+        <ref target="http://web.archive.org/web/20110715083913/http://www.pikliz.com/LaMalaim%E9e.htm"/>
+      </item>
+      <item>
+        Roroli.com
+        <ref target="http://roroli.com/"/>
+      </item>
+      <item>
+        On a kidnappé la morte
+        <ref target="http://roroli.com/news/new_histoires.php?subaction=showfull&amp;id=1238193314&amp;archive=1341007860&amp;start_from=&amp;ucat=10&amp;"/>
+      </item>
+      <item>
+        The kidnapping
+        <ref target="http://www.wattpad.com/9053395-the-kidnapping"/>
+      </item>
+      <item>
+        The kidnapping
+        <ref target="http://www.wattpad.com/9053395-the-kidnapping"/>
+      </item>
+      <item>
+        Amen
+        <ref target="http://www.wattpad.com/9040012-amen"/>
+      </item>
+      <item>
+        Méprisa Lamour
+        <ref target="http://writersofhaiti.com/papillon/"/>
+      </item>
+      <item>
+        Méprisa Lamour
+        <ref target="http://writersofhaiti.com/papillon/"/>
+      </item>
     </list>
   </div>
 </TEI>

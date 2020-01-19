@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Elie_Fleurant_bio">
-    <text ref="http://www.spla.pro/fiche.personne.elie-fleurant.49633.html">
+    <text ana="Elie_Fleurant_bio_spla" ref="http://www.spla.pro/fiche.personne.elie-fleurant.49633.html">
       <p>
         &quot;Élie Fleurant est un poète-philosophe, éducateur, inventeur, historien d'origine haitienne. Né au Cap-Haitien, il a fait ses études primaires et secondaires au Collège Notre-Dame du Perpétuel Secours de sa ville natale. C'est en 1969 qu'il a émigré aux État-Unis. L'auteur est titulaire d'une license en psychologie et éducation de Oswego State University de 
         <placeName ana="New_York">New York</placeName>
@@ -46,7 +46,10 @@
   <div n="3" xml:id="Elie_Fleurant_biblio"/>
   <div n="4" xml:id="Elie_Fleurant_web">
     <list type="spla">
-      <item ref="http://www.elifleurant.com">Website Elie Fleurant </item>
+      <item>
+        Website Elie Fleurant 
+        <ref target="http://www.elifleurant.com"/>
+      </item>
     </list>
   </div>
 </TEI>

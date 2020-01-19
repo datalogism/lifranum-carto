@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Georges_Sylvain_fiche">
-    <person ana="Georges_Sylvain" sex="na">
+    <person ana="Georges_Sylvain" sex="m">
       <persName>Georges Sylvain</persName>
       <idno type="BNF">
         cb11088759g#about
@@ -49,7 +49,7 @@
     </person>
   </div>
   <div n="2" xml:id="Georges_Sylvain_bio">
-    <text hand="Dieulermesson Petit Frère" ref="http://ile-en-ile.org/sylvain_georges/">
+    <text ana="Georges_Sylvain_bio_ile_en_ile" hand="Dieulermesson Petit Frère" ref="http://ile-en-ile.org/sylvain_georges/">
       <p>
         Poète, essayiste, diplomate et homme politique, 
         <persName ana="Georges_Sylvain">Georges Sylvain</persName>
@@ -135,7 +135,7 @@
     </text>
   </div>
   <div n="3" xml:id="Georges_Sylvain_biblio">
-    <div ref="http://ile-en-ile.org/sylvain_georges/" xml:id="Georges_Sylvain_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/sylvain_georges/" xml:id="Georges_Sylvain_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Confidences et Mélancolies. Paris: Ateliers haïtiens, 1901; Imprimerie Henri Deschamps, 1975, 1979; Port-au-Prince: Presses nationales d’Haïti, 2005; Port-au-Prince: Legs Édition, 2014.</item>
       </list>
@@ -151,12 +151,18 @@
       <list subtype="sur l’oeuvre de georges sylvain">
         <item>Anon. « En relisant Cric ? Crac !, de Georges Sylvain ». L’Informateur haïtien, Port-au-Prince (21 avril 1919).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Georges_Sylvain_web">
     <list type="ile_en_ile">
-      <item ref="http://pinzweb.com/national/georges-sylvain-un-opposant-farouche-de-loccupation-americaine-de-1915-par-schultz">Georges Sylvain, un opposant farouche de l’occupation américaine de 1915</item>
-      <item ref="https://lenouvelliste.com/article/130180/la-grande-soeur-de-georges-sylvain">La grande sœur de Georges Sylvain</item>
+      <item>
+        Georges Sylvain, un opposant farouche de l’occupation américaine de 1915
+        <ref target="http://pinzweb.com/national/georges-sylvain-un-opposant-farouche-de-loccupation-americaine-de-1915-par-schultz"/>
+      </item>
+      <item>
+        La grande sœur de Georges Sylvain
+        <ref target="https://lenouvelliste.com/article/130180/la-grande-soeur-de-georges-sylvain"/>
+      </item>
     </list>
   </div>
 </TEI>

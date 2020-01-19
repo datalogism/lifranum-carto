@@ -26,7 +26,7 @@
     </person>
   </div>
   <div n="2" xml:id="Paulette_Poujol_Oriol_bio">
-    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/poujol-oriol/">
+    <text ana="Paulette_Poujol_Oriol_bio_ile_en_ile" hand="Joëlle Vitiello" ref="http://ile-en-ile.org/poujol-oriol/">
       <p>
         <persName ana="Paulette_Poujol_Oriol">Paulette Poujol Oriol</persName>
          est née le 12 mai 1926 à Port-au-
@@ -96,7 +96,7 @@
     </text>
   </div>
   <div n="3" xml:id="Paulette_Poujol_Oriol_biblio">
-    <div ref="http://ile-en-ile.org/poujol-oriol/" xml:id="Paulette_Poujol_Oriol_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/poujol-oriol/" xml:id="Paulette_Poujol_Oriol_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>« From The Melting Pot » (extrait du Creuset). Trans. Carrol F. Coates. Callaloo  15.2 (Spring 1992): 490-94.</item>
       </list>
@@ -125,22 +125,58 @@
       <list subtype="sur paulette poujol oriol">
         <item>Dossier spécial, « Paulette Poujol Oriol: Woven Tales, Voice &amp; Feminism ».  The Journal of Haitian Studies 17.1 (Spring 2011): 5-58, 246-257. Articles, hommages et un entretien, par: Robert Berroët-Oriol, Carrol F. Coates, Edwidge Danticat, Kettly Mars, Nadève Ménard, Thomas C. Spear, Lucía M. Suárez, Gina Athena Ulysse, Chantalle F. Verna, Joëlle Vitiello.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Paulette_Poujol_Oriol_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-lucette/">Lucette</item>
-      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-luz/">Luz</item>
-      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-oresca/">Oresca</item>
-      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-le-passage/">Le Passage</item>
-      <item ref="http://ile-en-ile.org/paulette-poujol-oriol-5-questions-pour-ile-en-ile/">Paulette Poujol Oriol, 5 Questions pour Île en île</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=57675">La lecture, vice impuni de Paulette P. Oriol</item>
-      <item ref="http://www.jasminenarcisse.com/memoire/11_litterature/04_paulette.html">Paulette Poujol-Oriol</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=90136&amp;PubDate=2011-03-11">Décès de l’écrivain et femme de théâtre Paulette Poujol Oriol</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=90195">Hommage à Paulette Poujol-Oriol</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=90399">Paulette Poujol Oriol a tourné la page…</item>
-      <item ref="http://www.wwohd.org/In_Memoriam.html">Lettre à mon grand volcan: Paulette Poujol Oriol</item>
-      <item ref="http://msmagazine.com/blog/blog/2011/03/29/the-legacy-of-haitian-feminist-paulette-poujol-oriol/">The Legacy of Haitian Feminist Paulette Poujol-Oriol</item>
+      <item>
+        Lucette
+        <ref target="http://ile-en-ile.org/paulette-poujol-oriol-lucette/"/>
+      </item>
+      <item>
+        Luz
+        <ref target="http://ile-en-ile.org/paulette-poujol-oriol-luz/"/>
+      </item>
+      <item>
+        Oresca
+        <ref target="http://ile-en-ile.org/paulette-poujol-oriol-oresca/"/>
+      </item>
+      <item>
+        Le Passage
+        <ref target="http://ile-en-ile.org/paulette-poujol-oriol-le-passage/"/>
+      </item>
+      <item>
+        Paulette Poujol Oriol, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/paulette-poujol-oriol-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        La lecture, vice impuni de Paulette P. Oriol
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=57675"/>
+      </item>
+      <item>
+        Paulette Poujol-Oriol
+        <ref target="http://www.jasminenarcisse.com/memoire/11_litterature/04_paulette.html"/>
+      </item>
+      <item>
+        Décès de l’écrivain et femme de théâtre Paulette Poujol Oriol
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=90136&amp;PubDate=2011-03-11"/>
+      </item>
+      <item>
+        Hommage à Paulette Poujol-Oriol
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=90195"/>
+      </item>
+      <item>
+        Paulette Poujol Oriol a tourné la page…
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=90399"/>
+      </item>
+      <item>
+        Lettre à mon grand volcan: Paulette Poujol Oriol
+        <ref target="http://www.wwohd.org/In_Memoriam.html"/>
+      </item>
+      <item>
+        The Legacy of Haitian Feminist Paulette Poujol-Oriol
+        <ref target="http://msmagazine.com/blog/blog/2011/03/29/the-legacy-of-haitian-feminist-paulette-poujol-oriol/"/>
+      </item>
     </list>
   </div>
 </TEI>

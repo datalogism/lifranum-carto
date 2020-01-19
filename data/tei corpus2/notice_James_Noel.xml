@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="James_Noel_fiche">
-    <person ana="James_Noel" sex="na">
+    <person ana="James_Noel" sex="m">
       <persName>James Noël</persName>
       <idno type="BNF">
         cb15993246v#about
@@ -61,7 +61,7 @@
     </person>
   </div>
   <div n="2" xml:id="James_Noel_bio">
-    <text ref="http://ile-en-ile.org/noel/">
+    <text ana="James_Noel_bio_ile_en_ile" ref="http://ile-en-ile.org/noel/">
       <p>
         <persName ana="James_Noel">James Noël</persName>
          naît le 17* 
@@ -194,7 +194,7 @@ Vous pouvez le suivre sur Twitter.
     </text>
   </div>
   <div n="3" xml:id="James_Noel_biblio">
-    <div ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_biblio_auteur_ile_en_ile">
       <list subtype="auf deutsch">
         <item>Die größte der Raubkatzen. Ausgewählte Gedichte / Le plus grand des félins. Poèmes choisis. Trad. Rike Bolte. Trier (Trèves, Allemagne): Litradukt, 2018.</item>
       </list>
@@ -228,42 +228,138 @@ Vous pouvez le suivre sur Twitter.
       <list subtype="sur l’oeuvre de james noël">
         <item>Aizier, Jean-Philippe. « James Noël » Journal Littéraire 66 (février 2006).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="James_Noel_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/james-noel-bon-nouvel/">Bon Nouvèl</item>
-      <item ref="http://ile-en-ile.org/james-noel-deux-poemes/">La Foudre</item>
-      <item ref="http://ile-en-ile.org/james-noel-5-questions-pour-ile-en-ile/">James Noël, 5 Questions pour Île en île</item>
-      <item ref="http://ile-en-ile.org/james-noel-le-sang-visible-du-vitrier-extraits/">James Noël, Le sang visible du vitrier</item>
-      <item ref="http://ile-en-ile.org/kiskeya-james-noel/">Kiskeya, l’île mystérieuse</item>
-      <item ref="http://ile-en-ile.org/james-noel-poeme-de-la-main-gauche-jeu-de-mort/">Poème de la main gauche</item>
-      <item ref="http://james-noel.hautetfort.com/">Cœuritoire</item>
-      <item ref="https://blogs.mediapart.fr/james-noel/blog">Saxophonies</item>
-      <item ref="https://youtu.be/byvAGGhcKcw">Lancement de la revue IntranQu’îllités</item>
-      <item ref="http://www.fipradio.fr/diffusion-reecoute-fip-livre-ses-musiques-la-migration-des-murs-de-james-noel">FIP Livre ses musiques : « La migration des murs » de James Noël</item>
-      <item ref="https://youtu.be/3azDn7ld7Fo">Aux jours sombres, les amis inconnus – Arthur H &amp; James Noël</item>
-      <item ref="https://youtu.be/G0Zf4frVbKw">1e</item>
-      <item ref="https://youtu.be/N_Gb7VbAgMQ"> James Noël, poète enragé</item>
-      <item ref="https://web.archive.org/web/20110826032312/http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=44099">La pureté ambiguë</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/article/53273/James-Noel-Monsieur-le-poete">James Noël : Monsieur le poète !</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/article/109607/James-Noel-au-Theatre-des-Expositions-a-Rome">James Noël au Théâtre des Expositions à Rome</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/article/116553/James-Noel-ou-le-pyromane-adolescent">James Noël ou le pyromane adolescent</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/article/136931/James-Noel-lIntranQuile">James Noël, l’IntranQu’île</item>
-      <item ref="http://lenouvelliste.com/article/173671/james-noel-fait-des-vagues-a-la-3e-edition-de-vagues-litteraires">James Noël fait des vagues à la 3e édition de Vagues littéraires</item>
-      <item ref="http://lenouvelliste.com/lenouvelliste/recherche">archives du journal</item>
-      <item ref="http://blogs.mediapart.fr/blog/patrice-beray/130113/la-migration-des-murs-de-james-noel">La migration des murs, de James Noël</item>
-      <item ref="http://www.alterpresse.org/article.php3?id_article=4780">« Le sang visible du vitrier » Haiti : Sauf-conduit poétique d’un iconoclaste multi récidiviste</item>
-      <item ref="https://mjdesvignes.wordpress.com/2017/06/10/belle-merveille-james-sacre-zulma-aout-2017/">Belle merveille – James Noël – Editions Zulma – août 2017</item>
-      <item ref="https://www.nytimes.com/2014/11/21/movies/haitian-diaspora-in-stones-in-the-sun.html">The Old Country Never Goes Away ; Haitian Diaspora in ‘Stones in the Sun’</item>
-      <item ref="https://shadowandact.com/ayiti-mon-amour-post-earthquake-haitian-cinema">‘Ayiti Mon Amour’ &amp; Post-Earthquake Haitian Cinema</item>
-      <item ref="http://www.loophaiti.com/content/un-haitien-distingue-par-un-ancien-ministre-francais-de-la-culture">Un Haïtien nommé Chevalier de l’Ordre des Arts et des Lettres</item>
-      <item ref="https://studifrancesi.revues.org/5463">Anthologie de la poésie haïtienne contemporaine, éd. James Noël</item>
-      <item ref="https://www.letemps.ch/culture/2016/04/22/james-noel-ecume-vers">James Noël, dans l’écume des vers</item>
-      <item ref="https://traversees.wordpress.com/2017/01/09/james-noel-la-migration-des-murs-galaade-2016/">James Noël – La migration des murs – Galaade 2016</item>
-      <item ref="http://education.hauts-de-seine.net/portal/site/education/culture-colleges/projets-culture-jeunes/college-cinema-danse-chant-atelier-cinema-theatre/1313/e298570da4f06110VgnVCM100000860aa8c0RCRD.vhtml">Poésie caribéenne, « une fête à la santé des mots » </item>
-      <item ref="http://www.canalacademie.com/ida3945-Du-Chili-d-Haiti-et-de-France-Poesies-de-langue-francaise-5-11.html">Du Chili, d’Haïti et de France : Poésies de langue française</item>
-      <item ref="https://www.franceinter.fr/emissions/dans-quel-monde-on-vit/dans-quel-monde-on-vit-21-aout-2017">Haïti, mon amour, avec James Noël &amp; Corentin Fohlen</item>
+      <item>
+        Bon Nouvèl
+        <ref target="http://ile-en-ile.org/james-noel-bon-nouvel/"/>
+      </item>
+      <item>
+        La Foudre
+        <ref target="http://ile-en-ile.org/james-noel-deux-poemes/"/>
+      </item>
+      <item>
+        James Noël, 5 Questions pour Île en île
+        <ref target="http://ile-en-ile.org/james-noel-5-questions-pour-ile-en-ile/"/>
+      </item>
+      <item>
+        James Noël, Le sang visible du vitrier
+        <ref target="http://ile-en-ile.org/james-noel-le-sang-visible-du-vitrier-extraits/"/>
+      </item>
+      <item>
+        Kiskeya, l’île mystérieuse
+        <ref target="http://ile-en-ile.org/kiskeya-james-noel/"/>
+      </item>
+      <item>
+        Poème de la main gauche
+        <ref target="http://ile-en-ile.org/james-noel-poeme-de-la-main-gauche-jeu-de-mort/"/>
+      </item>
+      <item>
+        Cœuritoire
+        <ref target="http://james-noel.hautetfort.com/"/>
+      </item>
+      <item>
+        Saxophonies
+        <ref target="https://blogs.mediapart.fr/james-noel/blog"/>
+      </item>
+      <item>
+        Lancement de la revue IntranQu’îllités
+        <ref target="https://youtu.be/byvAGGhcKcw"/>
+      </item>
+      <item>
+        FIP Livre ses musiques : « La migration des murs » de James Noël
+        <ref target="http://www.fipradio.fr/diffusion-reecoute-fip-livre-ses-musiques-la-migration-des-murs-de-james-noel"/>
+      </item>
+      <item>
+        Aux jours sombres, les amis inconnus – Arthur H &amp; James Noël
+        <ref target="https://youtu.be/3azDn7ld7Fo"/>
+      </item>
+      <item>
+        1e
+        <ref target="https://youtu.be/G0Zf4frVbKw"/>
+      </item>
+      <item>
+         James Noël, poète enragé
+        <ref target="https://youtu.be/N_Gb7VbAgMQ"/>
+      </item>
+      <item>
+        La pureté ambiguë
+        <ref target="https://web.archive.org/web/20110826032312/http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=44099"/>
+      </item>
+      <item>
+        James Noël : Monsieur le poète !
+        <ref target="http://lenouvelliste.com/lenouvelliste/article/53273/James-Noel-Monsieur-le-poete"/>
+      </item>
+      <item>
+        James Noël au Théâtre des Expositions à Rome
+        <ref target="http://lenouvelliste.com/lenouvelliste/article/109607/James-Noel-au-Theatre-des-Expositions-a-Rome"/>
+      </item>
+      <item>
+        James Noël ou le pyromane adolescent
+        <ref target="http://lenouvelliste.com/lenouvelliste/article/116553/James-Noel-ou-le-pyromane-adolescent"/>
+      </item>
+      <item>
+        James Noël, l’IntranQu’île
+        <ref target="http://lenouvelliste.com/lenouvelliste/article/136931/James-Noel-lIntranQuile"/>
+      </item>
+      <item>
+        James Noël fait des vagues à la 3e édition de Vagues littéraires
+        <ref target="http://lenouvelliste.com/article/173671/james-noel-fait-des-vagues-a-la-3e-edition-de-vagues-litteraires"/>
+      </item>
+      <item>
+        archives du journal
+        <ref target="http://lenouvelliste.com/lenouvelliste/recherche"/>
+      </item>
+      <item>
+        La migration des murs, de James Noël
+        <ref target="http://blogs.mediapart.fr/blog/patrice-beray/130113/la-migration-des-murs-de-james-noel"/>
+      </item>
+      <item>
+        « Le sang visible du vitrier » Haiti : Sauf-conduit poétique d’un iconoclaste multi récidiviste
+        <ref target="http://www.alterpresse.org/article.php3?id_article=4780"/>
+      </item>
+      <item>
+        Belle merveille – James Noël – Editions Zulma – août 2017
+        <ref target="https://mjdesvignes.wordpress.com/2017/06/10/belle-merveille-james-sacre-zulma-aout-2017/"/>
+      </item>
+      <item>
+        The Old Country Never Goes Away ; Haitian Diaspora in ‘Stones in the Sun’
+        <ref target="https://www.nytimes.com/2014/11/21/movies/haitian-diaspora-in-stones-in-the-sun.html"/>
+      </item>
+      <item>
+        ‘Ayiti Mon Amour’ &amp; Post-Earthquake Haitian Cinema
+        <ref target="https://shadowandact.com/ayiti-mon-amour-post-earthquake-haitian-cinema"/>
+      </item>
+      <item>
+        Un Haïtien nommé Chevalier de l’Ordre des Arts et des Lettres
+        <ref target="http://www.loophaiti.com/content/un-haitien-distingue-par-un-ancien-ministre-francais-de-la-culture"/>
+      </item>
+      <item>
+        Anthologie de la poésie haïtienne contemporaine, éd. James Noël
+        <ref target="https://studifrancesi.revues.org/5463"/>
+      </item>
+      <item>
+        James Noël, dans l’écume des vers
+        <ref target="https://www.letemps.ch/culture/2016/04/22/james-noel-ecume-vers"/>
+      </item>
+      <item>
+        James Noël – La migration des murs – Galaade 2016
+        <ref target="https://traversees.wordpress.com/2017/01/09/james-noel-la-migration-des-murs-galaade-2016/"/>
+      </item>
+      <item>
+        Poésie caribéenne, « une fête à la santé des mots » 
+        <ref target="http://education.hauts-de-seine.net/portal/site/education/culture-colleges/projets-culture-jeunes/college-cinema-danse-chant-atelier-cinema-theatre/1313/e298570da4f06110VgnVCM100000860aa8c0RCRD.vhtml"/>
+      </item>
+      <item>
+        Du Chili, d’Haïti et de France : Poésies de langue française
+        <ref target="http://www.canalacademie.com/ida3945-Du-Chili-d-Haiti-et-de-France-Poesies-de-langue-francaise-5-11.html"/>
+      </item>
+      <item>
+        Haïti, mon amour, avec James Noël &amp; Corentin Fohlen
+        <ref target="https://www.franceinter.fr/emissions/dans-quel-monde-on-vit/dans-quel-monde-on-vit-21-aout-2017"/>
+      </item>
     </list>
   </div>
 </TEI>

@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Sophia_Desir_bio">
-    <text ref="http://www.spla.pro/fiche.personne.sophia-desir.39601.html">
+    <text ana="Sophia_Desir_bio_spla" ref="http://www.spla.pro/fiche.personne.sophia-desir.39601.html">
       <p>
          Née le 21 janvier 1969, Sophia Désir a grandi aux 
         <placeName ana="Cayes">Cayes</placeName>

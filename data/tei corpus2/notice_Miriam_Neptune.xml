@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Miriam_Neptune_bio">
-    <text ref="http://www.spla.pro/fiche.personne.miriam-neptune.14781.html">
+    <text ana="Miriam_Neptune_bio_spla" ref="http://www.spla.pro/fiche.personne.miriam-neptune.14781.html">
       <p>
         Miriam Neptune a une 
         <placeName ana="Maitrise">Maîtrise</placeName>
@@ -44,7 +44,10 @@
   <div n="3" xml:id="Miriam_Neptune_biblio"/>
   <div n="4" xml:id="Miriam_Neptune_web">
     <list type="spla">
-      <item ref="http://neptunemir.github.io/webpage/">Website Miriam Neptune </item>
+      <item>
+        Website Miriam Neptune 
+        <ref target="http://neptunemir.github.io/webpage/"/>
+      </item>
     </list>
   </div>
 </TEI>

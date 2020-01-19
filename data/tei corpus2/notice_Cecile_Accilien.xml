@@ -28,7 +28,7 @@
     </person>
   </div>
   <div n="2" xml:id="Cecile_Accilien_bio">
-    <text ref="http://www.spla.pro/fiche.personne.cecile-accilien.22014.html">
+    <text ana="Cecile_Accilien_bio_spla" ref="http://www.spla.pro/fiche.personne.cecile-accilien.22014.html">
       <p>
         Cécile Accilien est professeur titulaire de littératures et cultures francophones à l'université de Columbus en Georgie. Ses recherches sont axées sur les cultures francophones des 
         <placeName ana="Caraibes">Caraïbes</placeName>

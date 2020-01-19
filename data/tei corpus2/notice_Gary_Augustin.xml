@@ -36,7 +36,7 @@
     </person>
   </div>
   <div n="2" xml:id="Gary_Augustin_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/augustin/">
+    <text ana="Gary_Augustin_bio_ile_en_ile" hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/augustin/">
       <p>
         Poète, journaliste et critique, 
         <persName ana="Gary_Augustin">Gary Augustin</persName>
@@ -109,7 +109,7 @@ Comme une flaque
 Sur le pavé</p>
       <p>Il est décédé le 2 septembre 2014.</p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gary-augustin.14054.html">
+    <text ana="Gary_Augustin_bio_spla" ref="http://www.spla.pro/fiche.personne.gary-augustin.14054.html">
       <p>
         Poète, journaliste et critique, 
         <persName ana="Gary_Augustin">Gary Augustin</persName>
@@ -126,7 +126,7 @@ Sur le pavé</p>
     </text>
   </div>
   <div n="3" xml:id="Gary_Augustin_biblio">
-    <div ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Girandole du jour. Port-au-Prince: Éditions Mémoire, 1994, 60 p.</item>
       </list>
@@ -142,13 +142,22 @@ Sur le pavé</p>
       <list subtype="sur gary augustin">
         <item>Alexis, Alix Dominique. « Girandole du jour, une poésie sous le signe de la lumière ». Le Nouvel Informateur 17 (1994).</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Gary_Augustin_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/gary-augustin-cinq-poemes/">Cinq poèmes</item>
-      <item ref="http://ile-en-ile.org/gary-augustin-poesie/">« Visions », « Trajectoire », « Comme un chant » et « Tiga »</item>
-      <item ref="http://www.espacioblog.com/sectioneducative/post/2006/12/08/questions-du-poete-gary-augustin-au-poete-georges-castera">Questions du poète Gary Augustin au poète Georges Castera</item>
+      <item>
+        Cinq poèmes
+        <ref target="http://ile-en-ile.org/gary-augustin-cinq-poemes/"/>
+      </item>
+      <item>
+        « Visions », « Trajectoire », « Comme un chant » et « Tiga »
+        <ref target="http://ile-en-ile.org/gary-augustin-poesie/"/>
+      </item>
+      <item>
+        Questions du poète Gary Augustin au poète Georges Castera
+        <ref target="http://www.espacioblog.com/sectioneducative/post/2006/12/08/questions-du-poete-gary-augustin-au-poete-georges-castera"/>
+      </item>
     </list>
   </div>
 </TEI>

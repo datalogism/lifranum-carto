@@ -37,7 +37,7 @@
     </person>
   </div>
   <div n="2" xml:id="Max_Dorsinville_bio">
-    <text hand="H. Nigel Thomas" ref="http://ile-en-ile.org/dorsinville_max/">
+    <text ana="Max_Dorsinville_bio_ile_en_ile" hand="H. Nigel Thomas" ref="http://ile-en-ile.org/dorsinville_max/">
       <p>
         <persName ana="Max_Dorsinville">
           Max 
@@ -260,7 +260,7 @@
          a été largement cité – comme, par exemple, par Ashcroft, Griffiths et Tiffin dans The Empire Writes Back  (1989) – (et, parfois, j’ajouterai, sans lui donner le crédit qui lui revient), sa fiction reste cependant inconnue, en général.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.max-dorsinville.32109.html">
+    <text ana="Max_Dorsinville_bio_spla" ref="http://www.spla.pro/fiche.personne.max-dorsinville.32109.html">
       <p>
         <persName ana="Max_Dorsinville">
           Max 
@@ -285,7 +285,7 @@
     </text>
   </div>
   <div n="3" xml:id="Max_Dorsinville_biblio">
-    <div ref="http://ile-en-ile.org/dorsinville_max/" xml:id="Max_Dorsinville_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/dorsinville_max/" xml:id="Max_Dorsinville_biblio_auteur_ile_en_ile">
       <list subtype="essais">
         <item>Caliban Without Prospero: Essay on Quebec and Black Literature. Erin (Ontario): Press Porcépic, 1974.</item>
       </list>
@@ -304,16 +304,34 @@
       <list subtype="sur l’oeuvre de max dorsinville">
         <item>Ashcroft, Bill, Gareth Griffiths and Helen Tiffin. The Empire Writes Back: Theory and Practice in Post-Colonial Literatures. London and New York: Routledge, 1989.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Max_Dorsinville_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/max-dorsinville-nous-sommes-tous-des-refugies/">Nous sommes tous des réfugiés</item>
-      <item ref="http://ile-en-ile.org/dorsinville_roger/">Roger Dorsinville</item>
-      <item ref="http://id.erudit.org/iderudit/500368ar">Caliban Without Prospero</item>
-      <item ref="http://mellenpress.com/">Edwin Mellen Press</item>
-      <item ref="http://www.arts.mcgill.ca/english/people/dorsinville.html">Max Dorsinville</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=35958">Max H. Dorsinville fouille dans les « Mémoires de la décolonisation »</item>
+      <item>
+        Nous sommes tous des réfugiés
+        <ref target="http://ile-en-ile.org/max-dorsinville-nous-sommes-tous-des-refugies/"/>
+      </item>
+      <item>
+        Roger Dorsinville
+        <ref target="http://ile-en-ile.org/dorsinville_roger/"/>
+      </item>
+      <item>
+        Caliban Without Prospero
+        <ref target="http://id.erudit.org/iderudit/500368ar"/>
+      </item>
+      <item>
+        Edwin Mellen Press
+        <ref target="http://mellenpress.com/"/>
+      </item>
+      <item>
+        Max Dorsinville
+        <ref target="http://www.arts.mcgill.ca/english/people/dorsinville.html"/>
+      </item>
+      <item>
+        Max H. Dorsinville fouille dans les « Mémoires de la décolonisation »
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=35958"/>
+      </item>
     </list>
   </div>
 </TEI>

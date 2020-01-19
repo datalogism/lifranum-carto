@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Marc_Leo_Laroche_bio">
-    <text ref="http://www.spla.pro/fiche.personne.marc-leo-laroche.14133.html">
+    <text ana="Marc_Leo_Laroche_bio_spla" ref="http://www.spla.pro/fiche.personne.marc-leo-laroche.14133.html">
       <p>
         <persName ana="Marc_Leo">Marc Léo</persName>
          Laroche est né le 30 juin 1940 à 

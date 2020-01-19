@@ -38,7 +38,7 @@
     </person>
   </div>
   <div n="2" xml:id="Jeanie_Bogart_bio">
-    <text ref="http://ile-en-ile.org/bogart/">
+    <text ana="Jeanie_Bogart_bio_ile_en_ile" ref="http://ile-en-ile.org/bogart/">
       <p>
         <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
          est née le 29 septembre 1970 aux 
@@ -122,7 +122,7 @@
         ).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jeanie-bogart.32106.html">
+    <text ana="Jeanie_Bogart_bio_spla" ref="http://www.spla.pro/fiche.personne.jeanie-bogart.32106.html">
       <p>
         Née en 
         <placeName ana="Haiti">Haïti</placeName>
@@ -163,7 +163,7 @@
     </text>
   </div>
   <div n="3" xml:id="Jeanie_Bogart_biblio">
-    <div ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Un jour… Tes pantoufles. Montréal: Paroles, 2008, 48 p.</item>
       </list>
@@ -176,34 +176,106 @@
       <list subtype="discographie">
         <item> Lettres d’automne / Tanlapli. Montréal: Paroles, 2007. Textes de Franz Benjamin, avec les voix de Franz Benjamin, Jeanie Bogart et Emeline Michel, avec Oswald Durand Jr. (guitare et flûte) et Jean-Claude Julien (clavier et percussions). Disque compact.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Jeanie_Bogart_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/jeanie-bogart-a-la-foli/">A la foli</item>
-      <item ref="http://ile-en-ile.org/jeanie-bogart-trois-poems/">Jeanie Bogart reads « Le cri » and other poems</item>
-      <item ref="http://fr.netlog.com/jeaniebj">Jeanie Bogart</item>
-      <item ref="http://www.potomitan.info/kauss/eloge.php">Éloge de l’interlocuteur</item>
-      <item ref="http://www.potomitan.info/ayiti/bogart/index.php">Jeanie Bogart Jourdain</item>
-      <item ref="http://lavilledescayes.com/index.php/component/content/article/48-ecrivain/166-jeanie-bogart?directory=138">Jeanie Bogart</item>
-      <item ref="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=448">Jeanie Bogart</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46758">John Steve Brunache se dit prêt à recommencer…</item>
-      <item ref="http://www.lulu.com/product/couverture-souple/paradoxe/16810499?showPreview">Paradoxe</item>
-      <item ref="http://www.csmsmagazine.org/">CSMS Magazine</item>
-      <item ref="http://csmsmagazine.org/?p=1912">Un hommage à Maurice Sixto</item>
-      <item ref="http://csmsmagazine.org/?p=1872">Le jeu de mots de Franz Benjamin</item>
-      <item ref="http://csmsmagazine.org/?p=1846">Plaies intérimaires</item>
-      <item ref="http://csmsmagazine.org/?p=1841">John Steve Brunache revient tout feu tout flamme</item>
-      <item ref="http://csmsmagazine.org/?p=1665">La première école publique franco-américaine bientôt à New York</item>
-      <item ref="http://csmsmagazine.org/?p=1622">Les ruminations de Lenous Suprice</item>
-      <item ref="http://csmsmagazine.org/?p=111">Yon Langay pou rakonte lanmou</item>
-      <item ref="http://csmsmagazine.org/?p=1440">Rencontre avec Jeanie Bogart</item>
-      <item ref="http://csmsmagazine.org/?p=314">Un Jour Tes Pantoufles: An intriguing collection of poetry</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=64043">L’amour et les mots</item>
-      <item ref="http://waybackmachine.org/*/http://www.lematinhaiti.com/Journal/34015.pdf">Un jour… Tes pantoufles</item>
-      <item ref="http://www.lenouvelliste.com/articles.print/1/65913">Une gerbe d’amour pour les opprimés</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=68769">Robenson Bernard écrit à la poétesse Jeanie Bogart</item>
-      <item ref="http://csmsmagazine.org/?p=296">Dènye Rèl: A holiday treat from Jeanie Bogart</item>
+      <item>
+        A la foli
+        <ref target="http://ile-en-ile.org/jeanie-bogart-a-la-foli/"/>
+      </item>
+      <item>
+        Jeanie Bogart reads « Le cri » and other poems
+        <ref target="http://ile-en-ile.org/jeanie-bogart-trois-poems/"/>
+      </item>
+      <item>
+        Jeanie Bogart
+        <ref target="http://fr.netlog.com/jeaniebj"/>
+      </item>
+      <item>
+        Éloge de l’interlocuteur
+        <ref target="http://www.potomitan.info/kauss/eloge.php"/>
+      </item>
+      <item>
+        Jeanie Bogart Jourdain
+        <ref target="http://www.potomitan.info/ayiti/bogart/index.php"/>
+      </item>
+      <item>
+        Jeanie Bogart
+        <ref target="http://lavilledescayes.com/index.php/component/content/article/48-ecrivain/166-jeanie-bogart?directory=138"/>
+      </item>
+      <item>
+        Jeanie Bogart
+        <ref target="http://www.maisondelapoesie.be/textes_et_poemes/textes_et_poemes.php?id=448"/>
+      </item>
+      <item>
+        John Steve Brunache se dit prêt à recommencer…
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=46758"/>
+      </item>
+      <item>
+        Paradoxe
+        <ref target="http://www.lulu.com/product/couverture-souple/paradoxe/16810499?showPreview"/>
+      </item>
+      <item>
+        CSMS Magazine
+        <ref target="http://www.csmsmagazine.org/"/>
+      </item>
+      <item>
+        Un hommage à Maurice Sixto
+        <ref target="http://csmsmagazine.org/?p=1912"/>
+      </item>
+      <item>
+        Le jeu de mots de Franz Benjamin
+        <ref target="http://csmsmagazine.org/?p=1872"/>
+      </item>
+      <item>
+        Plaies intérimaires
+        <ref target="http://csmsmagazine.org/?p=1846"/>
+      </item>
+      <item>
+        John Steve Brunache revient tout feu tout flamme
+        <ref target="http://csmsmagazine.org/?p=1841"/>
+      </item>
+      <item>
+        La première école publique franco-américaine bientôt à New York
+        <ref target="http://csmsmagazine.org/?p=1665"/>
+      </item>
+      <item>
+        Les ruminations de Lenous Suprice
+        <ref target="http://csmsmagazine.org/?p=1622"/>
+      </item>
+      <item>
+        Yon Langay pou rakonte lanmou
+        <ref target="http://csmsmagazine.org/?p=111"/>
+      </item>
+      <item>
+        Rencontre avec Jeanie Bogart
+        <ref target="http://csmsmagazine.org/?p=1440"/>
+      </item>
+      <item>
+        Un Jour Tes Pantoufles: An intriguing collection of poetry
+        <ref target="http://csmsmagazine.org/?p=314"/>
+      </item>
+      <item>
+        L’amour et les mots
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=64043"/>
+      </item>
+      <item>
+        Un jour… Tes pantoufles
+        <ref target="http://waybackmachine.org/*/http://www.lematinhaiti.com/Journal/34015.pdf"/>
+      </item>
+      <item>
+        Une gerbe d’amour pour les opprimés
+        <ref target="http://www.lenouvelliste.com/articles.print/1/65913"/>
+      </item>
+      <item>
+        Robenson Bernard écrit à la poétesse Jeanie Bogart
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=68769"/>
+      </item>
+      <item>
+        Dènye Rèl: A holiday treat from Jeanie Bogart
+        <ref target="http://csmsmagazine.org/?p=296"/>
+      </item>
     </list>
   </div>
 </TEI>

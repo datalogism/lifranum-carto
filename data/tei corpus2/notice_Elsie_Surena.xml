@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Elsie_Surena_fiche">
-    <person ana="Elsie_Surena" sex="na">
+    <person ana="Elsie_Surena" sex="f">
       <persName>Elsie Suréna</persName>
       <idno type="BNF">
         cb162671147#about
@@ -49,7 +49,7 @@
     </person>
   </div>
   <div n="2" xml:id="Elsie_Surena_bio">
-    <text ref="http://ile-en-ile.org/surena/">
+    <text ana="Elsie_Surena_bio_ile_en_ile" ref="http://ile-en-ile.org/surena/">
       <p>
         <persName ana="Elsie_Surena">Elsie Suréna</persName>
          est née le 9* juin 1956 à Port-au-
@@ -125,7 +125,7 @@
     </text>
   </div>
   <div n="3" xml:id="Elsie_Surena_biblio">
-    <div ref="http://ile-en-ile.org/surena/" xml:id="Elsie_Surena_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/surena/" xml:id="Elsie_Surena_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Mélodies pour Soirs de Fine Pluie. Port-au-Prince: Presses Nationales d’Haïti, 2002.</item>
       </list>
@@ -148,19 +148,46 @@ Figure au programme du Collège Saint Martial (Port-au-Prince), du Cours Édmée
       <list subtype="sur l’oeuvre d’elsie suréna">
         <item>Charles, Christophe. « Connaissez-vous les mélodies de Suréna ? ». L’Union (3 février 2003): 15.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Elsie_Surena_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/elsie-surena-deux-poemes/">Deux poèmes par Elsie Suréna</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=70976">Haïti à l’honneur à Paris</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=73972&amp;PubDate=2009-09-10">Du côté de chez Suréna</item>
-      <item ref="http://www.potomitan.info/ayiti/surena/">Elsie Suréna</item>
-      <item ref="http://www.100pour100haiku.fr/revue_ploc/Ploc_revue_haiku_numero_6.pdf">Haïbun ; Retour à Camp-Perrin</item>
-      <item ref="http://575.tempslibres.org/aphp/phaiku1.php?auteur=sure-e">Haïkus</item>
-      <item ref="http://www.windowsonhaiti.com/hfphoto/surena/">The Photography of Elsie Suréna</item>
-      <item ref="http://www.tanbou.com/2005/pwezi.htm">Poukisa</item>
-      <item ref="http://www.bukante.net/fr/haikus.htm">Haïkus d’un soir</item>
+      <item>
+        Deux poèmes par Elsie Suréna
+        <ref target="http://ile-en-ile.org/elsie-surena-deux-poemes/"/>
+      </item>
+      <item>
+        Haïti à l’honneur à Paris
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=70976"/>
+      </item>
+      <item>
+        Du côté de chez Suréna
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=73972&amp;PubDate=2009-09-10"/>
+      </item>
+      <item>
+        Elsie Suréna
+        <ref target="http://www.potomitan.info/ayiti/surena/"/>
+      </item>
+      <item>
+        Haïbun ; Retour à Camp-Perrin
+        <ref target="http://www.100pour100haiku.fr/revue_ploc/Ploc_revue_haiku_numero_6.pdf"/>
+      </item>
+      <item>
+        Haïkus
+        <ref target="http://575.tempslibres.org/aphp/phaiku1.php?auteur=sure-e"/>
+      </item>
+      <item>
+        The Photography of Elsie Suréna
+        <ref target="http://www.windowsonhaiti.com/hfphoto/surena/"/>
+      </item>
+      <item>
+        Poukisa
+        <ref target="http://www.tanbou.com/2005/pwezi.htm"/>
+      </item>
+      <item>
+        Haïkus d’un soir
+        <ref target="http://www.bukante.net/fr/haikus.htm"/>
+      </item>
     </list>
   </div>
 </TEI>

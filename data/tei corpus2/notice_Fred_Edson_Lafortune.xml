@@ -36,7 +36,7 @@
     </person>
   </div>
   <div n="2" xml:id="Fred_Edson_Lafortune_bio">
-    <text hand="Jean Watson Charles et James Pubien" ref="http://ile-en-ile.org/lafortune/">
+    <text ana="Fred_Edson_Lafortune_bio_ile_en_ile" hand="Jean Watson Charles et James Pubien" ref="http://ile-en-ile.org/lafortune/">
       <p>
         <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
          nait le 31 juillet 1982 à Anse-à-Veau (
@@ -158,7 +158,7 @@ Tel ce coucher de
          pour structurer la de-construction et éviter du coup la luxure.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.fred-edson-lafortune.32114.html">
+    <text ana="Fred_Edson_Lafortune_bio_spla" ref="http://www.spla.pro/fiche.personne.fred-edson-lafortune.32114.html">
       <p>
         <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
          nait le 31 juillet 1982 à Anse-à-Veau (
@@ -190,7 +190,7 @@ Tel ce coucher de
     </text>
   </div>
   <div n="3" xml:id="Fred_Edson_Lafortune_biblio">
-    <div ref="http://ile-en-ile.org/lafortune/" xml:id="Fred_Edson_Lafortune_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/lafortune/" xml:id="Fred_Edson_Lafortune_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>En nulle autre. Mazères (France): le Chasseur abstrait, 2009.</item>
       </list>
@@ -215,24 +215,66 @@ Tel ce coucher de
       <list subtype="sur l’oeuvre de fred edson lafortune">
         <item>« Fred Edson Lafortune ». L’Ouvre Boîte 80 (été 2008): 50.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Fred_Edson_Lafortune_web">
     <list type="ile_en_ile">
-      <item ref="http://frededsonlafortune.hautetfort.com/">Fred Edson Lafortune</item>
-      <item ref="http://www.tanbou.com/2008/pwezi082008.htm">Ann al lazil…</item>
-      <item ref="http://www.tanbou.com/2008/pwezi082008.htm">Ann al lazil…</item>
-      <item ref="http://www.lechasseurabstrait.com/revue/-Fred-Edson-LAFORTUNE-">Fred Edson Lafortune</item>
-      <item ref="http://poesie.webnet.fr/vospoemes/poemes/fred_edson_lafortune/fred_edson_lafortune.html">Fred Edson Lafortune</item>
-      <item ref="http://www.tanbou.com/2006/summer/poesie.htm">Reflet</item>
-      <item ref="http://www.culturessud.com/contenu.php?id=150">Répliques</item>
-      <item ref="http://www.lechasseurabstrait.com/revue/D-un-silence-a-l-autre-entretiens">D’un silence à l’autre</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74706">Ecriture et littérarité dans « En nulle autre »</item>
-      <item ref="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=48549">Fred Edson assistera à un séminaire sur la littérature médiévale au Collège de France</item>
-      <item ref="http://www.alterpresse.org/spip.php?article6442">Haiti/Littérature : Un jeune poète haïtien au Collège de France</item>
-      <item ref="http://www.potomitan.info/ayiti/lafortune/lazil.php">An n al Lazil: Yon liv tout moun dwe li</item>
-      <item ref="http://www.lenational.org/poete-fred-edson-lafortune-laureat-de-4e-edition-prix-de-poesie-creole-dominique-batraville/">Le poète Fred Edson Lafortune, lauréat de la 4e édition du prix de poésie créole Dominique Batraville</item>
-      <item ref="http://www.tanbou.com/2014/PrezantasyonLivAnNAlLazilFredEdsonLafortune.htm">Prezantasyon liv An n al Lazil de Fred Edson Lafortune</item>
+      <item>
+        Fred Edson Lafortune
+        <ref target="http://frededsonlafortune.hautetfort.com/"/>
+      </item>
+      <item>
+        Ann al lazil…
+        <ref target="http://www.tanbou.com/2008/pwezi082008.htm"/>
+      </item>
+      <item>
+        Ann al lazil…
+        <ref target="http://www.tanbou.com/2008/pwezi082008.htm"/>
+      </item>
+      <item>
+        Fred Edson Lafortune
+        <ref target="http://www.lechasseurabstrait.com/revue/-Fred-Edson-LAFORTUNE-"/>
+      </item>
+      <item>
+        Fred Edson Lafortune
+        <ref target="http://poesie.webnet.fr/vospoemes/poemes/fred_edson_lafortune/fred_edson_lafortune.html"/>
+      </item>
+      <item>
+        Reflet
+        <ref target="http://www.tanbou.com/2006/summer/poesie.htm"/>
+      </item>
+      <item>
+        Répliques
+        <ref target="http://www.culturessud.com/contenu.php?id=150"/>
+      </item>
+      <item>
+        D’un silence à l’autre
+        <ref target="http://www.lechasseurabstrait.com/revue/D-un-silence-a-l-autre-entretiens"/>
+      </item>
+      <item>
+        Ecriture et littérarité dans « En nulle autre »
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=1&amp;ArticleID=74706"/>
+      </item>
+      <item>
+        Fred Edson assistera à un séminaire sur la littérature médiévale au Collège de France
+        <ref target="http://www.lenouvelliste.com/article.php?PubID=&amp;ArticleID=48549"/>
+      </item>
+      <item>
+        Haiti/Littérature : Un jeune poète haïtien au Collège de France
+        <ref target="http://www.alterpresse.org/spip.php?article6442"/>
+      </item>
+      <item>
+        An n al Lazil: Yon liv tout moun dwe li
+        <ref target="http://www.potomitan.info/ayiti/lafortune/lazil.php"/>
+      </item>
+      <item>
+        Le poète Fred Edson Lafortune, lauréat de la 4e édition du prix de poésie créole Dominique Batraville
+        <ref target="http://www.lenational.org/poete-fred-edson-lafortune-laureat-de-4e-edition-prix-de-poesie-creole-dominique-batraville/"/>
+      </item>
+      <item>
+        Prezantasyon liv An n al Lazil de Fred Edson Lafortune
+        <ref target="http://www.tanbou.com/2014/PrezantasyonLivAnNAlLazilFredEdsonLafortune.htm"/>
+      </item>
     </list>
   </div>
 </TEI>

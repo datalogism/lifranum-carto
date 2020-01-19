@@ -44,7 +44,7 @@
     </person>
   </div>
   <div n="2" xml:id="Syto_Cave_bio">
-    <text ref="http://ile-en-ile.org/cave/">
+    <text ana="Syto_Cave_bio_ile_en_ile" ref="http://ile-en-ile.org/cave/">
       <p>
         <persName ana="Syto_Cave">Syto Cavé</persName>
          est né le 7 août 1944 à 
@@ -155,7 +155,7 @@
         -Ville, où il continue à se consacrer au théâtre et à l’écriture.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.syto-cave.14124.html">
+    <text ana="Syto_Cave_bio_spla" ref="http://www.spla.pro/fiche.personne.syto-cave.14124.html">
       <p>
         <persName ana="Syto_Cave">Syto Cavé</persName>
          est né le 7 août 1944 à 
@@ -183,7 +183,7 @@
     </text>
   </div>
   <div n="3" xml:id="Syto_Cave_biblio">
-    <div ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_biblio_auteur_ile_en_ile">
       <list subtype="nouvelles">
         <item>Le singe du dormeur, récits. Port-au-Prince / Montréal: Editions Regain / Éditions du CIDIHCA, 1999.</item>
       </list>
@@ -208,17 +208,38 @@
       <list subtype="sur l’oeuvre de syto cavé">
         <item>Bellefleur, Pierre Maxwell. « La nouvelle haïtienne – témoin d’une époque ». Écrits d’Haïti: Perspectives sur la littérature haïtienne contemporaine (1986-2006). Nadève Ménard, éd. Paris: Karthala, 2011: 259-269.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Syto_Cave_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/syto-cave-chien-familier/">Chien familier</item>
-      <item ref="http://ile-en-ile.org/syto-cave-madame-leon-et-tel-quau-miroir/">Madame Léon</item>
-      <item ref="https://youtu.be/LSrY6JvOVe0">‘Des Livres et Vous’ avec Syto Cavé</item>
-      <item ref="https://www.fokal.org/index.php/archives/374-theatre-representation-de-kavalye-polka-a-fokal">Livres en folie 2015: représentations de Kavalye Polka à FOKAL</item>
-      <item ref="http://www.madinin-art.net/syto-cave-notre-ami-est-en-martinique/">Syto Cavé, notre ami, est en Martinique</item>
-      <item ref="http://www.madinin-art.net/voisins-complices-une-performance-originale-en-gestation-permanente/">« Voisins complices » : Une performance originale en gestation permanente</item>
-      <item ref="http://www.lenouvelliste.com/">Le Nouvelliste</item>
+      <item>
+        Chien familier
+        <ref target="http://ile-en-ile.org/syto-cave-chien-familier/"/>
+      </item>
+      <item>
+        Madame Léon
+        <ref target="http://ile-en-ile.org/syto-cave-madame-leon-et-tel-quau-miroir/"/>
+      </item>
+      <item>
+        ‘Des Livres et Vous’ avec Syto Cavé
+        <ref target="https://youtu.be/LSrY6JvOVe0"/>
+      </item>
+      <item>
+        Livres en folie 2015: représentations de Kavalye Polka à FOKAL
+        <ref target="https://www.fokal.org/index.php/archives/374-theatre-representation-de-kavalye-polka-a-fokal"/>
+      </item>
+      <item>
+        Syto Cavé, notre ami, est en Martinique
+        <ref target="http://www.madinin-art.net/syto-cave-notre-ami-est-en-martinique/"/>
+      </item>
+      <item>
+        « Voisins complices » : Une performance originale en gestation permanente
+        <ref target="http://www.madinin-art.net/voisins-complices-une-performance-originale-en-gestation-permanente/"/>
+      </item>
+      <item>
+        Le Nouvelliste
+        <ref target="http://www.lenouvelliste.com/"/>
+      </item>
     </list>
   </div>
 </TEI>

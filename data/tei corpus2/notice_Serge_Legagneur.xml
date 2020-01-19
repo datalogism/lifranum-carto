@@ -44,7 +44,7 @@
     </person>
   </div>
   <div n="2" xml:id="Serge_Legagneur_bio">
-    <text ref="http://ile-en-ile.org/legagneur/">
+    <text ana="Serge_Legagneur_bio_ile_en_ile" ref="http://ile-en-ile.org/legagneur/">
       <p>
         <persName ana="Serge_Legagneur">Serge Legagneur</persName>
          naît le 10 janvier 1937 à 
@@ -196,7 +196,7 @@
          « nous le fera relire, car le poète reste vivant ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.serge-legagneur.14135.html">
+    <text ana="Serge_Legagneur_bio_spla" ref="http://www.spla.pro/fiche.personne.serge-legagneur.14135.html">
       <p>
         <persName ana="Serge_Legagneur">Serge Legagneur</persName>
          naît le 10 janvier 1937 à 
@@ -220,7 +220,7 @@
     </text>
   </div>
   <div n="3" xml:id="Serge_Legagneur_biblio">
-    <div ref="http://ile-en-ile.org/legagneur/" xml:id="Serge_Legagneur_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/legagneur/" xml:id="Serge_Legagneur_biblio_auteur_ile_en_ile">
       <list subtype="poésie">
         <item>Textes interdits. Montréal: Éditions Estérel, 1966, 136 p.</item>
       </list>
@@ -236,20 +236,49 @@ La poésie contemporaine d’Haïti. Trente-quatre poètes. CD. Pétion-Ville, H
 
 </item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Serge_Legagneur_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
-      <item ref="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/">Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité</item>
-      <item ref="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/">Que meure la chanson de la mort</item>
-      <item ref="http://test.lenoroit.com/wordpress/legagneur-serge/">Éditions du Noroît,</item>
-      <item ref="http://www.litterature.org/recherche/ecrivains/legagneur-serge-298/">Serge Legagneur</item>
-      <item ref="https://www.potomitan.info/kauss/legagneur.php">La poésie de Serge Legagneur</item>
-      <item ref="http://web.archive.org/web/20030606082110/http://elvir.univ-poitiers.fr/article.php3?id_article=603">Textes interdits</item>
-      <item ref="http://www.ledevoir.com/culture/livres/503055/serge-legagneur-1937-2017-grand-deuil-sur-la-poesie-haitienne-et-quebecoise">Grand deuil pour la poésie haïtienne et québécoise</item>
-      <item ref="http://lenouvelliste.com/article/173439/special-vendredi-litteraire-en-lhonneur-de-serge-legagneur">Spécial Vendredi littéraire en l’honneur de Serge Legagneur</item>
-      <item ref="http://lenouvelliste.com/article/173571/reparer-les-morts">Réparer les morts</item>
+      <item>
+        <ref target="http://ile-en-ile.org/wp-content/uploads/2015/09/icon_audio-e1443200602532.png"/>
+      </item>
+      <item>
+        Haïti Littéraire : Rupture et nouvel espace poétique. Exemplaire fraternité
+        <ref target="http://ile-en-ile.org/anthony-phelps-haiti-litteraire/"/>
+      </item>
+      <item>
+        Que meure la chanson de la mort
+        <ref target="http://ile-en-ile.org/pour-marie-chauvet-que-meure-la-chanson-de-la-mort/"/>
+      </item>
+      <item>
+        Éditions du Noroît,
+        <ref target="http://test.lenoroit.com/wordpress/legagneur-serge/"/>
+      </item>
+      <item>
+        Serge Legagneur
+        <ref target="http://www.litterature.org/recherche/ecrivains/legagneur-serge-298/"/>
+      </item>
+      <item>
+        La poésie de Serge Legagneur
+        <ref target="https://www.potomitan.info/kauss/legagneur.php"/>
+      </item>
+      <item>
+        Textes interdits
+        <ref target="http://web.archive.org/web/20030606082110/http://elvir.univ-poitiers.fr/article.php3?id_article=603"/>
+      </item>
+      <item>
+        Grand deuil pour la poésie haïtienne et québécoise
+        <ref target="http://www.ledevoir.com/culture/livres/503055/serge-legagneur-1937-2017-grand-deuil-sur-la-poesie-haitienne-et-quebecoise"/>
+      </item>
+      <item>
+        Spécial Vendredi littéraire en l’honneur de Serge Legagneur
+        <ref target="http://lenouvelliste.com/article/173439/special-vendredi-litteraire-en-lhonneur-de-serge-legagneur"/>
+      </item>
+      <item>
+        Réparer les morts
+        <ref target="http://lenouvelliste.com/article/173571/reparer-les-morts"/>
+      </item>
     </list>
   </div>
 </TEI>

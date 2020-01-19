@@ -18,7 +18,7 @@
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Paul_Laraque_fiche">
-    <person ana="Paul_Laraque" sex="na">
+    <person ana="Paul_Laraque" sex="m">
       <persName>Paul Laraque</persName>
       <idno type="BNF">
         cb119110845#about
@@ -78,7 +78,7 @@
     </person>
   </div>
   <div n="2" xml:id="Paul_Laraque_bio">
-    <text ref="http://ile-en-ile.org/laraque/">
+    <text ana="Paul_Laraque_bio_ile_en_ile" ref="http://ile-en-ile.org/laraque/">
       <p>
         <persName ana="Paul_Laraque">
           Paul 
@@ -192,7 +192,7 @@
         , en français et en créole, à la poésie universelle ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.paul-laraque.14131.html">
+    <text ana="Paul_Laraque_bio_spla" ref="http://www.spla.pro/fiche.personne.paul-laraque.14131.html">
       <p>
         <persName ana="Paul_Laraque">
           Paul 
@@ -219,7 +219,7 @@
     </text>
   </div>
   <div n="3" xml:id="Paul_Laraque_biblio">
-    <div ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_biblio_auteur_ile_en_ile">
+    <list ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_biblio_auteur_ile_en_ile">
       <list subtype="in english">
         <item>Camourade, Selected Poems. Trad. Rosemary Manno. Willimantic, Connecticut: Curbstone Press, 1988.</item>
       </list>
@@ -244,19 +244,46 @@
       <list subtype="distinction littéraire">
         <item>1979     Prix Casa de las Américas pour Les armes quotidiennes / Poésie quotidienne.</item>
       </list>
-    </div>
+    </list>
   </div>
   <div n="4" xml:id="Paul_Laraque_web">
     <list type="ile_en_ile">
-      <item ref="http://ile-en-ile.org/paul-laraque-extraits-de-poesies-lus-par-lauteur/">Lecture de poésie</item>
-      <item ref="http://ile-en-ile.org/paul-laraque-les-deux-rives/">Les deux rives</item>
-      <item ref="http://ile-en-ile.org/paul-laraque-1920-2007-hommages-a-paul-laraque/">Paul Laraque (1920-2007)</item>
-      <item ref="http://www.curbstone.org/authdetail.cfm?AuthID=118">Paul Laraque</item>
-      <item ref="http://www.potomitan.info/ayiti/laraque.php">Paul Laraque</item>
-      <item ref="http://www.tanbou.com/1994/Spring/Larak.htm">Paul Laraque: Powèt e militan pye nan dlo</item>
-      <item ref="http://www.tanbou.com/2007/Spring/index.htm">Pour célébrer la mémoire de Paul Laraque</item>
-      <item ref="http://www.caribenet.info/oltre_05_laraque_tanbou_libete.asp">« Tanbou libète » et « La saison des comptes »</item>
-      <item ref="http://www.tanbou.com/1199Larak.htm">Yon powèt nan Nouyòk</item>
+      <item>
+        Lecture de poésie
+        <ref target="http://ile-en-ile.org/paul-laraque-extraits-de-poesies-lus-par-lauteur/"/>
+      </item>
+      <item>
+        Les deux rives
+        <ref target="http://ile-en-ile.org/paul-laraque-les-deux-rives/"/>
+      </item>
+      <item>
+        Paul Laraque (1920-2007)
+        <ref target="http://ile-en-ile.org/paul-laraque-1920-2007-hommages-a-paul-laraque/"/>
+      </item>
+      <item>
+        Paul Laraque
+        <ref target="http://www.curbstone.org/authdetail.cfm?AuthID=118"/>
+      </item>
+      <item>
+        Paul Laraque
+        <ref target="http://www.potomitan.info/ayiti/laraque.php"/>
+      </item>
+      <item>
+        Paul Laraque: Powèt e militan pye nan dlo
+        <ref target="http://www.tanbou.com/1994/Spring/Larak.htm"/>
+      </item>
+      <item>
+        Pour célébrer la mémoire de Paul Laraque
+        <ref target="http://www.tanbou.com/2007/Spring/index.htm"/>
+      </item>
+      <item>
+        « Tanbou libète » et « La saison des comptes »
+        <ref target="http://www.caribenet.info/oltre_05_laraque_tanbou_libete.asp"/>
+      </item>
+      <item>
+        Yon powèt nan Nouyòk
+        <ref target="http://www.tanbou.com/1199Larak.htm"/>
+      </item>
     </list>
   </div>
 </TEI>
