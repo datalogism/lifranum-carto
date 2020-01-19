@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rene_Depestre_fiche">
@@ -28,7 +28,7 @@
         94345085
         <g ref="http://viaf.org/viaf/94345085"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         René_Depestre
         <g ref="http://fr.dbpedia.org/resource/René_Depestre"/>
       </idno>
@@ -56,66 +56,31 @@
       <occupation source="viaf">authors black</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="CeSaire_Aime">
-          <persName>Césaire Aimé</persName>
-        </person>
-        <person ana="Pinera_Virgilio">
-          <persName>Piñera Virgilio</persName>
-        </person>
-        <person ana="Gallimard">
-          <persName>Gallimard</persName>
-        </person>
-        <person ana="Palcy_Euzhan">
-          <persName>Palcy Euzhan</persName>
-        </person>
-        <person ana="Wydawnictwo_Amber">
-          <persName>Wydawnictwo AMBER</persName>
-        </person>
-        <person ana="Veth_Mirjam_De">
-          <persName>Veth Mirjam de</persName>
-        </person>
-        <person ana="FernaNdez_Retamar_Roberto">
-          <persName>Fernández Retamar Roberto</persName>
-        </person>
-        <person ana="TheBia_Melsan_Annick">
-          <persName>Thébia-Melsan Annick</persName>
-        </person>
-        <person ana="Glissant_EDouard">
-          <persName>Glissant Édouard</persName>
-        </person>
-        <person ana="Cazals_Patrick">
-          <persName>Cazals Patrick</persName>
-        </person>
-        <person ana="Podany_Richard">
-          <persName>Podaný Richard</persName>
-        </person>
-        <person ana="Graphischer_Grossbetrieb_Interdruck">
-          <persName>Graphischer Grossbetrieb Interdruck</persName>
-        </person>
-        <person ana="立花_英裕">
-          <persName>立花 英裕</persName>
-        </person>
-        <person ana="Ollivier_EMile">
-          <persName>Ollivier Émile</persName>
-        </person>
-        <person ana="Ludwig_Ralph">
-          <persName>Ludwig Ralph</persName>
-        </person>
-        <person ana="Guatelli_Tedeschi_Joelle">
-          <persName>Guatelli-Tedeschi Joëlle</persName>
-        </person>
-        <person ana="Cebo_Foniok_Małgorzata">
-          <persName>Cebo-Foniok Małgorzata</persName>
-        </person>
-        <person ana="Abreu_Estela_Dos_Santos">
-          <persName>Abreu Estela dos Santos</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="CeSaire_Aime" source="viaf">Césaire Aimé</relation>
+        <relation ana="Pinera_Virgilio" source="viaf">Piñera Virgilio</relation>
+        <relation ana="Gallimard" source="viaf">Gallimard</relation>
+        <relation ana="Palcy_Euzhan" source="viaf">Palcy Euzhan</relation>
+        <relation ana="Wydawnictwo_Amber" source="viaf">Wydawnictwo AMBER</relation>
+        <relation ana="Veth_Mirjam_De" source="viaf">Veth Mirjam de</relation>
+        <relation ana="FernaNdez_Retamar_Roberto" source="viaf">Fernández Retamar Roberto</relation>
+        <relation ana="TheBia_Melsan_Annick" source="viaf">Thébia-Melsan Annick</relation>
+        <relation ana="Glissant_EDouard" source="viaf">Glissant Édouard</relation>
+        <relation ana="Cazals_Patrick" source="viaf">Cazals Patrick</relation>
+        <relation ana="Podany_Richard" source="viaf">Podaný Richard</relation>
+        <relation ana="Graphischer_Grossbetrieb_Interdruck" source="viaf">Graphischer Grossbetrieb Interdruck</relation>
+        <relation ana="立花_英裕" source="viaf">立花 英裕</relation>
+        <relation ana="Ollivier_EMile" source="viaf">Ollivier Émile</relation>
+        <relation ana="Ludwig_Ralph" source="viaf">Ludwig Ralph</relation>
+        <relation ana="Guatelli_Tedeschi_Joelle" source="viaf">Guatelli-Tedeschi Joëlle</relation>
+        <relation ana="Cebo_Foniok_Małgorzata" source="viaf">Cebo-Foniok Małgorzata</relation>
+        <relation ana="Abreu_Estela_Dos_Santos" source="viaf">Abreu Estela dos Santos</relation>
+        <relation ana="Francois_Hoffmann" source="ile_en_ile_auto">François Hoffmann</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Rene_Depestre_bio">
-    <text ref="http://ile-en-ile.org/depestre/" xml:id="Rene_Depestre_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/depestre/">
       <p>
         <persName ana="Rene_Depestre">René Depestre</persName>
          naît le 29 août 1926 à 
@@ -263,7 +228,7 @@
       </p>
       <p>
         Depestre quitte l’UNESCO en 1986 et se retire dans 
-        <placeName ana="L’Aude">l’Aude</placeName>
+        <placeName ana="L_Aude">l’Aude</placeName>
         . En 1988, il publie 
         <placeName ana="Hadriana">Hadriana</placeName>
          dans tous mes rêves, qui reçoit de nombreux prix littéraires dont le prix 
@@ -320,7 +285,7 @@
         Loin de se considérer comme en exil, Depestre se voit plutôt comme un nomade aux racines multiples, un « homme-banian » – pour faire allusion à cet arbre qu’il cite si souvent et à ses racines rhizomiques – voire comme un « géo-libertin ». 
         <persName ana="Rene_Depestre">René Depestre</persName>
          vit aujourd’hui dans un petit village de 
-        <placeName ana="L’Aude">l’Aude</placeName>
+        <placeName ana="L_Aude">l’Aude</placeName>
         , Lézignan-Corbières, avec sa seconde épouse, cubaine. Il écrit tous les matins, en regardant les champs de vignes, comme autrefois il s’enivrait de la vue de la baie jacmélienne sur la galerie de sa grand-mère.
       </p>
       <p>
@@ -340,7 +305,7 @@
       </p>
       <p>Prose traduite également en bulgare et en grec.</p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.rene-depestre.5711.html" xml:id="Rene_Depestre_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.rene-depestre.5711.html">
       <p>
         <persName ana="Rene_Depestre">René Depestre</persName>
          naît le 29 août 1926 à 

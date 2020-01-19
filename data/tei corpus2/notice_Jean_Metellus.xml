@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Metellus_fiche">
@@ -28,7 +28,7 @@
         12312423
         <g ref="http://viaf.org/viaf/12312423"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Jean_Métellus
         <g ref="http://fr.dbpedia.org/resource/Jean_Métellus"/>
       </idno>
@@ -59,51 +59,30 @@
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors black</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Sauvageot_BeAtrice">
-          <persName>Sauvageot Béatrice</persName>
-        </person>
-        <person ana="Fleurimond_Wiener_Kerns">
-          <persName>Fleurimond Wiener Kerns</persName>
-        </person>
-        <person ana="Migeot_Alvarado_Judith">
-          <persName>Migeot-Alvarado Judith</persName>
-        </person>
-        <person ana="Naudillon_Francoise">
-          <persName>Naudillon Françoise</persName>
-        </person>
-        <person ana="RoseS_Annie">
-          <persName>Rosès Annie</persName>
-        </person>
-        <person ana="Noiret_GeRard">
-          <persName>Noiret Gérard</persName>
-        </person>
-        <person ana="Mouchard_Claude">
-          <persName>Mouchard Claude</persName>
-        </person>
-        <person ana="Firmin_AnteNor">
-          <persName>Firmin Anténor</persName>
-        </person>
-        <person ana="Couture_Ghislaine">
-          <persName>Couture Ghislaine</persName>
-        </person>
-        <person ana="Defives_Eyoum_Isabelle">
-          <persName>Defives-Eyoum Isabelle</persName>
-        </person>
-        <person ana="Saussy_Haun">
-          <persName>Saussy Haun</persName>
-        </person>
-        <person ana="Jacobs_Marjolijn">
-          <persName>Jacobs Marjolijn</persName>
-        </person>
-        <person ana="Grosjean_Jean">
-          <persName>Grosjean Jean</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Sauvageot_BeAtrice" source="viaf">Sauvageot Béatrice</relation>
+        <relation ana="Fleurimond_Wiener_Kerns" source="viaf">Fleurimond Wiener Kerns</relation>
+        <relation ana="Migeot_Alvarado_Judith" source="viaf">Migeot-Alvarado Judith</relation>
+        <relation ana="Naudillon_Francoise" source="viaf">Naudillon Françoise</relation>
+        <relation ana="RoseS_Annie" source="viaf">Rosès Annie</relation>
+        <relation ana="Noiret_GeRard" source="viaf">Noiret Gérard</relation>
+        <relation ana="Mouchard_Claude" source="viaf">Mouchard Claude</relation>
+        <relation ana="Firmin_AnteNor" source="viaf">Firmin Anténor</relation>
+        <relation ana="Couture_Ghislaine" source="viaf">Couture Ghislaine</relation>
+        <relation ana="Defives_Eyoum_Isabelle" source="viaf">Defives-Eyoum Isabelle</relation>
+        <relation ana="Saussy_Haun" source="viaf">Saussy Haun</relation>
+        <relation ana="Jacobs_Marjolijn" source="viaf">Jacobs Marjolijn</relation>
+        <relation ana="Grosjean_Jean" source="viaf">Grosjean Jean</relation>
+        <relation ana="Maurice_Nadeau" source="ile_en_ile_auto">Maurice Nadeau</relation>
+        <relation ana="Andre_Malraux" source="ile_en_ile_auto">André Malraux</relation>
+        <relation ana="Aime_Cesaire" source="ile_en_ile_auto">Aimé Césaire</relation>
+        <relation ana="Maurice_Nadeau" source="ile_en_ile_auto">Maurice Nadeau</relation>
+        <relation ana="Leopold_Sedar_Senghor" source="ile_en_ile_auto">Léopold Sédar Senghor</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Metellus_bio">
-    <text hand="Ginette Adamson" ref="http://ile-en-ile.org/metellus/" xml:id="Jean_Metellus_bio_auteur_ile_en_ile">
+    <text hand="Ginette Adamson" ref="http://ile-en-ile.org/metellus/">
       <p>
         <persName ana="Jean_Metellus">Jean Métellus</persName>
          est né le 30 avril 1937 à 
@@ -159,7 +138,7 @@
          meurt en région parisienne le 4 janvier 2014. Voir la sélection de textes écrits en hommage à l’auteur dans les liens ci-dessous.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-metellus.5240.html" xml:id="Jean_Metellus_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jean-metellus.5240.html">
       <p>
         <persName ana="Jean_Metellus">Jean Métellus</persName>
          est né à 

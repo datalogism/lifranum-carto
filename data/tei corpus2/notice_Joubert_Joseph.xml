@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Joubert, Joseph</title>
+        <title>Notice de Joubert Joseph</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Joubert_Joseph_fiche">
     <person ana="Joubert_Joseph" sex="na">
-      <persName>Joubert, Joseph</persName>
+      <persName>Joubert Joseph</persName>
       <idno type="BNF">
         cb16658721w#about
         <g ref="http://data.bnf.fr/ark:/12148/cb16658721w#about"/>
@@ -28,7 +28,7 @@
         64790137
         <g ref="http://viaf.org/viaf/64790137"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Joseph_Antoine_René_Joubert
         <g ref="http://fr.dbpedia.org/resource/Joseph_Antoine_René_Joubert"/>
       </idno>

@@ -12,18 +12,23 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Nehemy_Pierre_Dahomey_fiche">
     <person ana="Nehemy_Pierre_Dahomey" sex="na">
       <persName>Néhémy Pierre-Dahomey</persName>
+      <listRelation>
+        <relation ana="Nehemy_Pierre" source="ile_en_ile_auto">Néhémy Pierre</relation>
+        <relation ana="Stephen_Alexis" source="ile_en_ile_auto">Stephen Alexis</relation>
+        <relation ana="Belliqueuse_Loussaint" source="ile_en_ile_auto">Belliqueuse Loussaint</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Nehemy_Pierre_Dahomey_bio">
-    <text ref="http://ile-en-ile.org/pierre-dahomey/" xml:id="Nehemy_Pierre_Dahomey_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/pierre-dahomey/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>

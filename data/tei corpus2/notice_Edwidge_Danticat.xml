@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Edwidge_Danticat_fiche">
@@ -24,10 +24,13 @@
         cb125106512#about
         <g ref="http://data.bnf.fr/ark:/12148/cb125106512#about"/>
       </idno>
+      <listRelation>
+        <relation ana="Create_Dangerously" source="ile_en_ile_auto">Create Dangerously</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Edwidge_Danticat_bio">
-    <text ref="http://ile-en-ile.org/danticat/" xml:id="Edwidge_Danticat_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/danticat/">
       <p/>
       <p>
         Elle publie ses premiers textes dès les années de High School, dans le 

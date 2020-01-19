@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rassoul_Labuchin_fiche">
@@ -54,27 +54,28 @@
       <occupation source="spla"> Scénariste</occupation>
       <occupation source="spla"> Militant/e</occupation>
       <occupation source="spla"> Traducteur/trice</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Lafontant_Medard_MichaeLle">
-          <persName>Lafontant-Medard Michaëlle</persName>
-        </person>
-        <person ana="Marcelin_Magalie">
-          <persName>Marcelin Magalie</persName>
-        </person>
-        <person ana="Guerrier_Chantal">
-          <persName>Guerrier Chantal</persName>
-        </person>
-        <person ana="Fouchard_Mael">
-          <persName>Fouchard Mael</persName>
-        </person>
-        <person ana="Auguste_Suzelle">
-          <persName>Auguste Suzelle</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Lafontant_Medard_MichaeLle" source="viaf">Lafontant-Medard Michaëlle</relation>
+        <relation ana="Marcelin_Magalie" source="viaf">Marcelin Magalie</relation>
+        <relation ana="Guerrier_Chantal" source="viaf">Guerrier Chantal</relation>
+        <relation ana="Fouchard_Mael" source="viaf">Fouchard Mael</relation>
+        <relation ana="Auguste_Suzelle" source="viaf">Auguste Suzelle</relation>
+        <relation ana="Joseph_Yves_Medard" source="ile_en_ile_auto">Joseph Yves Médard</relation>
+        <relation ana="Mariaj_Lenglensou" source="ile_en_ile_auto">Mariaj Lenglensou</relation>
+        <relation ana="Federico_Garcia" source="ile_en_ile_auto">Federico Garcia</relation>
+        <relation ana="Jacques_Stephen_Alexis" source="ile_en_ile_auto">Jacques Stephen Alexis</relation>
+        <relation ana="Prosper_Avril" source="ile_en_ile_auto">Prosper Avril</relation>
+        <relation ana="Sophie_Marceau" source="ile_en_ile_auto">Sophie Marceau</relation>
+        <relation ana="Francis_Girod_Descente" source="ile_en_ile_auto">Francis Girod Descente</relation>
+        <relation ana="Maurice_Faillevic" source="ile_en_ile_auto">Maurice Faillevic</relation>
+        <relation ana="Raphael_Stines" source="ile_en_ile_auto">Raphaël Stines</relation>
+        <relation ana="Francis_Girod" source="ile_en_ile_auto">Francis Girod</relation>
+        <relation ana="Maurice_Faillevic" source="ile_en_ile_auto">Maurice Faillevic</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Rassoul_Labuchin_bio">
-    <text hand="Mylène Dorcé" ref="http://ile-en-ile.org/labuchin/" xml:id="Rassoul_Labuchin_bio_auteur_ile_en_ile">
+    <text hand="Mylène Dorcé" ref="http://ile-en-ile.org/labuchin/">
       <p>
         <persName ana="Joseph_Yves_Medard">Joseph Yves Médard</persName>
         , de son nom d’artiste 
@@ -220,7 +221,7 @@
          termine la rédaction de son premier roman, Les yeux de l’aube.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.rassoul-labuchin.6422.html" xml:id="Rassoul_Labuchin_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.rassoul-labuchin.6422.html">
       <p>
         Né le 30 
         <placeName ana="Mars">Mars</placeName>

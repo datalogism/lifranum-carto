@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="James_Noel_fiche">
@@ -28,7 +28,7 @@
         58863888
         <g ref="http://viaf.org/viaf/58863888"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         James_Noël
         <g ref="http://fr.dbpedia.org/resource/James_Noël"/>
       </idno>
@@ -43,48 +43,25 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Nirsimloo_Ananda_Devi">
-          <persName>Nirsimloo Ananda Devi</persName>
-        </person>
-        <person ana="Monnin_Pascale">
-          <persName>Monnin Pascale</persName>
-        </person>
-        <person ana="Taurand_Jacques">
-          <persName>Taurand Jacques</persName>
-        </person>
-        <person ana="CeSaire_Aime">
-          <persName>Césaire Aimé</persName>
-        </person>
-        <person ana="Vigee_Claude">
-          <persName>Vigée Claude</persName>
-        </person>
-        <person ana="Vazemsky_Dimitri">
-          <persName>Vazemsky Dimitri</persName>
-        </person>
-        <person ana="Vallotton_Jean_Pierre">
-          <persName>Vallotton Jean-Pierre</persName>
-        </person>
-        <person ana="Ton_That_Thanh_Van">
-          <persName>Ton-That Thanh-Vân</persName>
-        </person>
-        <person ana="Maurizi_Dominique">
-          <persName>Maurizi Dominique</persName>
-        </person>
-        <person ana="Lamy_Emilie">
-          <persName>Lamy Émilie</persName>
-        </person>
-        <person ana="Litradukt_Literatureditionen">
-          <persName>litradukt Literatureditionen</persName>
-        </person>
-        <person ana="Mellier_Fanette">
-          <persName>Mellier Fanette</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Nirsimloo_Ananda_Devi" source="viaf">Nirsimloo Ananda Devi</relation>
+        <relation ana="Monnin_Pascale" source="viaf">Monnin Pascale</relation>
+        <relation ana="Taurand_Jacques" source="viaf">Taurand Jacques</relation>
+        <relation ana="CeSaire_Aime" source="viaf">Césaire Aimé</relation>
+        <relation ana="Vigee_Claude" source="viaf">Vigée Claude</relation>
+        <relation ana="Vazemsky_Dimitri" source="viaf">Vazemsky Dimitri</relation>
+        <relation ana="Vallotton_Jean_Pierre" source="viaf">Vallotton Jean-Pierre</relation>
+        <relation ana="Ton_That_Thanh_Van" source="viaf">Ton-That Thanh-Vân</relation>
+        <relation ana="Maurizi_Dominique" source="viaf">Maurizi Dominique</relation>
+        <relation ana="Lamy_Emilie" source="viaf">Lamy Émilie</relation>
+        <relation ana="Litradukt_Literatureditionen" source="viaf">litradukt Literatureditionen</relation>
+        <relation ana="Mellier_Fanette" source="viaf">Mellier Fanette</relation>
+        <relation ana="Vents_D_Ailleurs" source="ile_en_ile_auto">Vents d’Ailleurs</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="James_Noel_bio">
-    <text ref="http://ile-en-ile.org/noel/" xml:id="James_Noel_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/noel/">
       <p>
         <persName ana="James_Noel">James Noël</persName>
          naît le 17* 
@@ -208,7 +185,7 @@
       <p>
         <persName ana="James_Noel">James Noël</persName>
          et son oeuvre sont présentés sur le site d’Africultures et les sites des maisons d’édition : Legs, Mémoire d’encrier, 
-        <persName ana="Vents_D’Ailleurs">Vents d’Ailleurs</persName>
+        <persName ana="Vents_D_Ailleurs">Vents d’Ailleurs</persName>
          et 
         <placeName ana="Zulma">Zulma</placeName>
         .

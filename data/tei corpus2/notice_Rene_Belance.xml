@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rene_Belance_fiche">
@@ -49,27 +49,18 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Saint_Amand_Edris">
-          <persName>Saint-Amand Edris</persName>
-        </person>
-        <person ana="Roumain_Jacques">
-          <persName>Roumain Jacques</persName>
-        </person>
-        <person ana="LeOn_Emile_Georges">
-          <persName>Léon-Emile Georges</persName>
-        </person>
-        <person ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress">
-          <persName>Archive of Hispanic Literature on Tape Library of Congress</persName>
-        </person>
-        <person ana="Depestre_Rene">
-          <persName>Depestre René</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Saint_Amand_Edris" source="viaf">Saint-Amand Edris</relation>
+        <relation ana="Roumain_Jacques" source="viaf">Roumain Jacques</relation>
+        <relation ana="LeOn_Emile_Georges" source="viaf">Léon-Emile Georges</relation>
+        <relation ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress" source="viaf">Archive of Hispanic Literature on Tape Library of Congress</relation>
+        <relation ana="Depestre_Rene" source="viaf">Depestre René</relation>
+        <relation ana="Roger_Gaillard" source="ile_en_ile_auto">Roger Gaillard</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Rene_Belance_bio">
-    <text ref="http://ile-en-ile.org/belance/" xml:id="Rene_Belance_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/belance/">
       <p>
         <persName ana="Rene_Belance">
           René 
@@ -204,7 +195,7 @@
         , 1915-2004, Hommages au poète.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.rene-belance.14058.html" xml:id="Rene_Belance_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.rene-belance.14058.html">
       <p>
         <persName ana="Rene_Belance">
           René 

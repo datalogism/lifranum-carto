@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Suzanne_Comhaire_Sylvain_fiche">
@@ -29,16 +29,19 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Suzanne_Comhaire" source="ile_en_ile_auto">Suzanne Comhaire</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Suzanne_Comhaire_Sylvain_bio">
-    <text hand="Kathleen Gyssels" ref="http://ile-en-ile.org/comhaire-sylvain/" xml:id="Suzanne_Comhaire_Sylvain_bio_auteur_ile_en_ile">
+    <text hand="Kathleen Gyssels" ref="http://ile-en-ile.org/comhaire-sylvain/">
       <p>
         <persName ana="Suzanne_Comhaire">Suzanne Comhaire</persName>
         -Sylvain, de son nom d’épouse, était la fille de 
         <persName ana="Georges_Sylvain">Georges Sylvain</persName>
          (1866-1925), symbole de la résistance à l’occupation américaine, et 
-        <persName ana="D’Eugenie_Malbranche">d’Eugénie Malbranche</persName>
+        <persName ana="D_Eugenie_Malbranche">d’Eugénie Malbranche</persName>
         . Elle est née le 6 novembre 1898 à Port-au-
         <placeName ana="Prince">Prince</placeName>
          (
@@ -103,7 +106,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.suzanne-comhaire-sylvain.14081.html" xml:id="Suzanne_Comhaire_Sylvain_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.suzanne-comhaire-sylvain.14081.html">
       <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
     </text>
   </div>

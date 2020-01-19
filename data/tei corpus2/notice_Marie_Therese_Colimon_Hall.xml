@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Marie_Therese_Colimon_Hall_fiche">
@@ -29,10 +29,15 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Merci_Marie" source="ile_en_ile_auto">Merci Marie</relation>
+        <relation ana="Therese_Colimon_Hall" source="ile_en_ile_auto">Thérèse Colimon Hall</relation>
+        <relation ana="Joseph_Colimon" source="ile_en_ile_auto">Joseph Colimon</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Marie_Therese_Colimon_Hall_bio">
-    <text hand="Paulette Poujol Oriol" ref="http://ile-en-ile.org/colimon-hall/" xml:id="Marie_Therese_Colimon_Hall_bio_auteur_ile_en_ile">
+    <text hand="Paulette Poujol Oriol" ref="http://ile-en-ile.org/colimon-hall/">
       <p>
         Le 11 avril 1918, naît à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -226,7 +231,7 @@
         , novembre 2005.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.marie-therese-colimon-hall.14080.html" xml:id="Marie_Therese_Colimon_Hall_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.marie-therese-colimon-hall.14080.html">
       <p>
         Le 11 avril 1918, naît à Port-au-
         <placeName ana="Prince">Prince</placeName>

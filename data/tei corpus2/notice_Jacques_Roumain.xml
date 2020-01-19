@@ -12,18 +12,21 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacques_Roumain_fiche">
     <person ana="Jacques_Roumain" sex="na">
       <persName>Jacques Roumain</persName>
+      <listRelation>
+        <relation ana="Francois_Hoffmann" source="ile_en_ile_auto">François Hoffmann</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jacques_Roumain_bio">
-    <text ref="http://ile-en-ile.org/roumain/" xml:id="Jacques_Roumain_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/roumain/">
       <p>
         <persName ana="Jacques_Roumain">Jacques Roumain</persName>
          est né le 4 juin 1907 à Port-au-
@@ -50,7 +53,7 @@
         Il contribue alors très activement à la naissance de la Revue Indigène où il publie poèmes, nouvelles et traductions. Très impliqué politiquement, il est emprisonné une première fois en 1929. Très rapidement aussi, il publie successivement La proie et l’ombre, La montagne ensorcelée et Les fantômes. Se retirant des fonctions qu’il occupe au sein 
         <persName ana="Du_Gouvernement">Du Gouvernement</persName>
         , il est à nouveau emprisonné en 1933 et en 1934 alors qu’il vient tout juste de fonder le Parti Communiste Haïtien dont il est par ailleurs le Secrétaire Général. Analyse schématique 32-34, un essai politique et social, lui vaut alors trois années de prison à la suite desquelles il repart pour 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
         , fragilisé.
       </p>
       <p>
@@ -61,7 +64,7 @@
         , entreprenant des études d’ethnologie à la Sorbonne et des études de paléontologie sous la direction de 
         <persName ana="Paul_Rivet">Paul Rivet</persName>
         , au 
-        <placeName ana="Musee_De_L’Homme">Musée de l’Homme</placeName>
+        <placeName ana="Musee_De_L_Homme">Musée de l’Homme</placeName>
         . Parallèlement, il collabore à différentes revues telles que Regards, Commune, Les Volontaires. Il publie également « Les griefs de l’homme noir » au sein d’un texte collectif intitulé L’homme de couleur. Membre de la Société des Américanistes de 
         <placeName ana="Paris">Paris</placeName>
          et alors que la guerre éclate, il gagne les États-Unis dès 1939.
@@ -81,7 +84,7 @@
       </p>
       <p>
         Dès son retour, il fonde le Bureau d’Ethnologie de 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
          dont il est également 
         <placeName ana="Directeur">Directeur</placeName>
         . Ses recherches aboutissent à la publication en 1942 de ses études respectivement intitulées Autour de la campagne anti-superstitieuse et Contribution à l’étude de l’ethno-botanique précolombienne des 

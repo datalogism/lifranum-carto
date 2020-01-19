@@ -12,18 +12,22 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Odette_Roy_Fombrun_fiche">
     <person ana="Odette_Roy_Fombrun" sex="na">
       <persName>Odette Roy Fombrun</persName>
+      <listRelation>
+        <relation ana="Makenzy_Orcel" source="ile_en_ile_auto">Makenzy Orcel</relation>
+        <relation ana="Madame_Fombrun" source="ile_en_ile_auto">Madame Fombrun</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Odette_Roy_Fombrun_bio">
-    <text ref="http://ile-en-ile.org/fombrun/" xml:id="Odette_Roy_Fombrun_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/fombrun/">
       <p>
         <placeName ana="Haitienne">Haïtienne</placeName>
         , née à Port-au-
@@ -82,7 +86,7 @@
           <placeName ana="Laraque">Laraque</placeName>
         </persName>
          sur la Pauvreté (texte paru dans 
-        <placeName ana="L’Haiti">L’Haïti</placeName>
+        <placeName ana="L_Haiti">L’Haïti</placeName>
          et l’après Duvalier) et le livre de 
         <persName ana="Gerard_Barthelemy">Gérard Barthélemy</persName>
         , Le pays en dehors, essai sur l’univers rural haïtien, texte paru dans Le Nouvelliste du 26 décembre 1989.

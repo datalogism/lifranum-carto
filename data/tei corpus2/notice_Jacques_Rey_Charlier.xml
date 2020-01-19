@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacques_Rey_Charlier_fiche">
@@ -23,10 +23,15 @@
       <death source="ile_en_ile_auto">
         <date>2006-01-27 00:00:00+00:00</date>
       </death>
+      <listRelation>
+        <relation ana="Alain_Kremski" source="ile_en_ile_auto">Alain Kremski</relation>
+        <relation ana="Thierry_Destrez" source="ile_en_ile_auto">Thierry Destrez</relation>
+        <relation ana="Rainer_Maria_Rilke" source="ile_en_ile_auto">Rainer Maria Rilke</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jacques_Rey_Charlier_bio">
-    <text hand="Marie-Cécile Corvington" ref="http://ile-en-ile.org/charlier_jacques/" xml:id="Jacques_Rey_Charlier_bio_auteur_ile_en_ile">
+    <text hand="Marie-Cécile Corvington" ref="http://ile-en-ile.org/charlier_jacques/">
       <p>
         <persName ana="Jacques_Rey_Charlier">Jacques Rey Charlier</persName>
          est né le 4 mai 1945 à Port-au-

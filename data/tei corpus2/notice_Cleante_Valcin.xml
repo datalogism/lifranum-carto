@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Cleante_Valcin_fiche">
@@ -45,42 +45,23 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Wiener_Jacqueline">
-          <persName>Wiener Jacqueline</persName>
-        </person>
-        <person ana="Voltaire_Marcelin_MicheLe">
-          <persName>Voltaire Marcelin Michèle</persName>
-        </person>
-        <person ana="Trouillot_EVelyne">
-          <persName>Trouillot Évelyne</persName>
-        </person>
-        <person ana="TheArd_Marie_Alice">
-          <persName>Théard Marie-Alice</persName>
-        </person>
-        <person ana="Tavernier_Janine">
-          <persName>Tavernier Janine</persName>
-        </person>
-        <person ana="SureNa_Elsie">
-          <persName>Suréna Elsie</persName>
-        </person>
-        <person ana="Sampeur_Virginie">
-          <persName>Sampeur Virginie</persName>
-        </person>
-        <person ana="Rigaud_Apollon_MarleNe">
-          <persName>Rigaud Apollon Marlène</persName>
-        </person>
-        <person ana="Dumas_Pierre_Raymond">
-          <persName>Dumas Pierre-Raymond</persName>
-        </person>
-        <person ana="Clermont_Pean_Paula">
-          <persName>Clermont Péan Paula</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Wiener_Jacqueline" source="viaf">Wiener Jacqueline</relation>
+        <relation ana="Voltaire_Marcelin_MicheLe" source="viaf">Voltaire Marcelin Michèle</relation>
+        <relation ana="Trouillot_EVelyne" source="viaf">Trouillot Évelyne</relation>
+        <relation ana="TheArd_Marie_Alice" source="viaf">Théard Marie-Alice</relation>
+        <relation ana="Tavernier_Janine" source="viaf">Tavernier Janine</relation>
+        <relation ana="SureNa_Elsie" source="viaf">Suréna Elsie</relation>
+        <relation ana="Sampeur_Virginie" source="viaf">Sampeur Virginie</relation>
+        <relation ana="Rigaud_Apollon_MarleNe" source="viaf">Rigaud Apollon Marlène</relation>
+        <relation ana="Dumas_Pierre_Raymond" source="viaf">Dumas Pierre-Raymond</relation>
+        <relation ana="Clermont_Pean_Paula" source="viaf">Clermont Péan Paula</relation>
+        <relation ana="Mme_Virgile_Valcin" source="ile_en_ile_auto">Mme Virgile Valcin</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Cleante_Valcin_bio">
-    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/valcin/" xml:id="Cleante_Valcin_bio_auteur_ile_en_ile">
+    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/valcin/">
       <p>
         <persName ana="Cleante_Desgraves">
           Cléante 

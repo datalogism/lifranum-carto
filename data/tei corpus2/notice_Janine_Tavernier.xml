@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Janine_Tavernier_fiche">
@@ -28,7 +28,7 @@
         39602143
         <g ref="http://viaf.org/viaf/39602143"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Janine_Tavernier
         <g ref="http://fr.dbpedia.org/resource/Janine_Tavernier"/>
       </idno>
@@ -43,30 +43,18 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/fr</country>
         </placeName>
       </residence>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Fillaire_Bernard">
-          <persName>Fillaire Bernard</persName>
-        </person>
-        <person ana="Sojka_Leszczynska_Anna">
-          <persName>Sójka-Leszczyńska Anna</persName>
-        </person>
-        <person ana="Delporte_Charline">
-          <persName>Delporte Charline</persName>
-        </person>
-        <person ana="Wydawnictwo_Ksiezy_Marianow">
-          <persName>Wydawnictwo Księży Marianów</persName>
-        </person>
-        <person ana="Wydawnictwo Ksiezy Marianow_Mic">
-          <persName>Wydawnictwo Księży Marianów MIC</persName>
-        </person>
-        <person ana="Association_De_Defense_Des_Familles_Et_De_L_Individu_Nord">
-          <persName>Association de défense des familles et de l'individu Nord</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Fillaire_Bernard" source="viaf">Fillaire Bernard</relation>
+        <relation ana="Sojka_Leszczynska_Anna" source="viaf">Sójka-Leszczyńska Anna</relation>
+        <relation ana="Delporte_Charline" source="viaf">Delporte Charline</relation>
+        <relation ana="Wydawnictwo_Ksiezy_Marianow" source="viaf">Wydawnictwo Księży Marianów</relation>
+        <relation ana="Wydawnictwo Ksiezy Marianow_Mic" source="viaf">Wydawnictwo Księży Marianów MIC</relation>
+        <relation ana="Association_De_Defense_Des_Familles_Et_De_L_Individu_Nord" source="viaf">Association de défense des familles et de l'individu Nord</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Janine_Tavernier_bio">
-    <text ref="http://ile-en-ile.org/tavernier/" xml:id="Janine_Tavernier_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/tavernier/">
       <p>
         <persName ana="Janine_Tavernier">Janine Tavernier</persName>
          est née le 23 

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Euphele_Milce_fiche">
@@ -34,42 +34,24 @@
       <occupation source="viaf">authors black</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="PropheTe_Emmelie">
-          <persName>Prophète Emmelie</persName>
-        </person>
-        <person ana="Orcel_Makenzy">
-          <persName>Orcel Makenzy</persName>
-        </person>
-        <person ana="Moncrieff_Christopher">
-          <persName>Moncrieff Christopher</persName>
-        </person>
-        <person ana="JourneE_De_ReFlexion_Sur_&quot;Un_Leadership_GonaiVien_Pour_Un_DePartement_En_ProgreS&quot;_2011_:_GonaiVes_Haiti">
-          <persName>Journée de réflexion sur &quot;Un leadership Gonaïvien pour un département en progrès&quot; 2011 : Gonaïves Haiti</persName>
-        </person>
-        <person ana="Amisial_Jean_Osner">
-          <persName>Amisial Jean Osner</persName>
-        </person>
-        <person ana="Douge_Patrice">
-          <persName>Dougé Patrice</persName>
-        </person>
-        <person ana="Corsini_Silvio">
-          <persName>Corsini Silvio</persName>
-        </person>
-        <person ana="Bibliotheque_Cantonale_Et_Universitaire_Lausanne">
-          <persName>Bibliothèque cantonale et universitaire Lausanne</persName>
-        </person>
-        <person ana="Bernard_Campiche_Editeur">
-          <persName>Bernard Campiche Éditeur</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="PropheTe_Emmelie" source="viaf">Prophète Emmelie</relation>
+        <relation ana="Orcel_Makenzy" source="viaf">Orcel Makenzy</relation>
+        <relation ana="Moncrieff_Christopher" source="viaf">Moncrieff Christopher</relation>
+        <relation ana="JourneE_De_ReFlexion_Sur_&quot;Un_Leadership_GonaiVien_Pour_Un_DePartement_En_ProgreS&quot;_2011_:_GonaiVes_Haiti" source="viaf">Journée de réflexion sur &quot;Un leadership Gonaïvien pour un département en progrès&quot; 2011 : Gonaïves Haiti</relation>
+        <relation ana="Amisial_Jean_Osner" source="viaf">Amisial Jean Osner</relation>
+        <relation ana="Douge_Patrice" source="viaf">Dougé Patrice</relation>
+        <relation ana="Corsini_Silvio" source="viaf">Corsini Silvio</relation>
+        <relation ana="Bibliotheque_Cantonale_Et_Universitaire_Lausanne" source="viaf">Bibliothèque cantonale et universitaire Lausanne</relation>
+        <relation ana="Bernard_Campiche_Editeur" source="viaf">Bernard Campiche Éditeur</relation>
+        <relation ana="Euphele_Milce" source="ile_en_ile_auto">Euphèle Milcé</relation>
+        <relation ana="Euphele_Milce" source="ile_en_ile_auto">Euphèle Milcé</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Euphele_Milce_bio">
-    <text ref="http://ile-en-ile.org/milce/" xml:id="Jean_Euphele_Milce_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/milce/">
       <p>
         Jean-
         <persName ana="Euphele_Milce">Euphèle Milcé</persName>
@@ -111,7 +93,7 @@
          de la publication du quotidien Le National.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-euphele-milce.14143.html" xml:id="Jean_Euphele_Milce_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jean-euphele-milce.14143.html">
       <p>
         Jean-
         <persName ana="Euphele_Milce">Euphèle Milcé</persName>

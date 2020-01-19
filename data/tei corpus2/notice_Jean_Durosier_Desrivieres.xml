@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Durosier_Desrivieres_fiche">
@@ -31,10 +31,17 @@
       <occupation source="spla">Dramaturge</occupation>
       <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Journaliste</occupation>
+      <listRelation>
+        <relation ana="Mylene_Dorce" source="ile_en_ile_auto">Mylène Dorcé</relation>
+        <relation ana="Georges_Castera" source="ile_en_ile_auto">Georges Castera</relation>
+        <relation ana="Aime_Cesaire" source="ile_en_ile_auto">Aimé Césaire</relation>
+        <relation ana="Daniel_Marcelin" source="ile_en_ile_auto">Daniel Marcelin</relation>
+        <relation ana="Du_Gouvernement" source="ile_en_ile_auto">Du Gouvernement</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Durosier_Desrivieres_bio">
-    <text ref="http://ile-en-ile.org/desrivieres/" xml:id="Jean_Durosier_Desrivieres_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/desrivieres/">
       <p>
         Jean-
         <persName ana="Durosier_Desrivieres">Durosier Desrivières</persName>
@@ -120,7 +127,7 @@
         <persName ana="Mylene_Dorce">Mylène Dorcé</persName>
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-durosier-desrivieres.24258.html" xml:id="Jean_Durosier_Desrivieres_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jean-durosier-desrivieres.24258.html">
       <p>
         Né en 
         <placeName ana="Haiti">Haïti</placeName>

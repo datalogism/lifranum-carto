@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Dany_Laferriere_fiche">
@@ -28,7 +28,7 @@
         87061403
         <g ref="http://viaf.org/viaf/87061403"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Dany_Laferrière
         <g ref="http://fr.dbpedia.org/resource/Dany_Laferrière"/>
       </idno>
@@ -61,60 +61,29 @@
       <occupation source="spla">Réalisateur/trice</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Scénariste</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Homel_David">
-          <persName>Homel David</persName>
-        </person>
-        <person ana="Normandin_FreDeRic">
-          <persName>Normandin Frédéric</persName>
-        </person>
-        <person ana="Thill_Beate">
-          <persName>Thill Beate</persName>
-        </person>
-        <person ana="Magnier_Bernard">
-          <persName>Magnier Bernard</persName>
-        </person>
-        <person ana="Goldberg_Vicki">
-          <persName>Goldberg Vicki</persName>
-        </person>
-        <person ana="Giszczak_Jacek">
-          <persName>Giszczak Jacek</persName>
-        </person>
-        <person ana="Zimbel George_S">
-          <persName>Zimbel George S</persName>
-        </person>
-        <person ana="Van_De_Poel_Chris">
-          <persName>Van de Poel Chris</persName>
-        </person>
-        <person ana="Zimbel Elaine Sernovitz_A">
-          <persName>Zimbel Elaine A Sernovitz</persName>
-        </person>
-        <person ana="Cantet_Laurent">
-          <persName>Cantet Laurent</persName>
-        </person>
-        <person ana="立花_英裕">
-          <persName>立花 英裕</persName>
-        </person>
-        <person ana="Editions_Bernard_Grasset">
-          <persName>Éditions Bernard Grasset</persName>
-        </person>
-        <person ana="Moreira_Heloisa">
-          <persName>Moreira Heloisa</persName>
-        </person>
-        <person ana="박명숙">
-          <persName>박명숙</persName>
-        </person>
-        <person ana="Sanchez_Panos_Inigo">
-          <persName>Sánchez-Paños Íñigo</persName>
-        </person>
-        <person ana="Serrat_Crespo_Manuel">
-          <persName>Serrat Crespo Manuel</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Homel_David" source="viaf">Homel David</relation>
+        <relation ana="Normandin_FreDeRic" source="viaf">Normandin Frédéric</relation>
+        <relation ana="Thill_Beate" source="viaf">Thill Beate</relation>
+        <relation ana="Magnier_Bernard" source="viaf">Magnier Bernard</relation>
+        <relation ana="Goldberg_Vicki" source="viaf">Goldberg Vicki</relation>
+        <relation ana="Giszczak_Jacek" source="viaf">Giszczak Jacek</relation>
+        <relation ana="Zimbel George_S" source="viaf">Zimbel George S</relation>
+        <relation ana="Van_De_Poel_Chris" source="viaf">Van de Poel Chris</relation>
+        <relation ana="Zimbel Elaine Sernovitz_A" source="viaf">Zimbel Elaine A Sernovitz</relation>
+        <relation ana="Cantet_Laurent" source="viaf">Cantet Laurent</relation>
+        <relation ana="立花_英裕" source="viaf">立花 英裕</relation>
+        <relation ana="Editions_Bernard_Grasset" source="viaf">Éditions Bernard Grasset</relation>
+        <relation ana="Moreira_Heloisa" source="viaf">Moreira Heloisa</relation>
+        <relation ana="박명숙" source="viaf">박명숙</relation>
+        <relation ana="Sanchez_Panos_Inigo" source="viaf">Sánchez-Paños Íñigo</relation>
+        <relation ana="Serrat_Crespo_Manuel" source="viaf">Serrat Crespo Manuel</relation>
+        <relation ana="Gasner_Raymond" source="ile_en_ile_auto">Gasner Raymond</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Dany_Laferriere_bio">
-    <text ref="http://ile-en-ile.org/laferriere/" xml:id="Dany_Laferriere_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/laferriere/">
       <p>
         <persName ana="Dany_Laferriere">
           Dany 
@@ -151,7 +120,7 @@
       </p>
       <p>
         L’auteur s’engage également dans le cinéma. Il transforme son roman Le Goût des jeunes filles en scénario pour le film réalisé en 2004 par 
-        <persName ana="John_L’Ecuyer">John L’Écuyer</persName>
+        <persName ana="John Ecuyer_L">John L’Écuyer</persName>
         . En tant que réalisateur, le premier film de 
         <persName ana="Dany_Laferriere">
           Dany 
@@ -206,7 +175,7 @@
          est également traduite dans de nombreuses autres langues (chinois, coréen, grec, japonais, polonais, slovène, suédois, tchèque…).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.dany-laferriere.3366.html" xml:id="Dany_Laferriere_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.dany-laferriere.3366.html">
       <p>
         <persName ana="Dany_Laferriere">
           Dany 

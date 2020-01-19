@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emmelie_Prophete_fiche">
@@ -28,7 +28,7 @@
         47904412
         <g ref="http://viaf.org/viaf/47904412"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Emmelie_Prophète
         <g ref="http://fr.dbpedia.org/resource/Emmelie_Prophète"/>
       </idno>
@@ -48,45 +48,23 @@
       <occupation source="viaf">romancieres</occupation>
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">journalists</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Wiener_Jacqueline">
-          <persName>Wiener Jacqueline</persName>
-        </person>
-        <person ana="Voltaire_Marcelin_Michele">
-          <persName>Voltaire Marcelin Michèle</persName>
-        </person>
-        <person ana="Vincent_Nedjmhartine">
-          <persName>Vincent Nedjmhartine</persName>
-        </person>
-        <person ana="Valcin_Cleante">
-          <persName>Valcin Cléante</persName>
-        </person>
-        <person ana="Trouillot_Evelyne">
-          <persName>Trouillot Évelyne</persName>
-        </person>
-        <person ana="Theard_Marie_Alice">
-          <persName>Théard Marie-Alice</persName>
-        </person>
-        <person ana="Tennstedt_Antje">
-          <persName>Tennstedt Antje</persName>
-        </person>
-        <person ana="Tavernier_Janine">
-          <persName>Tavernier Janine</persName>
-        </person>
-        <person ana="Younsi_Ouanessa">
-          <persName>Younsi Ouanessa</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Chauvet_Marie">
-          <persName>Chauvet Marie</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Wiener_Jacqueline" source="viaf">Wiener Jacqueline</relation>
+        <relation ana="Voltaire_Marcelin_Michele" source="viaf">Voltaire Marcelin Michèle</relation>
+        <relation ana="Vincent_Nedjmhartine" source="viaf">Vincent Nedjmhartine</relation>
+        <relation ana="Valcin_Cleante" source="viaf">Valcin Cléante</relation>
+        <relation ana="Trouillot_Evelyne" source="viaf">Trouillot Évelyne</relation>
+        <relation ana="Theard_Marie_Alice" source="viaf">Théard Marie-Alice</relation>
+        <relation ana="Tennstedt_Antje" source="viaf">Tennstedt Antje</relation>
+        <relation ana="Tavernier_Janine" source="viaf">Tavernier Janine</relation>
+        <relation ana="Younsi_Ouanessa" source="viaf">Younsi Ouanessa</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Chauvet_Marie" source="viaf">Chauvet Marie</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Emmelie_Prophete_bio">
-    <text ref="http://ile-en-ile.org/prophete_emmelie/" xml:id="Emmelie_Prophete_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/prophete_emmelie/">
       <p>
         <persName ana="Emmelie_Prophete">Emmelie Prophète</persName>
          naît à Port-au-

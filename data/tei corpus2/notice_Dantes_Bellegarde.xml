@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Dantes_Bellegarde_fiche">
@@ -28,7 +28,7 @@
         46803770
         <g ref="http://viaf.org/viaf/46803770"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Dantès_Louis_Bellegarde
         <g ref="http://fr.dbpedia.org/resource/Dantès_Louis_Bellegarde"/>
       </idno>
@@ -60,30 +60,23 @@
       <occupation source="viaf">essayists</occupation>
       <occupation source="viaf">diplomats</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Sylvain_Georges">
-          <persName>Sylvain Georges</persName>
-        </person>
-        <person ana="MeNos_Solon">
-          <persName>Ménos Solon</persName>
-        </person>
-        <person ana="Duval_A">
-          <persName>Duval A</persName>
-        </person>
-        <person ana="Cook_Mercer">
-          <persName>Cook Mercer</persName>
-        </person>
-        <person ana="Charles_Louis">
-          <persName>Charles Louis</persName>
-        </person>
-        <person ana="Vincent_SteNio">
-          <persName>Vincent Sténio</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Sylvain_Georges" source="viaf">Sylvain Georges</relation>
+        <relation ana="MeNos_Solon" source="viaf">Ménos Solon</relation>
+        <relation ana="Duval_A" source="viaf">Duval A</relation>
+        <relation ana="Cook_Mercer" source="viaf">Cook Mercer</relation>
+        <relation ana="Charles_Louis" source="viaf">Charles Louis</relation>
+        <relation ana="Vincent_SteNio" source="viaf">Vincent Sténio</relation>
+        <relation ana="M_Daniel" source="ile_en_ile_auto">M. Daniel</relation>
+        <relation ana="Stenio Vincent_M" source="ile_en_ile_auto">M. Sténio Vincent</relation>
+        <relation ana="Leon Laleau_M" source="ile_en_ile_auto">M. Léon Laleau</relation>
+        <relation ana="Clement Magloire_M" source="ile_en_ile_auto">M. Clément Magloire</relation>
+        <relation ana="Abel Leger_M" source="ile_en_ile_auto">M. Abel Léger</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Dantes_Bellegarde_bio">
-    <text ref="http://ile-en-ile.org/bellegarde/" xml:id="Dantes_Bellegarde_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/bellegarde/">
       <p>
         Louis-
         <persName ana="Marie_Dantes_Bellegarde">
@@ -215,7 +208,7 @@
         , ainsi que les marques d’une renommée internationale exceptionnelle.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.dantes-bellegarde.14059.html" xml:id="Dantes_Bellegarde_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.dantes-bellegarde.14059.html">
       <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
     </text>
   </div>

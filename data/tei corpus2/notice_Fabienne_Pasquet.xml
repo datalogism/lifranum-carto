@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Fabienne_Pasquet_fiche">
@@ -23,7 +23,7 @@
     </person>
   </div>
   <div n="2" xml:id="Fabienne_Pasquet_bio">
-    <text hand="Sarah Davies Cordova" ref="http://ile-en-ile.org/pasquet_fabienne/" xml:id="Fabienne_Pasquet_bio_auteur_ile_en_ile">
+    <text hand="Sarah Davies Cordova" ref="http://ile-en-ile.org/pasquet_fabienne/">
       <p>
         <persName ana="Fabienne_Pasquet">Fabienne Pasquet</persName>
          est née le 22 décembre 1954, à 
@@ -42,7 +42,7 @@
       <p>De 1973 à 1989, elle exerce la profession de comédienne se consacrant essentiellement au théâtre. Très vite elle commence par collaborer à la dramaturgie de certains textes avant d’écrire et interpréter ses propres monologues.</p>
       <p>
         Entre-temps, de 1974 à 1975, elle fait une équivalence de DEUG en disciplines du spectacle à 
-        <placeName ana="L’Universite_De_Bologne">l’Université de Bologne</placeName>
+        <placeName ana="L_Universite_De_Bologne">l’Université de Bologne</placeName>
         , et en 1977-1978, au terme d’un séjour de 10 mois à l’Institut Pouchkine de 
         <placeName ana="Moscou">Moscou</placeName>
         , elle obtient un diplôme de russe.

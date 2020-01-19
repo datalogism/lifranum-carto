@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Max_Dorsinville_fiche">
@@ -30,10 +30,14 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Traducteur/trice</occupation>
+      <listRelation>
+        <relation ana="Caliban_Without" source="ile_en_ile_auto">Caliban Without</relation>
+        <relation ana="Roger_Dorsinville" source="ile_en_ile_auto">Roger Dorsinville</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Max_Dorsinville_bio">
-    <text hand="H. Nigel Thomas" ref="http://ile-en-ile.org/dorsinville_max/" xml:id="Max_Dorsinville_bio_auteur_ile_en_ile">
+    <text hand="H. Nigel Thomas" ref="http://ile-en-ile.org/dorsinville_max/">
       <p>
         <persName ana="Max_Dorsinville">
           Max 
@@ -256,7 +260,7 @@
          a été largement cité – comme, par exemple, par Ashcroft, Griffiths et Tiffin dans The Empire Writes Back  (1989) – (et, parfois, j’ajouterai, sans lui donner le crédit qui lui revient), sa fiction reste cependant inconnue, en général.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.max-dorsinville.32109.html" xml:id="Max_Dorsinville_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.max-dorsinville.32109.html">
       <p>
         <persName ana="Max_Dorsinville">
           Max 

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Elvire_Maurouard_fiche">
@@ -33,10 +33,13 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Editions_Karthala" source="ile_en_ile_auto">Editions Karthala</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Elvire_Maurouard_bio">
-    <text ref="http://ile-en-ile.org/maurouard/" xml:id="Elvire_Maurouard_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/maurouard/">
       <p>
         <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>
          est née Marie-
@@ -106,7 +109,7 @@
          s’engage à la fois dans la création proprement littéraire et dans l’analyse de la création des autres auteurs avec, dit-elle, « toute la prudence que cette démarche inspire ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.elvire-maurouard.5772.html" xml:id="Elvire_Maurouard_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.elvire-maurouard.5772.html">
       <p>
         Enseignante, 
         <persName ana="Elvire_Maurouard">Elvire Maurouard</persName>

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Marc_Pasquet_fiche">
@@ -23,27 +23,19 @@
       <birth source="viaf">
         <date>1969</date>
       </birth>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Huet_Gaetan">
-          <persName>Huet Gaëtan</persName>
-        </person>
-        <person ana="Avrillier_Raymond">
-          <persName>Avrillier Raymond</persName>
-        </person>
-        <person ana="Kerambrun_JeRoMe">
-          <persName>Kerambrun Jérôme</persName>
-        </person>
-        <person ana="Centre_D_Eco_Developpement_&amp;_D_Initiative_Sociale_France">
-          <persName>Centre d'éco-développement &amp; d'initiative sociale France</persName>
-        </person>
-        <person ana="Brunel_Laurence">
-          <persName>Brunel Laurence</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Huet_Gaetan" source="viaf">Huet Gaëtan</relation>
+        <relation ana="Avrillier_Raymond" source="viaf">Avrillier Raymond</relation>
+        <relation ana="Kerambrun_JeRoMe" source="viaf">Kerambrun Jérôme</relation>
+        <relation ana="Centre_D_Eco_Developpement_&amp;_D_Initiative_Sociale_France" source="viaf">Centre d'éco-développement &amp; d'initiative sociale France</relation>
+        <relation ana="Brunel_Laurence" source="viaf">Brunel Laurence</relation>
+        <relation ana="Marc_Pasquet" source="ile_en_ile_auto">Marc Pasquet</relation>
+        <relation ana="Marc_Pasquet" source="ile_en_ile_auto">Marc Pasquet</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Marc_Pasquet_bio">
-    <text ref="http://ile-en-ile.org/pasquet_jean-marc/" xml:id="Jean_Marc_Pasquet_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/pasquet_jean-marc/">
       <p>
         Jean-
         <persName ana="Marc_Pasquet">Marc Pasquet</persName>

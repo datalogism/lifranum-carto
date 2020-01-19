@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Fednel_Alexandre_fiche">
@@ -33,10 +33,13 @@
       <occupation source="spla"> Professeur</occupation>
       <occupation source="spla"> Universitaire</occupation>
       <occupation source="spla"> Animateur/trice</occupation>
+      <listRelation>
+        <relation ana="Toussaint_Louverture" source="ile_en_ile_auto">Toussaint Louverture</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Fednel_Alexandre_bio">
-    <text ref="http://www.spla.pro/fiche.personne.fednel-alexandre.20076.html" xml:id="Fednel_Alexandre_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.fednel-alexandre.20076.html">
       <p>
         Fednel Alexandre est né dans la banlieue de la petite ville de Port-de-Paix, au nord-ouest d'
         <placeName ana="Haiti">Haiti</placeName>

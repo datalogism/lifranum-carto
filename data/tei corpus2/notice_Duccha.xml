@@ -12,18 +12,23 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Duccha_fiche">
     <person ana="Duccha" sex="na">
       <persName>Duccha</persName>
+      <listRelation>
+        <relation ana="Edgar_Gousse" source="ile_en_ile_auto">Edgar Gousse</relation>
+        <relation ana="Karl_Popper" source="ile_en_ile_auto">Karl Popper</relation>
+        <relation ana="Fondasyon_Konesans_Ak_Libete" source="ile_en_ile_auto">Fondasyon Konesans ak Libète</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Duccha_bio">
-    <text ref="http://ile-en-ile.org/duccha/" xml:id="Duccha_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/duccha/">
       <p>
         <persName ana="Duckens_Charitable">Duckens Charitable</persName>
         , dit 

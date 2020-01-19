@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Robert_Berrouet_Oriol_fiche">
@@ -25,42 +25,23 @@
       </birth>
       <occupation source="viaf">linguists</occupation>
       <occupation source="viaf">authors black</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Saint_Fort_Hugues">
-          <persName>Saint-Fort Hugues</persName>
-        </person>
-        <person ana="John_Valerie">
-          <persName>John Valérie</persName>
-        </person>
-        <person ana="Fournier_Robert">
-          <persName>Fournier Robert</persName>
-        </person>
-        <person ana="CothieRe_Darline">
-          <persName>Cothière Darline</persName>
-        </person>
-        <person ana="Turi Joseph_G">
-          <persName>Turi Joseph-G</persName>
-        </person>
-        <person ana="Fattier_Dominique">
-          <persName>Fattier Dominique</persName>
-        </person>
-        <person ana="Durosier_Desrivieres_Jean">
-          <persName>Durosier Desrivières Jean</persName>
-        </person>
-        <person ana="Desrivieres_Jean_Durosier">
-          <persName>Desrivières Jean Durosier</persName>
-        </person>
-        <person ana="Corbeil_Jean_Claude">
-          <persName>Corbeil Jean-Claude</persName>
-        </person>
-        <person ana="Coates Carrol_F">
-          <persName>Coates Carrol F</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Saint_Fort_Hugues" source="viaf">Saint-Fort Hugues</relation>
+        <relation ana="John_Valerie" source="viaf">John Valérie</relation>
+        <relation ana="Fournier_Robert" source="viaf">Fournier Robert</relation>
+        <relation ana="CothieRe_Darline" source="viaf">Cothière Darline</relation>
+        <relation ana="Turi Joseph_G" source="viaf">Turi Joseph-G</relation>
+        <relation ana="Fattier_Dominique" source="viaf">Fattier Dominique</relation>
+        <relation ana="Durosier_Desrivieres_Jean" source="viaf">Durosier Desrivières Jean</relation>
+        <relation ana="Desrivieres_Jean_Durosier" source="viaf">Desrivières Jean Durosier</relation>
+        <relation ana="Corbeil_Jean_Claude" source="viaf">Corbeil Jean-Claude</relation>
+        <relation ana="Coates Carrol_F" source="viaf">Coates Carrol F</relation>
+        <relation ana="Robert_Berrouet" source="ile_en_ile_auto">Robert Berrouët</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Robert_Berrouet_Oriol_bio">
-    <text hand="Mylène Dorcé" ref="http://ile-en-ile.org/berrouet-oriol/" xml:id="Robert_Berrouet_Oriol_bio_auteur_ile_en_ile">
+    <text hand="Mylène Dorcé" ref="http://ile-en-ile.org/berrouet-oriol/">
       <p>
         Originaire de 
         <placeName ana="Jacmel">Jacmel</placeName>

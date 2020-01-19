@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Webert_Charles_fiche">
@@ -31,10 +31,59 @@
       <occupation source="spla">Editeur/trice</occupation>
       <occupation source="spla"> Opérateur/trice culturel/le</occupation>
       <occupation source="spla"> Critique littéraire</occupation>
+      <listRelation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Jean_Watson_Charles" source="ile_en_ile_auto">Jean Watson Charles</relation>
+        <relation ana="Denise_Bernhardt" source="ile_en_ile_auto">Denise Bernhardt</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Jean_Watson_Charles" source="ile_en_ile_auto">Jean Watson Charles</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Leopold_Sedar_Senghor" source="ile_en_ile_auto">Léopold Sédar Senghor</relation>
+        <relation ana="Jean_Watson_Charles" source="ile_en_ile_auto">Jean Watson Charles</relation>
+        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Alice_Theard" source="ile_en_ile_auto">Alice Théard</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Gary_Victor" source="ile_en_ile_auto">Gary Victor</relation>
+        <relation ana="Dany_Laferriere" source="ile_en_ile_auto">Dany Laferrière</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
+        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Nadine_Magloire" source="ile_en_ile_auto">Nadine Magloire</relation>
+        <relation ana="Alice_Theard" source="ile_en_ile_auto">Alice Théard</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dominique_Batraville" source="ile_en_ile_auto">Dominique Batraville</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Georges_Sylvain" source="ile_en_ile_auto">Georges Sylvain</relation>
+        <relation ana="Marie_Vieux" source="ile_en_ile_auto">Marie Vieux</relation>
+        <relation ana="Dieulermesson_Petit" source="ile_en_ile_auto">Dieulermesson Petit</relation>
+        <relation ana="Marc_Exavier" source="ile_en_ile_auto">Marc Exavier</relation>
+        <relation ana="Bibliotheque_Araka" source="ile_en_ile_auto">Bibliothèque Araka</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Nadine_Magloire" source="ile_en_ile_auto">Nadine Magloire</relation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Yanick_Lahens" source="ile_en_ile_auto">Yanick Lahens</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Webert_Charles_bio">
-    <text ref="http://www.spla.pro/fiche.personne.webert-charles.39867.html" xml:id="Webert_Charles_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.webert-charles.39867.html">
       <p>
         Wébert Charles est né le 24 octobre 1988 à Port-au-
         <placeName ana="Prince">Prince</placeName>

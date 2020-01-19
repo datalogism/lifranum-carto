@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Roussan_Camille_fiche">
@@ -28,7 +28,7 @@
         71523357
         <g ref="http://viaf.org/viaf/71523357"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Roussan_Camille
         <g ref="http://fr.dbpedia.org/resource/Roussan_Camille"/>
       </idno>
@@ -46,45 +46,25 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Debray_Gabriel">
-          <persName>Debray Gabriel</persName>
-        </person>
-        <person ana="Gaye_Amadou">
-          <persName>Gaye Amadou</persName>
-        </person>
-        <person ana="Dadie_Bernard_Binlin">
-          <persName>Dadié Bernard Binlin</persName>
-        </person>
-        <person ana="Tirolien_Guy">
-          <persName>Tirolien Guy</persName>
-        </person>
-        <person ana="TeZe_SeBastien">
-          <persName>Tézé Sébastien</persName>
-        </person>
-        <person ana="Senghor_Leopold_Sedar">
-          <persName>Senghor Léopold Sédar</persName>
-        </person>
-        <person ana="Piquion_Rene">
-          <persName>Piquion René</persName>
-        </person>
-        <person ana="Metellus_Jean">
-          <persName>Métellus Jean</persName>
-        </person>
-        <person ana="Diop_David">
-          <persName>Diop David</persName>
-        </person>
-        <person ana="CeSaire_Aime">
-          <persName>Césaire Aimé</persName>
-        </person>
-        <person ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress">
-          <persName>Archive of Hispanic Literature on Tape Library of Congress</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Debray_Gabriel" source="viaf">Debray Gabriel</relation>
+        <relation ana="Gaye_Amadou" source="viaf">Gaye Amadou</relation>
+        <relation ana="Dadie_Bernard_Binlin" source="viaf">Dadié Bernard Binlin</relation>
+        <relation ana="Tirolien_Guy" source="viaf">Tirolien Guy</relation>
+        <relation ana="TeZe_SeBastien" source="viaf">Tézé Sébastien</relation>
+        <relation ana="Senghor_Leopold_Sedar" source="viaf">Senghor Léopold Sédar</relation>
+        <relation ana="Piquion_Rene" source="viaf">Piquion René</relation>
+        <relation ana="Metellus_Jean" source="viaf">Métellus Jean</relation>
+        <relation ana="Diop_David" source="viaf">Diop David</relation>
+        <relation ana="CeSaire_Aime" source="viaf">Césaire Aimé</relation>
+        <relation ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress" source="viaf">Archive of Hispanic Literature on Tape Library of Congress</relation>
+        <relation ana="Raphael Berrou_F" source="ile_en_ile_auto">F. Raphaël Berrou</relation>
+        <relation ana="Pradel_Pompilus" source="ile_en_ile_auto">Pradel Pompilus</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Roussan_Camille_bio">
-    <text ref="http://ile-en-ile.org/camille/" xml:id="Roussan_Camille_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/camille/">
       <p>
         <persName ana="Roussan_Camille">Roussan Camille</persName>
          naît le 27 août 1912 à 

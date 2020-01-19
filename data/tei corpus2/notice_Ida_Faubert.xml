@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Ida_Faubert_fiche">
@@ -28,7 +28,7 @@
         31001109
         <g ref="http://viaf.org/viaf/31001109"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Ida_Faubert
         <g ref="http://fr.dbpedia.org/resource/Ida_Faubert"/>
       </idno>
@@ -57,24 +57,18 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Brancour_Rene">
-          <persName>Brancour René</persName>
-        </person>
-        <person ana="Dominique_Pierre">
-          <persName>Dominique Pierre</persName>
-        </person>
-        <person ana="Autezac Leo D 18 19 Compositeur_">
-          <persName>Autezac Léo d' 18-19 compositeur</persName>
-        </person>
-        <person ana="Vignaud_Jean">
-          <persName>Vignaud Jean</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Brancour_Rene" source="viaf">Brancour René</relation>
+        <relation ana="Dominique_Pierre" source="viaf">Dominique Pierre</relation>
+        <relation ana="Autezac Leo D 18 19 Compositeur_" source="viaf">Autezac Léo d' 18-19 compositeur</relation>
+        <relation ana="Vignaud_Jean" source="viaf">Vignaud Jean</relation>
+        <relation ana="Lysius_Salomon" source="ile_en_ile_auto">Lysius Salomon</relation>
+        <relation ana="Ida_Salomon_Faubert" source="ile_en_ile_auto">Ida Salomon Faubert</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Ida_Faubert_bio">
-    <text ref="http://ile-en-ile.org/faubert/" xml:id="Ida_Faubert_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/faubert/">
       <p>
         Fille unique du président haïtien 
         <persName ana="Lysius_Salomon">Lysius Salomon</persName>
@@ -235,7 +229,7 @@ Et les jasmins s’effeuilleraient sur nos genoux. (Cœur des îles
          en 2007.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.ida-faubert.14100.html" xml:id="Ida_Faubert_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.ida-faubert.14100.html">
       <p>
         Naissance: 14 Février 1882Mort: 1969Pays d'origine: HaïtiProfessions : poétesse et écrivaineFille unique du président haïtien 
         <persName ana="Lysius_Salomon">Lysius Salomon</persName>

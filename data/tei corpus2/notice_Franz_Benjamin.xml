@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Franz_Benjamin_fiche">
@@ -47,42 +47,22 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Saint_Eloi_Rodney">
-          <persName>Saint-Éloi Rodney</persName>
-        </person>
-        <person ana="Beha_Philippe">
-          <persName>Béha Philippe</persName>
-        </person>
-        <person ana="Volcy_Marie_Michele_Amedee">
-          <persName>Volcy Marie Michèle Amédée</persName>
-        </person>
-        <person ana="Societe_Paroles">
-          <persName>Société paroles</persName>
-        </person>
-        <person ana="Societe_Paroles_Firme">
-          <persName>Société Paroles Firme</persName>
-        </person>
-        <person ana="Younsi_Ouanessa">
-          <persName>Younsi Ouanessa</persName>
-        </person>
-        <person ana="VeZina_Michel">
-          <persName>Vézina Michel</persName>
-        </person>
-        <person ana="Soucy_Pierre_Yves">
-          <persName>Soucy Pierre-Yves</persName>
-        </person>
-        <person ana="Puana_Shan_Dak">
-          <persName>Puana Shan Dak</persName>
-        </person>
-        <person ana="PropheTe_Emmelie">
-          <persName>Prophète Emmelie</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
+        <relation ana="Beha_Philippe" source="viaf">Béha Philippe</relation>
+        <relation ana="Volcy_Marie_Michele_Amedee" source="viaf">Volcy Marie Michèle Amédée</relation>
+        <relation ana="Societe_Paroles" source="viaf">Société paroles</relation>
+        <relation ana="Societe_Paroles_Firme" source="viaf">Société Paroles Firme</relation>
+        <relation ana="Younsi_Ouanessa" source="viaf">Younsi Ouanessa</relation>
+        <relation ana="VeZina_Michel" source="viaf">Vézina Michel</relation>
+        <relation ana="Soucy_Pierre_Yves" source="viaf">Soucy Pierre-Yves</relation>
+        <relation ana="Puana_Shan_Dak" source="viaf">Puana Shan Dak</relation>
+        <relation ana="PropheTe_Emmelie" source="viaf">Prophète Emmelie</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Franz_Benjamin_bio">
-    <text ref="http://ile-en-ile.org/benjamin/" xml:id="Franz_Benjamin_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/benjamin/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -130,7 +110,7 @@
          (UNEQ).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.franz-benjamin.7348.html" xml:id="Franz_Benjamin_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.franz-benjamin.7348.html">
       <p>
         <persName ana="Franz_Benjamin">Franz Benjamin</persName>
          vit à 

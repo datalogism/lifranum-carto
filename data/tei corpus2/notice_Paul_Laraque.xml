@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Paul_Laraque_fiche">
@@ -28,7 +28,7 @@
         39379555
         <g ref="http://viaf.org/viaf/39379555"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Paul_Laraque
         <g ref="http://fr.dbpedia.org/resource/Paul_Laraque"/>
       </idno>
@@ -57,42 +57,28 @@
       </residence>
       <occupation source="viaf">poetes</occupation>
       <occupation source="spla">Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Laraque_Franck">
-          <persName>Laraque Franck</persName>
-        </person>
-        <person ana="Hirschman_Jack">
-          <persName>Hirschman Jack</persName>
-        </person>
-        <person ana="Morejon_Nancy">
-          <persName>Morejón Nancy</persName>
-        </person>
-        <person ana="Delince_Kern">
-          <persName>Delince Kern</persName>
-        </person>
-        <person ana="Manno_Rosemary">
-          <persName>Manno Rosemary</persName>
-        </person>
-        <person ana="Sauer_Ronald">
-          <persName>Sauer Ronald</persName>
-        </person>
-        <person ana="Sarriere_Beltran">
-          <persName>Sarriere Beltran</persName>
-        </person>
-        <person ana="Roumain_Jacques">
-          <persName>Roumain Jacques</persName>
-        </person>
-        <person ana="Boadiba">
-          <persName>Boadiba</persName>
-        </person>
-        <person ana="Laraque Guy_F">
-          <persName>Laraque Guy F</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Laraque_Franck" source="viaf">Laraque Franck</relation>
+        <relation ana="Hirschman_Jack" source="viaf">Hirschman Jack</relation>
+        <relation ana="Morejon_Nancy" source="viaf">Morejón Nancy</relation>
+        <relation ana="Delince_Kern" source="viaf">Delince Kern</relation>
+        <relation ana="Manno_Rosemary" source="viaf">Manno Rosemary</relation>
+        <relation ana="Sauer_Ronald" source="viaf">Sauer Ronald</relation>
+        <relation ana="Sarriere_Beltran" source="viaf">Sarriere Beltran</relation>
+        <relation ana="Roumain_Jacques" source="viaf">Roumain Jacques</relation>
+        <relation ana="Boadiba" source="viaf">Boadiba</relation>
+        <relation ana="Laraque Guy_F" source="viaf">Laraque Guy F</relation>
+        <relation ana="Stephen_Alexis" source="ile_en_ile_auto">Stephen Alexis</relation>
+        <relation ana="Jacques_Roumain" source="ile_en_ile_auto">Jacques Roumain</relation>
+        <relation ana="Guy Laraque_F" source="ile_en_ile_auto">Guy F. Laraque</relation>
+        <relation ana="Pol_Larak" source="ile_en_ile_auto">Pòl Larak</relation>
+        <relation ana="Andre_Breton" source="ile_en_ile_auto">André Breton</relation>
+        <relation ana="Marcelle_Pierre" source="ile_en_ile_auto">Marcelle Pierre</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Paul_Laraque_bio">
-    <text ref="http://ile-en-ile.org/laraque/" xml:id="Paul_Laraque_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/laraque/">
       <p>
         <persName ana="Paul_Laraque">
           Paul 
@@ -129,7 +115,7 @@
          s’exile en 1961, vers 
         <placeName ana="New_York">New York</placeName>
         , 
-        <placeName ana="L’Espagne">l’Espagne</placeName>
+        <placeName ana="L_Espagne">l’Espagne</placeName>
          puis de nouveau à 
         <placeName ana="New_York">New York</placeName>
          où vit déjà son frère Franck et la famille de celui-ci. L’épouse de 
@@ -206,7 +192,7 @@
         , en français et en créole, à la poésie universelle ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.paul-laraque.14131.html" xml:id="Paul_Laraque_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.paul-laraque.14131.html">
       <p>
         <persName ana="Paul_Laraque">
           Paul 

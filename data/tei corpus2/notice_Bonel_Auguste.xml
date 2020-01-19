@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Bonel, Auguste</title>
+        <title>Notice de Bonel Auguste</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Bonel_Auguste_fiche">
     <person ana="Bonel_Auguste" sex="na">
-      <persName>Bonel, Auguste</persName>
+      <persName>Bonel Auguste</persName>
       <idno type="BNF">
         cb166880985#about
         <g ref="http://data.bnf.fr/ark:/12148/cb166880985#about"/>
@@ -47,10 +47,13 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Tahar_Bekri" source="ile_en_ile_auto">Tahar Bekri</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Bonel_Auguste_bio">
-    <text ref="http://ile-en-ile.org/auguste/" xml:id="Bonel_Auguste_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/auguste/">
       <p>
         <persName ana="Bonel_Auguste">Bonel Auguste</persName>
         , né à Port-au-
@@ -88,7 +91,7 @@
       </p>
       <p>Sa poésie se veut une forme-sens. Elle dit l’angoisse existentielle, questionne l’espace, le temps, la mort, l’éternité, évoque aussi la mémoire, la blessure de l’histoire, le sens du monde, la sensualité des corps amoureux, dans de subtiles métaphores.</p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.bonel-auguste.14053.html" xml:id="Bonel_Auguste_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.bonel-auguste.14053.html">
       <p>
         <persName ana="Bonel_Auguste">Bonel Auguste</persName>
         , né à Port-au-

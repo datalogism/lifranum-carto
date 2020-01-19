@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Marc_Exavier_fiche">
@@ -48,18 +48,16 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Journaliste</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Hippolite_GeRard">
-          <persName>Hippolite Gérard</persName>
-        </person>
-        <person ana="Hipppolite_GeRard">
-          <persName>Hipppolite Gérard</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Hippolite_GeRard" source="viaf">Hippolite Gérard</relation>
+        <relation ana="Hipppolite_GeRard" source="viaf">Hipppolite Gérard</relation>
+        <relation ana="Marc Exavier_K" source="ile_en_ile_auto">Marc K. Exavier</relation>
+        <relation ana="Louis_Du_Nord" source="ile_en_ile_auto">Louis du Nord</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Marc_Exavier_bio">
-    <text ref="http://ile-en-ile.org/exavier/" xml:id="Marc_Exavier_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/exavier/">
       <p>
         <persName ana="Marc Exavier_K">Marc K. Exavier</persName>
          naît le 27 novembre 1962 à Saint-
@@ -139,7 +137,7 @@
          ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.marc-exavier.32110.html" xml:id="Marc_Exavier_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.marc-exavier.32110.html">
       <p>
         <persName ana="Marc Exavier_K">Marc K. Exavier</persName>
          naît le 27 novembre 1962 à Saint-

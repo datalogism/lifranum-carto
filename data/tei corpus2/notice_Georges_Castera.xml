@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Georges_Castera_fiche">
@@ -28,7 +28,7 @@
         7456457
         <g ref="http://viaf.org/viaf/7456457"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Georges_Castera
         <g ref="http://fr.dbpedia.org/resource/Georges_Castera"/>
       </idno>
@@ -54,42 +54,29 @@
       <occupation source="viaf">designers</occupation>
       <occupation source="viaf">authors</occupation>
       <occupation source="spla">Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Saint_Eloi_Rodney">
-          <persName>Saint-Éloi Rodney</persName>
-        </person>
-        <person ana="Lanctot_Mance">
-          <persName>Lanctôt Mance</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="加古_里子">
-          <persName>加古 里子</persName>
-        </person>
-        <person ana="Wah_Bernard">
-          <persName>Wah Bernard</persName>
-        </person>
-        <person ana="Saint_Fleurant_Louisiane">
-          <persName>Saint Fleurant Louisiane</persName>
-        </person>
-        <person ana="Kako_Satoshi">
-          <persName>Kako Satoshi</persName>
-        </person>
-        <person ana="Pierre_Claude">
-          <persName>Pierre Claude</persName>
-        </person>
-        <person ana="Durosier_Desrivieres_Jean">
-          <persName>Durosier Desrivières Jean</persName>
-        </person>
-        <person ana="Lanctt_Mance">
-          <persName>Lanctt̥ Mance</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
+        <relation ana="Lanctot_Mance" source="viaf">Lanctôt Mance</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="加古_里子" source="viaf">加古 里子</relation>
+        <relation ana="Wah_Bernard" source="viaf">Wah Bernard</relation>
+        <relation ana="Saint_Fleurant_Louisiane" source="viaf">Saint Fleurant Louisiane</relation>
+        <relation ana="Kako_Satoshi" source="viaf">Kako Satoshi</relation>
+        <relation ana="Pierre_Claude" source="viaf">Pierre Claude</relation>
+        <relation ana="Durosier_Desrivieres_Jean" source="viaf">Durosier Desrivières Jean</relation>
+        <relation ana="Lanctt_Mance" source="viaf">Lanctt̥ Mance</relation>
+        <relation ana="Lody_Auguste" source="ile_en_ile_auto">Lody Auguste</relation>
+        <relation ana="Atis_Endepandan" source="ile_en_ile_auto">Atis Endepandan</relation>
+        <relation ana="Rigaud_Chery" source="ile_en_ile_auto">Rigaud Chéry</relation>
+        <relation ana="Marcel_Nouvrier" source="ile_en_ile_auto">Marcel Nouvrier</relation>
+        <relation ana="Wooly_Saint_Louis_Jean" source="ile_en_ile_auto">Wooly Saint Louis Jean</relation>
+        <relation ana="Syto_Cave" source="ile_en_ile_auto">Syto Cavé</relation>
+        <relation ana="Herve_Denis" source="ile_en_ile_auto">Hervé Denis</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Georges_Castera_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/castera/" xml:id="Georges_Castera_bio_auteur_ile_en_ile">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/castera/">
       <p>
         <persName ana="Georges_Castera">Georges Castera</persName>
          fils est né le 27 décembre 1936 à Port-au-
@@ -136,7 +123,7 @@
       </p>
       <p>
         En 1956, il part pour 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
         . Il découvre en 
         <placeName ana="France">France</placeName>
          une jeunesse curieuse de révolutionner le monde. Surréaliste et marxiste, dans ses écrits, il prend le parti des petites gens et chante leur face à face quotidien avec la vie. Heureusement que chez Castera, la poésie et la révolution (à venir et à faire) font toujours bon ménage.
@@ -198,7 +185,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.georges-castera.8063.html" xml:id="Georges_Castera_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.georges-castera.8063.html">
       <p>
         <persName ana="Georges_Castera">Georges Castera</persName>
          est né le 26 décembre 1936. Il a quitté 

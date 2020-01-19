@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gerald_Bloncourt_fiche">
@@ -28,7 +28,7 @@
         2710821
         <g ref="http://viaf.org/viaf/2710821"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Gérald_Bloncourt
         <g ref="http://fr.dbpedia.org/resource/Gérald_Bloncourt"/>
       </idno>
@@ -65,45 +65,28 @@
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Bastos_Daniel">
-          <persName>Bastos Daniel</persName>
-        </person>
-        <person ana="Teixeira_Joaquim_Paulo_Lopes">
-          <persName>Teixeira Joaquim Paulo Lopes</persName>
-        </person>
-        <person ana="LoWy_Michael">
-          <persName>Löwy Michael</persName>
-        </person>
-        <person ana="Vigee_Claude">
-          <persName>Vigée Claude</persName>
-        </person>
-        <person ana="Vallotton_Jean_Pierre">
-          <persName>Vallotton Jean-Pierre</persName>
-        </person>
-        <person ana="Teixeira_Paulo">
-          <persName>Teixeira Paulo</persName>
-        </person>
-        <person ana="Nadal_Gardere_Marie_Jose">
-          <persName>Nadal-Gardère Marie-José</persName>
-        </person>
-        <person ana="Mouraux_Lionel">
-          <persName>Mouraux Lionel</persName>
-        </person>
-        <person ana="Morin_Edgar">
-          <persName>Morin Edgar</persName>
-        </person>
-        <person ana="Esposito_Bernard">
-          <persName>Esposito Bernard</persName>
-        </person>
-        <person ana="Nadal_Marie_Jose">
-          <persName>Nadal Marie-José</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Bastos_Daniel" source="viaf">Bastos Daniel</relation>
+        <relation ana="Teixeira_Joaquim_Paulo_Lopes" source="viaf">Teixeira Joaquim Paulo Lopes</relation>
+        <relation ana="LoWy_Michael" source="viaf">Löwy Michael</relation>
+        <relation ana="Vigee_Claude" source="viaf">Vigée Claude</relation>
+        <relation ana="Vallotton_Jean_Pierre" source="viaf">Vallotton Jean-Pierre</relation>
+        <relation ana="Teixeira_Paulo" source="viaf">Teixeira Paulo</relation>
+        <relation ana="Nadal_Gardere_Marie_Jose" source="viaf">Nadal-Gardère Marie-José</relation>
+        <relation ana="Mouraux_Lionel" source="viaf">Mouraux Lionel</relation>
+        <relation ana="Morin_Edgar" source="viaf">Morin Edgar</relation>
+        <relation ana="Esposito_Bernard" source="viaf">Esposito Bernard</relation>
+        <relation ana="Nadal_Marie_Jose" source="viaf">Nadal Marie-José</relation>
+        <relation ana="Joelle_Vitiello" source="ile_en_ile_auto">Joëlle Vitiello</relation>
+        <relation ana="Stephen_Alexis" source="ile_en_ile_auto">Stephen Alexis</relation>
+        <relation ana="Georges_Beaufils" source="ile_en_ile_auto">Georges Beaufils</relation>
+        <relation ana="Rene_Depestre" source="ile_en_ile_auto">René Depestre</relation>
+        <relation ana="Gerard_Chenet" source="ile_en_ile_auto">Gérard Chenet</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Gerald_Bloncourt_bio">
-    <text hand="Thomas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/" xml:id="Gerald_Bloncourt_bio_auteur_ile_en_ile">
+    <text hand="Thomas C. Spear et Joëlle Vitiello" ref="http://ile-en-ile.org/bloncourt/">
       <p>
         <persName ana="Gerald_Bloncourt">
           Gérald 
@@ -371,7 +354,7 @@ Le dernier hommage à Gérald aura lieu le lundi 5 novembre au
         .  
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gerald-bloncourt.5362.html" xml:id="Gerald_Bloncourt_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.gerald-bloncourt.5362.html">
       <p>
         <persName ana="Gerald_Bloncourt">
           Gérald 

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Edwige_Danticat_fiche">
@@ -31,10 +31,35 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Producteur/trice</occupation>
+      <listRelation>
+        <relation ana="Brown_University" source="ile_en_ile_auto">Brown University</relation>
+        <relation ana="Jonathan_Demme" source="ile_en_ile_auto">Jonathan Demme</relation>
+        <relation ana="Jonathan_Demme" source="ile_en_ile_auto">Jonathan Demme</relation>
+        <relation ana="Jean_Dominique" source="ile_en_ile_auto">Jean Dominique</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Barnard_College" source="ile_en_ile_auto">Barnard College</relation>
+        <relation ana="Brown_University" source="ile_en_ile_auto">Brown University</relation>
+        <relation ana="Maxine_Hong_Kingston" source="ile_en_ile_auto">Maxine Hong Kingston</relation>
+        <relation ana="Toni_Morrison" source="ile_en_ile_auto">Toni Morrison</relation>
+        <relation ana="Oprah_Winfrey" source="ile_en_ile_auto">Oprah Winfrey</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Patricia_Benoit" source="ile_en_ile_auto">Patricia Benoit</relation>
+        <relation ana="Jonathan_Demme" source="ile_en_ile_auto">Jonathan Demme</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Stephen_Alexis" source="ile_en_ile_auto">Stephen Alexis</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+        <relation ana="Edwidge_Danticat" source="ile_en_ile_auto">Edwidge Danticat</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Edwige_Danticat_bio">
-    <text ref="http://www.spla.pro/fiche.personne.edwige-danticat.4217.html" xml:id="Edwige_Danticat_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.edwige-danticat.4217.html">
       <p>
         Auteure américano-
         <placeName ana="Haitienne">Haïtienne</placeName>

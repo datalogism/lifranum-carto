@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Mona_Guerin_fiche">
@@ -53,42 +53,28 @@
       </residence>
       <occupation source="spla">Dramaturge</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Wiener_Jacqueline">
-          <persName>Wiener Jacqueline</persName>
-        </person>
-        <person ana="Voltaire_Marcelin_Michele">
-          <persName>Voltaire Marcelin Michèle</persName>
-        </person>
-        <person ana="Vincent_Nedjmhartine">
-          <persName>Vincent Nedjmhartine</persName>
-        </person>
-        <person ana="Valcin_Cleante">
-          <persName>Valcin Cléante</persName>
-        </person>
-        <person ana="Trouillot_Evelyne">
-          <persName>Trouillot Évelyne</persName>
-        </person>
-        <person ana="Theard_Marie_Alice">
-          <persName>Théard Marie-Alice</persName>
-        </person>
-        <person ana="Tavernier_Janine">
-          <persName>Tavernier Janine</persName>
-        </person>
-        <person ana="Surena_Elsie">
-          <persName>Suréna Elsie</persName>
-        </person>
-        <person ana="Savary_Savannah">
-          <persName>Savary Savannah</persName>
-        </person>
-        <person ana="Sampeur_Virginie">
-          <persName>Sampeur Virginie</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Wiener_Jacqueline" source="viaf">Wiener Jacqueline</relation>
+        <relation ana="Voltaire_Marcelin_Michele" source="viaf">Voltaire Marcelin Michèle</relation>
+        <relation ana="Vincent_Nedjmhartine" source="viaf">Vincent Nedjmhartine</relation>
+        <relation ana="Valcin_Cleante" source="viaf">Valcin Cléante</relation>
+        <relation ana="Trouillot_Evelyne" source="viaf">Trouillot Évelyne</relation>
+        <relation ana="Theard_Marie_Alice" source="viaf">Théard Marie-Alice</relation>
+        <relation ana="Tavernier_Janine" source="viaf">Tavernier Janine</relation>
+        <relation ana="Surena_Elsie" source="viaf">Suréna Elsie</relation>
+        <relation ana="Savary_Savannah" source="viaf">Savary Savannah</relation>
+        <relation ana="Sampeur_Virginie" source="viaf">Sampeur Virginie</relation>
+        <relation ana="Camille_Duplessy" source="ile_en_ile_auto">Camille Duplessy</relation>
+        <relation ana="Gontran_Rouzier" source="ile_en_ile_auto">Gontran Rouzier</relation>
+        <relation ana="Mona_Rouzier" source="ile_en_ile_auto">Mona Rouzier</relation>
+        <relation ana="Joseph_De_Cluny" source="ile_en_ile_auto">Joseph de Cluny</relation>
+        <relation ana="Rose_De_Lima" source="ile_en_ile_auto">Rose de Lima</relation>
+        <relation ana="President_Lescot" source="ile_en_ile_auto">Président Lescot</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Mona_Guerin_bio">
-    <text ref="http://ile-en-ile.org/guerin/" xml:id="Mona_Guerin_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/guerin/">
       <p>
         <persName ana="Mona_Guerin">Mona Guérin</persName>
          naît le 9 octobre 1934 à Port-au-
@@ -209,7 +195,7 @@
          meurt le 30 décembre 2011. Dans les jours qui viennent, nous signalerons des hommages célébrant l’auteure dans les liens ci-dessous.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.mona-guerin.14114.html" xml:id="Mona_Guerin_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.mona-guerin.14114.html">
       <p>
         <persName ana="Mona_Guerin">Mona Guérin</persName>
          naît le 9 octobre 1934 à Port-au-

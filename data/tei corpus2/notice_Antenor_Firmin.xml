@@ -12,18 +12,21 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Antenor_Firmin_fiche">
     <person ana="Antenor_Firmin" sex="na">
       <persName>Anténor Firmin</persName>
+      <listRelation>
+        <relation ana="Yves_Chemla" source="ile_en_ile_auto">Yves Chemla</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Antenor_Firmin_bio">
-    <text ref="http://ile-en-ile.org/firmin/" xml:id="Antenor_Firmin_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/firmin/">
       <p>
         Joseph-
         <persName ana="Antenor_Firmin">
@@ -189,7 +192,7 @@
          publie un programme politique en 1905, 
         <persName ana="Monsieur_Roosevelt">Monsieur Roosevelt</persName>
         , président des États-Unis, et 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
         . Il y pose «les conditions pratiques qui doivent permettre à 
         <placeName ana="Haiti">Haïti</placeName>
          de faire preuve de l’aptitude de la race noire à constituer une société politique harmonieuse» (647). Il préconise un rapprochement entre 

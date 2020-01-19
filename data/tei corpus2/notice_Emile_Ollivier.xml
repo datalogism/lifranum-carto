@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emile_Ollivier_fiche">
@@ -28,7 +28,7 @@
         87423596
         <g ref="http://viaf.org/viaf/87423596"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Émile_Ollivier_(écrivain)
         <g ref="http://fr.dbpedia.org/resource/Émile_Ollivier_(écrivain)"/>
       </idno>
@@ -51,48 +51,24 @@
       <occupation source="viaf">ecrivains</occupation>
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors black</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="MoiSe_Claude">
-          <persName>Moïse Claude</persName>
-        </person>
-        <person ana="Voyer_Brigitte">
-          <persName>Voyer Brigitte</persName>
-        </person>
-        <person ana="Manigat_Charles">
-          <persName>Manigat Charles</persName>
-        </person>
-        <person ana="Toupin_Louis">
-          <persName>Toupin Louis</persName>
-        </person>
-        <person ana="Universite_De_Montreal_Section_D_Andragogie">
-          <persName>Université de Montréal Section d'andragogie</persName>
-        </person>
-        <person ana="Sugden Leonard_W">
-          <persName>Sugden Leonard W</persName>
-        </person>
-        <person ana="Chalom_Maurice">
-          <persName>Chalom Maurice</persName>
-        </person>
-        <person ana="Ying Chen ; RomancieRe_">
-          <persName>Ying Chen ;  romancière</persName>
-        </person>
-        <person ana="Santolini_Arnaud">
-          <persName>Santolini Arnaud</persName>
-        </person>
-        <person ana="Association_Francophone_Pour_Le_Savoir_Acfas">
-          <persName>Association francophone pour le savoir-Acfas</persName>
-        </person>
-        <person ana="Geppert_Beata">
-          <persName>Geppert Beata</persName>
-        </person>
-        <person ana="Gallimard">
-          <persName>Gallimard</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="MoiSe_Claude" source="viaf">Moïse Claude</relation>
+        <relation ana="Voyer_Brigitte" source="viaf">Voyer Brigitte</relation>
+        <relation ana="Manigat_Charles" source="viaf">Manigat Charles</relation>
+        <relation ana="Toupin_Louis" source="viaf">Toupin Louis</relation>
+        <relation ana="Universite_De_Montreal_Section_D_Andragogie" source="viaf">Université de Montréal Section d'andragogie</relation>
+        <relation ana="Sugden Leonard_W" source="viaf">Sugden Leonard W</relation>
+        <relation ana="Chalom_Maurice" source="viaf">Chalom Maurice</relation>
+        <relation ana="Ying Chen ; RomancieRe_" source="viaf">Ying Chen ;  romancière</relation>
+        <relation ana="Santolini_Arnaud" source="viaf">Santolini Arnaud</relation>
+        <relation ana="Association_Francophone_Pour_Le_Savoir_Acfas" source="viaf">Association francophone pour le savoir-Acfas</relation>
+        <relation ana="Geppert_Beata" source="viaf">Geppert Beata</relation>
+        <relation ana="Gallimard" source="viaf">Gallimard</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Emile_Ollivier_bio">
-    <text ref="http://ile-en-ile.org/ollivier/" xml:id="Emile_Ollivier_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/ollivier/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>

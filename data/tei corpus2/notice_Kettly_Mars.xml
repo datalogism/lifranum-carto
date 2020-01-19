@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Kettly_Mars_fiche">
@@ -28,7 +28,7 @@
         7664185
         <g ref="http://viaf.org/viaf/7664185"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Kettly_Mars
         <g ref="http://fr.dbpedia.org/resource/Kettly_Mars"/>
       </idno>
@@ -52,54 +52,26 @@
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">novelists</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Schmutte_Ingeborg">
-          <persName>Schmutte Ingeborg</persName>
-        </person>
-        <person ana="Kaas_Marianne">
-          <persName>Kaas Marianne</persName>
-        </person>
-        <person ana="Trouillot_Evelyne">
-          <persName>Trouillot Évelyne</persName>
-        </person>
-        <person ana="Tremblay_Jennifer">
-          <persName>Tremblay Jennifer</persName>
-        </person>
-        <person ana="Litradukt_Literatureditionen">
-          <persName>litradukt Literatureditionen</persName>
-        </person>
-        <person ana="Voltaire_Marcelin_Michele">
-          <persName>Voltaire Marcelin Michèle</persName>
-        </person>
-        <person ana="Vincent_Nedjmhartine">
-          <persName>Vincent Nedjmhartine</persName>
-        </person>
-        <person ana="Victor_Gary">
-          <persName>Victor Gary</persName>
-        </person>
-        <person ana="Theard_Marie_Alice">
-          <persName>Théard Marie-Alice</persName>
-        </person>
-        <person ana="Ferandon_Max">
-          <persName>Férandon Max</persName>
-        </person>
-        <person ana="Wiener_Jacqueline">
-          <persName>Wiener Jacqueline</persName>
-        </person>
-        <person ana="PeAn_Leslie_Jean_Robert">
-          <persName>Péan Leslie Jean-Robert</persName>
-        </person>
-        <person ana="PeAn Leslie Leslie Jean Robert_J R">
-          <persName>Péan Leslie J R Leslie Jean-Robert</persName>
-        </person>
-        <person ana="Mercure_De_France">
-          <persName>Mercure de France</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Schmutte_Ingeborg" source="viaf">Schmutte Ingeborg</relation>
+        <relation ana="Kaas_Marianne" source="viaf">Kaas Marianne</relation>
+        <relation ana="Trouillot_Evelyne" source="viaf">Trouillot Évelyne</relation>
+        <relation ana="Tremblay_Jennifer" source="viaf">Tremblay Jennifer</relation>
+        <relation ana="Litradukt_Literatureditionen" source="viaf">litradukt Literatureditionen</relation>
+        <relation ana="Voltaire_Marcelin_Michele" source="viaf">Voltaire Marcelin Michèle</relation>
+        <relation ana="Vincent_Nedjmhartine" source="viaf">Vincent Nedjmhartine</relation>
+        <relation ana="Victor_Gary" source="viaf">Victor Gary</relation>
+        <relation ana="Theard_Marie_Alice" source="viaf">Théard Marie-Alice</relation>
+        <relation ana="Ferandon_Max" source="viaf">Férandon Max</relation>
+        <relation ana="Wiener_Jacqueline" source="viaf">Wiener Jacqueline</relation>
+        <relation ana="PeAn_Leslie_Jean_Robert" source="viaf">Péan Leslie Jean-Robert</relation>
+        <relation ana="PeAn Leslie Leslie Jean Robert_J R" source="viaf">Péan Leslie J R Leslie Jean-Robert</relation>
+        <relation ana="Mercure_De_France" source="viaf">Mercure de France</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Kettly_Mars_bio">
-    <text hand="Joëlle Vitiello et Thomas C. Spear" ref="http://ile-en-ile.org/mars/" xml:id="Kettly_Mars_bio_auteur_ile_en_ile">
+    <text hand="Joëlle Vitiello et Thomas C. Spear" ref="http://ile-en-ile.org/mars/">
       <p>
         Kettly 
         <persName ana="Pierre_Mars">
@@ -181,7 +153,7 @@
          publie Fado, présenté par les Éditions Mercure comme un roman « plein de sensualité et de mélancolie, baigné d’un bout à l’autre par la belle musique portugaise, [un roman qui] offre le portrait de deux femmes écorchées par la vie et pourtant débordantes de passion ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.kettly-mars.7317.html" xml:id="Kettly_Mars_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.kettly-mars.7317.html">
       <p>
         <persName ana="Kettly_Mars">
           Kettly 

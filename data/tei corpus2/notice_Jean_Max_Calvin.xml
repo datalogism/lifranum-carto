@@ -12,18 +12,21 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Max_Calvin_fiche">
     <person ana="Jean_Max_Calvin" sex="na">
       <persName>Jean-Max Calvin</persName>
+      <listRelation>
+        <relation ana="Max_Calvin" source="ile_en_ile_auto">Max Calvin</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Max_Calvin_bio">
-    <text ref="http://ile-en-ile.org/calvin/" xml:id="Jean_Max_Calvin_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/calvin/">
       <p>
         Jean-
         <persName ana="Max_Calvin">Max Calvin</persName>

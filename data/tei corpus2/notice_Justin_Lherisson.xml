@@ -12,18 +12,21 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Justin_Lherisson_fiche">
     <person ana="Justin_Lherisson" sex="na">
       <persName>Justin Lhérisson</persName>
+      <listRelation>
+        <relation ana="Jacques_Roumain" source="ile_en_ile_auto">Jacques Roumain</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Justin_Lherisson_bio">
-    <text ref="http://ile-en-ile.org/lherisson/" xml:id="Justin_Lherisson_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/lherisson/">
       <p>
         <persName ana="Justin_Lherisson">Justin Lhérisson</persName>
          est né à Port-au-

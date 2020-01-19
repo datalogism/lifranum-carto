@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Roland_Morisseau_fiche">
@@ -49,24 +49,16 @@
         </placeName>
       </residence>
       <occupation source="spla">Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Ti_Ga">
-          <persName>Ti-Ga</persName>
-        </person>
-        <person ana="PhilocteTe_Rene">
-          <persName>Philoctète René</persName>
-        </person>
-        <person ana="Dorsinville_Roger">
-          <persName>Dorsinville Roger</persName>
-        </person>
-        <person ana="Depestre_Rene">
-          <persName>Depestre René</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Ti_Ga" source="viaf">Ti-Ga</relation>
+        <relation ana="PhilocteTe_Rene" source="viaf">Philoctète René</relation>
+        <relation ana="Dorsinville_Roger" source="viaf">Dorsinville Roger</relation>
+        <relation ana="Depestre_Rene" source="viaf">Depestre René</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Roland_Morisseau_bio">
-    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/morisseau_roland/" xml:id="Roland_Morisseau_bio_auteur_ile_en_ile">
+    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/morisseau_roland/">
       <p>
         <persName ana="Roland_Morisseau">Roland Morisseau</persName>
          naît à Port-au-
@@ -158,7 +150,7 @@ J’ignore si pareil buis ne clôt la sérénité </p>
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.roland-morisseau.14145.html" xml:id="Roland_Morisseau_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.roland-morisseau.14145.html">
       <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
     </text>
   </div>

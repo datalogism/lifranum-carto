@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Genevieve_Gaillard_Vante_fiche">
@@ -29,10 +29,14 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Genevieve_Gaillard" source="ile_en_ile_auto">Geneviève Gaillard</relation>
+        <relation ana="Genevieve_Gaillard" source="ile_en_ile_auto">Geneviève Gaillard</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Genevieve_Gaillard_Vante_bio">
-    <text ref="http://ile-en-ile.org/gaillard-vante/" xml:id="Genevieve_Gaillard_Vante_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/gaillard-vante/">
       <p>
         <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
         -Vanté est née à Port-au-
@@ -63,7 +67,7 @@
         , elle est actuellement spécialiste dans les conceptions de textes publicitaires ainsi que dans le talent de la voix avec plus de deux cents annonces diffusées dans les médias.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.genevieve-gaillard-vante.14110.html" xml:id="Genevieve_Gaillard_Vante_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.genevieve-gaillard-vante.14110.html">
       <p>
         <persName ana="Genevieve_Gaillard">Geneviève Gaillard</persName>
         -Vanté est née à Port-au-

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Elsie_Surena_fiche">
@@ -43,15 +43,13 @@
       <occupation source="viaf">poetes</occupation>
       <occupation source="viaf">photographes</occupation>
       <occupation source="viaf">photographers</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Descoteaux_Diane">
-          <persName>Descôteaux Diane</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Descoteaux_Diane" source="viaf">Descôteaux Diane</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Elsie_Surena_bio">
-    <text ref="http://ile-en-ile.org/surena/" xml:id="Elsie_Surena_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/surena/">
       <p>
         <persName ana="Elsie_Surena">Elsie Suréna</persName>
          est née le 9* juin 1956 à Port-au-

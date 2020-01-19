@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Davertige_fiche">
@@ -33,10 +33,16 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Villard_Denis" source="ile_en_ile_auto">Villard Denis</relation>
+        <relation ana="Villard_Denis" source="ile_en_ile_auto">Villard Denis</relation>
+        <relation ana="Aristhene_Denis" source="ile_en_ile_auto">Aristhène Denis</relation>
+        <relation ana="Jeanne_Fequiere" source="ile_en_ile_auto">Jeanne Féquière</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Davertige_bio">
-    <text ref="http://ile-en-ile.org/davertige/" xml:id="Davertige_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/davertige/">
       <p>
         Le poète Davertige naît 
         <persName ana="Villard_Denis">Villard Denis</persName>
@@ -369,7 +375,7 @@
          le 25 juillet 2004. Une série de textes-hommages avec des encres de Davertige – de la série «Aluminium fantôme» – seront prochainement mis en ligne sur Île en île.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.davertige.14086.html" xml:id="Davertige_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.davertige.14086.html">
       <p>
         Le poète Davertige naît 
         <persName ana="Villard_Denis">Villard Denis</persName>

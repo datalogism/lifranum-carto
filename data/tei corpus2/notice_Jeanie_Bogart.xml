@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jeanie_Bogart_fiche">
@@ -30,10 +30,15 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Designer</occupation>
+      <listRelation>
+        <relation ana="Franz_Benjamin" source="ile_en_ile_auto">Franz Benjamin</relation>
+        <relation ana="Celebrating_Haitian" source="ile_en_ile_auto">Celebrating Haitian</relation>
+        <relation ana="Words_Without_Borders" source="ile_en_ile_auto">Words Without Borders</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jeanie_Bogart_bio">
-    <text ref="http://ile-en-ile.org/bogart/" xml:id="Jeanie_Bogart_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/bogart/">
       <p>
         <persName ana="Jeanie_Bogart">Jeanie Bogart</persName>
          est née le 29 septembre 1970 aux 
@@ -117,7 +122,7 @@
         ).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jeanie-bogart.32106.html" xml:id="Jeanie_Bogart_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jeanie-bogart.32106.html">
       <p>
         Née en 
         <placeName ana="Haiti">Haïti</placeName>

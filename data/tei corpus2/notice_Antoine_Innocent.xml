@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Antoine_Innocent_fiche">
@@ -33,10 +33,14 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Journaliste</occupation>
+      <listRelation>
+        <relation ana="Dieulermesson_Petit_Frere" source="ile_en_ile_auto">Dieulermesson Petit Frère</relation>
+        <relation ana="Massillon_Coicou" source="ile_en_ile_auto">Massillon Coicou</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Antoine_Innocent_bio">
-    <text ref="http://ile-en-ile.org/innocent_antoine/" xml:id="Antoine_Innocent_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/innocent_antoine/">
       <p>
         <persName ana="Antoine_Innocent">Antoine Innocent</persName>
          est né à Port-au-
@@ -112,7 +116,7 @@
         <persName ana="Dieulermesson_Petit_Frere">Dieulermesson Petit Frère</persName>
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.antoine-innocent.35107.html" xml:id="Antoine_Innocent_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.antoine-innocent.35107.html">
       <p>
         (1873-1960)Journaliste et romancier haïtien. Il collabore avec 
         <persName ana="Massillon_Coicou">

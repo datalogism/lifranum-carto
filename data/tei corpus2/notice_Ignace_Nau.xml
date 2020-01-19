@@ -12,18 +12,22 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Ignace_Nau_fiche">
     <person ana="Ignace_Nau" sex="na">
       <persName>Ignace Nau</persName>
+      <listRelation>
+        <relation ana="Auguste_Ignace" source="ile_en_ile_auto">Auguste Ignace</relation>
+        <relation ana="Marie_Ursule_Belizaire" source="ile_en_ile_auto">Marie Ursule Bélizaire</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Ignace_Nau_bio">
-    <text hand="Frenand Léger" ref="http://ile-en-ile.org/nau/" xml:id="Ignace_Nau_bio_auteur_ile_en_ile">
+    <text hand="Frenand Léger" ref="http://ile-en-ile.org/nau/">
       <p>
         La date de naissance exacte d’
         <persName ana="Auguste_Ignace">Auguste Ignace</persName>

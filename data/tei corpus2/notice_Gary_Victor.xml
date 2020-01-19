@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gary_Victor_fiche">
@@ -28,7 +28,7 @@
         6109517
         <g ref="http://viaf.org/viaf/6109517"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Gary_Victor
         <g ref="http://fr.dbpedia.org/resource/Gary_Victor"/>
       </idno>
@@ -47,45 +47,23 @@
       <occupation source="viaf">screenwriters</occupation>
       <occupation source="viaf">radio writers</occupation>
       <occupation source="viaf">novelists</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Trier_Peter">
-          <persName>Trier Peter</persName>
-        </person>
-        <person ana="Litradukt_Literatureditionen">
-          <persName>litradukt Literatureditionen</persName>
-        </person>
-        <person ana="Edwidge_Alfonce_Marc">
-          <persName>Edwidge Alfonce Marc</persName>
-        </person>
-        <person ana="Mabanckou_Alain">
-          <persName>Mabanckou Alain</persName>
-        </person>
-        <person ana="ZePhyr_Brunatche">
-          <persName>Zéphyr Brunatche</persName>
-        </person>
-        <person ana="Vents_D_Ailleurs">
-          <persName>Vents d'ailleurs</persName>
-        </person>
-        <person ana="Rezeau_Marie_Florance">
-          <persName>Rezeau Marie-Florance</persName>
-        </person>
-        <person ana="Lefevre_Ricardo">
-          <persName>Lefevre Ricardo</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Antonin_Arnold">
-          <persName>Antonin Arnold</persName>
-        </person>
-        <person ana="Silva_Francisco_Silva">
-          <persName>Silva Francisco Silva</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Trier_Peter" source="viaf">Trier Peter</relation>
+        <relation ana="Litradukt_Literatureditionen" source="viaf">litradukt Literatureditionen</relation>
+        <relation ana="Edwidge_Alfonce_Marc" source="viaf">Edwidge Alfonce Marc</relation>
+        <relation ana="Mabanckou_Alain" source="viaf">Mabanckou Alain</relation>
+        <relation ana="ZePhyr_Brunatche" source="viaf">Zéphyr Brunatche</relation>
+        <relation ana="Vents_D_Ailleurs" source="viaf">Vents d'ailleurs</relation>
+        <relation ana="Rezeau_Marie_Florance" source="viaf">Rezeau Marie-Florance</relation>
+        <relation ana="Lefevre_Ricardo" source="viaf">Lefevre Ricardo</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Antonin_Arnold" source="viaf">Antonin Arnold</relation>
+        <relation ana="Silva_Francisco_Silva" source="viaf">Silva Francisco Silva</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Gary_Victor_bio">
-    <text hand="Yves Chemla" ref="http://ile-en-ile.org/victor_gary/" xml:id="Gary_Victor_bio_auteur_ile_en_ile">
+    <text hand="Yves Chemla" ref="http://ile-en-ile.org/victor_gary/">
       <p>
         <persName ana="Gary_Victor">Gary Victor</persName>
          est né le 9 juillet 1958 à Port-au-

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emeric_Bergeaud_fiche">
@@ -28,7 +28,7 @@
         95333117
         <g ref="http://viaf.org/viaf/95333117"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Emeric_Bergeaud
         <g ref="http://fr.dbpedia.org/resource/Emeric_Bergeaud"/>
       </idno>
@@ -55,24 +55,20 @@
       <occupation source="viaf">politicians</occupation>
       <occupation source="viaf">novelists</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Umana_Hossman_Adriana">
-          <persName>Umaña Hossman Adriana</persName>
-        </person>
-        <person ana="Mucher_Christen">
-          <persName>Mucher Christen</persName>
-        </person>
-        <person ana="Curtis Lesley_S">
-          <persName>Curtis Lesley S</persName>
-        </person>
-        <person ana="Duno_Gottberg_Luis">
-          <persName>Duno Gottberg Luis</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Umana_Hossman_Adriana" source="viaf">Umaña Hossman Adriana</relation>
+        <relation ana="Mucher_Christen" source="viaf">Mucher Christen</relation>
+        <relation ana="Curtis Lesley_S" source="viaf">Curtis Lesley S</relation>
+        <relation ana="Duno_Gottberg_Luis" source="viaf">Duno Gottberg Luis</relation>
+        <relation ana="Beaubrun_Adouin" source="ile_en_ile_auto">Beaubrun Adouin</relation>
+        <relation ana="Faustin_Souloque" source="ile_en_ile_auto">Faustin Souloque</relation>
+        <relation ana="Faustin_Ier" source="ile_en_ile_auto">Faustin Ier</relation>
+        <relation ana="Beaubrun_Adouin" source="ile_en_ile_auto">Beaubrun Adouin</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Emeric_Bergeaud_bio">
-    <text hand="Anne Marty" ref="http://ile-en-ile.org/bergeaud/" xml:id="Emeric_Bergeaud_bio_auteur_ile_en_ile">
+    <text hand="Anne Marty" ref="http://ile-en-ile.org/bergeaud/">
       <p>
         <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
          est né aux 
@@ -110,7 +106,7 @@
         . Ils ont réussi leurs objectifs : liberté et indépendance pour leur peuple. Mais la loi ne semble pas avoir été personnellement intériorisée par les deux garçons, puisque jusqu’au dernier moment, elle est incarnée et proférée par Stella qui aussitôt disparaît dans les airs. L’interprétation de la fable permet de dire que les chefs du pays demeurent encore des fils sous l’emprise de la loi maternelle, et non des adultes véritablement affranchis de cette autorité féminine. Mais ce qui importait à l’auteur, semble-t-il, c’était plutôt l’apprentissage collectif du peuple qui a abouti à sa libération et à son indépendance.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.emeric-bergeaud.32105.html" xml:id="Emeric_Bergeaud_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.emeric-bergeaud.32105.html">
       <p>
         <persName ana="Emeric_Bergeaud">Émeric Bergeaud</persName>
          est né aux 

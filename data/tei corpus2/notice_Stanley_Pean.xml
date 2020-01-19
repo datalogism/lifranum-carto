@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Stanley_Pean_fiche">
@@ -28,7 +28,7 @@
         12423959
         <g ref="http://viaf.org/viaf/12423959"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Stanley_Péan
         <g ref="http://fr.dbpedia.org/resource/Stanley_Péan"/>
       </idno>
@@ -43,48 +43,25 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/xxc</country>
         </placeName>
       </residence>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Ladoo_Harold_Sonny">
-          <persName>Ladoo Harold Sonny</persName>
-        </person>
-        <person ana="Child_Lauren">
-          <persName>Child Lauren</persName>
-        </person>
-        <person ana="Lanctot_Mance">
-          <persName>Lanctôt Mance</persName>
-        </person>
-        <person ana="Saint_Eloi_Rodney">
-          <persName>Saint-Éloi Rodney</persName>
-        </person>
-        <person ana="Danticat_Edwidge">
-          <persName>Danticat Edwidge</persName>
-        </person>
-        <person ana="Poulin_Stephane">
-          <persName>Poulin Stéphane</persName>
-        </person>
-        <person ana="Flouriot_Marie">
-          <persName>Flouriot Marie</persName>
-        </person>
-        <person ana="Quebec_Province_Assemblee_Nationale">
-          <persName>Québec Province Assemblée nationale</persName>
-        </person>
-        <person ana="Lamontagne_Francois">
-          <persName>Lamontagne François</persName>
-        </person>
-        <person ana="Duroseau_Conrad">
-          <persName>Duroseau Conrad</persName>
-        </person>
-        <person ana="Michaud_Nando">
-          <persName>Michaud Nando</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Ladoo_Harold_Sonny" source="viaf">Ladoo Harold Sonny</relation>
+        <relation ana="Child_Lauren" source="viaf">Child Lauren</relation>
+        <relation ana="Lanctot_Mance" source="viaf">Lanctôt Mance</relation>
+        <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
+        <relation ana="Danticat_Edwidge" source="viaf">Danticat Edwidge</relation>
+        <relation ana="Poulin_Stephane" source="viaf">Poulin Stéphane</relation>
+        <relation ana="Flouriot_Marie" source="viaf">Flouriot Marie</relation>
+        <relation ana="Quebec_Province_Assemblee_Nationale" source="viaf">Québec Province Assemblée nationale</relation>
+        <relation ana="Lamontagne_Francois" source="viaf">Lamontagne François</relation>
+        <relation ana="Duroseau_Conrad" source="viaf">Duroseau Conrad</relation>
+        <relation ana="Michaud_Nando" source="viaf">Michaud Nando</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Zombi_Blues" source="ile_en_ile_auto">Zombi Blues</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Stanley_Pean_bio">
-    <text ref="http://ile-en-ile.org/pean/" xml:id="Stanley_Pean_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/pean/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>

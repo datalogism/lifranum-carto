@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rene_Philoctete_fiche">
@@ -28,7 +28,7 @@
         36967735
         <g ref="http://viaf.org/viaf/36967735"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         René_Philoctète
         <g ref="http://fr.dbpedia.org/resource/René_Philoctète"/>
       </idno>
@@ -52,33 +52,21 @@
       <occupation source="viaf">poets</occupation>
       <occupation source="viaf">novelists</occupation>
       <occupation source="viaf">dramatists</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Coverdale_Linda">
-          <persName>Coverdale Linda</persName>
-        </person>
-        <person ana="Morisseau_Roland">
-          <persName>Morisseau Roland</persName>
-        </person>
-        <person ana="Depestre_Rene">
-          <persName>Depestre René</persName>
-        </person>
-        <person ana="Trouillot_Evelyne">
-          <persName>Trouillot Evelyne</persName>
-        </person>
-        <person ana="Dorsinville_Roger">
-          <persName>Dorsinville Roger</persName>
-        </person>
-        <person ana="Danticat_Edwidge">
-          <persName>Danticat Edwidge</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Coverdale_Linda" source="viaf">Coverdale Linda</relation>
+        <relation ana="Morisseau_Roland" source="viaf">Morisseau Roland</relation>
+        <relation ana="Depestre_Rene" source="viaf">Depestre René</relation>
+        <relation ana="Trouillot_Evelyne" source="viaf">Trouillot Evelyne</relation>
+        <relation ana="Dorsinville_Roger" source="viaf">Dorsinville Roger</relation>
+        <relation ana="Danticat_Edwidge" source="viaf">Danticat Edwidge</relation>
+        <relation ana="Lyonel_Trouillot" source="ile_en_ile_auto">Lyonel Trouillot</relation>
+        <relation ana="Actes_Sud" source="ile_en_ile_auto">Actes Sud</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Rene_Philoctete_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/philoctete/" xml:id="Rene_Philoctete_bio_auteur_ile_en_ile">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/philoctete/">
       <p>
         <persName ana="Rene_Philoctete">
           René 

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Makenzy_Orcel_fiche">
@@ -40,45 +40,23 @@
         </placeName>
       </residence>
       <occupation source="viaf">authors</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Idier_Nicolas">
-          <persName>Idier Nicolas</persName>
-        </person>
-        <person ana="Milce_Jean_Euphele">
-          <persName>Milcé Jean-Euphèle</persName>
-        </person>
-        <person ana="Younsi_Ouanessa">
-          <persName>Younsi Ouanessa</persName>
-        </person>
-        <person ana="VeZina_Michel">
-          <persName>Vézina Michel</persName>
-        </person>
-        <person ana="Salien_JoeL">
-          <persName>Salien Joël</persName>
-        </person>
-        <person ana="Saint_ELoi_Rodney">
-          <persName>Saint-Éloi Rodney</persName>
-        </person>
-        <person ana="Memoire_D_Encrier_Montreal">
-          <persName>Mémoire d'encrier Montreal</persName>
-        </person>
-        <person ana="Gohier_ERic">
-          <persName>Gohier Éric</persName>
-        </person>
-        <person ana="Girbig_Catherine">
-          <persName>Girbig Catherine</persName>
-        </person>
-        <person ana="Ghoula_Sarah">
-          <persName>Ghoula Sarah</persName>
-        </person>
-        <person ana="Dabakh_Kane_El_Hadji_Abdoul_Aziz">
-          <persName>Dabakh Kane El Hadji Abdoul Aziz</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Idier_Nicolas" source="viaf">Idier Nicolas</relation>
+        <relation ana="Milce_Jean_Euphele" source="viaf">Milcé Jean-Euphèle</relation>
+        <relation ana="Younsi_Ouanessa" source="viaf">Younsi Ouanessa</relation>
+        <relation ana="VeZina_Michel" source="viaf">Vézina Michel</relation>
+        <relation ana="Salien_JoeL" source="viaf">Salien Joël</relation>
+        <relation ana="Saint_ELoi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
+        <relation ana="Memoire_D_Encrier_Montreal" source="viaf">Mémoire d'encrier Montreal</relation>
+        <relation ana="Gohier_ERic" source="viaf">Gohier Éric</relation>
+        <relation ana="Girbig_Catherine" source="viaf">Girbig Catherine</relation>
+        <relation ana="Ghoula_Sarah" source="viaf">Ghoula Sarah</relation>
+        <relation ana="Dabakh_Kane_El_Hadji_Abdoul_Aziz" source="viaf">Dabakh Kane El Hadji Abdoul Aziz</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Makenzy_Orcel_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/orcel/" xml:id="Makenzy_Orcel_bio_auteur_ile_en_ile">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/orcel/">
       <p>
         Né le 18 septembre 1983 à Port-au-
         <placeName ana="Prince">Prince</placeName>

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Roland_Paret_fiche">
@@ -44,45 +44,27 @@
       </residence>
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors black</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Tatsuno_Michiko">
-          <persName>Tatsuno Michiko</persName>
-        </person>
-        <person ana="Voltaire_Frantz">
-          <persName>Voltaire Frantz</persName>
-        </person>
-        <person ana="Lafontant_Carl">
-          <persName>Lafontant Carl</persName>
-        </person>
-        <person ana="Kip">
-          <persName>KIP</persName>
-        </person>
-        <person ana="Duret_Marcel">
-          <persName>Duret Marcel</persName>
-        </person>
-        <person ana="Douyon_Frantz">
-          <persName>Douyon Frantz</persName>
-        </person>
-        <person ana="Cave_Syto">
-          <persName>Cavé Syto</persName>
-        </person>
-        <person ana="Azor">
-          <persName>Azor</persName>
-        </person>
-        <person ana="Azor">
-          <persName>Azor</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Tatsuno_Michiko" source="viaf">Tatsuno Michiko</relation>
+        <relation ana="Voltaire_Frantz" source="viaf">Voltaire Frantz</relation>
+        <relation ana="Lafontant_Carl" source="viaf">Lafontant Carl</relation>
+        <relation ana="Kip" source="viaf">KIP</relation>
+        <relation ana="Duret_Marcel" source="viaf">Duret Marcel</relation>
+        <relation ana="Douyon_Frantz" source="viaf">Douyon Frantz</relation>
+        <relation ana="Cave_Syto" source="viaf">Cavé Syto</relation>
+        <relation ana="Azor" source="viaf">Azor</relation>
+        <relation ana="Azor" source="viaf">Azor</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Roland_Paret_bio">
-    <text ref="http://ile-en-ile.org/paret/" xml:id="Roland_Paret_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/paret/">
       <p>
         <persName ana="Roland_Paret">Roland Paret</persName>
          est né le 26 juillet 1943, au Cap-Haïtien. En 1964, il quitte 
         <placeName ana="Haiti">Haïti</placeName>
          pour 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
         . Après des études de cinéma à l’École Supérieure d’État de cinéma, de théâtre et de télévision (PWSFTiTv) à 
         <placeName ana="Lodz">Lodz</placeName>
         , en 

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Marie_Soeurette_Mathieu_fiche">
@@ -24,15 +24,16 @@
         <date>1949-08-10</date>
       </birth>
       <occupation source="viaf">journalistes</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Nyari_Corinne">
-          <persName>Nyari Corinne</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Nyari_Corinne" source="viaf">Nyari Corinne</relation>
+        <relation ana="Richard_Resilard_Mathieu" source="ile_en_ile_auto">Richard Résilard Mathieu</relation>
+        <relation ana="Sandra_Mathieu_Rosalva" source="ile_en_ile_auto">Sandra Mathieu Rosalva</relation>
+        <relation ana="David_Mathieu" source="ile_en_ile_auto">David Mathieu</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Marie_Soeurette_Mathieu_bio">
-    <text ref="http://ile-en-ile.org/mathieu/" xml:id="Marie_Soeurette_Mathieu_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/mathieu/">
       <p>
         Née le 10 août 1949 à Port-au 
         <placeName ana="Prince">Prince</placeName>

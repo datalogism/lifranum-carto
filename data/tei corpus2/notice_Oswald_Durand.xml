@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Oswald_Durand_fiche">
@@ -28,7 +28,7 @@
         17232428
         <g ref="http://viaf.org/viaf/17232428"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Oswald_Durand
         <g ref="http://fr.dbpedia.org/resource/Oswald_Durand"/>
       </idno>
@@ -55,24 +55,20 @@
       <occupation source="viaf">politicians</occupation>
       <occupation source="viaf">authors black</occupation>
       <occupation source="spla">Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Sauray_ERic">
-          <persName>Sauray Éric</persName>
-        </person>
-        <person ana="Pompilus_Pradel_1913?_2000">
-          <persName>Pompilus Pradel 1913?-2000</persName>
-        </person>
-        <person ana="Sauray_Ketty">
-          <persName>Sauray Ketty</persName>
-        </person>
-        <person ana="Demaison_Andre">
-          <persName>Demaison André</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Sauray_ERic" source="viaf">Sauray Éric</relation>
+        <relation ana="Pompilus_Pradel_1913?_2000" source="viaf">Pompilus Pradel 1913?-2000</relation>
+        <relation ana="Sauray_Ketty" source="viaf">Sauray Ketty</relation>
+        <relation ana="Demaison_Andre" source="viaf">Demaison André</relation>
+        <relation ana="Duvivier_De_La_Mahautiere" source="ile_en_ile_auto">Duvivier de la Mahautière</relation>
+        <relation ana="Choucoune" source="ile_en_ile_auto">Choucoune  </relation>
+        <relation ana="Emile_Roumer" source="ile_en_ile_auto">Émile Roumer</relation>
+        <relation ana="Paul_Laraque" source="ile_en_ile_auto">Paul Laraque</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Oswald_Durand_bio">
-    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/durand/" xml:id="Oswald_Durand_bio_auteur_ile_en_ile">
+    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/durand/">
       <p>
         <persName ana="Oswald_Durand">Oswald Durand</persName>
          est le premier grand poète de la littérature 
@@ -201,7 +197,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.oswald-durand.14092.html" xml:id="Oswald_Durand_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.oswald-durand.14092.html">
       <p>
         <persName ana="Oswald_Durand">Oswald Durand</persName>
          est le premier grand poète de la littérature 

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jean-Claude Fignolé</title>
+        <title>Notice de Jean Claude Fignolé</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Claude_Fignole_fiche">
     <person ana="Jean_Claude_Fignole" sex="na">
-      <persName>Jean-Claude Fignolé</persName>
+      <persName>Jean Claude Fignolé</persName>
       <birth source="viaf">
         <date>1941-05-24</date>
       </birth>
@@ -38,42 +38,29 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Victor_Gary">
-          <persName>Victor Gary</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Editions_Du_Seuil">
-          <persName>Éditions du Seuil</persName>
-        </person>
-        <person ana="Mars_Kettly">
-          <persName>Mars Kettly</persName>
-        </person>
-        <person ana="Franketienne">
-          <persName>Franketienne</persName>
-        </person>
-        <person ana="Antonin_Arnold">
-          <persName>Antonin Arnold</persName>
-        </person>
-        <person ana="Pineau_GiseLe">
-          <persName>Pineau Gisèle</persName>
-        </person>
-        <person ana="PePin_Ernest">
-          <persName>Pépin Ernest</persName>
-        </person>
-        <person ana="Maximin_Daniel">
-          <persName>Maximin Daniel</persName>
-        </person>
-        <person ana="LaferrieRe_Dany">
-          <persName>Laferrière Dany</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Victor_Gary" source="viaf">Victor Gary</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Editions_Du_Seuil" source="viaf">Éditions du Seuil</relation>
+        <relation ana="Mars_Kettly" source="viaf">Mars Kettly</relation>
+        <relation ana="Franketienne" source="viaf">Franketienne</relation>
+        <relation ana="Antonin_Arnold" source="viaf">Antonin Arnold</relation>
+        <relation ana="Pineau_GiseLe" source="viaf">Pineau Gisèle</relation>
+        <relation ana="PePin_Ernest" source="viaf">Pépin Ernest</relation>
+        <relation ana="Maximin_Daniel" source="viaf">Maximin Daniel</relation>
+        <relation ana="LaferrieRe_Dany" source="viaf">Laferrière Dany</relation>
+        <relation ana="Claude_Fignole" source="ile_en_ile_auto">Claude Fignolé</relation>
+        <relation ana="Emmelie_Prophete" source="ile_en_ile_auto">Emmelie Prophète</relation>
+        <relation ana="Claude_Fignole" source="ile_en_ile_auto">Claude Fignolé</relation>
+        <relation ana="Claude_Fignole" source="ile_en_ile_auto">Claude Fignolé</relation>
+        <relation ana="Claude_Fignole" source="ile_en_ile_auto">Claude Fignolé</relation>
+        <relation ana="Rene_Philoctete" source="ile_en_ile_auto">René Philoctète</relation>
+        <relation ana="Claude_Fignole" source="ile_en_ile_auto">Claude Fignolé</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Claude_Fignole_bio">
-    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/fignole/" xml:id="Jean_Claude_Fignole_bio_auteur_ile_en_ile">
+    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/fignole/">
       <p>
         Jean-
         <persName ana="Claude_Fignole">
@@ -182,7 +169,7 @@
          dans les liens ci-dessous.)
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-claude-fignole.4218.html" xml:id="Jean_Claude_Fignole_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jean-claude-fignole.4218.html">
       <p>
         Jean-
         <persName ana="Claude_Fignole">

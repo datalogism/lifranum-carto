@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jacqueline Scott-Lemoine</title>
+        <title>Notice de Jacqueline Scott Lemoine</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacqueline_Scott_Lemoine_fiche">
     <person ana="Jacqueline_Scott_Lemoine" sex="na">
-      <persName>Jacqueline Scott-Lemoine</persName>
+      <persName>Jacqueline Scott Lemoine</persName>
       <birth source="viaf">
         <date>1923-10-28</date>
       </birth>
@@ -41,42 +41,28 @@
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Universitaire</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Gauthier Florence 19 Historienne_">
-          <persName>Gauthier Florence 19- historienne</persName>
-        </person>
-        <person ana="Seck_Douta">
-          <persName>Seck Douta</persName>
-        </person>
-        <person ana="Dioum_Mamadou">
-          <persName>Dioum Mamadou</persName>
-        </person>
-        <person ana="Diop_David_Ika">
-          <persName>Diop David Ika</persName>
-        </person>
-        <person ana="Sall_Amadou_Lamine">
-          <persName>Sall Amadou Lamine</persName>
-        </person>
-        <person ana="Denis_Maxence">
-          <persName>Denis Maxence</persName>
-        </person>
-        <person ana="Roy_Fombrun_Odette">
-          <persName>Roy Fombrun Odette</persName>
-        </person>
-        <person ana="Senghor_LeOpold_SeDar">
-          <persName>Senghor Léopold Sédar</persName>
-        </person>
-        <person ana="Scott_Lemoine_Jacqueline">
-          <persName>Scott-Lemoine Jacqueline</persName>
-        </person>
-        <person ana="Diop_David">
-          <persName>Diop David</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Gauthier Florence 19 Historienne_" source="viaf">Gauthier Florence 19- historienne</relation>
+        <relation ana="Seck_Douta" source="viaf">Seck Douta</relation>
+        <relation ana="Dioum_Mamadou" source="viaf">Dioum Mamadou</relation>
+        <relation ana="Diop_David_Ika" source="viaf">Diop David Ika</relation>
+        <relation ana="Sall_Amadou_Lamine" source="viaf">Sall Amadou Lamine</relation>
+        <relation ana="Denis_Maxence" source="viaf">Denis Maxence</relation>
+        <relation ana="Roy_Fombrun_Odette" source="viaf">Roy Fombrun Odette</relation>
+        <relation ana="Senghor_LeOpold_SeDar" source="viaf">Senghor Léopold Sédar</relation>
+        <relation ana="Scott_Lemoine_Jacqueline" source="viaf">Scott-Lemoine Jacqueline</relation>
+        <relation ana="Diop_David" source="viaf">Diop David</relation>
+        <relation ana="Jacqueline_Scott" source="ile_en_ile_auto">Jacqueline Scott</relation>
+        <relation ana="Jacques_Roumain" source="ile_en_ile_auto">Jacques Roumain</relation>
+        <relation ana="Herve_Denis" source="ile_en_ile_auto">Hervé Denis</relation>
+        <relation ana="Marie_Serreau" source="ile_en_ile_auto">Marie Serreau</relation>
+        <relation ana="Lucien_Lemoine" source="ile_en_ile_auto">Lucien Lemoine</relation>
+        <relation ana="Lucien_Lemoine" source="ile_en_ile_auto">Lucien Lemoine</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jacqueline_Scott_Lemoine_bio">
-    <text hand="Giscard Bouchotte" ref="http://ile-en-ile.org/scott/" xml:id="Jacqueline_Scott_Lemoine_bio_auteur_ile_en_ile">
+    <text hand="Giscard Bouchotte" ref="http://ile-en-ile.org/scott/">
       <p>
         Née 
         <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
@@ -118,7 +104,7 @@
         . Elle y jouera plusieurs pièces, dont Negro spiritual d’
         <persName ana="Yves_Jamiaque">Yves Jamiaque</persName>
          et 
-        <persName ana="Antigone_D’Anouilh">Antigone d’Anouilh</persName>
+        <persName ana="Antigone_D_Anouilh">Antigone d’Anouilh</persName>
         .
       </p>
       <p>
@@ -248,7 +234,7 @@
          (UCAD). Après la radio, le théâtre (sa dernière représentation a lieu en 2006 pour les 40 ans du 
         <placeName ana="Sorano">Sorano</placeName>
          avec 
-        <persName ana="L’Exil_D’Alboury">L’Exil d’Alboury</persName>
+        <persName ana="Exil D Alboury_L">L’Exil d’Alboury</persName>
         ), 
         <persName ana="Jacqueline_Scott">Jacqueline Scott</persName>
         -Lemoine publie Les Nuits de Tulussia chez Présence Africaine en 2005 et une pièce de théâtre, La ligne de crête au Nègre International en 2007. Elle se pencherait déjà sur ses 
@@ -266,7 +252,7 @@
          le 9 juillet 2011, un an et demi après son mari.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jacqueline-scott-lemoine.5736.html" xml:id="Jacqueline_Scott_Lemoine_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jacqueline-scott-lemoine.5736.html">
       <p>
         Née en 1923 à Port-au-
         <placeName ana="Prince">Prince</placeName>

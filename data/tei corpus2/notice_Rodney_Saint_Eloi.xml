@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Rodney Saint-Éloi</title>
+        <title>Notice de Rodney Saint Éloi</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,68 +12,41 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Rodney_Saint_Eloi_fiche">
     <person ana="Rodney_Saint_Eloi" sex="na">
-      <persName>Rodney Saint-Éloi</persName>
+      <persName>Rodney Saint Éloi</persName>
       <birth source="viaf">
         <date>1963-08-27</date>
       </birth>
       <occupation source="viaf">editors</occupation>
       <occupation source="viaf">college teachers</occupation>
       <occupation source="viaf">authors</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Castera_Georges">
-          <persName>Castera Georges</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="PeAn_Stanley">
-          <persName>Péan Stanley</persName>
-        </person>
-        <person ana="Magloire_Saint_Aude_Clement">
-          <persName>Magloire-Saint-Aude Clément</persName>
-        </person>
-        <person ana="Buteau_Pierre">
-          <persName>Buteau Pierre</persName>
-        </person>
-        <person ana="Benjamin_Franz">
-          <persName>Benjamin Franz</persName>
-        </person>
-        <person ana="Morali_Laure">
-          <persName>Morali Laure</persName>
-        </person>
-        <person ana="Agnant_Marie_Celie">
-          <persName>Agnant Marie-Célie</persName>
-        </person>
-        <person ana="Franketienne">
-          <persName>Frankétienne</persName>
-        </person>
-        <person ana="加古_里子">
-          <persName>加古 里子</persName>
-        </person>
-        <person ana="Clermont_PeAn_Paula">
-          <persName>Clermont Péan Paula</persName>
-        </person>
-        <person ana="Price_Mars_Jean">
-          <persName>Price-Mars Jean</persName>
-        </person>
-        <person ana="Pierre_Claude">
-          <persName>Pierre Claude</persName>
-        </person>
-        <person ana="Memoire_D_Encrier_Montreal">
-          <persName>Mémoire d'encrier Montreal</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Castera_Georges" source="viaf">Castera Georges</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="PeAn_Stanley" source="viaf">Péan Stanley</relation>
+        <relation ana="Magloire_Saint_Aude_Clement" source="viaf">Magloire-Saint-Aude Clément</relation>
+        <relation ana="Buteau_Pierre" source="viaf">Buteau Pierre</relation>
+        <relation ana="Benjamin_Franz" source="viaf">Benjamin Franz</relation>
+        <relation ana="Morali_Laure" source="viaf">Morali Laure</relation>
+        <relation ana="Agnant_Marie_Celie" source="viaf">Agnant Marie-Célie</relation>
+        <relation ana="Franketienne" source="viaf">Frankétienne</relation>
+        <relation ana="加古_里子" source="viaf">加古 里子</relation>
+        <relation ana="Clermont_PeAn_Paula" source="viaf">Clermont Péan Paula</relation>
+        <relation ana="Price_Mars_Jean" source="viaf">Price-Mars Jean</relation>
+        <relation ana="Pierre_Claude" source="viaf">Pierre Claude</relation>
+        <relation ana="Memoire_D_Encrier_Montreal" source="viaf">Mémoire d'encrier Montreal</relation>
+        <relation ana="Rodney_Saint" source="ile_en_ile_auto">Rodney Saint</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Rodney_Saint_Eloi_bio">
-    <text ref="http://ile-en-ile.org/saint-eloi/" xml:id="Rodney_Saint_Eloi_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/saint-eloi/">
       <p>
         <persName ana="Rodney_Saint">Rodney Saint</persName>
         -Éloi naît le 27 août 1963 à 

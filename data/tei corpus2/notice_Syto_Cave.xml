@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Syto_Cave_fiche">
@@ -34,10 +34,17 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Dramaturge</occupation>
+      <listRelation>
+        <relation ana="Simone_Schwarz" source="ile_en_ile_auto">Simone Schwarz</relation>
+        <relation ana="Claude_Innocent" source="ile_en_ile_auto">Claude Innocent</relation>
+        <relation ana="Gabriel_Imbert" source="ile_en_ile_auto">Gabriel Imbert</relation>
+        <relation ana="Alexandre_Abellard" source="ile_en_ile_auto">Alexandre Abellard</relation>
+        <relation ana="Francois_Latour" source="ile_en_ile_auto">François Latour</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Syto_Cave_bio">
-    <text ref="http://ile-en-ile.org/cave/" xml:id="Syto_Cave_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/cave/">
       <p>
         <persName ana="Syto_Cave">Syto Cavé</persName>
          est né le 7 août 1944 à 
@@ -148,7 +155,7 @@
         -Ville, où il continue à se consacrer au théâtre et à l’écriture.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.syto-cave.14124.html" xml:id="Syto_Cave_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.syto-cave.14124.html">
       <p>
         <persName ana="Syto_Cave">Syto Cavé</persName>
          est né le 7 août 1944 à 

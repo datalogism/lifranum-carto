@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gary_Augustin_fiche">
@@ -36,7 +36,7 @@
     </person>
   </div>
   <div n="2" xml:id="Gary_Augustin_bio">
-    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/augustin/" xml:id="Gary_Augustin_bio_auteur_ile_en_ile">
+    <text hand="Rodney Saint-Éloi" ref="http://ile-en-ile.org/augustin/">
       <p>
         Poète, journaliste et critique, 
         <persName ana="Gary_Augustin">Gary Augustin</persName>
@@ -109,7 +109,7 @@ Comme une flaque
 Sur le pavé</p>
       <p>Il est décédé le 2 septembre 2014.</p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gary-augustin.14054.html" xml:id="Gary_Augustin_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.gary-augustin.14054.html">
       <p>
         Poète, journaliste et critique, 
         <persName ana="Gary_Augustin">Gary Augustin</persName>

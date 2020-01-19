@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Massillon_Coicou_fiche">
@@ -34,10 +34,13 @@
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Dramaturge</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Florvil_Hyppolite" source="ile_en_ile_auto">Florvil Hyppolite</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Massillon_Coicou_bio">
-    <text hand="Tontongi" ref="http://ile-en-ile.org/coicou/" xml:id="Massillon_Coicou_bio_auteur_ile_en_ile">
+    <text hand="Tontongi" ref="http://ile-en-ile.org/coicou/">
       <p>
         <persName ana="Massillon_Coicou">
           Massillon 
@@ -252,7 +255,7 @@ Cotton is king !…  » </p>
          pour Île en île contribue à mieux le faire connaître.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.massillon-coicou.32107.html" xml:id="Massillon_Coicou_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.massillon-coicou.32107.html">
       <p>
         <persName ana="Massillon_Coicou">
           Massillon 

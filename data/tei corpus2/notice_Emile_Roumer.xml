@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emile_Roumer_fiche">
@@ -28,7 +28,7 @@
         264763430
         <g ref="http://viaf.org/viaf/264763430"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Émile_Roumer
         <g ref="http://fr.dbpedia.org/resource/Émile_Roumer"/>
       </idno>
@@ -51,33 +51,19 @@
       </residence>
       <occupation source="viaf">ecrivains</occupation>
       <occupation source="viaf">authors</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Charles_Christophe">
-          <persName>Charles Christophe</persName>
-        </person>
-        <person ana="Brouard_Carl">
-          <persName>Brouard Carl</persName>
-        </person>
-        <person ana="Pompilus_Pradel_1914?_2000">
-          <persName>Pompilus Pradel 1914?-2000</persName>
-        </person>
-        <person ana="Franketienne">
-          <persName>Frankétienne</persName>
-        </person>
-        <person ana="FrankeTienne">
-          <persName>Frankétienne</persName>
-        </person>
-        <person ana="Charles_Christophe_Philippe">
-          <persName>Charles Christophe Philippe</persName>
-        </person>
-        <person ana="Berrou_Raphael">
-          <persName>Berrou Raphaël</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Charles_Christophe" source="viaf">Charles Christophe</relation>
+        <relation ana="Brouard_Carl" source="viaf">Brouard Carl</relation>
+        <relation ana="Pompilus_Pradel_1914?_2000" source="viaf">Pompilus Pradel 1914?-2000</relation>
+        <relation ana="Franketienne" source="viaf">Frankétienne</relation>
+        <relation ana="FrankeTienne" source="viaf">Frankétienne</relation>
+        <relation ana="Charles_Christophe_Philippe" source="viaf">Charles Christophe Philippe</relation>
+        <relation ana="Berrou_Raphael" source="viaf">Berrou Raphaël</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Emile_Roumer_bio">
-    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/roumer/" xml:id="Emile_Roumer_bio_auteur_ile_en_ile">
+    <text hand="Maximilien Laroche" ref="http://ile-en-ile.org/roumer/">
       <p>
         <persName ana="Emile_Roumer">Émile Roumer</persName>
          naît à 

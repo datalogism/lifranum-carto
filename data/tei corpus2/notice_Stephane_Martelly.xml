@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Stephane_Martelly_fiche">
@@ -30,10 +30,13 @@
       </residence>
       <occupation source="spla">Peintre</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Christine_Jeanney" source="ile_en_ile_auto">Christine Jeanney</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Stephane_Martelly_bio">
-    <text ref="http://ile-en-ile.org/martelly/" xml:id="Stephane_Martelly_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/martelly/">
       <p>
         <persName ana="Stephane_Martelly">Stéphane Martelly</persName>
          naît le 14 septembre 1974 à Port-au-
@@ -100,7 +103,7 @@
          Studio Center aux États-Unis et une exposition solo (de la série de la Folie) à la Cornell University.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.stephane-martelly.6345.html" xml:id="Stephane_Martelly_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.stephane-martelly.6345.html">
       <p>
         Une auteure d'origine 
         <placeName ana="Haitienne">Haïtienne</placeName>

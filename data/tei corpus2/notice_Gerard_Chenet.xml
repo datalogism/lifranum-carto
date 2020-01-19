@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gerard_Chenet_fiche">
@@ -29,10 +29,17 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Amelie_Cherie" source="ile_en_ile_auto">Amélie Chérie</relation>
+        <relation ana="Christophe_Colomb" source="ile_en_ile_auto">Christophe Colomb</relation>
+        <relation ana="Bois_Caiman" source="ile_en_ile_auto">Bois Caïman</relation>
+        <relation ana="Toubab_Dialaw" source="ile_en_ile_auto">Toubab Dialaw</relation>
+        <relation ana="Rene_Depestre" source="ile_en_ile_auto">René Depestre</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Gerard_Chenet_bio">
-    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/chenet/" xml:id="Gerard_Chenet_bio_auteur_ile_en_ile">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/chenet/">
       <p>
         <persName ana="Gerard_Chenet">Gérard Chenet</persName>
          est né le 14 avril 1927 à Port-au-
@@ -221,7 +228,7 @@
         , entre autres, dans un style parfois surréaliste, parfois réaliste, parfois merveilleux, parfois tout cela à la fois.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gerard-chenet.16720.html" xml:id="Gerard_Chenet_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.gerard-chenet.16720.html">
       <p>
         D'origine 
         <placeName ana="Haitienne">Haïtienne</placeName>

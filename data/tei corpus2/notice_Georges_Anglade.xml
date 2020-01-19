@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Georges_Anglade_fiche">
@@ -28,7 +28,7 @@
         39504226
         <g ref="http://viaf.org/viaf/39504226"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Georges_Anglade
         <g ref="http://fr.dbpedia.org/resource/Georges_Anglade"/>
       </idno>
@@ -58,48 +58,24 @@
       <occupation source="viaf">authors</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Universitaire</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Universite_Du_Quebec_A_Montreal_Groupe_D_Etudes_Et_De_Recherches_Critiques_D_Espace">
-          <persName>Université du Québec à Montréal Groupe d'études et de recherches critiques d'espace</persName>
-        </person>
-        <person ana="Universite_De_Montreal_Centre_De_Recherches_Caraibes">
-          <persName>Université de Montréal Centre de recherches caraïbes</persName>
-        </person>
-        <person ana="Levy_Joseph_Josy">
-          <persName>Lévy Joseph Josy</persName>
-        </person>
-        <person ana="Yunen_Rafael_Emilio">
-          <persName>Yunén Rafael Emilio</persName>
-        </person>
-        <person ana="Universidad_Catolica_Madre_Y_Maestra">
-          <persName>Universidad Católica Madre y Maestra</persName>
-        </person>
-        <person ana="Trier_Peter">
-          <persName>Trier Peter</persName>
-        </person>
-        <person ana="Litradukt_Literatureditionen">
-          <persName>litradukt Literatureditionen</persName>
-        </person>
-        <person ana="Wade_Sidney">
-          <persName>Wade Sidney</persName>
-        </person>
-        <person ana="Uzunbay_Zeynep">
-          <persName>Uzunbay Zeynep</persName>
-        </person>
-        <person ana="Universite_Du_Quebec_A_Montreal">
-          <persName>Université du Québec à Montréal</persName>
-        </person>
-        <person ana="Universite_Laval_Quebec_Canada_Groupe_D_Etudes_Et_De_Recherches_Critiques_D_Espace">
-          <persName>Université Laval Québec Canada Groupe d'études et de recherches critiques d'espace</persName>
-        </person>
-        <person ana="Mcconnell_Anne_Pease">
-          <persName>McConnell Anne Pease</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Universite_Du_Quebec_A_Montreal_Groupe_D_Etudes_Et_De_Recherches_Critiques_D_Espace" source="viaf">Université du Québec à Montréal Groupe d'études et de recherches critiques d'espace</relation>
+        <relation ana="Universite_De_Montreal_Centre_De_Recherches_Caraibes" source="viaf">Université de Montréal Centre de recherches caraïbes</relation>
+        <relation ana="Levy_Joseph_Josy" source="viaf">Lévy Joseph Josy</relation>
+        <relation ana="Yunen_Rafael_Emilio" source="viaf">Yunén Rafael Emilio</relation>
+        <relation ana="Universidad_Catolica_Madre_Y_Maestra" source="viaf">Universidad Católica Madre y Maestra</relation>
+        <relation ana="Trier_Peter" source="viaf">Trier Peter</relation>
+        <relation ana="Litradukt_Literatureditionen" source="viaf">litradukt Literatureditionen</relation>
+        <relation ana="Wade_Sidney" source="viaf">Wade Sidney</relation>
+        <relation ana="Uzunbay_Zeynep" source="viaf">Uzunbay Zeynep</relation>
+        <relation ana="Universite_Du_Quebec_A_Montreal" source="viaf">Université du Québec à Montréal</relation>
+        <relation ana="Universite_Laval_Quebec_Canada_Groupe_D_Etudes_Et_De_Recherches_Critiques_D_Espace" source="viaf">Université Laval Québec Canada Groupe d'études et de recherches critiques d'espace</relation>
+        <relation ana="Mcconnell_Anne_Pease" source="viaf">McConnell Anne Pease</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Georges_Anglade_bio">
-    <text hand="Françoise Naudillon" ref="http://ile-en-ile.org/anglade/" xml:id="Georges_Anglade_bio_auteur_ile_en_ile">
+    <text hand="Françoise Naudillon" ref="http://ile-en-ile.org/anglade/">
       <p>
         <persName ana="Georges_Anglade">Georges Anglade</persName>
          est né le 18 juillet 1944 à Port-au-
@@ -224,7 +200,7 @@
          en avril 2009, et une série d’hommages à l’auteur.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.georges-anglade.14050.html" xml:id="Georges_Anglade_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.georges-anglade.14050.html">
       <p>
         <persName ana="Georges_Anglade">Georges Anglade</persName>
          est né à Port-au-

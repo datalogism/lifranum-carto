@@ -152,7 +152,7 @@ def get_CompleteNotice(datas):
     date=SubElement(publicationStmt,"date")
     date.text =generated_on
     sourceDesc=SubElement(fileDesc,"sourceDesc")
-    sourceDesc.text="Notice et contenu issus de sources d'autorités et de répétoire web"
+    sourceDesc.text="Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités"
     n=1
     if("data_auth" in datas.keys()):
         data=datas["data_auth"]
@@ -219,7 +219,7 @@ def get_CompleteNotice(datas):
         if("bnf" in data.keys() and "id_dbpedia" in data["bnf"].keys()):
             if(data["bnf"]["id_dbpedia"]):
                 id_no=SubElement(person,"idno")
-                id_no.set("type","VIAF")
+                id_no.set("type","DBPEDIA")
                 splitted=data["bnf"]["id_dbpedia"].split("/")
                 id_no.text=splitted[-1]
                 id_no_content=SubElement(id_no,"g")
@@ -328,18 +328,37 @@ def get_CompleteNotice(datas):
                         occupation.set("source","spla")
                         occupation.text=data["spla"]["activity"]
                         list_occup.append(data["spla"]["activity"])
-
+        listPerson=None
         if("viaf" in data.keys() and "coauthors" in data["viaf"].keys()):
             if(data["viaf"]["coauthors"] and len(data["viaf"]["coauthors"])>0):
-                listPerson=SubElement(person,"listPerson")
-                listPerson.set("type","co_authors")
-                listPerson.set("source","viaf")
+                listPerson=SubElement(person,"listRelation")
                 for co in data["viaf"]["coauthors"]:
                     if("name" in co.keys()):
-                        person2=SubElement(listPerson,"person")
+                        person2=SubElement(listPerson,"relation")
+                        person2.set("source","viaf")
                         person2.set("ana",co["id_lifranum"])
-                        persName2=SubElement(person2,"persName")
-                        persName2.text=co["name"]
+                        person2.text=co["name"]
+                        
+        if("ile_en_ile_auto" in data.keys() and "found_pers" in data["ile_en_ile_auto"].keys()):
+            if(data["ile_en_ile_auto"]["found_pers"] and len(data["ile_en_ile_auto"]["found_pers"])>0):
+                if(listPerson is None):
+                    listPerson=SubElement(person,"listRelation")
+                for co in data["ile_en_ile_auto"]["found_pers"]:
+                    if("name" in co.keys()):
+                        person2=SubElement(listPerson,"relation")
+                        person2.set("source","ile_en_ile_auto")
+                        person2.set("ana",co["id_lifranum"])
+                        person2.text=co["name"]
+        if("spla_auto" in data.keys() and "found_pers" in data["spla_auto"].keys()):
+            if(data["spla_auto"]["found_pers"] and len(data["spla_auto"]["found_pers"])>0):
+                if(listPerson is None):
+                    listPerson=SubElement(person,"listRelation")
+                for co in data["spla_auto"]["found_pers"]:
+                    if("name" in co.keys()):
+                        person2=SubElement(listPerson,"relation")
+                        person2.set("source","ile_en_ile_auto")
+                        person2.set("ana",co["id_lifranum"])
+                        person2.text=co["name"]
         n=n+1
 
     if("bio_data" in datas.keys()):
@@ -351,7 +370,6 @@ def get_CompleteNotice(datas):
             print(bio_k)
             if "bio_content" in data["bio_data"][bio_k].keys():
                 text=SubElement(Div_Bio,"text")
-                text.set('xml:id', id_auth+'_bio_auteur_'+bio_k) ################### ID AUTEUR
                 text.set('ref', data["bio_data"][bio_k]["ref"]) ################### URL ILE EN ILE
                 if "hand" in data["bio_data"][bio_k].keys() and data["bio_data"][bio_k]["hand"]!="":
                     text.set('hand',data["bio_data"][bio_k]["hand"] ) ################### WRITEN BY

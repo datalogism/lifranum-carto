@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Yanick_Lahens_fiche">
@@ -28,7 +28,7 @@
         37986271
         <g ref="http://viaf.org/viaf/37986271"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Yanick_Lahens
         <g ref="http://fr.dbpedia.org/resource/Yanick_Lahens"/>
       </idno>
@@ -56,48 +56,32 @@
       <occupation source="viaf">authors</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Conférencier/e</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Himmelreich_Jutta">
-          <persName>Himmelreich Jutta</persName>
-        </person>
-        <person ana="Fohlen_Corentin">
-          <persName>Fohlen Corentin</persName>
-        </person>
-        <person ana="Wilson_Betty">
-          <persName>Wilson Betty</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Seveno_Caroline">
-          <persName>Seveno Caroline</persName>
-        </person>
-        <person ana="Pepin_Ernest">
-          <persName>Pépin Ernest</persName>
-        </person>
-        <person ana="Pineau_Gisele">
-          <persName>Pineau Gisèle</persName>
-        </person>
-        <person ana="Moomou_Jean">
-          <persName>Moomou Jean</persName>
-        </person>
-        <person ana="Maximin_Daniel">
-          <persName>Maximin Daniel</persName>
-        </person>
-        <person ana="Wydawnictwo_Karakter">
-          <persName>Wydawnictwo Karakter</persName>
-        </person>
-        <person ana="Victor_Gary">
-          <persName>Victor Gary</persName>
-        </person>
-        <person ana="Stiftung_Fur_Die_Photographie_Svycarsko">
-          <persName>Stiftung für die Photographie Švýcarsko</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Himmelreich_Jutta" source="viaf">Himmelreich Jutta</relation>
+        <relation ana="Fohlen_Corentin" source="viaf">Fohlen Corentin</relation>
+        <relation ana="Wilson_Betty" source="viaf">Wilson Betty</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Seveno_Caroline" source="viaf">Seveno Caroline</relation>
+        <relation ana="Pepin_Ernest" source="viaf">Pépin Ernest</relation>
+        <relation ana="Pineau_Gisele" source="viaf">Pineau Gisèle</relation>
+        <relation ana="Moomou_Jean" source="viaf">Moomou Jean</relation>
+        <relation ana="Maximin_Daniel" source="viaf">Maximin Daniel</relation>
+        <relation ana="Wydawnictwo_Karakter" source="viaf">Wydawnictwo Karakter</relation>
+        <relation ana="Victor_Gary" source="viaf">Victor Gary</relation>
+        <relation ana="Stiftung_Fur_Die_Photographie_Svycarsko" source="viaf">Stiftung für die Photographie Švýcarsko</relation>
+        <relation ana="Marie_Chauvet" source="ile_en_ile_auto">Marie Chauvet</relation>
+        <relation ana="Jan Dominique_J" source="ile_en_ile_auto">Jan J. Dominique</relation>
+        <relation ana="Yanick_Jean" source="ile_en_ile_auto">Yanick Jean</relation>
+        <relation ana="Paulette_Poujol" source="ile_en_ile_auto">Paulette Poujol</relation>
+        <relation ana="Jan_Jdominique" source="ile_en_ile_auto">Jan J.Dominique</relation>
+        <relation ana="Ministre_De_La_Culture" source="ile_en_ile_auto">Ministre de la Culture</relation>
+        <relation ana="Laennec_Hurbon" source="ile_en_ile_auto">Laënnec Hurbon</relation>
+        <relation ana="Marie_Chauvet" source="ile_en_ile_auto">Marie Chauvet</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Yanick_Lahens_bio">
-    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/lahens/" xml:id="Yanick_Lahens_bio_auteur_ile_en_ile">
+    <text hand="Joëlle Vitiello" ref="http://ile-en-ile.org/lahens/">
       <p>
         Née en 
         <placeName ana="Haiti">Haïti</placeName>
@@ -194,7 +178,7 @@
          et à l’étranger.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.yanick-lahens.4107.html" xml:id="Yanick_Lahens_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.yanick-lahens.4107.html">
       <p>
         <persName ana="Yanick_Lahens">
           Yanick 

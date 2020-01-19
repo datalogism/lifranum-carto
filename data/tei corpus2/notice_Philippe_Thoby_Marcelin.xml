@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Philippe_Thoby_Marcelin_fiche">
@@ -26,42 +26,23 @@
       <death source="viaf">
         <date>1975-08-13</date>
       </death>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Marcelin_Pierre">
-          <persName>Marcelin Pierre</persName>
-        </person>
-        <person ana="Rhodes Peter_C">
-          <persName>Rhodes Peter C</persName>
-        </person>
-        <person ana="Tinker_Edward_Larocque">
-          <persName>Tinker Edward Larocque</persName>
-        </person>
-        <person ana="Wright_Harold">
-          <persName>Wright Harold</persName>
-        </person>
-        <person ana="Williams_Miller">
-          <persName>Williams Miller</persName>
-        </person>
-        <person ana="Untermeyer_Louis">
-          <persName>Untermeyer Louis</persName>
-        </person>
-        <person ana="Tate_Allen">
-          <persName>Tate Allen</persName>
-        </person>
-        <person ana="Tanikawa_Shuntaro">
-          <persName>Tanikawa Shuntarō</persName>
-        </person>
-        <person ana="Smith_William_Jay">
-          <persName>Smith William Jay</persName>
-        </person>
-        <person ana="Degrave_Philippe">
-          <persName>Degrave Philippe</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Marcelin_Pierre" source="viaf">Marcelin Pierre</relation>
+        <relation ana="Rhodes Peter_C" source="viaf">Rhodes Peter C</relation>
+        <relation ana="Tinker_Edward_Larocque" source="viaf">Tinker Edward Larocque</relation>
+        <relation ana="Wright_Harold" source="viaf">Wright Harold</relation>
+        <relation ana="Williams_Miller" source="viaf">Williams Miller</relation>
+        <relation ana="Untermeyer_Louis" source="viaf">Untermeyer Louis</relation>
+        <relation ana="Tate_Allen" source="viaf">Tate Allen</relation>
+        <relation ana="Tanikawa_Shuntaro" source="viaf">Tanikawa Shuntarō</relation>
+        <relation ana="Smith_William_Jay" source="viaf">Smith William Jay</relation>
+        <relation ana="Degrave_Philippe" source="viaf">Degrave Philippe</relation>
+        <relation ana="Freres_Marcelin" source="ile_en_ile_auto">frères Marcelin</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Philippe_Thoby_Marcelin_bio">
-    <text hand="Frenand Léger" ref="http://ile-en-ile.org/thoby-marcelin/" xml:id="Philippe_Thoby_Marcelin_bio_auteur_ile_en_ile">
+    <text hand="Frenand Léger" ref="http://ile-en-ile.org/thoby-marcelin/">
       <p>
         <persName ana="Philippe_Thoby">
           Philippe 
@@ -205,7 +186,7 @@
          préconise une ouverture culturelle internationale, particulièrement sur l’
         <placeName ana="Amerique">Amérique</placeName>
          latine et sur 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
         .
       </p>
       <p>

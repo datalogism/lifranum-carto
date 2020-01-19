@@ -23,9 +23,12 @@ file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/list_authors
 with open(file, encoding='utf-8') as json_file:
     list_authors = json.load(json_file)
 list_auth_temp=[]
+list_auth2=[]
 for auth in list_authors:
+    list_auth2.append("_".join(normalize_names(strip_accents(auth).replace("-","_"))))
     if(auth.replace("-","_") not in list_auth_temp):
         list_auth_temp.append(auth.replace("-","_"))
+        
 list_authors=list_auth_temp 
 file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/spla_haiti_final.json'
 with open(file, encoding='utf-8') as json_file:
@@ -169,6 +172,7 @@ with open(file, encoding='utf-8') as csvfile:
 
 
 pers_processor = KeywordProcessor()
+pers_processor2 = KeywordProcessor()
 file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/Pers_entities1.csv'
 with open(file, encoding='utf-8') as csvfile:
     header=next(csvfile)
@@ -177,6 +181,7 @@ with open(file, encoding='utf-8') as csvfile:
         current=auth="_".join(normalize_names(auth_name))      
         id_auth=strip_accents(current)
         if id_auth not in place_list:
+            pers_processor2.add_keyword(auth_name)
             pers_processor.add_keyword(auth_name,"<persName ana='"+id_auth+"'>"+auth_name+"</persName>")
 
 
@@ -256,20 +261,20 @@ for auth in list_authors:
                     if(k=="gender" and gender is None):
                         data_notices["data_auth"]["bnf"]["gender"]=current_bnf[k]["value"]
                     if(k=="family"):
-                    	name_here["family"]=current_bnf[k]["value"]
+                        name_here["family"]=current_bnf[k]["value"]
                     if(k=="link" and "viaf" in current_bnf[k]["value"] and id_viaf is None):
                         data_notices["data_auth"]["bnf"]["id_viaf"]=current_bnf[k]["value"]
                     if(k=="link" and "dbpedia" in current_bnf[k]["value"]):
                        data_notices["data_auth"]["bnf"]["id_dbpedia"]=current_bnf[k]["value"]
                 if(data_notices["author_name"] is None and (name_here["name"]!="" and name_here["family"]!="")):
-                	data_notices["author_name"]=name_here["name"]+" "+name_here["family"]
+                    data_notices["author_name"]=name_here["name"]+" "+name_here["family"]
                     
         if(auth in data_ile_en_ile_ok.keys()):
             
             data_notices["data_auth"]["ile_en_ile_auto"]={}
             data_notices["bio_data"]["ile_en_ile"]={}
             if(data_notices["author_name"] is None):
-            	data_notices["author_name"]=data_ile_en_ile_ok[auth]["name_auth"]
+                data_notices["author_name"]=data_ile_en_ile_ok[auth]["name_auth"]
             
            
             
@@ -310,8 +315,20 @@ for auth in list_authors:
                                
             annoteted_bio=[]
             for content in bio_content:
+                found_pers=[]
                 content0=pers_processor.replace_keywords(content)
                 content1=loc_processor.replace_keywords(content0)
+                found_pers = pers_processor2.extract_keywords(content)
+                if(len(found_pers)>0):
+                    print(found_pers)
+                    data_notices["data_auth"]["ile_en_ile_auto"]["found_pers"]=[]
+                    for pers in found_pers:
+                        id_auth_temp=strip_accents("_".join(normalize_names(pers)))
+                        if(id_auth!=id_auth_temp):
+                            current={"name":pers,"id_lifranum":id_auth_temp}
+                            data_notices["data_auth"]["ile_en_ile_auto"]["found_pers"].append(current)
+
+                    
                 annoteted_bio.append(content1)
                  
                
@@ -334,9 +351,20 @@ for auth in list_authors:
     
                     bio_content=data_spla_ok[auth]["desc"]["content"].encode('latin-1').decode("utf-8")
                     if(len(bio_content)>0):
+                        found_pers=[]
                         annotated0=pers_processor.replace_keywords(bio_content)
                         annotated1=loc_processor.replace_keywords(annotated0)
                         
+                        found_pers = pers_processor2.extract_keywords(bio_content)
+                        if(len(found_pers)>0):
+                            data_notices["data_auth"]["spla_auto"]["found_pers"]=[]
+                            print(found_pers)
+                            for pers in found_pers:
+                                id_auth_temp=strip_accents("_".join(normalize_names(pers)))
+                                if(id_auth_temp!=id_auth):
+                                    current={"name":pers,"id_lifranum":id_auth_temp}
+                                    data_notices["data_auth"]["spla_auto"]["found_pers"].append(current)
+
                         data_notices["bio_data"]["spla"]["bio_content"]=[annotated1]
                         
                         dates_auth=GetAuthorsDates(' '.join(bio_content))
@@ -375,15 +403,15 @@ for auth in list_authors:
 #    except:
 #        print("PB DURING SAVING Notice")
 
-from os import walk
-
-f = []
-for (dirpath, dirnames, filenames) in walk("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/"):
-    f.extend(filenames)
-    break
-result=getMaster(f)
-str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')
-
-myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/master_auteurs.xml", "w", "utf-8")
-myfile.write(str_res)
-myfile.close()
+#from os import walk
+#
+#f = []
+#for (dirpath, dirnames, filenames) in walk("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/"):
+#    f.extend(filenames)
+#    break
+#result=getMaster(f)
+#str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')
+#
+#myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/master_auteurs.xml", "w", "utf-8")
+#myfile.write(str_res)
+#myfile.close()

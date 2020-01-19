@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Louis_Philippe_Dalembert_fiche">
@@ -37,42 +37,29 @@
       <occupation source="viaf">authors</occupation>
       <occupation source="viaf">actors</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Damoison_David">
-          <persName>Damoison David</persName>
-        </person>
-        <person ana="Chemla_Yves">
-          <persName>Chemla Yves</persName>
-        </person>
-        <person ana="Trier_Peter">
-          <persName>Trier Peter</persName>
-        </person>
-        <person ana="Mccormick Robert_H">
-          <persName>McCormick Robert H</persName>
-        </person>
-        <person ana="Editions_Du_Rocher">
-          <persName>Éditions du Rocher</persName>
-        </person>
-        <person ana="Telemaque_Herve">
-          <persName>Télémaque Hervé</persName>
-        </person>
-        <person ana="Trouillot_Evelyne">
-          <persName>Trouillot Evelyne</persName>
-        </person>
-        <person ana="LaferrieRe_Dany">
-          <persName>Laferrière Dany</persName>
-        </person>
-        <person ana="Gary_Romain">
-          <persName>Gary Romain</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Damoison_David" source="viaf">Damoison David</relation>
+        <relation ana="Chemla_Yves" source="viaf">Chemla Yves</relation>
+        <relation ana="Trier_Peter" source="viaf">Trier Peter</relation>
+        <relation ana="Mccormick Robert_H" source="viaf">McCormick Robert H</relation>
+        <relation ana="Editions_Du_Rocher" source="viaf">Éditions du Rocher</relation>
+        <relation ana="Telemaque_Herve" source="viaf">Télémaque Hervé</relation>
+        <relation ana="Trouillot_Evelyne" source="viaf">Trouillot Evelyne</relation>
+        <relation ana="LaferrieRe_Dany" source="viaf">Laferrière Dany</relation>
+        <relation ana="Gary_Romain" source="viaf">Gary Romain</relation>
+        <relation ana="Philippe_Dalembert" source="ile_en_ile_auto">Philippe Dalembert</relation>
+        <relation ana="Alejo_Carpentier" source="ile_en_ile_auto">Alejo Carpentier</relation>
+        <relation ana="Sorbonne_Nouvelle" source="ile_en_ile_auto">Sorbonne Nouvelle</relation>
+        <relation ana="Philippe_Dalembert" source="ile_en_ile_auto">Philippe Dalembert</relation>
+        <relation ana="Philippe_Dalembert" source="ile_en_ile_auto">Philippe Dalembert</relation>
+        <relation ana="David_Damoison" source="ile_en_ile_auto">David Damoison</relation>
+        <relation ana="Laennec_Hurbon" source="ile_en_ile_auto">Laënnec Hurbon</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Louis_Philippe_Dalembert_bio">
-    <text ref="http://ile-en-ile.org/dalembert/" xml:id="Louis_Philippe_Dalembert_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/dalembert/">
       <p>
         Louis-
         <persName ana="Philippe_Dalembert">Philippe Dalembert</persName>
@@ -89,7 +76,7 @@
          du Nord et l’
         <placeName ana="Afrique">Afrique</placeName>
          noire, le Moyen-Orient, 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
         ), ses adresses se suivent et ne se ressemblent pas. Cet homme-tortue, ce vagabond comme il se définit lui-même, a vécu une dizaine d’années à 
         <placeName ana="Paris">Paris</placeName>
         , où il a réalisé ses études universitaires et exercé la profession de journaliste. Séjourne une première fois à 
@@ -129,7 +116,7 @@
         ).
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.louis-philippe-dalembert.5052.html" xml:id="Louis_Philippe_Dalembert_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.louis-philippe-dalembert.5052.html">
       <p>
         Né en 
         <placeName ana="Haiti">Haïti</placeName>

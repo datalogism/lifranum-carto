@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Franketienne_fiche">
@@ -34,10 +34,16 @@
       <occupation source="spla"> Acteur/trice</occupation>
       <occupation source="spla"> Dramaturge</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Jean_Jonassaint" source="ile_en_ile_auto">Jean Jonassaint</relation>
+        <relation ana="Dany_Laferriere" source="ile_en_ile_auto">Dany Laferrière</relation>
+        <relation ana="Claude_Fignole" source="ile_en_ile_auto">Claude Fignolé</relation>
+        <relation ana="Rene_Philoctete" source="ile_en_ile_auto">René Philoctète</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Franketienne_bio">
-    <text hand="Jean Jonassaint" ref="http://ile-en-ile.org/franketienne/" xml:id="Franketienne_bio_auteur_ile_en_ile">
+    <text hand="Jean Jonassaint" ref="http://ile-en-ile.org/franketienne/">
       <p>
         Enseignant, chanteur, comédien, dramaturge, écrivain et peintre, 
         <placeName ana="Franketienne">Frankétienne</placeName>
@@ -89,7 +95,7 @@
           (réédité en 
         <placeName ana="France">France</placeName>
          par 
-        <persName ana="Vents_D’Ailleurs">Vents d’Ailleurs</persName>
+        <persName ana="Vents_D_Ailleurs">Vents d’Ailleurs</persName>
          en 2002). Plus qu’une révélation : au-delà des mots, 
         <placeName ana="Franketienne">Frankétienne</placeName>
         , caisse de résonance des maux de la 
@@ -182,7 +188,7 @@
          par Jean-
         <persName ana="Michel_Place">Michel Place</persName>
          qui reprendra en 2000 Les Affres d’un défi ; et enfin les éditions 
-        <persName ana="Vents_D’Ailleurs">Vents d’Ailleurs</persName>
+        <persName ana="Vents_D_Ailleurs">Vents d’Ailleurs</persName>
          reprennent en huit volumes Les Métamorphoses de l’Oiseau schizophone (2004-2005). Avec le XXIe siècle l’œuvre de 
         <placeName ana="Franketienne">Frankétienne</placeName>
          fait son entrée dans le discours académique anglo-américain, avec des 
@@ -202,7 +208,7 @@
       </p>
       <p>
         Voilà grossièrement le portrait de l’écrivain et de l’artiste, non de l’homme, auquel le 
-        <placeName ana="Musee_D’Art_Haitien_Du">Musée d’art haïtien du</placeName>
+        <placeName ana="Musee_D_Art_Haitien_Du">Musée d’art haïtien du</placeName>
          Collège Saint-Pierre rend hommage en 2004 avec une grande exposition – 
         <placeName ana="Franketienne">Franketienne</placeName>
         : Entre ténèbres et lumière – de ses vingt fresques sur la révolution 
@@ -257,7 +263,7 @@
          dans: Dérives, 53/54 (1987):  8-12, utilisée avec permission.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.franketienne.4348.html" xml:id="Franketienne_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.franketienne.4348.html">
       <p>
         Auteur de plus d'une quarantaine d'ouvrages en tous genres : roman, poésie, théâtre, 
         <placeName ana="Franketienne">Frankétienne</placeName>

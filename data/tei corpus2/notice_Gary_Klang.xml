@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gary_Klang_fiche">
@@ -28,7 +28,7 @@
         56734287
         <g ref="http://viaf.org/viaf/56734287"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Gary_Klang
         <g ref="http://fr.dbpedia.org/resource/Gary_Klang"/>
       </idno>
@@ -50,30 +50,18 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Phelps_Anthony">
-          <persName>Phelps Anthony</persName>
-        </person>
-        <person ana="Roumain_Jacques">
-          <persName>Roumain Jacques</persName>
-        </person>
-        <person ana="Martial_Jacques">
-          <persName>Martial Jacques</persName>
-        </person>
-        <person ana="Haas_Elsie">
-          <persName>Haas Elsie</persName>
-        </person>
-        <person ana="Klang_Gary">
-          <persName>Klang Gary</persName>
-        </person>
-        <person ana="Pomeau_Rene">
-          <persName>Pomeau René</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Phelps_Anthony" source="viaf">Phelps Anthony</relation>
+        <relation ana="Roumain_Jacques" source="viaf">Roumain Jacques</relation>
+        <relation ana="Martial_Jacques" source="viaf">Martial Jacques</relation>
+        <relation ana="Haas_Elsie" source="viaf">Haas Elsie</relation>
+        <relation ana="Klang_Gary" source="viaf">Klang Gary</relation>
+        <relation ana="Pomeau_Rene" source="viaf">Pomeau René</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Gary_Klang_bio">
-    <text ref="http://ile-en-ile.org/klang/" xml:id="Gary_Klang_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/klang/">
       <p>
         <persName ana="Gary_Klang">Gary Klang</persName>
          est né le 28 décembre 1941 à Port-au-
@@ -132,7 +120,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gary-klang.7412.html" xml:id="Gary_Klang_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.gary-klang.7412.html">
       <p>
         Né en 
         <placeName ana="Haiti">Haïti</placeName>

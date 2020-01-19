@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Verly_Dabel_fiche">
@@ -32,7 +32,7 @@
     </person>
   </div>
   <div n="2" xml:id="Verly_Dabel_bio">
-    <text hand="Emmelie Prophète" ref="http://ile-en-ile.org/dabel/" xml:id="Verly_Dabel_bio_auteur_ile_en_ile">
+    <text hand="Emmelie Prophète" ref="http://ile-en-ile.org/dabel/">
       <p>
         <persName ana="Verly_Dabel">Verly Dabel</persName>
          est un collectionneur. Noctambule. Chercheur d’or. Collectionneur de moments, de mots, d’émotions.
@@ -42,7 +42,7 @@
          est né le 27 février 1964 à 
         <placeName ana="Ounanaminthe">Ounanaminthe</placeName>
         , dans le Nord-
-        <placeName ana="Est_D’Haiti">Est d’Haïti</placeName>
+        <placeName ana="Est_D_Haiti">Est d’Haïti</placeName>
         . Il est détenteur d’une licence en gestion des affaires de l’INAGHEI (Institut National d’Administration de Gestion et des Hautes Études Internationales) et d’une 
         <placeName ana="Maitrise">Maîtrise</placeName>
          en gestion internationale de l’université des West Indies (
@@ -95,7 +95,7 @@
         . Son dernier recueil de nouvelles, Éloge des ténèbres est sorti en 2012 chez Mémoire d’encrier.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.verly-dabel.32108.html" xml:id="Verly_Dabel_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.verly-dabel.32108.html">
       <p>
         <persName ana="Verly_Dabel">Verly Dabel</persName>
          est un collectionneur. Noctambule. Chercheur d'or. Collectionneur de moments, de mots, d'émotions. voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; 

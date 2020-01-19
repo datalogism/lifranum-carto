@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Herve_Fanini_Lemoin_fiche">
@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Herve_Fanini_Lemoin_bio">
-    <text ref="http://www.spla.pro/fiche.personne.herve-fanini-lemoin.39597.html" xml:id="Herve_Fanini_Lemoin_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.herve-fanini-lemoin.39597.html">
       <p>
         Né en 
         <placeName ana="Haiti">Haïti</placeName>

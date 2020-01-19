@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Demesvar_Delorme_fiche">
@@ -28,7 +28,7 @@
         48340282
         <g ref="http://viaf.org/viaf/48340282"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Jean_Demesvar_Delorme
         <g ref="http://fr.dbpedia.org/resource/Jean_Demesvar_Delorme"/>
       </idno>
@@ -59,15 +59,14 @@
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
       <occupation source="spla"> Journaliste</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="University_Of_Western_Ontario_Department_Of_Computer_Science">
-          <persName>University of Western Ontario Department of Computer Science</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="University_Of_Western_Ontario_Department_Of_Computer_Science" source="viaf">University of Western Ontario Department of Computer Science</relation>
+        <relation ana="Dantes_Bellegarde" source="ile_en_ile_auto">Dantès Bellegarde</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Demesvar_Delorme_bio">
-    <text hand="Yves Chemla" ref="http://ile-en-ile.org/delorme/" xml:id="Demesvar_Delorme_bio_auteur_ile_en_ile">
+    <text hand="Yves Chemla" ref="http://ile-en-ile.org/delorme/">
       <p>
         <persName ana="Demesvar_Delorme">
           Démesvar 
@@ -233,7 +232,7 @@
         .
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.demesvar-delorme.14087.html" xml:id="Demesvar_Delorme_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.demesvar-delorme.14087.html">
       <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
     </text>
   </div>

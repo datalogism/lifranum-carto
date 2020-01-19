@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Leon_Laleau_fiche">
@@ -28,7 +28,7 @@
         27101960
         <g ref="http://viaf.org/viaf/27101960"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Léon_Laleau
         <g ref="http://fr.dbpedia.org/resource/Léon_Laleau"/>
       </idno>
@@ -53,33 +53,21 @@
       <occupation source="viaf">ecrivains$hommes politiques</occupation>
       <occupation source="viaf">diplomats</occupation>
       <occupation source="viaf">authors</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Vincent Stenio Pres Haiti_">
-          <persName>Vincent Sténio  pres Haiti</persName>
-        </person>
-        <person ana="Chauvigny_Louis_De">
-          <persName>Chauvigny Louis de</persName>
-        </person>
-        <person ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress">
-          <persName>Archive of Hispanic Literature on Tape Library of Congress</persName>
-        </person>
-        <person ana="Fouchard_Jean">
-          <persName>Fouchard Jean</persName>
-        </person>
-        <person ana="Fabry_Claude">
-          <persName>Fabry Claude</persName>
-        </person>
-        <person ana="Etienne_GeRard">
-          <persName>Etienne Gérard</persName>
-        </person>
-        <person ana="Carrie_Pierre">
-          <persName>Carrié Pierre</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Vincent Stenio Pres Haiti_" source="viaf">Vincent Sténio  pres Haiti</relation>
+        <relation ana="Chauvigny_Louis_De" source="viaf">Chauvigny Louis de</relation>
+        <relation ana="Archive_Of_Hispanic_Literature_On_Tape_Library_Of_Congress" source="viaf">Archive of Hispanic Literature on Tape Library of Congress</relation>
+        <relation ana="Fouchard_Jean" source="viaf">Fouchard Jean</relation>
+        <relation ana="Fabry_Claude" source="viaf">Fabry Claude</relation>
+        <relation ana="Etienne_GeRard" source="viaf">Etienne Gérard</relation>
+        <relation ana="Carrie_Pierre" source="viaf">Carrié Pierre</relation>
+        <relation ana="Raphael_Berrou" source="ile_en_ile_auto">Raphaël Berrou</relation>
+        <relation ana="Pradel_Pompilus" source="ile_en_ile_auto">Pradel Pompilus</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Leon_Laleau_bio">
-    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/laleau/" xml:id="Leon_Laleau_bio_auteur_ile_en_ile">
+    <text hand="Nadève Ménard" ref="http://ile-en-ile.org/laleau/">
       <p>
         <persName ana="Leon_Laleau">
           Léon 

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Lyonel_Trouillot_fiche">
@@ -28,7 +28,7 @@
         267680342
         <g ref="http://viaf.org/viaf/267680342"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Lyonel_Trouillot
         <g ref="http://fr.dbpedia.org/resource/Lyonel_Trouillot"/>
       </idno>
@@ -48,51 +48,26 @@
       <occupation source="viaf">literature teachers</occupation>
       <occupation source="viaf">authors black</occupation>
       <occupation source="viaf">authors</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Buteau_Pierre">
-          <persName>Buteau Pierre</persName>
-        </person>
-        <person ana="Dalembert_Louis_Philippe">
-          <persName>Dalembert Louis-Philippe</persName>
-        </person>
-        <person ana="Bohin_Cviklinski_CeLia">
-          <persName>Bohin-Cviklinski Célia</persName>
-        </person>
-        <person ana="Pignon_Ernest_Ernest">
-          <persName>Pignon-Ernest Ernest</persName>
-        </person>
-        <person ana="Loze_Marie_BeNeDicte">
-          <persName>Loze Marie-Bénédicte</persName>
-        </person>
-        <person ana="Heber_SchaRer_Barbara">
-          <persName>Heber-Schärer Barbara</persName>
-        </person>
-        <person ana="Saint_Eloi_Rodney">
-          <persName>Saint-Éloi Rodney</persName>
-        </person>
-        <person ana="Chemla_Yves">
-          <persName>Chemla Yves</persName>
-        </person>
-        <person ana="Baron_Amelie">
-          <persName>Baron Amélie</persName>
-        </person>
-        <person ana="Steinitz_Claudia">
-          <persName>Steinitz Claudia</persName>
-        </person>
-        <person ana="Giszczak_Jacek">
-          <persName>Giszczak Jacek</persName>
-        </person>
-        <person ana="Coverdale_Linda">
-          <persName>Coverdale Linda</persName>
-        </person>
-        <person ana="Wydawnictwo_Karakter">
-          <persName>Wydawnictwo Karakter</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Buteau_Pierre" source="viaf">Buteau Pierre</relation>
+        <relation ana="Dalembert_Louis_Philippe" source="viaf">Dalembert Louis-Philippe</relation>
+        <relation ana="Bohin_Cviklinski_CeLia" source="viaf">Bohin-Cviklinski Célia</relation>
+        <relation ana="Pignon_Ernest_Ernest" source="viaf">Pignon-Ernest Ernest</relation>
+        <relation ana="Loze_Marie_BeNeDicte" source="viaf">Loze Marie-Bénédicte</relation>
+        <relation ana="Heber_SchaRer_Barbara" source="viaf">Heber-Schärer Barbara</relation>
+        <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
+        <relation ana="Chemla_Yves" source="viaf">Chemla Yves</relation>
+        <relation ana="Baron_Amelie" source="viaf">Baron Amélie</relation>
+        <relation ana="Steinitz_Claudia" source="viaf">Steinitz Claudia</relation>
+        <relation ana="Giszczak_Jacek" source="viaf">Giszczak Jacek</relation>
+        <relation ana="Coverdale_Linda" source="viaf">Coverdale Linda</relation>
+        <relation ana="Wydawnictwo_Karakter" source="viaf">Wydawnictwo Karakter</relation>
+        <relation ana="Actes_Sud" source="ile_en_ile_auto">Actes Sud</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Lyonel_Trouillot_bio">
-    <text ref="http://ile-en-ile.org/trouillot_lyonel/" xml:id="Lyonel_Trouillot_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/trouillot_lyonel/">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>

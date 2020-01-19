@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Dominique_Batraville_fiche">
@@ -28,7 +28,7 @@
         34700403
         <g ref="http://viaf.org/viaf/34700403"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Dominique_Batraville
         <g ref="http://fr.dbpedia.org/resource/Dominique_Batraville"/>
       </idno>
@@ -46,27 +46,18 @@
       <occupation source="viaf">journalists</occupation>
       <occupation source="viaf">comedians</occupation>
       <occupation source="viaf">authors black</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Mesadieu_Anne_Louise">
-          <persName>Mesadieu Anne-Louise</persName>
-        </person>
-        <person ana="Delorme_Verlus">
-          <persName>Delorme Verlus</persName>
-        </person>
-        <person ana="Najman_Charles">
-          <persName>Najman Charles</persName>
-        </person>
-        <person ana="Pauvros_Jean_FrancOis">
-          <persName>Pauvros Jean-François</persName>
-        </person>
-        <person ana="ETang Gerry_L">
-          <persName>L'Étang Gerry</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Mesadieu_Anne_Louise" source="viaf">Mesadieu Anne-Louise</relation>
+        <relation ana="Delorme_Verlus" source="viaf">Delorme Verlus</relation>
+        <relation ana="Najman_Charles" source="viaf">Najman Charles</relation>
+        <relation ana="Pauvros_Jean_FrancOis" source="viaf">Pauvros Jean-François</relation>
+        <relation ana="ETang Gerry_L" source="viaf">L'Étang Gerry</relation>
+        <relation ana="Dominique_Batravil" source="ile_en_ile_auto">Dominique Batravil</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Dominique_Batraville_bio">
-    <text hand="Giscard Bouchotte" ref="http://ile-en-ile.org/batraville/" xml:id="Dominique_Batraville_bio_auteur_ile_en_ile">
+    <text hand="Giscard Bouchotte" ref="http://ile-en-ile.org/batraville/">
       <p>
         <persName ana="Frantz_Dominique_Batraville">Frantz Dominique Batraville</persName>
          est né le 20 février 1962 à Port-au-

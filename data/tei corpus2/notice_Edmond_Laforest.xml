@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Edmond_Laforest_fiche">
@@ -30,10 +30,16 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Normil Sylvain_G" source="ile_en_ile_auto">Normil G. Sylvain</relation>
+        <relation ana="Emile_Roumer" source="ile_en_ile_auto">Émile Roumer</relation>
+        <relation ana="Jean_Brierre" source="ile_en_ile_auto">Jean Brierre</relation>
+        <relation ana="Normil Sylvain_G" source="ile_en_ile_auto">Normil G. Sylvain</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Edmond_Laforest_bio">
-    <text hand="Max Dominique" ref="http://ile-en-ile.org/laforest_edmond/" xml:id="Edmond_Laforest_bio_auteur_ile_en_ile">
+    <text hand="Max Dominique" ref="http://ile-en-ile.org/laforest_edmond/">
       <p>
         Né à 
         <placeName ana="Jeremie">Jérémie</placeName>
@@ -80,7 +86,7 @@ Dans la chaumière
 De mon corps, la bûche d’humour
 Et d’amour est pleine de cendres.</p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.edmond-laforest.32112.html" xml:id="Edmond_Laforest_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.edmond-laforest.32112.html">
       <p>
         Né à 
         <placeName ana="Jeremie">Jérémie</placeName>

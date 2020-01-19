@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Louis_Joseph_Janvier_fiche">
@@ -32,10 +32,15 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Joseph_Janvier" source="ile_en_ile_auto">Joseph Janvier</relation>
+        <relation ana="Joseph_Janvier" source="ile_en_ile_auto">Joseph Janvier</relation>
+        <relation ana="Louis_Janvier" source="ile_en_ile_auto">Louis Janvier</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Louis_Joseph_Janvier_bio">
-    <text ref="http://ile-en-ile.org/janvier/" xml:id="Louis_Joseph_Janvier_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/janvier/">
       <p>
         <persName ana="Louis_Joseph_Janvier">Louis Joseph Janvier</persName>
          est né le 7 mai 1855 à Port-au-
@@ -58,7 +63,7 @@
         . Membre de la Société d’Anthropologie de 
         <placeName ana="Paris">Paris</placeName>
          en 1882, il publie en un temps record des essais importants, notamment 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
          et ses visiteurs ; 
         <placeName ana="Haiti">Haïti</placeName>
          aux 
@@ -122,7 +127,7 @@
         L’œuvre de Janvier est paradoxale. Quand il évoque 
         <placeName ana="Haiti">Haïti</placeName>
         , c’est depuis 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
          et souvent pour s’opposer à des appréciations négatives portées sur son pays. Dès la publication de son premier ouvrage en 1881, Phtisie pulmonaire, il s’attaque aux idées reçues sur le racisme. Bien que Janvier n’exercera jamais la profession de médecin, une grande partie de son argumentaire médical consiste à montrer que la tuberculose est le résultat d’un épuisement dû à la débauche et à une vie malsaine. Cependant les paysans 
         <placeName ana="Haitiens">Haïtiens</placeName>
          sont peu victimes de cette maladie. Ils mènent une vie saine, fondée sur une hygiène sûre : « Au point de vue purement ethnique, au point de vue d’anthropologie pathologique, la race noire n’est pas plus prédisposée que les autres à la tuberculose ». Ce discours aux présupposés hygiénistes est avant tout un discours de combat contre le racisme scientifique de l’époque, y compris celui des membres de la Société d’Anthropologie de 
@@ -145,7 +150,7 @@
       </p>
       <p>
         En 1882, il participe à un ouvrage collectif, Les détracteurs de la race noire et de 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
           (avec 
         <persName ana="Jules_Auguste">Jules Auguste</persName>
         , 
@@ -182,7 +187,7 @@
       </p>
       <p>
         En 1883, il publie un ouvrage volumineux, 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
          et ses visiteurs, dans lequel il s’en prend aux visiteurs qui assimilent 
         <placeName ana="Haiti">Haïti</placeName>
          à un « îlot de sauvagerie » (pour reprendre le mot de Jacques-
@@ -267,7 +272,7 @@ Et je dis à
          qui habitez l’
         <placeName ana="Amerique">Amérique</placeName>
         .  (
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
          et ses visiteurs)
       </p>
       <p>
@@ -494,7 +499,7 @@ Si
         . Il est donc tout à fait vraisemblable que Janvier avait deux prénoms, et pas un double prénom.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.louis-joseph-janvier.14122.html" xml:id="Louis_Joseph_Janvier_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.louis-joseph-janvier.14122.html">
       <p> voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; </p>
     </text>
   </div>

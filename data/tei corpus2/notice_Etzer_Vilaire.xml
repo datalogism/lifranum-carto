@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Etzer_Vilaire_fiche">
@@ -28,7 +28,7 @@
         34671219
         <g ref="http://viaf.org/viaf/34671219"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Etzer_Vilaire
         <g ref="http://fr.dbpedia.org/resource/Etzer_Vilaire"/>
       </idno>
@@ -50,27 +50,18 @@
         </placeName>
       </residence>
       <occupation source="viaf">poets black</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Price_Mars_Jean">
-          <persName>Price-Mars Jean</persName>
-        </person>
-        <person ana="Pompilus_Pradel">
-          <persName>Pompilus Pradel</persName>
-        </person>
-        <person ana="Fardin_Dieudonne">
-          <persName>Fardin Dieudonné</persName>
-        </person>
-        <person ana="Charles_Christophe_Philippe">
-          <persName>Charles Christophe Philippe</persName>
-        </person>
-        <person ana="Brutus TimoleOn_C">
-          <persName>Brutus Timoléon C</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Price_Mars_Jean" source="viaf">Price-Mars Jean</relation>
+        <relation ana="Pompilus_Pradel" source="viaf">Pompilus Pradel</relation>
+        <relation ana="Fardin_Dieudonne" source="viaf">Fardin Dieudonné</relation>
+        <relation ana="Charles_Christophe_Philippe" source="viaf">Charles Christophe Philippe</relation>
+        <relation ana="Brutus TimoleOn_C" source="viaf">Brutus Timoléon C</relation>
+        <relation ana="Jean_Price" source="ile_en_ile_auto">Jean Price</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Etzer_Vilaire_bio">
-    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/vilaire/" xml:id="Etzer_Vilaire_bio_auteur_ile_en_ile">
+    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/vilaire/">
       <p>
         <persName ana="Etzer_Vilaire">
           Etzer 
@@ -84,7 +75,7 @@
           <placeName ana="Vilaire">Vilaire</placeName>
         </persName>
          et 
-        <persName ana="D’Eugenie_Clerie">d’Eugénie Clérié</persName>
+        <persName ana="D_Eugenie_Clerie">d’Eugénie Clérié</persName>
         . Il naît le 7 avril 1872 sous le ciel enchanteur de la ville de 
         <placeName ana="Jeremie">Jérémie</placeName>
          (

@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Georges_Sylvain_fiche">
@@ -28,7 +28,7 @@
         71383533
         <g ref="http://viaf.org/viaf/71383533"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Georges_Sylvain
         <g ref="http://fr.dbpedia.org/resource/Georges_Sylvain"/>
       </idno>
@@ -49,7 +49,7 @@
     </person>
   </div>
   <div n="2" xml:id="Georges_Sylvain_bio">
-    <text hand="Dieulermesson Petit Frère" ref="http://ile-en-ile.org/sylvain_georges/" xml:id="Georges_Sylvain_bio_auteur_ile_en_ile">
+    <text hand="Dieulermesson Petit Frère" ref="http://ile-en-ile.org/sylvain_georges/">
       <p>
         Poète, essayiste, diplomate et homme politique, 
         <persName ana="Georges_Sylvain">Georges Sylvain</persName>
@@ -112,7 +112,7 @@
         . En 1908, paraît La lecture, un recueil de discours et conférences qu’il a prononcés en sa qualité de délégué de l’Alliance française en 
         <placeName ana="Haiti">Haïti</placeName>
         . Un an plus tard, il est reçu à titre de ministre plénipotentiaire de 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
          à 
         <placeName ana="Paris">Paris</placeName>
          et près du Saint-Siège, poste qu’il occupe jusqu’en 1912.

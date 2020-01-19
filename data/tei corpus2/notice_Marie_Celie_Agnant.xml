@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Marie-Célie Agnant</title>
+        <title>Notice de Marie Célie Agnant</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Marie_Celie_Agnant_fiche">
     <person ana="Marie_Celie_Agnant" sex="na">
-      <persName>Marie-Célie Agnant</persName>
+      <persName>Marie Célie Agnant</persName>
       <birth source="viaf">
         <date>1953-07-31</date>
       </birth>
@@ -36,48 +36,27 @@
       <occupation source="viaf">spisovatelky</occupation>
       <occupation source="viaf">basnirky</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Tapia_Veronica">
-          <persName>Tapia Veronica</persName>
-        </person>
-        <person ana="Saint_Eloi_Rodney">
-          <persName>Saint-Éloi Rodney</persName>
-        </person>
-        <person ana="Zekina_Daniela">
-          <persName>Zekina Daniela</persName>
-        </person>
-        <person ana="Tiga">
-          <persName>Tiga</persName>
-        </person>
-        <person ana="Tiga">
-          <persName>Tiga</persName>
-        </person>
-        <person ana="Pean_Stanley">
-          <persName>Péan Stanley</persName>
-        </person>
-        <person ana="Cousineau_Normand">
-          <persName>Cousineau Normand</persName>
-        </person>
-        <person ana="Mata_Barreiro_Carmen">
-          <persName>Mata Barreiro Carmen</persName>
-        </person>
-        <person ana="Barroux">
-          <persName>Barroux</persName>
-        </person>
-        <person ana="Barroux">
-          <persName>Barroux</persName>
-        </person>
-        <person ana="Wiener_Jacqueline">
-          <persName>Wiener Jacqueline</persName>
-        </person>
-        <person ana="Ellis_Zilpha">
-          <persName>Ellis Zilpha</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Tapia_Veronica" source="viaf">Tapia Veronica</relation>
+        <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Éloi Rodney</relation>
+        <relation ana="Zekina_Daniela" source="viaf">Zekina Daniela</relation>
+        <relation ana="Tiga" source="viaf">Tiga</relation>
+        <relation ana="Tiga" source="viaf">Tiga</relation>
+        <relation ana="Pean_Stanley" source="viaf">Péan Stanley</relation>
+        <relation ana="Cousineau_Normand" source="viaf">Cousineau Normand</relation>
+        <relation ana="Mata_Barreiro_Carmen" source="viaf">Mata Barreiro Carmen</relation>
+        <relation ana="Barroux" source="viaf">Barroux</relation>
+        <relation ana="Barroux" source="viaf">Barroux</relation>
+        <relation ana="Wiener_Jacqueline" source="viaf">Wiener Jacqueline</relation>
+        <relation ana="Ellis_Zilpha" source="viaf">Ellis Zilpha</relation>
+        <relation ana="Celie_Agnant" source="ile_en_ile_auto">Célie Agnant</relation>
+        <relation ana="Celie_Agnant" source="ile_en_ile_auto">Célie Agnant</relation>
+        <relation ana="Alexis_D_Haiti" source="ile_en_ile_auto">Alexis d'Haïti</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Marie_Celie_Agnant_bio">
-    <text hand="Lucie Lequin" ref="http://ile-en-ile.org/agnant/" xml:id="Marie_Celie_Agnant_bio_auteur_ile_en_ile">
+    <text hand="Lucie Lequin" ref="http://ile-en-ile.org/agnant/">
       <p>
         Poète, nouvelliste, romancière, Marie-
         <persName ana="Celie_Agnant">Célie Agnant</persName>
@@ -129,7 +108,7 @@
          se pose tout au long de ses différents textes, des questions essentielles sur le comment vivre comme sur le vivre ensemble et les raconte. Tout en déplorant l’absence de mots justes pour dire ce qui arrive à l’un et l’une à cause de l’autre, pour ajouter à l’Histoire des pans d’histoires personnelles, Agnant trouve néanmoins les mots pour dire l’indicible, du moins une partie, et nous les donne à lire.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.marie-celie-agnant.5619.html" xml:id="Marie_Celie_Agnant_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.marie-celie-agnant.5619.html">
       <p>
         Romancière, poète, nouvelliste et conteuse, Marie-
         <persName ana="Celie_Agnant">Célie Agnant</persName>

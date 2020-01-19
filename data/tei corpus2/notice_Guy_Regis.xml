@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Guy_Regis_fiche">
@@ -28,7 +28,7 @@
         170304147
         <g ref="http://viaf.org/viaf/170304147"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Guy_Junior_Régis
         <g ref="http://fr.dbpedia.org/resource/Guy_Junior_Régis"/>
       </idno>
@@ -43,30 +43,19 @@
           <country source="bnf">http://id.loc.gov/vocabulary/countries/ht</country>
         </placeName>
       </residence>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Woods_Paolo">
-          <persName>Woods Paolo</persName>
-        </person>
-        <person ana="Robert_Arnaud">
-          <persName>Robert Arnaud</persName>
-        </person>
-        <person ana="Hamadi">
-          <persName>Hamadi</persName>
-        </person>
-        <person ana="Gallimard">
-          <persName>Gallimard</persName>
-        </person>
-        <person ana="Dumont Luc 19_">
-          <persName>Dumont Luc 19-</persName>
-        </person>
-        <person ana="Camus_Albert">
-          <persName>Camus Albert</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Woods_Paolo" source="viaf">Woods Paolo</relation>
+        <relation ana="Robert_Arnaud" source="viaf">Robert Arnaud</relation>
+        <relation ana="Hamadi" source="viaf">Hamadi</relation>
+        <relation ana="Gallimard" source="viaf">Gallimard</relation>
+        <relation ana="Dumont Luc 19_" source="viaf">Dumont Luc 19-</relation>
+        <relation ana="Camus_Albert" source="viaf">Camus Albert</relation>
+        <relation ana="Guy_Junior_Regis" source="ile_en_ile_auto">Guy Junior Régis</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Guy_Regis_bio">
-    <text ref="http://ile-en-ile.org/regis/" xml:id="Guy_Regis_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/regis/">
       <p>
         <persName ana="Guy_Junior_Regis">Guy Junior Régis</persName>
          est né à la capitale 

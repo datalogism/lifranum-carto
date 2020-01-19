@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Claude_Charles_fiche">
@@ -42,42 +42,24 @@
       <occupation source="viaf">authors</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Meunier_Jacques">
-          <persName>Meunier Jacques</persName>
-        </person>
-        <person ana="Campfort_GeRard">
-          <persName>Campfort Gérard</persName>
-        </person>
-        <person ana="Pivin_Jean_Loup">
-          <persName>Pivin Jean-Loup</persName>
-        </person>
-        <person ana="Pessini_Alba">
-          <persName>Pessini Alba</persName>
-        </person>
-        <person ana="Njami_Simon">
-          <persName>Njami Simon</persName>
-        </person>
-        <person ana="Martin_Saint_Leon_Pascal">
-          <persName>Martin Saint-Léon Pascal</persName>
-        </person>
-        <person ana="Bloncourt_Gerald">
-          <persName>Bloncourt Gérald</persName>
-        </person>
-        <person ana="Telemaque_Herve">
-          <persName>Télémaque Hervé</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Pineau_Gisele">
-          <persName>Pineau Gisèle</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Meunier_Jacques" source="viaf">Meunier Jacques</relation>
+        <relation ana="Campfort_GeRard" source="viaf">Campfort Gérard</relation>
+        <relation ana="Pivin_Jean_Loup" source="viaf">Pivin Jean-Loup</relation>
+        <relation ana="Pessini_Alba" source="viaf">Pessini Alba</relation>
+        <relation ana="Njami_Simon" source="viaf">Njami Simon</relation>
+        <relation ana="Martin_Saint_Leon_Pascal" source="viaf">Martin Saint-Léon Pascal</relation>
+        <relation ana="Bloncourt_Gerald" source="viaf">Bloncourt Gérald</relation>
+        <relation ana="Telemaque_Herve" source="viaf">Télémaque Hervé</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Pineau_Gisele" source="viaf">Pineau Gisèle</relation>
+        <relation ana="Jose_Berzosa" source="ile_en_ile_auto">José Berzosa</relation>
+        <relation ana="Claude_Charles" source="ile_en_ile_auto">Claude Charles</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Claude_Charles_bio">
-    <text ref="http://ile-en-ile.org/charles_jean-claude/" xml:id="Jean_Claude_Charles_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/charles_jean-claude/">
       <p>
         Jean-
         <persName ana="Claude_Charles">Claude Charles</persName>
@@ -222,7 +204,7 @@ Un temps superbe. Le
         , Libération, Le Matin, Géo et cetera.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-claude-charles.14074.html" xml:id="Jean_Claude_Charles_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jean-claude-charles.14074.html">
       <p>
         Jean-
         <persName ana="Claude_Charles">Claude Charles</persName>

@@ -12,18 +12,27 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Alix_Renaud_fiche">
     <person ana="Alix_Renaud" sex="na">
       <persName>Alix Renaud</persName>
+      <listRelation>
+        <relation ana="Alain_Beaulieu" source="ile_en_ile_auto">Alain Beaulieu</relation>
+        <relation ana="Stanley_Pean" source="ile_en_ile_auto">Stanley Péan</relation>
+        <relation ana="Jean_Desy" source="ile_en_ile_auto">Jean Désy</relation>
+        <relation ana="Jeannot_Turcotte" source="ile_en_ile_auto">Jeannot Turcotte</relation>
+        <relation ana="Michel_Borgeat" source="ile_en_ile_auto">Michel Borgeat</relation>
+        <relation ana="Ralph_Cote" source="ile_en_ile_auto">Ralph Côté</relation>
+        <relation ana="Michelle_Lavallee" source="ile_en_ile_auto">Michelle Lavallée</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Alix_Renaud_bio">
-    <text ref="http://ile-en-ile.org/renaud/" xml:id="Alix_Renaud_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/renaud/">
       <p>
         <persName ana="Alix_Renaud">Alix Renaud</persName>
          naît à Port-au-

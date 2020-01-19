@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Pierre_Clitandre_fiche">
@@ -34,7 +34,7 @@
     </person>
   </div>
   <div n="2" xml:id="Pierre_Clitandre_bio">
-    <text ref="http://ile-en-ile.org/clitandre/" xml:id="Pierre_Clitandre_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/clitandre/">
       <p>
         Journaliste, peintre et romancier, 
         <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>
@@ -149,7 +149,7 @@
         , anciennement connu pour les nombreuses résidences d’écrivains et de peintres.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.pierre-clitandre.14078.html" xml:id="Pierre_Clitandre_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.pierre-clitandre.14078.html">
       <p>
         Journaliste, peintre et romancier, 
         <persName ana="Pierre_Clitandre">Pierre Clitandre</persName>

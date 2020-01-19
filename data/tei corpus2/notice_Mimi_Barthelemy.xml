@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Mimi_Barthelemy_fiche">
@@ -28,7 +28,7 @@
         17257872
         <g ref="http://viaf.org/viaf/17257872"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Mimi_Barthélémy
         <g ref="http://fr.dbpedia.org/resource/Mimi_Barthélémy"/>
       </idno>
@@ -62,54 +62,39 @@
       <occupation source="spla"> Dramaturge</occupation>
       <occupation source="spla"> Conteur/se</occupation>
       <occupation source="spla"> Chercheur/se</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Barthelemy_Clementine">
-          <persName>Barthélemy Clémentine</persName>
-        </person>
-        <person ana="BartheLemy_Mimi">
-          <persName>Barthélemy Mimi</persName>
-        </person>
-        <person ana="Vif_Argent">
-          <persName>Vif argent</persName>
-        </person>
-        <person ana="Barthelemy_Gerard">
-          <persName>Barthélemy Gérard</persName>
-        </person>
-        <person ana="Henrys_Reynold">
-          <persName>Henrys Reynold</persName>
-        </person>
-        <person ana="Tamas_Serge">
-          <persName>Tamas Serge</persName>
-        </person>
-        <person ana="Besson_Olivier">
-          <persName>Besson Olivier</persName>
-        </person>
-        <person ana="BartheLeMy_ELodie">
-          <persName>Barthélémy Élodie</persName>
-        </person>
-        <person ana="Musidisc">
-          <persName>Musidisc</persName>
-        </person>
-        <person ana="Enfance_Et_Musique_Pantin_Seine_Saint_Denis">
-          <persName>Enfance et musique Pantin Seine-Saint-Denis</persName>
-        </person>
-        <person ana="Lacombe_Benjamin">
-          <persName>Lacombe Benjamin</persName>
-        </person>
-        <person ana="Laroche_Maximilien">
-          <persName>Laroche Maximilien</persName>
-        </person>
-        <person ana="Trouillot_Lyonel">
-          <persName>Trouillot Lyonel</persName>
-        </person>
-        <person ana="Rozevel_Jean_Baptiste">
-          <persName>Rozevel Jean-Baptiste</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Barthelemy_Clementine" source="viaf">Barthélemy Clémentine</relation>
+        <relation ana="BartheLemy_Mimi" source="viaf">Barthélemy Mimi</relation>
+        <relation ana="Vif_Argent" source="viaf">Vif argent</relation>
+        <relation ana="Barthelemy_Gerard" source="viaf">Barthélemy Gérard</relation>
+        <relation ana="Henrys_Reynold" source="viaf">Henrys Reynold</relation>
+        <relation ana="Tamas_Serge" source="viaf">Tamas Serge</relation>
+        <relation ana="Besson_Olivier" source="viaf">Besson Olivier</relation>
+        <relation ana="BartheLeMy_ELodie" source="viaf">Barthélémy Élodie</relation>
+        <relation ana="Musidisc" source="viaf">Musidisc</relation>
+        <relation ana="Enfance_Et_Musique_Pantin_Seine_Saint_Denis" source="viaf">Enfance et musique Pantin Seine-Saint-Denis</relation>
+        <relation ana="Lacombe_Benjamin" source="viaf">Lacombe Benjamin</relation>
+        <relation ana="Laroche_Maximilien" source="viaf">Laroche Maximilien</relation>
+        <relation ana="Trouillot_Lyonel" source="viaf">Trouillot Lyonel</relation>
+        <relation ana="Rozevel_Jean_Baptiste" source="viaf">Rozevel Jean-Baptiste</relation>
+        <relation ana="Christiane_Makward" source="ile_en_ile_auto">Christiane Makward</relation>
+        <relation ana="Kathleen_Gyssels" source="ile_en_ile_auto">Kathleen Gyssels</relation>
+        <relation ana="Michele_Armand" source="ile_en_ile_auto">Michèle Armand</relation>
+        <relation ana="Rafael_Murillo" source="ile_en_ile_auto">Rafaël Murillo</relation>
+        <relation ana="Eduardo_Manet" source="ile_en_ile_auto">Eduardo Manet</relation>
+        <relation ana="Mike_Griggs" source="ile_en_ile_auto">Mike Griggs</relation>
+        <relation ana="Claude_Alranq" source="ile_en_ile_auto">Claude Alranq</relation>
+        <relation ana="Emmanuel_Plassard" source="ile_en_ile_auto">Emmanuel Plassard</relation>
+        <relation ana="Mistero_Buffo" source="ile_en_ile_auto">Mistero Buffo</relation>
+        <relation ana="Dario_Fo" source="ile_en_ile_auto">Dario Fo</relation>
+        <relation ana="Dominique_Lurcell" source="ile_en_ile_auto">Dominique Lurcell</relation>
+        <relation ana="Nicolas_Buenaventura" source="ile_en_ile_auto">Nicolas Buenaventura</relation>
+        <relation ana="Becker_D_Or" source="ile_en_ile_auto">Becker d'Or</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Mimi_Barthelemy_bio">
-    <text ref="http://ile-en-ile.org/barthelemy/" xml:id="Mimi_Barthelemy_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/barthelemy/">
       <p>
         <persName ana="Mimi_Barthelemy">Mimi Barthélémy</persName>
          est née à Port-au-
@@ -169,7 +154,7 @@ Nous vous invitons également à revoir la présentation de l’auteure par
         , 5 Questions pour Île en île (2010) et la vidéo du conte « La chenille, la chrysalide et le papillon ».
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.mimi-barthelemy.3880.html" xml:id="Mimi_Barthelemy_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.mimi-barthelemy.3880.html">
       <p>
         <persName ana="Michele_Armand">Michèle Armand</persName>
          dont le pseudonyme est 

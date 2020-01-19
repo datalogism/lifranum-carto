@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Maurice_Casseus_fiche">
@@ -32,10 +32,15 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Francois_Hoffmann" source="ile_en_ile_auto">François Hoffmann</relation>
+        <relation ana="Maurice Casseus_A" source="ile_en_ile_auto">Maurice A. Casséus</relation>
+        <relation ana="Louis_De_Gonzague" source="ile_en_ile_auto">Louis de Gonzague</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Maurice_Casseus_bio">
-    <text hand="Valérie Kaussen" ref="http://ile-en-ile.org/casseus/" xml:id="Maurice_Casseus_bio_auteur_ile_en_ile">
+    <text hand="Valérie Kaussen" ref="http://ile-en-ile.org/casseus/">
       <p>
         <persName ana="Maurice Casseus_A">Maurice A. Casséus</persName>
          est né en 1909 à Port-au-
@@ -198,7 +203,7 @@
         : EDICEF, 1992.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.maurice-casseus.14070.html" xml:id="Maurice_Casseus_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.maurice-casseus.14070.html">
       <p>
         <persName ana="Maurice Casseus_A">Maurice A. Casséus</persName>
          est né en 1909 à Port-au-

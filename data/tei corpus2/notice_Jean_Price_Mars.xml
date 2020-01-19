@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Price_Mars_fiche">
@@ -30,48 +30,25 @@
       <occupation source="viaf">ethnologists</occupation>
       <occupation source="viaf">diplomats</occupation>
       <occupation source="viaf">authors</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Fouchard_Jean">
-          <persName>Fouchard Jean</persName>
-        </person>
-        <person ana="Cornevin_Robert">
-          <persName>Cornevin Robert</persName>
-        </person>
-        <person ana="Victor_Rene">
-          <persName>Victor René</persName>
-        </person>
-        <person ana="Remponeau_Georges">
-          <persName>Remponeau Georges</persName>
-        </person>
-        <person ana="Laferriere_Dany">
-          <persName>Laferrière Dany</persName>
-        </person>
-        <person ana="Pinera_Virgilio">
-          <persName>Piñera Virgilio</persName>
-        </person>
-        <person ana="Soukar_Michel">
-          <persName>Soukar Michel</persName>
-        </person>
-        <person ana="Lafond_Jean_Daniel">
-          <persName>Lafond Jean Daniel</persName>
-        </person>
-        <person ana="Depestre_Rene">
-          <persName>Depestre René</persName>
-        </person>
-        <person ana="Lespinasse_Pierre_Eugene_De">
-          <persName>Lespinasse Pierre Eugène de</persName>
-        </person>
-        <person ana="Saint_Eloi_Rodney">
-          <persName>Saint-Eloi Rodney</persName>
-        </person>
-        <person ana="Presence_Africaine_Editions">
-          <persName>Présence africaine éditions</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Fouchard_Jean" source="viaf">Fouchard Jean</relation>
+        <relation ana="Cornevin_Robert" source="viaf">Cornevin Robert</relation>
+        <relation ana="Victor_Rene" source="viaf">Victor René</relation>
+        <relation ana="Remponeau_Georges" source="viaf">Remponeau Georges</relation>
+        <relation ana="Laferriere_Dany" source="viaf">Laferrière Dany</relation>
+        <relation ana="Pinera_Virgilio" source="viaf">Piñera Virgilio</relation>
+        <relation ana="Soukar_Michel" source="viaf">Soukar Michel</relation>
+        <relation ana="Lafond_Jean_Daniel" source="viaf">Lafond Jean Daniel</relation>
+        <relation ana="Depestre_Rene" source="viaf">Depestre René</relation>
+        <relation ana="Lespinasse_Pierre_Eugene_De" source="viaf">Lespinasse Pierre Eugène de</relation>
+        <relation ana="Saint_Eloi_Rodney" source="viaf">Saint-Eloi Rodney</relation>
+        <relation ana="Presence_Africaine_Editions" source="viaf">Présence africaine éditions</relation>
+        <relation ana="Jean_Price" source="ile_en_ile_auto">Jean Price</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Price_Mars_bio">
-    <text hand="Gérarde Magloire" ref="http://ile-en-ile.org/price-mars/" xml:id="Jean_Price_Mars_bio_auteur_ile_en_ile">
+    <text hand="Gérarde Magloire" ref="http://ile-en-ile.org/price-mars/">
       <p>« …nous n’avons de chance d’être nous-mêmes que si nous ne répudions aucune part de l’héritage ancestral. »</p>
       <p>
         <persName ana="Jean_Price">
@@ -242,7 +219,7 @@
           <placeName ana="Price">Price</placeName>
         </persName>
          (De la réhabilitation de la race noire par 
-        <placeName ana="La_Republique_D’Haiti">La République d’Haïti</placeName>
+        <placeName ana="La_Republique_D_Haiti">La République d’Haïti</placeName>
         ). D’après 
         <persName ana="Jacques_Antoine">Jacques Antoine</persName>
         , 

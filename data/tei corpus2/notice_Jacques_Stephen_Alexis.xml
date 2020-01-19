@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jacques-Stephen Alexis</title>
+        <title>Notice de Jacques Stephen Alexis</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacques_Stephen_Alexis_fiche">
     <person ana="Jacques_Stephen_Alexis" sex="na">
-      <persName>Jacques-Stephen Alexis</persName>
+      <persName>Jacques Stephen Alexis</persName>
       <birth source="viaf">
         <date>1922-04-22</date>
       </birth>
@@ -37,51 +37,33 @@
       <occupation source="viaf">novelists</occupation>
       <occupation source="viaf">ecrivains</occupation>
       <occupation source="spla">Ecrivain/ne</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Roumain_Jacques">
-          <persName>Roumain Jacques</persName>
-        </person>
-        <person ana="Tetu_Michel">
-          <persName>Tetu Michel</persName>
-        </person>
-        <person ana="Laroche_Maximilien">
-          <persName>Laroche Maximilien</persName>
-        </person>
-        <person ana="Coates Carrol_F">
-          <persName>Coates Carrol F</persName>
-        </person>
-        <person ana="Schlicht_Paul">
-          <persName>Schlicht Paul</persName>
-        </person>
-        <person ana="Gallimard">
-          <persName>Gallimard</persName>
-        </person>
-        <person ana="Alexis_Florence">
-          <persName>Alexis Florence</persName>
-        </person>
-        <person ana="Skanderova_Lea">
-          <persName>Škanderová Lea</persName>
-        </person>
-        <person ana="ZieBina_Maria">
-          <persName>Ziębina Maria</persName>
-        </person>
-        <person ana="Outratova_Eva">
-          <persName>Outratová Eva</persName>
-        </person>
-        <person ana="Немчинова_Наталья_Ивановна">
-          <persName>Немчинова Наталья Ивановна</persName>
-        </person>
-        <person ana="Rajandi_Henno">
-          <persName>Rajandi Henno</persName>
-        </person>
-        <person ana="Maximilien_Laroche">
-          <persName>Maximilien Laroche</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Roumain_Jacques" source="viaf">Roumain Jacques</relation>
+        <relation ana="Tetu_Michel" source="viaf">Tetu Michel</relation>
+        <relation ana="Laroche_Maximilien" source="viaf">Laroche Maximilien</relation>
+        <relation ana="Coates Carrol_F" source="viaf">Coates Carrol F</relation>
+        <relation ana="Schlicht_Paul" source="viaf">Schlicht Paul</relation>
+        <relation ana="Gallimard" source="viaf">Gallimard</relation>
+        <relation ana="Alexis_Florence" source="viaf">Alexis Florence</relation>
+        <relation ana="Skanderova_Lea" source="viaf">Škanderová Lea</relation>
+        <relation ana="ZieBina_Maria" source="viaf">Ziębina Maria</relation>
+        <relation ana="Outratova_Eva" source="viaf">Outratová Eva</relation>
+        <relation ana="Немчинова_Наталья_Ивановна" source="viaf">Немчинова Наталья Ивановна</relation>
+        <relation ana="Rajandi_Henno" source="viaf">Rajandi Henno</relation>
+        <relation ana="Maximilien_Laroche" source="viaf">Maximilien Laroche</relation>
+        <relation ana="Elisabeth Mudimbe_M" source="ile_en_ile_auto">M. Elisabeth Mudimbe</relation>
+        <relation ana="Stephen_Alexis" source="ile_en_ile_auto">Stephen Alexis</relation>
+        <relation ana="Jacques_Dessalines" source="ile_en_ile_auto">Jacques Dessalines</relation>
+        <relation ana="Du_Gouvernement" source="ile_en_ile_auto">Du Gouvernement</relation>
+        <relation ana="President_Lescot" source="ile_en_ile_auto">Président Lescot</relation>
+        <relation ana="Rene_Depestre" source="ile_en_ile_auto">René Depestre</relation>
+        <relation ana="Compere_General_Soleil" source="ile_en_ile_auto">Compère Général Soleil</relation>
+        <relation ana="Francois_Duvalier" source="ile_en_ile_auto">François Duvalier</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jacques_Stephen_Alexis_bio">
-    <text hand="Yves Chemla" ref="http://ile-en-ile.org/alexis_jacques-stephen/" xml:id="Jacques_Stephen_Alexis_bio_auteur_ile_en_ile">
+    <text hand="Yves Chemla" ref="http://ile-en-ile.org/alexis_jacques-stephen/">
       <p>
         Jacques-
         <persName ana="Stephen_Alexis">Stephen Alexis</persName>
@@ -155,7 +137,7 @@
         : Humanitas, 1992, pp. 127-133. Utilisée avec permission.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jacques-stephen-alexis.5849.html" xml:id="Jacques_Stephen_Alexis_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jacques-stephen-alexis.5849.html">
       <p>
         <persName ana="Jacques_Stephen_Alexis">Jacques Stephen Alexis</persName>
          est né en 1922 aux 

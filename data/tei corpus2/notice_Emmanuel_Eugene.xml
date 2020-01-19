@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Emmanuel_Eugene_fiche">
@@ -29,10 +29,15 @@
         </placeName>
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
+      <listRelation>
+        <relation ana="Sosyete_Koukouy" source="ile_en_ile_auto">Sosyete Koukouy</relation>
+        <relation ana="Jacques_Stephen_Alexis" source="ile_en_ile_auto">Jacques Stephen Alexis</relation>
+        <relation ana="Rodney_Saint" source="ile_en_ile_auto">Rodney Saint</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Emmanuel_Eugene_bio">
-    <text ref="http://www.spla.pro/fiche.personne.emmanuel-eugene.9072.html" xml:id="Emmanuel_Eugene_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.emmanuel-eugene.9072.html">
       <p>
         Né à 
         <placeName ana="Cuba">Cuba</placeName>

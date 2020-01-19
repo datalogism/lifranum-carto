@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Johnie_Hilaire_fiche">
@@ -33,7 +33,7 @@
     </person>
   </div>
   <div n="2" xml:id="Johnie_Hilaire_bio">
-    <text ref="http://www.spla.pro/fiche.personne.johnie-hilaire.46291.html" xml:id="Johnie_Hilaire_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.johnie-hilaire.46291.html">
       <p>Johnie Hilaire étudie la Philosophie à l'Institut de Philosophie et des Sciences Humaines (IFCH).Il est co-auteur, avec Wesner Saint Juste, du recueil de poésie &quot;Jepyepyeje&quot; (Fulano Fulano), paru en 2015.</p>
     </text>
   </div>

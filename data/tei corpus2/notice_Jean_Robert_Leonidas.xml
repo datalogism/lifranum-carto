@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jean_Robert_Leonidas_fiche">
@@ -39,27 +39,24 @@
       <occupation source="spla"> Pianiste/claviériste</occupation>
       <occupation source="spla"> Saxophoniste</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Michaud_Frantz">
-          <persName>Michaud Frantz</persName>
-        </person>
-        <person ana="Cidihca">
-          <persName>CIDIHCA</persName>
-        </person>
-        <person ana="Tirole_HeLeNe">
-          <persName>Tirole Hélène</persName>
-        </person>
-        <person ana="Jacopin_Jean_Louis">
-          <persName>Jacopin Jean-Louis</persName>
-        </person>
-        <person ana="Centre_International_De_Documentation_Et_D_Information_Haitienne_Caraibeenne_Et_Afro_Canadienne">
-          <persName>Centre International de Documentation et d'information Haïtienne Caraïbéenne et Afro-canadienne</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Michaud_Frantz" source="viaf">Michaud Frantz</relation>
+        <relation ana="Cidihca" source="viaf">CIDIHCA</relation>
+        <relation ana="Tirole_HeLeNe" source="viaf">Tirole Hélène</relation>
+        <relation ana="Jacopin_Jean_Louis" source="viaf">Jacopin Jean-Louis</relation>
+        <relation ana="Centre_International_De_Documentation_Et_D_Information_Haitienne_Caraibeenne_Et_Afro_Canadienne" source="viaf">Centre International de Documentation et d'information Haïtienne Caraïbéenne et Afro-canadienne</relation>
+        <relation ana="Jean Prophete_L" source="ile_en_ile_auto">Jean L. Prophète</relation>
+        <relation ana="Robert_Leonidas" source="ile_en_ile_auto">Robert Léonidas</relation>
+        <relation ana="Robert_Leonidas" source="ile_en_ile_auto">Robert Léonidas</relation>
+        <relation ana="Robert_Leonidas" source="ile_en_ile_auto">Robert Léonidas</relation>
+        <relation ana="Jean Prophete_L" source="ile_en_ile_auto">Jean L. Prophète</relation>
+        <relation ana="Hugues_St" source="ile_en_ile_auto">Hugues St</relation>
+        <relation ana="Robert_Leonidas" source="ile_en_ile_auto">Robert Léonidas</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jean_Robert_Leonidas_bio">
-    <text ref="http://ile-en-ile.org/leonidas/" xml:id="Jean_Robert_Leonidas_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/leonidas/">
       <p>
         Jean-
         <persName ana="Robert_Leonidas">Robert Léonidas</persName>
@@ -129,7 +126,7 @@
         <persName ana="Jean Prophete_L">Jean L. Prophète</persName>
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jean-robert-leonidas.14137.html" xml:id="Jean_Robert_Leonidas_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jean-robert-leonidas.14137.html">
       <p>
          voir la fiche complète de cet auteur sur le site &quot;L'île en île&quot; Jean-
         <persName ana="Robert_Leonidas">Robert Léonidas</persName>

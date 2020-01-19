@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Evelyne_Trouillot_fiche">
@@ -28,7 +28,7 @@
         59220009
         <g ref="http://viaf.org/viaf/59220009"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Évelyne_Trouillot
         <g ref="http://fr.dbpedia.org/resource/Évelyne_Trouillot"/>
       </idno>
@@ -44,42 +44,22 @@
         </placeName>
       </residence>
       <occupation source="viaf">women authors black</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="MatheUs_Mariann">
-          <persName>Mathéus Mariann</persName>
-        </person>
-        <person ana="Ulysse_Gina_Athena">
-          <persName>Ulysse Gina Athena</persName>
-        </person>
-        <person ana="MondeSir_Sophie">
-          <persName>Mondésir Sophie</persName>
-        </person>
-        <person ana="Henzell_Perry">
-          <persName>Henzell Perry</persName>
-        </person>
-        <person ana="Menard_Nadeve">
-          <persName>Ménard Nadève</persName>
-        </person>
-        <person ana="Mars_Kettly">
-          <persName>Mars Kettly</persName>
-        </person>
-        <person ana="TeLeMaque_Herve">
-          <persName>Télémaque Hervé</persName>
-        </person>
-        <person ana="Herbeck_Jason">
-          <persName>Herbeck Jason</persName>
-        </person>
-        <person ana="Dapper_Editions">
-          <persName>Dapper Editions</persName>
-        </person>
-        <person ana="Vincent_Nedjmhartine">
-          <persName>Vincent Nedjmhartine</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="MatheUs_Mariann" source="viaf">Mathéus Mariann</relation>
+        <relation ana="Ulysse_Gina_Athena" source="viaf">Ulysse Gina Athena</relation>
+        <relation ana="MondeSir_Sophie" source="viaf">Mondésir Sophie</relation>
+        <relation ana="Henzell_Perry" source="viaf">Henzell Perry</relation>
+        <relation ana="Menard_Nadeve" source="viaf">Ménard Nadève</relation>
+        <relation ana="Mars_Kettly" source="viaf">Mars Kettly</relation>
+        <relation ana="TeLeMaque_Herve" source="viaf">Télémaque Hervé</relation>
+        <relation ana="Herbeck_Jason" source="viaf">Herbeck Jason</relation>
+        <relation ana="Dapper_Editions" source="viaf">Dapper Editions</relation>
+        <relation ana="Vincent_Nedjmhartine" source="viaf">Vincent Nedjmhartine</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Evelyne_Trouillot_bio">
-    <text ref="http://ile-en-ile.org/trouillot_evelyne/" xml:id="Evelyne_Trouillot_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/trouillot_evelyne/">
       <p>
         <persName ana="Evelyne_Trouillot">Évelyne Trouillot</persName>
          est née le 2 janvier 1954 à Port-au-
@@ -106,9 +86,9 @@
       </p>
       <p>
         Son premier roman, 
-        <persName ana="Rosalie_L’Infame">Rosalie l’infâme</persName>
+        <persName ana="Rosalie_L_Infame">Rosalie l’infâme</persName>
          (Dapper, 2003) se situe à Saint-Domingue dans les années 1750 et présente les esclaves comme des individus avec leurs passions, leurs faiblesses, leur détermination et leur détresse. 
-        <persName ana="Rosalie_L’Infame">Rosalie l’infâme</persName>
+        <persName ana="Rosalie_L_Infame">Rosalie l’infâme</persName>
          est l’histoire de la résistance au quotidien, racontée du point de vue des femmes, hommes et enfants qui ont lutté contre l’esclavage de manière individuelle et collective, reflétant dans leurs combats le courage et la dignité de l’être humain faisant face à une situation inhumaine.
       </p>
       <p>
@@ -143,7 +123,7 @@
         . Le Bleu de l’ile est joué à Port-au-
         <placeName ana="Prince">Prince</placeName>
          en septembre 2009 par la troupe Dram’Art dans le cadre du festival théâtral Quatre chemins. Le 
-        <placeName ana="Bleu_De_L’Ile">Bleu de l’île</placeName>
+        <placeName ana="Bleu_De_L_Ile">Bleu de l’île</placeName>
          se base sur une tragédie survenue en juin 2000 lorsque des gardes dominicains tirent sur une camionnette transportant des 
         <placeName ana="Haitiens">Haïtiens</placeName>
          voulant traverser la frontière haitiano-dominicaine ; plus d’une dizaine d’

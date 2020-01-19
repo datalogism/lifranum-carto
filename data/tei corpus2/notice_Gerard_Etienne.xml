@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Gerard_Etienne_fiche">
@@ -28,7 +28,7 @@
         170176897
         <g ref="http://viaf.org/viaf/170176897"/>
       </idno>
-      <idno type="VIAF">
+      <idno type="DBPEDIA">
         Gérard_Étienne
         <g ref="http://fr.dbpedia.org/resource/Gérard_Étienne"/>
       </idno>
@@ -54,10 +54,16 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Gerard_Vergniaud_Etienne" source="ile_en_ile_auto">Gérard Vergniaud Étienne</relation>
+        <relation ana="Paul Magloire_E" source="ile_en_ile_auto">Paul E. Magloire</relation>
+        <relation ana="Luc Innocent_B" source="ile_en_ile_auto">Luc B. Innocent</relation>
+        <relation ana="Windsor Laferriere_K" source="ile_en_ile_auto">Windsor K. Laferrière</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Gerard_Etienne_bio">
-    <text hand="Natania Feuerwerker" ref="http://ile-en-ile.org/etienne/" xml:id="Gerard_Etienne_bio_auteur_ile_en_ile">
+    <text hand="Natania Feuerwerker" ref="http://ile-en-ile.org/etienne/">
       <p>
         Né au Cap-Haïtien le 28 mai 1936, 
         <persName ana="Gerard_Vergniaud_Etienne">Gérard Vergniaud Étienne</persName>
@@ -145,7 +151,7 @@
         . Pour célébrer sa vie et son oeuvre, voir les liens vers des textes-hommage en bas de cette page.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.gerard-etienne.14094.html" xml:id="Gerard_Etienne_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.gerard-etienne.14094.html">
       <p>
         Né au Cap-Haïtien le 28 mai 1936, 
         <persName ana="Gerard_Vergniaud_Etienne">Gérard Vergniaud Étienne</persName>

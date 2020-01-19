@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Fred_Edson_Lafortune_fiche">
@@ -30,10 +30,13 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Henri_Miller" source="ile_en_ile_auto">Henri Miller</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Fred_Edson_Lafortune_bio">
-    <text hand="Jean Watson Charles et James Pubien" ref="http://ile-en-ile.org/lafortune/" xml:id="Fred_Edson_Lafortune_bio_auteur_ile_en_ile">
+    <text hand="Jean Watson Charles et James Pubien" ref="http://ile-en-ile.org/lafortune/">
       <p>
         <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
          nait le 31 juillet 1982 à Anse-à-Veau (
@@ -51,7 +54,7 @@
         . En octobre 2007, il est invité à 
         <placeName ana="Paris">Paris</placeName>
          par la Société des Poètes Français (SPF) pour présenter ses travaux littéraires et pour suivre un séminaire sur la littérature médiévale et sur « Écrits et culture dans 
-        <placeName ana="L’Europe">l’Europe</placeName>
+        <placeName ana="L_Europe">l’Europe</placeName>
          moderne » au Collège de 
         <placeName ana="France">France</placeName>
         . Ce voyage est l’occasion pour le poète de rencontrer des personnalités du monde culturel et littéraire français et des écrivains 
@@ -155,7 +158,7 @@ Tel ce coucher de
          pour structurer la de-construction et éviter du coup la luxure.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.fred-edson-lafortune.32114.html" xml:id="Fred_Edson_Lafortune_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.fred-edson-lafortune.32114.html">
       <p>
         <persName ana="Fred_Edson_Lafortune">Fred Edson Lafortune</persName>
          nait le 31 juillet 1982 à Anse-à-Veau (

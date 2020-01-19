@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Yanick_Jean_fiche">
@@ -38,10 +38,16 @@
       <occupation source="spla">Peintre</occupation>
       <occupation source="spla"> Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Helene_Cixous" source="ile_en_ile_auto">Hélène Cixous</relation>
+        <relation ana="Nicole_Brossard" source="ile_en_ile_auto">Nicole Brossard</relation>
+        <relation ana="Monique_Wittig" source="ile_en_ile_auto">Monique Wittig</relation>
+        <relation ana="Joelle_Vitiello" source="ile_en_ile_auto">Joëlle Vitiello</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Yanick_Jean_bio">
-    <text ref="http://ile-en-ile.org/jean/" xml:id="Yanick_Jean_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/jean/">
       <p>
         <persName ana="Yanick_Jean">Yanick Jean</persName>
          est née le 10 mai 1946 à Port-au-
@@ -105,7 +111,7 @@
          rééditent La fidélité non plus…, ce qui contribuera à la faire connaître à sa juste mesure du grand public.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.yanick-jean.14123.html" xml:id="Yanick_Jean_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.yanick-jean.14123.html">
       <p>
         <persName ana="Yanick_Jean">Yanick Jean</persName>
          est née le 10 mai 1946 à Port-au-

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice de Jacqueline Beaugé-Rosier</title>
+        <title>Notice de Jacqueline Beaugé Rosier</title>
         <author>Inès Burri</author>
         <author>Anaïs Chambat</author>
         <author>Célian Ringwald</author>
@@ -12,14 +12,14 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Jacqueline_Beauge_Rosier_fiche">
     <person ana="Jacqueline_Beauge_Rosier" sex="na">
-      <persName>Jacqueline Beaugé-Rosier</persName>
+      <persName>Jacqueline Beaugé Rosier</persName>
       <birth source="viaf">
         <date>1932-02-07</date>
       </birth>
@@ -36,27 +36,19 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
-      <listPerson source="viaf" type="co_authors">
-        <person ana="Reguigui_Ali">
-          <persName>Reguigui Ali</persName>
-        </person>
-        <person ana="Bouraoui_Hedi">
-          <persName>Bouraoui Hédi</persName>
-        </person>
-        <person ana="Cadet_Raymond">
-          <persName>Cadet Raymond</persName>
-        </person>
-        <person ana="Universite_D_Ottawa">
-          <persName>Université d'Ottawa</persName>
-        </person>
-        <person ana="Mentor_Cassandre">
-          <persName>Mentor Cassandre</persName>
-        </person>
-      </listPerson>
+      <listRelation>
+        <relation ana="Reguigui_Ali" source="viaf">Reguigui Ali</relation>
+        <relation ana="Bouraoui_Hedi" source="viaf">Bouraoui Hédi</relation>
+        <relation ana="Cadet_Raymond" source="viaf">Cadet Raymond</relation>
+        <relation ana="Universite_D_Ottawa" source="viaf">Université d'Ottawa</relation>
+        <relation ana="Mentor_Cassandre" source="viaf">Mentor Cassandre</relation>
+        <relation ana="Jacqueline_Beauge" source="ile_en_ile_auto">Jacqueline Beaugé</relation>
+        <relation ana="Jacqueline_Beauge" source="ile_en_ile_auto">Jacqueline Beaugé</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Jacqueline_Beauge_Rosier_bio">
-    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/beauge-rosier/" xml:id="Jacqueline_Beauge_Rosier_bio_auteur_ile_en_ile">
+    <text hand="Josaphat-Robert Large" ref="http://ile-en-ile.org/beauge-rosier/">
       <p>
         <persName ana="Jacqueline_Beauge">Jacqueline Beaugé</persName>
         -Rosier naît le 7 février 1932 à 
@@ -148,7 +140,7 @@
         -Rosier continue d’écrire et consacre une bonne partie de son temps à ses enfants et à ses petits-enfants qui sont au nombre de neuf et qui vivent à proximité d’elle, non loin de la 
         <placeName ana="Riviere_Des_Outaouais">Rivière des Outaouais</placeName>
          qui joue, dans sa nouvelle vie, le même rôle que la 
-        <placeName ana="Grand’Anse">Grand’Anse</placeName>
+        <placeName ana="Grand_Anse">Grand’Anse</placeName>
          de l’enfance.
       </p>
       <p>
@@ -163,7 +155,7 @@
          le 28 juillet 2016.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.jacqueline-beauge-rosier.14056.html" xml:id="Jacqueline_Beauge_Rosier_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.jacqueline-beauge-rosier.14056.html">
       <p>
         <persName ana="Jacqueline_Beauge">Jacqueline Beaugé</persName>
         -Rosier naît le 7 février 1932 à 

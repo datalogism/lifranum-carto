@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Cauvin_Paul_fiche">
@@ -23,7 +23,7 @@
     </person>
   </div>
   <div n="2" xml:id="Cauvin_Paul_bio">
-    <text ref="http://ile-en-ile.org/paul/" xml:id="Cauvin_Paul_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/paul/">
       <p>
         <persName ana="Cauvin Paul_L">Cauvin L. Paul</persName>
          naît le 3 
@@ -42,7 +42,7 @@
          en 1965 pour suivre un cours de Psycho-pédagogie à l’Institut Pédagogique. En 
         <placeName ana="France">France</placeName>
         , il est également professeur stagiaire au College d’Enseignement Général de Nice (
-        <placeName ana="Cote_D’Azur">Côte d’Azur</placeName>
+        <placeName ana="Cote_D_Azur">Côte d’Azur</placeName>
         ). De retour en 
         <placeName ana="Haiti">Haïti</placeName>
         , il étudie le droit à la Faculté de Droit et des Sciences Économiques à Port-au-

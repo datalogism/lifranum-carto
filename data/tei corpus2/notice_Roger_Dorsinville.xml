@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Roger_Dorsinville_fiche">
@@ -35,7 +35,7 @@
     </person>
   </div>
   <div n="2" xml:id="Roger_Dorsinville_bio">
-    <text ref="http://ile-en-ile.org/dorsinville_roger/" xml:id="Roger_Dorsinville_bio_auteur_ile_en_ile">
+    <text ref="http://ile-en-ile.org/dorsinville_roger/">
       <p>
         Homme politique et écrivain, né à Port-au-
         <placeName ana="Prince">Prince</placeName>
@@ -179,7 +179,7 @@
         L’
         <placeName ana="Afrique">Afrique</placeName>
          est au centre de l’éthique et de l’esthétique de ces textes; la résonance qui se dégage d’une thématique de la remise en question de valeurs sociales et individuelles n’est pas sans évoquer 
-        <placeName ana="L’Haiti">L’Haïti</placeName>
+        <placeName ana="L_Haiti">L’Haïti</placeName>
          natale de 
         <persName ana="Roger_Dorsinville">
           Roger 
@@ -431,7 +431,7 @@
          en trois temps », texte à paraître et reproduit sur Île en île avec permission.
       </p>
     </text>
-    <text ref="http://www.spla.pro/fiche.personne.roger-dorsinville.12269.html" xml:id="Roger_Dorsinville_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.roger-dorsinville.12269.html">
       <p>
         Homme politique et écrivain, né à Port-au-
         <placeName ana="Prince">Prince</placeName>

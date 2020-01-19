@@ -12,9 +12,9 @@
         <orgName>Université Jean Moulin Lyon 3</orgName>
         <orgName>ENS Lyon</orgName>
         <orgName>Université Lyon 2</orgName>
-        <date>2020-01-18</date>
+        <date>2020-01-19</date>
       </publicationStmt>
-      <sourceDesc>Notice et contenu issus de sources d'autorités et de répétoire web</sourceDesc>
+      <sourceDesc>Notice et contenus associés à l'entité auteur dont les données sont issues de sites de références et de répertoires d'autorités</sourceDesc>
     </fileDesc>
   </teiHeader>
   <div n="1" xml:id="Fabian_Charles_fiche">
@@ -30,10 +30,17 @@
       </residence>
       <occupation source="spla">Ecrivain/ne</occupation>
       <occupation source="spla"> Poète</occupation>
+      <listRelation>
+        <relation ana="Rene_Char" source="ile_en_ile_auto">René Char</relation>
+        <relation ana="Anderson_Dovilas" source="ile_en_ile_auto">Anderson Dovilas</relation>
+        <relation ana="Francois_Duvalier" source="ile_en_ile_auto">François Duvalier</relation>
+        <relation ana="Yanick_Lahens" source="ile_en_ile_auto">Yanick Lahens</relation>
+        <relation ana="Euphele_Milce" source="ile_en_ile_auto">Euphèle Milcé</relation>
+      </listRelation>
     </person>
   </div>
   <div n="2" xml:id="Fabian_Charles_bio">
-    <text ref="http://www.spla.pro/fiche.personne.fabian-charles.31432.html" xml:id="Fabian_Charles_bio_auteur_spla">
+    <text ref="http://www.spla.pro/fiche.personne.fabian-charles.31432.html">
       <p>
         Né à Port-au-
         <placeName ana="Prince">Prince</placeName>
