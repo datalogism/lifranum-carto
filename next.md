@@ -1,4 +1,4 @@
-I. contexte
+# Contexte
 
 le 5fev. 14h
 "Faire émerger le réseau littéraire francophone haïtien à l’ère du numérique"
@@ -7,17 +7,24 @@ le 5fev. 14h
 
 - le ton de la présentation : médiation auprès public non expert
 
-II. A faire
+# Support de présentation
 
-petite vignette pres ines
+- petite vignette pres ines
 
-relire livrable
+- relire livrable
 
-diapo 5/6 : synthetiser lifranum
+- diapo 5/6 : synthetiser lifranum
 
-openrefine : petit test.
+- conclu chouette
 
-conclu chouette
+# Coté code
+
+- regarder pourquoi il y a des doublons
+- checker systeme de date
+- récuperer nationalités ?
+Test Open refine
+
+
 
 
 
