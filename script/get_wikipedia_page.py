@@ -128,7 +128,7 @@ wikipages_content_df = pd.DataFrame(wikipages_content)
 wikipages_content_df.to_csv('C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/wikipages_content.csv')
 
 corpus_wikidata_df = pd.DataFrame(corpus_wikidata)
-corpus_wikidata_df.to_csv('C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/wikipages_content.csv')
+corpus_wikidata_df.to_csv('C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/corpus_wikidata.csv')
                 
             
 
