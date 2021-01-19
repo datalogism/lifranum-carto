@@ -19,10 +19,16 @@ le 5fev. 14h
 
 # Coté code
 
-- regarder pourquoi il y a des doublons
-- checker systeme de date
-- récuperer nationalités ?
-Test Open refine
+- regarder pourquoi il y a des doublons OK
+- checker systeme de date Pas OK mais à fairre plus tard
+- récuperer nationalités ? OK via wikidata
+
+# UPDATE [19/01/2021]
+- Openrefine data clean
+- Sparql request via wikidata
+- Wikipedia pages
+- Some viz via Tableau
+- Update of power point linked to Openrefine  
 
 
 
