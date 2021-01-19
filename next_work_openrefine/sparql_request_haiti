@@ -1,0 +1,10 @@
+#Auteurs, écrivains et poètes... né après 1920 à Haiti
+SELECT distinct ?s 
+WHERE
+{
+  {?s wdt:P106 wd:Q36180 .} UNION { ?s wdt:P106 wd:Q482980 . } UNION { ?s wdt:P106 wd:Q49757 . } UNION { ?s wdt:P106 wd:Q49757 . }
+  {?s wdt:P19 wd:Q790 .} UNION { ?s wdt:P19 wd:Q34261 .} UNION { ?s wdt:P19 wd:Q923362 .} UNION { ?s wdt:P19 wd:Q986301 .} UNION { ?s wdt:P19 wd:Q921827 .} UNION { ?s wdt:P19 wd:Q951602 .} UNION { ?s wdt:P19 wd:Q2400714 .} UNION { ?s wdt:P19 wd:Q1707505 .} UNION { ?s wdt:P19 wd:Q185156 .} UNION { ?s wdt:P19 wd:Q1958365 .} UNION { ?s wdt:P19 wd:Q2633410 .} UNION { ?s wdt:P19 wd:Q16899166 .} UNION { ?s wdt:P19 wd:Q216835 .} UNION { ?s wdt:P19 wd:Q852550 .} UNION { ?s wdt:P19 wd:Q790 .} UNION { ?s wdt:P19 wd:Q1013066 .} UNION { ?s wdt:P19 wd:Q3075313 .} UNION { ?s wdt:P19 wd:Q803902 .} UNION { ?s wdt:P19 wd:Q2703974 .} UNION { ?s wdt:P19 wd:Q984786 .} UNION { ?s wdt:P19 wd:Q3115020 .} UNION { ?s wdt:P19 wd:Q71 .} UNION { ?s wdt:P19 wd:Q1017073 .} UNION { ?s wdt:P19 wd:Q3901 .} UNION { ?s wdt:P19 wd:Q988413 .} UNION { ?s wdt:P19 wd:Q1504977 .} UNION { ?s wdt:P19 wd:Q997821 .} UNION { ?s wdt:P19 wd:Q52999 .} UNION { ?s wdt:P19 wd:Q861551 .} UNION { ?s wdt:P19 wd:Q17063 .} UNION { ?s wdt:P19 wd:Q993851 .} UNION { ?s wdt:P19 wd:Q747519 .} UNION { ?s wdt:P19 wd:Q2256742 .}
+  ?s wdt:P570 ?time0 .
+  FILTER(?time0 >= "1920-01-01T00:00:00Z"^^xsd:dateTime)
+ 
+}
