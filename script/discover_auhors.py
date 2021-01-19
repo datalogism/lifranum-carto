@@ -41,7 +41,7 @@ def normalize_names(rw_name):
  
 #### SPLA FILE
 
-file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/spla_haiti_final.json'
+file='C:/Users/Celian/Desktop/lifranum_carto/data/spla_haiti_final.json'
 
 with open(file, encoding='utf-8') as json_file:
     data = json.load(json_file)
@@ -56,7 +56,7 @@ list_author_spla_norm=["_".join(normalize_names(n)) for n in list_author_spla]
 
 #### ILE EN ILE FILE
 
-file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/ile_en_ile.json'
+file='C:/Users/Celian/Desktop/lifranum_carto/data/ile_en_ile.json'
 
 with open(file, encoding='utf-8') as json_file:
     data = json.load(json_file)
@@ -68,7 +68,7 @@ list_author_ile_en_ile_norm=["_".join(normalize_names(n)) for n in corpus_haiti_
 # COTE CORPUS
 corpus_haiti_cote=[]
 import csv
-file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/Corpus_Haitiv3.csv'
+file='C:/Users/Celian/Desktop/lifranum_carto/data/Corpus_Haitiv3.csv'
 with open(file, encoding='utf-8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=';')
     header=next(readCSV)
@@ -79,11 +79,19 @@ with open(file, encoding='utf-8') as csvfile:
 list_url_cote=list(set([d['URL'] for d in corpus_haiti_cote if d['URL']!=""]))
 list_author_cote=list(set([d['Auteur'] for d in corpus_haiti_cote if d['Auteur']!=""]))
 list_author_cote_norm=["_".join(normalize_names(n)) for n in list_author_cote]
-both=set(list_author_ile_en_ile_norm).intersection(set(list_author_cote_norm))
+both=set(list_author_ile_en_ile_norm).intersection(set(list_author_spla_norm))
+every=set(list_author_ile_en_ile_norm).union(set(list_author_spla_norm))
+with open('C:/Users/Celian/Desktop/lifranum_carto/authors_all_SES2', 'w') as f:
+    for name in every:
+        ok=name.replace("_"," ")
+        f.write(ok+'\n')
+        
+name="Willems Edouard"
+name2="_".join(normalize_names(name))
 
 #### CORPUS RDF 
 from rdflib.graph import Graph
-file_path='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/LIFRANUM.rdf'
+file_path='C:/Users/Celian/Desktop/lifranum_carto/data/LIFRANUM.rdf'
 g = Graph()
 from urllib import parse
 
@@ -208,7 +216,13 @@ for auth in every_author_norm:
                     print("PB")
 
 
-file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/bnf_data_for_authors.json'
+file='C:/Users/Celian/Desktop/lifranum_carto/data/bnf_data_for_authors.json'
+
+with open(file, encoding='utf-8') as json_file:
+    data = json.load(json_file)
+    
+
+
 with open(file, 'w', encoding='utf-8') as f:
     json.dump(bfn_found, f, ensure_ascii=False, indent=4)
     
@@ -223,7 +237,15 @@ for auth in bfn_found.keys():
                     data=r.text
                     viaf_found[auth]=data
 
-file='C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/viaf_data_for_authors.json'
+with open(file, encoding='utf-8') as json_file:
+    data = json.load(json_file)
+    
+file='C:/Users/Celian/Desktop/lifranum_carto/data/viaf_data_for_authors.json'
+
+with open(file, encoding='utf-8') as json_file:
+    data = json.load(json_file)
+    
+    
 with open(file, 'w', encoding='utf-8') as f:
     json.dump(viaf_found, f, ensure_ascii=False, indent=4)
                     

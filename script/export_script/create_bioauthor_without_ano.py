@@ -198,7 +198,7 @@ with open(file, encoding='utf-8') as csvfile:
 for auth in list_authors:
     
     id_auth= strip_accents(auth).replace("-","_")
-    if(path.exists("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/notice_"+id_auth+".xml")==False):
+    if(path.exists("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus3/notice_"+id_auth+".xml")==False):
         data_notices={"author_name":None, "file_authors":[{"auth_name":"Inès Burri","org_name":"Université Jean Moulin Lyon 3"},{"auth_name":"Anaïs Chambat","org_name":"ENS Lyon"},{"auth_name":"Célian Ringwald","org_name":"Université Lyon 2"}],
           "bio_data":{},"data_auth":{},"biblio_data":{},"web_data":{}}
         dates_auth=None
@@ -403,7 +403,7 @@ for auth in list_authors:
         if(len(data_notices["biblio_data"].keys())>0 or len(data_notices["bio_data"].keys())>0 or len(data_notices["data_auth"].keys())>0 ):
             result=get_CompleteNotice(data_notices)
             str_res=prettify(result).encode("utf-8", errors='replace').decode("utf-8", errors='replace')
-            myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus2/notice_"+id_auth+".xml", "w", "utf-8")
+            myfile = codecs.open("C:/Users/Celian/Desktop/M2 HUMANUM/PROJET/lifranum_carto/data/tei corpus3/notice_"+id_auth+".xml", "w", "utf-8")
             myfile.write(str_res)
             myfile.close()
 #    except:
