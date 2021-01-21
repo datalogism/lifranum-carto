@@ -43,6 +43,7 @@ def normalize_names(rw_name):
     return resp
 
 file='C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/wikidata_id_list.csv'
+list_id_wiki=[]
 corpus_wikidata=[]
 with open(file, encoding='utf-8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=';')
@@ -54,7 +55,19 @@ with open(file, encoding='utf-8') as csvfile:
         except:
             current["Nom"]=current["\ufeffNom"]
         current["normalized"]="_".join(normalize_names(current["Nom"]))
+        if(row[1!=""]):
+            list_id_wiki.append(row[1])
         corpus_wikidata.append(current)
+
+file='C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/ResultWikidataRequest.csv'
+wikidata_res=[]
+with open(file, encoding='utf-8') as csvfile:
+    readCSV = csv.reader(csvfile, delimiter=';')
+    header=next(readCSV)
+    for row in readCSV:
+        wikidata_res.append(row[0].replace("http://www.wikidata.org/entity/",""))
+common=list(set(wikidata_res).intersection(list_id_wiki))
+len(common)
 
 
 import requests
