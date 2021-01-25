@@ -69,19 +69,30 @@ with open(file, encoding='utf-8') as csvfile:
 common=list(set(wikidata_res).intersection(list_id_wiki))
 len(common)
 
-
+file='C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/base_auteurs_last_enriched.csv'
+list_clean_wiki_id=[]
+wikidata_res=[]
+with open(file, encoding='utf-8') as csvfile:
+    readCSV = csv.reader(csvfile, delimiter=';')
+    header=next(readCSV)
+    for row in readCSV:
+        if(row[19]!=""):
+            list_clean_wiki_id.append(row[19])
+            
 import requests
 import time
 url="https://query.wikidata.org/bigdata/namespace/wdq/sparql"
 
-for current in corpus_wikidata:
-    id_clean=current["Wiki_ID"]
-    if(current['wikipage_en']=="" and  current['wikipage_fr']=="" and current['wikipage_ht']==""):
-        current["search"]=True    
-    
+corpus_wikidata={}
+for id_clean in list_clean_wiki_id:
+    if(id_clean not in corpus_wikidata.keys()):
+        corpus_wikidata[id_clean]={'wikipage_en':"",'wikipage_fr':'','wikipage_ht':'',"search":True}
+   
+    current=corpus_wikidata[id_clean]
+        
     if "search" not in list(current.keys()):
         current["search"]=True
-    if(id_clean !="" and current["search"]==True):
+    if(current["search"]==True):
         
         time.sleep(5)
         print("search for wikipages of id :",id_clean)
