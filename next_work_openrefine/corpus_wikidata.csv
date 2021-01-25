@@ -1,249 +1,319 @@
-,﻿Nom,Wiki_ID,Nom,normalized,wikipages,wikipage_fr,wikipage_en,wikipage_ht,search,wikipage_fr_len,wikipage_ht_len,wikipage_en_len
-0,Stanley PÃ©an,Q3496855,Stanley Péan,Stanley_Péan,"{'fr': ['https://fr.wikipedia.org/wiki/Stanley_P%C3%A9an'], 'ht': ['https://ht.wikipedia.org/wiki/Stanley_P%C3%A9an']}",https://fr.wikipedia.org/wiki/Stanley_P%C3%A9an,,https://ht.wikipedia.org/wiki/Stanley_P%C3%A9an,False,14474.0,3516.0,
-1,Ignace Nau,Q3148181,Ignace Nau,Ignace_Nau,,https://fr.wikipedia.org/wiki/Ignace_Nau,https://en.wikipedia.org/wiki/Ignace_Nau,https://ht.wikipedia.org/wiki/Ignace_Nau,False,5622.0,2015.0,1861.0
-2,,,,,,,,,False,,,
-3,Jean Metellus,Q3173661,Jean Metellus,Jean_Metellus,,https://fr.wikipedia.org/wiki/Jean_M%C3%A9tellus,https://en.wikipedia.org/wiki/Jean_Metellus,https://ht.wikipedia.org/wiki/Jean_Metellus,False,8748.0,4450.0,2833.0
-4,Lenelle MoÃ¯se,Q6522408,Lenelle Moïse,Lenelle_Moïse,,,https://en.wikipedia.org/wiki/Lenelle_Mo%C3%AFse,https://ht.wikipedia.org/wiki/Lenelle_Mo%C3%AFse,False,,1500.0,4600.0
-5,Edmond Laforest,Q3047892,Edmond Laforest,Edmond_Laforest,,https://fr.wikipedia.org/wiki/Edmond_Laforest,https://en.wikipedia.org/wiki/Edmond_Laforest,https://ht.wikipedia.org/wiki/Edmond_Laforest,False,4584.0,2451.0,1468.0
-6,Raymond Chassagne,Q12896026,Raymond Chassagne,Raymond_Chassagne,,https://fr.wikipedia.org/wiki/Raymond_Chassagne,https://en.wikipedia.org/wiki/Raymond_Chassagne,https://ht.wikipedia.org/wiki/Raymond_Chassagne,False,4348.0,1170.0,1628.0
-7,Gary Klang,Q3098578,Gary Klang,Gary_Klang,,https://fr.wikipedia.org/wiki/Gary_Klang,https://en.wikipedia.org/wiki/Gary_Klang,https://ht.wikipedia.org/wiki/Gary_Klang,False,10270.0,6712.0,7800.0
-8,Antoine Innocent,Q16945793,Antoine Innocent,Antoine_Innocent,,,,https://ht.wikipedia.org/wiki/Antoine_Innocent,False,,1964.0,
-9,Yanick Jean,Q3571564,Yanick Jean,Yanick_Jean,,https://fr.wikipedia.org/wiki/Yanick_Jean,,,False,5964.0,,
-10,DantÃ¨s Bellegarde,Q3015752,Dantès Bellegarde,Dantès_Bellegarde,,https://fr.wikipedia.org/wiki/Dant%C3%A8s_Louis_Bellegarde,https://en.wikipedia.org/wiki/Dant%C3%A8s_Bellegarde,https://ht.wikipedia.org/wiki/Dant%C3%A8s_Bellegarde,False,8765.0,2178.0,2835.0
-11,Georges Anglade,Q1508785,Georges Anglade,Georges_Anglade,,https://fr.wikipedia.org/wiki/Georges_Anglade,https://en.wikipedia.org/wiki/Georges_Anglade,https://ht.wikipedia.org/wiki/Georges_Anglade,False,8303.0,3542.0,5508.0
-12,Jean-Max Calvin,Q16946629,Jean-Max Calvin,Jean-Max_Calvin,,,,https://ht.wikipedia.org/wiki/Jean-Max_Calvin,False,,793.0,
-13,Hervé Fanini-Lemoin,,Hervé Fanini-Lemoin,Hervé_Fanini-Lemoin,,,,,False,,,
-14,Ã‰mile Ollivier,Q286293,Ã‰mile Ollivier,Ã‰Mile_Ollivier,,https://fr.wikipedia.org/wiki/%C3%89mile_Ollivier_(homme_politique),https://en.wikipedia.org/wiki/%C3%89mile_Ollivier,,False,22467.0,,18163.0
-15,Luckner Desvignes,,Luckner Desvignes,Luckner_Desvignes,,,,,False,,,
-16,FrÃ©dÃ©ric Marcelin,Q3090021,Frédéric Marcelin,Frédéric_Marcelin,,https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Marcelin,https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Marcelin,https://ht.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Marcelin,False,6389.0,1867.0,2365.0
-17,Yanick Lahens,Q2599418,Yanick Lahens,Yanick_Lahens,,https://fr.wikipedia.org/wiki/Yanick_Lahens,https://en.wikipedia.org/wiki/Yanick_Lahens,https://ht.wikipedia.org/wiki/Yanick_Lahens,False,11442.0,3834.0,5378.0
-18,Roland Morisseau,Q12896340,Roland Morisseau,Roland_Morisseau,,,,https://ht.wikipedia.org/wiki/Roland_Morisseau,False,,737.0,
-19,Gesner Jean Gilles,,Gesner Jean Gilles,Gesner_Jean_Gilles,,,,,False,,,
-20,Wébert Charles,,Wébert Charles,Wébert_Charles,,,,,False,,,
-21,Marc Léo Laroche,,Marc Léo Laroche,Marc_Léo_Laroche,,,,,False,,,
-22,Rodolphe Mathurin,Q83521548,Rodolphe Mathurin,Rodolphe_Mathurin,,https://fr.wikipedia.org/wiki/Rodolphe_Mathurin,,,False,3884.0,,
-23,"Dany LaferriÃ¨r,",Q1165217,"Dany Laferrièr,",Dany Laferrièr_,,https://fr.wikipedia.org/wiki/Dany_Laferri%C3%A8re,https://en.wikipedia.org/wiki/Dany_Laferri%C3%A8re,https://ht.wikipedia.org/wiki/Dany_Laferri%C3%A8re,False,42313.0,5774.0,9653.0
-24,,,,,,,,,False,,,
-25,GÃ©rard Chenet,Q11973505,Gérard Chenet,Gérard_Chenet,,,,,False,,,
-26,Christophe Charles,Q5111758,Christophe Charles,Christophe_Charles,,https://fr.wikipedia.org/wiki/Christophe_Philippe_Charles,https://en.wikipedia.org/wiki/Christophe_Charles,https://ht.wikipedia.org/wiki/Christophe_Charles,False,4837.0,3550.0,1591.0
-27,Charles Fabian Figueiredo Santos,Q2351691,Charles Fabian Figueiredo Santos,Charles_Fabian_Figueiredo_Santos,,"https://fr.wikipedia.org/wiki/Charles_(football,_1968)",https://en.wikipedia.org/wiki/Charles_Fabian,,False,4081.0,,9279.0
-28,Jean-Claude Garoute,Q782156,Jean-Claude Garoute,Jean-Claude_Garoute,,https://fr.wikipedia.org/wiki/Jean-Claude_Garoute,https://en.wikipedia.org/wiki/Jean-Claude_Garoute,https://ht.wikipedia.org/wiki/Jean-Claude_Garoute_(Tiga),False,16933.0,1282.0,4029.0
-29,DÃ©ita,Q12889446,Déita,Déita,,,,https://ht.wikipedia.org/wiki/D%C3%A9ita,False,,3185.0,
-30,Rodney Saint-Ã‰loi,Q3438235,Rodney Saint-Ã‰loi,Rodney_Saint-Ã‰Loi,,https://fr.wikipedia.org/wiki/Rodney_Saint-%C3%89loi,https://en.wikipedia.org/wiki/Rodney_Saint-%C3%89loi,https://ht.wikipedia.org/wiki/Rodney_Saint-%C3%89loi,False,6059.0,1185.0,2505.0
-31,CoutechÃ¨ve Lavoie Aupont,Q55217112,Coutechève Lavoie Aupont,Coutechève_Lavoie_Aupont,,https://fr.wikipedia.org/wiki/Coutech%C3%A8ve_Lavoie_Aupont,,https://ht.wikipedia.org/wiki/Coutech%C3%A8ve_Lavoie_Aupont,False,3693.0,1967.0,
-32,Makenzy Orcel,Q3280752,Makenzy Orcel,Makenzy_Orcel,,https://fr.wikipedia.org/wiki/Makenzy_Orcel,,https://ht.wikipedia.org/wiki/Makenzy_Orcel,False,5100.0,3243.0,
-33,Frantz Carly,,Frantz Carly,Frantz_Carly,,,,,False,,,
-34,Peter Frisch,,Peter Frisch,Peter_Frisch,,,,,False,,,
-35,Emmanuel EugÃ¨ne,Q16946145,Emmanuel Eugène,Emmanuel_Eugène,,https://fr.wikipedia.org/wiki/Emmanuel_Eug%C3%A8ne,,https://ht.wikipedia.org/wiki/Emmanuel_Eug%C3%A8ne,False,2914.0,1111.0,
-36,,,,,,,,,False,,,
-37,Marc Laroche,Q18341665,Marc Laroche,Marc_Laroche,,,,https://ht.wikipedia.org/wiki/Marc_Laroche,False,,1907.0,
-38,Jan Dominique,Q16946539,Jan Dominique,Jan_Dominique,,https://fr.wikipedia.org/wiki/Jan_J._Dominique,,https://ht.wikipedia.org/wiki/Jan_J._Dominique,False,7197.0,791.0,
-39,Nirvah Desinor,,Nirvah Desinor,Nirvah_Desinor,,,,,False,,,
-40,Fortestson Fenelon,,Fortestson Fenelon,Fortestson_Fenelon,,,,,False,,,
-41,Dominique Batraville,Q16029082,Dominique Batraville,Dominique_Batraville,,https://fr.wikipedia.org/wiki/Dominique_Batraville,,https://ht.wikipedia.org/wiki/Dominique_Batraville,False,3912.0,2811.0,
-42,Winnie Hugot Gabriel Duvil,,Winnie Hugot Gabriel Duvil,Winnie_Hugot_Gabriel_Duvil,,,,,False,,,
-43,Stephane Martelly,Q18636498,Stephane Martelly,Stephane_Martelly,,,,https://ht.wikipedia.org/wiki/Stephane_Martelly,False,,3060.0,
-44,GeneviÃ¨ve Gaillard-VantÃ©,Q12890976,Geneviève Gaillard-Vanté,Geneviève_Gaillard-Vanté,,,,https://ht.wikipedia.org/wiki/Genevi%C3%A8ve_Gaillard-Vant%C3%A9,False,,890.0,
-45,FÃ©lix Morisseau-Leroy,Q1363088,Félix Morisseau-Leroy,Félix_Morisseau-Leroy,,https://fr.wikipedia.org/wiki/F%C3%A9lix_Morisseau-Leroy,https://en.wikipedia.org/wiki/F%C3%A9lix_Morisseau-Leroy,https://ht.wikipedia.org/wiki/Felix_Morisseau-Leroy,False,5539.0,1838.0,8296.0
-46,,,,,,,,,False,,,
-47,RenÃ© BÃ©lance,Q18575751,René Bélance,René_Bélance,,,,https://ht.wikipedia.org/wiki/Ren%C3%A9_B%C3%A9lance,False,,921.0,
-48,Leon Laleau,Q3271119,Leon Laleau,Leon_Laleau,,https://fr.wikipedia.org/wiki/L%C3%A9on_Laleau,https://en.wikipedia.org/wiki/Leon_Laleau,https://ht.wikipedia.org/wiki/L%C3%A9on_Laleau,False,4137.0,1442.0,3468.0
-49,Syto CavÃ©,Q18642641,Syto Cavé,Syto_Cavé,,,,https://ht.wikipedia.org/wiki/Syto_Cav%C3%A9,False,,2519.0,
-50,FrankÃ©tienne,Q162778,Frankétienne,Frankétienne,,https://fr.wikipedia.org/wiki/Frank%C3%A9tienne,https://en.wikipedia.org/wiki/Frank%C3%A9tienne,https://ht.wikipedia.org/wiki/Frank%C3%A9tienne,False,13958.0,3218.0,4446.0
-51,,,,,,,,,False,,,
-52,Jean-Marc Pasquet,Q12891869,Jean-Marc Pasquet,Jean-Marc_Pasquet,,,,https://ht.wikipedia.org/wiki/Jean-Marc_Pasquet,False,,737.0,
-53,Jean-Marie Bourjolly,Q12891871,Jean-Marie Bourjolly,Jean-Marie_Bourjolly,,,,https://ht.wikipedia.org/wiki/Jean-Marie_Bourjolly,False,,685.0,
-54,Franz Benjamin,Q12890785,Franz Benjamin,Franz_Benjamin,,,,https://ht.wikipedia.org/wiki/Franz_Benjamin,False,,1714.0,
-55,Jean-Pierre Brax,Q16946633,Jean-Pierre Brax,Jean-Pierre_Brax,,,,https://ht.wikipedia.org/wiki/Jean-Pierre_Brax,False,,9665.0,
-56,Demesvar Delorme,Q3171668,Demesvar Delorme,Demesvar_Delorme,,https://fr.wikipedia.org/wiki/Jean_Demesvar_Delorme,https://en.wikipedia.org/wiki/Demesvar_Delorme,https://ht.wikipedia.org/wiki/Demesvar_Delorme,False,4377.0,954.0,3583.0
-57,Jean-Durosier DesriviÃ¨res,Q55217155,Jean-Durosier Desrivières,Jean-Durosier_Desrivières,,,,,False,,,
-58,Odette Roy Fombrun,Q18528616,Odette Roy Fombrun,Odette_Roy_Fombrun,,,https://en.wikipedia.org/wiki/Odette_Roy_Fombrun,https://ht.wikipedia.org/wiki/Odette_Roy_Fombrun,False,,4983.0,3812.0
-59,Elodie Barthélémy,,Elodie Barthélémy,Elodie_Barthélémy,,,,,False,,,
-60,Roland Paret,Q18607375,Roland Paret,Roland_Paret,,,,https://ht.wikipedia.org/wiki/Roland_Paret,False,,1186.0,
-61,Jean-EuphÃ¨le MilcÃ©,Q12891863,Jean-Euphèle Milcé,Jean-Euphèle_Milcé,,https://fr.wikipedia.org/wiki/Jean-Euph%C3%A8le_Milc%C3%A9,,https://ht.wikipedia.org/wiki/Jean-Euph%C3%A8le_Milc%C3%A9,False,6150.0,2145.0,
-62,RenÃ© PhiloctÃ¨te,Q3045950,René Philoctète,René_Philoctète,,https://fr.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te,https://en.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te,https://ht.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te,False,5570.0,3188.0,1651.0
-63,Maude Heurtelou,Q20559271,Maude Heurtelou,Maude_Heurtelou,,,,https://ht.wikipedia.org/wiki/Maude_Heurtelou,False,,8981.0,
-64,AntÃ©nor Firmin,Q1584205,Anténor Firmin,Anténor_Firmin,,https://fr.wikipedia.org/wiki/Joseph_Ant%C3%A9nor_Firmin,https://en.wikipedia.org/wiki/Ant%C3%A9nor_Firmin,https://ht.wikipedia.org/wiki/Ant%C3%A9nor_Firmin,False,8332.0,2456.0,12847.0
-65,,,,,,,,,False,,,
-66,Marie-ThÃ©rÃ¨se Colimon-Hall,Q3132299,Marie-Thérèse Colimon-Hall,Marie-Thérèse_Colimon-Hall,,https://fr.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon_Hall,https://en.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon-Hall,https://ht.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon-Hall,False,6194.0,1787.0,2384.0
-67,Mario Blaise,,Mario Blaise,Mario_Blaise,,,,,False,,,
-68,Edris Saint-Amand,Q3048259,Edris Saint-Amand,Edris_Saint-Amand,,https://fr.wikipedia.org/wiki/Edris_Saint-Amand,https://en.wikipedia.org/wiki/Edris_Saint-Amand,https://ht.wikipedia.org/wiki/Edris_Saint-Amand,False,4911.0,831.0,1123.0
-69,Ã‰mile Roumer,Q3045906,Ã‰mile Roumer,Ã‰Mile_Roumer,,https://fr.wikipedia.org/wiki/%C3%89mile_Roumer,https://en.wikipedia.org/wiki/%C3%89mile_Roumer,https://ht.wikipedia.org/wiki/%C3%89mile_Roumer,False,5529.0,1841.0,1671.0
-70,IlÃ©us Papillon,Q55217189,Iléus Papillon,Iléus_Papillon,,https://fr.wikipedia.org/wiki/Il%C3%A9us_Papillon,,https://ht.wikipedia.org/wiki/Il%C3%A9us_Papillon,False,4022.0,3860.0,
-71,Ã‰velyne Trouillot,Q12890535,Ã‰velyne Trouillot,Ã‰Velyne_Trouillot,,https://fr.wikipedia.org/wiki/%C3%89velyne_Trouillot,https://en.wikipedia.org/wiki/%C3%89velyne_Trouillot,https://ht.wikipedia.org/wiki/%C3%89velyne_Trouillot,False,5739.0,2448.0,4853.0
-72,Jean James Estepha,,Jean James Estepha,Jean_James_Estepha,,,,,False,,,
-73,Emmelie ProphÃ¨te,Q3053007,Emmelie Prophète,Emmelie_Prophète,,https://fr.wikipedia.org/wiki/Emmelie_Proph%C3%A8te,https://en.wikipedia.org/wiki/Emmelie_Proph%C3%A8te,https://ht.wikipedia.org/wiki/Emmelie_Proph%C3%A8te,False,4337.0,2597.0,2360.0
-74,Frantz-Antoine Leconte,Q16946241,Frantz-Antoine Leconte,Frantz-Antoine_Leconte,,,,https://ht.wikipedia.org/wiki/Frantz_Leconte,False,,1061.0,
-75,Jessica FiÃ¨vre,Q12891979,Jessica Fièvre,Jessica_Fièvre,,,https://en.wikipedia.org/wiki/Jessica_Fi%C3%A8vre,https://ht.wikipedia.org/wiki/Jessica_Fi%C3%A8vre,False,,1071.0,3194.0
-76,Marie-CÃ©lie Agnant,Q3291756,Marie-Célie Agnant,Marie-Célie_Agnant,,https://fr.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant,https://en.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant,https://ht.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant,False,5886.0,2142.0,3800.0
-77,Gary Victor,Q3098632,Gary Victor,Gary_Victor,,https://fr.wikipedia.org/wiki/Gary_Victor,https://en.wikipedia.org/wiki/Gary_Victor,https://ht.wikipedia.org/wiki/Gary_Victor,False,8831.0,5718.0,3821.0
-78,Haveson Florvil,Q96952677,Haveson Florvil,Haveson_Florvil,,https://fr.wikipedia.org/wiki/Haveson_Florvil,,,False,10251.0,,
-79,Marcien Constant,,Marcien Constant,Marcien_Constant,,,,,False,,,
-80,Serge H. Moïse,,Serge H. Moïse,Serge_H._Moïse,,,,,False,,,
-81,NÃ©hÃ©my Pierre-Dahomey,Q55217188,Néhémy Pierre-Dahomey,Néhémy_Pierre-Dahomey,,,,,False,,,
-82,Lyonel Trouillot,Q637689,Lyonel Trouillot,Lyonel_Trouillot,,https://fr.wikipedia.org/wiki/Lyonel_Trouillot,https://en.wikipedia.org/wiki/Lyonel_Trouillot,https://ht.wikipedia.org/wiki/Lyonel_Trouillot,False,9968.0,7938.0,6134.0
-83,,,,,,,,,False,,,
-84,Lenous Suprice,Q55217215,Lenous Suprice,Lenous_Suprice,,,,,False,,,
-85,Gerald Bloncourt,Q3123601,Gerald Bloncourt,Gerald_Bloncourt,,https://fr.wikipedia.org/wiki/G%C3%A9rald_Bloncourt,https://en.wikipedia.org/wiki/G%C3%A9rald_Bloncourt,https://ht.wikipedia.org/wiki/G%C3%A9rald_Bloncourt,False,11209.0,1319.0,1932.0
-86,Miriam Neptune,,Miriam Neptune,Miriam_Neptune,,,,,False,,,
-87,"Angelucci Manigat, Jr.",Q12887389,"Angelucci Manigat, Jr.",Angelucci Manigat_Jr.,,,,"https://ht.wikipedia.org/wiki/Angelucci_Manigat,_Jr.",False,,795.0,
-88,Anaïse Chavenet,,Anaïse Chavenet,Anaïse_Chavenet,,,,,False,,,
-89,Guy RÃ©gis,Q2396474,Guy Régis,Guy_Régis,,https://fr.wikipedia.org/wiki/Guy_Junior_R%C3%A9gis,,https://ht.wikipedia.org/wiki/Guy_Junior_R%C3%A9gis,False,15312.0,2706.0,
-90,Roger Dorsinville,Q2990316,Roger Dorsinville,Roger_Dorsinville,,https://fr.wikipedia.org/wiki/Roger_Dorsinville,https://en.wikipedia.org/wiki/Roger_Dorsinville,https://ht.wikipedia.org/wiki/Roger_Dorsinville,False,6541.0,989.0,2683.0
-91,Emeline Michel,Q5370358,Emeline Michel,Emeline_Michel,,https://fr.wikipedia.org/wiki/%C3%89meline_Michel,https://en.wikipedia.org/wiki/Emeline_Michel,https://ht.wikipedia.org/wiki/Emeline_Michel,False,13575.0,3647.0,2034.0
-92,Gary Augustin,Q16946325,Gary Augustin,Gary_Augustin,,,,https://ht.wikipedia.org/wiki/Gary_Augustin,False,,905.0,
-93,GÃ©rard Ã‰tienne,Q289255,GÃ©rard Ã‰tienne,Gã©Rard_Ã‰Tienne,,https://fr.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard,https://en.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard,,False,36780.0,,11562.0
-94,Louis-Joseph Janvier,Q3123203,Louis-Joseph Janvier,Louis-Joseph_Janvier,,https://fr.wikipedia.org/wiki/Louis-Joseph_Janvier,https://en.wikipedia.org/wiki/Louis-Joseph_Janvier,https://ht.wikipedia.org/wiki/Louis_Joseph_Janvier,False,5347.0,845.0,2952.0
-95,ClÃ©ante Valcin,Q62577905,Cléante Valcin,Cléante_Valcin,,,https://en.wikipedia.org/wiki/Cl%C3%A9ante_Valcin,https://ht.wikipedia.org/wiki/Cl%C3%A9ante_Valcin,False,,2161.0,1831.0
-96,Bonel Auguste,Q16945858,Bonel Auguste,Bonel_Auguste,,,,https://ht.wikipedia.org/wiki/Bonel_Auguste,False,,840.0,
-97,,,,,,,,,False,,,
-98,Voegeli Juste-Constant,,Voegeli Juste-Constant,Voegeli_Juste-Constant,,,,,False,,,
-99,Jean Florival,Q16946574,Jean Florival,Jean_Florival,,,,https://ht.wikipedia.org/wiki/Jean_Florival,False,,789.0,
-100,Elsie SurÃ©na,Q12890326,Elsie Suréna,Elsie_Suréna,,,https://en.wikipedia.org/wiki/Elsie_Sur%C3%A9na,https://ht.wikipedia.org/wiki/Elsie_Surena,False,,1367.0,3380.0
-101,Jenner Desroches,Q12891968,Jenner Desroches,Jenner_Desroches,,,,https://ht.wikipedia.org/wiki/Jenner_Desroches,False,,805.0,
-102,Fred Edson Lafortune,Q3086821,Fred Edson Lafortune,Fred_Edson_Lafortune,,https://fr.wikipedia.org/wiki/Fred_Edson_Lafortune,,https://ht.wikipedia.org/wiki/Fred_Edson_Lafortune,False,7082.0,3745.0,
-103,Constant Jeanty,,Constant Jeanty,Constant_Jeanty,,,,,False,,,
-104,Jean AndrÃ© Constant,Q12891886,Jean André Constant,Jean_André_Constant,,,,https://ht.wikipedia.org/wiki/Jean_Andr%C3%A9_Constant,False,,885.0,
-105,Oswald Durand,Q3113256,Oswald Durand,Oswald_Durand,,https://fr.wikipedia.org/wiki/Oswald_Durand,https://en.wikipedia.org/wiki/Oswald_Durand,https://ht.wikipedia.org/wiki/Oswald_Durand,False,7558.0,4634.0,10328.0
-106,JoÃ«l Des Rosiers,Q3187394,Joël Des Rosiers,Joël_Des_Rosiers,,https://fr.wikipedia.org/wiki/Jo%C3%ABl_Des_Rosiers,,https://ht.wikipedia.org/wiki/Jo%C3%ABl_Des_Rosiers,False,14932.0,2823.0,
-107,Margaret Mitchell Armand,,Margaret Mitchell Armand,Margaret_Mitchell_Armand,,,,,False,,,
-108,Georges Castera,Q12890993,Georges Castera,Georges_Castera,,https://fr.wikipedia.org/wiki/Georges_Castera,https://en.wikipedia.org/wiki/Georges_Castera,https://ht.wikipedia.org/wiki/Georges_Castera,False,16949.0,3310.0,2669.0
-109,André Fouad,,André Fouad,André_Fouad,,,,,False,,,
-110,J.M. Lominy,,J.M. Lominy,J.M._Lominy,,,,,False,,,
-111,Kettly Mars,Q3195618,Kettly Mars,Kettly_Mars,,https://fr.wikipedia.org/wiki/Kettly_Mars,https://en.wikipedia.org/wiki/Kettly_Mars,https://ht.wikipedia.org/wiki/Kettly_Mars,False,6812.0,4034.0,9651.0
-112,Jean Price-Mars,Q3045911,Jean Price-Mars,Jean_Price-Mars,,https://fr.wikipedia.org/wiki/Jean_Price_Mars,https://en.wikipedia.org/wiki/Jean_Price-Mars,https://ht.wikipedia.org/wiki/Jean_Price-Mars,False,9407.0,3000.0,7853.0
-113,MarlÃ¨ne Rigaud Apollon,Q12894134,Marlène Rigaud Apollon,Marlène_Rigaud_Apollon,,,https://en.wikipedia.org/wiki/Marl%C3%A8ne_Rigaud_Apollon,https://ht.wikipedia.org/wiki/Marl%C3%A8ne_Rigaud_Apollon,False,,1369.0,2713.0
-114,,,,,,,,,False,,,
-115,,,,,,,,,False,,,
-116,Josaphat-Robert Large,Q531431,Josaphat-Robert Large,Josaphat-Robert_Large,,https://fr.wikipedia.org/wiki/Josaphat-Robert_Large,https://en.wikipedia.org/wiki/Josaphat-Robert_Large,https://ht.wikipedia.org/wiki/Josaphat-Robert_Large,False,10083.0,7217.0,10673.0
-117,,,,,,,,,False,,,
-118,Nadine Magloire,Q47571408,Nadine Magloire,Nadine_Magloire,,,https://en.wikipedia.org/wiki/Nadine_Magloire,,False,,,2232.0
-119,Fabienne Pasquet,Q12890543,Fabienne Pasquet,Fabienne_Pasquet,,,,https://ht.wikipedia.org/wiki/Fabienne_Pasquet,False,,952.0,
-120,Edgard Gousse,Q55725389,Edgard Gousse,Edgard_Gousse,,,,,False,,,
-121,Saint-John Kauss,Q55217152,Saint-John Kauss,Saint-John_Kauss,,,,,False,,,
-122,Myriam J. M. Chancy,Q18631149,Myriam J. M. Chancy,Myriam_J._M._Chancy,,,https://en.wikipedia.org/wiki/Myriam_J._A._Chancy,,False,,,5868.0
-123,Paul Laraque,Q3371635,Paul Laraque,Paul_Laraque,,https://fr.wikipedia.org/wiki/Paul_Laraque,,https://ht.wikipedia.org/wiki/Paul_Laraque,False,2267.0,808.0,
-124,Roussan Camille,Q953097,Roussan Camille,Roussan_Camille,,https://fr.wikipedia.org/wiki/Roussan_Camille,https://en.wikipedia.org/wiki/Roussan_Camille,https://ht.wikipedia.org/wiki/Roussan_Camille,False,4170.0,783.0,3459.0
-125,Fernand Hibbert,Q2368727,Fernand Hibbert,Fernand_Hibbert,,https://fr.wikipedia.org/wiki/Fernand_Hibbert,https://en.wikipedia.org/wiki/Fernand_Hibbert,https://ht.wikipedia.org/wiki/Fernand_Hibbert,False,5484.0,850.0,2035.0
-126,,,,,,,,,False,,,
-127,Justin LhÃ©risson,Q3190467,Justin Lhérisson,Justin_Lhérisson,,https://fr.wikipedia.org/wiki/Justin_Lh%C3%A9risson,https://en.wikipedia.org/wiki/Justin_Lh%C3%A9risson,https://ht.wikipedia.org/wiki/Justin_Lh%C3%A9risson,False,5188.0,2909.0,2318.0
-128,Nassur Attoumani,Q3336266,Nassur Attoumani,Nassur_Attoumani,,https://fr.wikipedia.org/wiki/Nassur_Attoumani,,https://ht.wikipedia.org/wiki/Nassur_Attoumani,False,8732.0,2963.0,
-129,Jean-Robert LÃ©onidas,Q3169950,Jean-Robert Léonidas,Jean-Robert_Léonidas,,https://fr.wikipedia.org/wiki/Jean-Robert_L%C3%A9onidas,,https://ht.wikipedia.org/wiki/Jean-Robert_L%C3%A9onidas,False,7062.0,6381.0,
-130,Michel Monnin,Q6836494,Michel Monnin,Michel_Monnin,,,https://en.wikipedia.org/wiki/Michel_Monnin,,False,,,1205.0
-131,Wiener Kerns Fleurimond,Q12898302,Wiener Kerns Fleurimond,Wiener_Kerns_Fleurimond,,,,https://ht.wikipedia.org/wiki/Wiener_Kerns_Fleurimond,False,,5658.0,
-132,Louis-Philippe Dalembert,Q1315386,Louis-Philippe Dalembert,Louis-Philippe_Dalembert,,https://fr.wikipedia.org/wiki/Louis-Philippe_Dalembert,https://en.wikipedia.org/wiki/Louis-Philippe_Dalembert,https://ht.wikipedia.org/wiki/Louis-Philippe_Dalembert,False,10839.0,7983.0,7814.0
-133,,,,,,,,,False,,,
-134,Jeanie Bogart,Q55217166,Jeanie Bogart,Jeanie_Bogart,,,,,False,,,
-135,Georges Sylvain,Q428334,Georges Sylvain,Georges_Sylvain,,https://fr.wikipedia.org/wiki/Georges_Sylvain,https://en.wikipedia.org/wiki/Georges_Sylvain,https://ht.wikipedia.org/wiki/Georges_Sylvain,False,4556.0,1827.0,2460.0
-136,,,,,,,,,False,,,
-137,Marie-Alice ThÃ©ard,Q12894088,Marie-Alice Théard,Marie-Alice_Théard,,,https://en.wikipedia.org/wiki/Marie-Alice_Th%C3%A9ard,https://ht.wikipedia.org/wiki/Marie-Alice_Th%C3%A9ard,False,,1206.0,2493.0
-138,Cécile Accilien,,Cécile Accilien,Cécile_Accilien,,,,,False,,,
-139,Rassoul Labuchin,Q12896004,Rassoul Labuchin,Rassoul_Labuchin,,,,https://ht.wikipedia.org/wiki/Rassoul_Labuchin,False,,1293.0,
-140,Ã‰mile CÃ©lestin-MÃ©gie,Q12890350,Ã‰mile CÃ©lestin-MÃ©gie,Ã‰Mile_Cã©Lestin-Mã©Gie,,https://fr.wikipedia.org/wiki/%C3%89mile_C%C3%A9lestin-M%C3%A9gie,,https://ht.wikipedia.org/wiki/%C3%89mile_C%C3%A9lestin-M%C3%A9gie,False,3871.0,1646.0,
-141,,,,,,,,,False,,,
-142,Jean-Fernand Brierre,Q3165387,Jean-Fernand Brierre,Jean-Fernand_Brierre,,https://fr.wikipedia.org/wiki/Jean-Fernand_Brierre,https://en.wikipedia.org/wiki/Jean-Fernand_Brierre,https://ht.wikipedia.org/wiki/Jean-Fernand_Brierre,False,6832.0,1151.0,4618.0
-143,Alix Renaud,Q2837289,Alix Renaud,Alix_Renaud,,https://fr.wikipedia.org/wiki/Alix_Renaud,,https://ht.wikipedia.org/wiki/Alix_Renaud,False,13126.0,3952.0,
-144,Barbara Bastien,Q88413613,Barbara Bastien,Barbara_Bastien,,,,,False,,,
-145,Villard Denis,Q7930927,Villard Denis,Villard_Denis,,,https://en.wikipedia.org/wiki/Villard_Denis,https://ht.wikipedia.org/wiki/Davertige,False,,823.0,1898.0
-146,Jacqueline Scott-Lemoine,Q26252340,Jacqueline Scott-Lemoine,Jacqueline_Scott-Lemoine,,https://fr.wikipedia.org/wiki/Jacqueline_Scott-Lemoine,,https://ht.wikipedia.org/wiki/Jacqueline_Scott-Lemoine,False,7059.0,805.0,
-147,Michele Cazanove,,Michele Cazanove,Michele_Cazanove,,,,,False,,,
-148,Maximilien Laroche,Q18926023,Maximilien Laroche,Maximilien_Laroche,,https://fr.wikipedia.org/wiki/Maximilien_Laroche,,https://ht.wikipedia.org/wiki/Maximilien_Laroche,False,31447.0,11529.0,
-149,Willems Edouard,,Willems Edouard,Willems_Edouard,,,,,False,,,
-150,Joanne Hyppolite,Q16946660,Joanne Hyppolite,Joanne_Hyppolite,,,,https://ht.wikipedia.org/wiki/Joanne_Hyppolite,False,,755.0,
-151,Emmanuel Buriez,Q39738159,Emmanuel Buriez,Emmanuel_Buriez,,,,https://ht.wikipedia.org/wiki/Emmanuel_Buriez,False,,2749.0,
-152,,,,,,,,,False,,,
-153,,,,,,,,,False,,,
-154,Lawrence Hill,Q3828146,Lawrence Hill,Lawrence_Hill,,https://fr.wikipedia.org/wiki/Lawrence_Hill_(basket-ball),,,False,3217.0,,
-155,,,,,,,,,False,,,
-156,Elvire Maurouard,Q12890330,Elvire Maurouard,Elvire_Maurouard,,,,https://ht.wikipedia.org/wiki/Elvire_Maurouard,False,,3895.0,
-157,Boisrond-Tonnerre,Q940025,Boisrond-Tonnerre,Boisrond-Tonnerre,,https://fr.wikipedia.org/wiki/Louis_Boisrond_Tonnerre,https://en.wikipedia.org/wiki/Boisrond-Tonnerre,https://ht.wikipedia.org/wiki/Louis_Boisrond-Tonnerre,False,3683.0,1714.0,3432.0
-158,Ida Faubert,Q3147761,Ida Faubert,Ida_Faubert,,https://fr.wikipedia.org/wiki/Ida_Faubert,https://en.wikipedia.org/wiki/Ida_Faubert,https://ht.wikipedia.org/wiki/Ida_Faubert,False,3912.0,3223.0,9993.0
-159,Rodianco Fils Azor,,Rodianco Fils Azor,Rodianco_Fils_Azor,,,,,False,,,
-160,Cauvin Paul,Q12888685,Cauvin Paul,Cauvin_Paul,,,,https://ht.wikipedia.org/wiki/Cauvin_Paul,False,,829.0,
-161,Edwidge Danticat,Q450346,Edwidge Danticat,Edwidge_Danticat,,https://fr.wikipedia.org/wiki/Edwidge_Danticat,https://en.wikipedia.org/wiki/Edwidge_Danticat,https://ht.wikipedia.org/wiki/Edwidge_Danticat,False,6676.0,1157.0,31591.0
-162,,,,,,,,,False,,,
-163,Henry Kenol,,Henry Kenol,Henry_Kenol,,,,,False,,,
-164,Soeuf Elbadawi,Q3488805,Soeuf Elbadawi,Soeuf_Elbadawi,,https://fr.wikipedia.org/wiki/Soeuf_Elbadawi,,https://ht.wikipedia.org/wiki/Soeuf_Elbadawi,False,12493.0,1029.0,
-165,Dimitri Elias Léger,,Dimitri Elias Léger,Dimitri_Elias_Léger,,,,,False,,,
-166,Maggy Belin Biais,Q79392218,Maggy Belin Biais,Maggy_Belin_Biais,,,,,False,,,
-167,Maguy-D Jean,,Maguy-D Jean,Maguy-D_Jean,,,,,False,,,
-168,Anderson Dovilas,Q55217151,Anderson Dovilas,Anderson_Dovilas,,,,,False,,,
-169,Rafaël Lucas,,Rafaël Lucas,Rafaël_Lucas,,,,,False,,,
-170,Anthony Phelps,Q2852916,Anthony Phelps,Anthony_Phelps,,https://fr.wikipedia.org/wiki/Anthony_Phelps,,https://ht.wikipedia.org/wiki/Anthony_Phelps,False,16675.0,13349.0,
-171,Michel Bertrand,Q3309004,Michel Bertrand,Michel_Bertrand,,https://fr.wikipedia.org/wiki/Michel_Bertrand_(m%C3%A9decin),,,False,3045.0,,
-172,Marc Exavier,Q18341492,Marc Exavier,Marc_Exavier,,,,https://ht.wikipedia.org/wiki/Marc_Exavier,False,,804.0,
-173,Sophia DÃ©sir,Q18627792,Sophia Désir,Sophia_Désir,,,,https://ht.wikipedia.org/wiki/Sophia_D%C3%A9sir,False,,3665.0,
-174,Marie-SÅ“urette Mathieu,Q468040,Marie-SÅ“urette Mathieu,Marie-Så“Urette_Mathieu,,https://fr.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu,https://en.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu,https://ht.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu,False,6796.0,2174.0,2663.0
-175,Alex Laguerre,Q12887205,Alex Laguerre,Alex_Laguerre,,,,https://ht.wikipedia.org/wiki/Alex_Laguerre,False,,2306.0,
-176,Mehdi Chalmers,,Mehdi Chalmers,Mehdi_Chalmers,,,,,False,,,
-177,Yanick François,,Yanick François,Yanick_François,,,,,False,,,
-178,Verly Dabel,Q18084484,Verly Dabel,Verly_Dabel,,,,https://ht.wikipedia.org/wiki/Verly_Dabel,False,,2179.0,
-179,Paulette Poujol Oriol,Q12895266,Paulette Poujol Oriol,Paulette_Poujol_Oriol,,,https://en.wikipedia.org/wiki/Paulette_Poujol-Oriol,https://ht.wikipedia.org/wiki/Paulette_Poujol_Oriol,False,,1566.0,8460.0
-180,Jacques Rey Charlier,Q79392504,Jacques Rey Charlier,Jacques_Rey_Charlier,,,,,False,,,
-181,Etzer Vilaire,Q3059438,Etzer Vilaire,Etzer_Vilaire,,https://fr.wikipedia.org/wiki/Etzer_Vilaire,https://en.wikipedia.org/wiki/Etzer_Vilaire,https://ht.wikipedia.org/wiki/Etzer_Vilaire,False,3732.0,3404.0,1834.0
-182,Abdou Baco,Q4665140,Abdou Baco,Abdou_Baco,,,https://en.wikipedia.org/wiki/Abdou_Baco,https://ht.wikipedia.org/wiki/Abdou_Baco,False,,691.0,1995.0
-183,Max Dorsinville,Q18412231,Max Dorsinville,Max_Dorsinville,,,,https://ht.wikipedia.org/wiki/Max_Dorsinville,False,,1415.0,
-184,Robert M. Berrouët-Oriol ,,Robert M. Berrouët-Oriol ,Robert_M._Berrouët-Oriol,,,,,False,,,
-185,Jacques Stephen Alexis,Q3031679,Jacques Stephen Alexis,Jacques_Stephen_Alexis,,https://fr.wikipedia.org/wiki/Jacques_Stephen_Alexis,https://en.wikipedia.org/wiki/Jacques_Stephen_Alexis,https://ht.wikipedia.org/wiki/Jacques-Stephen_Alexis,False,11864.0,7592.0,6039.0
-186,Emeric Bergeaud,Q3052174,Emeric Bergeaud,Emeric_Bergeaud,,https://fr.wikipedia.org/wiki/%C3%89meric_Bergeaud,https://en.wikipedia.org/wiki/Emeric_Bergeaud,https://ht.wikipedia.org/wiki/Emeric_Bergeaud,False,2637.0,1919.0,2253.0
-187,Mona GuÃ©rin,Q12894528,Mona Guérin,Mona_Guérin,,,https://en.wikipedia.org/wiki/Mona_Gu%C3%A9rin,https://ht.wikipedia.org/wiki/Mona_Gu%C3%A9rin,False,,2810.0,2977.0
-188,Margaret Papillon,Q12894055,Margaret Papillon,Margaret_Papillon,,,,https://ht.wikipedia.org/wiki/Margaret_Papillon,False,,1104.0,
-189,Leslie Gaelle Nerette,,Leslie Gaelle Nerette,Leslie_Gaelle_Nerette,,,,,False,,,
-190,James NoeÍ�Ìˆl,Q3161308,James NoeÍ�Ìˆl,James_Noeí�ÌˆL,,https://fr.wikipedia.org/wiki/James_No%C3%ABl,https://en.wikipedia.org/wiki/James_No%C3%ABl_(poet),https://ht.wikipedia.org/wiki/James_No%C3%ABl,False,12200.0,4469.0,2784.0
-191,Martine Milard ,,Martine Milard ,Martine_Milard,,,,,False,,,
-192,Johnie Hilaire,,Johnie Hilaire,Johnie_Hilaire,,,,,False,,,
-193,Ketline Adodo,,Ketline Adodo,Ketline_Adodo,,,,,False,,,
-194,Lilas Desquiron,Q12893500,Lilas Desquiron,Lilas_Desquiron,,,https://en.wikipedia.org/wiki/Lilas_Desquiron,https://ht.wikipedia.org/wiki/Lilas_Desquiron,False,,804.0,1665.0
-195,Jean Watson Charles,,Jean Watson Charles,Jean_Watson_Charles,,,,,False,,,
-196,Jacques Roumain,Q1356852,Jacques Roumain,Jacques_Roumain,,https://fr.wikipedia.org/wiki/Jacques_Roumain,https://en.wikipedia.org/wiki/Jacques_Roumain,https://ht.wikipedia.org/wiki/Jacques_Roumain,False,10198.0,7845.0,8954.0
-197,ClÃ©ment Magloire-Saint-Aude,Q2980637,Clément Magloire-Saint-Aude,Clément_Magloire-Saint-Aude,,https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude,,https://ht.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude,False,3345.0,1060.0,
-198,Richardson Dorvil,,Richardson Dorvil,Richardson_Dorvil,,,,,False,,,
-199,Franck FouchÃ©,Q12890741,Franck Fouché,Franck_Fouché,,,,https://ht.wikipedia.org/wiki/Franck_Fouch%C3%A9,False,,820.0,
-200,Christie Binette,,Christie Binette,Christie_Binette,,,,,False,,,
-201,Suzanne Comhaire-Sylvain,Q12897540,Suzanne Comhaire-Sylvain,Suzanne_Comhaire-Sylvain,,https://fr.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain,https://en.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain,https://ht.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain,False,9430.0,4730.0,9945.0
-202,Mayotte CapÃ©cia,Q18421742,Mayotte Capécia,Mayotte_Capécia,,,,https://ht.wikipedia.org/wiki/Mayotte_Cap%C3%A9cia,False,,1063.0,
-203,Maurice CassÃ©us,Q12894241,Maurice Casséus,Maurice_Casséus,,,,https://ht.wikipedia.org/wiki/Maurice_Cass%C3%A9us,False,,853.0,
-204,Jules Bellerice,Q12892188,Jules Bellerice,Jules_Bellerice,,,,https://ht.wikipedia.org/wiki/Jules_Bellerice,False,,789.0,
-205,Jean-Baptiste CinÃ©as,Q3163957,Jean-Baptiste Cinéas,Jean-Baptiste_Cinéas,,https://fr.wikipedia.org/wiki/Jean-Baptiste_Cin%C3%A9as,https://en.wikipedia.org/wiki/Jean-Baptiste_Cin%C3%A9as,https://ht.wikipedia.org/wiki/Jean-Baptiste_Cin%C3%A9as,False,4052.0,1868.0,1528.0
-206,Pierre Clitandre,Q18555690,Pierre Clitandre,Pierre_Clitandre,,,,https://ht.wikipedia.org/wiki/Pierre_Clitandre,False,,2228.0,
-207,Jean D'AmÃ©rique,Q47087234,Jean D'Amérique,Jean_D'Amérique,,https://fr.wikipedia.org/wiki/Jean_D%27Am%C3%A9rique,,,False,6339.0,,
-208,Joelle Constantin,Q91207438,Joelle Constantin,Joelle_Constantin,,,,,False,,,
-209,Fednel Alexandre,,Fednel Alexandre,Fednel_Alexandre,,,,,False,,,
-210,Lucien Lemoine,Q26252366,Lucien Lemoine,Lucien_Lemoine,,,,,False,,,
-211,Charles Edward Caplife,Q12888836,Charles Edward Caplife,Charles_Edward_Caplife,,,,https://ht.wikipedia.org/wiki/Charles_Edward_Caplife,False,,1072.0,
-212,Elsie Augustave,Q19663803,Elsie Augustave,Elsie_Augustave,,,https://en.wikipedia.org/wiki/Elsie_Augustave,https://ht.wikipedia.org/wiki/Elsie_Augustave,False,,1001.0,3348.0
-213,Philippe Thoby-Marcelin,Q3380772,Philippe Thoby-Marcelin,Philippe_Thoby-Marcelin,,https://fr.wikipedia.org/wiki/Philippe_Thoby-Marcelin,https://en.wikipedia.org/wiki/Philippe_Thoby-Marcelin,https://ht.wikipedia.org/wiki/Philippe_Thoby-Marcelin,False,4802.0,843.0,4153.0
-214,Rhoddy Attilus,,Rhoddy Attilus,Rhoddy_Attilus,,,,,False,,,
-215,Claude C. Pierre,Q2977119,Claude C. Pierre,Claude_C._Pierre,,https://fr.wikipedia.org/wiki/Claude_C._Pierre,,https://ht.wikipedia.org/wiki/Claude_Pierre,False,3999.0,2772.0,
-216,Serge Legagneur,Q12897255,Serge Legagneur,Serge_Legagneur,,https://fr.wikipedia.org/wiki/Serge_Legagneur,,https://ht.wikipedia.org/wiki/Serge_Legagneur,False,3901.0,1372.0,
-217,RenÃ© Depestre,Q59581,René Depestre,René_Depestre,,https://fr.wikipedia.org/wiki/Ren%C3%A9_Depestre,https://en.wikipedia.org/wiki/Ren%C3%A9_Depestre,https://ht.wikipedia.org/wiki/Ren%C3%A9_Depestre,False,18853.0,3657.0,15223.0
-218,Mimi BarthÃ©lÃ©my,Q16266631,Mimi Barthélémy,Mimi_Barthélémy,,https://fr.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my,https://en.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my,https://ht.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my,False,5485.0,7116.0,3441.0
-219,Maurice Sixto,Q3301423,Maurice Sixto,Maurice_Sixto,,https://fr.wikipedia.org/wiki/Maurice_Sixto,https://en.wikipedia.org/wiki/Maurice_Sixto,https://ht.wikipedia.org/wiki/Maurice_Sixto,False,2676.0,5312.0,3745.0
-220,Romel Chery,Q20562029,Romel Chery,Romel_Chery,,,,https://ht.wikipedia.org/wiki/Romel_Chery,False,,718.0,
-221,Massillon Coicou,Q3297724,Massillon Coicou,Massillon_Coicou,,https://fr.wikipedia.org/wiki/Massillon_Coicou,https://en.wikipedia.org/wiki/Massillon_Coicou,https://ht.wikipedia.org/wiki/Massillon_Coicou,False,5034.0,3256.0,8410.0
-222,Jean-Claude FignolÃ©,Q3164963,Jean-Claude Fignolé,Jean-Claude_Fignolé,,https://fr.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9,https://en.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9,https://ht.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9,False,4301.0,2785.0,1208.0
-223,Duccha,Q16946096,Duccha,Duccha,,,,https://ht.wikipedia.org/wiki/Duccha,False,,897.0,
-224,Jean Billy Mondesir,,Jean Billy Mondesir,Jean_Billy_Mondesir,,,,,False,,,
-225,Jean Emmanuel Jacquet,Q96198910,Jean Emmanuel Jacquet,Jean_Emmanuel_Jacquet,,https://fr.wikipedia.org/wiki/Jean_Emmanuel_Jacquet,,,False,5144.0,,
-226,Ulysse Saint-Louis Mentor,,Ulysse Saint-Louis Mentor,Ulysse_Saint-Louis_Mentor,,,,,False,,,
-227,DenizÃ© Lauture,Q12889499,Denizé Lauture,Denizé_Lauture,,,,https://ht.wikipedia.org/wiki/Denize_Lauture,False,,1176.0,
-228,Guetty Felin,,Guetty Felin,Guetty_Felin,,,,,False,,,
-229,Giscard Bouchotte,,Giscard Bouchotte,Giscard_Bouchotte,,,,,False,,,
-230,Carl Brouard,Q2938879,Carl Brouard,Carl_Brouard,,https://fr.wikipedia.org/wiki/Carl_Brouard,https://en.wikipedia.org/wiki/Carl_Brouard,https://ht.wikipedia.org/wiki/Carl_Brouard,False,4515.0,2066.0,2448.0
-231,LaÃ«nnec Hurbon,Q16946779,Laënnec Hurbon,Laënnec_Hurbon,,,https://en.wikipedia.org/wiki/La%C3%ABnnec_Hurbon,https://ht.wikipedia.org/wiki/La%C3%ABnnec_Hurbon,False,,1788.0,4622.0
-232,Robert BerrouÃ«t-Oriol,Q55217164,Robert Berrouët-Oriol,Robert_Berrouët-Oriol,,,,,False,,,
-233,Stephen Alexis,Q3502258,Stephen Alexis,Stephen_Alexis,,https://fr.wikipedia.org/wiki/St%C3%A9phen_Alexis,https://en.wikipedia.org/wiki/Stephen_Alexis,https://ht.wikipedia.org/wiki/Stephen_Alexis,False,4150.0,1688.0,1835.0
-234,Lewis Ampidu Clorméus,,Lewis Ampidu Clorméus,Lewis_Ampidu_Clorméus,,,,,False,,,
-235,Emilio Merisier,,Emilio Merisier,Emilio_Merisier,,,,,False,,,
-236,Marie Vieux Chauvet,Q3292853,Marie Vieux Chauvet,Marie_Vieux_Chauvet,,https://fr.wikipedia.org/wiki/Marie_Vieux-Chauvet,https://en.wikipedia.org/wiki/Marie_Vieux_Chauvet,https://ht.wikipedia.org/wiki/Marie_Vieux-Chauvet,False,5583.0,9522.0,7036.0
-237,Obrillant Damus,,Obrillant Damus,Obrillant_Damus,,,,,False,,,
-238,Jacqueline BeaugÃ©-Rosier,Q3157670,Jacqueline Beaugé-Rosier,Jacqueline_Beaugé-Rosier,,https://fr.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier,https://en.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier,https://ht.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier,False,3944.0,910.0,3206.0
-239,Clervoyant Dieurat,,Clervoyant Dieurat,Clervoyant_Dieurat,,,,,False,,,
-240,MichÃ¨le Voltaire Marcelin,Q18461233,Michèle Voltaire Marcelin,Michèle_Voltaire_Marcelin,,,,https://ht.wikipedia.org/wiki/Mich%C3%A8le_Voltaire-Marcelin,False,,895.0,
-241,Emilie Franz,Q16946141,Emilie Franz,Emilie_Franz,,,,https://ht.wikipedia.org/wiki/Emilie_Franz,False,,741.0,
-242,Elie Fleurant,,Elie Fleurant,Elie_Fleurant,,,,,False,,,
-243,J.-P. Richard Narcisse,Q55217260,J.-P. Richard Narcisse,J.-P._Richard_Narcisse,,,,,False,,,
-244,Ange Bellie Andou,,Ange Bellie Andou,Ange_Bellie_Andou,,,,,False,,,
-245,Jean-Claude Charles,Q12891856,Jean-Claude Charles,Jean-Claude_Charles,,,,https://ht.wikipedia.org/wiki/Jean-Claude_Charles,False,,812.0,
-246,Janine Tavernier,Q3162015,Janine Tavernier,Janine_Tavernier,,https://fr.wikipedia.org/wiki/Janine_Tavernier,,,False,4854.0,,
-247,,,,,,,,,False,,,
+;wikipage_en;wikipage_fr;wikipage_ht;len_wiki_en;len_wiki_fr;len_wiki_ht;;;;;;wiki_url;len
+Q61108056;;;https://ht.wikipedia.org/wiki/Selmy_Accilien;#N/A;#N/A;1741;;;;;;https://ht.wikipedia.org/wiki/Selmy_Accilien;1741
+Q3291756;https://en.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant;https://fr.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant;https://ht.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant;3800;5886;2142;;;;;;https://en.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant;3800
+Q3031679;https://en.wikipedia.org/wiki/Jacques_Stephen_Alexis;https://fr.wikipedia.org/wiki/Jacques_Stephen_Alexis;https://ht.wikipedia.org/wiki/Jacques-Stephen_Alexis;6039;11864;7592;;;;;;https://fr.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant;5886
+Q1508785;https://en.wikipedia.org/wiki/Georges_Anglade;https://fr.wikipedia.org/wiki/Georges_Anglade;https://ht.wikipedia.org/wiki/Georges_Anglade;5508;8303;3542;;;;;;https://ht.wikipedia.org/wiki/Marie-C%C3%A9lie_Agnant;2142
+Q2852891;;https://fr.wikipedia.org/wiki/Anthony_Lesp%C3%A8s;https://ht.wikipedia.org/wiki/Anthony_Lesp%C3%A8s;#N/A;3939;1099;;;;;;https://en.wikipedia.org/wiki/Jacques_Stephen_Alexis;6039
+Q16945793;;;https://ht.wikipedia.org/wiki/Antoine_Innocent;#N/A;#N/A;1964;;;;;;https://fr.wikipedia.org/wiki/Jacques_Stephen_Alexis;11864
+Q3336266;;https://fr.wikipedia.org/wiki/Nassur_Attoumani;https://ht.wikipedia.org/wiki/Nassur_Attoumani;#N/A;8732;2963;;;;;;https://ht.wikipedia.org/wiki/Jacques-Stephen_Alexis;7592
+Q19663803;https://en.wikipedia.org/wiki/Elsie_Augustave;;https://ht.wikipedia.org/wiki/Elsie_Augustave;3348;#N/A;1001;;;;;;https://en.wikipedia.org/wiki/Georges_Anglade;5508
+Q16945858;;;https://ht.wikipedia.org/wiki/Bonel_Auguste;#N/A;#N/A;840;;;;;;https://fr.wikipedia.org/wiki/Georges_Anglade;8303
+Q16946325;;;https://ht.wikipedia.org/wiki/Gary_Augustin;#N/A;#N/A;905;;;;;;https://ht.wikipedia.org/wiki/Georges_Anglade;3542
+Q4665140;https://en.wikipedia.org/wiki/Abdou_Baco;;https://ht.wikipedia.org/wiki/Abdou_Baco;1995;#N/A;691;;;;;;https://fr.wikipedia.org/wiki/Anthony_Lesp%C3%A8s;3939
+Q16266631;https://en.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my;https://fr.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my;https://ht.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my;3441;5485;7116;;;;;;https://ht.wikipedia.org/wiki/Anthony_Lesp%C3%A8s;1099
+Q88413613;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Antoine_Innocent;1964
+Q16029082;;https://fr.wikipedia.org/wiki/Dominique_Batraville;https://ht.wikipedia.org/wiki/Dominique_Batraville;#N/A;3912;2811;;;;;;https://fr.wikipedia.org/wiki/Nassur_Attoumani;8732
+Q3157670;https://en.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier;https://fr.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier;https://ht.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier;3206;3944;910;;;;;;https://ht.wikipedia.org/wiki/Nassur_Attoumani;2963
+Q18575751;;;https://ht.wikipedia.org/wiki/Ren%C3%A9_B%C3%A9lance;#N/A;#N/A;921;;;;;;https://en.wikipedia.org/wiki/Elsie_Augustave;3348
+Q79392218;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Elsie_Augustave;1001
+Q3015752;https://en.wikipedia.org/wiki/Dant%C3%A8s_Bellegarde;https://fr.wikipedia.org/wiki/Dant%C3%A8s_Louis_Bellegarde;https://ht.wikipedia.org/wiki/Dant%C3%A8s_Bellegarde;2835;8765;2178;;;;;;https://ht.wikipedia.org/wiki/Bonel_Auguste;840
+Q12892188;;;https://ht.wikipedia.org/wiki/Jules_Bellerice;#N/A;#N/A;789;;;;;;https://ht.wikipedia.org/wiki/Gary_Augustin;905
+Q12890785;;;https://ht.wikipedia.org/wiki/Franz_Benjamin;#N/A;#N/A;1714;;;;;;https://en.wikipedia.org/wiki/Abdou_Baco;1995
+Q55217164;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Abdou_Baco;691
+Q3309004;;https://fr.wikipedia.org/wiki/Michel_Bertrand_(m%C3%A9decin);;#N/A;3267;#N/A;;;;;;https://en.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my;3441
+Q3123601;https://en.wikipedia.org/wiki/G%C3%A9rald_Bloncourt;https://fr.wikipedia.org/wiki/G%C3%A9rald_Bloncourt;https://ht.wikipedia.org/wiki/G%C3%A9rald_Bloncourt;1932;11209;1319;;;;;;https://fr.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my;5485
+Q55217166;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Mimi_Barth%C3%A9l%C3%A9my;7116
+Q12891871;;;https://ht.wikipedia.org/wiki/Jean-Marie_Bourjolly;#N/A;#N/A;685;;;;;;https://fr.wikipedia.org/wiki/Dominique_Batraville;3912
+Q16946633;;;https://ht.wikipedia.org/wiki/Jean-Pierre_Brax;#N/A;#N/A;9665;;;;;;https://ht.wikipedia.org/wiki/Dominique_Batraville;2811
+Q3165387;https://en.wikipedia.org/wiki/Jean-Fernand_Brierre;https://fr.wikipedia.org/wiki/Jean-Fernand_Brierre;https://ht.wikipedia.org/wiki/Jean-Fernand_Brierre;4620;6832;1151;;;;;;https://en.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier;3206
+Q2938879;https://en.wikipedia.org/wiki/Carl_Brouard;https://fr.wikipedia.org/wiki/Carl_Brouard;https://ht.wikipedia.org/wiki/Carl_Brouard;2448;4515;2066;;;;;;https://fr.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier;3944
+Q39738159;;;https://ht.wikipedia.org/wiki/Emmanuel_Buriez;#N/A;#N/A;2749;;;;;;https://ht.wikipedia.org/wiki/Jacqueline_Beaug%C3%A9-Rosier;910
+Q16946629;;;https://ht.wikipedia.org/wiki/Jean-Max_Calvin;#N/A;#N/A;793;;;;;;https://ht.wikipedia.org/wiki/Ren%C3%A9_B%C3%A9lance;921
+Q953097;https://en.wikipedia.org/wiki/Roussan_Camille;https://fr.wikipedia.org/wiki/Roussan_Camille;https://ht.wikipedia.org/wiki/Roussan_Camille;3459;4170;783;;;;;;https://en.wikipedia.org/wiki/Dant%C3%A8s_Bellegarde;2835
+Q18421742;;;https://ht.wikipedia.org/wiki/Mayotte_Cap%C3%A9cia;#N/A;#N/A;1063;;;;;;https://fr.wikipedia.org/wiki/Dant%C3%A8s_Louis_Bellegarde;8765
+Q12888836;;;https://ht.wikipedia.org/wiki/Charles_Edward_Caplife;#N/A;#N/A;1072;;;;;;https://ht.wikipedia.org/wiki/Dant%C3%A8s_Bellegarde;2178
+Q12894241;;;https://ht.wikipedia.org/wiki/Maurice_Cass%C3%A9us;#N/A;#N/A;853;;;;;;https://ht.wikipedia.org/wiki/Jules_Bellerice;789
+Q12890993;https://en.wikipedia.org/wiki/Georges_Castera;https://fr.wikipedia.org/wiki/Georges_Castera;https://ht.wikipedia.org/wiki/Georges_Castera;2669;16949;3310;;;;;;https://ht.wikipedia.org/wiki/Franz_Benjamin;1714
+Q18642641;;;https://ht.wikipedia.org/wiki/Syto_Cav%C3%A9;#N/A;#N/A;2519;;;;;;https://fr.wikipedia.org/wiki/Michel_Bertrand_(m%C3%A9decin);3267
+Q62577905;https://en.wikipedia.org/wiki/Cl%C3%A9ante_Valcin;;https://ht.wikipedia.org/wiki/Cl%C3%A9ante_Valcin;1831;#N/A;2161;;;;;;https://en.wikipedia.org/wiki/G%C3%A9rald_Bloncourt;1932
+Q12890350;;https://fr.wikipedia.org/wiki/%C3%89mile_C%C3%A9lestin-M%C3%A9gie;https://ht.wikipedia.org/wiki/%C3%89mile_C%C3%A9lestin-M%C3%A9gie;#N/A;3871;1646;;;;;;https://fr.wikipedia.org/wiki/G%C3%A9rald_Bloncourt;11209
+Q18631149;https://en.wikipedia.org/wiki/Myriam_J._A._Chancy;;;5868;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/G%C3%A9rald_Bloncourt;1319
+Q5111758;https://en.wikipedia.org/wiki/Christophe_Charles;https://fr.wikipedia.org/wiki/Christophe_Philippe_Charles;https://ht.wikipedia.org/wiki/Christophe_Charles;1591;4837;3550;;;;;;https://ht.wikipedia.org/wiki/Jean-Marie_Bourjolly;685
+Q12891856;;;https://ht.wikipedia.org/wiki/Jean-Claude_Charles;#N/A;#N/A;812;;;;;;https://ht.wikipedia.org/wiki/Jean-Pierre_Brax;9665
+Q12896026;https://en.wikipedia.org/wiki/Raymond_Chassagne;https://fr.wikipedia.org/wiki/Raymond_Chassagne;https://ht.wikipedia.org/wiki/Raymond_Chassagne;1628;4348;1170;;;;;;https://en.wikipedia.org/wiki/Jean-Fernand_Brierre;4620
+Q11973505;;;;#N/A;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Jean-Fernand_Brierre;6832
+Q20562029;;;https://ht.wikipedia.org/wiki/Romel_Chery;#N/A;#N/A;718;;;;;;https://ht.wikipedia.org/wiki/Jean-Fernand_Brierre;1151
+Q18555690;;;https://ht.wikipedia.org/wiki/Pierre_Clitandre;#N/A;#N/A;2228;;;;;;https://en.wikipedia.org/wiki/Carl_Brouard;2448
+Q3102491;;https://fr.wikipedia.org/wiki/Georges_Cocks;https://ht.wikipedia.org/wiki/Georges_Cocks;#N/A;6154;1798;;;;;;https://fr.wikipedia.org/wiki/Carl_Brouard;4515
+Q3132299;https://en.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon-Hall;https://fr.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon_Hall;https://ht.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon-Hall;2384;6194;1787;;;;;;https://ht.wikipedia.org/wiki/Carl_Brouard;2066
+Q12891886;;;https://ht.wikipedia.org/wiki/Jean_Andr%C3%A9_Constant;#N/A;#N/A;885;;;;;;https://ht.wikipedia.org/wiki/Emmanuel_Buriez;2749
+Q91207438;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Jean-Max_Calvin;793
+Q18084484;;;https://ht.wikipedia.org/wiki/Verly_Dabel;#N/A;#N/A;2179;;;;;;https://en.wikipedia.org/wiki/Roussan_Camille;3459
+Q1315386;https://en.wikipedia.org/wiki/Louis-Philippe_Dalembert;https://fr.wikipedia.org/wiki/Louis-Philippe_Dalembert;https://ht.wikipedia.org/wiki/Louis-Philippe_Dalembert;7814;10839;7983;;;;;;https://fr.wikipedia.org/wiki/Roussan_Camille;4170
+Q47087234;;https://fr.wikipedia.org/wiki/Jean_D%27Am%C3%A9rique;;#N/A;6339;#N/A;;;;;;https://ht.wikipedia.org/wiki/Roussan_Camille;783
+Q450346;https://en.wikipedia.org/wiki/Edwidge_Danticat;https://fr.wikipedia.org/wiki/Edwidge_Danticat;https://ht.wikipedia.org/wiki/Edwidge_Danticat;31591;6676;1157;;;;;;https://ht.wikipedia.org/wiki/Mayotte_Cap%C3%A9cia;1063
+Q7930927;https://en.wikipedia.org/wiki/Villard_Denis;;https://ht.wikipedia.org/wiki/Davertige;1898;#N/A;823;;;;;;https://ht.wikipedia.org/wiki/Charles_Edward_Caplife;1072
+Q59581;https://en.wikipedia.org/wiki/Ren%C3%A9_Depestre;https://fr.wikipedia.org/wiki/Ren%C3%A9_Depestre;https://ht.wikipedia.org/wiki/Ren%C3%A9_Depestre;15223;18853;3657;;;;;;https://ht.wikipedia.org/wiki/Maurice_Cass%C3%A9us;853
+Q18627792;;;https://ht.wikipedia.org/wiki/Sophia_D%C3%A9sir;#N/A;#N/A;3665;;;;;;https://en.wikipedia.org/wiki/Georges_Castera;2669
+Q12893500;https://en.wikipedia.org/wiki/Lilas_Desquiron;;https://ht.wikipedia.org/wiki/Lilas_Desquiron;1665;#N/A;804;;;;;;https://fr.wikipedia.org/wiki/Georges_Castera;16949
+Q55217155;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Georges_Castera;3310
+Q12891968;;;https://ht.wikipedia.org/wiki/Jenner_Desroches;#N/A;#N/A;805;;;;;;https://ht.wikipedia.org/wiki/Syto_Cav%C3%A9;2519
+Q3187394;;https://fr.wikipedia.org/wiki/Jo%C3%ABl_Des_Rosiers;https://ht.wikipedia.org/wiki/Jo%C3%ABl_Des_Rosiers;#N/A;14932;2823;;;;;;https://en.wikipedia.org/wiki/Cl%C3%A9ante_Valcin;1831
+Q16946539;;https://fr.wikipedia.org/wiki/Jan_J._Dominique;https://ht.wikipedia.org/wiki/Jan_J._Dominique;#N/A;7197;791;;;;;;https://ht.wikipedia.org/wiki/Cl%C3%A9ante_Valcin;2161
+Q18412231;;;https://ht.wikipedia.org/wiki/Max_Dorsinville;#N/A;#N/A;1415;;;;;;https://fr.wikipedia.org/wiki/%C3%89mile_C%C3%A9lestin-M%C3%A9gie;3871
+Q2990316;https://en.wikipedia.org/wiki/Roger_Dorsinville;https://fr.wikipedia.org/wiki/Roger_Dorsinville;https://ht.wikipedia.org/wiki/Roger_Dorsinville;2683;6541;989;;;;;;https://ht.wikipedia.org/wiki/%C3%89mile_C%C3%A9lestin-M%C3%A9gie;1646
+Q55217151;;;;#N/A;#N/A;#N/A;;;;;;https://en.wikipedia.org/wiki/Myriam_J._A._Chancy;5868
+Q16946096;;;https://ht.wikipedia.org/wiki/Duccha;#N/A;#N/A;897;;;;;;https://en.wikipedia.org/wiki/Christophe_Charles;1591
+Q3048185;https://en.wikipedia.org/wiki/Edner_Brutus;https://fr.wikipedia.org/wiki/Edner_Brutus;https://ht.wikipedia.org/wiki/Edner_Brutus;1124;2663;992;;;;;;https://fr.wikipedia.org/wiki/Christophe_Philippe_Charles;4837
+Q55217158;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Christophe_Charles;3550
+Q16259761;;https://fr.wikipedia.org/wiki/%C3%89douard_Antonin_Tardieu;;#N/A;3809;#N/A;;;;;;https://ht.wikipedia.org/wiki/Jean-Claude_Charles;812
+Q3488805;;https://fr.wikipedia.org/wiki/Soeuf_Elbadawi;https://ht.wikipedia.org/wiki/Soeuf_Elbadawi;#N/A;12493;1029;;;;;;https://en.wikipedia.org/wiki/Raymond_Chassagne;1628
+Q289255;https://en.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard;https://fr.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard;;11562;36997;#N/A;;;;;;https://fr.wikipedia.org/wiki/Raymond_Chassagne;4348
+Q16946145;;https://fr.wikipedia.org/wiki/Emmanuel_Eug%C3%A8ne;https://ht.wikipedia.org/wiki/Emmanuel_Eug%C3%A8ne;#N/A;2914;1111;;;;;;https://ht.wikipedia.org/wiki/Raymond_Chassagne;1170
+Q18341492;;;https://ht.wikipedia.org/wiki/Marc_Exavier;#N/A;#N/A;804;;;;;;https://ht.wikipedia.org/wiki/Romel_Chery;718
+Q16946185;;;https://ht.wikipedia.org/wiki/Farah-Martine_Lh%C3%A9risson;#N/A;#N/A;1897;;;;;;https://ht.wikipedia.org/wiki/Pierre_Clitandre;2228
+Q12891979;https://en.wikipedia.org/wiki/Jessica_Fi%C3%A8vre;;https://ht.wikipedia.org/wiki/Jessica_Fi%C3%A8vre;3194;#N/A;1071;;;;;;https://fr.wikipedia.org/wiki/Georges_Cocks;6154
+Q3164963;https://en.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9;https://fr.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9;https://ht.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9;1208;4301;2785;;;;;;https://ht.wikipedia.org/wiki/Georges_Cocks;1798
+Q16946574;;;https://ht.wikipedia.org/wiki/Jean_Florival;#N/A;#N/A;789;;;;;;https://en.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon-Hall;2384
+Q96952677;;https://fr.wikipedia.org/wiki/Haveson_Florvil;;#N/A;10251;#N/A;;;;;;https://fr.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon_Hall;6194
+Q12889446;;;https://ht.wikipedia.org/wiki/D%C3%A9ita;#N/A;#N/A;3185;;;;;;https://ht.wikipedia.org/wiki/Marie-Th%C3%A9r%C3%A8se_Colimon-Hall;1787
+Q12890741;;;https://ht.wikipedia.org/wiki/Franck_Fouch%C3%A9;#N/A;#N/A;820;;;;;;https://ht.wikipedia.org/wiki/Jean_Andr%C3%A9_Constant;885
+Q162778;https://en.wikipedia.org/wiki/Frank%C3%A9tienne;https://fr.wikipedia.org/wiki/Frank%C3%A9tienne;https://ht.wikipedia.org/wiki/Frank%C3%A9tienne;4446;14012;3218;;;;;;https://ht.wikipedia.org/wiki/Verly_Dabel;2179
+Q16946141;;;https://ht.wikipedia.org/wiki/Emilie_Franz;#N/A;#N/A;741;;;;;;https://en.wikipedia.org/wiki/Louis-Philippe_Dalembert;7814
+Q12890976;;;https://ht.wikipedia.org/wiki/Genevi%C3%A8ve_Gaillard-Vant%C3%A9;#N/A;#N/A;890;;;;;;https://fr.wikipedia.org/wiki/Louis-Philippe_Dalembert;10839
+Q782156;https://en.wikipedia.org/wiki/Jean-Claude_Garoute;https://fr.wikipedia.org/wiki/Jean-Claude_Garoute;https://ht.wikipedia.org/wiki/Jean-Claude_Garoute_(Tiga);4029;16933;1282;;;;;;https://ht.wikipedia.org/wiki/Louis-Philippe_Dalembert;7983
+Q55725389;;;;#N/A;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Jean_D%27Am%C3%A9rique;6339
+Q12894528;https://en.wikipedia.org/wiki/Mona_Gu%C3%A9rin;;https://ht.wikipedia.org/wiki/Mona_Gu%C3%A9rin;2977;#N/A;2810;;;;;;https://en.wikipedia.org/wiki/Edwidge_Danticat;31591
+Q20559271;;;https://ht.wikipedia.org/wiki/Maude_Heurtelou;#N/A;#N/A;8981;;;;;;https://fr.wikipedia.org/wiki/Edwidge_Danticat;6676
+Q3828146;;https://fr.wikipedia.org/wiki/Lawrence_Hill_(basket-ball);;#N/A;3222;#N/A;;;;;;https://ht.wikipedia.org/wiki/Edwidge_Danticat;1157
+Q16946779;https://en.wikipedia.org/wiki/La%C3%ABnnec_Hurbon;;https://ht.wikipedia.org/wiki/La%C3%ABnnec_Hurbon;4622;#N/A;1788;;;;;;https://en.wikipedia.org/wiki/Villard_Denis;1898
+Q16946660;;;https://ht.wikipedia.org/wiki/Joanne_Hyppolite;#N/A;#N/A;755;;;;;;https://ht.wikipedia.org/wiki/Davertige;823
+Q3147761;https://en.wikipedia.org/wiki/Ida_Faubert;https://fr.wikipedia.org/wiki/Ida_Faubert;https://ht.wikipedia.org/wiki/Ida_Faubert;9994;3912;3223;;;;;;https://en.wikipedia.org/wiki/Ren%C3%A9_Depestre;15223
+Q96198910;;https://fr.wikipedia.org/wiki/Jean_Emmanuel_Jacquet;;#N/A;5144;#N/A;;;;;;https://fr.wikipedia.org/wiki/Ren%C3%A9_Depestre;18853
+Q3571564;;https://fr.wikipedia.org/wiki/Yanick_Jean;;#N/A;5964;#N/A;;;;;;https://ht.wikipedia.org/wiki/Ren%C3%A9_Depestre;3657
+Q3045911;https://en.wikipedia.org/wiki/Jean_Price-Mars;https://fr.wikipedia.org/wiki/Jean_Price_Mars;https://ht.wikipedia.org/wiki/Jean_Price-Mars;7853;9407;3000;;;;;;https://ht.wikipedia.org/wiki/Sophia_D%C3%A9sir;3665
+Q55217152;;;;#N/A;#N/A;#N/A;;;;;;https://en.wikipedia.org/wiki/Lilas_Desquiron;1665
+Q12898302;;;https://ht.wikipedia.org/wiki/Wiener_Kerns_Fleurimond;#N/A;#N/A;5658;;;;;;https://ht.wikipedia.org/wiki/Lilas_Desquiron;804
+Q3098578;https://en.wikipedia.org/wiki/Gary_Klang;https://fr.wikipedia.org/wiki/Gary_Klang;https://ht.wikipedia.org/wiki/Gary_Klang;7800;10270;6712;;;;;;https://ht.wikipedia.org/wiki/Jenner_Desroches;805
+Q12896004;;;https://ht.wikipedia.org/wiki/Rassoul_Labuchin;#N/A;#N/A;1293;;;;;;https://fr.wikipedia.org/wiki/Jo%C3%ABl_Des_Rosiers;14932
+Q1165217;https://en.wikipedia.org/wiki/Dany_Laferri%C3%A8re;https://fr.wikipedia.org/wiki/Dany_Laferri%C3%A8re;https://ht.wikipedia.org/wiki/Dany_Laferri%C3%A8re;9653;42313;5774;;;;;;https://ht.wikipedia.org/wiki/Jo%C3%ABl_Des_Rosiers;2823
+Q3086821;;https://fr.wikipedia.org/wiki/Fred_Edson_Lafortune;https://ht.wikipedia.org/wiki/Fred_Edson_Lafortune;#N/A;7082;3745;;;;;;https://fr.wikipedia.org/wiki/Jan_J._Dominique;7197
+Q12887205;;;https://ht.wikipedia.org/wiki/Alex_Laguerre;#N/A;#N/A;2306;;;;;;https://ht.wikipedia.org/wiki/Jan_J._Dominique;791
+Q2599418;https://en.wikipedia.org/wiki/Yanick_Lahens;https://fr.wikipedia.org/wiki/Yanick_Lahens;https://ht.wikipedia.org/wiki/Yanick_Lahens;5379;11442;3834;;;;;;https://ht.wikipedia.org/wiki/Max_Dorsinville;1415
+Q3371635;;https://fr.wikipedia.org/wiki/Paul_Laraque;https://ht.wikipedia.org/wiki/Paul_Laraque;#N/A;2267;808;;;;;;https://en.wikipedia.org/wiki/Roger_Dorsinville;2683
+Q531431;https://en.wikipedia.org/wiki/Josaphat-Robert_Large;https://fr.wikipedia.org/wiki/Josaphat-Robert_Large;https://ht.wikipedia.org/wiki/Josaphat-Robert_Large;10673;10083;7217;;;;;;https://fr.wikipedia.org/wiki/Roger_Dorsinville;6541
+Q18341665;;;https://ht.wikipedia.org/wiki/Marc_Laroche;#N/A;#N/A;1907;;;;;;https://ht.wikipedia.org/wiki/Roger_Dorsinville;989
+Q18926023;;https://fr.wikipedia.org/wiki/Maximilien_Laroche;https://ht.wikipedia.org/wiki/Maximilien_Laroche;#N/A;31447;11529;;;;;;https://ht.wikipedia.org/wiki/Duccha;897
+Q12889499;;;https://ht.wikipedia.org/wiki/Denize_Lauture;#N/A;#N/A;1176;;;;;;https://en.wikipedia.org/wiki/Edner_Brutus;1124
+Q55217112;;https://fr.wikipedia.org/wiki/Coutech%C3%A8ve_Lavoie_Aupont;https://ht.wikipedia.org/wiki/Coutech%C3%A8ve_Lavoie_Aupont;#N/A;3693;1967;;;;;;https://fr.wikipedia.org/wiki/Edner_Brutus;2663
+Q16946241;;;https://ht.wikipedia.org/wiki/Frantz_Leconte;#N/A;#N/A;1061;;;;;;https://ht.wikipedia.org/wiki/Edner_Brutus;992
+Q12897255;;https://fr.wikipedia.org/wiki/Serge_Legagneur;https://ht.wikipedia.org/wiki/Serge_Legagneur;#N/A;3901;1372;;;;;;https://fr.wikipedia.org/wiki/%C3%89douard_Antonin_Tardieu;3809
+Q26252366;;;;#N/A;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Soeuf_Elbadawi;12493
+Q3271119;https://en.wikipedia.org/wiki/Leon_Laleau;https://fr.wikipedia.org/wiki/L%C3%A9on_Laleau;https://ht.wikipedia.org/wiki/L%C3%A9on_Laleau;3468;4137;1442;;;;;;https://ht.wikipedia.org/wiki/Soeuf_Elbadawi;1029
+Q3169950;;https://fr.wikipedia.org/wiki/Jean-Robert_L%C3%A9onidas;https://ht.wikipedia.org/wiki/Jean-Robert_L%C3%A9onidas;#N/A;7062;6381;;;;;;https://en.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard;11562
+Q47571408;https://en.wikipedia.org/wiki/Nadine_Magloire;;;2232;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard;36997
+Q2980637;;https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude;https://ht.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude;#N/A;3742;1060;;;;;;https://fr.wikipedia.org/wiki/Emmanuel_Eug%C3%A8ne;2914
+Q12887389;;;https://ht.wikipedia.org/wiki/Angelucci_Manigat,_Jr.;#N/A;#N/A;795;;;;;;https://ht.wikipedia.org/wiki/Emmanuel_Eug%C3%A8ne;1111
+Q3195618;https://en.wikipedia.org/wiki/Kettly_Mars;https://fr.wikipedia.org/wiki/Kettly_Mars;https://ht.wikipedia.org/wiki/Kettly_Mars;9651;6812;4034;;;;;;https://ht.wikipedia.org/wiki/Marc_Exavier;804
+Q18636498;;;https://ht.wikipedia.org/wiki/Stephane_Martelly;#N/A;#N/A;3060;;;;;;https://ht.wikipedia.org/wiki/Farah-Martine_Lh%C3%A9risson;1897
+Q12894146;https://en.wikipedia.org/wiki/Martha_Jean-Claude;;https://ht.wikipedia.org/wiki/Martha_Jean-Claude;3820;#N/A;2163;;;;;;https://en.wikipedia.org/wiki/Jessica_Fi%C3%A8vre;3194
+Q468040;https://en.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu;https://fr.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu;https://ht.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu;2663;6796;2174;;;;;;https://ht.wikipedia.org/wiki/Jessica_Fi%C3%A8vre;1071
+Q83521548;;https://fr.wikipedia.org/wiki/Rodolphe_Mathurin;;#N/A;3884;#N/A;;;;;;https://en.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9;1208
+Q12890330;;;https://ht.wikipedia.org/wiki/Elvire_Maurouard;#N/A;#N/A;3895;;;;;;https://fr.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9;4301
+Q3173661;https://en.wikipedia.org/wiki/Jean_Metellus;https://fr.wikipedia.org/wiki/Jean_M%C3%A9tellus;https://ht.wikipedia.org/wiki/Jean_Metellus;2833;8799;4450;;;;;;https://ht.wikipedia.org/wiki/Jean-Claude_Fignol%C3%A9;2785
+Q5370358;https://en.wikipedia.org/wiki/Emeline_Michel;https://fr.wikipedia.org/wiki/%C3%89meline_Michel;https://ht.wikipedia.org/wiki/Emeline_Michel;2034;13575;3647;;;;;;https://ht.wikipedia.org/wiki/Jean_Florival;789
+Q12891863;;https://fr.wikipedia.org/wiki/Jean-Euph%C3%A8le_Milc%C3%A9;https://ht.wikipedia.org/wiki/Jean-Euph%C3%A8le_Milc%C3%A9;#N/A;6150;2145;;;;;;https://fr.wikipedia.org/wiki/Haveson_Florvil;10251
+Q6522408;https://en.wikipedia.org/wiki/Lenelle_Mo%C3%AFse;;https://ht.wikipedia.org/wiki/Lenelle_Mo%C3%AFse;4600;#N/A;1500;;;;;;https://ht.wikipedia.org/wiki/D%C3%A9ita;3185
+Q6836494;https://en.wikipedia.org/wiki/Michel_Monnin;;;1205;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Franck_Fouch%C3%A9;820
+Q12896340;;;https://ht.wikipedia.org/wiki/Roland_Morisseau;#N/A;#N/A;737;;;;;;https://en.wikipedia.org/wiki/Frank%C3%A9tienne;4446
+Q1363088;https://en.wikipedia.org/wiki/F%C3%A9lix_Morisseau-Leroy;https://fr.wikipedia.org/wiki/F%C3%A9lix_Morisseau-Leroy;https://ht.wikipedia.org/wiki/Felix_Morisseau-Leroy;8296;5539;1838;;;;;;https://fr.wikipedia.org/wiki/Frank%C3%A9tienne;14012
+Q55217260;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Frank%C3%A9tienne;3218
+Q3161308;https://en.wikipedia.org/wiki/James_No%C3%ABl_(poet);https://fr.wikipedia.org/wiki/James_No%C3%ABl;https://ht.wikipedia.org/wiki/James_No%C3%ABl;2784;12200;4469;;;;;;https://ht.wikipedia.org/wiki/Emilie_Franz;741
+Q286293;https://en.wikipedia.org/wiki/%C3%89mile_Ollivier;https://fr.wikipedia.org/wiki/%C3%89mile_Ollivier_(homme_politique);;18163;22479;#N/A;;;;;;https://ht.wikipedia.org/wiki/Genevi%C3%A8ve_Gaillard-Vant%C3%A9;890
+Q3280752;;https://fr.wikipedia.org/wiki/Makenzy_Orcel;https://ht.wikipedia.org/wiki/Makenzy_Orcel;#N/A;5100;3243;;;;;;https://en.wikipedia.org/wiki/Jean-Claude_Garoute;4029
+Q55217189;;https://fr.wikipedia.org/wiki/Il%C3%A9us_Papillon;https://ht.wikipedia.org/wiki/Il%C3%A9us_Papillon;#N/A;4022;3860;;;;;;https://fr.wikipedia.org/wiki/Jean-Claude_Garoute;16933
+Q12894055;;;https://ht.wikipedia.org/wiki/Margaret_Papillon;#N/A;#N/A;1104;;;;;;https://ht.wikipedia.org/wiki/Jean-Claude_Garoute_(Tiga);1282
+Q18607375;;;https://ht.wikipedia.org/wiki/Roland_Paret;#N/A;#N/A;1186;;;;;;https://en.wikipedia.org/wiki/Mona_Gu%C3%A9rin;2977
+Q12890543;;;https://ht.wikipedia.org/wiki/Fabienne_Pasquet;#N/A;#N/A;952;;;;;;https://ht.wikipedia.org/wiki/Mona_Gu%C3%A9rin;2810
+Q12891869;;;https://ht.wikipedia.org/wiki/Jean-Marc_Pasquet;#N/A;#N/A;737;;;;;;https://ht.wikipedia.org/wiki/Maude_Heurtelou;8981
+Q12888685;;;https://ht.wikipedia.org/wiki/Cauvin_Paul;#N/A;#N/A;829;;;;;;https://fr.wikipedia.org/wiki/Lawrence_Hill_(basket-ball);3222
+Q3496855;;https://fr.wikipedia.org/wiki/Stanley_P%C3%A9an;https://ht.wikipedia.org/wiki/Stanley_P%C3%A9an;#N/A;14474;3516;;;;;;https://en.wikipedia.org/wiki/La%C3%ABnnec_Hurbon;4622
+Q2852916;;https://fr.wikipedia.org/wiki/Anthony_Phelps;https://ht.wikipedia.org/wiki/Anthony_Phelps;#N/A;16675;13349;;;;;;https://ht.wikipedia.org/wiki/La%C3%ABnnec_Hurbon;1788
+Q3045950;https://en.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te;https://fr.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te;https://ht.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te;1651;5570;3188;;;;;;https://ht.wikipedia.org/wiki/Joanne_Hyppolite;755
+Q2977119;;https://fr.wikipedia.org/wiki/Claude_C._Pierre;https://ht.wikipedia.org/wiki/Claude_Pierre;#N/A;3999;2772;;;;;;https://en.wikipedia.org/wiki/Ida_Faubert;9994
+Q55217188;;;;#N/A;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Ida_Faubert;3912
+Q12895266;https://en.wikipedia.org/wiki/Paulette_Poujol-Oriol;;https://ht.wikipedia.org/wiki/Paulette_Poujol_Oriol;8460;#N/A;1566;;;;;;https://ht.wikipedia.org/wiki/Ida_Faubert;3223
+Q3053007;https://en.wikipedia.org/wiki/Emmelie_Proph%C3%A8te;https://fr.wikipedia.org/wiki/Emmelie_Proph%C3%A8te;https://ht.wikipedia.org/wiki/Emmelie_Proph%C3%A8te;2360;4337;2597;;;;;;https://fr.wikipedia.org/wiki/Jean_Emmanuel_Jacquet;5144
+Q2396474;;https://fr.wikipedia.org/wiki/Guy_Junior_R%C3%A9gis;https://ht.wikipedia.org/wiki/Guy_Junior_R%C3%A9gis;#N/A;15312;2706;;;;;;https://fr.wikipedia.org/wiki/Yanick_Jean;5964
+Q2837289;;https://fr.wikipedia.org/wiki/Alix_Renaud;https://ht.wikipedia.org/wiki/Alix_Renaud;#N/A;13126;3952;;;;;;https://en.wikipedia.org/wiki/Jean_Price-Mars;7853
+Q79392504;;;;#N/A;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Jean_Price_Mars;9407
+Q12894134;https://en.wikipedia.org/wiki/Marl%C3%A8ne_Rigaud_Apollon;;https://ht.wikipedia.org/wiki/Marl%C3%A8ne_Rigaud_Apollon;2713;#N/A;1369;;;;;;https://ht.wikipedia.org/wiki/Jean_Price-Mars;3000
+Q3438996;https://en.wikipedia.org/wiki/Roger_Gaillard_(historian);https://fr.wikipedia.org/wiki/Roger_Gaillard_(historien_ha%C3%AFtien);https://ht.wikipedia.org/wiki/Roger_Gaillard;1850;3191;1624;;;;;;https://ht.wikipedia.org/wiki/Wiener_Kerns_Fleurimond;5658
+Q1356852;https://en.wikipedia.org/wiki/Jacques_Roumain;https://fr.wikipedia.org/wiki/Jacques_Roumain;https://ht.wikipedia.org/wiki/Jacques_Roumain;8981;10198;7845;;;;;;https://en.wikipedia.org/wiki/Gary_Klang;7800
+Q3045906;https://en.wikipedia.org/wiki/%C3%89mile_Roumer;https://fr.wikipedia.org/wiki/%C3%89mile_Roumer;https://ht.wikipedia.org/wiki/%C3%89mile_Roumer;1671;5529;1841;;;;;;https://fr.wikipedia.org/wiki/Gary_Klang;10270
+Q18528616;https://en.wikipedia.org/wiki/Odette_Roy_Fombrun;;https://ht.wikipedia.org/wiki/Odette_Roy_Fombrun;3812;#N/A;4983;;;;;;https://ht.wikipedia.org/wiki/Gary_Klang;6712
+Q3048259;https://en.wikipedia.org/wiki/Edris_Saint-Amand;https://fr.wikipedia.org/wiki/Edris_Saint-Amand;https://ht.wikipedia.org/wiki/Edris_Saint-Amand;1123;4911;831;;;;;;https://ht.wikipedia.org/wiki/Rassoul_Labuchin;1293
+Q3438235;https://en.wikipedia.org/wiki/Rodney_Saint-%C3%89loi;https://fr.wikipedia.org/wiki/Rodney_Saint-%C3%89loi;https://ht.wikipedia.org/wiki/Rodney_Saint-%C3%89loi;2505;6059;1185;;;;;;https://en.wikipedia.org/wiki/Dany_Laferri%C3%A8re;9653
+Q26252340;;https://fr.wikipedia.org/wiki/Jacqueline_Scott-Lemoine;https://ht.wikipedia.org/wiki/Jacqueline_Scott-Lemoine;#N/A;7059;805;;;;;;https://fr.wikipedia.org/wiki/Dany_Laferri%C3%A8re;42313
+Q3301423;https://en.wikipedia.org/wiki/Maurice_Sixto;https://fr.wikipedia.org/wiki/Maurice_Sixto;https://ht.wikipedia.org/wiki/Maurice_Sixto;3745;2676;5312;;;;;;https://ht.wikipedia.org/wiki/Dany_Laferri%C3%A8re;5774
+Q55217215;;;;#N/A;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Fred_Edson_Lafortune;7082
+Q12890326;https://en.wikipedia.org/wiki/Elsie_Sur%C3%A9na;;https://ht.wikipedia.org/wiki/Elsie_Surena;3380;#N/A;1367;;;;;;https://ht.wikipedia.org/wiki/Fred_Edson_Lafortune;3745
+Q12897540;https://en.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain;https://fr.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain;https://ht.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain;9945;9430;4730;;;;;;https://ht.wikipedia.org/wiki/Alex_Laguerre;2306
+Q3162015;;https://fr.wikipedia.org/wiki/Janine_Tavernier;;#N/A;4916;#N/A;;;;;;https://en.wikipedia.org/wiki/Yanick_Lahens;5379
+Q12894088;https://en.wikipedia.org/wiki/Marie-Alice_Th%C3%A9ard;;https://ht.wikipedia.org/wiki/Marie-Alice_Th%C3%A9ard;2493;#N/A;1206;;;;;;https://fr.wikipedia.org/wiki/Yanick_Lahens;11442
+Q3380772;https://en.wikipedia.org/wiki/Philippe_Thoby-Marcelin;https://fr.wikipedia.org/wiki/Philippe_Thoby-Marcelin;https://ht.wikipedia.org/wiki/Philippe_Thoby-Marcelin;4153;4802;843;;;;;;https://ht.wikipedia.org/wiki/Yanick_Lahens;3834
+Q12890535;https://en.wikipedia.org/wiki/%C3%89velyne_Trouillot;https://fr.wikipedia.org/wiki/%C3%89velyne_Trouillot;https://ht.wikipedia.org/wiki/%C3%89velyne_Trouillot;4853;5739;2448;;;;;;https://fr.wikipedia.org/wiki/Paul_Laraque;2267
+Q637689;https://en.wikipedia.org/wiki/Lyonel_Trouillot;https://fr.wikipedia.org/wiki/Lyonel_Trouillot;https://ht.wikipedia.org/wiki/Lyonel_Trouillot;6134;10179;7938;;;;;;https://ht.wikipedia.org/wiki/Paul_Laraque;808
+Q3098632;https://en.wikipedia.org/wiki/Gary_Victor;https://fr.wikipedia.org/wiki/Gary_Victor;https://ht.wikipedia.org/wiki/Gary_Victor;3821;8831;5718;;;;;;https://en.wikipedia.org/wiki/Josaphat-Robert_Large;10673
+Q3292853;https://en.wikipedia.org/wiki/Marie_Vieux_Chauvet;https://fr.wikipedia.org/wiki/Marie_Vieux-Chauvet;https://ht.wikipedia.org/wiki/Marie_Vieux-Chauvet;7036;5583;9522;;;;;;https://fr.wikipedia.org/wiki/Josaphat-Robert_Large;10083
+Q18461233;;;https://ht.wikipedia.org/wiki/Mich%C3%A8le_Voltaire-Marcelin;#N/A;#N/A;895;;;;;;https://ht.wikipedia.org/wiki/Josaphat-Robert_Large;7217
+Q3059438;https://en.wikipedia.org/wiki/Etzer_Vilaire;https://fr.wikipedia.org/wiki/Etzer_Vilaire;https://ht.wikipedia.org/wiki/Etzer_Vilaire;1834;3732;3404;;;;;;https://ht.wikipedia.org/wiki/Marc_Laroche;1907
+Q18808886;https://en.wikipedia.org/wiki/Assotto_Saint;;;6919;#N/A;#N/A;;;;;;https://fr.wikipedia.org/wiki/Maximilien_Laroche;31447
+Q2837287;https://en.wikipedia.org/wiki/Alix_Mathon;https://fr.wikipedia.org/wiki/Alix_Mathon;https://ht.wikipedia.org/wiki/Alix_Mathon;1586;5040;853;;;;;;https://ht.wikipedia.org/wiki/Maximilien_Laroche;11529
+Q6169086;https://en.wikipedia.org/wiki/Jean-Claude_Bajeux;https://fr.wikipedia.org/wiki/Jean-Claude_Bajeux;https://ht.wikipedia.org/wiki/Jean-Claude_Bajeux;13483;7730;1284;;;;;;https://ht.wikipedia.org/wiki/Denize_Lauture;1176
+Q18214907;;https://fr.wikipedia.org/wiki/Dominique_Hippolyte;;#N/A;4919;#N/A;;;;;;https://fr.wikipedia.org/wiki/Coutech%C3%A8ve_Lavoie_Aupont;3693
+Q16946741;https://en.wikipedia.org/wiki/Kern_Delince;;https://ht.wikipedia.org/wiki/Kern_Delince;9642;#N/A;795;;;;;;https://ht.wikipedia.org/wiki/Coutech%C3%A8ve_Lavoie_Aupont;1967
+Q15783722;;;;#N/A;#N/A;#N/A;;;;;;https://ht.wikipedia.org/wiki/Frantz_Leconte;1061
+Q18396644;;https://fr.wikipedia.org/wiki/Maurice_Cadet;https://ht.wikipedia.org/wiki/Maurice_Cadet;#N/A;6082;4407;;;;;;https://fr.wikipedia.org/wiki/Serge_Legagneur;3901
+Q3159899;https://en.wikipedia.org/wiki/Jacques_Roche;https://fr.wikipedia.org/wiki/Jacques_Roche;https://ht.wikipedia.org/wiki/Jacques_Roche;9959;2539;801;;;;;;https://ht.wikipedia.org/wiki/Serge_Legagneur;1372
+Q470492;https://en.wikipedia.org/wiki/Leslie_Manigat;https://fr.wikipedia.org/wiki/Leslie_Manigat;https://ht.wikipedia.org/wiki/Leslie_Manigat;6205;9822;1389;;;;;;https://en.wikipedia.org/wiki/Leon_Laleau;3468
+Q886213;https://en.wikipedia.org/wiki/St%C3%A9nio_Vincent;https://fr.wikipedia.org/wiki/St%C3%A9nio_Vincent;https://ht.wikipedia.org/wiki/St%C3%A9nio_Vincent;5079;12736;1585;;;;;;https://fr.wikipedia.org/wiki/L%C3%A9on_Laleau;4137
+Q3709714;https://en.wikipedia.org/wiki/Nemours_Jean-Baptiste;;https://ht.wikipedia.org/wiki/Nemours_Jean_Baptiste;3230;#N/A;2119;;;;;;https://ht.wikipedia.org/wiki/L%C3%A9on_Laleau;1442
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jean-Robert_L%C3%A9onidas;7062
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jean-Robert_L%C3%A9onidas;6381
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Nadine_Magloire;2232
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude;3742
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude;1060
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Angelucci_Manigat,_Jr.;795
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Kettly_Mars;9651
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Kettly_Mars;6812
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Kettly_Mars;4034
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Stephane_Martelly;3060
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Martha_Jean-Claude;3820
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Martha_Jean-Claude;2163
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu;2663
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu;6796
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Marie-S%C5%93urette_Mathieu;2174
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Rodolphe_Mathurin;3884
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Elvire_Maurouard;3895
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Jean_Metellus;2833
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jean_M%C3%A9tellus;8799
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jean_Metellus;4450
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Emeline_Michel;2034
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/%C3%89meline_Michel;13575
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Emeline_Michel;3647
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jean-Euph%C3%A8le_Milc%C3%A9;6150
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jean-Euph%C3%A8le_Milc%C3%A9;2145
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Lenelle_Mo%C3%AFse;4600
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Lenelle_Mo%C3%AFse;1500
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Michel_Monnin;1205
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Roland_Morisseau;737
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/F%C3%A9lix_Morisseau-Leroy;8296
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/F%C3%A9lix_Morisseau-Leroy;5539
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Felix_Morisseau-Leroy;1838
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/James_No%C3%ABl_(poet);2784
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/James_No%C3%ABl;12200
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/James_No%C3%ABl;4469
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/%C3%89mile_Ollivier;18163
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/%C3%89mile_Ollivier_(homme_politique);22479
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Makenzy_Orcel;5100
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Makenzy_Orcel;3243
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Il%C3%A9us_Papillon;4022
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Il%C3%A9us_Papillon;3860
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Margaret_Papillon;1104
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Roland_Paret;1186
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Fabienne_Pasquet;952
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jean-Marc_Pasquet;737
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Cauvin_Paul;829
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Stanley_P%C3%A9an;14474
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Stanley_P%C3%A9an;3516
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Anthony_Phelps;16675
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Anthony_Phelps;13349
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te;1651
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te;5570
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Ren%C3%A9_Philoct%C3%A8te;3188
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Claude_C._Pierre;3999
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Claude_Pierre;2772
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Paulette_Poujol-Oriol;8460
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Paulette_Poujol_Oriol;1566
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Emmelie_Proph%C3%A8te;2360
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Emmelie_Proph%C3%A8te;4337
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Emmelie_Proph%C3%A8te;2597
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Guy_Junior_R%C3%A9gis;15312
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Guy_Junior_R%C3%A9gis;2706
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Alix_Renaud;13126
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Alix_Renaud;3952
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Marl%C3%A8ne_Rigaud_Apollon;2713
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Marl%C3%A8ne_Rigaud_Apollon;1369
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Roger_Gaillard_(historian);1850
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Roger_Gaillard_(historien_ha%C3%AFtien);3191
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Roger_Gaillard;1624
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Jacques_Roumain;8981
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jacques_Roumain;10198
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jacques_Roumain;7845
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/%C3%89mile_Roumer;1671
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/%C3%89mile_Roumer;5529
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/%C3%89mile_Roumer;1841
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Odette_Roy_Fombrun;3812
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Odette_Roy_Fombrun;4983
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Edris_Saint-Amand;1123
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Edris_Saint-Amand;4911
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Edris_Saint-Amand;831
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Rodney_Saint-%C3%89loi;2505
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Rodney_Saint-%C3%89loi;6059
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Rodney_Saint-%C3%89loi;1185
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jacqueline_Scott-Lemoine;7059
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jacqueline_Scott-Lemoine;805
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Maurice_Sixto;3745
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Maurice_Sixto;2676
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Maurice_Sixto;5312
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Elsie_Sur%C3%A9na;3380
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Elsie_Surena;1367
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain;9945
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain;9430
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Suzanne_Comhaire-Sylvain;4730
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Janine_Tavernier;4916
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Marie-Alice_Th%C3%A9ard;2493
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Marie-Alice_Th%C3%A9ard;1206
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Philippe_Thoby-Marcelin;4153
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Philippe_Thoby-Marcelin;4802
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Philippe_Thoby-Marcelin;843
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/%C3%89velyne_Trouillot;4853
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/%C3%89velyne_Trouillot;5739
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/%C3%89velyne_Trouillot;2448
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Lyonel_Trouillot;6134
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Lyonel_Trouillot;10179
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Lyonel_Trouillot;7938
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Gary_Victor;3821
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Gary_Victor;8831
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Gary_Victor;5718
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Marie_Vieux_Chauvet;7036
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Marie_Vieux-Chauvet;5583
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Marie_Vieux-Chauvet;9522
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Mich%C3%A8le_Voltaire-Marcelin;895
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Etzer_Vilaire;1834
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Etzer_Vilaire;3732
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Etzer_Vilaire;3404
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Assotto_Saint;6919
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Alix_Mathon;1586
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Alix_Mathon;5040
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Alix_Mathon;853
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Jean-Claude_Bajeux;13483
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jean-Claude_Bajeux;7730
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jean-Claude_Bajeux;1284
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Dominique_Hippolyte;4919
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Kern_Delince;9642
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Kern_Delince;795
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Maurice_Cadet;6082
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Maurice_Cadet;4407
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Jacques_Roche;9959
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Jacques_Roche;2539
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Jacques_Roche;801
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Leslie_Manigat;6205
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/Leslie_Manigat;9822
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Leslie_Manigat;1389
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/St%C3%A9nio_Vincent;5079
+;;;;;;;;;;;;https://fr.wikipedia.org/wiki/St%C3%A9nio_Vincent;12736
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/St%C3%A9nio_Vincent;1585
+;;;;;;;;;;;;https://en.wikipedia.org/wiki/Nemours_Jean-Baptiste;3230
+;;;;;;;;;;;;https://ht.wikipedia.org/wiki/Nemours_Jean_Baptiste;2119

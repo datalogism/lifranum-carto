@@ -84,6 +84,7 @@ import time
 url="https://query.wikidata.org/bigdata/namespace/wdq/sparql"
 
 corpus_wikidata={}
+
 for id_clean in list_clean_wiki_id:
     if(id_clean not in corpus_wikidata.keys()):
         corpus_wikidata[id_clean]={'wikipage_en':"",'wikipage_fr':'','wikipage_ht':'',"search":True}
@@ -128,9 +129,10 @@ def load_page(url):
 
 from bs4 import BeautifulSoup
 lang_list=["en","fr","ht"]
-for row in corpus_wikidata:
+for k in corpus_wikidata.keys():
     for lang in lang_list:
-        url=row["wikipage_"+lang]
+        url=corpus_wikidata[k]["wikipage_"+lang]
+        corpus_wikidata[k]["wikipage_"+lang+"_len"]=0
         if(url!=""):
             time.sleep(2)
             print(url)
@@ -141,14 +143,18 @@ for row in corpus_wikidata:
             text=content.get_text()
             print(len(text))
             if(len(text)>0):
-                current["wiki_id"]=row["Wiki_ID"]
-                current["wiki_url"]=row["wikipage_"+lang]
+                current["wiki_id"]=k
+                current["wiki_url"]=corpus_wikidata[k]["wikipage_"+lang]
                 current["wiki_content"]=text
-                row["wikipage_"+lang+"_len"]=len(text)
+                current["wikipage_"+lang+"_len"]=len(text)
                 wikipages_content.append(current)
+wikipages_content2=[]
+for row in wikipages_content:
+    current={'wiki_id':row["wiki_id"], 'wiki_url':row['wiki_url'], 'len':row["wikipage_"+row["lang"]+"_len"]}
+    wikipages_content2.append(current)
 
 import pandas as pd
-wikipages_content_df = pd.DataFrame(wikipages_content)
+wikipages_content_df = pd.DataFrame(wikipages_content2)
 wikipages_content_df.to_csv('C:/Users/Celian/Desktop/lifranum_carto/next_work_openrefine/wikipages_content.csv')
 
 corpus_wikidata_df = pd.DataFrame(corpus_wikidata)
