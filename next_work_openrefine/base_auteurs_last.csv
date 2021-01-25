@@ -1,0 +1,209 @@
+﻿ID;Nom;Prenoms;sex or gender;spla_pro;Ile_en_Ile;date of birth;place of birth;country_birth;date of death;place of death;country_death;country of citizenship;occupation;languages;ORCID iD;Wiki_ID;ISNI;VIAF
+AU1;Accilien;Cécile;female;cecile-accilien_22014;;1973;;;;;;"United States of America;Haiti";researcher;English;;;0000 0000 7103 8269;121070806
+AU2;Accilien;Selmy;male;;;24/12/1992;Gonaïves;Haiti;;;;Haiti;"poet;writer";Haitian Creole;;Q61108056;0000 0004 5970 9209;1,07E+20
+AU3;Adodo;Marie Ketline;female;ketline-adodo_33977;;07/01/1953;Jacmel;Haiti;;;;"Haiti;Togo";"poet;writer";;;;0000 0000 0101 9820;51854910
+AU4;Agnant;Marie-Célie;female;marie-celie-agnant_5619;agnant;01/01/1953;Port-au-Prince;Haiti;;;;Canada;"poet;writer;novelist";French;;Q3291756;0000 0000 7731 5095;17470529
+AU5;Alexis;Jacques-Stephen;male;jacques-stephen-alexis_5849;alexis_jacques-stephen;22/04/1922;Gonaïves;Haiti;01/04/1961;Haiti;Haiti;Haiti;"politician;writer;novelist;poet;neurologist";French;;Q3031679;"0000 0003 6864 3558; 0000 0001 2137 9361";68924500
+AU6;Andou;Ange Bellie;female;ange-bellie-andou_40341;;;;;;;;Haïti;"novelist;writer;actor";French;;;;121606842
+AU7;Anglade;Georges;male;georges-anglade_14050;anglade;18/07/1944;Port-au-Prince;Haiti;12/01/2010;Port-au-Prince;Haiti;Haiti;"geographer;politician;writer;university teacher";French;;Q1508785;0000 0001 2129 0383;39504226
+AU8;Apollon;Pascal;male;;;16/06/1994;;;;;;Haiti;"poet;writer";French;;;0000 0004 7421 4140 ;
+AU9;Armand;Margaret Mitchell;female;margaret-mitchell-armand_39598;;;;;;;;"United States of America;Haiti";researcher;English;;;;1,54E+20
+AU10;Attilus;Rhoddy;male;rhoddy-attilus_43531;;1975;;;;;;Haïti;novelist;Haitian Creole;;;;1,54E+20
+AU11;Attoumani;Nassur;male;nassur-attoumani_14082;attoumani;05/03/1954;Moroni;Comoros;;;;France;"writer;playwright";French;;Q3336266;0000 0000 8254 9558;67607725
+AU12;Augustave;Elsie;female;elsie-augustave_39629;;;Haiti;Haiti;;;;"Haiti;United States of America";"author;choreographer";;;Q19663803;;
+AU13;Auguste;Bonel;male;bonel-auguste_14053;auguste;06/03/1973;Port-au-Prince;Haiti;;;;Haiti;librarian;French;;Q16945858;0000 0004 1018 7235;304726217
+AU14;Augustin;Gary;male;gary-augustin_14054;augustin;01/01/1958;Port-au-Prince;Haiti;01/01/2014;;;Haiti;writer;;;Q16946325;0000 0000 3524 7848;23875210
+AU15;Azor;Rodianco Fils;male;rodianco-fils-azor_32629;;1990;;;;;;Haïti;"poet;novelist";;;;;
+AU16;Baco;Abdou S. ;male;abdou-s-baco_14055;baco;06/01/1965;Mayotte;France;;;;France;writer;French;;Q4665140;0000 0001 1473 2868;59132516
+AU17;Barthélémy;Elodie;female;elodie-barthelemy_4122;;1965;;;;;;"Haïti;France";researcher;;;;;1,90E+21
+AU18;Barthélémy;Mimi;female;;barthelemy;03/05/1939;Port-au-Prince;Haiti;27/04/2013;Paris;France;Haiti;"writer;novelist;actor";French;;Q16266631;0000 0001 2122 3252;17257872
+AU19;Bastien;Barbara;female;barbara-bastien_39632;;;;;;;;;researcher;;0000-0003-3446-894X;Q88413613;;
+AU20;Batraville;Frantz Dominique;male;frantz-dominique-batraville_9813;batraville;20/02/1962;Port-au-Prince;Haiti;;;;Haiti;"writer;literary critic;poet";French;;Q16029082;0000 0000 7990 2234;34700403
+AU21;Beaugé-Rosier;Jacqueline;female;jacqueline-beauge-rosier_14056;beauge-rosier;07/02/1932;Jérémie;Haiti;28/07/2016;Ottawa;Canada;Haiti;"poet;writer";French;;Q3157670;0000 0001 1438 1092;13423245
+AU22;Bélance;René;male;rene-belance_14058;belance;08/01/1915;Corail, Grand'Anse;Haiti;11/01/2004;Port-au-Prince;Haiti;Haiti;writer;French;;Q18575751;0000 0000 7988 2042;28549341
+AU23;Belin Biais;Maggy;female;;belin;08/04/1950;;;;;;;writer;;;Q79392218;0000 0004 6358 6520;2,22E+19
+AU24;Bellegarde;Louis Dantès;male;dantes-bellegarde_14059;bellegarde;18/05/1877;Port-au-Prince;Haiti;16/06/1966;Port-au-Prince;Haiti;Haiti;"historian;diplomat;politician";French;;Q3015752;0000 0000 2314 2651;46803770
+AU25;Bellerice;Jules Emmanuel;male;jules-emmanuel-bellerice_40586;;;;;;;;Haiti;writer;;;Q12892188;0000 0000 4515 3781;1845443
+AU26;Benjamin;Franz;male;franz-benjamin_7348;benjamin;01/01/1968;Port-au-Prince;Haiti;;;;"Canada;Haiti";writer;Canadian French;;Q12890785;0000 0000 7370 9273;69253640
+AU27;Berrouët-Oriol;Robert M.;male;robert-m-berrouet-oriol_49492;berrouet-oriol;;;;;;;"Haïti;Canada";researcher;Canadian French;;Q55217164;0000 0000 7390 2620;1624364
+AU28;Bertrand;Michel G.;male;;;;;;;;;France;writer;French;;Q3309004;;311603349
+AU29;Binette;Christie;female;christie-binette_40488;;1992;;;;;;Haïti;;;;;;
+AU30;Blaise;Mario;male;mario-blaise_3618;;1943;;;;;;;;;;;;100225976
+AU31;Bloncourt;Gérald;male;gerald-bloncourt_5362;bloncourt;04/11/1926;Bainet;Haiti;29/10/2018;Paris;France;Haiti;"photographer;painter;photojournalist";French;;Q3123601;0000 0001 1466 181X;2710821
+AU32;Bogart;Jeanie;female;jeanie-bogart_32106;bogart;;;;;;;;;;;Q55217166;;
+AU33;Bouchotte;Giscard;male;giscard-bouchotte_6939;;;;;;;;;;;;;;
+AU34;Bourjolly;Jean-Marie;male;jean-marie-bourjolly_14061;bourjolly;28/09/1947;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q12891871;0000 0000 7385 6062;31392194
+AU35;Brax;Jean-Pierre;male;;;04/02/1957;Port-au-Prince;Haiti;;;;"France;Haiti";writer;French;;Q16946633;0000 0003 7393 4931;33651270
+AU36;Brierre;Jean Fernand;male;jean-fernand-brierre_14062;brierre;23/09/1909;Jérémie;Haiti;01/12/1992;Port-au-Prince;Haiti;Haiti;"diplomat;poet;journalist;playwright;politician;historian";French;;Q3165387;0000 0000 2161 2461;59079637
+AU37;Brouard;Carl;male;carl-brouard_14063;brouard;05/12/1902;Port-au-Prince;Haiti;29/11/1965;Port-au-Prince;Haiti;Haiti;"journalist;poet;artist";French;;Q2938879;0000 0000 7359 6475;41837233
+AU38;Buriez;Emmanuel;male;emmanuel-buriez_37660;;01/01/1987;Delmas;Haiti;;;;France;"actor;film director";French;;Q39738159;;
+AU39;Calvin;Jean-Max;male;;calvin;01/06/1945;Port-au-Prince;Haiti;;;;Haiti;writer;;;Q16946629;0000 0000 4516 3146;1857513
+AU40;Camille;Roussan;male;;camille;27/08/1912;Jacmel;Haiti;07/12/1961;Port-au-Prince;Haiti;Haiti;"journalist;poet;diplomat";French;;Q953097;0000 0001 1769 5521;71523357
+AU41;Capécia;Mayotte;female;mayotte-capecia_14069;capecia;17/02/1916;Le Carbet;France;24/11/1955;Paris;France;France;writer;French;;Q18421742;0000 0000 3647 1091;62421697
+AU42;Caplife;Charles Edward;male;charles-edward-caplife_6256;;01/01/1960;Cap-Haïtien;Haiti;;;;"France;Haiti";writer;French;;Q12888836;0000 0000 0323 2908;32243099
+AU43;Carly;Frantz;male;frantz-carly_43366;;1974;;;;;;;;;;;;70131753
+AU44;Casséus;Maurice;male;maurice-casseus_14070;casseus;01/01/1902;Port-au-Prince;Haiti;01/01/1963;London;United Kingdom;Haiti;writer;French;;Q12894241;0000 0003 6628 2234;231662173
+AU45;Castera;Georges;male;georges-castera_8063;castera;27/12/1936;Port-au-Prince;Haiti;24/01/2020;Pétion-Ville;Haiti;Haiti;"writer;poet";French;;Q12890993;0000 0000 7361 1225;7456457
+AU46;Cavé;Syto;male;syto-cave_14124;cave;07/08/1944;Jérémie;Haiti;;;;Haiti;writer;French;;Q18642641;0000 0000 7418 5440;73399131
+AU47;Cazanove;Michele;female;;;;;;;;;;;;;;;19701838
+AU48;Célestin-Mégie;Emile;male;emile-celestin-megie_35088;;16/10/1922;Marigot, Sud-Est;Haiti;06/07/2018;;;Haiti;writer;French;;Q12890350;0000 0000 7829 4425;39386065
+AU49;Chalmers;Mehdi;male;mehdi-chalmers_39515;;;;;;;;;;;;;;1,92E+20
+AU50;Chancy;Myriam J.A.;female;;chancy;01/01/1970;;;;;;Canada;"poet;writer";;;Q18631149;;119158299
+AU51;Charles;Christophe Philippe;male;christophe-philippe-charles-christopheles_14073;charles_christophe;01/04/1951;Port-au-Prince;Haiti;;;;Haiti;"literary scholar;lyricist;journalist;publisher;poet";French;;Q5111758;0000 0000 8399 8398;91292494
+AU52;Charles;Fabian;male;fabian-charles_31432;;12/04/1968;Itapetinga;Brazil;;;;Brazil;"association football player;association football manager";;;Q2351691;;199365045
+AU53;Charles;Jean-Claude;male;jean-claude-charles_14074;charles_jean-claude;20/10/1949;Port-au-Prince;Haiti;07/05/2008;Paris;France;Haiti;writer;French;;Q12891856;0000 0000 7360 0761;57241477
+AU54;Charles;Jean Watson;male;jean-watson-charles_29801;;;;;;;;;;;;;;113848596
+AU55;Charles;Wébert;male;webert-charles_39867;;;;;;;;;;;;;;1,48E+21
+AU56;Chassagne;Raymond;male;raymond-chassagne_14075;chassagne;13/02/1924;Jérémie;Haiti;27/05/2013;Longueuil;Canada;Haiti;"writer;poet;university teacher";;;Q12896026;0000 0000 3564 7112;36959969
+AU57;Chavenet;Anaïse;female;anaise-chavenet_44780;;;;;;;;;;;;;;58368568
+AU58;Chenet;Gérard;male;gerard-chenet_16720;chenet;14/04/1927;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q11973505;0000 0000 4066 2683;29531822
+AU59;Chery;Romel;male;romel-chery_12826;;1954;;Haiti;;;;Canada;writer;French;;Q20562029;0000 0003 7445 6724;11892751
+AU60;Clitandre;Pierre;male;pierre-clitandre_14078;clitandre;20/03/1954;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q18555690;0000 0001 1452 2975;94470563
+AU61;Clorméus;Lewis Ampidu ;male;lewis-ampidu-clormeus_44901;;1981;;;;;;Haïti;researcher;French;;;0000 0004 1994 0721;305322777
+AU62;Cocks;Georges;male;;;23/04/1975;Saint-Martin;Guadeloupe;;;;France;"writer;poet;playwright";French;;Q3102491;0000 0004 6413 2782;
+AU63;Colimon Hall;Marie-Thérèse;female;marie-therese-colimon-hall_14080;colimon-hall;11/04/1918;Port-au-Prince;Haiti;01/01/1997;;;Haiti;"writer;actor";French;;Q3132299;0000 0000 7974 8986;49223557
+AU64;Constant;Marcien;male;marcien-constant_49446;;1956;;;;;;;;;;;;317018594
+AU65;Constant;Jean André;male;jean-andre-constant_14085;constant;01/01/1968;;;;;;Haiti;writer;;;Q12891886;0000 0000 4726 2607;66266233
+AU66;Constant;Joëlle;female;joelle-constant_49445;;;;;;;;;researcher;;0000-0002-3719-4609;Q91207438;;
+AU67;Dabel;Verly;male;verly-dabel_32108;dabel;01/01/1964;;;;;;Haiti;writer;;;Q18084484;0000 0000 6655 5755;92103925
+AU68;Dalembert;Louis-Philippe;male;louis-philippe-dalembert_5052;dalembert;08/12/1962;Port-au-Prince;Haiti;;;;Haiti;"novelist;poet;writer;short story writer;non-fiction writer";Haitian Creole;;Q1315386;0000 0001 2141 3304;80256725
+AU69;D'Amérique;Jean;male;jean-d-amerique_35672;amerique;01/12/1994;Côtes-de-Fer;Haiti;;;;Haiti;"poet;writer;slam poet";;;Q47087234;;2,42E+19
+AU70;Damus;Obrillant;male;obrillant-damus_49594;;;;;;;;Haiti;"researcher;writer";French;;;0000 0001 1883 0502;160745557
+AU71;Danticat;Edwidge;female;edwige-danticat_4217;danticat;19/01/1969;Port-au-Prince;Haiti;;;;"United States of America;Haiti";"writer;novelist;children's writer";English;;Q450346;0000 0001 1051 509X;32104515
+AU72;Davertige;Villard Denis;male;davertige_14086;davertige;02/12/1940;Port-au-Prince;Haiti;25/07/2004;Montreal;Canada;Haiti;"poet;painter";French;;Q7930927;0000 0000 7981 4795;3558664
+AU73;Depestre;René;male;rene-depestre_5711;depestre;29/08/1926;Jacmel;Haiti;;;;Haiti;"poet;writer;essayist";French;;Q59581;0000 0001 2283 0978;94345085
+AU74;Desinor;Nirvah;female;nirvah-desinor_39854;;;;;;;;Haiti;writer;;;;;
+AU75;Désir;Sophia;female;sophia-desir_39601;;01/01/1969;;;;;;Haiti;writer;;;Q18627792;0000 0001 3933 038X;107388714
+AU76;Desquiron;Lilas;female;;desquiron;01/01/1945;Port-au-Prince;Haiti;;;;Haiti;"novelist;ethnologist";French;;Q12893500;0000 0000 5434 0239;59122885
+AU77;Desrivières;Jean-Durosier;male;jean-durosier-desrivieres_24258;desrivieres;;;;;;;;;;;Q55217155;;
+AU78;Desroches;Jenner;male;jenner-desroches_49447;;01/01/1939;Cap-Haïtien;Haiti;;;;Canada;"researcher;writer";;;Q12891968;0000 0000 7378 373X;29183556
+AU79;Desrosiers;Joël;male;joel-des-rosiers_15170;desrosiers;26/10/1951;Les Cayes;Haiti;;;;Canada;"poet;writer";French;;Q3187394;0000 0001 1035 5006;2622758
+AU80;Desvignes;Luckner;male;luckner-desvignes_6659;;;;;;;;Haiti;writer;;;;;
+AU81;Dieurat;Clervoyant;male;clervoyant-dieurat_46356;;;;;;;;"Haiti;France";"researcher;writer";;;;0000 0000 9707 1307 ;143494271
+AU82;Dominique;Jan J.;female;jan-j-dominique_14090;dominique;25/01/1953;Port-au-Prince;Haiti;;;;Haiti;"writer;journalist";French;;Q16946539;0000 0000 7362 5678;50649908
+AU83;Dorsinville;Roger;male;roger-dorsinville_12269;dorsinville_roger;11/03/1911;Port-au-Prince;Haiti;12/01/1992;Port-au-Prince;Haiti;Haiti;"journalist;politician;diplomat;poet;playwright";French;;Q2990316;0000 0001 1084 7561;114358405
+AU84;Dorsinville;Max;male;max-dorsinville_32109;dorsinville_max;01/01/1943;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q18412231;0000 0001 0939 2889;118880958
+AU85;Dorvil;Richardson;male;richardson-dorvil_45358;;;;;;;;;;;;;;
+AU86;Dovilas;Anderson;male;anderson-dovilas_22813;dovilas;;;;;;;;;;;Q55217151;;
+AU87;Duckens;Charitable;male;duckens-charitable-duccha_22294;duccha;02/09/1982;;;;;;Haiti;writer;;;Q16946096;0000 0000 0509 2013;32325098
+AU88;Edouard;Willems;male;willems-edouard_49119;edouard;23/04/1965;Pétion-Ville;Haiti;;;;"Haiti;France";"poet;lawyer";;;Q55217158;0000 0000 3579 8260 ;270555161
+AU89;Elbadawi;Soeuf;male;;soeuf-elbadawi;29/05/1970;Moroni;Comoros;;;;Comoros;"writer;actor;director;journalist";French;;Q3488805;0000 0001 2098 2193;212561
+AU90;Estepha;Jean James;male;jean-james-estepha_45855;;;;;;;;;;;;;;
+AU91;Étienne;Gérard;male;gerard-etienne_14094;etienne;;;;;;;Haiti;"journalist;poet;linguist";French;;Q289255;;
+AU92;Eugène;Emmanuel;male;emmanuel-eugene_9072;ejen;02/07/1946;Guantánamo;Cuba;;;;Haiti;writer;Haitian Creole;;Q16946145;0000 0000 8009 0552;102436018
+AU93;Exavier;Marc;male;marc-exavier_32110;exavier;01/01/1950;;;;;;Haiti;writer;French;;Q18341492;0000 0000 3499 3849;14946444
+AU94;Fanini-Lemoin;Hervé;male;herve-fanini-lemoin_39597;;;;;;;;;;;;;;
+AU95;Felin;Guetty;female;guetty-felin_17710;;;Port-au-Prince;Haiti;;;;"United States of America;Haiti";"director;producer;scriptwriter";;;;;173890375
+AU96;Fenelon;Fortestson;male;fortestson-fenelon-lokandya_22420;;02/02/1982;Port-au-Prince;Haiti;;;;Haiti;"writer;poet;journalist";;;;;101027892
+AU97;Fièvre;Jessica;female;jessica-fievre_14101;fievre;29/04/1981;Port-au-Prince;Haiti;;;;Haiti;"writer;novelist";;;Q12891979;0000 0003 7487 0220;223773416
+AU98;Fignolé;Jean-Claude;male;jean-claude-fignole_4218;fignole;24/05/1941;Jérémie;Haiti;11/07/2017;Port-au-Prince;Haiti;Haiti;"writer;politician";French;;Q3164963;0000 0000 8132 4410;54164605
+AU99;Fleurant;Elie;male;elie-fleurant_49633;;;Cap-Haïtien;Haiti;;;;"United States of America;Haiti";"poet;writer";;;;0000 0000 3887 6711;56161776
+AU100;Florival;Jean;male;jean-florival_14368;;01/01/1930;;;;;;Haiti;journalist;French;;Q16946574;0000 0003 8247 1035;265511168
+AU101;Florvil;Haveson;male;haveson-florvil_29254;;31/05/1989;Ouanaminthe;Haiti;;;;Haiti;"entrepreneur;lecturer";;;Q96952677;;
+AU102;Fouad;André;male;andre-fouad_39579;;;;;;;;;;;;;;88476157
+AU103;Foucard Guignard;Mercedes;female;;deita;21/09/1935;Port-de-Paix;Haiti;29/12/2012;Pétion-Ville;Haiti;Haiti;writer;;;Q12889446;0000 0000 3357 4423;45914128
+AU104;Fouché;Franck;male;franck-fouche_49712;fouche;01/01/1915;;;01/01/1978;;;Haiti;writer;French-based creole languages;;Q12890741;0000 0000 7248 237X;41967110
+AU105;François;Yanick;male;yanick-francois_39630;;;;;;;;;;;;;;
+AU106;Frankétienne;Jean-Pierre Basilic Dantor;male;franketienne_4348;franketienne;12/04/1936;Ravine-Sèche;Haiti;;;;Haiti;"painter;poet;musician;singer;novelist;artist;writer;playwright;politician";French;;Q162778;"0000 0001 2099 3255; 0000 0003 6863 4926";15916887
+AU107;Franz;Émilie;female;;franz;;;;;;;Haiti;writer;;;Q16946141;;
+AU108;Frisch;Peter;male;peter-frisch_49122;;;;;;;;;;;;;;
+AU109;Gabriel;Winnie Hugot ;female;winnie-hugot-gabriel-duvil_44753;;;;;;;;;;;;;;5,38E+20
+AU110;Gaillard-Vanté;Geneviève;female;genevieve-gaillard-vante_14110;gaillard-vante;;Port-au-Prince;Haiti;;;;Haiti;writer;;;Q12890976;0000 0000 4708 8952;61320682
+AU111;Garoute;Jean-Claude;male;jean-claude-garoute-tiga_5773;;09/12/1935;Jérémie;Haiti;01/12/2006;Miami;United States of America;Haiti;"painter;sculptor;artist";French;;Q782156;0000 0001 1479 2086;103491485
+AU112;Gesner;Jean-Gilles;male;gesner-jean-gilles_40585;;;;;;;;;;;;;;
+AU113;Gousse;Edgard;male;edgard-gousse_40411;;;;;;;;Canada;;Canadian French;;Q55725389;0000 0000 7829 939X;72683298
+AU114;Guérin;Mona;female;mona-guerin_14114;guerin;09/10/1934;Port-au-Prince;Haiti;30/12/2011;;;Haiti;"journalist;poet";French;;Q12894528;0000 0000 2426 5127;14789597
+AU115;Heurtelou;Maude;female;maude-heurtelou_49688;;;;;;;;Haiti;writer;;;Q20559271;;
+AU116;Hilaire;Johnie;male;johnie-hilaire_46291;;;;;;;;;;;;;;
+AU117;Hill;Lawrence;male;lawrence-hill_31014;;24/01/1957;Newmarket;Canada;;;;Canada;"writer;novelist";Canadian English;;Q3828146;0000 0000 7367 3418;100308975
+AU118;Hurbon;Laënnec;male;laennec-hurbon_5247;;21/06/1940;Jacmel;Haiti;;;;Haiti;writer;French;;Q16946779;0000 0000 7359 180X;24602927
+AU119;Hyppolite;Joanne;female;joanne-hyppolite_42230;;;;;;;;Haiti;"writer;curator";;;Q16946660;;
+AU120;Jacquet;Jean Emmanuel;male;jean-emmanuel-jacquet_30929;jacquet;26/12/1981;Port-au-Prince;Haiti;;;;Haiti;director general;;;Q96198910;;
+AU121;Jean;Yanick;female;yanick-jean_14123;jean;01/01/1946;Port-au-Prince;Haiti;01/01/2000;;;Haiti;writer;;;Q3571564;0000 0000 7554 7028;106470707
+AU122;Jean;Maguy D.;male;maguy-d-jean_40383;;;;;;;;;;;;;;1,02E+19
+AU123;Jeanty;Constant;male;constant-jeanty_42531;;;;;;;;;;;;;;317017661
+AU124;Juste-Constant;Voegeli;male;voegeli-juste-constant_44231;;;;;;;;;;;;;;38528560
+AU125;Kauss;Saint-John;male;saint-john-kauss_32111;kauss;;;;;;;;;;;Q55217152;;
+AU126;Kénol;Henry;male;henry-kenol_38446;;;;;;;;;;;;;;160819922
+AU127;Kerns Fleurimond;Wiener;male;wiener-kerns-fleurimond_12584;;01/01/1958;;;;;;France;"journalist;writer";French;;Q12898302;0000 0001 0800 0839;49452017
+AU128;Klang;Gary;male;gary-klang_7412;klang;28/12/1941;Port-au-Prince;Haiti;;;;Haiti;"school teacher;playwright;poet";French;;Q3098578;0000 0000 7362 8019;56734287
+AU129;Labuchin;Rassoul;male;rassoul-labuchin_6422;labuchin;01/01/1974;;;;;;Haiti;film actor;;;Q12896004;;
+AU130;Laferrière;Dany;male;dany-laferriere_3366;laferriere;13/04/1953;Port-au-Prince;Haiti;;;;"Canada;Haiti";"writer;poet;novelist;screenwriter;journalist;film director";French;;Q1165217;0000 0001 2142 4759;87061403
+AU131;Lafortune;Fred Edson;male;fred-edson-lafortune_32114;lafortune;31/07/1982;Anse-à-Veau;Haiti;;;;Haiti;poet;;;Q3086821;;
+AU132;Laguerre;Alex;male;alex-laguerre_40412;;01/01/1967;;;;;;Haiti;writer;Haitian Creole;;Q12887205;0000 0000 5039 5160;4482572
+AU133;Lahens;Yanick;female;yanick-lahens_4107;lahens;22/12/1953;Port-au-Prince;Haiti;;;;Haiti;"radio personality;writer;short story writer";French;;Q2599418;0000 0001 0889 1002;37986271
+AU134;Laraque;Paul;male;paul-laraque_14131;laraque;21/09/1920;Jérémie;Haiti;08/03/2007;New York City;United States of America;Haiti;poet;;;Q3371635;0000 0001 1025 175X;39379555
+AU135;Large;Josaphat-Robert;male;josaphat-robert-large_14132;large;15/11/1942;Jérémie;Haiti;28/10/2017;New York City;United States of America;Haiti;"poet;novelist;art critic;writer";French;;Q531431;0000 0000 7829 7669;103807753
+AU136;Laroche;Marc Léo;male;marc-leo-laroche_14133;laroche;01/01/1940;;;;;;Haiti;"sociologist;writer";French;;Q18341665;0000 0000 7884 9523;86008488
+AU137;Laroche;Maximilien;male;maximilien-laroche_14026;laroche_maximilien;05/04/1937;Cap-Haïtien;Haiti;27/07/2017;Quebec City;Canada;"Haiti;Canada";"writer;university teacher;literary scholar";French;;Q18926023;0000 0001 0857 9289;61548154
+AU138;Lauture;Denizé;male;denize-lauture_14134;lauture;11/05/1946;;;;;;Haiti;writer;;;Q12889499;0000 0000 5453 9790;7235847
+AU139;Lavoie Aupont;Coutechève;male;coutecheve-lavoie-aupont_32104;aupont;16/10/1982;Mirebalais;Haiti;;;;Haiti;"writer;poet";;;Q55217112;;
+AU140;Leconte;Frantz-Antoine;male;frantz-antoine-leconte_20387;;01/01/1948;;;;;;Haiti;writer;French;;Q16946241;0000 0000 8412 2312;115232564
+AU141;Legagneur;Serge;male;serge-legagneur_14135;legagneur;10/01/1937;Jérémie;Haiti;30/06/2017;Montreal;Canada;Haiti;poet;French;;Q12897255;0000 0000 7363 3563;73978144
+AU142;Léger;Dimitri Elias;male;dimitri-elias-leger_45391;;;;;;;;;;;;;;
+AU143;Lemoine;Lucien;male;lucien-lemoine_5737;lemoine;01/01/1923;Haiti;Haiti;13/01/2010;Dakar;Senegal;"Haiti;Senegal";poet;;;Q26252366;0000 0000 2825 2745;14838039
+AU144;Léonidas;Jean-Robert;male;jean-robert-leonidas_14137;leonidas;11/06/1946;Jérémie;Haiti;;;;Haiti;physician writer;French;;Q3169950;0000 0001 0879 1247;23852925
+AU145;Lominy;J.M.;male;j-m-lominy_39539;;;;;;;;;;;;;;
+AU146;Lucas;Rafaël;male;rafael-lucas_20069;;;;;;;;;;;;;;
+AU147;Magloire;Nadine;female;nadine-magloire_32116;magloire_nadine;10/02/1932;Port-au-Prince;Haiti;;;;;novelist;;;Q47571408;;
+AU148;Magloire-Saint-Aude;Clément;male;clement-magloire-saint-aude_32117;magloire-saint-aude;01/01/1912;Port-au-Prince;Haiti;27/05/1971;Port-au-Prince;Haiti;Haiti;"writer;poet";French;;Q2980637;0000 0000 8019 241X;49347179
+AU149;Manigat Jr.;Angelucci;male;angelucci-manigat_14141;manigat;01/01/1963;Port-au-Prince;Haiti;;;;Haiti;writer;Haitian Creole;;Q12887389;;
+AU150;Mars;Kettly;female;kettly-mars_7317;mars;03/09/1958;Port-au-Prince;Haiti;;;;Haiti;"writer;poet";French;;Q3195618;0000 0000 8354 584X;7664185
+AU151;Martelly;Stéphane;female;stephane-martelly_6345;martelly;01/01/1974;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q18636498;0000 0000 7364 3817;17386405
+AU152;Mathieu;Marie-Soeurette;female;;mathieu;10/08/1949;Port-au-Prince;Haiti;;;;Canada;"poet;writer;novelist";French;;Q468040;0000 0001 1492 8510;65739650
+AU153;Mathurin;Rodolphe;male;rodolphe-mathurin-sonson-mathurin_40382;;09/12/1967;Port-au-Prince;Haiti;;;;Haiti;"novelist;teacher;short story writer";;;Q83521548;0000 0003 7142 7047;251038722
+AU154;Maurouard;Elvire;female;elvire-maurouard_5772;maurouard;01/01/1971;Jérémie;Haiti;;;;Haiti;writer;French;;Q12890330;0000 0001 1038 8115;12488209
+AU155;Merisier;Emilio;male;emilio-merisier_19581;;;;;;;;;;;;;;
+AU156;Métellus;Jean;male;jean-metellus_5240;metellus;30/04/1937;Jacmel;Haiti;04/01/2014;Bonneuil-sur-Marne;France;Haiti;"poet;essayist;novelist;neurologist;playwright";French;;Q3173661;0000 0001 1038 4448;12312423
+AU157;Michel;Emeline;female;emeline-michel_6661;;01/01/1967;Gonaïves;Haiti;;;;Haiti;"singer-songwriter;singer";;;Q5370358;0000 0000 7365 6386;44495833
+AU158;Michel;G. Bertrand;male;g-bertrand-michel_39804;;;Port-au-Prince;Haiti;;;;;"researcher;writer";;;;;133938850
+AU159;Milard;Martine;female;martine-milard_39817;;1978;;;;;;;;;;;;79225128
+AU160;Milcé;Jean-Euphèle;male;jean-euphele-milce_14143;milce;01/01/1969;;;;;;Haiti;"writer;poet;journalist";French;;Q12891863;0000 0001 2145 6507;101168619
+AU161;Moïse;Lenelle;female;lenelle-moise_39606;;01/01/1980;Port-au-Prince;Haiti;;;;"United States of America;Haiti";"poet;actor;playwright;writer";;;Q6522408;0000 0004 2337 5745;305856687
+AU162;Moïse;Serge H.;male;serge-h-moise_49711;;1942;;;;;;;;;;;;309817046
+AU163;Mondesir;Jean Billy;male;jean-billy-mondesir_38629;;1984;;;;;;;;;;;;8,15E+18
+AU164;Monnin;Michel;male;;monnin;01/01/1941;;;;;;Switzerland;writer;French;;Q6836494;0000 0000 2563 1213;71568689
+AU165;Morisseau;Roland;male;roland-morisseau_14145;morisseau_roland;22/09/1933;Port-au-Prince;Haiti;29/06/1995;Montreal;Canada;Haiti;writer;French;;Q12896340;0000 0001 1932 4695;13918227
+AU166;Morisseau-Leroy;Félix;male;felix-morisseau-leroy_14146;morisolewa;13/03/1912;Grand-Gosier;Haiti;05/09/1998;Miami;United States of America;Haiti;"writer;poet;playwright;journalist";French-based creole languages;;Q1363088;0000 0000 2738 8376;61549896
+AU167;Narcisse;J.-P. Richard;male;;narcisse;;;;;;;;;;;Q55217260;;
+AU168;Neptune;Miriam;female;miriam-neptune_14781;;;;;;;;;;;;;;
+AU169;Nerette;Leslie Gaëlle;female;leslie-gaelle-nerette_16703;;;;;;;;;;;;;;
+AU170;Noël;James;male;;noel;01/01/1978;Hinche;Haiti;;;;Haiti;"children's writer;actor;poet";French;;Q3161308;0000 0000 7851 2357;58863888
+AU171;Ollivier;Émile;male;;ollivier;11/02/1940;Port-au-Prince;Haiti;10/11/2002;Montreal;Canada;Haiti;writer;French;;Q286293;0000 0001 1030 5455;87423596
+AU172;Orcel;Makenzy;male;;orcel;18/09/1983;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q3280752;0000 0001 2145 7331;101540165
+AU173;Papillon;Iléus;male;;papillon_ileus;08/06/1984;Haiti;Haiti;;;;Haiti;"writer;poet;journalist";;;Q55217189;;308246796
+AU174;Papillon;Margaret;female;;papillon_margaret;14/11/1958;Port-au-Prince;Haiti;;;;Haiti;writer;French;;Q12894055;0000 0000 5160 1149;46871390
+AU175;Paret;Roland;male;;paret;01/01/1943;Cap-Haïtien;Haiti;;;;Haiti;film director;French;;Q18607375;0000 0000 7418 7999;77542865
+AU176;Pasquet;Jean-Marc;male;;pasquet_jean-marc;01/01/1959;;;;;;Switzerland;writer;French;;Q12891869;0000 0000 5622 2383;17339130
+AU177;Pasquet;Fabienne;female;;pasquet_fabienne;22/12/1954;Geneva;Switzerland;;;;France;"writer;actor;translator";French;;Q12890543;0000 0000 3197 2479;69067500
+AU178;Paul;Cauvin;male;;paul;03/03/1942;Port-de-Paix;Haiti;;;;Haiti;writer;Haitian Creole;;Q12888685;0000 0000 7364 2080;12482254
+AU179;Péan;Stanley;male;;pean;31/03/1966;Port-au-Prince;Haiti;;;;"Haiti;Canada";"writer;children's writer";French;;Q3496855;0000 0000 7361 3175;12423959
+AU180;Phelps;Anthony;male;;phelps;25/08/1928;Port-au-Prince;Haiti;;;;Haiti;"writer;playwright;poet";French;;Q2852916;0000 0001 1047 1891;27080479
+AU181;Philoctète;René;male;;philoctete;16/11/1932;Jérémie;Haiti;17/07/1995;Port-au-Prince;Haiti;Haiti;"journalist;poet;playwright";French;;Q3045950;0000 0001 1470 7590;36967735
+AU182;Pierre;Claude C.;male;;pierre_claude;28/02/1941;Corail, Grand'Anse;Haiti;24/06/2017;Canada;Canada;Haiti;poet;;;Q2977119;0000 0000 7363 1189;66592624
+AU183;Pierre-Dahomey;Néhémy;male;;pierre-dahomey;;;;;;;;;;;Q55217188;;
+AU184;Poujol Oriol;Paulette;female;;poujol-oriol;12/05/1926;Port-au-Prince;Haiti;11/03/2011;;;Haiti;actor;;;Q12895266;0000 0000 3286 5675;21358336
+AU185;Prophète;Emmelie;female;;prophete_emmelie;15/06/1971;Port-au-Prince;Haiti;;;;Haiti;"journalist;poet;writer";French;;Q3053007;0000 0001 2131 5552;47904412
+AU186;Régis;Guy;male;;regis;01/01/1974;Port-au-Prince;Haiti;;;;Haiti;"writer;director;playwright";French;;Q2396474;0000 0001 2207 5263;170304147
+AU187;Renaud;Alix;male;;renaud;30/08/1945;Port-au-Prince;Haiti;;;;Haiti;"journalist;poet;writer";French;;Q2837289;0000 0001 0899 0297;49327117
+AU188;Rey Charlier;Jacques;male;;charlier_jacques;04/05/1945;;;;;;;writer;;;Q79392504;;
+AU189;Rigaud Apollon;Marlène;female;marlene-rigaud-apollon_32103;apollon;01/01/1945;Cap-Haïtien;Haiti;;;;Haiti;"poet;writer";French;;Q12894134;0000 0000 4251 8351;4204233
+AU190;Roumain;Jacques;male;;roumain;04/06/1907;Port-au-Prince;Haiti;18/08/1944;Port-au-Prince;Haiti;"Haiti;Haiti";"writer;poet;journalist;politician";French;;Q1356852;0000 0001 2131 8446;49230970
+AU191;Roumer;Émile;male;;roumer;05/02/1903;Jérémie;Haiti;01/01/1988;Frankfurt am Main;Germany;Haiti;poet;;;Q3045906;0000 0000 6303 6802;264763430
+AU192;Roy Fombrun;Odette;female;;fombrun;13/06/1917;Port-au-Prince;Haiti;;;;Haiti;"children's writer;writer";French;;Q18528616;0000 0001 1591 126X;7411030
+AU193;Saint-Amand;Édris;male;;saint-amand;26/03/1918;Gonaïves;Haiti;01/01/2004;Port-au-Prince;Haiti;Haiti;"writer;trade unionist;diplomat";French;;Q3048259;0000 0001 1669 851X;71908885
+AU194;Saint-Éloi;Rodney;male;;saint-eloi;27/08/1963;Cavaellon;Haiti;;;;Haiti;"writer;poet;essayist";French;;Q3438235;0000 0001 2101 5701;56783467
+AU195;Saint-Louis Mentor;Ulysse ;male;ulysse-saint-louis-mentor_52497;;;;;;;;;;;;;;
+AU196;Sandino ;Alexandre Fednel;male;;;1978;;;;;;;;;;;;46304109
+AU197;Scott-Lemoine;Jacqueline;female;;scott;28/10/1923;Port-au-Prince;Haiti;09/07/2011;Dakar;Senegal;"Haiti;Senegal";"actor;writer";French;;Q26252340;0000 0000 4303 2759;19931184
+AU198;Sixto;Maurice;male;;sixto;23/05/1919;Gonaïves;Haiti;12/05/1984;Philadelphia;United States of America;Haiti;"pedagogue;writer;Lodyans";;;Q3301423;0000 0003 7442 9275;38119665
+AU199;Suprice;Lenous Guillaume;male;;suprice;;Fond des Blancs;Haiti;;;;"Haiti;Canada";"poet;writer";Haitian Creole;;Q55217215;;
+AU200;Suréna;Elsie;female;;surena;01/01/1956;Port-au-Prince;Haiti;;;;Haiti;"photographer;poet";;;Q12890326;0000 0001 1497 7646;122176630
+AU201;Tavernier;Janine;female;;tavernier;23/03/1935;Port-au-Prince;Haiti;27/02/2019;Tampa;United States of America;Haiti;"novelist;poet;university teacher";French;;Q3162015;0000 0000 7363 2739;71514411
+AU202;Théard;Marie-Alice;female;;theard;03/08/1948;Port-au-Prince;Haiti;;;;Haiti;"novelist;poet;writer";French;;Q12894088;0000 0000 3749 9854;14109213
+AU203;Thoby-Marcelin;Philippe;male;;thoby-marcelin;11/12/1904;Port-au-Prince;Haiti;13/08/1975;Syracuse;United States of America;Haiti;"journalist;poet;politician";French;;Q3380772;0000 0000 7858 0851;52485878
+AU204;Trouillot;Évelyne;female;;trouillot_evelyne;02/01/1954;Port-au-Prince;Haiti;;;;Haiti;"playwright;writer;children's writer;poet;essayist";French;;Q12890535;0000 0001 1461 5119;59220009
+AU205;Trouillot;Lyonel;male;;trouillot_lyonel;31/12/1956;Port-au-Prince;Haiti;;;;Haiti;"journalist;poet;novelist;writer";French;;Q637689;0000 0003 8321 3791;267680342
+AU206;Victor;Gary;male;;victor_gary;09/07/1958;Port-au-Prince;Haiti;;;;Haiti;"journalist;playwright;screenwriter;politician";French;;Q3098632;0000 0001 0866 2517;6109517
+AU207;Vieux Chauvet;Marie;female;;chauvet;16/09/1916;Port-au-Prince;Haiti;19/06/1973;New York City;United States of America;Haiti;"playwright;writer";French;;Q3292853;"0000 0003 6848 4104; 0000 0000 7994 9665";49367558
+AU208;Voltaire Marcelin;Michèle;female;;voltaire-marcelin;01/01/1955;Port-au-Prince;Haiti;;;;Haiti;writer;;;Q18461233;0000 0001 1454 3637;106569746
