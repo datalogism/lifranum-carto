@@ -1,0 +1,7 @@
+﻿champs;en;ht;fr;;;
+redirects;Number of redirects to this page;Nombre de redirections vers cette page;Nombre de redirections vers cette page;mw-pageinfo-header-basic;wikitable mw-page-info;mw-pageinfo-watchers
+nb_view_30;Page views in the past 30 days;Vues de la page dans les 30 derniers jours;Vues de la page dans les 30 derniers jours;mw-pageinfo-header-basic;wikitable mw-page-info;mw-pvi-month-count
+page_creator;Page creator;Créateur de la page;Créateur de la page;mw-pageinfo-header-edits;wikitable mw-page-info;mw-pageinfo-firstuser
+nb_edits;Total number of edits;Nombre total de modifications;Nombre total de modifications;mw-pageinfo-header-edits;;mw-pageinfo-edits
+creation_date;Date of page creation;Date de création de la page;Date de création de la page;mw-pageinfo-header-edits;;mw-pageinfo-firsttime
+last_modif_date;Date de la dernière modification;Date de la dernière modification;Date de la dernière modification;mw-pageinfo-header-edits;;mw-pageinfo-lasttime
